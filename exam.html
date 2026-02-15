@@ -1,0 +1,3640 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>醫師二階國考測驗系統 created and maintained by KMU BM112 陳君豪</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    
+    /* 新增：標題容器樣式 */
+    .header-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+    
+    .header-container h1 {
+      margin: 0;
+      flex-grow: 1;
+    }
+    
+    .author-info {
+      color: #666;
+      font-size: 14px;
+      margin: 0;
+      white-space: nowrap;
+    }
+    
+    .question-block {
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    .question-block h3 {
+      margin-top: 0;
+    }
+    .result {
+      margin-top: 30px;
+      font-weight: bold;
+      white-space: pre-wrap;
+    }
+    .explanation {
+      margin-top: 10px;
+      display: none;
+      color: #333;
+    }
+    .correct {
+      color: green;
+    }
+    .incorrect {
+      color: red;
+    }
+    .explanation.correct,
+    .explanation.incorrect {
+      color: #333 !important;
+    }
+    .result-correct {
+      color: green;
+      font-weight: bold;
+    }
+    .result-incorrect {
+      color: red;
+      font-weight: bold;
+    }
+    .checkbox-group {
+      margin: 10px 0;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+      display: inline-block;
+      vertical-align: top;
+      margin-right: 20px;
+    }
+    .checkbox-group label {
+      display: block;
+      margin: 5px 0;
+      cursor: pointer;
+    }
+    
+    /* 新增：增大 checkbox 大小 */
+    input[type="checkbox"] {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+      margin-right: 8px;
+      transform: scale(1.2);
+    }
+    
+    /* 新增：增大 radio button 大小 */
+    input[type="radio"] {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      margin-right: 8px;
+      transform: scale(1.2);
+    }
+    
+    .tag-selector {
+      margin-bottom: 20px;
+    }
+    #nextBtn, #earlySubmitBtn {
+      margin-top: 20px;
+      margin-right: 10px;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .submit-answer-btn {
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 15px;
+    }
+    .submit-answer-btn:hover {
+      background-color: #0056b3;
+    }
+    #nextBtn {
+      background-color: #28a745;
+      color: white;
+      border: 1px solid #28a745;
+    }
+    #nextBtn:hover {
+      background-color: #218838;
+    }
+    
+    #prevBtn {
+      background-color: #6c757d;
+      color: white;
+      border: 1px solid #6c757d;
+      margin-top: 20px;
+      margin-right: 10px;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    
+    #prevBtn:hover {
+      background-color: #545b62;
+    }
+    
+    select[multiple] {
+      height: 8em;
+      width: 200px;
+    }
+    .subject-count {
+      margin-left: 20px;
+      margin-top: 5px;
+      display: none;
+    }
+    .subject-count input {
+      width: 50px;
+      margin-left: 5px;
+    }
+    .question-tags {
+      display: inline-block;
+      margin-left: 10px;
+    }
+    .tag {
+      display: inline-block;
+      background-color: #007bff;
+      color: white;
+      padding: 2px 8px;
+      margin: 0 2px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: normal;
+    }
+    .tag.year {
+      background-color: #28a745;
+    }
+    .tag.subject {
+      background-color: #dc3545;
+    }
+    .progress-info {
+      background: #e9ecef;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+    
+    .hotkey-info {
+      font-size: 12px;
+      color: #666;
+      margin-top: 5px;
+      font-weight: normal;
+    }
+    
+    .step-mode-container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .step-mode-content {
+      width: 100%;
+      max-width: 800px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .step-mode .question-block {
+      margin-bottom: 0;
+    }
+    .step-mode .progress-info {
+      margin-bottom: 15px;
+      text-align: center;
+    }
+    .step-mode-controls {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .step-mode-controls button {
+      margin: 0 10px;
+      padding: 12px 24px;
+      font-size: 16px;
+    }
+    #earlySubmitBtn {
+      background-color: #ffc107;
+      color: #212529;
+      border: 1px solid #ffc107;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #earlySubmitBtn:hover {
+      background-color: #e0a800;
+    }
+    .hidden {
+      display: none !important;
+    }
+    .warning-message {
+      background-color: #fff3cd;
+      border: 1px solid #ffeaa7;
+      color: #856404;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      display: none;
+    }
+    css.warning-message {
+ background-color: #fff3cd;
+ border: 1px solid #ffeaa7;
+ color: #856404;
+ padding: 10px;
+ margin: 10px 0;
+ border-radius: 5px;
+ display: none;
+}
+
+/* 新增的三欄式布局樣式 */
+.selection-container {
+ display: flex;
+ gap: 15px;
+ align-items: flex-start;
+ margin: 20px 0;
+ flex-wrap: wrap;
+}
+
+/* 醫學(三)和醫學(四)大區塊樣式 */
+.medicine-block {
+ flex: 1;
+ min-width: 450px;
+ border: 2px solid #007bff;
+ border-radius: 10px;
+ padding: 10px;
+ background-color: #f9f9f9;
+}
+
+.medicine-block h2 {
+ margin-top: 0;
+ margin-bottom: 10px;
+ color: #007bff;
+ text-align: center;
+ padding-bottom: 8px;
+ border-bottom: 2px solid #007bff;
+}
+
+.medicine-block-content {
+ display: flex;
+ gap: 15px;
+ align-items: flex-start;
+}
+
+.year-section {
+ display: flex;
+ gap: 20px;
+}
+
+.subject-section {
+ display: flex;
+ gap: 20px;
+ align-items: flex-start;
+}
+
+/* 調整checkbox-group在新布局中的樣式 */
+.selection-container .checkbox-group {
+ margin: 0;
+ width: auto;
+ min-width: 180px;
+}
+
+.medicine-block-content .checkbox-group {
+ flex: 1;
+ margin: 0;
+ padding: 8px;
+ border: 1px solid #ddd;
+ border-radius: 5px;
+ background-color: #f9f9f9;
+}
+
+/* 產生題目按鈕樣式 */
+.generate-button {
+ padding: 20px 40px;
+ font-size: 18px;
+ font-weight: bold;
+ background-color: #28a745;
+ color: white;
+ border: none;
+ border-radius: 8px;
+ cursor: pointer;
+ margin-left: 20px;
+ align-self: flex-start;
+ margin-top: 30px;
+ transition: all 0.3s ease;
+ box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.generate-button:hover {
+ background-color: #218838;
+ transform: translateY(-2px);
+ box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.generate-button:active {
+ transform: translateY(0);
+ box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+ .selection-container {
+   flex-direction: column;
+ }
+ 
+ .year-section {
+   flex-direction: column;
+   gap: 10px;
+ }
+ 
+ .checkbox-group {
+   width: 100% !important;
+   margin-right: 0 !important;
+ }
+ 
+ .generate-button {
+   margin-left: 0;
+   margin-top: 20px;
+   align-self: center;
+   width: 200px;
+ }
+}
+
+/* 自定義確認對話框樣式 */
+.custom-confirm-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.custom-confirm-box {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.custom-confirm-message {
+  margin-bottom: 20px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.custom-confirm-buttons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.custom-confirm-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  min-width: 80px;
+}
+
+.custom-confirm-cancel {
+  background-color: #6c757d;
+  color: white;
+}
+
+.custom-confirm-ok {
+  background-color: #ffc107;
+  color: #212529;
+}
+
+.custom-confirm-cancel:hover {
+  background-color: #545b62;
+}
+
+.custom-confirm-ok:hover {
+  background-color: #e0a800;
+}
+
+    /* 視覺化選擇按鈕樣式 - 統一空心/實心效果 */
+    .visual-checkbox {
+      display: inline-block;
+      padding: 10px 16px;
+      margin: 4px;
+      background-color: transparent;
+      border: 2px solid #007bff;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      user-select: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: #007bff;
+      min-height: 20px;
+      box-sizing: border-box;
+    }
+
+    .visual-checkbox:hover {
+      border-color: #0056b3;
+      color: #0056b3;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 4px rgba(0,123,255,0.2);
+    }
+
+    /* 選中狀態 - 實心，確保文字清晰可見 */
+    .visual-checkbox.selected {
+      background-color: #007bff;
+      border-color: #007bff;
+      color: white;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+      text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    }
+
+    .visual-checkbox.selected:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+      color: white;
+    }
+
+    /* 隱藏原始checkbox */
+    .visual-checkbox input[type="checkbox"] {
+      display: none;
+    }
+
+    /* 確保題數輸入框在視覺按鈕內正常顯示 */
+    .visual-checkbox .subject-count {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(255,255,255,0.3);
+      font-size: 12px;
+    }
+
+    .visual-checkbox.selected .subject-count {
+      color: white;
+      border-top-color: rgba(255,255,255,0.5);
+    }
+
+    .visual-checkbox .subject-count input {
+      background-color: rgba(255,255,255,0.9);
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 2px 6px;
+      margin-left: 5px;
+      color: #333;
+      width: 50px;
+    }
+
+    .visual-checkbox.selected .subject-count input {
+      background-color: white;
+      border-color: #dee2e6;
+    }
+  
+    /* 新增：圖片容器樣式 */
+    .question-images {
+      margin: 15px 0;
+      text-align: left;
+    }
+    
+    .question-images img {
+      max-width: 300px;
+      max-height: 250px;
+      margin: 5px 10px 5px 0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
+    
+    .question-images img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    
+    /* 圖片放大顯示的覆蓋層 */
+    .image-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      cursor: pointer;
+    }
+    
+    .image-overlay img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 5px;
+      box-shadow: 0 4px 20px rgba(255,255,255,0.3);
+    }
+    
+    /* 響應式圖片設計 */
+    @media (max-width: 768px) {
+      .question-images img {
+        max-width: 250px;
+        max-height: 200px;
+      }
+    }
+
+    /* 错题切换按钮样式 */
+    .wrong-answers-toggle {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      transition: background-color 0.3s ease;
+    }
+
+    .wrong-answers-toggle:hover {
+      background-color: #c82333;
+    }
+
+    .wrong-answers-toggle.show-all {
+      background-color: #28a745;
+    }
+
+    .wrong-answers-toggle.show-all:hover {
+      background-color: #218838;
+    }
+
+    /* 错题显示状态下的样式 */
+    .question-result.hidden {
+      display: none !important;
+    }
+    /* 答題記錄管理樣式 */
+    .record-management {
+      background: #f8f9fa;
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px 0;
+    }
+    
+    .record-section {
+      margin-bottom: 15px;
+      padding: 15px;
+      background: white;
+      border-radius: 5px;
+      border: 1px solid #e9ecef;
+    }
+    
+    .record-section h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      color: #495057;
+    }
+    
+    .file-input-wrapper {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      margin-right: 10px;
+    }
+    
+    .file-input {
+      position: absolute;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+    
+    .file-input-btn {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .file-input-btn:hover {
+      background-color: #0056b3;
+    }
+    
+    .download-record-btn {
+      padding: 10px 20px;
+      font-size: 14px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      margin-right: 10px;
+    }
+    
+    .download-record-btn:hover {
+      background-color: #218838;
+    }
+    
+    .record-status {
+      margin-top: 10px;
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+    
+    .record-status.success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+    
+    .record-status.error {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+    
+    .record-status.info {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+    
+    .record-stats {
+      background: #e7f3ff;
+      border: 1px solid #b8daff;
+      border-radius: 5px;
+      padding: 10px;
+      margin-top: 10px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* 緊湊左右分割布局 */
+    .record-management {
+      display: flex;
+      gap: 15px;
+      margin: 15px 0;
+      padding: 15px;
+      background: #f8f9fa;
+      border: 1px solid #dee2e6;
+      border-radius: 6px;
+    }
+    
+    .record-section {
+      flex: 1;
+      min-width: 0; /* 防止 flex 項目溢出 */
+    }
+    
+    .record-section h3 {
+      margin: 0 0 10px 0;
+      font-size: 16px;
+      color: #495057;
+    }
+    
+    /* 檔案輸入區域 */
+    .file-input-wrapper {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      margin-bottom: 8px;
+    }
+    
+    .file-input {
+      position: absolute;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+    
+    .file-input-btn {
+      padding: 8px 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: background-color 0.3s ease;
+      min-width: 100px;
+    }
+    
+    .file-input-btn:hover {
+      background-color: #0056b3;
+    }
+    
+    /* 下載按鈕容器 */
+    .download-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    
+    /* 目前作答記錄按鈕 - 綠色 */
+    .current-record-btn {
+      padding: 8px 16px;
+      font-size: 13px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      white-space: nowrap;
+      min-width: 120px;
+      text-align: center;
+    }
+    
+    .current-record-btn:hover {
+      background-color: #218838;
+    }
+    
+    /* 歷史完整記錄按鈕 - 藍色 */
+    .history-record-btn {
+      padding: 8px 16px;
+      font-size: 13px;
+      background-color: #6c757d;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      white-space: nowrap;
+      min-width: 120px;
+      text-align: center;
+    }
+    
+    .history-record-btn:not(:disabled) {
+      background-color: #007bff;
+    }
+    
+    .history-record-btn:not(:disabled):hover {
+      background-color: #0056b3;
+    }
+    
+    .history-record-btn:disabled {
+      background-color: #6c757d;
+      cursor: not-allowed;
+      opacity: 0.7;
+    }
+    
+    /* 狀態提示 */
+    .record-status {
+      font-size: 12px;
+      padding: 6px 8px;
+      border-radius: 3px;
+      margin-top: 5px;
+    }
+    
+    .record-status.success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+    
+    .record-status.error {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+    
+    .record-status.info {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+    
+    /* 手機版優化 */
+    @media (max-width: 480px) {
+      .record-management {
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+      }
+      
+      .download-buttons {
+        flex-direction: row;
+        gap: 8px;
+      }
+      
+      .current-record-btn, .history-record-btn {
+        flex: 1;
+        min-width: 80px;
+        font-size: 12px;
+        padding: 6px 8px;
+      }
+    }
+  
+    /* 視覺化功能樣式 */
+    .visualization-btn {
+      padding: 8px 16px;
+      font-size: 13px;
+      background-color: #17a2b8;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      white-space: nowrap;
+      min-width: 120px;
+      text-align: center;
+    }
+    
+    .visualization-btn:hover {
+      background-color: #138496;
+      transform: translateY(-1px);
+    }
+    
+    .visualization-btn:disabled {
+      background-color: #6c757d;
+      cursor: not-allowed;
+      opacity: 0.7;
+    }
+
+    /* 視覺化彈出視窗樣式 */
+    .visualization-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 2000;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .visualization-content {
+      background: white;
+      border-radius: 12px;
+      width: 98%;
+      max-width: 1800px;
+      height: 90%;
+      max-height: 800px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    }
+
+    .visualization-header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+      position: relative;
+    }
+
+    .visualization-header h2 {
+      margin: 0;
+      font-size: 1.8em;
+      font-weight: 300;
+    }
+
+    .close-visualization {
+      position: absolute;
+      top: 15px;
+      right: 20px;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 24px;
+      cursor: pointer;
+      padding: 5px 10px;
+      border-radius: 50%;
+      transition: background-color 0.3s ease;
+    }
+
+    .close-visualization:hover {
+      background-color: rgba(255,255,255,0.2);
+    }
+
+    .visualization-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+      background-color: #f5f7fa;
+    }
+
+    .exam-section {
+      background: white;
+      border-radius: 12px;
+      margin-bottom: 25px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    .exam-header {
+      background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+      color: white;
+      padding: 15px 20px;
+      text-align: center;
+      font-size: 1.3em;
+      font-weight: 600;
+    }
+
+    .exam-header.medicine-2 {
+      background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%);
+    }
+
+    .year-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0;
+    }
+
+    .year-column {
+      border-right: 1px solid #e1e8ed;
+      min-height: 300px;
+    }
+
+    .year-column:last-child {
+      border-right: none;
+    }
+
+    .year-header {
+      background-color: #f8f9fa;
+      padding: 12px 15px;
+      text-align: center;
+      font-weight: 600;
+      color: #495057;
+      border-bottom: 2px solid #e1e8ed;
+      font-size: 0.95em;
+    }
+
+    .questions-container {
+      padding: 10px;
+      max-height: 500px;
+      overflow-y: auto;
+    }
+
+    .question-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 4px 8px;
+      margin-bottom: 2px;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      font-size: 0.85em;
+    }
+
+    .question-row:hover {
+      background-color: #f8f9fa;
+    }
+
+    .question-number {
+      font-weight: 500;
+      color: #495057;
+      min-width: 50px;
+      font-size: 0.8em;
+    }
+
+    .answer-history {
+      display: flex;
+      gap: 2px;
+      align-items: center;
+    }
+
+    .answer-symbol {
+      font-size: 1em;
+      line-height: 1;
+    }
+
+    .correct-symbol {
+      color: #28a745;
+    }
+
+    .incorrect-symbol {
+      color: #dc3545;
+    }
+
+    .empty-state {
+      text-align: center;
+      color: #6c757d;
+      font-style: italic;
+      padding: 50px 20px;
+    }
+
+
+
+    /* 響應式設計 */
+    @media (max-width: 1400px) {
+      .year-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    
+    @media (max-width: 1100px) {
+      .year-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+    
+    @media (max-width: 900px) {
+      .year-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .visualization-content {
+        width: 98%;
+        height: 95%;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .year-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .visualization-content {
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+      }
+      
+      .questions-container {
+        max-height: 350px;
+      }
+    }
+
+    /* 自訂滾動條 */
+    .questions-container::-webkit-scrollbar,
+    .visualization-body::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .questions-container::-webkit-scrollbar-track,
+    .visualization-body::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      border-radius: 3px;
+    }
+
+    .questions-container::-webkit-scrollbar-thumb,
+    .visualization-body::-webkit-scrollbar-thumb {
+      background: #c1c1c1;
+      border-radius: 3px;
+    }
+
+    .questions-container::-webkit-scrollbar-thumb:hover,
+    .visualization-body::-webkit-scrollbar-thumb:hover {
+      background: #a8a8a8;
+    }
+
+  
+    /* 瀏覽模式樣式 */
+    .question-result.browse-mode {
+      background: #f8f9fa;
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    
+    .question-result.browse-mode:nth-child(even) {
+      background: #ffffff;
+    }
+    
+    /* 瀏覽模式說明區塊 */
+    .browse-mode-info {
+      background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%);
+      border: 2px solid #81c784;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 20px 0;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    
+    .browse-mode-info h3 {
+      color: #2e7d32;
+      margin: 0 0 10px 0;
+      font-size: 1.2em;
+    }
+    
+    .browse-mode-info p {
+      color: #424242;
+      margin: 0;
+      font-size: 1em;
+    }
+
+    /* 首頁記錄管理區域樣式 */
+    .homepage-record-section {
+      background: #f8f9fa;
+      border: 1px solid #dee2e6;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px 0;
+      text-align: center;
+    }
+    
+    .homepage-record-section h3 {
+      margin: 0 0 15px 0;
+      color: #495057;
+      font-size: 18px;
+      font-weight: 600;
+    }
+    
+    .homepage-record-buttons {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 15px;
+      flex-wrap: wrap;
+    }
+    
+    .homepage-file-input-wrapper {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+    }
+    
+    .homepage-file-input {
+      position: absolute;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+    
+    .homepage-file-btn {
+      padding: 12px 24px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 160px;
+      justify-content: center;
+    }
+    
+    .homepage-file-btn:hover {
+      background-color: #0056b3;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 8px rgba(0,123,255,0.3);
+    }
+    
+    .homepage-visualization-btn {
+      padding: 12px 24px;
+      font-size: 16px;
+      font-weight: 500;
+      background-color: #17a2b8;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 160px;
+      justify-content: center;
+    }
+    
+    .homepage-visualization-btn:hover:not(:disabled) {
+      background-color: #138496;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 8px rgba(23,162,184,0.3);
+    }
+    
+    .homepage-visualization-btn:disabled {
+      background-color: #6c757d;
+      cursor: not-allowed;
+      opacity: 0.7;
+      transform: none;
+      box-shadow: none;
+    }
+    
+    .homepage-record-status {
+      font-size: 14px;
+      padding: 8px 12px;
+      border-radius: 4px;
+      margin-top: 5px;
+      display: inline-block;
+    }
+    
+    .homepage-record-status.success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+    
+    .homepage-record-status.error {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+    
+    .homepage-record-status.info {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+    
+    .homepage-divider {
+      height: 2px;
+      background: linear-gradient(to right, #dee2e6, #6c757d, #dee2e6);
+      margin: 25px 0;
+      border: none;
+    }
+    
+    /* 手機版優化 */
+    @media (max-width: 600px) {
+      .homepage-record-buttons {
+        flex-direction: column;
+        gap: 12px;
+      }
+      
+      .homepage-file-btn,
+      .homepage-visualization-btn {
+        width: 100%;
+        max-width: 200px;
+      }
+    /* 簡化的回饋表單樣式 */
+    .feedback-link {
+      display: inline-block;
+      text-align: center;
+      margin: 10px 0 5px 0;
+      font-size: 14px;
+    }
+    
+    .feedback-link a {
+      color: #007bff;
+      text-decoration: none;
+      padding: 2px 8px;
+      border-radius: 4px;
+      transition: background-color 0.2s ease;
+    }
+    
+    .feedback-link a:hover {
+      background-color: #f8f9fa;
+      text-decoration: underline;
+    }
+
+    }
+</style>
+</head>
+<body>
+  <div class="header-container" id="headerSection">
+    <h1>醫師二階國考測驗系統</h1>
+    <p class="author-info">created and maintained by KMU BM112 陳君豪</p>
+  </div>
+<div class="tag-selector" id="setupSection">
+
+  <!-- 首頁記錄檔管理區域 -->
+  <div class="homepage-record-section" id="homepageRecordSection">
+    <h3>📊 答題記錄管理</h3>
+    <div class="homepage-record-buttons">
+      <div class="homepage-file-input-wrapper">
+        <input type="file" accept=".json" class="homepage-file-input" onchange="loadHomepageRecord(this.files[0])">
+        <button class="homepage-file-btn">
+          📂 載入記錄檔
+        </button>
+      </div>
+      <button id="homepageVisualizationBtn" class="homepage-visualization-btn" onclick="openHomepageVisualization()" disabled>
+        📊 視覺化分析
+      </button>
+    </div>
+    <div class="homepage-record-status info" id="homepageRecordStatus">尚未載入記錄檔案</div>
+  </div>
+  <div class="feedback-link">
+    💬 <a href="https://forms.gle/XdYNQoRgq9PBRm658" target="_blank">系統回饋與建議</a>
+  </div>
+
+  
+  <hr class="homepage-divider">
+  <label>選擇模式：</label>
+    <select id="mode">
+      <option value="step">一題一題作答並顯示詳解</option>
+      <option value="all">全部作答後顯示詳解</option>
+      <option value="browse">瀏覽模式 - 直接查看題目與詳解</option>
+    </select>
+    <br><br>
+    <label>出題順序：</label>
+    <select id="questionOrder">
+      <option value="random">隨機順序</option>
+      <option value="sequential">照原始順序</option>
+    </select>
+    <br><br>
+    <!-- 修改後的選擇區域 - 醫學(三)和醫學(四)分別獨立 -->
+    <label>選擇年份和科目：</label>
+    <div class="selection-container">
+      <!-- 醫學(三)大區塊 -->
+      <div class="medicine-block">
+        <h2>醫學(三)</h2>
+        <div class="medicine-block-content">
+          <!-- 年份選擇 -->
+          <div class="checkbox-group">
+            <strong>選擇年份</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all3" onchange="handleSelectAll('year3')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-3">114-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-3">114-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-3">113-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-1-3">113-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-2-3">112-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-1-3">112-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-2-3">111-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-1-3">111-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-2-3">110-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-1-3">110-1</div><br>
+          </div>
+          
+          <!-- 科目選擇 -->
+          <div class="checkbox-group" id="medicine3-subjects">
+            <strong>選擇科目</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="medicine3-all" onchange="handleSelectAll('medicine3-subject')">全選</div>
+            <div class="subject-count" id="count-medicine3-all-subjects" style="display:none;">
+              總題數：<input type="number" value="80" min="1" max="200">
+            </div>
+            <br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="心臟內科" onchange="toggleSubjectCount(this, 'medicine3')">心臟內科<div class="subject-count" id="count-medicine3-心臟內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="胸腔內科" onchange="toggleSubjectCount(this, 'medicine3')">胸腔內科<div class="subject-count" id="count-medicine3-胸腔內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="腸胃內科" onchange="toggleSubjectCount(this, 'medicine3')">腸胃內科<div class="subject-count" id="count-medicine3-腸胃內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="肝膽內科" onchange="toggleSubjectCount(this, 'medicine3')">肝膽內科<div class="subject-count" id="count-medicine3-肝膽內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="新陳代謝科" onchange="toggleSubjectCount(this, 'medicine3')">新陳代謝科<div class="subject-count" id="count-medicine3-新陳代謝科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="腎臟內科" onchange="toggleSubjectCount(this, 'medicine3')">腎臟內科<div class="subject-count" id="count-medicine3-腎臟內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="感染科" onchange="toggleSubjectCount(this, 'medicine3')">感染科<div class="subject-count" id="count-medicine3-感染科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="風濕免疫科" onchange="toggleSubjectCount(this, 'medicine3')">風濕免疫科<div class="subject-count" id="count-medicine3-風濕免疫科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="血液科" onchange="toggleSubjectCount(this, 'medicine3')">血液科<div class="subject-count" id="count-medicine3-血液科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="腫瘤科" onchange="toggleSubjectCount(this, 'medicine3')">腫瘤科<div class="subject-count" id="count-medicine3-腫瘤科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="家醫科" onchange="toggleSubjectCount(this, 'medicine3')">家醫科<div class="subject-count" id="count-medicine3-家醫科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 醫學(四)大區塊 -->
+      <div class="medicine-block">
+        <h2>醫學(四)</h2>
+        <div class="medicine-block-content">
+          <!-- 年份選擇 -->
+          <div class="checkbox-group">
+            <strong>選擇年份</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all4" onchange="handleSelectAll('year4')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-4">114-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-4">114-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-4">113-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-1-4">113-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-2-4">112-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-1-4">112-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-2-4">111-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-1-4">111-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-2-4">110-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-1-4">110-1</div><br>
+          </div>
+          
+          <!-- 科目選擇 -->
+          <div class="checkbox-group" id="medicine4-subjects">
+            <strong>選擇科目</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="medicine4-all" onchange="handleSelectAll('medicine4-subject')">全選</div>
+            <div class="subject-count" id="count-medicine4-all-subjects" style="display:none;">
+              總題數：<input type="number" value="80" min="1" max="200">
+            </div>
+            <br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="小兒科" onchange="toggleSubjectCount(this, 'medicine4')">小兒科<div class="subject-count" id="count-medicine4-小兒科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="皮膚科" onchange="toggleSubjectCount(this, 'medicine4')">皮膚科<div class="subject-count" id="count-medicine4-皮膚科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="精神科" onchange="toggleSubjectCount(this, 'medicine4')">精神科<div class="subject-count" id="count-medicine4-精神科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="神經內科" onchange="toggleSubjectCount(this, 'medicine4')">神經內科<div class="subject-count" id="count-medicine4-神經內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 產生題目按鈕 -->
+      <button class="generate-button" onclick="startQuiz()">產生題目</button>
+    </div>
+  </div>
+
+  <!-- 步驟模式的進度顯示 -->
+  <div class="progress-info hidden" id="progressInfo">
+    <strong>進度：第 <span id="currentQuestionNum">1</span> 題 / 共 <span id="totalQuestions">0</span> 題</strong>
+    <div class="hotkey-info">快捷鍵：A↑、B←、C↓、D→ 、提交答案/下一題：空白鍵</div>
+  </div>
+
+  <div id="quiz"></div>
+  
+  <!-- 一般模式的提交按鈕 -->
+  <button id="submitBtn" onclick="submitQuiz()" class="hidden">提交測驗</button>
+  
+  <!-- 步驟模式的控制按鈕 -->
+  <div class="step-mode-controls hidden" id="stepControls">
+    <button id="prevBtn" onclick="prevQuestion()" style="display:none">回上題</button>
+    <button id="nextBtn" onclick="nextQuestion()" style="display:none">下一題</button>
+    <button id="earlySubmitBtn" onclick="earlySubmit()" style="display:none">提早交卷</button>
+  </div>
+  
+  <div class="result" id="result"></div>
+
+  <script>
+    // 答案比較函數 - 支援單選和多選
+    function isAnswerCorrect(userAnswer, correctAnswer) {
+      if (!userAnswer) return false;
+      
+      // 處理正確答案格式
+      let correctAnswers = [];
+      if (Array.isArray(correctAnswer)) {
+        correctAnswers = correctAnswer;
+      } else {
+        correctAnswers = [correctAnswer];
+      }
+      
+      // 檢查用戶答案是否在正確答案列表中
+      return correctAnswers.includes(userAnswer);
+    }
+
+    // 格式化正確答案顯示
+    function formatCorrectAnswer(answer, options) {
+      if (Array.isArray(answer)) {
+        return '\n' + answer.map(a => a + '. ' + options[a]).join('\n');
+      } else {
+        return '\n' + answer + '. ' + options[answer];
+      }
+    }
+
+    // 格式化用戶答案顯示
+    function formatUserAnswer(userAnswer, options) {
+      if (!userAnswer) return '\n未作答';
+      return '\n' + userAnswer + '. ' + options[userAnswer];
+    }
+
+    // 視覺化checkbox切換函數
+    function toggleVisualCheckbox(element) {
+      // 檢查點擊是否在輸入框上，如果是則不處理
+      if (event.target.tagName === 'INPUT' && event.target.type === 'number') {
+        return;
+      }
+      
+      const checkbox = element.querySelector('input[type="checkbox"]');
+      const isCurrentlyChecked = checkbox.checked;
+      
+      // 切換checkbox狀態
+      checkbox.checked = !isCurrentlyChecked;
+      
+      // 更新視覺樣式
+      updateSingleVisualStyle(element);
+      
+      // 觸發原有的onchange事件
+      if (checkbox.onchange) {
+        checkbox.onchange();
+      }
+      
+      // 處理特殊情況
+      const value = checkbox.value;
+      if (value === 'all3' || value === 'all4' || value === 'medicine3-all' || value === 'medicine4-all') {
+        setTimeout(() => updateVisualStyles(), 10);
+      } else if (subjectTags.includes(value)) {
+        // toggleSubjectCount函數已經在onchange中處理
+      }
+    }
+
+    // 更新單個按鈕的視覺樣式
+    function updateSingleVisualStyle(element) {
+      const checkbox = element.querySelector('input[type="checkbox"]');
+      if (checkbox.checked) {
+        element.classList.add('selected');
+      } else {
+        element.classList.remove('selected');
+      }
+    }
+
+    // 更新所有視覺樣式的輔助函數
+    function updateVisualStyles() {
+      document.querySelectorAll('.visual-checkbox').forEach(element => {
+        updateSingleVisualStyle(element);
+      });
+    }
+
+
+// 自定義確認對話框函數
+    function customConfirm(message) {
+      return new Promise((resolve) => {
+        // 創建對話框HTML
+        const overlay = document.createElement('div');
+        overlay.className = 'custom-confirm-overlay';
+        overlay.innerHTML = `
+          <div class="custom-confirm-box">
+            <div class="custom-confirm-message">${message}</div>
+            <div class="custom-confirm-buttons">
+              <button class="custom-confirm-btn custom-confirm-ok" onclick="handleConfirmResponse(true)">確定</button>
+              <button class="custom-confirm-btn custom-confirm-cancel" onclick="handleConfirmResponse(false)">取消</button>
+            </div>
+          </div>
+        `;
+        
+        // 添加到頁面
+        document.body.appendChild(overlay);
+        
+        // 全域變數來處理回應
+        window.confirmResolve = resolve;
+      });
+    }
+
+    // 處理確認對話框回應
+    function handleConfirmResponse(result) {
+      const overlay = document.querySelector('.custom-confirm-overlay');
+      if (overlay) {
+        overlay.remove();
+      }
+      if (window.confirmResolve) {
+        window.confirmResolve(result);
+        window.confirmResolve = null;
+      }
+    }
+    const questions = [
+      {
+        id: 1142201,
+        question: "1. 下列那一種細菌是兼性厭氧菌（facultative anaerobes）？",
+        options: {
+          A: "大腸桿菌（Escherichia coli）",
+          B: "結核桿菌（Mycobacteria tuberculosis）",
+          C: "破傷風桿菌（Clostridium tetani）",
+          D: "肉毒桿菌（Clostridium botulinum）"
+        },
+        answer: "A",
+        explanation: "解題關鍵是區分細菌的氧氣需求類型，兼性厭氧菌既能在有氧也能在無氧環境下生長。<br>(A) 正確，大腸桿菌（Escherichia coli）是典型的兼性厭氧菌，既能進行有氧呼吸也能進行發酵<br>(B) 錯誤，結核桿菌（Mycobacteria tuberculosis）是絕對需氧菌（obligate aerobe），需要氧氣才能生長<br>(C) 錯誤，破傷風桿菌（Clostridium tetani）是絕對厭氧菌（obligate anaerobe），氧氣對其有毒<br>(D) 錯誤，肉毒桿菌（Clostridium botulinum）是絕對厭氧菌，無法在有氧環境下生長",
+        tags: [
+          "114-2(二)",
+          "微生物"
+        ],
+        group_id: "group_4300"
+      },
+      {
+        id: 1142202,
+        question: "2. 大腸桿菌O157:H7常引起出血性腹瀉，H7的H指的是細菌的那一部分？",
+        options: {
+          A: "鞭毛（flagella）",
+          B: "脂多醣（lipopolysaccharide）",
+          C: "核心多醣（core polysaccharide）",
+          D: "莢膜（capsule）"
+        },
+        answer: "A",
+        explanation: "解題關鍵是了解細菌抗原命名系統，O代表體抗原，H代表鞭毛抗原。<br>(A) 正確，H7的H指的是鞭毛（flagella）抗原，7是特定的血清型編號<br>(B) 錯誤，脂多醣（lipopolysaccharide）對應的是O抗原，不是H抗原<br>(C) 錯誤，核心多醣（core polysaccharide）是脂多醣的組成部分，與H抗原無關<br>(D) 錯誤，莢膜（capsule）對應的是K抗原，不是H抗原",
+        tags: [
+          "114-2(二)",
+          "微生物"
+        ],
+        group_id: "group_4301"
+      },
+      {
+        id: 1142203,
+        question: "3. 關於鈎端螺旋體病（leptospirosis）之敘述，下列何者最不適當？",
+        options: {
+          A: "病原體是Leptospira interrogans，為絕對嗜氧菌（obligate aerobe），容易培養",
+          B: "雖具有主動穿透黏膜的能力，但不會透過性行為傳染",
+          C: "通常以doxycycline治療或預防",
+          D: "嚙齒類動物是主要的保菌宿主（reservoir），其帶菌的尿液會污染土壤"
+        },
+        answer: "A",
+        explanation: "解題關鍵是了解鈎端螺旋體的生物特性，特別是其氧氣需求和培養難易度。<br>(A) 錯誤，Leptospira interrogans確實是絕對嗜氧菌，但它不容易培養，需要特殊培養基且生長緩慢<br>(B) 正確，鈎端螺旋體雖能穿透黏膜，但主要通過接觸污染的水或土壤傳播，不經性行為傳染<br>(C) 正確，doxycycline確實是治療和預防鈎端螺旋體病的首選藥物<br>(D) 正確，嚙齒類動物是主要保菌宿主，其尿液污染環境是重要傳染源",
+        tags: [
+          "114-2(二)",
+          "微生物"
+        ],
+        group_id: "group_4302"
+      }
+  ];
+    let quiz = [];
+    let currentQuestion = 0;
+    let correct = 0;
+    let isStepMode = false;
+    let canUseSpacebar = false; // 控制是否可以使用空白鍵
+    let hasWarned = false; // 追蹤是否已經警告過未選擇選項
+    let showingWrongAnswersOnly = false;
+    let wrongQuestionIndices = [];
+    // 答題記錄相關變數
+    let userProgress = {
+      metadata: {
+        version: "1.0",
+        lastUpdated: null,
+        totalAttempted: 0
+      }
+    };  // 儲存每個題目ID對應的答題記錄陣列
+    let hasLoadedProgress = false;  // 是否已載入記錄
+    // 記錄檔更新相關變數
+    let loadedFileName = '';  // 載入的檔案名稱
+
+    // 載入答題記錄
+    function loadUserProgress(file) {
+      if (!file) return;
+      
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const loadedProgress = JSON.parse(e.target.result);
+          
+          // 驗證檔案格式
+          if (!loadedProgress.metadata) {
+            throw new Error("檔案格式不正確，缺少metadata");
+          }
+          
+          // 智慧合併策略：自動合併載入記錄和當前測驗結果
+          let mergedCount = 0;
+          let newCount = 0;
+          
+          Object.keys(loadedProgress).forEach(key => {
+            if (key !== 'metadata') {
+              const questionId = parseInt(key);
+              if (!isNaN(questionId) && Array.isArray(loadedProgress[key])) {
+                if (userProgress[questionId] && Array.isArray(userProgress[questionId])) {
+                  // 如果當前已有該題目的記錄，合併：舊記錄在前 + 當前結果在後
+                  const oldRecords = [...loadedProgress[key]];
+                  const currentRecords = [...userProgress[questionId]];
+                  userProgress[questionId] = [...oldRecords, ...currentRecords];
+                  mergedCount++;
+                } else {
+                  // 如果當前沒有該題目的記錄，直接使用載入的記錄
+                  userProgress[questionId] = [...loadedProgress[key]];
+                  newCount++;
+                }
+              }
+            }
+          });
+          
+          // 更新 metadata
+          if (!userProgress.metadata) {
+            userProgress.metadata = {
+              version: "1.0",
+              lastUpdated: null,
+              totalAttempted: 0
+            };
+          }
+          userProgress.metadata.version = loadedProgress.metadata.version || "1.0";
+          userProgress.metadata.lastUpdated = new Date().toISOString();
+          userProgress.metadata.totalAttempted = Object.keys(userProgress).filter(key => key !== 'metadata').length;
+          
+          hasLoadedProgress = true;
+          
+          // 記住檔案名稱（移除副檔名和可能的更新標記）
+          loadedFileName = file.name.replace(/\.json$/, '').replace(/_updated_[\d\-T]+$/, '');
+          
+          // 啟用歷史記錄下載按鈕
+          updateHistoryButtonState();
+          
+          // 顯示合併結果（簡化版本）
+          let statusMessage = `載入成功！`;
+          if (mergedCount > 0 || newCount > 0) {
+            statusMessage += ` 總計 ${Object.keys(userProgress).length - 1} 題記錄`;
+          }
+          
+          updateRecordStatus('success', statusMessage);
+          
+          // 更新視覺化按鈕狀態
+          setTimeout(() => {
+            updateVisualizationButtonState();
+          }, 100);
+          
+        } catch (error) {
+          console.error("載入檔案錯誤:", error);
+          updateRecordStatus('error', "檔案格式錯誤");
+          // 載入失敗時重置狀態
+          loadedFileName = '';
+          hasLoadedProgress = false;
+          updateHistoryButtonState();
+          
+          // 載入失敗時也要更新視覺化按鈕狀態
+          setTimeout(() => {
+            updateVisualizationButtonState();
+          }, 100);
+        }
+      };
+      
+      reader.readAsText(file);
+    }
+
+    // 更新記錄狀態顯示
+    function updateRecordStatus(type, message) {
+      const statusElement = document.getElementById('recordStatus');
+      if (statusElement) {
+        statusElement.textContent = message;
+        statusElement.className = `record-status ${type}`;
+      }
+    }
+
+    
+
+    // 記錄當前測驗結果
+    function recordCurrentTest() {
+      let recordedCount = 0;
+      
+      quiz.forEach((q, index) => {
+        // 只記錄實際作答的題目
+        if (!q.userAnswer) {
+          return; // 跳過未作答的題目
+        }
+        
+        // 確定答題結果
+        let result;
+        const optionCount = Object.keys(q.options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        if (isBonusQuestion) {
+          result = 1; // 送分題，有答就對
+        } else {
+          result = isAnswerCorrect(q.userAnswer, q.answer) ? 1 : 0; // 正確=1, 錯誤=0
+        }
+        
+        // 初始化該題目的記錄陣列（如果不存在）
+        if (!userProgress[q.id]) {
+          userProgress[q.id] = [];
+        }
+        
+        // 追加這次的答題結果到已存在的記錄陣列
+        userProgress[q.id].push(result);
+        recordedCount++;
+      });
+      
+      // 更新元數據
+      if (!userProgress.metadata) {
+        userProgress.metadata = {
+          version: "1.0",
+          lastUpdated: null,
+          totalAttempted: 0
+        };
+      }
+      userProgress.metadata.lastUpdated = new Date().toISOString();
+      userProgress.metadata.totalAttempted = Object.keys(userProgress).filter(key => key !== 'metadata').length;
+      
+      // 更新視覺化按鈕狀態
+      setTimeout(() => {
+        updateVisualizationButtonState();
+      }, 100);
+      
+      console.log(`已記錄 ${recordedCount} 題的答題結果`);
+    }
+
+    // 下載目前作答記錄
+    function downloadCurrentProgress() {
+      // 只下載當次測驗的記錄，不包含載入的歷史記錄
+      let currentTestProgress = {
+        metadata: {
+          version: "1.0",
+          lastUpdated: new Date().toISOString(),
+          totalAttempted: 0
+        }
+      };
+      
+      // 收集當次測驗的記錄
+      let currentTestCount = 0;
+      quiz.forEach(q => {
+        if (q.userAnswer) {
+          // 只收集當次作答的題目
+          const optionCount = Object.keys(q.options).length;
+          const isBonusQuestion = optionCount === 5;
+          let result;
+          
+          if (isBonusQuestion) {
+            result = 1; // 送分題，有答就對
+          } else {
+            result = isAnswerCorrect(q.userAnswer, q.answer) ? 1 : 0; // 正確=1, 錯誤=0
+          }
+          
+          currentTestProgress[q.id] = [result];
+          currentTestCount++;
+        }
+      });
+      
+      if (currentTestCount === 0) {
+        updateRecordStatus('error', '沒有目前作答記錄');
+        return;
+      }
+      
+      currentTestProgress.metadata.totalAttempted = currentTestCount;
+      
+      const dataStr = JSON.stringify(currentTestProgress, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      
+      const link = document.createElement('a');
+      link.href = url;
+      const timestamp = new Date().toISOString().slice(0, 19).replace(/:/g, '-');
+      link.download = `答題記錄_${timestamp}.json`;
+      link.click();
+      
+      URL.revokeObjectURL(url);
+      updateRecordStatus('success', `目前記錄已下載`);
+    }
+
+
+    // 歷史記錄下載按鈕狀態控制
+    function updateHistoryButtonState() {
+      const historyBtn = document.getElementById('historyRecordBtn');
+      
+      if (!historyBtn) return;
+      
+      if (!hasLoadedProgress || !loadedFileName) {
+        // 未載入記錄檔狀態
+        historyBtn.disabled = true;
+        historyBtn.style.backgroundColor = '#6c757d';
+        historyBtn.style.cursor = 'not-allowed';
+      } else {
+        // 已載入記錄檔狀態 - 可重複使用
+        historyBtn.disabled = false;
+        historyBtn.style.backgroundColor = '#007bff';
+        historyBtn.style.cursor = 'pointer';
+      }
+    }
+    
+    // 下載歷史完整記錄
+    function downloadHistoryProgress() {
+      if (!hasLoadedProgress || !loadedFileName) {
+        updateRecordStatus('error', '沒有歷史記錄檔');
+        return;
+      }
+      
+      const recordCount = Object.keys(userProgress).filter(key => key !== 'metadata').length;
+      
+      if (recordCount === 0) {
+        updateRecordStatus('error', '沒有歷史記錄');
+        return;
+      }
+      
+      // 下載完整的 userProgress（包含載入的歷史記錄 + 當前測驗結果）
+      const dataStr = JSON.stringify(userProgress, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      
+      const link = document.createElement('a');
+      link.href = url;
+      const timestamp = new Date().toISOString().slice(0, 19).replace(/:/g, '-');
+      link.download = `${loadedFileName}_updated_${timestamp}.json`;
+      link.click();
+      
+      URL.revokeObjectURL(url);
+      
+      updateRecordStatus('success', `歷史記錄已下載`);
+    }
+
+    // 取得題目的歷史記錄
+    function getQuestionHistory(questionId) {
+      return userProgress[questionId] || [];
+    }
+
+    // 計算題目的正確率
+    function calculateQuestionAccuracy(questionId) {
+      const attempts = getQuestionHistory(questionId);
+      if (attempts.length === 0) return null;
+      
+      const answeredAttempts = attempts.filter(result => result !== -1);
+      if (answeredAttempts.length === 0) return null;
+      
+      const correctAttempts = answeredAttempts.filter(result => result === 1);
+      return (correctAttempts.length / answeredAttempts.length) * 100;
+    }
+
+    // 定義已知的年份和科目標籤
+    const yearTags = ["114-2(一)", "114-1(一)", "113-2(一)", "113-1(一)", "112-2(一)", "112-1(一)", "111-2(一)", "111-1(一)", "110-2(一)", "110-1(一)", "109-2(一)", "109-1(一)", "108-2(一)", "108-1(一)", "107-2(一)", "107-1(一)", "106-2(一)", "106-1(一)", "105-2(一)", "105-1(一)", "104-2(一)", "104-1(一)", "114-2(二)", "114-1(二)", "113-2(二)", "113-1(二)", "112-2(二)", "112-1(二)", "111-2(二)", "111-1(二)", "110-2(二)", "110-1(二)", "109-2(二)", "109-1(二)", "108-2(二)", "108-1(二)", "107-2(二)", "107-1(二)", "106-2(二)", "106-1(二)", "105-2(二)", "105-1(二)", "104-2(二)", "104-1(二)"];
+    const subjectTags = ["心臟內科", "胸腔內科", "腸胃內科", "肝膽內科", "新陳代謝科", "腎臟內科", "感染科", "風濕免疫科", "血液科", "腫瘤科", "家醫科", "小兒科", "皮膚科", "精神科", "神經內科"];
+
+    // 添加鍵盤事件監聽器
+    document.addEventListener('keydown', function(event) {
+      // 只在步驟模式下啟用鍵盤功能
+      if (!isStepMode || !canUseSpacebar) return;
+      
+      if (event.code === 'Space' || event.key === ' ') {
+        event.preventDefault(); // 防止頁面滾動
+        
+        // 檢查當前狀態
+        const submitBtn = document.getElementById(`submitAnswerBtn${currentQuestion}`);
+        const nextBtn = document.getElementById('nextBtn');
+        
+        if (submitBtn && submitBtn.style.display !== 'none') {
+          // 如果提交答案按鈕可見，按空白鍵等同於提交答案
+          checkStep(currentQuestion);
+        } else if (nextBtn && nextBtn.style.display !== 'none') {
+          // 如果下一題按鈕可見，按空白鍵等同於下一題
+          nextQuestion();
+        }
+      }
+      
+      // 新增：Backspace 鍵回上題
+      if (event.code === 'Backspace' || event.key === 'Backspace') {
+        event.preventDefault(); // 防止瀏覽器後退
+        const prevBtn = document.getElementById('prevBtn');
+        if (prevBtn && prevBtn.style.display !== 'none') {
+          prevQuestion();
+        }
+      }
+      
+      // 方向鍵選擇選項（只在尚未提交答案時有效）
+      const submitBtn = document.getElementById(`submitAnswerBtn${currentQuestion}`);
+      if (submitBtn && submitBtn.style.display !== 'none') {
+        let optionToSelect = null;
+        
+        switch(event.code) {
+          case 'ArrowUp':
+            optionToSelect = 'A';
+            break;
+          case 'ArrowLeft':
+            optionToSelect = 'B';
+            break;
+          case 'ArrowDown':
+            optionToSelect = 'C';
+            break;
+          case 'ArrowRight':
+            optionToSelect = 'D';
+            break;
+        }
+        
+        if (optionToSelect) {
+          event.preventDefault(); // 防止頁面滾動
+          const radio = document.querySelector(`input[name='q${currentQuestion}'][value='${optionToSelect}']`);
+          if (radio) {
+            radio.checked = true;
+          }
+        }
+      }
+    });
+
+    function selectQuestionsByGroup(questions, targetCount) {
+      // 按 group_id 分組
+      const groupMap = new Map();
+      
+      questions.forEach(q => {
+        const groupId = q.group_id || `single_${q.question}`; // 沒有 group_id 的視為單獨一組
+        if (!groupMap.has(groupId)) {
+          groupMap.set(groupId, []);
+        }
+        groupMap.get(groupId).push(q);
+      });
+      
+      // 將分組轉換為陣列並隨機排序
+      const groups = Array.from(groupMap.values());
+      const shuffledGroups = groups.sort(() => Math.random() - 0.5);
+      
+      // 依序加入題目直到達到目標數量
+      let selectedQuestions = [];
+      let currentCount = 0;
+      
+      for (const group of shuffledGroups) {
+        if (currentCount + group.length <= targetCount) {
+          // 整組加入
+          selectedQuestions = selectedQuestions.concat(group);
+          currentCount += group.length;
+        } else if (currentCount < targetCount) {
+          // 檢查剩餘空間是否足夠容納完整的組
+          const remainingSpace = targetCount - currentCount;
+          if (group.length <= remainingSpace) {
+            selectedQuestions = selectedQuestions.concat(group);
+            currentCount += group.length;
+          }
+          // 如果當前組無法完整放入，就跳過這組
+        }
+        
+        if (currentCount >= targetCount) {
+          break;
+        }
+      }
+      
+      // 如果還沒達到目標數量，移除最後只有1題的組直到符合要求
+      while (selectedQuestions.length > targetCount) {
+        // 找出最後面只有1題的組並移除
+        const groupCounts = new Map();
+        selectedQuestions.forEach(q => {
+          const groupId = q.group_id || `single_${q.question}`;
+          groupCounts.set(groupId, (groupCounts.get(groupId) || 0) + 1);
+        });
+        
+        let removedSingle = false;
+        for (let i = selectedQuestions.length - 1; i >= 0; i--) {
+          const q = selectedQuestions[i];
+          const groupId = q.group_id || `single_${q.question}`;
+          if (groupCounts.get(groupId) === 1) {
+            selectedQuestions.splice(i, 1);
+            removedSingle = true;
+            break;
+          }
+        }
+        
+        if (!removedSingle) {
+          // 如果沒有單題可移除，就移除最後一組
+          const lastGroupId = selectedQuestions[selectedQuestions.length - 1].group_id || `single_${selectedQuestions[selectedQuestions.length - 1].question}`;
+          selectedQuestions = selectedQuestions.filter(q => 
+            (q.group_id || `single_${q.question}`) !== lastGroupId
+          );
+        }
+      }
+      
+      return selectedQuestions;
+    }
+
+    function groupQuestionsByGroupId(questions, keepOriginalOrder = false) {
+      // 按 group_id 分組
+      const groupMap = new Map();
+      
+      questions.forEach(q => {
+        const groupId = q.group_id || `single_${q.question}`;
+        if (!groupMap.has(groupId)) {
+          groupMap.set(groupId, []);
+        }
+        groupMap.get(groupId).push(q);
+      });
+      
+      // 將各組題目連接起來，確保同組題目連續
+      let result = [];
+      const groups = Array.from(groupMap.values());
+      
+      let finalGroups;
+      if (keepOriginalOrder) {
+        // 保持原始順序：按照每組第一個題目在原始questions陣列中的位置排序
+        finalGroups = groups.sort((groupA, groupB) => {
+          const firstQuestionA = groupA[0];
+          const firstQuestionB = groupB[0];
+          const indexA = questions.findIndex(q => q.question === firstQuestionA.question);
+          const indexB = questions.findIndex(q => q.question === firstQuestionB.question);
+          return indexA - indexB;
+        });
+      } else {
+        // 隨機排列各組的順序
+        finalGroups = groups.sort(() => Math.random() - 0.5);
+      }
+      
+      // 將各組依序加入，保持組內題目連續
+      finalGroups.forEach(group => {
+        result = result.concat(group);
+      });
+      
+      return result;
+    }
+     
+    function getSelectedValues(selectId) {
+  let values = [];
+  if (selectId === 'yearTag') {
+    // 從兩個 medicine-block 中分別取得年份選擇
+    const allCheckboxes = document.querySelectorAll('.medicine-block .checkbox-group input[type="checkbox"]:checked');
+    values = Array.from(allCheckboxes)
+      .map(cb => cb.value)
+      .filter(v => v !== 'all3' && v !== 'all4' && v !== 'medicine3-all' && v !== 'medicine4-all' && v.includes('-'));
+  } else {
+    const checkboxes = document.querySelectorAll(`#${selectId} input[type="checkbox"]:checked`);
+    values = Array.from(checkboxes).map(cb => cb.value).filter(v => v !== 'all');
+  }
+  return values.length > 0 ? values : [];
+}
+
+    function handleSelectAll(type) {
+  if (type === 'year3') {
+    // 找到醫學(三)區塊中的年份全選
+    const medicine3Block = document.querySelectorAll('.medicine-block')[0]; // 第一個 medicine-block
+    const allCheckbox = medicine3Block.querySelector('input[value="all3"]');
+    const otherCheckboxes = medicine3Block.querySelectorAll('.checkbox-group input[type="checkbox"]:not([value="all3"])');
+    
+    // 只選擇年份相關的 checkbox（排除科目）
+    const yearCheckboxes = Array.from(otherCheckboxes).filter(cb => cb.value.includes('-3'));
+    
+    if (allCheckbox.checked) {
+      yearCheckboxes.forEach(cb => cb.checked = true);
+    } else {
+      yearCheckboxes.forEach(cb => cb.checked = false);
+    }
+  } else if (type === 'year4') {
+    // 找到醫學(四)區塊中的年份全選
+    const medicine4Block = document.querySelectorAll('.medicine-block')[1]; // 第二個 medicine-block
+    const allCheckbox = medicine4Block.querySelector('input[value="all4"]');
+    const otherCheckboxes = medicine4Block.querySelectorAll('.checkbox-group input[type="checkbox"]:not([value="all4"])');
+    
+    // 只選擇年份相關的 checkbox（排除科目）
+    const yearCheckboxes = Array.from(otherCheckboxes).filter(cb => cb.value.includes('-4'));
+    
+    if (allCheckbox.checked) {
+      yearCheckboxes.forEach(cb => cb.checked = true);
+    } else {
+      yearCheckboxes.forEach(cb => cb.checked = false);
+    }
+  } else if (type === 'medicine3-subject') {
+    const medicine3Block = document.querySelectorAll('.medicine-block')[0];
+    const allCheckbox = medicine3Block.querySelector('input[value="medicine3-all"]');
+    const subjectCheckboxes = medicine3Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine3-all"])');
+    const allSubjectsCount = document.getElementById('count-medicine3-all-subjects');
+    
+    if (allCheckbox.checked) {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = true;
+        const countDiv = document.getElementById(`count-medicine3-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'block';
+    } else {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = false;
+        const countDiv = document.getElementById(`count-medicine3-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'none';
+    }
+  } else if (type === 'medicine4-subject') {
+    const medicine4Block = document.querySelectorAll('.medicine-block')[1];
+    const allCheckbox = medicine4Block.querySelector('input[value="medicine4-all"]');
+    const subjectCheckboxes = medicine4Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine4-all"])');
+    const allSubjectsCount = document.getElementById('count-medicine4-all-subjects');
+    
+    if (allCheckbox.checked) {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = true;
+        const countDiv = document.getElementById(`count-medicine4-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'block';
+    } else {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = false;
+        const countDiv = document.getElementById(`count-medicine4-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'none';
+    }
+  }
+}
+
+    function toggleSubjectCount(checkbox, medicineType) {
+      const subject = checkbox.value;
+      const countDiv = document.getElementById(`count-${medicineType}-${subject}`);
+      const allCheckbox = document.querySelector(`#${medicineType}-subjects input[value="${medicineType}-all"]`);
+      const allSubjectsCount = document.getElementById(`count-${medicineType}-all-subjects`);
+      
+      if (checkbox.checked) {
+        // 如果不是全選狀態，顯示個別題數輸入框
+        if (!allCheckbox.checked) {
+          countDiv.style.display = 'block';
+        }
+      } else {
+        countDiv.style.display = 'none';
+        // 取消全選狀態
+        allCheckbox.checked = false;
+        allSubjectsCount.style.display = 'none';
+      }
+      
+      // 檢查是否需要更新全選狀態
+      updateAllSelectStatus(medicineType + '-subject');
+    }
+
+    function selectMockExam(checkbox, type) {
+ if (checkbox.checked) {
+   if (type === '一') {
+     // 選擇醫師(一)科目並設定題數
+     const subjects = [
+       {name: '解剖', count: 31},
+       {name: '胚胎', count: 5},
+       {name: '組織', count: 10},
+       {name: '生理', count: 27},
+       {name: '生化', count: 27}
+     ];
+     subjects.forEach(subject => {
+       const subjectCheckbox = document.querySelector(`input[value="${subject.name}"]`);
+       const countInput = document.querySelector(`#count-${subject.name} input`);
+       if (subjectCheckbox) {
+         subjectCheckbox.checked = true;
+         document.getElementById(`count-${subject.name}`).style.display = 'block';
+         if (countInput) countInput.value = subject.count;
+       }
+     });
+   } else if (type === '二') {
+     // 選擇醫師(二)科目並設定題數
+     const subjects = [
+       {name: '微生物', count: 17},
+       {name: '免疫', count: 11},
+       {name: '寄生蟲', count: 7},
+       {name: '公衛', count: 15},
+       {name: '藥理', count: 25},
+       {name: '病理', count: 25}
+     ];
+     subjects.forEach(subject => {
+       const subjectCheckbox = document.querySelector(`input[value="${subject.name}"]`);
+       const countInput = document.querySelector(`#count-${subject.name} input`);
+       if (subjectCheckbox) {
+         subjectCheckbox.checked = true;
+         document.getElementById(`count-${subject.name}`).style.display = 'block';
+         if (countInput) countInput.value = subject.count;
+       }
+     });
+   }
+ }
+ // 移除了 else 區塊中的取消勾選邏輯
+}
+
+    function updateAllSelectStatus(type) {
+      if (type === 'medicine3-subject') {
+        const medicine3Block = document.querySelectorAll('.medicine-block')[0];
+        const allCheckbox = medicine3Block.querySelector('input[value="medicine3-all"]');
+        const otherCheckboxes = medicine3Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine3-all"])');
+        const checkedCount = Array.from(otherCheckboxes).filter(cb => cb.checked).length;
+        
+        if (checkedCount === otherCheckboxes.length && checkedCount > 0) {
+          // 不自動切換到全選模式，保持個別設定模式
+        } else if (checkedCount === 0) {
+          allCheckbox.checked = false;
+          document.getElementById('count-medicine3-all-subjects').style.display = 'none';
+        }
+      } else if (type === 'medicine4-subject') {
+        const medicine4Block = document.querySelectorAll('.medicine-block')[1];
+        const allCheckbox = medicine4Block.querySelector('input[value="medicine4-all"]');
+        const otherCheckboxes = medicine4Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine4-all"])');
+        const checkedCount = Array.from(otherCheckboxes).filter(cb => cb.checked).length;
+        
+        if (checkedCount === otherCheckboxes.length && checkedCount > 0) {
+          // 不自動切換到全選模式，保持個別設定模式
+        } else if (checkedCount === 0) {
+          allCheckbox.checked = false;
+          document.getElementById('count-medicine4-all-subjects').style.display = 'none';
+        }
+      } else {
+        const groupId = 'yearTag';
+        const allCheckbox = document.querySelector(`#${groupId} input[value="all"]`);
+        const otherCheckboxes = document.querySelectorAll(`#${groupId} input[type="checkbox"]:not([value="all"])`);
+        const checkedCount = Array.from(otherCheckboxes).filter(cb => cb.checked).length;
+        
+        allCheckbox.checked = checkedCount === otherCheckboxes.length;
+      }
+    }
+
+    function formatTags(tags) {
+      return tags.map(tag => {
+        const isYear = yearTags.includes(tag);
+        const tagClass = isYear ? 'tag year' : 'tag subject';
+        return `<span class="${tagClass}">${tag}</span>`;
+      }).join(' ');
+    }
+
+    async function startQuiz() {
+  // 隱藏首頁記錄區域
+  const homepageSection = document.getElementById('homepageRecordSection');
+  if (homepageSection) {
+    homepageSection.style.display = 'none';
+  }
+  
+  const selectedYears = getSelectedValues('yearTag');
+  
+  // 分別獲取醫學(三)和醫學(四)的科目選擇
+  const medicine3Subjects = getSelectedSubjects('medicine3');
+  const medicine4Subjects = getSelectedSubjects('medicine4');
+  
+  if (selectedYears.length === 0) {
+    alert('請至少選擇一個年份');
+    return;
+  }
+  
+  if (medicine3Subjects.subjects.length === 0 && medicine4Subjects.subjects.length === 0) {
+    alert('請至少選擇一個科目');
+    return;
+  }
+
+  // 從外部檔案載入題目
+  let allLoadedQuestions = [];
+
+  console.log('=== 開始載入題目 ===');
+  console.log('選擇的年份：', selectedYears);
+
+  for (const yearValue of selectedYears) {
+    const filename = `./exam/${yearValue}.json`;
+    
+    console.log(`嘗試載入檔案：${filename}`);
+    
+    try {
+      const response = await fetch(filename);
+      
+      console.log(`${filename} - 回應狀態：${response.status} ${response.statusText}`);
+      
+      if (!response.ok) {
+        console.error(`❌ 無法載入檔案：${filename} (HTTP ${response.status})`);
+        continue;
+      }
+      
+      const text = await response.text();
+      console.log(`✓ ${filename} 載入成功，長度：${text.length} 字元`);
+      
+      const questionsData = JSON.parse(text);
+      console.log(`✓ ${filename} 解析成功，題數：${questionsData.length} 題`);
+      
+      // 為每題添加年份標籤
+      const yearMatch = yearValue.match(/(\d{3}-\d)/);
+      const yearLabel = yearMatch ? yearMatch[1] : yearValue;
+      questionsData.forEach(q => {
+        if (!q.tags) q.tags = [];
+        q.tags.push(yearLabel);
+      });
+      
+      allLoadedQuestions.push(...questionsData);
+    } catch (error) {
+      console.error(`❌ 載入 ${filename} 時發生錯誤：`, error);
+    }
+  }
+
+  console.log(`=== 載入完成，總共 ${allLoadedQuestions.length} 題 ===`);
+
+  if (allLoadedQuestions.length === 0) {
+    alert('無法載入題目，請檢查檔案是否存在');
+    return;
+  }
+
+  // 處理題目篩選
+  let finalQuiz = [];
+  let insufficientSubjects = [];
+  
+  // 處理醫學(三)
+  if (medicine3Subjects.subjects.length > 0) {
+    if (medicine3Subjects.isAllSelected) {
+      const totalCount = medicine3Subjects.totalCount;
+      const filteredQuestions = allLoadedQuestions.filter(q => 
+        medicine3Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
+      );
+      
+      if (filteredQuestions.length < totalCount) {
+        const confirmUseAll = await customConfirm(`醫學(三) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
+        if (!confirmUseAll) return;
+        finalQuiz = finalQuiz.concat(filteredQuestions);
+      } else {
+        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+      }
+    } else {
+      // 個別科目模式
+      for (const subjectInfo of medicine3Subjects.subjectCounts) {
+        const subjectQuestions = allLoadedQuestions.filter(q => 
+          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+        );
+        
+        if (subjectQuestions.length === 0) {
+          insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
+        } else if (subjectQuestions.length < subjectInfo.count) {
+          insufficientSubjects.push(`${subjectInfo.subject}：${subjectQuestions.length} 題（要求 ${subjectInfo.count} 題）`);
+        }
+      }
+    }
+  }
+  
+  // 處理醫學(四)
+  if (medicine4Subjects.subjects.length > 0) {
+    if (medicine4Subjects.isAllSelected) {
+      const totalCount = medicine4Subjects.totalCount;
+      const filteredQuestions = allLoadedQuestions.filter(q => 
+        medicine4Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
+      );
+      
+      if (filteredQuestions.length < totalCount) {
+        const confirmUseAll = await customConfirm(`醫學(四) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
+        if (!confirmUseAll) return;
+        finalQuiz = finalQuiz.concat(filteredQuestions);
+      } else {
+        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+      }
+    } else {
+      // 個別科目模式
+      for (const subjectInfo of medicine4Subjects.subjectCounts) {
+        const subjectQuestions = allLoadedQuestions.filter(q => 
+          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+        );
+        
+        if (subjectQuestions.length === 0) {
+          insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
+        } else if (subjectQuestions.length < subjectInfo.count) {
+          insufficientSubjects.push(`${subjectInfo.subject}：${subjectQuestions.length} 題（要求 ${subjectInfo.count} 題）`);
+        }
+      }
+    }
+  }
+  
+  // 如果有題庫不足的科目，顯示提醒
+  if (insufficientSubjects.length > 0) {
+    const confirmMessage = `以下科目題庫數量不足：<br><br>${insufficientSubjects.join('<br>')}<br><br>是否使用現有題目進行測驗？`;
+    const confirmUseAvailable = await customConfirm(confirmMessage);
+    if (!confirmUseAvailable) return;
+  }
+  
+  // 實際選取題目（個別科目模式）
+  if (!medicine3Subjects.isAllSelected) {
+    for (const subjectInfo of medicine3Subjects.subjectCounts) {
+      const subjectQuestions = allLoadedQuestions.filter(q => 
+        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+      );
+      
+      if (subjectQuestions.length === 0) continue;
+      
+      if (subjectQuestions.length <= subjectInfo.count) {
+        finalQuiz = finalQuiz.concat(subjectQuestions);
+      } else {
+        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+      }
+    }
+  }
+  
+  if (!medicine4Subjects.isAllSelected) {
+    for (const subjectInfo of medicine4Subjects.subjectCounts) {
+      const subjectQuestions = allLoadedQuestions.filter(q => 
+        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+      );
+      
+      if (subjectQuestions.length === 0) continue;
+      
+      if (subjectQuestions.length <= subjectInfo.count) {
+        finalQuiz = finalQuiz.concat(subjectQuestions);
+      } else {
+        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+      }
+    }
+  }
+
+  if (finalQuiz.length === 0) {
+    alert('沒有符合條件的題目，請重新選擇年份或科目');
+    return;
+  }
+
+  // 根據選擇的出題順序來決定是否隨機排序
+  const questionOrder = document.getElementById('questionOrder').value;
+  
+  if (questionOrder === 'random') {
+    quiz = [...finalQuiz].sort(() => Math.random() - 0.5);
+  } else {
+    quiz = finalQuiz;
+  }
+  
+  currentQuestion = 0;
+  correct = 0;
+
+  const mode = document.getElementById('mode').value;
+  isStepMode = mode === 'step';
+  const isBrowseMode = mode === 'browse';
+  
+  document.getElementById('result').innerText = '';
+  document.getElementById('quiz').innerHTML = '';
+
+  // 隱藏設定區域和標題區域
+  document.getElementById('setupSection').classList.add('hidden');
+  document.getElementById('headerSection').classList.add('hidden');
+
+  if (isBrowseMode) {
+    showBrowseResults();
+    return;
+  } else if (isStepMode) {
+    document.getElementById('progressInfo').classList.remove('hidden');
+    document.getElementById('stepControls').classList.remove('hidden');
+    document.getElementById('submitBtn').classList.add('hidden');
+    document.getElementById('totalQuestions').innerText = quiz.length;
+    canUseSpacebar = true;
+    showQuestion(currentQuestion);
+  } else {
+    document.getElementById('progressInfo').classList.add('hidden');
+    document.getElementById('stepControls').classList.add('hidden');
+    document.getElementById('submitBtn').classList.remove('hidden');
+    canUseSpacebar = false;
+    showAllQuestions();
+  }
+}
+
+    // 獲取選擇的科目資訊（包含是否全選和題數）
+    function getSelectedSubjects(medicineType) {
+      let allCheckbox, otherCheckboxes, medicineBlock;
+      
+      if (medicineType === 'medicine3') {
+        medicineBlock = document.querySelectorAll('.medicine-block')[0];
+        allCheckbox = medicineBlock.querySelector('input[value="medicine3-all"]');
+        otherCheckboxes = medicineBlock.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:checked:not([value="medicine3-all"])');
+      } else if (medicineType === 'medicine4') {
+        medicineBlock = document.querySelectorAll('.medicine-block')[1];
+        allCheckbox = medicineBlock.querySelector('input[value="medicine4-all"]');
+        otherCheckboxes = medicineBlock.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:checked:not([value="medicine4-all"])');
+      }
+      
+      const isAllSelected = allCheckbox ? allCheckbox.checked : false;
+      const subjects = Array.from(otherCheckboxes).map(cb => cb.value);
+      let totalCount = 80;
+      let subjectCounts = [];
+      
+      if (isAllSelected) {
+        const totalCountInput = document.querySelector(`#count-${medicineType}-all-subjects input`);
+        totalCount = parseInt(totalCountInput.value) || 80;
+      } else {
+        subjectCounts = subjects.map(subject => {
+          const countInput = document.querySelector(`#count-${medicineType}-${subject} input`);
+          return {
+            subject: subject,
+            count: parseInt(countInput.value) || 1
+          };
+        });
+      }
+      
+      return {
+        subjects: subjects,
+        isAllSelected: isAllSelected,
+        totalCount: totalCount,
+        subjectCounts: subjectCounts
+      };
+    }
+
+    function showQuestion(i) {
+      const quizDiv = document.getElementById('quiz');
+      quizDiv.innerHTML = '';
+      const q = quiz[i];
+      
+      // 重置警告狀態（每題開始時重置）
+      hasWarned = false;
+      
+      // 更新進度顯示
+      document.getElementById('currentQuestionNum').innerText = i + 1;
+      
+      const qBlock = document.createElement('div');
+      qBlock.className = 'question-block';
+      
+      // 檢查是否已經回答過這題
+      const isAnswered = q.userAnswer !== undefined;
+      
+      qBlock.innerHTML = `
+        <h3>第 ${i + 1} 題</h3>
+        <p>${q.question}</p>
+        ${q.images ? generateImageHTML(q.images) : ''}
+        ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}" ${isAnswered && q.userAnswer === key ? 'checked' : ''} ${isAnswered ? 'disabled' : ''}> ${key}. ${value}</label><br>`).join('')}
+        <div class="warning-message" id="warning${i}">⚠️ 請先選擇一個選項再提交答案！</div>
+        <div class="explanation" id="explanation${i}">${q.explanation}</div>
+        <button id="submitAnswerBtn${i}" class="submit-answer-btn" onclick="checkStep(${i})" ${isAnswered ? 'style="display:none"' : ''}>提交答案</button>
+      `;
+      quizDiv.appendChild(qBlock);
+      
+      // 如果已經回答過，顯示詳解
+      if (isAnswered) {
+        const explanation = document.getElementById(`explanation${i}`);
+        explanation.dataset.answered = "true";
+        
+        // 重新生成詳解內容
+        const optionCount = Object.keys(q.options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        // 清除之前的樣式類別
+        explanation.classList.remove('correct', 'incorrect');
+        
+        let explanationText = '';
+        if (isBonusQuestion && q.userAnswer) {
+          explanation.classList.add('correct');
+          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(q.tags)}<br>你的答案：${q.userAnswer}. ${q.options[q.userAnswer]}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+        } else if (q.userAnswer && isAnswerCorrect(q.userAnswer, q.answer)) {
+          explanation.classList.add('correct');
+          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(q.tags)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+        } else {
+          explanation.classList.add('incorrect');
+          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(q.tags)}<br>你的答案：<br>${formatUserAnswer(q.userAnswer, q.options)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+        }
+        explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
+        explanation.style.display = 'block';
+        
+        // 重置警告狀態，因為已經是回答過的題目
+        hasWarned = false;
+      }
+      
+      // 更新按鈕顯示狀態
+      updateButtonDisplay();
+    }
+
+    function checkStep(i) {
+      const chosen = document.querySelector(`input[name='q${i}']:checked`);
+      const explanation = document.getElementById(`explanation${i}`);
+      const submitBtn = document.getElementById(`submitAnswerBtn${i}`);
+      const warningMsg = document.getElementById(`warning${i}`);
+      
+      // 檢查是否有選擇選項
+      if (!chosen) {
+        if (!hasWarned) {
+          // 第一次警告，顯示警告訊息
+          warningMsg.style.display = 'block';
+          hasWarned = true;
+          return;
+        }
+        // 第二次提交，隱藏警告訊息並允許繼續（視為未作答）
+        warningMsg.style.display = 'none';
+      }
+      
+      // 鎖定所有選項，防止修改答案
+      const allOptions = document.querySelectorAll(`input[name='q${i}']`);
+      allOptions.forEach(option => {
+        option.disabled = true;
+      });
+      
+      if (!explanation.dataset.answered) {
+        explanation.dataset.answered = "true";
+        quiz[i].userAnswer = chosen ? chosen.value : null;
+        
+        // 檢查是否為五個選項的題目（送分題）
+        const optionCount = Object.keys(quiz[i].options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        let explanationText = '';
+        if (isBonusQuestion && chosen) {
+          // 五個選項的題目，有選就對
+          explanation.classList.add('correct');
+          correct++;
+          quiz[i].isCorrect = true;
+          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen.value}. ${quiz[i].options[chosen.value]}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}`;
+        } else if (chosen && isAnswerCorrect(chosen.value, quiz[i].answer)) {
+          explanation.classList.add('correct');
+          correct++;
+          quiz[i].isCorrect = true;
+          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(quiz[i].tags)}<br>正確答案：${formatCorrectAnswer(quiz[i].answer, quiz[i].options)}<br>詳解：${quiz[i].explanation}`;
+        } else {
+          explanation.classList.add('incorrect');
+          quiz[i].isCorrect = false;
+          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen ? chosen.value + '. ' + quiz[i].options[chosen.value] : '未作答'}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}`;
+        }
+        explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
+        
+        // 隱藏提交答案按鈕
+        submitBtn.style.display = 'none';
+        
+        // 顯示詳解
+        explanation.style.display = 'block';
+        
+        // 判斷是否為最後一題
+        const isLast = currentQuestion >= quiz.length - 1;
+        
+        if (!isLast) {
+          // 不是最後一題，更新按鈕顯示
+          updateButtonDisplay();
+        } else {
+          // 是最後一題，隱藏提早交卷按鈕，延遲顯示最終結果
+          document.getElementById('earlySubmitBtn').style.display = 'none';
+          setTimeout(() => {
+            showFinalResults();
+          }, 1000);
+        }
+      }
+    }
+    
+    function prevQuestion() {
+      if (currentQuestion > 0) {
+        currentQuestion--;
+        showQuestion(currentQuestion);
+        
+        // 更新按鈕顯示狀態
+        updateButtonDisplay();
+      }
+    }
+
+    function nextQuestion() {
+      currentQuestion++;
+      if (currentQuestion < quiz.length) {
+        showQuestion(currentQuestion);
+        // 更新按鈕顯示狀態
+        updateButtonDisplay();
+      } else {
+        showFinalResults();
+      }
+    }
+
+    function updateButtonDisplay() {
+      const prevBtn = document.getElementById('prevBtn');
+      const nextBtn = document.getElementById('nextBtn');
+      const earlySubmitBtn = document.getElementById('earlySubmitBtn');
+      
+      // 控制回上題按鈕顯示
+      if (currentQuestion > 0) {
+        prevBtn.style.display = 'inline';
+      } else {
+        prevBtn.style.display = 'none';
+      }
+      
+      // 控制下一題按鈕顯示 - 根據當前題目是否已回答和是否為最後一題
+      const isAnswered = quiz[currentQuestion].userAnswer !== undefined;
+      const isLastQuestion = currentQuestion >= quiz.length - 1;
+      
+      if (isAnswered && !isLastQuestion) {
+        nextBtn.style.display = 'inline';
+        // 當下一題按鈕顯示時，調整按鈕順序
+        if (currentQuestion > 0) {
+          // 將回上題按鈕放在下一題按鈕前面
+          nextBtn.parentNode.insertBefore(prevBtn, nextBtn);
+        }
+      } else {
+        nextBtn.style.display = 'none';
+      }
+      
+      // 提早交卷按鈕顯示邏輯
+      if (isLastQuestion && isAnswered) {
+        earlySubmitBtn.style.display = 'none';
+      } else {
+        earlySubmitBtn.style.display = 'inline';
+      }
+    }
+
+    async function earlySubmit() {
+      const remainingQuestions = quiz.length - currentQuestion - 1;
+      const confirmSubmit = await customConfirm(`確定要提早交卷嗎？<br><br>目前進度：第 ${currentQuestion + 1} 題 / 共 ${quiz.length} 題<br>剩餘題數：${remainingQuestions} 題<br><br>未作答的題目將計為錯誤。`);
+      
+      if (confirmSubmit) {
+        // 處理當前題目（如果還沒提交答案的話）
+        const currentExplanation = document.getElementById(`explanation${currentQuestion}`);
+        if (currentExplanation && !currentExplanation.dataset.answered) {
+          // 當前題目還沒提交，檢查是否有選擇答案
+          const chosen = document.querySelector(`input[name='q${currentQuestion}']:checked`);
+          quiz[currentQuestion].userAnswer = chosen ? chosen.value : null;
+          
+          if (chosen && chosen.value === quiz[currentQuestion].answer) {
+            quiz[currentQuestion].isCorrect = true;
+            correct++;
+          } else {
+            quiz[currentQuestion].isCorrect = false;
+          }
+        }
+        
+        // 標記未開始的題目為未作答
+        for (let i = currentQuestion + 1; i < quiz.length; i++) {
+          quiz[i].userAnswer = null;
+          quiz[i].isCorrect = false;
+        }
+        
+        // 直接顯示最終結果
+        showFinalResults();
+      }
+    }
+
+    function showBrowseResults() {
+      // 停用空白鍵功能
+      canUseSpacebar = false;
+      
+      // 隱藏所有控制按鈕和進度條
+      document.getElementById('stepControls').classList.add('hidden');
+      document.getElementById('progressInfo').classList.add('hidden');
+      document.getElementById('submitBtn').classList.add('hidden');
+      document.getElementById('quiz').innerHTML = '';
+      
+      const total = quiz.length;
+      
+      // 構建瀏覽模式的詳細結果
+      let detailedResults = '';
+      
+      quiz.forEach((q, idx) => {
+        // 檢查是否為五個選項的題目（送分題）
+        const optionCount = Object.keys(q.options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        let questionResult = `第 ${idx + 1} 題：${q.question}\n`;
+        // 如果有圖片，添加圖片HTML
+        if (q.images && q.images.length > 0) {
+          questionResult += `${generateImageHTML(q.images)}\n`;
+        }
+        questionResult += `標籤：${formatTags(q.tags)}\n選項：\n`;
+        Object.entries(q.options).forEach(([key, value]) => {
+          questionResult += `  ${key}. ${value}\n`;
+        });
+        questionResult += `正確答案：${formatCorrectAnswer(q.answer, q.options)}${isBonusQuestion ? ' （送分題）' : ''}\n詳解：${q.explanation}\n${'-'.repeat(30)}\n\n`;
+        
+        // 給每個題目結果添加包裝div
+        detailedResults += `<div class="question-result browse-mode" data-question-index="${idx}">${questionResult}</div>`;
+      });
+      
+      // 開始構建HTML內容
+      let htmlSummary = '';
+  
+      // 添加答題記錄管理區域到結果頁面（瀏覽模式不記錄答題結果，但保留載入和視覺化功能）
+      let recordManagementHTML = `
+        <div class="record-management">
+          <div class="record-section">
+            <h3>📂 載入記錄</h3>
+            <div class="file-input-wrapper">
+              <input type="file" accept=".json" class="file-input" onchange="loadUserProgress(this.files[0])">
+              <button class="file-input-btn">選擇記錄檔</button>
+            </div>
+            <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
+          </div>
+          
+          <div class="record-section">
+            <h3>📊 視覺化分析</h3>
+            <div class="download-buttons">
+              <button id="visualizationBtn" class="visualization-btn" onclick="openVisualization()" disabled>答題狀況視覺化</button>
+            </div>
+            <div style="font-size: 12px; color: #666; margin-top: 5px;">
+              瀏覽模式不會記錄答題結果
+            </div>
+          </div>
+        </div>
+      `;
+      
+      htmlSummary = recordManagementHTML + htmlSummary;
+          
+      // 瀏覽模式後初始化歷史記錄下載按鈕狀態
+      setTimeout(() => {
+        updateHistoryButtonState();
+        updateVisualizationButtonState();
+      }, 100);
+      
+      // 添加題目總數說明
+      htmlSummary += `<div style="background: #e7f3ff; border: 1px solid #b8daff; border-radius: 5px; padding: 15px; margin: 15px 0; text-align: center;">
+        <h3 style="margin: 0 0 5px 0; color: #0c5460;">📖 瀏覽模式</h3>
+        <p style="margin: 0; color: #0c5460;">總共 ${total} 題目內容和詳解</p>
+      </div>`;
+      
+      // 添加詳細結果
+      htmlSummary += `<div style="white-space: pre-wrap; font-family: monospace;">【題目內容與詳解】\n${'='.repeat(50)}\n\n`;
+      
+      htmlSummary += detailedResults + `</div><br>`;
+      
+      // 添加重新開始按鈕
+      htmlSummary += `<button onclick="resetQuiz()" style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">重新開始</button>`;
+      
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = htmlSummary;
+    }
+
+    function showFinalResults() {
+      // 記錄當前測驗結果
+  recordCurrentTest();
+  
+  // 停用空白鍵功能
+      canUseSpacebar = false;
+      
+      // 隱藏所有控制按鈕和進度條
+      document.getElementById('stepControls').classList.add('hidden');
+      document.getElementById('progressInfo').classList.add('hidden');
+      document.getElementById('quiz').innerHTML = '';
+      
+      // 重置错题显示状态
+      showingWrongAnswersOnly = false;
+      wrongQuestionIndices = [];
+      
+      const total = quiz.length;
+      const wrong = total - correct;
+      
+      // 构建详细结果并记录错题索引
+      let detailedResults = '';
+      
+      quiz.forEach((q, idx) => {
+        // 檢查是否為五個選項的題目（送分題）
+        const optionCount = Object.keys(q.options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        let isCorrect;
+        if (isBonusQuestion && q.userAnswer) {
+          // 送分題：有作答就是正確
+          isCorrect = true;
+        } else {
+          // 一般題目：答案要符合
+          isCorrect = isAnswerCorrect(q.userAnswer, q.answer);
+        }
+        
+        // 如果答错了，记录索引
+        if (!isCorrect) {
+          wrongQuestionIndices.push(idx);
+        }
+        
+        const resultText = isCorrect ? (isBonusQuestion ? '✓ 正確（送分題）' : '✓ 正確') : '✗ 錯誤';
+        const resultClass = isCorrect ? 'result-correct' : 'result-incorrect';
+        
+        let questionResult = `第 ${idx + 1} 題：${q.question}\n`;
+        // 如果有圖片，添加圖片HTML
+        if (q.images && q.images.length > 0) {
+          questionResult += `${generateImageHTML(q.images)}\n`;
+        }
+        questionResult += `標籤：${formatTags(q.tags)}\n選項：\n`;
+        Object.entries(q.options).forEach(([key, value]) => {
+          questionResult += `  ${key}. ${value}\n`;
+        });
+        questionResult += `你的答案：${q.userAnswer ? q.userAnswer + '. ' + q.options[q.userAnswer] : "未作答"}\n正確答案：${formatCorrectAnswer(q.answer, q.options)}\n結果：<span class="${resultClass}">${resultText}</span>\n詳解：${q.explanation}\n${'-'.repeat(30)}\n\n`;
+        
+        // 给每个题目结果添加包装div，用于显示/隐藏控制
+        detailedResults += `<div class="question-result" data-question-index="${idx}" data-is-correct="${isCorrect}">${questionResult}</div>`;
+      });
+      
+      // 开始构建HTML内容，错题切换按钮放在最前面
+      let htmlSummary = '';
+  
+  // 添加答題記錄管理區域到結果頁面
+  let recordManagementHTML = `
+    <div class="record-management">
+      <div class="record-section">
+        <h3>📂 載入記錄</h3>
+        <div class="file-input-wrapper">
+          <input type="file" accept=".json" class="file-input" onchange="loadUserProgress(this.files[0])">
+          <button class="file-input-btn">選擇記錄檔</button>
+        </div>
+        <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
+      </div>
+      
+      <div class="record-section">
+        <h3>💾 下載記錄</h3>
+        <div class="download-buttons">
+          <button class="current-record-btn" onclick="downloadCurrentProgress()">下載目前作答記錄</button>
+          <button id="historyRecordBtn" class="history-record-btn" onclick="downloadHistoryProgress()" disabled>下載歷史完整記錄</button>
+        </div>
+      </div>
+      
+      <div class="record-section">
+        <h3>📊 視覺化分析</h3>
+        <div class="download-buttons">
+          <button id="visualizationBtn" class="visualization-btn" onclick="openVisualization()" disabled>答題狀況視覺化</button>
+        </div>
+      </div>
+    </div>
+  `;
+  
+  htmlSummary = recordManagementHTML + htmlSummary;
+      
+      // 測驗完成後初始化歷史記錄下載按鈕狀態
+      setTimeout(() => {
+        updateHistoryButtonState();
+      }, 100);
+      
+      // 添加错题切换按钮（只有当有错题时才显示）
+      if (wrongQuestionIndices.length > 0) {
+        htmlSummary += `<button id="wrongAnswersToggle" class="wrong-answers-toggle" onclick="toggleWrongAnswers()">只顯示錯題 (${wrongQuestionIndices.length} 題)</button><br><br>`;
+      }
+      
+      // 添加统计信息和详细结果
+      htmlSummary += `<div style="white-space: pre-wrap; font-family: monospace;">總共 ${total} 題，正確 ${correct} 題，錯誤 ${wrong} 題，得分：${Math.round((correct / total) * 100)} 分\n\n【詳細答題結果】\n${'='.repeat(50)}\n\n`;
+      
+      htmlSummary += detailedResults + `</div><br>`;
+      
+      // 添加重新开始按钮
+      htmlSummary += `<button onclick="resetQuiz()" style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">重新開始</button>`;
+      
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = htmlSummary;
+    }
+
+
+    function toggleWrongAnswers() {
+      const toggleBtn = document.getElementById('wrongAnswersToggle');
+      const questionResults = document.querySelectorAll('.question-result');
+      
+      if (!showingWrongAnswersOnly) {
+        // 切换到只显示错题模式
+        showingWrongAnswersOnly = true;
+        toggleBtn.textContent = `顯示全部題目 (共 ${quiz.length} 題)`;
+        toggleBtn.classList.add('show-all');
+        
+        // 隐藏所有正确的题目
+        questionResults.forEach(result => {
+          const isCorrect = result.dataset.isCorrect === 'true';
+          if (isCorrect) {
+            result.classList.add('hidden');
+          }
+        });
+        
+      } else {
+        // 切换回显示全部题目模式
+        showingWrongAnswersOnly = false;
+        toggleBtn.textContent = `只顯示錯題 (${wrongQuestionIndices.length} 題)`;
+        toggleBtn.classList.remove('show-all');
+        
+        // 显示所有题目
+        questionResults.forEach(result => {
+          result.classList.remove('hidden');
+        });
+      }
+    }
+
+    function resetQuiz() {
+      // 保存首頁記錄狀態
+      const savedHomepageState = { ...homepageRecordState };
+      const savedUserProgress = { ...userProgress };
+      const savedHasLoadedProgress = hasLoadedProgress;
+      const savedLoadedFileName = loadedFileName;
+      
+      // 完全重置所有變數到初始狀態
+      // 重置測驗相關變數（保留答題記錄和載入狀態）
+  // userProgress、hasLoadedProgress、loadedFileName 保持不變
+  
+  quiz = [];
+      currentQuestion = 0;
+      correct = 0;
+      isStepMode = false;
+      canUseSpacebar = false;
+      hasWarned = false;
+      showingWrongAnswersOnly = false;
+      wrongQuestionIndices = [];
+      
+      // 清除所有 radio button 的選擇和disabled狀態
+      document.querySelectorAll('input[type="radio"]').forEach(radio => {
+        radio.checked = false;
+        radio.disabled = false;
+      });
+      
+      // 完全重置所有 checkbox 到初始未選擇狀態
+      document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+      });
+      
+      // 重置所有題數輸入框的值為初始預設值
+      document.querySelectorAll('.subject-count input[type="number"]').forEach(input => {
+        // 根據不同科目設定預設值
+        input.value = '1';
+      });
+      
+      // 隱藏所有題數輸入框（回到初始狀態）
+      document.querySelectorAll('.subject-count').forEach(countDiv => {
+        countDiv.style.display = 'none';
+      });
+      
+      // 重置下拉選單為預設值（第一個選項）
+      document.getElementById('mode').selectedIndex = 0;
+      document.getElementById('questionOrder').selectedIndex = 0;
+      
+      // 清除所有警告訊息
+      document.querySelectorAll('.warning-message').forEach(warning => {
+        warning.style.display = 'none';
+      });
+      
+      // 完全清除所有詳解內容和狀態
+      document.querySelectorAll('.explanation').forEach(explanation => {
+        explanation.style.display = 'none';
+        explanation.classList.remove('correct', 'incorrect');
+        explanation.innerHTML = '';
+        if (explanation.dataset.answered) {
+          delete explanation.dataset.answered;
+        }
+      });
+      
+      // 重置所有視覺化按鈕到未選擇狀態
+      document.querySelectorAll('.visual-checkbox').forEach(element => {
+        element.classList.remove('selected');
+      });
+      
+      // 重新顯示設定區域和標題區域（回到主頁面狀態）
+      document.getElementById('setupSection').classList.remove('hidden');
+      document.getElementById('headerSection').classList.remove('hidden');
+      
+      // 隱藏所有測驗相關區域
+      document.getElementById('progressInfo').classList.add('hidden');
+      document.getElementById('stepControls').classList.add('hidden');
+      document.getElementById('submitBtn').classList.add('hidden');
+      
+      // 完全清空測驗內容和結果
+      document.getElementById('quiz').innerHTML = '';
+      document.getElementById('result').innerHTML = '';
+      
+      // 重置所有按鈕狀態到初始狀態
+      document.getElementById('nextBtn').style.display = 'none';
+      document.getElementById('prevBtn').style.display = 'none';
+      document.getElementById('earlySubmitBtn').style.display = 'none';
+      
+      // 清除進度顯示，回到初始值
+      document.getElementById('currentQuestionNum').innerText = '1';
+      document.getElementById('totalQuestions').innerText = '0';
+      
+      // 重置quiz陣列中每個題目的用戶答案和正確性標記
+      if (questions && questions.length > 0) {
+        questions.forEach(q => {
+          if (q.userAnswer !== undefined) delete q.userAnswer;
+          if (q.isCorrect !== undefined) delete q.isCorrect;
+        });
+      }
+      
+      // 清除任何殘留的樣式類別
+      document.querySelectorAll('.question-block').forEach(block => {
+        block.remove();
+      });
+      
+      // 移除任何動態添加的元素
+      document.querySelectorAll('.question-result').forEach(result => {
+        result.remove();
+      });
+      
+      // 移除錯題切換按鈕等動態元素
+      const wrongToggle = document.getElementById('wrongAnswersToggle');
+      if (wrongToggle) {
+        wrongToggle.remove();
+      }
+      
+      // 重新啟用所有表單元素
+      document.querySelectorAll('select, input, button').forEach(element => {
+        element.disabled = false;
+      });
+      
+      // 確保視覺樣式在短暫延遲後更新，完全回到初始狀態
+      setTimeout(() => {
+        updateVisualStyles();
+        // 確保頁面滾動到頂部
+        window.scrollTo(0, 0);
+        console.log('測驗系統已完全重置到初始主頁面狀態');
+      }, 50);
+      
+      // 確保沒有任何遺留的事件監聽器或狀態
+      hasWarned = false;
+      showingWrongAnswersOnly = false;
+      wrongQuestionIndices = [];
+      
+      // 恢復首頁記錄狀態
+      homepageRecordState = savedHomepageState;
+      userProgress = savedUserProgress;
+      hasLoadedProgress = savedHasLoadedProgress;
+      loadedFileName = savedLoadedFileName;
+      
+      // 恢復UI狀態
+      setTimeout(() => {
+        if (homepageRecordState.hasLoaded) {
+          updateHomepageRecordStatus('success', `✅ 已載入：${homepageRecordState.fileName}.json (${homepageRecordState.recordCount} 題記錄)`);
+        } else {
+          updateHomepageRecordStatus('info', '尚未載入記錄檔案');
+        }
+        updateHomepageVisualizationButton();
+        
+        // 確保首頁記錄區域顯示
+        const homepageSection = document.getElementById('homepageRecordSection');
+        if (homepageSection) {
+          homepageSection.style.display = 'block';
+        }
+      }, 100);
+    }
+
+    function showAllQuestions() {
+      const quizDiv = document.getElementById('quiz');
+      quizDiv.innerHTML = '';
+      quiz.forEach((q, i) => {
+        const qBlock = document.createElement('div');
+        qBlock.className = 'question-block';
+        qBlock.innerHTML = `
+          <h3>第 ${i + 1} 題 <span class="question-tags">${formatTags(q.tags)}</span></h3>
+          <p>${q.question}</p>
+          ${q.images ? generateImageHTML(q.images) : ''}
+          ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}"> ${key}. ${value}</label><br>`).join('')}
+          <div class="explanation" id="explanation${i}">${q.explanation}</div>
+        `;
+        quizDiv.appendChild(qBlock);
+      });
+    }
+
+    function submitQuiz() {
+      correct = 0; // 重置計數器
+      quiz.forEach((q, i) => {
+        const chosen = document.querySelector(`input[name='q${i}']:checked`);
+        const explanation = document.getElementById(`explanation${i}`);
+        explanation.style.display = 'block';
+        
+        q.userAnswer = chosen ? chosen.value : null;
+        
+        // 檢查是否為五個選項的題目（送分題）
+        const optionCount = Object.keys(q.options).length;
+        const isBonusQuestion = optionCount === 5;
+        
+        if (isBonusQuestion && chosen) {
+          // 五個選項的題目，有選就對
+          explanation.classList.add('correct');
+          explanation.innerHTML = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(q.tags)}<br>你的答案：${chosen.value}. ${q.options[chosen.value]}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          correct++;
+          q.isCorrect = true; // 標記為正確，用於最終結果顯示
+        } else if (chosen && isAnswerCorrect(chosen.value, q.answer)) {
+          explanation.classList.add('correct');
+          explanation.innerHTML = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(q.tags)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          correct++;
+          q.isCorrect = true;
+        } else {
+          explanation.classList.add('incorrect');
+          explanation.innerHTML = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(q.tags)}<br>你的答案：${chosen ? chosen.value + '. ' + q.options[chosen.value] : '未作答'}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          q.isCorrect = false;
+        }
+      });
+      
+      // 隱藏提交按鈕
+      document.getElementById('submitBtn').classList.add('hidden');
+      
+      // 延遲顯示最終結果，讓用戶先看到各題解答
+      setTimeout(() => {
+        showFinalResults();
+      }, 1000);
+    }
+  
+    // 頁面加載完成後初始化視覺樣式
+    document.addEventListener('DOMContentLoaded', function() {
+      setTimeout(() => updateVisualStyles(), 50);
+    });
+
+    // 圖片相關函數
+    function showImageOverlay(src) {
+      const overlay = document.getElementById('imageOverlay');
+      const overlayImage = document.getElementById('overlayImage');
+      overlayImage.src = src;
+      overlay.style.display = 'flex';
+    }
+    
+    function closeImageOverlay() {
+      const overlay = document.getElementById('imageOverlay');
+      overlay.style.display = 'none';
+    }
+    
+    // ESC鍵關閉圖片覆蓋層
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') {
+        closeImageOverlay();
+      }
+    });
+    
+    function generateImageHTML(images) {
+      if (!images || images.length === 0) {
+        return '';
+      }
+      
+      let imageHTML = '<div class="question-images">';
+      images.forEach(imagePath => {
+        imageHTML += `<img src="${imagePath}" alt="題目圖片" onclick="showImageOverlay('${imagePath}')">`;
+      });
+      imageHTML += '</div>';
+      return imageHTML;
+    }
+  
+    // ========== 視覺化功能相關 ==========
+    
+    // 題目ID解析函數
+    function parseQuestionId(questionId) {
+      const idStr = questionId.toString().padStart(7, '0');
+      
+      const year = parseInt(idStr.substring(0, 3));
+      const term = parseInt(idStr.substring(3, 4));
+      const examType = parseInt(idStr.substring(4, 5));
+      const questionNum = parseInt(idStr.substring(5, 7));
+      
+      const examName = examType === 1 ? '一' : '二';
+      const displayQuestionNum = questionNum === 0 ? 100 : questionNum;
+      
+      return {
+        year: year,
+        term: term,
+        examType: examName,
+        questionNumber: displayQuestionNum,
+        fullName: `${year}-${term}(${examName})`
+      };
+    }
+
+    // 生成年度列表
+    function generateYearList() {
+      const years = [];
+      // 114年
+      years.push({
+        year: 114,
+        term: 2,
+        medicine3: "114-2(三)",
+        medicine4: "114-2(四)"
+      });
+      years.push({
+        year: 114,
+        term: 1,
+        medicine3: "114-1(三)",
+        medicine4: "114-1(四)"
+      });
+      
+      // 113-110年每年都有期1和期2
+      for (let year = 113; year >= 110; year--) {
+        years.push({
+          year: year,
+          term: 2,
+          medicine3: `${year}-2(三)`,
+          medicine4: `${year}-2(四)`
+        });
+        years.push({
+          year: year,
+          term: 1,
+          medicine3: `${year}-1(三)`,
+          medicine4: `${year}-1(四)`
+        });
+      }
+      
+      return years; // 10份考卷（114-2 到 110-1）
+    }
+
+    // 更新視覺化按鈕狀態
+    function updateVisualizationButtonState() {
+      const visualizationBtn = document.getElementById('visualizationBtn');
+      
+      if (!visualizationBtn) return;
+      
+      // 檢查是否有答題記錄
+      const hasRecords = userProgress && Object.keys(userProgress).filter(key => key !== 'metadata').length > 0;
+      
+      if (hasRecords) {
+        visualizationBtn.disabled = false;
+        visualizationBtn.style.backgroundColor = '#17a2b8';
+        visualizationBtn.style.cursor = 'pointer';
+      } else {
+        visualizationBtn.disabled = true;
+        visualizationBtn.style.backgroundColor = '#6c757d';
+        visualizationBtn.style.cursor = 'not-allowed';
+      }
+    }
+
+    // 開啟視覺化視窗
+    function openVisualization() {
+      if (!userProgress || Object.keys(userProgress).filter(key => key !== 'metadata').length === 0) {
+        alert('沒有可視覺化的答題記錄');
+        return;
+      }
+      
+      processVisualizationData();
+      document.getElementById('visualizationModal').style.display = 'flex';
+      document.body.style.overflow = 'hidden'; // 防止背景滾動
+    }
+
+    // 關閉視覺化視窗
+    function closeVisualization() {
+      document.getElementById('visualizationModal').style.display = 'none';
+      document.body.style.overflow = 'auto'; // 恢復背景滾動
+    }
+
+    // ESC鍵關閉視覺化視窗
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') {
+        closeVisualization();
+      }
+    });
+
+    // 處理視覺化數據
+    function processVisualizationData() {
+      // 移除metadata
+      const questionData = { ...userProgress };
+      delete questionData.metadata;
+
+      // 解析所有題目
+      const parsedQuestions = {};
+      Object.keys(questionData).forEach(questionId => {
+        const parsed = parseQuestionId(questionId);
+        const key = `${parsed.year}-${parsed.term}(${parsed.examType})`;
+        
+        if (!parsedQuestions[key]) {
+          parsedQuestions[key] = {};
+        }
+        
+        parsedQuestions[key][parsed.questionNumber] = questionData[questionId];
+      });
+
+      // 生成視覺化（移除統計資訊）
+      generateVisualizationDisplay(parsedQuestions);
+    }
+
+
+
+    // 生成視覺化顯示
+    function generateVisualizationDisplay(parsedQuestions) {
+      const container = document.getElementById('visualizationContent');
+      const yearList = generateYearList();
+      
+      // 分離醫學(三)和醫學(四)
+      const medicine3Years = yearList.map(y => y.medicine3);
+      const medicine4Years = yearList.map(y => y.medicine4);
+
+      let html = '';
+
+      // 醫學(三)部分
+      html += generateVisualizationExamSection('醫學(三)', medicine3Years, parsedQuestions);
+      
+      // 醫學(四)部分
+      html += generateVisualizationExamSection('醫學(四)', medicine4Years, parsedQuestions, true);
+
+      container.innerHTML = html;
+    }
+
+    // 生成考試科目區塊
+    function generateVisualizationExamSection(title, years, parsedQuestions, isMedicine2 = false) {
+      let html = `
+        <div class="exam-section">
+          <div class="exam-header ${isMedicine2 ? 'medicine-2' : ''}">${title} 試卷</div>
+          <div class="year-grid">
+      `;
+
+      years.forEach(yearName => {
+        html += `
+          <div class="year-column">
+            <div class="year-header">${yearName}</div>
+            <div class="questions-container">
+        `;
+
+        const questionsForYear = parsedQuestions[yearName] || {};
+        
+        if (Object.keys(questionsForYear).length === 0) {
+          html += '<div class="empty-state">暫無答題記錄</div>';
+        } else {
+          // 生成1-100題
+          for (let i = 1; i <= 100; i++) {
+            const attempts = questionsForYear[i] || [];
+            html += generateVisualizationQuestionRow(i, attempts);
+          }
+        }
+
+        html += `
+            </div>
+          </div>
+        `;
+      });
+
+      html += `
+          </div>
+        </div>
+      `;
+
+      return html;
+    }
+
+    // 生成題目行
+    function generateVisualizationQuestionRow(questionNum, attempts) {
+      let answerHistory = '';
+      
+      if (attempts.length === 0) {
+        answerHistory = '<span style="color: #dee2e6;">—</span>';
+      } else {
+        attempts.forEach(attempt => {
+          if (attempt === 1) {
+            answerHistory += '<span class="answer-symbol correct-symbol">✅</span>';
+          } else if (attempt === 0) {
+            answerHistory += '<span class="answer-symbol incorrect-symbol">❌</span>';
+          }
+        });
+      }
+
+      return `
+        <div class="question-row">
+          <span class="question-number">題${questionNum}:</span>
+          <div class="answer-history">${answerHistory}</div>
+        </div>
+      `;
+    }
+
+
+
+  
+    // ========== 首頁記錄檔管理功能 ==========
+    
+    // 首頁記錄檔狀態
+    let homepageRecordState = {
+      hasLoaded: false,
+      fileName: '',
+      recordCount: 0
+    };
+    
+    // 載入首頁記錄檔 - 直接調用 loadUserProgress 並更新首頁狀態
+    function loadHomepageRecord(file) {
+      if (!file) return;
+      
+      // 直接調用原始的 loadUserProgress 函數
+      loadUserProgress(file);
+      
+      // 額外的首頁狀態更新
+      setTimeout(() => {
+        if (hasLoadedProgress && loadedFileName) {
+          // 更新首頁記錄狀態
+          const recordCount = Object.keys(userProgress).filter(key => key !== 'metadata').length;
+          homepageRecordState = {
+            hasLoaded: true,
+            fileName: loadedFileName,
+            recordCount: recordCount
+          };
+          
+          updateHomepageRecordStatus('success', `✅ 已載入：${loadedFileName}.json (${recordCount} 題記錄)`);
+        } else {
+          // 載入失敗
+          homepageRecordState = {
+            hasLoaded: false,
+            fileName: '',
+            recordCount: 0
+          };
+          updateHomepageRecordStatus('error', "❌ 檔案格式錯誤，請選擇正確的記錄檔");
+        }
+        
+        updateHomepageVisualizationButton();
+      }, 200);
+    }
+    
+    // 更新首頁記錄狀態顯示
+    function updateHomepageRecordStatus(type, message) {
+      const statusElement = document.getElementById('homepageRecordStatus');
+      if (statusElement) {
+        statusElement.textContent = message;
+        statusElement.className = `homepage-record-status ${type}`;
+      }
+    }
+    
+    // 更新首頁視覺化按鈕狀態
+    function updateHomepageVisualizationButton() {
+      const btn = document.getElementById('homepageVisualizationBtn');
+      if (!btn) return;
+      
+      const hasRecords = homepageRecordState.hasLoaded || 
+                        (userProgress && Object.keys(userProgress).filter(key => key !== 'metadata').length > 0);
+      
+      btn.disabled = !hasRecords;
+      
+      if (hasRecords) {
+        btn.style.backgroundColor = '#17a2b8';
+        btn.style.cursor = 'pointer';
+      } else {
+        btn.style.backgroundColor = '#6c757d';
+        btn.style.cursor = 'not-allowed';
+      }
+    }
+    
+    // 開啟首頁視覺化
+    function openHomepageVisualization() {
+      if (!userProgress || Object.keys(userProgress).filter(key => key !== 'metadata').length === 0) {
+        updateHomepageRecordStatus('error', '❌ 沒有可視覺化的答題記錄');
+        return;
+      }
+      
+      // 重用現有的視覺化功能
+      processVisualizationData();
+      document.getElementById('visualizationModal').style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    }
+    
+
+    
+    // 頁面載入完成後初始化首頁功能
+    document.addEventListener('DOMContentLoaded', function() {
+      setTimeout(() => {
+        updateHomepageVisualizationButton();
+        updateVisualizationButtonState();
+      }, 100);
+    });
+
+</script>
+
+  <!-- 圖片放大顯示覆蓋層 -->
+  <div class="image-overlay" id="imageOverlay" onclick="closeImageOverlay()">
+    <img id="overlayImage" src="" alt="放大圖片">
+  </div>
+
+  <!-- 視覺化彈出視窗 -->
+  <div class="visualization-modal" id="visualizationModal">
+    <div class="visualization-content">
+      <div class="visualization-header">
+        <h2>📊 答題狀況視覺化分析</h2>
+        <button class="close-visualization" onclick="closeVisualization()">✕</button>
+      </div>
+      <div class="visualization-body" id="visualizationBody">
+        <div id="visualizationContent">
+          <!-- 視覺化內容將在這裡動態生成 -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
