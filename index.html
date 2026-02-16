@@ -2300,13 +2300,13 @@
     function getSelectedValues(selectId) {
   let values = [];
   if (selectId === 'yearTag') {
-    // 從兩個 medicine-block 中分別取得年份選擇
+    // 從四個 medicine-block 中分別取得年份選擇
     const allCheckboxes = document.querySelectorAll('.medicine-block .checkbox-group input[type="checkbox"]:checked');
     values = Array.from(allCheckboxes)
       .map(cb => cb.value)
       .filter(v => v !== 'all3' && v !== 'all4' && v !== 'all5' && v !== 'all6' && 
-             v !== 'medicine3-all' && v !== 'medicine4-all' && v !== 'medicine5-all' && v !== 'medicine6-all' && 
-             v.includes('-'));
+                   v !== 'medicine3-all' && v !== 'medicine4-all' && v !== 'medicine5-all' && v !== 'medicine6-all' && 
+                   v.includes('-'));
   } else {
     const checkboxes = document.querySelectorAll(`#${selectId} input[type="checkbox"]:checked`);
     values = Array.from(checkboxes).map(cb => cb.value).filter(v => v !== 'all');
@@ -2565,6 +2565,30 @@
           allCheckbox.checked = false;
           document.getElementById('count-medicine4-all-subjects').style.display = 'none';
         }
+      } else if (type === 'medicine5-subject') {
+        const medicine5Block = document.querySelectorAll('.medicine-block')[2];
+        const allCheckbox = medicine5Block.querySelector('input[value="medicine5-all"]');
+        const otherCheckboxes = medicine5Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine5-all"])');
+        const checkedCount = Array.from(otherCheckboxes).filter(cb => cb.checked).length;
+        
+        if (checkedCount === otherCheckboxes.length && checkedCount > 0) {
+          // 不自動切換到全選模式，保持個別設定模式
+        } else if (checkedCount === 0) {
+          allCheckbox.checked = false;
+          document.getElementById('count-medicine5-all-subjects').style.display = 'none';
+        }
+      } else if (type === 'medicine6-subject') {
+        const medicine6Block = document.querySelectorAll('.medicine-block')[3];
+        const allCheckbox = medicine6Block.querySelector('input[value="medicine6-all"]');
+        const otherCheckboxes = medicine6Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine6-all"])');
+        const checkedCount = Array.from(otherCheckboxes).filter(cb => cb.checked).length;
+        
+        if (checkedCount === otherCheckboxes.length && checkedCount > 0) {
+          // 不自動切換到全選模式，保持個別設定模式
+        } else if (checkedCount === 0) {
+          allCheckbox.checked = false;
+          document.getElementById('count-medicine6-all-subjects').style.display = 'none';
+        }
       } else {
         const groupId = 'yearTag';
         const allCheckbox = document.querySelector(`#${groupId} input[value="all"]`);
@@ -2595,13 +2619,16 @@
   // 分別獲取醫學(三)和醫學(四)的科目選擇
   const medicine3Subjects = getSelectedSubjects('medicine3');
   const medicine4Subjects = getSelectedSubjects('medicine4');
+  const medicine5Subjects = getSelectedSubjects('medicine5');
+  const medicine6Subjects = getSelectedSubjects('medicine6');
   
   if (selectedYears.length === 0) {
     alert('請至少選擇一個年份');
     return;
   }
   
-  if (medicine3Subjects.subjects.length === 0 && medicine4Subjects.subjects.length === 0) {
+  if (medicine3Subjects.subjects.length === 0 && medicine4Subjects.subjects.length === 0 && 
+      medicine5Subjects.subjects.length === 0 && medicine6Subjects.subjects.length === 0) {
     alert('請至少選擇一個科目');
     return;
   }
@@ -2722,6 +2749,70 @@
     }
   }
   
+  // 處理醫學(五)
+  if (medicine5Subjects.subjects.length > 0) {
+    if (medicine5Subjects.isAllSelected) {
+      const totalCount = medicine5Subjects.totalCount;
+      const filteredQuestions = allLoadedQuestions.filter(q => 
+        medicine5Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
+      );
+      
+      if (filteredQuestions.length < totalCount) {
+        const confirmUseAll = await customConfirm(`醫學(五) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
+        if (!confirmUseAll) return;
+        finalQuiz = finalQuiz.concat(filteredQuestions);
+      } else {
+        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+      }
+    } else {
+      // 個別科目模式
+      for (const subjectInfo of medicine5Subjects.subjectCounts) {
+        const subjectQuestions = allLoadedQuestions.filter(q => 
+          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+        );
+        
+        if (subjectQuestions.length === 0) {
+          insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
+        } else if (subjectQuestions.length < subjectInfo.count) {
+          insufficientSubjects.push(`${subjectInfo.subject}：${subjectQuestions.length} 題（要求 ${subjectInfo.count} 題）`);
+        }
+      }
+    }
+  }
+  
+  // 處理醫學(六)
+  if (medicine6Subjects.subjects.length > 0) {
+    if (medicine6Subjects.isAllSelected) {
+      const totalCount = medicine6Subjects.totalCount;
+      const filteredQuestions = allLoadedQuestions.filter(q => 
+        medicine6Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
+      );
+      
+      if (filteredQuestions.length < totalCount) {
+        const confirmUseAll = await customConfirm(`醫學(六) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
+        if (!confirmUseAll) return;
+        finalQuiz = finalQuiz.concat(filteredQuestions);
+      } else {
+        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+      }
+    } else {
+      // 個別科目模式
+      for (const subjectInfo of medicine6Subjects.subjectCounts) {
+        const subjectQuestions = allLoadedQuestions.filter(q => 
+          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+        );
+        
+        if (subjectQuestions.length === 0) {
+          insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
+        } else if (subjectQuestions.length < subjectInfo.count) {
+          insufficientSubjects.push(`${subjectInfo.subject}：${subjectQuestions.length} 題（要求 ${subjectInfo.count} 題）`);
+        }
+      }
+    }
+  }
+  
   // 如果有題庫不足的科目，顯示提醒
   if (insufficientSubjects.length > 0) {
     const confirmMessage = `以下科目題庫數量不足：<br><br>${insufficientSubjects.join('<br>')}<br><br>是否使用現有題目進行測驗？`;
@@ -2749,6 +2840,40 @@
   
   if (!medicine4Subjects.isAllSelected) {
     for (const subjectInfo of medicine4Subjects.subjectCounts) {
+      const subjectQuestions = allLoadedQuestions.filter(q => 
+        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+      );
+      
+      if (subjectQuestions.length === 0) continue;
+      
+      if (subjectQuestions.length <= subjectInfo.count) {
+        finalQuiz = finalQuiz.concat(subjectQuestions);
+      } else {
+        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+      }
+    }
+  }
+  
+  if (!medicine5Subjects.isAllSelected) {
+    for (const subjectInfo of medicine5Subjects.subjectCounts) {
+      const subjectQuestions = allLoadedQuestions.filter(q => 
+        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
+      );
+      
+      if (subjectQuestions.length === 0) continue;
+      
+      if (subjectQuestions.length <= subjectInfo.count) {
+        finalQuiz = finalQuiz.concat(subjectQuestions);
+      } else {
+        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
+        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+      }
+    }
+  }
+  
+  if (!medicine6Subjects.isAllSelected) {
+    for (const subjectInfo of medicine6Subjects.subjectCounts) {
       const subjectQuestions = allLoadedQuestions.filter(q => 
         q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
       );
