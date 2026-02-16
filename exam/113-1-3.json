@@ -18,7 +18,7 @@
   },
   {
     "id": 1131302,
-    "question": "2. 4位醫學生分別使用下列量表評估病人的預後，何者最不恰當？",
+    "question": "2. 4位醫學生分別使用下列量表評估病人的預後，何者最不恰當？<br><br><table border=\"1\" style=\"border-collapse: collapse; width: 100%; text-align: left;\"><tr><th style=\"text-align: center;\">學生</th><th style=\"text-align: center;\">量表</th><th style=\"text-align: center;\">評估對象</th></tr><tr><td style=\"text-align: center;\">甲生</td><td>APACHE II Score</td><td>加護病房重症病人</td></tr><tr><td style=\"text-align: center;\">乙生</td><td>BODE Index</td><td>壓傷（pressure injury）病人</td></tr><tr><td style=\"text-align: center;\">丙生</td><td>International Prognostic Index</td><td>非何杰金氏淋巴瘤（non-Hodgkin's lymphoma）病人</td></tr><tr><td style=\"text-align: center;\">丁生</td><td>TIMI Risk Score</td><td>非ST波段上升之急性冠心症（non-ST segment elevation acute coronary syndrome）病人</td></tr></table>",
     "options": {
       "A": "甲生",
       "B": "乙生",
@@ -26,7 +26,7 @@
       "D": "丁生"
     },
     "answer": "B",
-    "explanation": "此題考查臨床評估量表的適當使用。題目資訊不完整，無法判斷各位醫學生使用了哪些量表。<br>(A) 無法判斷<br>(B) 最不恰當<br>(C) 無法判斷<br>(D) 無法判斷",
+    "explanation": "此題考查臨床常用評估量表的適用對象。<br>(A) 適當：APACHE II Score (Acute Physiology and Chronic Health Evaluation II) 常用於評估加護病房重症病人的疾病嚴重度及預後。<br>(B) 最不恰當：BODE Index 是用於評估慢性阻塞性肺病 (COPD) 患者預後的指標（包含 BMI、氣流阻塞程度、呼吸困難程度、運動能力）。評估壓傷（pressure injury）風險常用的量表為 Braden Scale 或 Norton Scale。<br>(C) 適當：International Prognostic Index (IPI) 是評估非何杰金氏淋巴瘤 (Non-Hodgkin's Lymphoma) 預後的重要工具。<br>(D) 適當：TIMI Risk Score 常用於評估不穩定心絞痛及非ST段上升型心肌梗塞 (NSTEMI) 病人的風險與預後。",
     "tags": [
       "113-1-3(三)",
       "家醫科"
@@ -150,6 +150,9 @@
       "113-1-3(三)",
       "心臟內科"
     ],
+    "images": [
+          "./exam/image/113-1-3-9.jpg"
+    ],
     "group_id": "group_4548"
   },
   {
@@ -166,6 +169,9 @@
     "tags": [
       "113-1-3(三)",
       "心臟內科"
+    ],
+    "images": [
+          "./exam/image/113-1-3-10.jpg"
     ],
     "group_id": "group_4549"
   },
@@ -864,6 +870,9 @@
       "113-1-3(三)",
       "胸腔內科"
     ],
+    "images": [
+          "./exam/image/113-1-3-51.jpg"
+    ],
     "group_id": "group_4590"
   },
   {
@@ -1305,6 +1314,9 @@
     "tags": [
       "113-1-3(三)",
       "心臟內科"
+    ],
+    "images": [
+          "./exam/image/113-1-3-77.jpg"
     ],
     "group_id": "group_4616"
   },
