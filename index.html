@@ -2304,7 +2304,9 @@
     const allCheckboxes = document.querySelectorAll('.medicine-block .checkbox-group input[type="checkbox"]:checked');
     values = Array.from(allCheckboxes)
       .map(cb => cb.value)
-      .filter(v => v !== 'all3' && v !== 'all4' && v !== 'medicine3-all' && v !== 'medicine4-all' && v.includes('-'));
+      .filter(v => v !== 'all3' && v !== 'all4' && v !== 'all5' && v !== 'all6' && 
+             v !== 'medicine3-all' && v !== 'medicine4-all' && v !== 'medicine5-all' && v !== 'medicine6-all' && 
+             v.includes('-'));
   } else {
     const checkboxes = document.querySelectorAll(`#${selectId} input[type="checkbox"]:checked`);
     values = Array.from(checkboxes).map(cb => cb.value).filter(v => v !== 'all');
