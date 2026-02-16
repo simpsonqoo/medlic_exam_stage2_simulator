@@ -276,8 +276,7 @@
 
 /* 醫學(三)和醫學(四)大區塊樣式 */
 .medicine-block {
- flex: 1;
- min-width: 450px;
+ width: 400px;
  border: 2px solid #007bff;
  border-radius: 10px;
  padding: 10px;
@@ -324,6 +323,35 @@
  border: 1px solid #ddd;
  border-radius: 5px;
  background-color: #f9f9f9;
+}
+
+/* 醫學年級選擇按鈕樣式 */
+.grade-selector {
+ display: flex;
+ gap: 15px;
+ margin-bottom: 20px;
+ justify-content: flex-start;
+}
+
+.grade-btn {
+ padding: 15px 40px;
+ font-size: 18px;
+ font-weight: bold;
+ border: 2px solid #007bff;
+ border-radius: 8px;
+ background-color: #fff;
+ color: #007bff;
+ cursor: pointer;
+ transition: all 0.3s ease;
+}
+
+.grade-btn:hover {
+ background-color: #e7f3ff;
+}
+
+.grade-btn.active {
+ background-color: #007bff;
+ color: white;
 }
 
 /* 產生題目按鈕樣式 */
@@ -1359,9 +1387,18 @@
     <br><br>
     <!-- 修改後的選擇區域 - 醫學(三)和醫學(四)分別獨立 -->
     <label>選擇年份和科目：</label>
+    
+    <!-- 新增：醫學年級選擇按鈕 -->
+    <div class="grade-selector">
+      <button id="med3Btn" class="grade-btn active" onclick="switchGrade('med3')">醫學(三)</button>
+      <button id="med4Btn" class="grade-btn" onclick="switchGrade('med4')">醫學(四)</button>
+      <button id="med5Btn" class="grade-btn" onclick="switchGrade('med5')">醫學(五)</button>
+      <button id="med6Btn" class="grade-btn" onclick="switchGrade('med6')">醫學(六)</button>
+    </div>
+    
     <div class="selection-container">
       <!-- 醫學(三)大區塊 -->
-      <div class="medicine-block">
+      <div class="medicine-block" id="med3Block">
         <h2>醫學(三)</h2>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
@@ -1426,7 +1463,7 @@
       </div>
       
       <!-- 醫學(四)大區塊 -->
-      <div class="medicine-block">
+      <div class="medicine-block" id="med4Block" style="display: none;">
         <h2>醫學(四)</h2>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
@@ -1463,6 +1500,133 @@
                 題數：<input type="number" value="1" min="1" max="10">
               </div></div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="神經內科" onchange="toggleSubjectCount(this, 'medicine4')">神經內科<div class="subject-count" id="count-medicine4-神經內科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 醫學(五)大區塊 -->
+      <div class="medicine-block" id="med5Block" style="display: none;">
+        <h2>醫學(五)</h2>
+        <div class="medicine-block-content">
+          <!-- 年份選擇 -->
+          <div class="checkbox-group">
+            <strong>選擇年份</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all5" onchange="handleSelectAll('year5')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-5">114-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-5">114-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-5">113-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-1-5">113-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-2-5">112-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-1-5">112-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-2-5">111-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-1-5">111-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-2-5">110-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-1-5">110-1</div><br>
+          </div>
+          
+          <!-- 科目選擇 -->
+          <div class="checkbox-group" id="medicine5-subjects">
+            <strong>選擇科目</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="medicine5-all" onchange="handleSelectAll('medicine5-subject')">全選</div>
+            <div class="subject-count" id="count-medicine5-all-subjects" style="display:none;">
+              總題數：<input type="number" value="80" min="1" max="200">
+            </div>
+            <br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="外科概論" onchange="toggleSubjectCount(this, 'medicine5')">外科概論<div class="subject-count" id="count-medicine5-外科概論">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="神經外科" onchange="toggleSubjectCount(this, 'medicine5')">神經外科<div class="subject-count" id="count-medicine5-神經外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="心臟外科" onchange="toggleSubjectCount(this, 'medicine5')">心臟外科<div class="subject-count" id="count-medicine5-心臟外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="大腸直腸外科" onchange="toggleSubjectCount(this, 'medicine5')">大腸直腸外科<div class="subject-count" id="count-medicine5-大腸直腸外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="內分泌外科" onchange="toggleSubjectCount(this, 'medicine5')">內分泌外科<div class="subject-count" id="count-medicine5-內分泌外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="整形外科" onchange="toggleSubjectCount(this, 'medicine5')">整形外科<div class="subject-count" id="count-medicine5-整形外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="胃外科" onchange="toggleSubjectCount(this, 'medicine5')">胃外科<div class="subject-count" id="count-medicine5-胃外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="小腸外科" onchange="toggleSubjectCount(this, 'medicine5')">小腸外科<div class="subject-count" id="count-medicine5-小腸外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="肝臟外科" onchange="toggleSubjectCount(this, 'medicine5')">肝臟外科<div class="subject-count" id="count-medicine5-肝臟外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="膽道外科" onchange="toggleSubjectCount(this, 'medicine5')">膽道外科<div class="subject-count" id="count-medicine5-膽道外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="胰臟外科" onchange="toggleSubjectCount(this, 'medicine5')">胰臟外科<div class="subject-count" id="count-medicine5-胰臟外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="乳房外科" onchange="toggleSubjectCount(this, 'medicine5')">乳房外科<div class="subject-count" id="count-medicine5-乳房外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="胸腔外科" onchange="toggleSubjectCount(this, 'medicine5')">胸腔外科<div class="subject-count" id="count-medicine5-胸腔外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="小兒外科" onchange="toggleSubjectCount(this, 'medicine5')">小兒外科<div class="subject-count" id="count-medicine5-小兒外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="泌尿外科" onchange="toggleSubjectCount(this, 'medicine5')">泌尿外科<div class="subject-count" id="count-medicine5-泌尿外科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="骨科" onchange="toggleSubjectCount(this, 'medicine5')">骨科<div class="subject-count" id="count-medicine5-骨科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+          </div>
+        </div>
+      </div>
+      
+      <!-- 醫學(六)大區塊 -->
+      <div class="medicine-block" id="med6Block" style="display: none;">
+        <h2>醫學(六)</h2>
+        <div class="medicine-block-content">
+          <!-- 年份選擇 -->
+          <div class="checkbox-group">
+            <strong>選擇年份</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all6" onchange="handleSelectAll('year6')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-6">114-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-6">114-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-6">113-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-1-6">113-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-2-6">112-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="112-1-6">112-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-2-6">111-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="111-1-6">111-1</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-2-6">110-2</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="110-1-6">110-1</div><br>
+          </div>
+          
+          <!-- 科目選擇 -->
+          <div class="checkbox-group" id="medicine6-subjects">
+            <strong>選擇科目</strong><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="medicine6-all" onchange="handleSelectAll('medicine6-subject')">全選</div>
+            <div class="subject-count" id="count-medicine6-all-subjects" style="display:none;">
+              總題數：<input type="number" value="80" min="1" max="200">
+            </div>
+            <br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="婦產科" onchange="toggleSubjectCount(this, 'medicine6')">婦產科<div class="subject-count" id="count-medicine6-婦產科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="眼科" onchange="toggleSubjectCount(this, 'medicine6')">眼科<div class="subject-count" id="count-medicine6-眼科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="復健科" onchange="toggleSubjectCount(this, 'medicine6')">復健科<div class="subject-count" id="count-medicine6-復健科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="麻醉科" onchange="toggleSubjectCount(this, 'medicine6')">麻醉科<div class="subject-count" id="count-medicine6-麻醉科">
+                題數：<input type="number" value="1" min="1" max="10">
+              </div></div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="耳鼻喉科" onchange="toggleSubjectCount(this, 'medicine6')">耳鼻喉科<div class="subject-count" id="count-medicine6-耳鼻喉科">
                 題數：<input type="number" value="1" min="1" max="10">
               </div></div><br>
           </div>
@@ -1549,7 +1713,8 @@
       
       // 處理特殊情況
       const value = checkbox.value;
-      if (value === 'all3' || value === 'all4' || value === 'medicine3-all' || value === 'medicine4-all') {
+      if (value === 'all3' || value === 'all4' || value === 'all5' || value === 'all6' || 
+          value === 'medicine3-all' || value === 'medicine4-all' || value === 'medicine5-all' || value === 'medicine6-all') {
         setTimeout(() => updateVisualStyles(), 10);
       } else if (subjectTags.includes(value)) {
         // toggleSubjectCount函數已經在onchange中處理
@@ -1952,7 +2117,14 @@
 
     // 定義已知的年份和科目標籤
     const yearTags = ["114-2(一)", "114-1(一)", "113-2(一)", "113-1(一)", "112-2(一)", "112-1(一)", "111-2(一)", "111-1(一)", "110-2(一)", "110-1(一)", "109-2(一)", "109-1(一)", "108-2(一)", "108-1(一)", "107-2(一)", "107-1(一)", "106-2(一)", "106-1(一)", "105-2(一)", "105-1(一)", "104-2(一)", "104-1(一)", "114-2(二)", "114-1(二)", "113-2(二)", "113-1(二)", "112-2(二)", "112-1(二)", "111-2(二)", "111-1(二)", "110-2(二)", "110-1(二)", "109-2(二)", "109-1(二)", "108-2(二)", "108-1(二)", "107-2(二)", "107-1(二)", "106-2(二)", "106-1(二)", "105-2(二)", "105-1(二)", "104-2(二)", "104-1(二)"];
-    const subjectTags = ["心臟內科", "胸腔內科", "腸胃內科", "肝膽內科", "新陳代謝科", "腎臟內科", "感染科", "風濕免疫科", "血液科", "腫瘤科", "家醫科", "小兒科", "皮膚科", "精神科", "神經內科"];
+    const subjectTags = [
+      // 醫學(三)和醫學(四)的科目
+      "心臟內科", "胸腔內科", "腸胃內科", "肝膽內科", "新陳代謝科", "腎臟內科", "感染科", "風濕免疫科", "血液科", "腫瘤科", "家醫科", "小兒科", "皮膚科", "精神科", "神經內科",
+      // 醫學(五)的科目
+      "外科概論", "神經外科", "心臟外科", "大腸直腸外科", "內分泌外科", "整形外科", "胃外科", "小腸外科", "肝臟外科", "膽道外科", "胰臟外科", "乳房外科", "胸腔外科", "小兒外科", "泌尿外科", "骨科",
+      // 醫學(六)的科目
+      "婦產科", "眼科", "復健科", "麻醉科", "耳鼻喉科"
+    ];
 
     // 添加鍵盤事件監聽器
     document.addEventListener('keydown', function(event) {
@@ -2213,6 +2385,84 @@
       subjectCheckboxes.forEach(cb => {
         cb.checked = false;
         const countDiv = document.getElementById(`count-medicine4-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'none';
+    }
+  } else if (type === 'year5') {
+    // 找到醫學(五)區塊中的年份全選
+    const medicine5Block = document.querySelectorAll('.medicine-block')[2]; // 第三個 medicine-block
+    const allCheckbox = medicine5Block.querySelector('input[value="all5"]');
+    const otherCheckboxes = medicine5Block.querySelectorAll('.checkbox-group input[type="checkbox"]:not([value="all5"])');
+    
+    // 只選擇年份相關的 checkbox（排除科目）
+    const yearCheckboxes = Array.from(otherCheckboxes).filter(cb => cb.value.includes('-5'));
+    
+    if (allCheckbox.checked) {
+      yearCheckboxes.forEach(cb => cb.checked = true);
+    } else {
+      yearCheckboxes.forEach(cb => cb.checked = false);
+    }
+  } else if (type === 'year6') {
+    // 找到醫學(六)區塊中的年份全選
+    const medicine6Block = document.querySelectorAll('.medicine-block')[3]; // 第四個 medicine-block
+    const allCheckbox = medicine6Block.querySelector('input[value="all6"]');
+    const otherCheckboxes = medicine6Block.querySelectorAll('.checkbox-group input[type="checkbox"]:not([value="all6"])');
+    
+    // 只選擇年份相關的 checkbox（排除科目）
+    const yearCheckboxes = Array.from(otherCheckboxes).filter(cb => cb.value.includes('-6'));
+    
+    if (allCheckbox.checked) {
+      yearCheckboxes.forEach(cb => cb.checked = true);
+    } else {
+      yearCheckboxes.forEach(cb => cb.checked = false);
+    }
+  } else if (type === 'medicine5-subject') {
+    const medicine5Block = document.querySelectorAll('.medicine-block')[2];
+    const allCheckbox = medicine5Block.querySelector('input[value="medicine5-all"]');
+    const subjectCheckboxes = medicine5Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine5-all"])');
+    const allSubjectsCount = document.getElementById('count-medicine5-all-subjects');
+    
+    if (allCheckbox.checked) {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = true;
+        const countDiv = document.getElementById(`count-medicine5-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'block';
+    } else {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = false;
+        const countDiv = document.getElementById(`count-medicine5-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'none';
+    }
+  } else if (type === 'medicine6-subject') {
+    const medicine6Block = document.querySelectorAll('.medicine-block')[3];
+    const allCheckbox = medicine6Block.querySelector('input[value="medicine6-all"]');
+    const subjectCheckboxes = medicine6Block.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:not([value="medicine6-all"])');
+    const allSubjectsCount = document.getElementById('count-medicine6-all-subjects');
+    
+    if (allCheckbox.checked) {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = true;
+        const countDiv = document.getElementById(`count-medicine6-${cb.value}`);
+        if (countDiv) {
+          countDiv.style.display = 'none';
+        }
+      });
+      allSubjectsCount.style.display = 'block';
+    } else {
+      subjectCheckboxes.forEach(cb => {
+        cb.checked = false;
+        const countDiv = document.getElementById(`count-medicine6-${cb.value}`);
         if (countDiv) {
           countDiv.style.display = 'none';
         }
@@ -3316,7 +3566,16 @@
       const examType = parseInt(idStr.substring(4, 5));
       const questionNum = parseInt(idStr.substring(5, 7));
       
-      const examName = examType === 1 ? '一' : '二';
+      // 支援醫學(一)到醫學(六)
+      const examNames = {
+        1: '一',
+        2: '二',
+        3: '三',
+        4: '四',
+        5: '五',
+        6: '六'
+      };
+      const examName = examNames[examType] || '未知';
       const displayQuestionNum = questionNum === 0 ? 100 : questionNum;
       
       return {
@@ -3336,13 +3595,17 @@
         year: 114,
         term: 2,
         medicine3: "114-2(三)",
-        medicine4: "114-2(四)"
+        medicine4: "114-2(四)",
+        medicine5: "114-2(五)",
+        medicine6: "114-2(六)"
       });
       years.push({
         year: 114,
         term: 1,
         medicine3: "114-1(三)",
-        medicine4: "114-1(四)"
+        medicine4: "114-1(四)",
+        medicine5: "114-1(五)",
+        medicine6: "114-1(六)"
       });
       
       // 113-110年每年都有期1和期2
@@ -3351,13 +3614,17 @@
           year: year,
           term: 2,
           medicine3: `${year}-2(三)`,
-          medicine4: `${year}-2(四)`
+          medicine4: `${year}-2(四)`,
+          medicine5: `${year}-2(五)`,
+          medicine6: `${year}-2(六)`
         });
         years.push({
           year: year,
           term: 1,
           medicine3: `${year}-1(三)`,
-          medicine4: `${year}-1(四)`
+          medicine4: `${year}-1(四)`,
+          medicine5: `${year}-1(五)`,
+          medicine6: `${year}-1(六)`
         });
       }
       
@@ -3606,6 +3873,47 @@
     }
     
 
+    
+    // ========== 醫學年級切換功能 ==========
+    
+    // 切換醫學年級顯示
+    function switchGrade(grade) {
+      const med3Block = document.getElementById('med3Block');
+      const med4Block = document.getElementById('med4Block');
+      const med5Block = document.getElementById('med5Block');
+      const med6Block = document.getElementById('med6Block');
+      const med3Btn = document.getElementById('med3Btn');
+      const med4Btn = document.getElementById('med4Btn');
+      const med5Btn = document.getElementById('med5Btn');
+      const med6Btn = document.getElementById('med6Btn');
+      
+      // 隱藏所有區塊
+      med3Block.style.display = 'none';
+      med4Block.style.display = 'none';
+      med5Block.style.display = 'none';
+      med6Block.style.display = 'none';
+      
+      // 移除所有按鈕的 active 狀態
+      med3Btn.classList.remove('active');
+      med4Btn.classList.remove('active');
+      med5Btn.classList.remove('active');
+      med6Btn.classList.remove('active');
+      
+      // 根據選擇顯示對應區塊和按鈕狀態
+      if (grade === 'med3') {
+        med3Block.style.display = 'block';
+        med3Btn.classList.add('active');
+      } else if (grade === 'med4') {
+        med4Block.style.display = 'block';
+        med4Btn.classList.add('active');
+      } else if (grade === 'med5') {
+        med5Block.style.display = 'block';
+        med5Btn.classList.add('active');
+      } else if (grade === 'med6') {
+        med6Block.style.display = 'block';
+        med6Btn.classList.add('active');
+      }
+    }
     
     // 頁面載入完成後初始化首頁功能
     document.addEventListener('DOMContentLoaded', function() {
