@@ -2523,7 +2523,8 @@
   if (questionOrder === 'random') {
     quiz = [...finalQuiz].sort(() => Math.random() - 0.5);
   } else {
-    quiz = finalQuiz;
+    // 按照 id 排序
+    quiz = [...finalQuiz].sort((a, b) => a.id - b.id);
   }
   
   currentQuestion = 0;
