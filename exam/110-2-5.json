@@ -256,8 +256,8 @@
     "group_id": "group_9654"
   },
   {
-    "id": 1102560,
-    "question": "60. ffb63b7e772.jpg",
+    "id": 1102516,
+    "question": "16. 22歲的王同學是八仙塵爆的燒傷患者，這次來門診求助主要是因為手腕背側的帶狀疤痕攣縮影響彎曲活動，醫師建議施予simple Z-plasty 疤痕鬆懈手術（如附圖），如果術後預計比原先增加75%的延展長度，應設計多少角度的simple Z-plasty？",
     "options": {
       "A": "Simple 30°-angle Z-plasty",
       "B": "Simple 45°-angle Z-plasty",
@@ -269,6 +269,9 @@
     "tags": [
       "110-2-5",
       "骨科"
+    ],
+    "images": [
+          "./exam/image/110-2-5-16.jpg"
     ],
     "group_id": "group_9655"
   },
@@ -307,8 +310,8 @@
     "group_id": "group_9657"
   },
   {
-    "id": 1102560,
-    "question": "60. ffb65383443.jpg",
+    "id": 1102519,
+    "question": "19. 78歲男性抽菸且合併高血壓，糖尿病病史，接受都卜勒分段血壓（Dopper segmental pressure）檢查之結果如附圖。則下列敘述何者錯誤？",
     "options": {
       "A": "間歇性跛行或潰瘍不癒合以左下肢為主",
       "B": "狹窄之可能部位位於左側腸骨動脈或股動脈",
@@ -320,6 +323,9 @@
     "tags": [
       "110-2-5",
       "骨科"
+    ],
+    "images": [
+          "./exam/image/110-2-5-19.jpg"
     ],
     "group_id": "group_9658"
   },
@@ -1208,8 +1214,8 @@
     "group_id": "group_9710"
   },
   {
-    "id": 1102560,
-    "question": "60. ffb781b5cc5.jpg",
+    "id": 1102572,
+    "question": "72. 一主訴腹部急性劇痛而且身體虛弱的病人求診。仰臥胸部X光檢查和側臥腹部X光檢查（cross-table, decubitus view）呈現如二附圖。下列那一項初診斷最正確？",
     "options": {
       "A": "gas-forming liver abscess",
       "B": "perforated peptic ulcer",
@@ -1222,11 +1228,14 @@
       "110-2-5",
       "骨科"
     ],
+    "images": [
+          "./exam/image/110-2-5-72.jpg"
+    ],
     "group_id": "group_9711"
   },
   {
-    "id": 1102560,
-    "question": "60. ffb7969401b.jpg",
+    "id": 1102573,
+    "question": "73. 有關下圖的敘述，下列何者錯誤？",
     "options": {
       "A": "為有靜脈注射含碘顯影劑之冠狀重組之電腦斷層攝影圖",
       "B": "有呈現心室中隔",
@@ -1239,11 +1248,14 @@
       "110-2-5",
       "骨科"
     ],
+    "images": [
+          "./exam/image/110-2-5-73.jpg"
+    ],
     "group_id": "group_9712"
   },
   {
-    "id": 1102560,
-    "question": "60. ffb7ae4b1aa.jpg",
+    "id": 1102574,
+    "question": "74. 64歲女性，因急性右上腹部劇痛，掛急診求醫，腹部CT和血管攝影影像如附圖，則最可能的診斷為下列何者？",
     "options": {
       "A": "肝膿瘍",
       "B": "分布不均脂肪肝",
@@ -1255,6 +1267,9 @@
     "tags": [
       "110-2-5",
       "骨科"
+    ],
+    "images": [
+          "./exam/image/110-2-5-74.jpg"
     ],
     "group_id": "group_9713"
   },

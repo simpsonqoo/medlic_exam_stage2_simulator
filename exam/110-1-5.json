@@ -527,7 +527,7 @@
     "group_id": "group_9750"
   },
   {
-    "id": 1107518,
+    "id": 1107532,
     "question": "6018. ed7c7e670.jpg",
     "options": {
       "A": "將受傷的膽管（①和③）清除乾淨，銜接兩端剩餘的膽管（①和③銜接），由銜接的傷口處放置T型管作為 支架",
@@ -539,6 +539,9 @@
     "explanation": "膽管損傷（bile duct injury）的手術處置需依據損傷類型選擇最佳重建方式，圖題中顯示中段膽管被切除，需了解膽腸吻合（bilioenteric anastomosis）的適應原則。<br>(A) 錯誤，直接銜接兩端受傷膽管（端對端吻合）並以T管支撐，在膽管缺損較長時張力過大，吻合口容易狹窄，為不理想的選擇<br>(B) 錯誤，從銜接處下方放置T管的位置並不合理，且端對端吻合本身在膽管缺損時即存在問題<br>(C) 正確，當中段膽管被誤切（膽管②被切除），造成上段（①）與下段（③）斷端，最佳處理方式是以魯氏Y型空腸吻合術（Roux-en-Y hepaticojejunostomy）將肝臟側膽管（①）與空腸吻合，並縫合關閉遠端（③），此為膽管重建的標準術式<br>(D) 錯誤，試圖重新橋接已被切除的膽管②回原處，在臨床上不可行，因組織活性和張力問題，此方式不符合手術處置原則",
     "tags": [
       "110-1-5"
+    ],
+    "images": [
+          "./exam/image/110-1-5-32.jpg"
     ],
     "group_id": "group_9751"
   },
@@ -1206,8 +1209,8 @@
     "group_id": "group_9790"
   },
   {
-    "id": 1107518,
-    "question": "6018. ede64626f.jpg",
+    "id": 1101572,
+    "question": "72 45歲女性病人接受年度健康檢查，發現左腎腫瘤，下圖為注射對比劑之腎臟電腦斷層攝影（computed tomography of kidneys），最可能之診斷為何？",
     "options": {
       "A": "renal cell carcinoma",
       "B": "renal lymphoma",
@@ -1217,13 +1220,17 @@
     "answer": "D",
     "explanation": "腎臟腫瘤的影像學診斷需依據特定影像特徵（尤其是脂肪訊號）鑑別良惡性腫瘤。<br>(A) 錯誤，腎細胞癌（renal cell carcinoma）在CT或超音波上通常表現為強化的實質性腫塊，無明顯脂肪成分，無法解釋含脂肪的影像特徵<br>(B) 錯誤，腎臟淋巴瘤（renal lymphoma）通常表現為多發性低密度病灶或腎臟瀰漫性腫大，不含脂肪成分<br>(C) 錯誤，腎臟尿路上皮癌（renal urothelial carcinoma）好發於腎盂，表現為腎盂腔內腫塊或腎盂壁增厚，並不含脂肪<br>(D) 正確，腎臟血管肌肉脂肪瘤（renal angiomyolipoma, AML）是含有血管（angio）、平滑肌（myo）和脂肪（lipoma）三種成分的良性腫瘤，CT上可見低密度脂肪訊號（Hounsfield unit < -10 HU）是其特徵性診斷依據；與結節性硬化症（tuberous sclerosis）有關聯，多發且雙側時應排查此症",
     "tags": [
-      "110-1-5"
+      "110-1-5",
+      "泌尿外科"
+    ],
+    "images": [
+          "./exam/image/110-1-5-72.jpg"
     ],
     "group_id": "group_9791"
   },
   {
-    "id": 1107518,
-    "question": "6018. ee0d4ab06.jpg",
+    "id": 1107573,
+    "question": "73 50歲男性至急診就醫，主訴突發性胸痛持續逾半小時，胸部電腦斷層影像如附圖，正確診斷為：",
     "options": {
       "A": "Stanford A型主動脈內皮血腫（Stanford Type A intramural hematoma）",
       "B": "Stanford B型主動脈內皮血腫（Stanford Type B intramural hematoma）",
@@ -1233,13 +1240,17 @@
     "answer": "A",
     "explanation": "主動脈內皮血腫（intramural hematoma, IMH）與主動脈剝離（aortic dissection）的影像學鑑別需掌握，關鍵在於有無內膜瓣（intimal flap）及Stanford分型的解剖依據。<br>(A) 正確，主動脈內皮血腫（IMH）的特徵是主動脈壁內出血但無明顯內膜裂口或假腔（false lumen）；Stanford A型是指病灶累及升主動脈（ascending aorta），無論遠端延伸範圍，均屬A型，需緊急手術，預後與A型剝離類似<br>(B) 錯誤，Stanford B型主動脈內皮血腫是指病灶僅累及降主動脈（不涉及升主動脈），與A型的解剖位置定義不符<br>(C) 錯誤，主動脈剝離（aortic dissection）的影像特徵是可見內膜瓣（intimal flap）將管腔分為真腔（true lumen）與假腔（false lumen），與IMH的壁內血腫型態不同<br>(D) 錯誤，DeBakey分類第三型（DeBakey Type III）是指剝離起源於降主動脈（左鎖骨下動脈遠端），對應Stanford B型，與本題升主動脈受累的影像不符",
     "tags": [
-      "110-1-5"
+      "110-1-5",
+      "心臟外科"
+    ],
+    "images": [
+          "./exam/image/110-1-5-73.jpg"
     ],
     "group_id": "group_9792"
   },
   {
-    "id": 1107518,
-    "question": "6018. ee33f26fc.jpg",
+    "id": 1101574,
+    "question": "74 23歲男性無特殊病史，近二個月來，他覺得舉重物時右髖部附近會痛，附圖為X光攝影，最可能的診斷為何？",
     "options": {
       "A": "fibrous dysplasia",
       "B": "chondroblastoma",
@@ -1249,7 +1260,11 @@
     "answer": "A",
     "explanation": "骨骼腫瘤或腫瘤樣病變的影像判讀需依據病灶特徵（密度、邊界、骨皮質反應）及好發部位進行鑑別。<br>(A) 正確，纖維性骨發育不良（fibrous dysplasia）的典型X光特徵包括：磨玻璃狀外觀（ground-glass appearance）、骨質膨脹性改變、骨皮質變薄但完整、無骨膜反應；好發於長骨（股骨、脛骨）或肋骨，可為單骨型（monostotic）或多骨型（polyostotic），後者合併皮膚咖啡牛奶斑（café-au-lait spots）和性早熟者稱為麥丘恩-奧布萊特症候群（McCune-Albright syndrome）<br>(B) 錯誤，軟骨母細胞瘤（chondroblastoma）好發於骨骺（epiphysis）區域的年輕病患，X光呈現骨骺內邊緣清晰的溶骨性病灶，常見蛋殼狀硬化邊緣及點狀鈣化，與本題特徵不符<br>(C) 錯誤，骨肉瘤（osteogenic sarcoma）的X光特徵是侵略性的骨質破壞合併放射狀骨膜反應（sunburst pattern）及科德曼三角（Codman triangle），具明顯惡性影像特徵，與本題不符<br>(D) 錯誤，嗜酸性肉芽腫（eosinophilic granuloma，即朗格漢斯細胞組織球增生症, Langerhans cell histiocytosis）X光表現為邊緣清晰的穿孔型溶骨病灶（hole within a hole），好發於顱骨和椎體，造成椎體扁平（vertebra plana），與本題特徵不符",
     "tags": [
-      "110-1-5"
+      "110-1-5",
+      "骨科"
+    ],
+    "images": [
+          "./exam/image/110-1-5-74.jpg"
     ],
     "group_id": "group_9793"
   },

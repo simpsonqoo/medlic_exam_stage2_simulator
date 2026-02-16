@@ -150,6 +150,9 @@
       "112-1-5",
       "神經外科"
     ],
+    "images": [
+          "./exam/image/112-1-5-9.jpg"
+    ],
     "group_id": "group_9408"
   },
   {
@@ -302,6 +305,9 @@
     "tags": [
       "112-1-5",
       "乳房外科"
+    ],
+    "images": [
+          "./exam/image/112-1-5-18.jpg"
     ],
     "group_id": "group_9417"
   },
@@ -700,16 +706,19 @@
     "id": 1121542,
     "question": "42. 如圖mammogram所示，下列敘述何者錯誤？",
     "options": {
-      "A": "圖",
-      "B": "圖",
-      "C": "圖",
-      "D": "圖"
+      "A": "圖(a)是coarse calcification，診斷BI-RADS category 2",
+      "B": "圖(b)看到linear microcalcifications，診斷是BI-RADS category 4",
+      "C": "圖(a)在超音波若看不到，即可不必安排mammography-guided biopsy",
+      "D": "圖(b)在超音波若看不到，即可不必安排mammography-guided biopsy"
     },
     "answer": "D",
     "explanation": "此題考核乳房攝影（mammography）影像的 BI-RADS 分類判讀，以及不同鈣化型態的臨床處置原則，核心在於「mammography 獨立可見的異常病灶，超音波陰性不能作為免除切片的理由」。<br>(A) 正確，粗大鈣化（coarse calcification）通常代表良性病灶（如纖維腺瘤退化性鈣化），歸類為 BI-RADS category 2（良性），建議定期追蹤即可，無需切片。<br>(B) 正確，線狀微鈣化（linear microcalcifications）型態高度懷疑惡性（可能代表導管內癌，ductal carcinoma in situ, DCIS 的鈣化沉積），應歸類為 BI-RADS category 4（可疑惡性），需安排組織切片。<br>(C) 正確，圖(a)的粗大鈣化已判讀為 BI-RADS category 2 良性，超音波若看不到對應病灶，確實無需安排乳房攝影導引切片（mammography-guided biopsy）。<br>(D) 錯誤，圖(b)的線狀微鈣化為 BI-RADS category 4 可疑惡性病灶，這類鈣化在超音波下常常看不到（因微鈣化本為乳房攝影的優勢偵測範圍）。即使超音波陰性，仍必須安排乳房攝影導引穿刺切片（mammography-guided stereotactic biopsy），不能因為超音波看不到就省略切片，否則可能延誤 DCIS 或早期乳癌的診斷。",
     "tags": [
       "112-1-5",
       "乳房外科"
+    ],
+    "images": [
+          "./exam/image/112-1-5-42.jpg"
     ],
     "group_id": "group_9441"
   },
@@ -796,6 +805,9 @@
       "112-1-5",
       "小兒外科"
     ],
+    "images": [
+          "./exam/image/112-1-5-47.jpg"
+    ],
     "group_id": "group_9446"
   },
   {
@@ -812,6 +824,9 @@
     "tags": [
       "112-1-5",
       "小兒外科"
+    ],
+    "images": [
+          "./exam/image/112-1-5-48.jpg"
     ],
     "group_id": "group_9447"
   },
@@ -1238,6 +1253,9 @@
       "112-1-5",
       "骨科"
     ],
+    "images": [
+          "./exam/image/112-1-5-73.jpg"
+    ],
     "group_id": "group_9472"
   },
   {
@@ -1254,6 +1272,9 @@
     "tags": [
       "112-1-5",
       "泌尿外科"
+    ],
+    "images": [
+          "./exam/image/112-1-5-74.jpg"
     ],
     "group_id": "group_9473"
   },
