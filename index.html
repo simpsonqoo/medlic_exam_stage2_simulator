@@ -2949,6 +2949,14 @@
         medicineBlock = document.querySelectorAll('.medicine-block')[1];
         allCheckbox = medicineBlock.querySelector('input[value="medicine4-all"]');
         otherCheckboxes = medicineBlock.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:checked:not([value="medicine4-all"])');
+      } else if (medicineType === 'medicine5') {
+        medicineBlock = document.querySelectorAll('.medicine-block')[2];
+        allCheckbox = medicineBlock.querySelector('input[value="medicine5-all"]');
+        otherCheckboxes = medicineBlock.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:checked:not([value="medicine5-all"])');
+      } else if (medicineType === 'medicine6') {
+        medicineBlock = document.querySelectorAll('.medicine-block')[3];
+        allCheckbox = medicineBlock.querySelector('input[value="medicine6-all"]');
+        otherCheckboxes = medicineBlock.querySelectorAll('.checkbox-group:last-child input[type="checkbox"]:checked:not([value="medicine6-all"])');
       }
       
       const isAllSelected = allCheckbox ? allCheckbox.checked : false;
