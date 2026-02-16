@@ -693,10 +693,10 @@
     "id": 1132341,
     "question": "41. 下列發生於acute myeloid leukemia的染色體變化與相對應的基因融合（fusion），何者錯誤？",
     "options": {
-      "A": "t",
-      "B": "t",
-      "C": "inv",
-      "D": "t"
+      "A": "t(8;21)與RUNX1-RUNX1T1",
+      "B": "t(15;17)與PML-RARA",
+      "C": "inv(16)與CBFB-MYH11",
+      "D": "t(9;11)與DEK-NUP214"
     },
     "answer": "D",
     "explanation": "此題考查急性骨髓性白血病（acute myeloid leukemia）的染色體變化與基因融合配對。t(9;11)對應的是MLL-MLLT3融合基因。<br>(A) 正確，t(8;21)對應RUNX1-RUNX1T1融合基因<br>(B) 正確，t(15;17)對應PML-RARA融合基因，見於急性前骨髓球性白血病<br>(C) 正確，inv(16)對應CBFB-MYH11融合基因<br>(D) 錯誤，t(9;11)對應的是MLL-MLLT3融合基因，而非DEK-NUP214。DEK-NUP214融合基因對應的是t(6;9)染色體變化",
