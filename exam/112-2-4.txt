@@ -1,0 +1,1364 @@
+[
+  {
+    id: 1122401,
+    question: "1. 有關嬰兒玫瑰疹（roseola infantum）的敘述，下列何者最不恰當？",
+    options: {
+      A: "最主要的致病原是HHV-6B",
+      B: "95%的病童年齡在2歲以前，感染年齡高峰期是6個月至9個月大",
+      C: "皮疹呈現從軀幹到面部和四肢，通常持續1～3天，但有時也可能只在幾個小時內可見後就消失",
+      D: "50%原發性HHV-6B感染的兒童，發燒時間可持續6天或更長時間"
+    },
+    answer: "D",
+    explanation: "玫瑰疹常見於6個月至2歲嬰幼兒，多由HHV-6B引起，典型表現為高燒3～5天退燒後出疹。大部分孩子發燒不超過5天。<br>(A) 正確，主要病原是HHV-6B。<br>(B) 正確，好發於6–9個月，95%在2歲前感染。<br>(C) 正確，皮疹多由軀幹開始，可迅速消退。<br>(D) 錯誤，發燒時間通常不會超過5天。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7320"
+  },
+  {
+    id: 1122402,
+    question: "2. 足月出生，目前6個月大男嬰，體重7公斤，依照兒童健康手冊的附圖，下列敘述何者最適當？",
+    options: {
+      A: "體重生長指標落在第15百分位，在平均數以下，應該立即轉介評估是否有成長不良",
+      B: "在100名同年齡的男寶寶裡，目前體重大約排在前第15位",
+      C: "若一個月大時體重是6公斤，目前生長曲線走勢掉了兩個曲線區間，需立即轉介評估",
+      D: "此月齡平均體重為8公斤，應積極衛教家屬多增加純配方奶哺餵以達成長所需"
+    },
+    answer: "C",
+    explanation: "兒童生長曲線最重要的是「趨勢」，若短期內掉兩個曲線帶即需評估成長不良。單看分位數不是唯一指標。<br>(A) 錯誤，單純落在15百分位不代表異常。<br>(B) 錯誤，第15百分位不是「第15位」，而是低於85%的同齡兒童。<br>(C) 正確，曲線掉兩區間是警訊。<br>(D) 錯誤，不需強行增加配方奶。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7321"
+  },
+  {
+    id: 1122403,
+    question: "3. 男嬰出生時立即發生呼吸窘迫及發紺症狀，身體診察發現腹部扁平、最強心尖搏動點（point of maximal impulse）在右胸，下列何者為最可能的診斷？",
+    options: {
+      A: "先天性橫膈膜疝氣（congenital diaphragmatic hernia）",
+      B: "食道閉鎖氣管食道瘻管（esophageal atresia with tracheoesophageal fistula）",
+      C: "後鼻孔閉鎖（choanal atresia）",
+      D: "胃扭轉（gastric volvulus）"
+    },
+    answer: "A",
+    explanation: "橫膈膜疝氣導致腹腔臟器進入胸腔，造成呼吸窘迫、心音偏移、腹部扁平。<br>(A) 正確，符合臨床。<br>(B) 錯誤，食道閉鎖表現為流口水與胃管無法置入。<br>(C) 錯誤，後鼻孔閉鎖多表現為哭時改善、安靜時發紺。<br>(D) 錯誤，胃扭轉較大孩童才常見。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7322"
+  },
+  {
+    id: 1122404,
+    question: "4. 下列關於呼吸窘迫症候群（respiratory distress syndrome）的敘述，何者最不適當？",
+    options: {
+      A: "臨床表現為early onset of tachypnea，可能合併retraction, grunting and cyanosis，通常剛出生就是呼吸窘迫最嚴重時，在24～72小時內恢復",
+      B: "胸部X光表現為low lung volumes, diffuse reticulogranular pattern, and air bronchograms",
+      C: "處置原則包括permissive hypercapnia及avoidance of hyperoxia",
+      D: "成因為surfactant deficiency，導致肺泡塌陷，無法維持適當功能肺餘容積"
+    },
+    answer: "A",
+    explanation: "RDS 常在出生後立即出現且逐漸加重，並非24～72小時內自然恢復。成因是肺表面活性劑不足。<br>(A) 錯誤，病程描述不正確。<br>(B) 正確，X光為「白肺」樣。<br>(C) 正確，治療原則避免過度換氣與高氧。<br>(D) 正確，主要因為 surfactant 缺乏。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7323"
+  },
+  {
+    id: 1122405,
+    question: "5. 下列有關壞死性腸炎（necrotizing enterocolitis, NEC）風險因子的敘述，何者最不適當？",
+    options: {
+      A: "母乳哺餵的新生兒較餵食配方乳者容易發生NEC",
+      B: "妊娠週數愈低的早產兒愈容易發生NEC",
+      C: "文獻上報告腸道菌叢生態與NEC的發生有關",
+      D: "足月兒的NEC常有次發之前置因子，如先天性心臟病等"
+    },
+    answer: "A",
+    explanation: "母乳可降低NEC風險；早產、腸道菌叢異常、心臟病是風險因子。<br>(A) 錯誤，母乳反而保護。<br>(B) 正確，早產兒高風險。<br>(C) 正確，腸道菌叢與NEC相關。<br>(D) 正確，足月兒常有潛在疾病。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7324"
+  },
+  {
+    id: 1122406,
+    question: "6. 兒童常會被聽到心雜音，下列何者不是功能性心雜音（innocent or functional murmur）的特色？",
+    options: {
+      A: "中等音高（medium-pitched）的收縮期雜音（systolic murmur）",
+      B: "第三級的全收縮期雜音（pansystolic murmur）",
+      C: "心雜音的大小聲會受呼吸與姿勢影響",
+      D: "輕壓頸靜脈（jugular vein）可使心雜音變小聲"
+    },
+    answer: "B",
+    explanation: "功能性心雜音多為收縮早中期、音量小（<3級），不會是持續性或全收縮期雜音。<br>(A) 正確，中等音高收縮期雜音可見於功能性心雜音。<br>(B) 錯誤，全收縮期雜音常見於病理性（如VSD）。<br>(C) 正確，姿勢呼吸影響功能性心雜音。<br>(D) 正確，輕壓頸靜脈可使聲音變小。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7325"
+  },
+  {
+    id: 1122407,
+    question: "7. 8個月大男嬰，因高燒5天來求診，身體診察發現在卡介苗接種處出現紅腫、皮膚出現紅疹、舌頭紅腫如草莓般，眼結膜有充血現象，但沒什麼眼屎增加的感覺。下列何種疾病的可能性最高？",
+    options: {
+      A: "Kawasaki disease",
+      B: "pharyngoconjunctival fever",
+      C: "sepsis",
+      D: "rheumatic fever"
+    },
+    answer: "A",
+    explanation: "川崎病典型表現為發燒 ≥5天合併黏膜變化、皮疹、結膜炎、淋巴結腫大或末梢變化。<br>(A) 正確，臨床典型。<br>(B) 錯誤，咽結膜熱通常有眼屎與咽痛。<br>(C) 錯誤，敗血症沒有這些特徵。<br>(D) 錯誤，風濕熱與鏈球菌感染後有心臟受累。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7326"
+  },
+  {
+    id: 1122408,
+    question: "8. 一週大的新生兒，被發現有發紺（cyanosis）的現象，胸部X光有明顯的肺部充血，懷疑可能有心臟血管異常，下列鑑別診斷何者最不需要考慮？",
+    options: {
+      A: "心室中隔缺損（ventricular septal defect）",
+      B: "全肺靜脈回流異常（total anomalous pulmonary venous return）",
+      C: "三尖瓣閉鎖（tricuspid atresia）合併肺動脈狹窄（pulmonary stenosis）",
+      D: "動脈幹異常（truncus arteriosus）"
+    },
+    answer: "A",
+    explanation: "VSD 初期血流不大，不會在一週大即有肺水腫；三尖瓣閉鎖合併肺狹窄血流少，反而是肺灌流不足。<br>(A) 錯誤，VSD 不會呈現肺部明顯充血。<br>(B) 正確，TAPVR 可造成肺水腫。<br>(C) 錯誤，三尖瓣閉鎖合併PS 是減少肺血流。<br>(D) 正確，Truncus arteriosus 會肺血流過多。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7327"
+  },
+  {
+    id: 1122409,
+    question: "9. 4週大足月男嬰無特殊病史，全母乳哺餵。因持續黃疸與解灰白色糞便就診。身體診察無生長遲滯，體溫、活動力正常，鞏膜與皮膚黃，並有輕度肝腫大、茶色尿。檢驗結果：total bilirubin 15 mg/dL、direct bilirubin 12.7 mg/dL、ALT 45 U/L、AST 52 U/L、ALP 600 U/L。下列敘述何者最不適當？",
+    options: {
+      A: "剖腹探查及膽道攝影（laparotomy and direct cholangiography）是主要的診斷方式",
+      B: "肝切片組織病理顯示廣泛性發炎細胞浸潤、肝細胞壞死、肝內膽管無明顯異常，可以確診肝外膽道閉鎖 （biliary atresia）",
+      C: "膽道閉鎖（biliary atresia）的手術方式稱為葛西氏手術（Kasai procedure）",
+      D: "膽道閉鎖（biliary atresia）手術的黃金時間為8週大以前"
+    },
+    answer: "B",
+    explanation: "膽道閉鎖需手術探查或影像確診，肝切片可協助但無法單獨確診。<br>(A) 正確，剖腹探查+膽道攝影為主要診斷方法。<br>(B) 錯誤，肝切片只能提示而非確診。<br>(C) 正確，Kasai 手術是主要治療。<br>(D) 正確，黃金時間為8週前。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7328"
+  },
+  {
+    id: 1122410,
+    question: "10. 15歲男孩因臉部長青春痘求醫，醫生開立了藥物治療5天後，他出現了吞嚥疼痛的症狀，下列敘述何者最不適當？",
+    options: {
+      A: "可能是doxycyline引起的食道炎",
+      B: "睡前服藥時沒有配足量的水喝是可能的原因",
+      C: "內視鏡檢查呈現廣泛性的食道潰瘍",
+      D: "支持性療法包括吃流質食物、抑酸劑等"
+    },
+    answer: "C",
+    explanation: "Doxycycline 常造成局部藥物性食道炎，潰瘍多為侷限性，不是廣泛性。<br>(A) 正確，藥物性食道炎典型。<br>(B) 正確，服藥未配水是原因。<br>(C) 錯誤，不會廣泛性。<br>(D) 正確，支持療法為主。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7329"
+  },
+  {
+    id: 1122411,
+    question: "11. 1歲6個月大男童，無特殊病史，解大量褐紅色血便被送到急診。最近2週無發燒、嘔吐、腹痛、皮膚疹或服用藥物。男童平時每日解一次成形軟便，未曾發生血便。身體診察顯示略顯蒼白、心搏快、腹部軟、沒有壓痛 （tenderness）或反彈痛（rebound tenderness）。血紅素值10.8 g/dL、糞便潛血反應呈陽性。下列何項檢查對 於確定診斷的敏感性最高？",
+    options: {
+      A: "腹部血管攝影（abdominal angiography）",
+      B: "肝膽道閃爍攝影（hepatobiliary scintigraphy）",
+      C: "梅克爾憩室檢查（Meckel scan enhanced with cimetidine）",
+      D: "上消化道內視鏡檢查（upper GI panendoscope）"
+    },
+    answer: "C",
+    explanation: "無腹痛與感染症狀，最可能梅克爾憩室，Tc-99m scan 最敏感。<br>(A) 錯誤，血管攝影須大量出血才見。<br>(B) 錯誤，肝膽道閃爍與此無關。<br>(C) 正確，Meckel scan 特異敏感。<br>(D) 錯誤，上消化道內視鏡不能看到梅克爾憩室。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7330"
+  },
+  {
+    id: 1122412,
+    question: "12. 有關腎病症候群（nephrotic syndrome）患者容易受到感染的原因，下列何者最不適當？",
+    options: {
+      A: "源於低免疫球蛋白血症（hypoglobulinemia）",
+      B: "源於低白血球症（leukopenia）",
+      C: "源於尿液流失補體C3與C5",
+      D: "源於尿液流失alternative pathway的factor B與factor D"
+    },
+    answer: "B",
+    explanation: "主要因為低免疫球蛋白血症與補體因子流失，而非白血球減少。<br>(A) 正確，IgG 流失。<br>(B) 錯誤，不會有白血球減少。<br>(C) 正確，C3/C5 流失。<br>(D) 正確，factor B/D 流失。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7331"
+  },
+  {
+    id: 1122413,
+    question: "13. 關於小兒夜間遺尿症（nocturnal enuresis），下列敘述何者最不適當？",
+    options: {
+      A: "如果父母其中之一在小時候有夜間遺尿症，則其子女有夜間遺尿症的風險會提高",
+      B: "要先排除尿崩症、糖尿病和慢性腎臟疾病造成的次發性夜間遺尿症",
+      C: "應評估過夜禁食之尿液滲透壓，以排除多尿造成的次發性夜間遺尿症",
+      D: "因為藥物治療效果很好，應列為第一線治療"
+    },
+    answer: "D",
+    explanation: "第一線治療應為行為治療與警報器，藥物僅用於特定情況。<br>(A) 正確，有家族傾向。<br>(B) 正確，要先排除次發性原因。<br>(C) 正確，需評估尿液滲透壓。<br>(D) 錯誤，藥物不是第一線。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7332"
+  },
+  {
+    id: 1122414,
+    question: "14. 有關兒童的紅斑性狼瘡腎炎（lupus nephritis）之敘述，下列何者最不適當？",
+    options: {
+      A: "兒童的紅斑性狼瘡常合併腎炎",
+      B: "WHO分級class IV的病童會出現血尿、蛋白尿與急性腎臟損傷的變化",
+      C: "類固醇脈衝治療（pulse therapy）與免疫抑制劑適用於所有分級的紅斑性狼瘡腎炎",
+      D: "血管張力素轉換酶抑制劑（ACEI）與血管張力素受體阻斷劑（ARB），可以有效控制血壓並且減少蛋白尿"
+    },
+    answer: "C",
+    explanation: "治療依分級，並非所有 lupus nephritis 都需強烈免疫抑制。<br>(A) 正確，兒童常合併腎炎。<br>(B) 正確，class IV 最嚴重。<br>(C) 錯誤，不是所有分級都需。<br>(D) 正確，ACEI/ARB 可減少蛋白尿。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7333"
+  },
+  {
+    id: 1122415,
+    question: "15. 兒童異位性皮膚炎的好發位置，下列何者最不可能？",
+    options: {
+      A: "嬰幼兒臉部",
+      B: "青少年四肢屈側",
+      C: "嬰幼兒包尿布區域",
+      D: "幼兒四肢伸側"
+    },
+    answer: "C",
+    explanation: "異位性皮膚炎常見於臉、四肢屈側，尿布區少見。<br>(A) 正確，嬰兒常見臉部。<br>(B) 正確，青少年四肢屈側。<br>(C) 錯誤，尿布區不是好發部位。<br>(D) 正確，幼兒四肢伸側可見。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7334"
+  },
+  {
+    id: 1122416,
+    question: "16. 關於過敏機轉，下列敘述何者最不適當？",
+    options: {
+      A: "Th2在IgE相關過敏性疾病中扮演重要的角色",
+      B: "Th2會分泌IL-4、IL-5、IL-13等細胞激素（cytokines）",
+      C: "innate lymphoid cells（ILC）目前可分為ILC1s、ILC2s、ILC3s",
+      D: "ILC3s會被IL-33、IL-25與TSLP活化而誘發過敏反應"
+    },
+    answer: "D",
+    explanation: "這些細胞激素主要活化 ILC2，ILC3 與腸道免疫相關。<br>(A) 正確，Th2 重要。<br>(B) 正確，IL-4/5/13 典型。<br>(C) 正確，ILC1/2/3 分類。<br>(D) 錯誤，ILC3 不受 IL-33/25/TSLP 主導。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7335"
+  },
+  {
+    id: 1122417,
+    question: "17. 關於蕁麻疹（urticaria）的敘述，下列何者最不適當？",
+    options: {
+      A: "症狀為突發性、隆起於皮膚的風疹塊（wheal）",
+      B: "IgE媒介所導致的過敏反應",
+      C: "病灶持續時間達4星期，即為慢性蕁麻疹（chronic urticaria）",
+      D: "慢性蕁麻疹（chronic urticaria）會影響較深處的皮膚及黏膜組織造成腫脹，稱之為血管性水腫 （angioedema）"
+    },
+    answer: "C",
+    explanation: "慢性蕁麻疹定義為病灶反覆 ≥6週。<br>(A) 正確，突發風疹塊是特徵。<br>(B) 正確，常為 IgE 介導。<br>(C) 錯誤，應 ≥6週才算慢性。<br>(D) 正確，慢性蕁麻疹可合併血管性水腫。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7336"
+  },
+  {
+    id: 1122418,
+    question: "18. 關於兒童特發性血小板減少性紫斑症（idiopathic thrombocytopenic purpura, ITP），下列敘述何者最適當？",
+    options: {
+      A: "通常發生在病毒感染後1～4週後",
+      B: "好發年齡在11～14歲",
+      C: "常會合併嚴重貧血現象",
+      D: "治療以輸血小板為主"
+    },
+    answer: "A",
+    explanation: "ITP 常在病毒感染後發生，其他選項皆不正確。<br>(A) 正確，典型病程。<br>(B) 錯誤，好發年齡 2–10 歲。<br>(C) 錯誤，通常無嚴重貧血。<br>(D) 錯誤，治療以觀察或類固醇為主。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7337"
+  },
+  {
+    id: 1122419,
+    question: "19. 關於兒童癌症，下列敘述何者最不適當？",
+    options: {
+      A: "白血病是兒童最常見的癌症之一",
+      B: "實體腫瘤（solid tumor）的正確診斷常需要影像與組織學判讀",
+      C: "大部分兒童癌症主要的治療是使用標靶藥物",
+      D: "特定疾病（如神經纖維瘤）的兒童罹患癌症的風險會增加"
+    },
+    answer: "C",
+    explanation: "兒童癌症治療以化療、手術、放療為主，標靶僅部分腫瘤使用。<br>(A) 正確，白血病最常見。<br>(B) 正確，需影像與組織學。<br>(C) 錯誤，並非以標靶為主。<br>(D) 正確，某些疾病會提高癌症風險。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7338"
+  },
+  {
+    id: 1122420,
+    question: "20. 關於異體造血幹細胞移植的適應症，下列何者最不適當？",
+    options: {
+      A: "重型地中海型貧血",
+      B: "急性淋巴性白血病",
+      C: "嚴重型再生不良性貧血",
+      D: "系統性紅斑性狼瘡"
+    },
+    answer: "D",
+    explanation: "幹細胞移植常用於重型血液疾病，如地中海型貧血、急性白血病、再生不良性貧血，但不包括SLE。<br>(A) 正確，重型地中海型貧血是適應症。<br>(B) 正確，急性淋巴性白血病可考慮。<br>(C) 正確，嚴重再生不良性貧血是適應症。<br>(D) 錯誤，SLE 不在常規適應症內。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7339"
+  },
+  {
+    id: 1122421,
+    question: "21. 下列病因與兒童休克型態的關聯，何者最不適當？",
+    options: {
+      A: "張力性氣胸：阻塞性（obstructive）",
+      B: "擴張性心肌病變：心因性（cardiogenic）",
+      C: "心包膜填塞：分布性（distributive）",
+      D: "腎病症候群：低容積性（hypovolemic）"
+    },
+    answer: "C",
+    explanation: "休克可依機制分為低容積性、心因性、阻塞性、分布性。心包膜填塞（cardiac tamponade）是阻塞性休克的典型原因，而非分布性。<br>(A) 正確，張力性氣胸會壓迫靜脈回流，屬阻塞性休克。<br>(B) 正確，擴張性心肌病變導致心肌收縮不良，屬心因性休克。<br>(C) 錯誤，心包膜填塞屬阻塞性，而非分布性。<br>(D) 正確，腎病症候群因低白蛋白血症造成低血容量，屬低容積性。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7340"
+  },
+  {
+    id: 1122422,
+    question: "22. 下列何者不屬於低壓缺氧（hypobaric hypoxia）時所可能表現的順應（acclimatization）現象？",
+    options: {
+      A: "呼吸加速",
+      B: "血壓上升",
+      C: "心跳加速",
+      D: "血管張力（venous tone）下降"
+    },
+    answer: "D",
+    explanation: "高山低壓缺氧時，常見反應包括呼吸加速、心跳加速、血壓上升，以維持供氧。靜脈張力下降並非典型表現。<br>(A) 正確，缺氧時呼吸速率增加。<br>(B) 正確，血壓通常升高以維持灌流。<br>(C) 正確，心跳加速屬典型反應。<br>(D) 錯誤，靜脈張力下降不是典型順應機制。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7341"
+  },
+  {
+    id: 1122423,
+    question: "23. 下列何種病因在兒童族群當中，最不會出現多尿（polyuria）症狀？",
+    options: {
+      A: "中樞型尿崩症（central diabetes insipidus）",
+      B: "低血鈣症（hypocalcemia）",
+      C: "原發性多喝症（primary polydipsia）",
+      D: "第1型糖尿病（type 1 diabetes mellitus）"
+    },
+    answer: "B",
+    explanation: "多尿常見於尿崩症、原發性多喝症、第1型糖尿病；而低血鈣則會導致抽搐、肌肉痙攣，而非多尿。<br>(A) 正確，中樞型尿崩症會導致多尿。<br>(B) 錯誤，低血鈣症不會造成多尿。<br>(C) 正確，原發性多喝症可造成多尿。<br>(D) 正確，第1型糖尿病因高血糖滲透性利尿會有多尿。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7342"
+  },
+  {
+    id: 1122424,
+    question: "24. 下列關於兒童性早熟的敘述，何者最不適當？",
+    options: {
+      A: "女孩8歲以前、男孩9歲以前有第二性徵的出現，即符合性早熟的定義",
+      B: "並非所有的性早熟都會影響病童的最終成人身高（adult height）",
+      C: "相較女孩而言，男孩性早熟有較高的可能是器質性（organic）原因所導致",
+      D: "中樞性性早熟的病童都應接受性釋素類似物（GnRH agonist）治療，以延緩青春期的進展"
+    },
+    answer: "D",
+    explanation: "並非所有中樞性性早熟都需要治療，需考量骨齡進展與最終身高潛能。<br>(A) 正確，女孩<8歲、男孩<9歲即為性早熟。<br>(B) 正確，有些性早熟並不會影響最終成人身高。<br>(C) 正確，男孩性早熟較常有器質性原因。<br>(D) 錯誤，治療需視病情，不是所有病人都要使用GnRH agonist。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7343"
+  },
+  {
+    id: 1122425,
+    question: "25. 13歲男孩因身材矮小而就診，出生時體重3公斤，父親164公分，母親153公分。此男孩身體診察顯示身高136公分（低於第3百分位），體重38公斤（第10百分位），左右睪丸均為4毫升，無陰毛發育，骨齡檢查結果為 11歲。應優先考慮下列那一種診斷？",
+    options: {
+      A: "家族性身材矮小（familial short stature）",
+      B: "體質性生長遲延（constitutional growth delay）",
+      C: "腦垂體低能症（hypopituitarism）",
+      D: "先天性腎上腺增生（congenital adrenal hyperplasia）"
+    },
+    answer: "C",
+    explanation: "骨齡落後、身高低於第3百分位，且青春期發育落後，符合腦垂體低能症。<br>(A) 錯誤，家族性身材矮小骨齡通常正常。<br>(B) 錯誤，體質性生長遲延多見於青春期延後但最終身高正常。<br>(C) 正確，骨齡落後、青春期發育不足。<br>(D) 錯誤，先天性腎上腺增生會有性早熟。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7344"
+  },
+  {
+    id: 1122426,
+    question: "26. 患有潛在疾病的患者，常會增加特定嚴重感染的發生風險，下列潛在疾病與引發感染之組合，何者最不恰 當？",
+    options: {
+      A: "無脾症：常見b型流行嗜血桿菌和肺炎鏈球菌引起的菌血症",
+      B: "鐮狀細胞病：常見沙門氏菌引起的骨髓炎",
+      C: "補體缺乏：常見瘧原蟲引起的瘧疾",
+      D: "原發性先天性中性球減少症：常見金黃色葡萄球菌或綠膿桿菌感染之膿瘍"
+    },
+    answer: "C",
+    explanation: "補體缺乏常見與奈瑟氏菌感染（meningococcus）相關，而非瘧疾。<br>(A) 正確，無脾症患者易感染肺炎鏈球菌、嗜血桿菌。<br>(B) 正確，鐮狀細胞病常與沙門氏菌骨髓炎相關。<br>(C) 錯誤，補體缺乏與瘧疾無直接關聯。<br>(D) 正確，中性球減少症常見葡萄球菌或綠膿桿菌感染。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7345"
+  },
+  {
+    id: 1122427,
+    question: "27. 3個月大男嬰近兩天在臉上、身上出現一些水泡樣的丘疹，無發燒，無呼吸道及腸胃道症狀。依據臨床表徵與接觸史，下列何者是最有可能的感染來源？",
+    options: {
+      A: "2天前姐姐出現嬰兒玫瑰疹",
+      B: "2週前哥哥出現水痘",
+      C: "5天前媽媽出現帶狀疱疹",
+      D: "3週前鄰居出現手足口症"
+    },
+    answer: "B",
+    explanation: "水痘潛伏期約2週，臨床表現為水泡樣皮疹。<br>(A) 錯誤，嬰兒玫瑰疹潛伏期不符且臨床不一致。<br>(B) 正確，潛伏期與症狀吻合。<br>(C) 錯誤，帶狀疱疹傳染力低且不符時間。<br>(D) 錯誤，手足口症潛伏期3-7天，不符臨床表現。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7346"
+  },
+  {
+    id: 1122428,
+    question: "28. 3歲男童無特殊病史或藥物過敏史，因發燒就診，耳溫測量為40℃，診斷為急性扁桃腺炎。下列發燒處置及衛教，何者最不適當？",
+    options: {
+      A: "可以使用ibuprofen暫時降溫",
+      B: "僅靠溫水拭浴無法達到降低體溫的效果",
+      C: "使用退燒藥無法改變疾病病程",
+      D: "發燒的機轉為身體散熱不良"
+    },
+    answer: "D",
+    explanation: "發燒是由下視丘體溫調節中樞上升設定點，而非散熱不良。<br>(A) 正確，ibuprofen可降溫。<br>(B) 正確，單靠溫水拭浴效果有限。<br>(C) 正確，退燒藥僅改善症狀，不改變病程。<br>(D) 錯誤，發燒主要為設定點上移。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7347"
+  },
+  {
+    id: 1122429,
+    question: "29. 有關單純型熱性痙攣（simple febrile seizure）的敘述，下列何者最不適當？",
+    options: {
+      A: "一般發生在6～60個月的孩童（巔峰12～18個月）",
+      B: "家族中有熱性痙攣病史的機率較一般人高",
+      C: "通常都在發燒的24小時以內發作，而且不超過一次",
+      D: "發作時間通常超過15分鐘，甚至可能產生癲癇重積狀態（status epilepticus）"
+    },
+    answer: "D",
+    explanation: "單純型熱性痙攣為6–60個月，發作<15分鐘，24小時內不重複。<br>(A) 正確，年齡範圍符合。<br>(B) 正確，家族中有熱痙攣機率較高。<br>(C) 正確，通常在發燒24小時內一次。<br>(D) 錯誤，若超過15分鐘或重複則為複雜型。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7348"
+  },
+  {
+    id: 1122430,
+    question: "30. 有關妥瑞氏症候群（Tourette syndrome）的敘述，下列何者最不適當？",
+    options: {
+      A: "包含動作型、聲音型抽動（tics），症狀時間超過一年",
+      B: "需注意有無合併注意力不足／過動症（attention-deficit/hyperactivity disorder）",
+      C: "大多數個案在進入成年期，症狀會越來越明顯",
+      D: "有些個案可能會合併有強迫症（obsessive-compulsive disorder）"
+    },
+    answer: "C",
+    explanation: "妥瑞氏症常在青春期後逐漸減輕，而非惡化。<br>(A) 正確，需有運動及聲音抽動超過一年。<br>(B) 正確，需評估是否合併ADHD。<br>(C) 錯誤，症狀多隨年齡改善。<br>(D) 正確，部分合併強迫症。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7349"
+  },
+  {
+    id: 1122431,
+    question: "31. 下列何疾病會造成前囟門（anterior fontanelle）早期關閉？",
+    options: {
+      A: "craniosynostosis",
+      B: "achondroplasia",
+      C: "hypothyroidism",
+      D: "hydrocephalus"
+    },
+    answer: "A",
+    explanation: "顱縫早閉會導致前囟門提早閉合。<br>(A) 正確，顱縫早閉導致早閉。<br>(B) 錯誤，achondroplasia囟門閉合時間不提前。<br>(C) 錯誤，hypothyroidism常延遲閉合。<br>(D) 錯誤，hydrocephalus囟門通常延遲閉合。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7350"
+  },
+  {
+    id: 1122432,
+    question: "32. 3個月大寶寶洗澡時被發現右側頭頂有一包血腫，無發燒、咳嗽、流鼻水等症狀，但是奶量減少且有些嗜睡。下列敘述何者最適當？",
+    options: {
+      A: "這個年紀的頭部外傷，大多數是寶寶的日常活動受傷所導致",
+      B: "如臨床評估需要，腦部核磁共振（MRI）可初步偵測可能的腦內出血",
+      C: "身體診察發現寶寶的左大腿內側有瘀傷，此部位是此年紀活動常見的受傷部位",
+      D: "受虐性腦傷（abusive head trauma）應列入鑑別診斷"
+    },
+    answer: "D",
+    explanation: "嬰兒不會因日常活動造成頭部血腫，應懷疑受虐。<br>(A) 錯誤，此年齡活動力不足。<br>(B) 錯誤，急診初步檢查應為頭部CT，不是MRI。<br>(C) 錯誤，左大腿內側瘀傷屬非典型外傷位置。<br>(D) 正確，需考慮受虐。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7351"
+  },
+  {
+    id: 1122433,
+    question: "33. 有關粒線體基因致病性變異的遺傳（mitochondrial inheritance），下列敘述何者最不適當？",
+    options: {
+      A: "粒線體DNA主要是遺傳自母親（maternal inherited）",
+      B: "男女皆有可能罹患此類疾病",
+      C: "變異形式主要為缺失（deletion）或點突變（point mutation）",
+      D: "一般人身上都帶有一個由母親遺傳而來的粒線體基因病變"
+    },
+    answer: "D",
+    explanation: "並非人人都有致病突變。<br>(A) 正確，粒線體DNA由母系遺傳。<br>(B) 正確，男女都可發病。<br>(C) 正確，常見缺失或點突變。<br>(D) 錯誤，並非每個人都有致病性變異。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7352"
+  },
+  {
+    id: 1122434,
+    question: "34. 下列關於異位性皮膚炎（atopic dermatitis）的敘述，何者錯誤？",
+    options: {
+      A: "嬰兒時期（infancy）可發生在臉部",
+      B: "嬰兒時期（infancy）多發生在肢體屈側（flexor side）",
+      C: "嬰兒時期（infancy）常伴隨食物過敏",
+      D: "成人時期（adulthood）的異位性皮膚炎，可以慢性手部濕疹（chronic hand eczema）作為表現"
+    },
+    answer: "B",
+    explanation: "嬰兒期常在臉頰、伸側，兒童期才以屈側為主。<br>(A) 正確，嬰兒期常見於臉部。<br>(B) 錯誤，嬰兒期不是屈側。<br>(C) 正確，嬰兒期常伴隨食物過敏。<br>(D) 正確，成人期可表現為手部濕疹。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7353"
+  },
+  {
+    id: 1122435,
+    question: "35. 55歲男性乾癬患者同時有高血壓及高血脂，自述最近乾癬症狀加劇。該病人服用之藥物如下，何者與乾癬惡化最為相關？",
+    options: {
+      A: "furosemide",
+      B: "propranolol",
+      C: "prazosin",
+      D: "atorvastatin"
+    },
+    answer: "B",
+    explanation: "β阻斷劑與乾癬惡化相關。<br>(A) 錯誤，furosemide與乾癬關聯不強。<br>(B) 正確，propranolol會加重乾癬。<br>(C) 錯誤，prazosin與乾癬無關。<br>(D) 錯誤，atorvastatin通常無直接影響。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7354"
+  },
+  {
+    id: 1122436,
+    question: "36. 13歲男孩，近一個月在頸部出現皮疹如圖所示，最可能的診斷為何？",
+    options: {
+      A: "汗管瘤（syringoma）",
+      B: "類澱粉症苔癬（lichen amyloidosus）",
+      C: "尋常性痤瘡（acne vulgaris）",
+      D: "扁平疣（verruca plana）"
+    },
+    answer: "D",
+    explanation: "根據圖像顯示頸部出現多個小而平坦的肉色丘疹，分布密集且表面光滑，符合扁平疣的典型表現。<br>(A) 錯誤，汗管瘤（syringoma）通常是更小的黃色丘疹，多見於眼周<br>(B) 錯誤，類澱粉症蕁麻疹（lichen amyloidosus）通常有鱗屑且質地較硬<br>(C) 錯誤，尋常性痤瘡（acne vulgaris）會有粉刺、丘疹或膿疱，不是這種平坦病灶<br>(D) 正確，扁平疣表現為多個小而平坦的肉色丘疹，好發於頸部等摩擦部位",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7355"
+  },
+  {
+    id: 1122437,
+    question: "37. 承上題，下列何種治療較為適當？",
+    options: {
+      A: "手術切除",
+      B: "外用類固醇",
+      C: "外用抗生素",
+      D: "冷凍治療"
+    },
+    answer: "D",
+    explanation: "扁平疣的治療以物理性破壞為主，冷凍治療是安全有效的標準治療方式。<br>(A) 錯誤，手術切除對於多發性小病灶過於侵襲性且不實際<br>(B) 錯誤，外用類固醇對病毒感染無效且可能惡化<br>(C) 錯誤，外用抗生素對病毒性疣無治療效果<br>(D) 正確，冷凍治療是扁平疣的標準治療方法，安全有效",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7356"
+  },
+  {
+    id: 1122438,
+    question: "38. 8歲女童，主訴近兩年來發現右手食指指甲下出現如圖①所示慢慢變大而且會痛的增生物。臨床醫師排了一個 X光攝影檢查，結果如圖②③箭頭所示。下列何者是最可能的診斷？",
+    options: {
+      A: "甲下病毒疣（subungual viral wart）",
+      B: "甲下角化棘皮瘤（subungual keratoacanthoma）",
+      C: "甲下外生骨（subungual exostosis）",
+      D: "甲下血管球腫瘤（subungual glomus tumor）"
+    },
+    answer: "C",
+    explanation: "X光顯示骨性增生，符合甲下外生骨。<br>(A) 錯誤，病毒疣不會有骨性影像。<br>(B) 錯誤，角化棘皮瘤不是典型骨性病灶。<br>(C) 正確，X光顯示骨增生。<br>(D) 錯誤，血管球瘤表現不同。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7357"
+  },
+  {
+    id: 1122439,
+    question: "39. 在國內使用下列何種藥物以前，建議先做HLA-B*1502基因檢測，以避免產生Stevens-Johnson syndrome或toxic epidermal necrolysis？",
+    options: {
+      A: "abacavir",
+      B: "allopurinol",
+      C: "carbamazepine",
+      D: "hydralazine"
+    },
+    answer: "C",
+    explanation: "HLA-B1502與carbamazepine相關的SJS/TEN風險。<br>(A) 錯誤，abacavir需檢測HLA-B5701。<br>(B) 錯誤，allopurinol與HLA-B5801有關。<br>(C) 正確，carbamazepine與HLA-B*1502相關。<br>(D) 錯誤，hydralazine與HLA無關。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7358"
+  },
+  {
+    id: 1122440,
+    question: "40. 有關全身性硬化症（systemic sclerosis）各項症狀的治療選擇，下列何者正確？",
+    options: {
+      A: "皮膚硬化；UVA1紫外光治療",
+      B: "手指潰瘍；局部類固醇注射",
+      C: "微血管擴張；口服類固醇治療",
+      D: "皮膚鈣化；復健物理治療（physiotherapy）"
+    },
+    answer: "A",
+    explanation: "UVA1光療可改善皮膚硬化，其他選項治療方式皆不正確。<br>(A) 正確，UVA1光療對皮膚硬化有效。<br>(B) 錯誤，手指潰瘍需血管擴張治療。<br>(C) 錯誤，微血管擴張（telangiectasia）不需口服類固醇。<br>(D) 錯誤，皮膚鈣化治療以外科處理或藥物為主，非復健。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7359"
+  },
+  {
+    id: 1122441,
+    question: "41. 有關下列疾病與指甲變化的配對，何者最不常見？",
+    options: {
+      A: "乾癬（psoriasis）；點狀凹痕（pitting）",
+      B: "扁平苔癬（lichen planus）；指甲萎縮",
+      C: "圓禿（alopecia areata）；油滴狀變色（oil spot/ salmon spot）",
+      D: "甲癬（tinea unguium）；指甲下角質增厚（subungual hyperkeratosis）"
+    },
+    answer: "C",
+    explanation: "圓禿（alopecia areata）的指甲變化常見於點狀凹痕（nail pitting），油滴狀變色則高度專一於乾癬（psoriasis），因此(C)最不常見。<br>(A) 正確，乾癬常見點狀凹痕<br>(B) 正確，扁平苔癬可出現指甲萎縮<br>(C) 錯誤，圓禿多見點狀凹痕，油滴狀變色專一於乾癬<br>(D) 正確，甲癬常見指甲下角質增厚",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7360"
+  },
+  {
+    id: 1122442,
+    question: "42. 下列有關化膿性汗腺炎（hidradenitis suppurativa）之敘述，何者錯誤？",
+    options: {
+      A: "男性較女性常見",
+      B: "病灶通常呈對稱分布於腋下或腹股溝處",
+      C: "針對廣泛性反覆發作的病灶，手術切除合併皮瓣重建是一個合理的治療選項",
+      D: "長期發炎的病灶會有產生鱗狀上皮細胞癌的可能",
+      E: "一律給分"
+    },
+    answer: "E",
+    explanation: "此題標註一律給分，表示題目可能有爭議或錯誤，所有選項都給分。<br>(A) 錯誤，化膿性汗腺炎女性較男性常見，男女比例約1:3<br>(B) 正確，病灶確實通常對稱分布於腋下、腹股溝等頂漿腺豐富處<br>(C) 正確，對於廣泛性反覆發作的病灶，手術切除合併皮瓣重建是合理治療選項<br>(D) 正確，長期慢性發炎確實有發生鱗狀細胞癌的風險<br>(E) 正確，題目標註一律給分",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7361"
+  },
+  {
+    id: 1122443,
+    question: "43. 下列有關Darier disease之敘述，何者錯誤？",
+    options: {
+      A: "為體染色體顯性遺傳疾病",
+      B: "冬季時因皮膚乾燥，病灶容易惡化",
+      C: "指甲脆弱易裂，並可見紅色或白色條紋（longitudinal bands）",
+      D: "皮膚可能合併細菌或病毒的感染"
+    },
+    answer: "B",
+    explanation: "Darier disease是體染色體顯性遺傳疾病，常因夏季炎熱、出汗或紫外線照射惡化，而非冬季。可有指甲異常及繼發感染。<br>(A) 正確，屬於體染色體顯性遺傳<br>(B) 錯誤，好發於夏季惡化，不是冬季<br>(C) 正確，可見縱向紅白條紋與指甲脆裂<br>(D) 正確，皮膚病灶易合併細菌或病毒感染",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7362"
+  },
+  {
+    id: 1122444,
+    question: "44. 毛毛樣血管疾病（moyamoya disease），指的是下列何種病變？",
+    options: {
+      A: "腦部腫瘤延著小血管擴散",
+      B: "腦部動靜脈畸形合併周圍血管增生",
+      C: "顱內大血管阻塞合併側枝循環增生",
+      D: "中樞結核感染合併血管炎"
+    },
+    answer: "C",
+    explanation: "Moyamoya病為腦內頸動脈末端或大血管漸進性狹窄/閉塞，導致異常側枝循環，影像如「煙霧狀」。<br>(A) 錯誤，不是腫瘤擴散<br>(B) 錯誤，不是AVM<br>(C) 正確，典型病理機轉<br>(D) 錯誤，不是結核性血管炎",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7363"
+  },
+  {
+    id: 1122445,
+    question: "45. 有關腦中風預防策略，下列敘述何者最不恰當？",
+    options: {
+      A: "症狀性顱內中大腦動脈70%狹窄，應優先考慮使用抗凝血劑（anticoagulant）預防中風",
+      B: "症狀性顱外內頸動脈70%狹窄，可考慮頸動脈支架置放術（carotid artery stenting）預防中風",
+      C: "來源不明之栓塞型中風（embolic stroke of undetermined source），可使用抗血小板藥物預防中風",
+      D: "CHA2DS2-VASc分數為0分之非瓣膜性心房顫動（atrial fibrillation），暫不使用抗血栓藥物"
+    },
+    answer: "A",
+    explanation: "顱內動脈狹窄以抗血小板為主，不建議常規使用抗凝血劑。頸動脈狹窄可考慮支架，栓塞來源不明用抗血小板，低分數AF可不立即給藥。<br>(A) 錯誤，顱內狹窄不建議抗凝血劑<br>(B) 正確，頸動脈狹窄可考慮支架<br>(C) 正確，ESUS建議抗血小板<br>(D) 正確，低風險AF可暫不給藥",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7364"
+  },
+  {
+    id: 1122446,
+    question: "46. 49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non- contrast CT）檢查結果如下圖①，5天後的腦部磁振造影（MRI）檢查結果如下圖②（Fluid attenuated inversion recovery, FLAIR）及圖③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？",
+    options: {
+      A: "高血壓引發腦出血",
+      B: "腦腫瘤合併中心壞死（central necrosis）",
+      C: "多發性硬化症（multiple sclerosis）急性發作",
+      D: "弓形蟲（toxoplasma）腦內感染"
+    },
+    answer: "A",
+    explanation: "臨床為高血壓病史且影像顯示急性出血，符合高血壓性腦出血。腫瘤或感染通常伴增強或不同分布。<br>(A) 正確，典型高血壓腦出血<br>(B) 錯誤，腫瘤影像與病程不符<br>(C) 錯誤，多發性硬化症影像不同<br>(D) 錯誤，弓形蟲常見於免疫缺陷，且影像有增強",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7365"
+  },
+  {
+    id: 1122447,
+    question: "47. 10歲女童因「夢遊症」求診，她入睡時間正常，但入睡後約1～3小時會突然從床上坐起來在房間走動，偶爾會打開門走出去，又走回臥室。整個發作期間都是一些簡單沒有實際意義的行為，每週約發生1次，每次持續 約15～30分鐘，白天特別累時夜晚就容易發生，隔天早上不記得昨夜發生的事，腦波檢查沒有癲癇症的證 據。下列敘述何者錯誤？",
+    options: {
+      A: "通常發生在非快速動眼期睡眠（non-rapid eye movement sleep, NREM sleep）之第三期（stage N3）",
+      B: "有可能合併夜驚症（sleep terrors）和覺醒障礙症（confusional arousals）",
+      C: "發作時為夢境實演（dream enactment behavior）的行為",
+      D: "除非有安全上的考量，基本上不需要藥物治療"
+    },
+    answer: "C",
+    explanation: "夢遊發生於NREM stage N3，屬於覺醒障礙，與REM睡眠行為障礙不同。<br>(A) 正確，發生於N3期<br>(B) 正確，可能合併夜驚或覺醒障礙<br>(C) 錯誤，夢境實演為REM睡眠行為障礙<br>(D) 正確，除安全疑慮通常不需藥物",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7366"
+  },
+  {
+    id: 1122448,
+    question: "48. 下列何種神經傳導物質與偏頭痛最沒有關聯？",
+    options: {
+      A: "降鈣素基因相關胜肽（calcitonin gene-related peptide）",
+      B: "血清素（serotonin or 5-hydroxytryptamine）",
+      C: "乙醯膽鹼（acetylcholine）",
+      D: "多巴胺（dopamine）",
+      E: "一律給分"
+    },
+    answer: "E",
+    explanation: "此題標註一律給分，表示題目可能有爭議或答案不明確。以下分析各選項與偏頭痛的關聯性：<br>(A) 正確相關，降鈣素基因相關胜肽（calcitonin gene-related peptide）在偏頭痛病理機轉中扮演重要角色<br>(B) 正確相關，血清素（serotonin）是偏頭痛重要的神經傳導物質<br>(C) 可能較少相關，乙醯膽鹼（acetylcholine）與偏頭痛的直接關聯性相對較低<br>(D) 正確相關，多巴胺（dopamine）與偏頭痛的前驅症狀和噁心嘔吐有關",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7367"
+  },
+  {
+    id: 1122449,
+    question: "49. 下列敘述何者最不可能是癲癇誘發因素？",
+    options: {
+      A: "15歲女孩於3歲大時曾發作單純型熱痙攣（simple febrile seizure），後續神經學功能正常無後遺症",
+      B: "60歲陳舊性大片腦中風女性患者，近日發生尿路感染合併敗血症",
+      C: "38歲男性癲癇患者，因抗癲癇藥物用完自行停藥三日",
+      D: "55歲男性糖尿病患者血糖控制不佳，伴有酮酸中毒症"
+    },
+    answer: "A",
+    explanation: "單純型熱痙攣通常不影響後續癲癇發作風險，其他因素如感染、停藥、高血糖皆可誘發。<br>(A) 錯誤，單純型熱痙攣後不增加風險<br>(B) 正確，感染敗血症可誘發癲癇<br>(C) 正確，停藥是常見誘因<br>(D) 正確，代謝失衡如酮酸中毒可誘發",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7368"
+  },
+  {
+    id: 1122450,
+    question: "50. 關於巴金森氏病（Parkinson disease）之治療，下列何者錯誤？",
+    options: {
+      A: "左多巴（levodopa）是黃金治療準則，愈早使用大劑量對病患愈有利",
+      B: "多巴胺促效劑（dopamine agonist）是治療選擇之一，尤其是對較年輕的患者",
+      C: "多巴胺促效劑（dopamine agonist）可作用於不同類型之dopamine receptors",
+      D: "對口服藥物藥效波動大的患者，視丘下核（subthalamic nucleus）刺激術是有效的治療選擇"
+    },
+    answer: "A",
+    explanation: "Levodopa為黃金標準，但並非愈早大量使用愈好，因長期使用會導致運動併發症。<br>(A) 錯誤，治療需漸進調整，不宜早期大劑量<br>(B) 正確，dopamine agonist適用於年輕患者<br>(C) 正確，可作用於不同dopamine receptors<br>(D) 正確，STN DBS對藥效波動患者有效",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7369"
+  },
+  {
+    id: 1122451,
+    question: "51. 關於普里昂疾病（prion disease），下列敘述何者錯誤？",
+    options: {
+      A: "prion disease是因為病毒感染造成普里昂蛋白（prion protein）的錯誤摺疊（misfolding）之後形成的神經退化 性疾病",
+      B: "可分為散發性（sporadic），普里昂蛋白基因突變（genetic mutations in the prion protein gene）及後天性 （acquired），其中以散發性最多",
+      C: "散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）臨床表現為快速進展的認知功能障礙、行為改變、動 作障礙、視覺障礙及全身的症狀（constitutional symptoms）",
+      D: "散發性的庫賈氏症（sporadic Creutzfeldt-Jakob disease）診斷除臨床表現之外，目前尚需要腦波、腦部磁振造 影或腦脊髓液的14-3-3蛋白檢測"
+    },
+    answer: "A",
+    explanation: "Prion病不是病毒引起，而是正常蛋白錯誤摺疊後的傳播。散發型最多，CJD臨床表現進展快速。<br>(A) 錯誤，病因為蛋白錯誤摺疊<br>(B) 正確，分為散發、遺傳、後天型<br>(C) 正確，CJD症狀典型<br>(D) 正確，診斷需輔助檢查",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7370"
+  },
+  {
+    id: 1122452,
+    question: "52. 王小姐40歲，三年前開始出現不自主的動作如擠眉弄眼、扮鬼臉、聳肩、抬手或扭腰等等，在身體各部位出現，且愈來愈頻繁。一年前她記憶力有衰退現象，常常打錯字，她的父親在48歲時也出現類似症狀，在55歲 時自殺死亡。她最可能的診斷是：",
+    options: {
+      A: "脊髓小腦共濟失調症（spinocerebellar ataxia）",
+      B: "巴金森氏病（Parkinson disease）",
+      C: "亨丁頓氏病（Huntington disease）",
+      D: "肌萎縮性側索硬化（amyotrophic lateral sclerosis）"
+    },
+    answer: "C",
+    explanation: "臨床有舞蹈症狀、不自主動作、記憶下降及家族史，符合亨丁頓舞蹈症。<br>(A) 錯誤，SCA以小腦症狀為主<br>(B) 錯誤，PD為靜止性震顫、僵硬<br>(C) 正確，典型HD<br>(D) 錯誤，ALS為運動神經元疾病",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7371"
+  },
+  {
+    id: 1122453,
+    question: "53. 下列疾病的臨床症狀，何者最不可能出現波動性（fluctuating）或間歇性（intermittent）無力？",
+    options: {
+      A: "肌無力症候群（myasthenic syndrome）",
+      B: "甲狀腺亢進相關的低血鉀性肌肉無力（thyrotoxic hypokalemic weakness）",
+      C: "週期性麻痺（periodic paralysis）",
+      D: "運動神經元疾病（motor neuron disease）"
+    },
+    answer: "D",
+    explanation: "MND為進行性，不呈波動。MG、週期性麻痺、甲亢相關肌無力均為間歇或波動。<br>(A) 正確，MG有波動性<br>(B) 正確，甲亢肌無力與電解質異常相關<br>(C) 正確，週期性麻痺呈發作性<br>(D) 錯誤，MND為進行性",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7372"
+  },
+  {
+    id: 1122454,
+    question: "54. 關於多發性肌炎（polymyositis）的敘述，下列何者最不恰當？",
+    options: {
+      A: "常出現複視症狀",
+      B: "少數可能伴隨有癌症",
+      C: "主要為侵犯肢體近端肌肉",
+      D: "以類固醇治療為主"
+    },
+    answer: "A",
+    explanation: "多發性肌炎主要侵犯肢體近端肌群，不侵犯眼肌，因此不會出現複視。<br>(A) 錯誤，複視屬於重症肌無力<br>(B) 正確，少數合併癌症<br>(C) 正確，侵犯近端肌群<br>(D) 正確，治療以類固醇為主",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7373"
+  },
+  {
+    id: 1122455,
+    question: "55. 18歲男性，游泳跳水時，不慎頭部撞擊到泳池底部，神經學檢查發現肛門反射（anal reflex）及球海綿體肌反射（bulbocavernosus reflex）消失，同時四肢運動及感覺功能喪失，其最佳的診斷為何？",
+    options: {
+      A: "頸椎第五節（C5）前脊髓損傷",
+      B: "頸椎第五節（C5）後脊髓損傷",
+      C: "頸椎第五節（C5）中央脊髓症候群",
+      D: "頸椎第五節（C5）脊髓休克"
+    },
+    answer: "D",
+    explanation: "急性外傷後所有反射消失，四肢癱瘓，典型脊髓休克表現。<br>(A) 錯誤，單純前脊髓損傷表現不同<br>(B) 錯誤，後索損傷僅感覺異常<br>(C) 錯誤，中央脊髓症候群臨床不同<br>(D) 正確，符合脊髓休克",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7374"
+  },
+  {
+    id: 1122456,
+    question: "56. 關於多發性硬化症（multiple sclerosis），下列敘述何者錯誤？",
+    options: {
+      A: "為中樞神經白質去髓鞘病變（demyelinating disease）",
+      B: "緯度愈高，天氣愈冷的地區，發生率愈低",
+      C: "視神經發炎是常見的初始症狀",
+      D: "病人可能合併疲倦及沮喪等症狀"
+    },
+    answer: "B",
+    explanation: "MS在高緯度地區發生率愈高，而非愈低。<br>(A) 正確，屬於中樞脫髓鞘病<br>(B) 錯誤，緯度高發生率高<br>(C) 正確，視神經炎常為初始症狀<br>(D) 正確，疲倦與憂鬱常見",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7375"
+  },
+  {
+    id: 1122457,
+    question: "57. 唐氏症（Down syndrome）的病人在40歲之後會出現阿茲海默氏病（Alzheimer disease）的神經病理變化。這個現象是因為下列那個基因過度表現所造成的？",
+    options: {
+      A: "APOE",
+      B: "PSEN1",
+      C: "PSEN2",
+      D: "APP"
+    },
+    answer: "D",
+    explanation: "唐氏症患者第21對染色體三體，APP基因位於21號染色體，導致過度表現。<br>(A) 錯誤，APOE為風險因子<br>(B) 錯誤，PSEN1屬家族性AD<br>(C) 錯誤，PSEN2同屬家族性<br>(D) 正確，APP過度表現",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7376"
+  },
+  {
+    id: 1122458,
+    question: "58. 關於急性化膿性腦膜炎（acute purulent meningitis）的敘述，下列何者最恰當？",
+    options: {
+      A: "高達80%以上的病人會同時出現高燒、頸部僵硬及意識改變的臨床表徵",
+      B: "因B型鏈球菌（group B streptococcus）感染造成的比率約5%",
+      C: "在得知細菌培養結果之前，為防治具盤尼西林抗藥性的肺炎鏈球菌（S. pneumoniae），所使用的抗生素須包 括第三代的頭孢菌素類（cephalosporin）",
+      D: "病人腦壓升高時，可能會出現心跳變快、血壓上升及呼吸不規則的變化"
+    },
+    answer: "C",
+    explanation: "臨床診斷時需立即給予廣效抗生素覆蓋耐藥肺炎鏈球菌。經典三徵並非都出現，B群鏈球菌主要為新生兒。腦壓升高可出現Cushing triad，但非主要敘述。<br>(A) 錯誤，三徵並非>80%同時出現<br>(B) 錯誤，B群鏈球菌比例低於5%<br>(C) 正確，須包含第三代頭孢菌素<br>(D) 錯誤，雖正確但非最關鍵選項",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7377"
+  },
+  {
+    id: 1122459,
+    question: "59. 有關妄想（delusion）內容的敘述，下列何者最適當？",
+    options: {
+      A: "病人表示同事是受到黑道指使，要來殺害他的，事實卻非如此，是一種虛無（nihilistic）妄想",
+      B: "病人表示自己是神仙下凡，一直宣稱自己能夠拯救世人，是一種誇大（grandeur）妄想",
+      C: "病人表示同事對她笑就是對方愛上自己，雖然對方澄清絕無此意，病人仍堅持己見，是一種忌妒 （jealousy）妄想",
+      D: "病人表示同事在走廊聊天，就是互傳訊息，想要聯手對付他，是一種控制（control）妄想"
+    },
+    answer: "B",
+    explanation: "病人認為自己是神仙，屬誇大妄想。<br>(A) 錯誤，這是被害妄想，不是虛無妄想<br>(B) 正確，典型誇大妄想<br>(C) 錯誤，這是色情妄想（erotomania），非忌妒妄想<br>(D) 錯誤，這是關係妄想（ideas of reference），非控制妄想",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7378"
+  },
+  {
+    id: 1122460,
+    question: "60. 有關物質或藥物引發精神病症之敘述，下列何者最不適當？",
+    options: {
+      A: "觸幻覺是使用古柯鹼（cocaine）的特徵",
+      B: "物質或藥物引發精神病症的妄想以被害妄想最常見",
+      C: "現實感（reality testing）佳",
+      D: "顳葉癲癇（temporal lobe epilepsy）可能導致嗅幻覺"
+    },
+    answer: "C",
+    explanation: "物質或藥物引發的精神病患者仍有現實感缺陷，不可能保持良好現實測試。<br>(A) 正確，cocaine使用可有觸幻覺<br>(B) 正確，妄想以被害妄想最多<br>(C) 錯誤，現實感差<br>(D) 正確，顳葉癲癇可能有嗅幻覺",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7379"
+  },
+  {
+    id: 1122461,
+    question: "61. 關於思覺失調症（schizophrenia）之敘述，下列何者最不適當？",
+    options: {
+      A: "根據DSM-5，思覺失調症病人中約有5%～6%病患死於自殺，但此數據有可能被低估",
+      B: "負性症狀與mesolimbic pathway之異常有關",
+      C: "思覺失調症患者有相當比例有憂鬱症狀，也可使用抗憂鬱藥物合併治療",
+      D: "思覺失調症患者之認知功能退化比其正性精神症狀更可預測其社會功能影響"
+    },
+    answer: "B",
+    explanation: "正性症狀與 mesolimbic pathway 過度活化有關，而負性症狀則主要與 mesocortical pathway 功能不足相關，因此 (B) 錯誤。<br>(A) 正確，自殺率約 5–6%，且可能被低估。<br>(B) 錯誤，負性症狀與 mesocortical pathway 異常相關。<br>(C) 正確，憂鬱症狀可用抗憂鬱藥物合併治療。<br>(D) 正確，認知功能退化是社會功能的重要預測因子。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7380"
+  },
+  {
+    id: 1122462,
+    question: "62. 有關情緒穩定劑之敘述，下列何者最不適當？",
+    options: {
+      A: "鋰鹽（lithium）可降低雙相情緒障礙症（bipolar disorder）患者的自殺風險",
+      B: "情緒穩定劑相較於抗精神病藥物對懷孕胎兒畸形之危險較低",
+      C: "服用鋰鹽（lithium）治療應注意飲水量，以免鋰鹽濃度起伏過大",
+      D: "鋰鹽（lithium）濃度過高時可能出現手抖、腹瀉、口齒不清"
+    },
+    answer: "B",
+    explanation: "事實上情緒穩定劑（如 lithium、valproate、carbamazepine）對胎兒畸形風險較高，因此 (B) 說法錯誤。<br>(A) 正確，lithium 可降低自殺風險。<br>(B) 錯誤，情緒穩定劑對胎兒畸形風險較高。<br>(C) 正確，服用 lithium 須注意水分攝取。<br>(D) 正確，lithium 中毒時可見手抖、腹瀉、構音不清。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7381"
+  },
+  {
+    id: 1122463,
+    question: "63. 有關強迫症的治療，下列敘述何者最適當？",
+    options: {
+      A: "精神分析心理治療非常有效",
+      B: "benzodiazepine能有效預防",
+      C: "行為治療合併藥物治療具有療效",
+      D: "lithium是首選藥物"
+    },
+    answer: "C",
+    explanation: "強迫症最佳治療為認知行為治療（CBT）搭配 SSRI 類藥物。精神分析與 benzodiazepine 效果有限，lithium 非首選。<br>(A) 錯誤，精神分析對 OCD 效果有限。<br>(B) 錯誤，benzodiazepine 非主要預防藥物。<br>(C) 正確，行為治療合併藥物最有效。<br>(D) 錯誤，lithium 非 OCD 首選藥物。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7382"
+  },
+  {
+    id: 1122464,
+    question: "64. 關於情緒障礙症（mood disorders）的敘述，下列何者最不適當？",
+    options: {
+      A: "不同國家可觀察到重鬱症（major depressive disorder）之盛行率在女性約為男性的兩倍",
+      B: "第一型雙相情緒障礙症（bipolar I disorder）盛行率無性別差異",
+      C: "第一型雙相情緒障礙症患者中合併物質濫用、恐慌症與強迫症的比例高於重鬱症（major depressive disorder）患者",
+      D: "第二型雙相情緒障礙症的患者之自殺死亡率較第一型雙相情緒障礙症患者低，且其初發病年齡較晚"
+    },
+    answer: "D",
+    explanation: "研究顯示第二型雙相情緒障礙症自殺率不低於第一型，且常有較早發病年齡，因此 (D) 錯誤。<br>(A) 正確，重鬱症女性盛行率約男性兩倍。<br>(B) 正確，bipolar I 盛行率無性別差異。<br>(C) 正確，bipolar I 合併物質濫用與焦慮症比例高。<br>(D) 錯誤，描述與實際不符。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7383"
+  },
+  {
+    id: 1122465,
+    question: "65. 陳先生35歲，經歷一次大車禍倖存，之後經常心悸、坐立不安、失眠、惡夢、凡事淡漠、不願提及該事件等，症狀已持續8個月未緩解，下列敘述何者最適當？",
+    options: {
+      A: "其診斷最可能是適應障礙症（adjustment disorder）",
+      B: "其神經影像可能有杏仁核（amygdala）結構的改變",
+      C: "其神經影像會有基底核（basal ganglia）功能過低情況",
+      D: "頂葉（parietal lobe）會出現鈣化現象"
+    },
+    answer: "B",
+    explanation: "持續超過 1 個月的創傷後症狀為 PTSD，常見杏仁核過度活化。非適應障礙，基底核與頂葉鈣化無關。<br>(A) 錯誤，持續 8 個月非適應障礙。<br>(B) 正確，PTSD 與 amygdala 功能改變相關。<br>(C) 錯誤，basal ganglia 功能低下非典型。<br>(D) 錯誤，頂葉鈣化無此關聯。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7384"
+  },
+  {
+    id: 1122466,
+    question: "66. 關於藥物對性功能的影響，下列何者最不適當？",
+    options: {
+      A: "selective serotonin-norepinephrine reuptake inhibitors（SNRIs）及selective serotonin reuptake inhibitors（SSRIs）可能導致低性欲及高潮障礙",
+      B: "cyproheptadine與amantadine皆有助於改善selective serotonin reuptake inhibitors（SSRIs）導致之性功能異常",
+      C: "lithium亦可能導致勃起障礙",
+      D: "bupropion和risperidone能提高性慾"
+    },
+    answer: "D",
+    explanation: "bupropion 可能改善性功能，但 risperidone 常導致性功能障礙，因此 (D) 錯誤。<br>(A) 正確，SSRI 與 SNRI 可造成性功能障礙。<br>(B) 正確，cyproheptadine 與 amantadine 可緩解性副作用。<br>(C) 正確，lithium 可能導致勃起功能障礙。<br>(D) 錯誤，risperidone 不會提升性慾。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7385"
+  },
+  {
+    id: 1122467,
+    question: "67. 有關失智症（dementia）之敘述，下列何者最不適當？",
+    options: {
+      A: "一般研究發現年紀老化、有失智症家族史及女性為失智症的危險因子",
+      B: "大約三分之一的失智症患者在其失智症的病程中會出現妄想（delusion）及幻覺（hallucination）",
+      C: "失智症的病程通常是逐步（progressive），且不可逆（irreversible）的智能受損（intellectual impairment）， 而其盛行率隨年紀愈大而增加",
+      D: "老年人有憂鬱症、甲狀腺低下症或維他命缺乏可能會出現失智的症狀"
+    },
+    answer: "B",
+    explanation: "雖然失智症可能合併精神症狀，但比例通常低於三分之一，(B) 誇大不符。<br>(A) 正確，年齡、女性、家族史皆為危險因子。<br>(B) 錯誤，幻覺與妄想比例沒這麼高。<br>(C) 正確，失智症為漸進且不可逆。<br>(D) 正確，某些可逆性疾病會出現類似失智症狀。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7386"
+  },
+  {
+    id: 1122468,
+    question: "68. 下列有關海洛因之敘述，何者最適當？①中毒時宜給與naloxone進行緊急治療 ②意識混亂、呼吸淺、瞳孔縮小是海洛因戒斷的核心症狀 ③即使急性戒斷期過去，仍有可能殘存戒斷症狀達數個月之久 ④methadone 和buprenorphine可使用於戒斷期，但是戒斷期過後再用此兩種藥物會不利於戒除海洛因",
+    options: {
+      A: "僅①③",
+      B: "①②④",
+      C: "①③④",
+      D: "②③④"
+    },
+    answer: "A",
+    explanation: "海洛因中毒需 naloxone，急性戒斷期過後仍可能有症狀。縮瞳是中毒症狀，不是戒斷症狀；methadone 與 buprenorphine 可在戒斷後維持治療。<br>① 正確，中毒時可用 naloxone。<br>② 錯誤，縮瞳為中毒症狀，非戒斷。<br>③ 正確，部分戒斷症狀可持續數月。<br>④ 錯誤，兩藥物可作長期替代療法。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7387"
+  },
+  {
+    id: 1122469,
+    question: "69. 有關K他命（ketamine）濫用，下列敘述何者最適當？",
+    options: {
+      A: "使用後可能會產生幻覺和身體與現實解離狀態（dissociative state）",
+      B: "濫用途徑只能用注射或口服，不能用鼻吸入",
+      C: "不會導致如思覺失調症之精神病態",
+      D: "藥理機轉與安非他命相似，主要作用在多巴胺（dopamine）系統上"
+    },
+    answer: "A",
+    explanation: "K 他命為 NMDA 受體拮抗劑，濫用常導致幻覺與解離，並可造成膀胱炎與認知障礙。<br>(A) 正確，典型副作用為幻覺與解離。<br>(B) 錯誤，可用鼻吸入濫用。<br>(C) 錯誤，可誘發精神病態。<br>(D) 錯誤，作用機轉與安非他命不同。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7388"
+  },
+  {
+    id: 1122470,
+    question: "70. 62歲男性每天平均飲用3瓶米酒，少進食已超過20年，某日中午依平常習慣飲用米酒後不久，出現步態不穩與意識混淆，送至醫院時身上仍有酒味，檢查發現有眼球震顫現象，針對立即的處置，下列何者最適當？",
+    options: {
+      A: "給與短效型苯二氮平（benzodiazepine）",
+      B: "靜脈補充大量葡萄糖液",
+      C: "肌肉注射抗精神病劑，如haloperidol",
+      D: "注射thiamine"
+    },
+    answer: "D",
+    explanation: "此為 Wernicke’s encephalopathy，首要給 thiamine 再補葡萄糖，以避免加重病程。<br>(A) 錯誤，benzodiazepine 用於酒精戒斷非此情境。<br>(B) 錯誤，先補充葡萄糖會加重病情。<br>(C) 錯誤，抗精神病劑無效。<br>(D) 正確，thiamine 為首要處置。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7389"
+  },
+  {
+    id: 1122471,
+    question: "71. 有關自閉症類群障礙症（autism spectrum disorder）的語言症狀，下列敘述何者最適當？",
+    options: {
+      A: "語言發展障礙是目前自閉症類群障礙症的核心診斷準則（core criteria）",
+      B: "若患者的口語用「你想要吃糖」來代表「我想要吃糖」，這是屬於仿說（echolalia）的症狀",
+      C: "大約有三分之二以上的患者從未發展出有用的語言（useful speech）",
+      D: "有些年幼的患者可能會讀許多字，但卻對所讀的字不太理解"
+    },
+    answer: "D",
+    explanation: "ASD 常見語言理解困難，如解碼能力好但理解差。<br>(A) 錯誤，語言障礙不是核心診斷準則。<br>(B) 錯誤，例句屬語用困難而非仿說。<br>(C) 錯誤，並非三分之二以上無 useful speech。<br>(D) 正確，解讀文字卻不理解常見於 ASD。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7390"
+  },
+  {
+    id: 1122472,
+    question: "72. 有關注意力不足／過動症的病因學與神經學研究，下列敘述何者最適當？",
+    options: {
+      A: "主要是由環境因子而非基因遺傳所導致的疾病",
+      B: "遺傳率（heritability）大約為15%",
+      C: "腦部造影顯示大多數病患都有明顯的結構異常",
+      D: "前額葉（prefrontal cortex）的功能主要與注意力和衝動控制有關，為注意力不足／過動症常被研究的腦部區 域"
+    },
+    answer: "D",
+    explanation: "ADHD 與高度遺傳相關，遺傳率可達 70–80%，且與前額葉功能異常高度相關。<br>(A) 錯誤，環境因子並非主要病因。<br>(B) 錯誤，遺傳率遠高於 15%。<br>(C) 錯誤，多數患者無明顯結構異常。<br>(D) 正確，前額葉異常為 ADHD 重要機轉。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7391"
+  },
+  {
+    id: 1122473,
+    question: "73. 有關對病人進行約束與隔離的規範，下列敘述何者最不適當？",
+    options: {
+      A: "情況緊急時，可以先口頭醫囑逕行之",
+      B: "必須定期審視並記錄被隔離或約束的病人的狀況",
+      C: "醫囑必須明確訂出方式與時間",
+      D: "初始醫囑如需延展，需要再次評估約束或隔離的必要性"
+    },
+    answer: "A",
+    explanation: "即使情況緊急，仍應有醫師書面醫囑，單純口頭醫囑不符合規範。<br>(A) 錯誤，不可僅用口頭醫囑。<br>(B) 正確，須定期監測與紀錄病人狀況。<br>(C) 正確，醫囑需明確訂方式與時間。<br>(D) 正確，延長需重新評估。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7392"
+  },
+  {
+    id: 1122474,
+    question: "74. 某病人常抱怨右側髖關節疼痛且走路一拐一拐的。門診的X光片影像如圖所示，下列敘述何者錯誤？",
+    options: {
+      A: "此疾病好發於青少年",
+      B: "病灶在股骨頭（femoral head）",
+      C: "造成此問題的原因為生長板（growth plate）受傷",
+      D: "建議以保守治療為主，不建議手術治療"
+    },
+    answer: "D",
+    explanation: "此為股骨頭滑脫（SCFE），治療需手術固定，保守治療無效。<br>(A) 正確，好發於青少年。<br>(B) 正確，病灶在股骨頭生長板區域。<br>(C) 正確，與 growth plate 受損有關。<br>(D) 錯誤，需手術治療。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7393"
+  },
+  {
+    id: 1122475,
+    question: "75. 有關急性腦中風病人接受頭部電腦斷層檢查的結果，下列敘述何者錯誤？",
+    options: {
+      A: "如果看到出血，則病人無法接受血栓溶解治療",
+      B: "有可能看到硬腦膜下出血或腫瘤",
+      C: "如果頭部電腦斷層檢查正常，則病人不需接受血栓溶解治療",
+      D: "在阻塞的大血管近端內出現高密度動脈徵象（dense artery sign），是急性缺血性中風的早期影像特徵之一"
+    },
+    answer: "C",
+    explanation: "CT 正常仍可符合缺血性中風診斷，需依臨床與時間窗考慮血栓溶解。<br>(A) 正確，出血即為禁忌。<br>(B) 正確，CT 也可見腫瘤或出血。<br>(C) 錯誤，正常影像不能排除缺血性中風。<br>(D) 正確，dense artery sign 為早期徵象。",
+    tags: [
+      "112-2(四)",
+      "神經內科"
+    ],
+    group_id: "group_7394"
+  },
+  {
+    id: 1122476,
+    question: "76. 80歲男性無故離家走失一天，被發現在公園呆坐自言自語，由救護人員送到急診室，生命徵象無明顯異常，家屬表示病人有失智症（dementia）病史。下列敘述何者最不適當？",
+    options: {
+      A: "此病人的鑑別診斷應該包括譫妄（delirium）、失智症或精神疾病",
+      B: "失智症通常不會出現幻覺（hallucination）",
+      C: "如果病人有肢體震顫（tremor）的症狀，應該可以排除譫妄",
+      D: "病人抵達急診室後，應儘快做血糖檢測"
+    },
+    answer: "C",
+    explanation: "譫妄診斷不以肢體震顫來排除，震顫與病程無必然關係。<br>(A) 正確，鑑別診斷需考慮譫妄、失智、精神病。<br>(B) 正確，失智通常不會有幻覺。<br>(C) 錯誤，震顫不能排除譫妄。<br>(D) 正確，抵達急診應先查血糖。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7395"
+  },
+  {
+    id: 1122477,
+    question: "77. 下列有關恐慌症（panic disorder）的敘述，何者最不適當？",
+    options: {
+      A: "恐慌症會重複性發作，且發作後常伴隨對未來發作的擔憂",
+      B: "恐慌症的發作常有前兆，通常是可預期的",
+      C: "恐慌症一旦發作，通常數分鐘內症狀達到最嚴重",
+      D: "selective serotonin reuptake inhibitors（SSRI）或selective norepinephrine reuptake inhibitors（SNRI）類的抗憂 鬱藥物比alprazolam更適合當維持性治療藥物"
+    },
+    answer: "B",
+    explanation: "恐慌症發作通常突發且不可預期，因此 (B) 錯誤。<br>(A) 正確，恐慌症發作反覆，並伴 anticipatory anxiety。<br>(B) 錯誤，發作多為突發性。<br>(C) 正確，症狀數分鐘內達高峰。<br>(D) 正確，SSRI/SNRI 為維持治療首選。",
+    tags: [
+      "112-2(四)",
+      "精神科"
+    ],
+    group_id: "group_7396"
+  },
+  {
+    id: 1122478,
+    question: "78. 一位85歲中風臥床的男性病人，平時住在安養中心，這幾天於指縫、腋下和鼠膝部出現紅疹合併癢的情形，其他同室住民也有類似症狀，下列敘述何者錯誤？",
+    options: {
+      A: "接觸病人時必須做好接觸隔離",
+      B: "皮內隧道（burrow）是此皮膚病的特徵，最常出現在肚子的皮膚上",
+      C: "刮取少許隧道（burrow）的皮屑，在顯微鏡下觀察是否有疥蟲或是蟲卵可幫助診斷",
+      D: "免疫不全者或是糖尿病人，可出現高度角質的斑塊或是痂結"
+    },
+    answer: "B",
+    explanation: "疥瘡隧道常見於指縫、手腕、腋下等皺摺處，非腹部。<br>(A) 正確，需接觸隔離。<br>(B) 錯誤，隧道不常見於腹部。<br>(C) 正確，顯微鏡檢查可診斷。<br>(D) 正確，免疫不全者可出現痂樣疥瘡。",
+    tags: [
+      "112-2(四)",
+      "皮膚科"
+    ],
+    group_id: "group_7397"
+  },
+  {
+    id: 1122479,
+    question: "79. 基因資訊的某些特質，使它比一般醫學檢驗更容易衍生倫理問題，關於這些特質，下列敘述何者最不適當？",
+    options: {
+      A: "基因資訊通常涉及個人與家族",
+      B: "基因檢測通常可以準確地預測未來的疾病狀況",
+      C: "基因檢測常涉及無法有效治療或預防的疾病",
+      D: "基因檢測結果可能帶來對個人的歧視或傷害"
+    },
+    answer: "B",
+    explanation: "基因檢測多數僅能反映風險，無法準確預測疾病必然發生。<br>(A) 正確，基因資訊牽涉個人與家族。<br>(B) 錯誤，無法準確預測疾病。<br>(C) 正確，基因檢測常涉及不可治療疾病。<br>(D) 正確，基因檢測可能引發歧視。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7398"
+  },
+  {
+    id: 1122480,
+    question: "80. 5歲的女童因為末期腎病又無法透析，需要換腎治療，她有一個12歲的姊姊和4歲的弟弟。父母和姊姊都有意願捐腎給她。抽血基因比對發現母親不合，但是與爸爸和姊姊的基因匹配。爸爸擔心手術有風險，而且自己 是家中唯一的經濟來源，希望醫師告訴其他家人他的基因「不匹配」，下列醫師處置何者最適當？",
+    options: {
+      A: "醫師應遵從父親的要求，告訴其他的家人「出於醫療的原因」，父親不適合捐腎",
+      B: "告訴父親腎臟移植成功的機會大於父親因麻醉或手術死亡的概率，希望他重新考慮",
+      C: "尊重父親的選擇，改建議12歲的姊姊作為女童的腎臟捐贈者",
+      D: "避免破壞家庭成員間的和諧，建議放棄移植手術"
+    },
+    answer: "B",
+    explanation: "醫師應誠實告知，不可隱匿基因配對事實，並應與父親討論風險與責任。<br>(A) 錯誤，醫師不應撒謊。<br>(B) 正確，誠實告知並協助父親理解風險。<br>(C) 錯誤，不可直接建議由未成年姊姊捐腎。<br>(D) 錯誤，放棄移植不符病人最大利益。",
+    tags: [
+      "112-2(四)",
+      "小兒科"
+    ],
+    group_id: "group_7399"
+  }
+]
