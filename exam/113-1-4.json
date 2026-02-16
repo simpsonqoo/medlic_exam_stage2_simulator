@@ -292,10 +292,10 @@
     "id": 1131418,
     "question": "18. 在急性淋巴性白血病中，下列何種分子或染色體變化代表預後不佳？",
     "options": {
-      "A": "ETV6-RUNX1；t",
+      "A": "ETV6-RUNX1；t(12;21)",
       "B": "hyperdiploidy；＞50 chromosomes",
-      "C": "KMT2A",
-      "D": "TLX1/HOX11；t"
+      "C": "KMT2A(MLL)-AF4；t(4;11)",
+      "D": "TLX1/HOX11；t(10;14)"
     },
     "answer": "C",
     "explanation": "t(4;11) 屬於高危險染色體異常，預後差。<br>(A) 錯誤，t(12;21) 預後佳。<br>(B) 錯誤，超二倍體 (>50) 預後佳。<br>(C) 正確，t(4;11) 預後差。<br>(D) 錯誤，t(10;14) 影響較小。",
@@ -660,6 +660,9 @@
       "113-1(四)",
       "皮膚科"
     ],
+    "images": [
+          "./exam/image/113-1-4-39.jpg"
+    ],
     "group_id": "group_7278"
   },
   {
@@ -694,6 +697,9 @@
       "113-1(四)",
       "皮膚科"
     ],
+    "images": [
+          "./exam/image/113-1-4-41.jpg"
+    ],
     "group_id": "group_7280"
   },
   {
@@ -710,6 +716,9 @@
     "tags": [
       "113-1(四)",
       "皮膚科"
+    ],
+    "images": [
+          "./exam/image/113-1-4-42.jpg"
     ],
     "group_id": "group_7281"
   },
@@ -846,6 +855,9 @@
     "tags": [
       "113-1(四)",
       "神經內科"
+    ],
+    "images": [
+          "./exam/image/113-1-4-50.jpg"
     ],
     "group_id": "group_7289"
   },
@@ -1254,6 +1266,9 @@
     "tags": [
       "113-1(四)",
       "神經內科"
+    ],
+    "images": [
+          "./exam/image/113-1-4-74.jpg"
     ],
     "group_id": "group_7313"
   },

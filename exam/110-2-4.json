@@ -31,6 +31,10 @@
       "110-2(四)",
       "小兒科"
     ],
+    "images": [
+          "./exam/image/110-2-4-2-1.jpg",
+          "./exam/image/110-2-4-2-2.jpg"
+    ],
     "group_id": "group_7641"
   },
   {
@@ -115,6 +119,9 @@
     "tags": [
       "110-2(四)",
       "小兒科"
+    ],
+    "images": [
+          "./exam/image/110-2-4-7.jpg"
     ],
     "group_id": "group_7646"
   },
@@ -576,6 +583,9 @@
       "110-2(四)",
       "皮膚科"
     ],
+    "images": [
+          "./exam/image/110-2-4-34.jpg"
+    ],
     "group_id": "group_7673"
   },
   {
@@ -609,6 +619,9 @@
     "tags": [
       "110-2(四)",
       "皮膚科"
+    ],
+    "images": [
+          "./exam/image/110-2-4-36.jpg"
     ],
     "group_id": "group_7675"
   },
@@ -677,6 +690,9 @@
     "tags": [
       "110-2(四)",
       "皮膚科"
+    ],
+    "images": [
+          "./exam/image/110-2-4-40.jpg"
     ],
     "group_id": "group_7679"
   },
@@ -1256,6 +1272,10 @@
       "110-2(四)",
       "神經內科"
     ],
+    "images": [
+          "./exam/image/110-2-4-74-1.jpg",
+          "./exam/image/110-2-4-74-2.jpg"
+    ],
     "group_id": "group_7713"
   },
   {
@@ -1272,6 +1292,10 @@
     "tags": [
       "110-2(四)",
       "神經內科"
+    ],
+    "images": [
+          "./exam/image/110-2-4-75-1.jpg",
+          "./exam/image/110-2-4-75-2.jpg"
     ],
     "group_id": "group_7714"
   },

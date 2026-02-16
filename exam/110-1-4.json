@@ -48,6 +48,9 @@
       "110-1(四)",
       "小兒科"
     ],
+    "images": [
+          "./exam/image/110-1-4-3.jpg"
+    ],
     "group_id": "group_7722"
   },
   {
@@ -251,6 +254,10 @@
     "tags": [
       "110-1(四)",
       "小兒科"
+    ],
+    "images": [
+          "./exam/image/110-1-4-15-1.jpg",
+          "./exam/image/110-1-4-15-2.jpg"
     ],
     "group_id": "group_7734"
   },
@@ -610,6 +617,9 @@
       "110-1(四)",
       "皮膚科"
     ],
+    "images": [
+          "./exam/image/110-1-4-36.jpg"
+    ],
     "group_id": "group_7755"
   },
   {
@@ -627,6 +637,9 @@
       "110-1(四)",
       "皮膚科"
     ],
+    "images": [
+          "./exam/image/110-1-4-37.jpg"
+    ],
     "group_id": "group_7756"
   },
   {
@@ -643,6 +656,9 @@
     "tags": [
       "110-1(四)",
       "皮膚科"
+    ],
+    "images": [
+          "./exam/image/110-1-4-38.jpg"
     ],
     "group_id": "group_7757"
   },
@@ -677,6 +693,9 @@
     "tags": [
       "110-1(四)",
       "皮膚科"
+    ],
+    "images": [
+          "./exam/image/110-1-4-40.jpg"
     ],
     "group_id": "group_7759"
   },
@@ -1274,6 +1293,10 @@
     "tags": [
       "110-1(四)",
       "小兒科"
+    ],
+    "images": [
+          "./exam/image/110-1-4-75-1.jpg",
+          "./exam/image/110-1-4-75-2.jpg"
     ],
     "group_id": "group_7794"
   },
