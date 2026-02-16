@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 1121301,
+    "question": "1. 19歲女性病患，自述過去身體健康，並無酗酒或病毒性肝炎病史。因為近一個月來下肢浮腫和血液檢查發現肝功能異常就醫。在外院腹部超音波顯示肝硬化。血液檢查發現albumin：3.2 g/dL；AST（GOT）：51 U/L；ALT（GPT）：43 U/L；總膽紅素：1.11 mg/dL；鹼性磷酸酶（alkaline phosphatase）：274 U/L；ceruloplasmin 為11.1 mg/dL（正常參考值，20～60 mg/dL）。病患最有可能的診斷為何?",
+    "options": {
+      "A": "hemochromatosis",
+      "B": "amyloidosis",
+      "C": "primary biliary cirrhosis",
+      "D": "Wilson's disease"
+    },
+    "answer": "D",
+    "explanation": "此題考查Wilson's disease（威爾森氏症）的臨床特徵。年輕患者出現肝硬化且ceruloplasmin明顯降低，應優先考慮此遺傳性銅代謝疾病。<br>(A) 錯誤，血色沉著症（hemochromatosis）通常表現為鐵蛋白升高和轉鐵蛋白飽和度增加，而非ceruloplasmin降低<br>(B) 錯誤，類澱粉沉積症（amyloidosis）不會特別造成ceruloplasmin降低<br>(C) 錯誤，原發性膽汁性肝硬化（primary biliary cirrhosis）會有明顯的鹼性磷酸酶升高，但ceruloplasmin通常正常<br>(D) 正確，威爾森氏症（Wilson's disease）的特徵為ceruloplasmin低下、年輕患者出現肝硬化，且常伴隨神經學症狀",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4700"
+  },
+  {
+    "id": 1121302,
+    "question": "2. 有關頭痛之敘述，下列何者正確？",
+    "options": {
+      "A": "原發性頭痛（primary headache）最常見原因為腦瘤（brain tumor）",
+      "B": "偏頭痛患者常見單側性頭痛，伴隨抽痛及嘔吐或畏光",
+      "C": "次發性頭痛（secondary headache）最常見原因為腦部血管異常",
+      "D": "新發生的嚴重性頭痛，一般而言僅給與止痛劑治療即可"
+    },
+    "answer": "B",
+    "explanation": "此題考查頭痛的分類與臨床特徵。偏頭痛具有典型的單側性、抽痛、伴隨噁心嘔吐及畏光等特徵。<br>(A) 錯誤，原發性頭痛最常見原因是緊張型頭痛（tension-type headache）和偏頭痛，而非腦瘤<br>(B) 正確，偏頭痛患者常見單側性頭痛，伴隨抽痛及嘔吐或畏光<br>(C) 錯誤，次發性頭痛最常見原因是感染或藥物相關，並非腦部血管異常<br>(D) 錯誤，新發生的嚴重性頭痛應該進行詳細評估排除危險病因（如出血、感染），不應僅給與止痛劑治療",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4701"
+  },
+  {
+    "id": 1121303,
+    "question": "3. 一位80歲獨居老人，多日未外出，經里長發現意識不清、皮膚乾癟、眼眶深陷，血壓80/55 mmHg。緊急送醫 發現頸靜脈低陷，胸部X光肺野清晰、心電圖為竇性頻脈、血中白血球7000/mm3、BUN 45 mg/dL、creatinine 1.4 mg/dL、Na+ 155 mEq/L。此病人最有可能的診斷為：",
+    "options": {
+      "A": "急性心肌梗塞引起心因性休克（cardiogenic shock）",
+      "B": "嚴重性過敏反應（anaphylaxis）",
+      "C": "低血容積性休克（hypovolemic shock）",
+      "D": "心包膜填塞（pericardial tamponade）引起休克"
+    },
+    "answer": "C",
+    "explanation": "此題考查休克的分類。患者表現脫水徵象（皮膚乾癟、眼眶深陷、頸靜脈低陷）、低血壓、高鈉血症，符合低血容積性休克。<br>(A) 錯誤，心因性休克通常有肺水腫和心臟功能異常的表現，而此患者胸部X光肺野清晰<br>(B) 錯誤，嚴重性過敏反應（anaphylaxis）通常有支氣管收縮、皮疹、血管性水腫等表現<br>(C) 正確，低血容積性休克（hypovolemic shock）符合脫水徵象、低血壓、高鈉血症的表現<br>(D) 錯誤，心包膜填塞（pericardial tamponade）會有頸靜脈怒張而非低陷，且心電圖可能有低電位",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4702"
+  },
+  {
+    "id": 1121304,
+    "question": "4. 血液中酒精濃度超過多少g/dL，可能造成輕度昏迷（light coma）及生命徵候不穩（depressed vital signs）？",
+    "options": {
+      "A": "0.05",
+      "B": "0.10",
+      "C": "0.20",
+      "D": "0.30"
+    },
+    "answer": "D",
+    "explanation": "此題考查酒精中毒的血中濃度分級。血液酒精濃度0.30 g/dL以上可能造成輕度昏迷及生命徵候不穩。<br>(A) 錯誤，0.05 g/dL通常只造成輕度協調障礙<br>(B) 錯誤，0.10 g/dL通常造成明顯的協調障礙和判斷力下降<br>(C) 錯誤，0.20 g/dL通常造成明顯意識障礙但尚未昏迷<br>(D) 正確，血液中酒精濃度超過0.30 g/dL可能造成輕度昏迷及生命徵候不穩",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4703"
+  },
+  {
+    "id": 1121305,
+    "question": "5. 下列有關藥物動力或藥效的描述，那一項最正確？",
+    "options": {
+      "A": "心臟衰竭時，藥物在心臟或腦部的效用會相對減低",
+      "B": "心臟衰竭時，藥物從腸胃道的吸收會增加",
+      "C": "心臟衰竭時，藥物經由腎臟或肝臟的廓清率（clearance）會增加",
+      "D": "一般來說，即使沒有明顯的腎臟疾病，老年人之藥物腎廓清率仍然可能下降達35～50%"
+    },
+    "answer": "D",
+    "explanation": "此題考查老年人的藥物動力學變化。老年人即使無明顯腎臟疾病，腎廓清率仍可能下降35～50%。<br>(A) 錯誤，心臟衰竭時藥物在重要器官如心臟或腦部的分布相對增加<br>(B) 錯誤，心臟衰竭時腸胃道充血水腫導致藥物吸收減少<br>(C) 錯誤，心臟衰竭時腎臟和肝臟灌流減少導致廓清率下降<br>(D) 正確，即使沒有明顯的腎臟疾病，老年人之藥物腎廓清率仍然可能下降達35～50%",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4704"
+  },
+  {
+    "id": 1121306,
+    "question": "6. 關於淋巴水腫（lymphedema）的描述，下列何者錯誤？",
+    "options": {
+      "A": "持續的淋巴水腫會引起發炎和免疫反應，造成脂肪和膠原蛋白在皮膚以及皮下的堆積",
+      "B": "次發性淋巴水腫常見於腋下或是鼠蹊部淋巴結的手術摘除以及放射線治療",
+      "C": "下肢淋巴水腫的病人使用潤膚劑塗抹患側是禁忌，因為會增加皮膚感染",
+      "D": "淋巴水腫的肢體經常不會伴隨疼痛"
+    },
+    "answer": "C",
+    "explanation": "此題考查淋巴水腫的照護原則。使用潤膚劑可預防皮膚乾燥龜裂，減少感染風險，並非禁忌。<br>(A) 正確，持續的淋巴水腫會引起發炎和免疫反應，造成脂肪和膠原蛋白堆積<br>(B) 正確，次發性淋巴水腫常見於腋下或鼠蹊部淋巴結的手術摘除以及放射線治療<br>(C) 錯誤，下肢淋巴水腫的病人應該使用潤膚劑塗抹患側以保持皮膚完整性，減少感染風險，而非禁忌<br>(D) 正確，淋巴水腫的肢體經常不會伴隨疼痛",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4705"
+  },
+  {
+    "id": 1121307,
+    "question": "7. 關於B-type natriuretic peptide（BNP）和N-terminal pro-BNP（NT-proBNP）在心衰竭的診斷與治療，下列何者正確？",
+    "options": {
+      "A": "在舒張性心衰竭不會上升",
+      "B": "對收縮性心衰竭的診斷有幫助，但是無法評估疾病的預後",
+      "C": "在健康人的血中濃度會隨著年紀而上升",
+      "D": "血中濃度在右心衰竭的病人不會上升"
+    },
+    "answer": "C",
+    "explanation": "此題考查BNP及NT-proBNP的臨床應用。健康人的BNP/NT-proBNP濃度會隨著年紀增加而上升。<br>(A) 錯誤，舒張性心衰竭也會導致BNP/NT-proBNP上升<br>(B) 錯誤，BNP/NT-proBNP對收縮性心衰竭的診斷有幫助，且可評估疾病的預後<br>(C) 正確，在健康人的血中濃度會隨著年紀而上升<br>(D) 錯誤，右心衰竭的病人BNP/NT-proBNP同樣會上升",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4706"
+  },
+  {
+    "id": 1121308,
+    "question": "8. 有關心音及心雜音的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在嚴重肺高壓症病患，肺動脈瓣環擴大造成肺動脈瓣閉鎖不全，在左胸骨側會有舒張期心雜音，稱為 Graham Steell murmur",
+      "B": "主動脈瓣膜閉鎖不全會產生舒張早期如風吹的心雜音，稱為Austin Flint murmur",
+      "C": "嚴重二尖瓣（僧帽瓣）狹窄病患有些聽診時會有opening snap，通常在心尖內側，第二心音後約0.05至0.12秒",
+      "D": "二尖瓣（僧帽瓣）閉鎖不全的心雜音，通常位於心尖部位，為全收縮期雜音，且會傳至左腋下"
+    },
+    "answer": "B",
+    "explanation": "此題考查心臟雜音的命名。Austin Flint murmur是主動脈瓣閉鎖不全造成的舒張中晚期雜音，而非舒張早期雜音。<br>(A) 正確，Graham Steell murmur是肺高壓症造成肺動脈瓣閉鎖不全的舒張期心雜音<br>(B) 錯誤，主動脈瓣膜閉鎖不全產生的舒張早期如風吹的心雜音，不叫Austin Flint murmur；Austin Flint murmur是主動脈瓣閉鎖不全造成的舒張中晚期低頻隆隆聲雜音<br>(C) 正確，嚴重二尖瓣狹窄病患會有opening snap，通常在第二心音後約0.05至0.12秒<br>(D) 正確，二尖瓣閉鎖不全的心雜音為全收縮期雜音，位於心尖部位且傳至左腋下",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4707"
+  },
+  {
+    "id": 1121309,
+    "question": "9. 比較竇結細胞（sinus nodal cell）與心室細胞（ventricular cell）的動作電位，下列敘述何者正確？",
+    "options": {
+      "A": "就靜態膜電位（resting membrane potential）而言，竇結細胞較極化（more polarized）",
+      "B": "第0期（Phase 0）上衝速度（upstroke），竇結細胞較快速",
+      "C": "第2期（Phase 2），竇結細胞較顯著",
+      "D": "第4期（Phase 4）有舒張期去極化（diastolic depolarization）是竇結細胞的特徵"
+    },
+    "answer": "D",
+    "explanation": "此題考查心臟動作電位的特性。竇結細胞第4期有自發性舒張期去極化（diastolic depolarization），這是自律性的特徵。<br>(A) 錯誤，竇結細胞的靜態膜電位較不極化（約-60 mV），心室細胞較極化（約-90 mV）<br>(B) 錯誤，第0期上衝速度竇結細胞較慢（主要由鈣離子電流決定），心室細胞較快（由鈉離子電流決定）<br>(C) 錯誤，第2期平台期在心室細胞較顯著，竇結細胞不明顯<br>(D) 正確，第4期有舒張期去極化是竇結細胞的特徵",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4708"
+  },
+  {
+    "id": 1121310,
+    "question": "10. 下列針對主動脈縮窄（coarctation of the aorta）的敘述，何者錯誤？",
+    "options": {
+      "A": "狹窄處最常見於左鎖骨下動脈遠端，且近動脈韌帶（ligamentum arteriosum）開口端",
+      "B": "屬於一種先天性心臟病",
+      "C": "通常女性多於男性",
+      "D": "常見於有性腺發育不全（gonadal dysgenesis）的患者（例如Turner's syndrome）"
+    },
+    "answer": "C",
+    "explanation": "此題考查主動脈縮窄的流行病學特徵。主動脈縮窄通常男性多於女性，比例約2-5：1。<br>(A) 正確，狹窄處最常見於左鎖骨下動脈遠端，且近動脈韌帶開口端<br>(B) 正確，屬於一種先天性心臟病<br>(C) 錯誤，主動脈縮窄通常男性多於女性（約2-5：1）<br>(D) 正確，常見於Turner's syndrome等性腺發育不全的患者",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4709"
+  },
+  {
+    "id": 1121311,
+    "question": "11. 某女士因前一日無故暈倒到醫院內科門診求治，醫師懷疑是orthostatic hypotension，就讓該女士平躺5分鐘後，測量血壓，為124/78 mmHg，再請該女士起立，於1分鐘內再測量血壓，為90/62 mmHg。下列診斷何者為正確？",
+    "options": {
+      "A": "因收縮壓下降超過20 mmHg，舒張壓下降超過10 mmHg，符合orthostatic hypotension的診斷",
+      "B": "因收縮壓下降超過20 mmHg，但舒張壓下降未超過20 mmHg，不符合orthostatic hypotension的診斷",
+      "C": "因未測量心跳數，無法判斷是否有orthostatic hypotension",
+      "D": "因起立後不到3分鐘即測量血壓，無法判斷是否有orthostatic hypotension"
+    },
+    "answer": "A",
+    "explanation": "此題考查姿勢性低血壓（orthostatic hypotension）的診斷標準。收縮壓下降≥20 mmHg或舒張壓下降≥10 mmHg即符合診斷。<br>(A) 正確，收縮壓下降34 mmHg（超過20 mmHg），舒張壓下降16 mmHg（超過10 mmHg），符合姿勢性低血壓的診斷<br>(B) 錯誤，診斷標準是收縮壓下降≥20 mmHg或舒張壓下降≥10 mmHg（而非20 mmHg），此病例兩者皆符合<br>(C) 錯誤，診斷姿勢性低血壓不需要測量心跳數，血壓變化即可診斷<br>(D) 錯誤，通常在站立後1-3分鐘內測量血壓即可，此病例於1分鐘測量是適當的",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4710"
+  },
+  {
+    "id": 1121312,
+    "question": "12. 有關抗血小板藥物的敘述，下列何者正確？",
+    "options": {
+      "A": "新的抗血小板藥物ticagrelor比過去clopidogrel抑制adenosine diphosphate（ADP）受體半衰期更長，作用時間更久",
+      "B": "相較於clopidogrel，ticagrelor與prasugrel兩種藥物對STEMI病患在心臟死亡事件及心肌梗塞與中風的機會均 有意義下降",
+      "C": "aspirin抑制血小板活性，主要是抑制cyclooxygenase，使arachidonic acid無法變成thromboxane A2",
+      "D": "長期口服glycoprotein IIb/IIIa antagonist被證實可以有效地降低心肌梗塞發作及死亡率"
+    },
+    "answer": "C",
+    "explanation": "此題考查抗血小板藥物的作用機轉。Aspirin抑制環氧化酶（cyclooxygenase），阻止花生四烯酸轉化為血栓素A2（thromboxane A2）。<br>(A) 錯誤，ticagrelor抑制ADP受體的作用是可逆的且半衰期較短（約12小時），而clopidogrel是不可逆抑制且作用時間較長<br>(B) 錯誤，只有ticagrelor被證實相較於clopidogrel可顯著降低心臟死亡事件，prasugrel主要降低心肌梗塞和支架血栓<br>(C) 正確，aspirin抑制血小板活性是透過抑制cyclooxygenase，使arachidonic acid無法變成thromboxane A2<br>(D) 錯誤，glycoprotein IIb/IIIa antagonist長期口服並未被證實有效，通常只用於急性期靜脈注射",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4711"
+  },
+  {
+    "id": 1121313,
+    "question": "13. 下列何者不是寬的脈搏壓（wide pulse pressure）要考慮的鑑別診斷？",
+    "options": {
+      "A": "主動脈瓣狹窄（aortic stenosis）",
+      "B": "甲狀腺毒症（thyrotoxicosis）",
+      "C": "感染發燒",
+      "D": "開放性動脈導管（patent ductus arteriosus）"
+    },
+    "answer": "A",
+    "explanation": "此題考查脈搏壓（pulse pressure）增寬的鑑別診斷。主動脈瓣狹窄會造成脈搏壓變窄而非變寬。<br>(A) 正確，主動脈瓣狹窄（aortic stenosis）會造成脈搏壓變窄（narrow pulse pressure），而非寬的脈搏壓<br>(B) 錯誤，甲狀腺毒症會增加心輸出量和降低周邊血管阻力，造成脈搏壓增寬<br>(C) 錯誤，感染發燒會降低周邊血管阻力，造成脈搏壓增寬<br>(D) 錯誤，開放性動脈導管會造成舒張壓下降，導致脈搏壓增寬",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4712"
+  },
+  {
+    "id": 1121314,
+    "question": "14. 有關心臟冠狀動脈血管檢查的歷史沿革與相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "最初開始在人體進行心臟心導管檢查的人是Forssmann，他在1929年將當時的無菌導尿管經過手部靜脈植入到右心房，再以X光透視確定導管的位置",
+      "B": "1940年代，Cournand以及Richards將Forssmann的血管攝影方式改良後用在評估人體的心血管系統上面",
+      "C": "進行心臟冠狀動脈血管攝影最常見的合併症是血管植入部位的出血，約占1.5～2.0%",
+      "D": "因為資訊與機器的進步，要檢查心臟冠狀動脈的解剖學與生理變化，心臟血管電腦斷層已經取代心導管檢查，成為最標準的方法"
+    },
+    "answer": "D",
+    "explanation": "此題考查心導管檢查的歷史與現況。心導管檢查仍是評估冠狀動脈的黃金標準，電腦斷層只是輔助工具。<br>(A) 正確，Forssmann在1929年首次進行人體心導管檢查<br>(B) 正確，Cournand及Richards在1940年代改良血管攝影技術用於評估心血管系統<br>(C) 正確，血管植入部位的出血是最常見的合併症，約占1.5～2.0%<br>(D) 錯誤，心導管檢查仍是評估心臟冠狀動脈的黃金標準，心臟血管電腦斷層只是輔助工具而未取代心導管檢查",
+    "tags": [
+      "112-1-3(三)",
+      "心臟內科"
+    ],
+    "group_id": "group_4713"
+  },
+  {
+    "id": 1121315,
+    "question": "15. 一位60歲病人最近體重明顯減輕，右上腹悶脹，食慾尚可。就醫後身體診察發現右鎖骨中線下（right mid- clavicular line， RMCL）肝臟長度為18公分，無腹水，腸蠕動正常。超音波檢查發現肝內有多顆大小不一之低回音結節。抽血檢驗結果：albumin = 3.6 g/dL（正常值＞3.5），bilirubin（total）= 0.9 mg/dL（正常值＜ 1.2），AST = 35 U/L（正常值＜37），ALT = 32 U/L（正常值＜41），α-fetoprotein（AFP）= 8 ng/mL（正常 值＜20），carcinoembryonic antigen（CEA）= 521 ng/mL（正常值＜5），CA 19-9 = 45 U/mL（正常值＜ 37）。其診斷最可能為下列何者？",
+    "options": {
+      "A": "肝細胞癌",
+      "B": "膽管細胞癌",
+      "C": "轉移性肝癌",
+      "D": "肝臟局部結節增生（focal nodular hyperplasia）"
+    },
+    "answer": "C",
+    "explanation": "此題考查肝臟腫瘤的鑑別診斷。CEA顯著升高且AFP正常，加上多發性肝臟結節，最可能為轉移性肝癌。<br>(A) 錯誤，肝細胞癌通常有AFP明顯上升，而此病例AFP正常<br>(B) 錯誤，膽管細胞癌通常表現為單一腫瘤且CA 19-9會更高<br>(C) 正確，轉移性肝癌的特徵為CEA顯著升高（521 ng/mL）、AFP正常、多發性肝臟結節、體重減輕<br>(D) 錯誤，肝臟局部結節增生（focal nodular hyperplasia）是良性病變，不會有腫瘤標記上升或體重減輕",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4714"
+  },
+  {
+    "id": 1121316,
+    "question": "16. 有關潰瘍性大腸炎（ulcerative colitis， UC）及克隆氏病（Crohn's disease， CD）之敘述，何者正確？",
+    "options": {
+      "A": "抽菸可增加CD的發生",
+      "B": "口服避孕藥會增加UC的發生",
+      "C": "appendectomy可預防CD的發生",
+      "D": "不論UC或CD，亞洲人的發生率高於美國人"
+    },
+    "answer": "A",
+    "explanation": "此題考查發炎性腸道疾病的危險因子。抽菸會增加克隆氏病（Crohn's disease）的發生和嚴重度。<br>(A) 正確，抽菸可增加克隆氏病的發生<br>(B) 錯誤，口服避孕藥會增加克隆氏病的發生，對潰瘍性大腸炎沒有明顯影響<br>(C) 錯誤，appendectomy可預防潰瘍性大腸炎的發生，而非克隆氏病<br>(D) 錯誤，美國人的發生率高於亞洲人",
+    "tags": [
+      "112-1-3(三)",
+      "腸胃內科"
+    ],
+    "group_id": "group_4715"
+  },
+  {
+    "id": 1121317,
+    "question": "17. 一位阻塞性黃疸患者被診斷為Mirizzi's syndrome，造成膽汁排泄阻塞的原發原因為何？",
+    "options": {
+      "A": "總膽管結石",
+      "B": "胰臟腫瘤",
+      "C": "膽囊管（cystic duct）結石",
+      "D": "總膽管血塊"
+    },
+    "answer": "C",
+    "explanation": "此題考查Mirizzi's syndrome的病理機轉。此症候群是由膽囊管結石壓迫總肝管造成阻塞性黃疸。<br>(A) 錯誤，Mirizzi's syndrome不是由總膽管結石造成<br>(B) 錯誤，Mirizzi's syndrome不是由胰臟腫瘤造成<br>(C) 正確，Mirizzi's syndrome是由膽囊管（cystic duct）結石壓迫總肝管造成膽汁排泄阻塞<br>(D) 錯誤，Mirizzi's syndrome不是由總膽管血塊造成",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4716"
+  },
+  {
+    "id": 1121318,
+    "question": "18. 一位58歲男性病人，因腹痛、發燒、畏寒，至急診室求診。身體診察發現病人有黃疸且腹部鼓脹，且有shifting dullness與反彈痛（rebound pain），手部有palmar erythema與flapping tremor。經抽腹水檢查，發現腹水WBC：1，250/mm3，neutrophil 85%，lymphocyte 15%、RBC：40/mm3。下列何者為最可能之診斷？",
+    "options": {
+      "A": "自發性細菌性腹膜炎",
+      "B": "十二指腸潰瘍合併穿孔",
+      "C": "腸套疊",
+      "D": "肝細胞癌破裂"
+    },
+    "answer": "A",
+    "explanation": "此題考查自發性細菌性腹膜炎的診斷。腹水中性球≥250/mm³即可診斷，加上肝硬化表徵更支持此診斷。<br>(A) 正確，自發性細菌性腹膜炎的診斷為腹水WBC中性球≥250/mm³（此病例為1062.5/mm³），加上palmar erythema與flapping tremor等肝硬化表徵<br>(B) 錯誤，十二指腸潰瘍穿孔通常腹水RBC會更高，且會有急性腹膜炎表現<br>(C) 錯誤，腸套疊通常發生於兒童，且不會有肝硬化表徵<br>(D) 錯誤，肝細胞癌破裂通常腹水RBC會明顯升高",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4717"
+  },
+  {
+    "id": 1121319,
+    "question": "19. 一位懷疑有藥物引起肝傷害病人之生化值檢查如下：ALT：56 U/L、AST：72 U/L、alkaline phosphatase：795 U/L（正常值＜100 U/L）、total bilirubin：1.8 mg/dL（正常值＜1.6 mg/dL）。下列何種藥最可能導致此病人之肝傷害？",
+    "options": {
+      "A": "methotrexate",
+      "B": "isoniazid",
+      "C": "methyltestosterone",
+      "D": "acetaminophen"
+    },
+    "answer": "C",
+    "explanation": "此題考查藥物性肝損傷的類型。鹼性磷酸酶明顯升高提示膽汁鬱積型肝損傷，methyltestosterone是典型致病藥物。<br>(A) 錯誤，methotrexate主要造成肝細胞型損傷（ALT/AST上升為主）<br>(B) 錯誤，isoniazid主要造成肝細胞型損傷<br>(C) 正確，methyltestosterone會造成膽汁鬱積型肝損傷（alkaline phosphatase顯著升高為主要表現）<br>(D) 錯誤，acetaminophen主要造成肝細胞型損傷且ALT/AST會極度升高",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4718"
+  },
+  {
+    "id": 1121320,
+    "question": "20. 下列有關小腸腫瘤之敘述，何者錯誤？",
+    "options": {
+      "A": "小腸最常見的良性腫瘤為平滑肌瘤（leiomyoma）或adenoma",
+      "B": "大部分Peutz-Jeghers症候群的息肉易惡性病變",
+      "C": "小腸淋巴瘤好發於迴腸",
+      "D": "小腸最常見的肉瘤（sarcoma）為平滑肌肉瘤（leiomyosarcoma）"
+    },
+    "answer": "B",
+    "explanation": "此題考查小腸腫瘤的特性。Peutz-Jeghers症候群的息肉為錯構瘤（hamartoma），惡性變化風險較低。<br>(A) 正確，小腸最常見的良性腫瘤為平滑肌瘤或腺瘤<br>(B) 錯誤，Peutz-Jeghers症候群的息肉為錯構瘤（hamartoma），惡性變化風險相對較低（約2-3%），並非大部分易惡性病變<br>(C) 正確，小腸淋巴瘤好發於迴腸<br>(D) 正確，小腸最常見的肉瘤為平滑肌肉瘤",
+    "tags": [
+      "112-1-3(三)",
+      "腸胃內科"
+    ],
+    "group_id": "group_4719"
+  },
+  {
+    "id": 1121321,
+    "question": "21. 下列何者不是胃上皮細胞的攻擊因子？",
+    "options": {
+      "A": "前列腺素（prostaglandin）",
+      "B": "酒精",
+      "C": "Helicobacter pylori",
+      "D": "膽鹽（bile salt）"
+    },
+    "answer": "A",
+    "explanation": "此題考查胃黏膜的防禦與攻擊因子。前列腺素（prostaglandin）是保護胃黏膜的防禦因子，不是攻擊因子。<br>(A) 錯誤，前列腺素（prostaglandin）是胃上皮細胞的防禦因子，具有保護黏膜的作用，能促進黏液分泌、增加黏膜血流，並非攻擊因子<br>(B) 正確，酒精會破壞胃黏膜屏障，屬於攻擊因子<br>(C) 正確，幽門螺旋桿菌（Helicobacter pylori）會破壞胃黏膜，導致胃炎和潰瘍<br>(D) 正確，膽鹽（bile salt）會損傷胃黏膜，特別是在膽汁逆流時",
+    "tags": [
+      "112-1-3(三)",
+      "腸胃內科"
+    ],
+    "group_id": "group_4720"
+  },
+  {
+    "id": 1121322,
+    "question": "22. 一位45歲男性因肝功能異常來門診，沒有肥胖（BMI 23 kg/m2），喝酒史：每星期五次，每次兩罐啤酒（500 毫升，5% alcohol），長達15年，抽血檢查發現AST/ALT：85/52 U/L（reference value：≦40/40）、HBsAg陰性反應、anti-HCV Ab陽性反應，腹部超音波檢查時發現有中度脂肪肝。下列評估與敘述，何者較不適當？",
+    "options": {
+      "A": "患者可能已經發生酒精性脂肪肝疾病（alcoholic fatty liver disease）",
+      "B": "酒精性脂肪肝疾病之發生與肥胖以及胰島素抗性（insulin resistance）有密切相關",
+      "C": "戒酒是改善肝功能最重要的方法之一，高劑量類固醇治療在這個階段並沒有幫助",
+      "D": "患者可能同時有C型肝炎，是併發較嚴重酒精性脂肪肝疾病的臨床危險因子，須積極評估HCV RNA及給與治療"
+    },
+    "answer": "B",
+    "explanation": "此題考查酒精性脂肪肝的危險因子。酒精性脂肪肝主要由酒精引起，與肥胖及胰島素抗性的關聯較弱，這些是非酒精性脂肪肝的危險因子。<br>(A) 正確，患者長期飲酒（每週五次，每次兩罐啤酒，持續15年），符合酒精性脂肪肝疾病的診斷<br>(B) 錯誤，酒精性脂肪肝疾病的發生主要與酒精攝取有關，肥胖及胰島素抗性（insulin resistance）是非酒精性脂肪肝疾病（non-alcoholic fatty liver disease）的主要危險因子，而非酒精性脂肪肝的主要相關因子<br>(C) 正確，戒酒是治療酒精性脂肪肝最重要的方法，高劑量類固醇在此階段並無治療效益<br>(D) 正確，患者anti-HCV Ab陽性，可能同時患有C型肝炎，需積極評估並治療",
+    "tags": [
+      "112-1-3(三)",
+      "肝膽內科"
+    ],
+    "group_id": "group_4721"
+  },
+  {
+    "id": 1121323,
+    "question": "23. 關於大腸直腸癌篩檢之敘述，下列何者正確？",
+    "options": {
+      "A": "糞便潛血檢查陽性代表已罹患大腸癌",
+      "B": "肛門指診是大腸癌篩檢的好方法",
+      "C": "糞便潛血檢查陽性者應該進一步接受大腸鏡進行確診",
+      "D": "下消化道攝影與大腸鏡同為大腸癌篩檢的好方法"
+    },
+    "answer": "C",
+    "explanation": "此題考查大腸直腸癌篩檢的正確觀念。糞便潛血陽性只是初步篩檢結果，需要進一步大腸鏡檢查確診。<br>(A) 正確，糞便潛血檢查陽性僅代表可能有出血，不一定是大腸癌，可能是息肉、痔瘡等其他原因造成<br>(B) 正確，肛門指診只能檢查直腸末端約7-10公分範圍，無法作為完整的大腸癌篩檢方法<br>(C) 正確，糞便潛血檢查陽性者應接受大腸鏡檢查以確定診斷<br>(D) 正確，下消化道攝影（鋇劑灌腸）的敏感度和特異度均不如大腸鏡，且無法同時進行切片或息肉切除，因此不是同等良好的篩檢方法",
+    "tags": [
+      "112-1-3(三)",
+      "腸胃內科"
+    ],
+    "group_id": "group_4722"
+  },
+  {
+    "id": 1121324,
+    "question": "24. 一位40歲女病人，因意識障礙送入醫院，身體診察無明顯水腫，抽血檢查血鈉（Na）為115 mmol/L，血中蛋 白質、血糖、三酸甘油脂皆在正常範圍內，病人未施打mannitol，下列敘述何者錯誤？",
+    "options": {
+      "A": "抽血檢查血滲透壓（osmolality），其數值應較正常低",
+      "B": "尿中滲透壓為250 mOsm/kg H2O，限水對此病人的治療無益",
+      "C": "可考慮使用高張溶液，如3%食鹽水（saline）",
+      "D": "不宜在24小時內將血鈉矯正至135 mmol/L"
+    },
+    "answer": "B",
+    "explanation": "此題考查低血鈉症的處理原則。尿液滲透壓250 mOsm/kg屬於稀釋尿液，表示腎臟仍有濃縮功能，限水對治療可能有幫助。<br>(A) 正確，血鈉115 mmol/L屬於嚴重低血鈉，血滲透壓會低於正常值<br>(B) 錯誤，尿液滲透壓250 mOsm/kg屬於相對稀釋的尿液，表示抗利尿激素分泌不當症候群（SIADH）的可能性較低，限水治療可能對此病人有幫助，而非無益<br>(C) 正確，嚴重低血鈉且有意識障礙時，可考慮使用3%高張食鹽水治療<br>(D) 正確，快速矯正低血鈉可能導致橋腦髓鞘溶解症（osmotic demyelination syndrome），不宜在24小時內矯正超過10-12 mEq/L",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4723"
+  },
+  {
+    "id": 1121325,
+    "question": "25. 下列有關顯影劑引起之急性腎損傷（contrast-induced acute kidney injury）的敘述，何者正確？",
+    "options": {
+      "A": "一旦發生，有2～7%病人需要接受透析治療",
+      "B": "以生理鹽水預防，只須於施打顯影劑後馬上給與，持續至少12小時，即有效果",
+      "C": "以sodium bicarbonate預防，只須於施打顯影劑前1小時施打即有效果",
+      "D": "以N-acetylcysteine預防，臨床上常使用但並未證實有一致的療效，目前並不例行推薦"
+    },
+    "answer": "D",
+    "explanation": "此題考查顯影劑引起急性腎損傷的預防。N-acetylcysteine的預防效果在臨床研究中結果不一致，目前不常規推薦。<br>(A) 正確，顯影劑腎病變發生後，約2-7%的病人需要接受透析治療<br>(B) 正確，使用顯影劑前後應給予足夠的靜脈輸液，施打顯影劑後至少持續12小時的水分補充<br>(C) 正確，sodium bicarbonate預防方案通常於施打顯影劑前1-3小時開始給予<br>(D) 正確，N-acetylcysteine在臨床上雖常被使用，但研究結果並未證實有一致的預防效果，目前並不例行推薦使用",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4724"
+  },
+  {
+    "id": 1121326,
+    "question": "26. 一位57歲男性病人因神智不清被送至急診處。身體診察無發燒、血壓134/89 mmHg、脈搏90/min；頸部可摸 到一個兩公分大小之淋巴結，心臟無雜音，肺部呼吸聲正常，腹部無特殊發現。神經學檢查無局部性缺損， 神智呈現錯亂、譫妄（delirium）。生化檢查結果：BUN 88 mg/dL，肌酸酐2.8 mg/dL，血糖90 mg/dL；電解 質（單位 mmol/L）：Na+ 143，K+ 4.0，Cl- 90，Ca2+ 3.45。有關此病人的進一步處置，下列何者正確？",
+    "options": {
+      "A": "給與1000 mL的生理食鹽水，並給與利尿劑",
+      "B": "緊急血液透析",
+      "C": "給與5%葡萄糖1000 mL，並給與鎮靜劑，如benzodiazepam",
+      "D": "給與氯化鈣靜脈注射"
+    },
+    "answer": "A",
+    "explanation": "此題考查高血鈣危象的處理。患者有高血鈣（3.45 mmol/L，正常約2.1-2.6）合併腎功能異常及神智改變，需積極給予靜脈輸液及利尿劑治療。<br>(A) 正確，患者血鈣高達3.45 mmol/L（正常約2.1-2.6 mmol/L），合併腎功能不全及神智不清，應立即給予大量生理食鹽水輸液及利尿劑促進鈣質排泄<br>(B) 錯誤，雖然患者有腎功能異常，但首要治療是矯正高血鈣和脫水，不需緊急透析<br>(C) 錯誤，不應給予葡萄糖溶液，且鎮靜劑可能加重意識障礙<br>(D) 錯誤，氯化鈣注射會使血鈣更高，完全錯誤的治療方向",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4725"
+  },
+  {
+    "id": 1121327,
+    "question": "27. 在臺灣造成末期腎病之最主要原發疾病為：",
+    "options": {
+      "A": "高血壓腎病變",
+      "B": "糖尿病腎病變",
+      "C": "慢性腎絲球腎炎",
+      "D": "中草藥腎病變"
+    },
+    "answer": "B",
+    "explanation": "此題考查臺灣末期腎病的主要原因。糖尿病腎病變是臺灣及全球末期腎病的首要原因。<br>(A) 錯誤，高血壓腎病變雖是重要原因之一，但不是最主要的<br>(B) 正確，糖尿病腎病變是臺灣造成末期腎病的最主要原發疾病<br>(C) 錯誤，慢性腎絲球腎炎在過去較常見，但目前已不是主要原因<br>(D) 錯誤，中草藥腎病變雖在臺灣曾引起關注，但並非最主要原因",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4726"
+  },
+  {
+    "id": 1121328,
+    "question": "28. 35歲女性病人，上呼吸道感染後全身乏力、無腹瀉，肌酸酐由0.8 mg/dL上升至6.2 mg/dL，血色素由12.0 g/dL 下降至8.6 g/dL，血小板80 × 103/μL，血液抹片呈微小血管溶血性貧血（microangiopathic hemolytic anemia），ADAMTS13＞15%，下列何種治療最為適當？",
+    "options": {
+      "A": "bortezomib",
+      "B": "rituximab",
+      "C": "eculizumab",
+      "D": "immunoglobulin"
+    },
+    "answer": "C",
+    "explanation": "此題考查非典型溶血尿毒症候群（atypical HUS）的治療。ADAMTS13大於15%排除血栓性血小板減少紫斑症（TTP），應考慮補體媒介的溶血尿毒症候群，首選eculizumab治療。<br>(A) 錯誤，bortezomib主要用於多發性骨髓瘤治療，不適用於此病例<br>(B) 錯誤，rituximab主要用於治療血栓性血小板減少紫斑症（TTP）及某些自體免疫疾病<br>(C) 正確，患者表現為溶血性貧血、血小板低下、急性腎損傷，且ADAMTS13大於15%，符合非典型溶血尿毒症候群（atypical hemolytic uremic syndrome），eculizumab是補體抑制劑，為此病的首選治療<br>(D) 錯誤，免疫球蛋白對非典型溶血尿毒症候群效果有限",
+    "tags": [
+      "112-1-3(三)",
+      "血液科"
+    ],
+    "group_id": "group_4727"
+  },
+  {
+    "id": 1121329,
+    "question": "29. 造成慢性腎臟病貧血的原因，下列何者錯誤？",
+    "options": {
+      "A": "病患身體所製造之紅血球生成素（erythropoietin）相對缺乏",
+      "B": "病患體內鐵質儲存量（iron store）過多",
+      "C": "病患合併出血傾向（bleeding diathesis）",
+      "D": "病患處於慢性發炎狀態（chronic inflammation）"
+    },
+    "answer": "B",
+    "explanation": "此題考查慢性腎臟病貧血的原因。慢性腎臟病患者常有鐵質缺乏或鐵質利用障礙，而非鐵質儲存過多。<br>(A) 正確，腎臟是紅血球生成素（erythropoietin）的主要製造器官，慢性腎臟病時相對缺乏<br>(B) 錯誤，慢性腎臟病患者常因飲食限制、消化道出血、透析失血等因素導致鐵質缺乏或功能性鐵質缺乏，而非鐵質儲存量過多<br>(C) 正確，慢性腎臟病患者常有血小板功能異常，容易出血<br>(D) 正確，慢性腎臟病患者處於慢性發炎狀態，會影響鐵質利用和紅血球生成",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4728"
+  },
+  {
+    "id": 1121330,
+    "question": "30. 下列有關需緊急血液透析的適應症，何者最不適當？",
+    "options": {
+      "A": "經藥物治療無效的高血鉀症",
+      "B": "急性肺水腫且合併對利尿劑無反應的寡尿",
+      "C": "碳酸氫鈉無法矯正的代謝性酸血症",
+      "D": "腎絲球過濾率6 mL/min/1.73 m2之慢性腎臟病患者，不論有無尿毒症狀"
+    },
+    "answer": "D",
+    "explanation": "此題考查緊急血液透析的適應症。腎絲球過濾率低但無症狀者不需緊急透析，應依臨床症狀決定是否透析。<br>(A) 正確，經藥物治療無效的嚴重高血鉀症需緊急透析<br>(B) 正確，急性肺水腫合併利尿劑無效的寡尿需緊急透析<br>(C) 正確，嚴重代謝性酸血症且碳酸氫鈉無法矯正時需緊急透析<br>(D) 錯誤，腎絲球過濾率6 mL/min/1.73 m²雖屬嚴重腎功能不全，但若無尿毒症狀（如噁心嘔吐、意識改變、心包膜炎等）或上述緊急狀況，不需立即透析",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4729"
+  },
+  {
+    "id": 1121331,
+    "question": "31. 全身性紅斑狼瘡（systemic lupus erythematosus）病人的神經及精神症狀中，下列何者最為常見？",
+    "options": {
+      "A": "cognitive dysfunction",
+      "B": "transverse myelopathy",
+      "C": "cerebral hemorrhage",
+      "D": "autonomic nerve imbalance"
+    },
+    "answer": "A",
+    "explanation": "此題考查全身性紅斑狼瘡的神經精神症狀。認知功能障礙（cognitive dysfunction）是最常見的神經精神表現。<br>(A) 正確，認知功能障礙（cognitive dysfunction）是全身性紅斑狼瘡病人最常見的神經精神症狀，包括注意力、記憶力、執行功能的問題<br>(B) 錯誤，橫貫性脊髓炎（transverse myelopathy）較少見且嚴重<br>(C) 錯誤，腦出血（cerebral hemorrhage）不是最常見的表現<br>(D) 錯誤，自主神經失調（autonomic nerve imbalance）不是最常見的神經精神症狀",
+    "tags": [
+      "112-1-3(三)",
+      "風濕免疫科"
+    ],
+    "group_id": "group_4730"
+  },
+  {
+    "id": 1121332,
+    "question": "32. 下列何種血管炎患者的血清中，可以檢測到antineutrophil cytoplasmic antibodies（ANCA）？",
+    "options": {
+      "A": "serum sickness",
+      "B": "Kawasaki disease",
+      "C": "granulomatosis with polyangiitis",
+      "D": "vasculitis associated with collagen vascular diseases"
+    },
+    "answer": "C",
+    "explanation": "此題考查ANCA相關血管炎。肉芽腫性多發血管炎（granulomatosis with polyangiitis，舊稱Wegener's granulomatosis）患者血清可檢測到ANCA。<br>(A) 錯誤，血清病（serum sickness）與ANCA無關<br>(B) 錯誤，川崎氏病（Kawasaki disease）與ANCA無關<br>(C) 正確，肉芽腫性多發血管炎（granulomatosis with polyangiitis）屬於ANCA相關血管炎，血清中可檢測到抗嗜中性白血球細胞質抗體（antineutrophil cytoplasmic antibodies， ANCA）<br>(D) 錯誤，膠原血管疾病相關的血管炎通常與其他自體抗體相關，而非ANCA",
+    "tags": [
+      "112-1-3(三)",
+      "風濕免疫科"
+    ],
+    "group_id": "group_4731"
+  },
+  {
+    "id": 1121333,
+    "question": "33. 下列細胞激素（cytokine）中，何者與敗血病關係較不密切？",
+    "options": {
+      "A": "interleukin-5（IL-5）",
+      "B": "interleukin-1（IL-1）",
+      "C": "tumor necrosis factor α（TNF-α）",
+      "D": "interleukin-6（IL-6）"
+    },
+    "answer": "A",
+    "explanation": "此題考查敗血症相關的細胞激素。IL-5主要與過敏和寄生蟲感染相關，與敗血症關係較不密切。<br>(A) 正確，介白素-5（interleukin-5， IL-5）主要參與嗜酸性球的活化和過敏反應，與敗血症的關係較不密切<br>(B) 錯誤，IL-1是重要的促發炎細胞激素，在敗血症中扮演關鍵角色<br>(C) 錯誤，腫瘤壞死因子α（tumor necrosis factor α， TNF-α）是敗血症中最重要的細胞激素之一<br>(D) 錯誤，IL-6在敗血症中大量釋放，可作為敗血症的生物標記",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4732"
+  },
+  {
+    "id": 1121334,
+    "question": "34. Autoinflammatory diseases包括某些有反覆發燒症狀的發炎性免疫疾病，但下列何者不屬於此類疾病？",
+    "options": {
+      "A": "tumor necrosis factor receptor-associated periodic syndrome",
+      "B": "familial Mediterranean fever",
+      "C": "granulomatosis with polyangiitis",
+      "D": "neonatal-onset multisystem inflammatory disease"
+    },
+    "answer": "C",
+    "explanation": "此題考查自體發炎性疾病的分類。肉芽腫性多發血管炎屬於自體免疫疾病，不是自體發炎性疾病。<br>(A) 正確，腫瘤壞死因子受體相關週期性症候群（TRAPS）屬於自體發炎性疾病<br>(B) 正確，家族性地中海熱（familial Mediterranean fever）是典型的自體發炎性疾病<br>(C) 錯誤，肉芽腫性多發血管炎（granulomatosis with polyangiitis）屬於自體免疫疾病（與ANCA相關），不是自體發炎性疾病<br>(D) 正確，新生兒期多系統發炎性疾病（neonatal-onset multisystem inflammatory disease）屬於自體發炎性疾病",
+    "tags": [
+      "112-1-3(三)",
+      "風濕免疫科"
+    ],
+    "group_id": "group_4733"
+  },
+  {
+    "id": 1121335,
+    "question": "35. 有關發炎性肌肉病變（inflammatory myopathies）的敘述，下列何者正確？",
+    "options": {
+      "A": "inclusion body myositis好發於年輕人",
+      "B": "dermatomyositis通常不會有肌肉之外的表現（extramuscular manifestations）",
+      "C": "polymyositis通常會有強烈的家族遺傳相關（familial association）",
+      "D": "dermatomyositis有可能與癌症相關"
+    },
+    "answer": "D",
+    "explanation": "此題考查發炎性肌肉病變的特徵。皮肌炎（dermatomyositis）可能與惡性腫瘤相關，需積極篩檢癌症。<br>(A) 錯誤，包涵體肌炎（inclusion body myositis）好發於50歲以上的中老年人，而非年輕人<br>(B) 錯誤，皮肌炎（dermatomyositis）常有肌肉外表現，如特徵性皮膚病變、間質性肺病、關節炎等<br>(C) 錯誤，多發性肌炎（polymyositis）通常無明顯家族遺傳傾向<br>(D) 正確，皮肌炎（dermatomyositis）與惡性腫瘤有關聯，特別是中老年發病者，需積極進行癌症篩檢",
+    "tags": [
+      "112-1-3(三)",
+      "風濕免疫科"
+    ],
+    "group_id": "group_4734"
+  },
+  {
+    "id": 1121336,
+    "question": "36. 子宮頸癌治療預後常跟原發腫瘤之侵犯位置與侵犯周邊器官有關，下列何者臨床狀況，其5年預後最差？",
+    "options": {
+      "A": "子宮頸癌只侵犯到子宮頸區域",
+      "B": "子宮頸癌侵犯到陰道之下1/3區域",
+      "C": "子宮頸癌侵犯到骨盆側壁（pelvic side wall）",
+      "D": "子宮頸癌侵犯到膀胱區域"
+    },
+    "answer": "D",
+    "explanation": "此題考查子宮頸癌的預後。侵犯膀胱代表已是晚期（第IVA期），預後最差。<br>(A) 錯誤，只侵犯子宮頸區域屬於早期癌症，預後較好<br>(B) 錯誤，侵犯陰道下1/3屬於第III期，預後不佳但非最差<br>(C) 錯誤，侵犯骨盆側壁屬於第IIIB期，預後差<br>(D) 正確，子宮頸癌侵犯膀胱或直腸代表已達第IVA期，屬於晚期癌症，5年存活率最低，預後最差",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4735"
+  },
+  {
+    "id": 1121337,
+    "question": "37. 大腸直腸癌（colorectal cancer）是國人最常見的惡性腫瘤之一。下列與大腸直腸癌發生相關的危險因子中，何者最不恰當？",
+    "options": {
+      "A": "飲食中的動物性脂肪（animal fat）",
+      "B": "inflammatory bowel disease",
+      "C": "Lynch's syndrome",
+      "D": "enterococcus bacteremia"
+    },
+    "answer": "D",
+    "explanation": "此題考查大腸直腸癌的危險因子。腸球菌菌血症與大腸癌發生無明確關聯。<br>(A) 正確，高動物性脂肪飲食會增加大腸直腸癌風險<br>(B) 正確，發炎性腸道疾病（inflammatory bowel disease）如潰瘍性大腸炎和克隆氏病會增加大腸癌風險<br>(C) 正確，林奇症候群（Lynch's syndrome，遺傳性非息肉症大腸癌）是重要的遺傳性危險因子<br>(D) 錯誤，腸球菌菌血症（enterococcus bacteremia）與大腸直腸癌的發生沒有明確的因果關係",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4736"
+  },
+  {
+    "id": 1121338,
+    "question": "38. 一位23歲病人因咳嗽、喉嚨痛吃了兩天藥房買的藥後，突然發現小便呈現暗紅色，尿液檢查潛血反應為陽性，沉澱物中紅血球0～2/HPF，白血球1～2/HPF。抽血檢查顯示血紅素10.8 g/dL，網狀紅血球7.6%，白血球 9，850/μL且分類正常，血小板178，000/μL，血球抹片如圖所示。AST 72 U/L（正常0～37），ALT 35 U/L（正常0～41），LDH 1，080 U/L，總膽紅素4.3 mg/dL，直接型膽紅素0.8 mg/dL，Coombs test陰性。病人回憶他小學時亦曾經在服用感冒藥後發生類似狀況，但幾天後就好了，當時並未去看醫生。此病人最可能的診斷為何？",
+    "options": {
+      "A": "autoimmune hemolytic anemia",
+      "B": "glucose 6-phosphate dehydrogenase（G6PD）deficiency",
+      "C": "acute glomerulonephritis",
+      "D": "acute hepatitis"
+    },
+    "answer": "B",
+    "explanation": "此題考查葡萄糖-6-磷酸脫氫酶缺乏症的診斷。患者服藥後出現溶血、網狀紅血球增加、Coombs test陰性，且曾有類似病史，符合G6PD缺乏症。<br>(A) 錯誤，自體免疫性溶血性貧血（autoimmune hemolytic anemia）的Coombs test應為陽性<br>(B) 正確，患者服用藥物後出現急性溶血（血紅素下降、網狀紅血球增加、間接膽紅素升高、LDH升高）、尿液呈暗紅色但紅血球極少（表示血紅素尿），Coombs test陰性，且曾在小學時有類似病史，最符合葡萄糖-6-磷酸脫氫酶缺乏症（G6PD deficiency），俗稱蠶豆症<br>(C) 錯誤，急性腎絲球腎炎會有明顯的尿液紅血球及蛋白尿<br>(D) 錯誤，急性肝炎的AST和ALT比例不符，且無法解釋溶血表現",
+    "tags": [
+      "112-1-3(三)",
+      "血液科"
+    ],
+    "group_id": "group_4737"
+  },
+  {
+    "id": 1121339,
+    "question": "39. 一位62歲男性因跌倒就醫，實驗室檢查顯示Hb 7.6 g/dL，MCV 85 fL，platelet 120，000/μL。下圖分別為其骨髓抹片及Ｘ光，其診斷最可能為下列何者？",
+    "options": {
+      "A": "腺癌併多處骨轉移",
+      "B": "vitamin D嚴重缺乏症",
+      "C": "多發性骨髓瘤",
+      "D": "骨癌併多處轉移"
+    },
+    "answer": "C",
+    "explanation": "此題考查多發性骨髓瘤的診斷。老年病患貧血、血小板低下、骨髓漿細胞增生及X光顯示多發性溶骨性病變，符合多發性骨髓瘤。<br>(A) 錯誤，腺癌骨轉移通常呈現成骨性或混合性病變，骨髓抹片不會有大量漿細胞<br>(B) 錯誤，維生素D缺乏主要導致骨質疏鬆或骨軟化症，不會有此特徵的骨髓和X光表現<br>(C) 正確，患者有貧血、血小板低下、多發性溶骨性病變（X光呈現punch-out lesions）及骨髓中漿細胞增生，最符合多發性骨髓瘤（multiple myeloma）的診斷<br>(D) 錯誤，原發性骨癌較少見且通常為單一病灶",
+    "tags": [
+      "112-1-3(三)",
+      "血液科"
+    ],
+    "group_id": "group_4738"
+  },
+  {
+    "id": 1121340,
+    "question": "40. 評估癌症病人的活動能力（performance status），如採用Karnofsky performance status scale，70分表示：",
+    "options": {
+      "A": "活動及工作皆不受限制",
+      "B": "整日躺床，完全無法照顧自己",
+      "C": "能照顧自己，但已不能工作或做正常的活動",
+      "D": "日常生活需要他人相當多的協助及醫療照顧"
+    },
+    "answer": "C",
+    "explanation": "此題考查Karnofsky表現狀態量表的評分。70分表示可照顧自己但無法工作或進行正常活動。<br>(A) 錯誤，活動及工作皆不受限制對應的是90-100分<br>(B) 錯誤，整日躺床且完全無法照顧自己對應的是10-20分<br>(C) 正確，Karnofsky performance status scale中70分定義為：能照顧自己（care for self），但已不能工作或做正常的活動（unable to carry on normal activity or to do active work）<br>(D) 錯誤，日常生活需要他人相當多協助及醫療照顧對應的是40-50分",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4739"
+  },
+  {
+    "id": 1121341,
+    "question": "41. 一位60歲男性病人，咳嗽6週，喘氣、虛弱、胃口差、體重減輕。經詢問後，還有輕微頭疼及隱隱右側腹痛。他自16歲起每天抽兩包菸。身體診察呈現惡病質（cachexia），右臂及右頸無明顯腫脹，沒有胸前靜脈鼓起。胸部X光顯示右上肺葉有一大腫瘤，經皮穿刺生檢證實是小細胞肺癌，電腦斷層呈現上腔靜脈輕微壓迫，右縱膈腔淋巴結明顯腫大及肝轉移。最適當治療的方法為何？",
+    "options": {
+      "A": "緊急胸部放射治療",
+      "B": "化學治療",
+      "C": "支架撐開上腔靜脈，接著化學治療",
+      "D": "胸部放射治療，接著化學治療"
+    },
+    "answer": "B",
+    "explanation": "此題考查小細胞肺癌併發上腔靜脈症候群的急性處置。化學治療對小細胞肺癌的反應迅速，是此類腫瘤合併上腔靜脈症候群的首選治療。<br>(A) 錯誤，小細胞肺癌對化學治療反應良好，緊急放射治療並非首選<br>(B) 正確，小細胞肺癌對化學治療極為敏感，化學治療是首選處置<br>(C) 錯誤，雖然支架可快速緩解症狀，但小細胞肺癌應優先考慮化學治療<br>(D) 錯誤，放射治療可作為輔助治療，但化學治療才是首選",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4740"
+  },
+  {
+    "id": 1121342,
+    "question": "42. 下列何者不是芳香酶抑制劑（aromatase inhibitor）？",
+    "options": {
+      "A": "anastrazole",
+      "B": "exemestane",
+      "C": "letrozole",
+      "D": "tamoxifen"
+    },
+    "answer": "D",
+    "explanation": "此題考查荷爾蒙治療藥物的分類。芳香酶抑制劑(aromatase inhibitor)用於停經後乳癌患者，而tamoxifen是選擇性雌激素受體調節劑(selective estrogen receptor modulator)，機轉不同。<br>(A) 正確，anastrozole是非類固醇類芳香酶抑制劑<br>(B) 正確，exemestane是類固醇類芳香酶抑制劑<br>(C) 正確，letrozole是非類固醇類芳香酶抑制劑<br>(D) 錯誤，tamoxifen是選擇性雌激素受體調節劑，不是芳香酶抑制劑",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4741"
+  },
+  {
+    "id": 1121343,
+    "question": "43. 關於頭頸癌與病毒感染的相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "與口咽癌（oropharyngeal cancer）發生有關的病毒是human papilloma virus 16（HPV 16）",
+      "B": "human papilloma virus（HPV）感染與西方國家口咽癌（oropharyngeal cancer）發生率上升相關",
+      "C": "human papilloma virus（HPV）相關的口咽癌（oropharyngeal cancer）較HPV不相關的口咽癌預後較差",
+      "D": "與鼻咽癌（nasopharyngeal cancer）發生有關的病毒是Epstein-Barr virus（EBV）"
+    },
+    "answer": "C",
+    "explanation": "此題考查頭頸癌與病毒感染的相關性。人類乳突病毒(human papilloma virus， HPV)相關的口咽癌預後較佳，不是較差。<br>(A) 正確，HPV16型與口咽癌發生密切相關<br>(B) 正確，西方國家口咽癌發生率上升與HPV感染有關<br>(C) 錯誤，HPV相關的口咽癌預後較好，不是較差<br>(D) 正確，EB病毒(Epstein-Barr virus)與鼻咽癌發生有關",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4742"
+  },
+  {
+    "id": 1121344,
+    "question": "44. 下列何者不是乳癌患者接受乳房保留手術（breast-conserving surgery）的相對或絕對禁忌症？",
+    "options": {
+      "A": "腋下淋巴轉移",
+      "B": "同側乳房多發性病灶",
+      "C": "腫瘤侵犯nipple-areola",
+      "D": "collagen-vascular disease患者"
+    },
+    "answer": "A",
+    "explanation": "此題考查乳房保留手術的禁忌症。腋下淋巴轉移不是乳房保留手術的禁忌症，可同時進行腋下淋巴廓清。<br>(A) 正確，腋下淋巴轉移並非乳房保留手術的禁忌症<br>(B) 錯誤，同側乳房多發性病灶是乳房保留手術的禁忌症<br>(C) 錯誤，腫瘤侵犯乳頭乳暈是乳房保留手術的禁忌症<br>(D) 錯誤，膠原血管疾病患者因放射治療併發症風險高，是相對禁忌症",
+    "tags": [
+      "112-1-3(三)",
+      "腫瘤科"
+    ],
+    "group_id": "group_4743"
+  },
+  {
+    "id": 1121345,
+    "question": "45. 張小姐因肺炎治療一星期後持續發燒且出現胸痛的症狀，胸部X光檢查發現右側肋膜積液（pleural effusion），下列肋膜積液生化檢查的結果，何者最應積極引流治療？",
+    "options": {
+      "A": "pH = 7.3",
+      "B": "glucose = 38 mg/dL",
+      "C": "LDH = 700 U/L",
+      "D": "WBC = 7000/μL"
+    },
+    "answer": "B",
+    "explanation": "此題考查肋膜積液需積極引流的指標。肋膜積液中葡萄糖濃度低於40 mg/dL表示複雜性膿胸(complicated parapneumonic effusion)，需積極引流。<br>(A) 錯誤，pH 7.3雖偏低但尚未達到需立即引流的標準(通常pH < 7.2需引流)<br>(B) 正確，葡萄糖濃度38 mg/dL低於40 mg/dL，表示複雜性膿胸，需積極引流治療<br>(C) 錯誤，LDH 700 U/L雖升高但並非最緊急需引流的指標<br>(D) 錯誤，白血球數7000/μL不是最需積極引流的指標",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4744"
+  },
+  {
+    "id": 1121346,
+    "question": "46. 吳先生45歲，不抽菸，因咳嗽2個月至門診就醫，胸部Ｘ光檢查結果如圖所示，最可能的診斷為何？",
+    "options": {
+      "A": "細菌性肺炎",
+      "B": "間質性肺炎",
+      "C": "肺結核",
+      "D": "肺癌"
+    },
+    "answer": "C",
+    "explanation": "此題考查胸部X光影像判讀。45歲不抽菸者咳嗽2個月，胸部X光顯示典型肺結核表現時，應首先考慮肺結核。<br>(A) 錯誤，細菌性肺炎通常為急性發作，病程較短<br>(B) 錯誤，間質性肺炎的影像表現與典型肺結核不同<br>(C) 正確，咳嗽2個月的亞急性病程，符合肺結核的臨床表現<br>(D) 錯誤，45歲不抽菸者發生肺癌機率較低",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4745"
+  },
+  {
+    "id": 1121347,
+    "question": "47. 張先生經醫師診斷為氣喘病人，依氣喘診療指引，下列關於其治療與追蹤敘述何者錯誤？",
+    "options": {
+      "A": "第二階的氣喘病人應接受吸入型類固醇治療",
+      "B": "對於氣喘病情的監測，可教育病人使用尖峰呼氣流速計（peak flowmeter）記錄峰速值（peak expiratory flow rate）",
+      "C": "氣喘治療採階梯式治療原則",
+      "D": "每一階段的治療至少要2個月以上才能考慮降階",
+      "E": ""
+    },
+    "answer": "E",
+    "explanation": "此題一律給分，表示題目或選項有爭議。<br>(A) 關於第二階氣喘患者應接受吸入型類固醇治療<br>(B) 關於尖峰呼氣流速計的使用於氣喘監測<br>(C) 關於氣喘採階梯式治療原則<br>(D) 關於治療至少2個月才考慮降階(此敘述可能有爭議，實際上氣喘控制良好後3個月才考慮降階)",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4746"
+  },
+  {
+    "id": 1121348,
+    "question": "48. 有關慢性阻塞性肺病（COPD）病人的治療策略，下列敘述何者錯誤？",
+    "options": {
+      "A": "輕度病人平時治療可僅使用吸入型抗膽鹼（inhaled anticholinergic）藥物，以改善呼吸功能障礙",
+      "B": "頻繁急性發作（acute exacerbation）的病人，可嘗試使用吸入型類固醇",
+      "C": "胸腔復健對COPD患者的成效不彰",
+      "D": "肺臟移植為治療選項之一"
+    },
+    "answer": "C",
+    "explanation": "此題考查慢性阻塞性肺病(chronic obstructive pulmonary disease， COPD)的治療策略。胸腔復健(pulmonary rehabilitation)對COPD患者有顯著療效。<br>(A) 正確，輕度COPD患者可使用吸入型抗膽鹼藥物改善症狀<br>(B) 正確，頻繁急性發作的患者可考慮使用吸入型類固醇<br>(C) 錯誤，胸腔復健對COPD患者成效顯著，可改善運動耐力和生活品質，不是成效不彰<br>(D) 正確，嚴重COPD患者可考慮肺臟移植",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4747"
+  },
+  {
+    "id": 1121349,
+    "question": "49. 急性呼吸窘迫症（acute respiratory distress syndrome， ARDS）與心因性肺水腫（cardiogenic pulmonary edema）最大的不同在於：",
+    "options": {
+      "A": "ARDS時，肺動脈wedge pressure通常＞18 mmHg",
+      "B": "ARDS肺部浸潤較少見於肺部周圍（pulmonary periphery）",
+      "C": "ARDS時，肺部血管的通透性（permeability）增加",
+      "D": "ARDS出現缺氧的原因，主要導因於肺泡氣體擴散障礙（alveolar diffusion impairment）"
+    },
+    "answer": "C",
+    "explanation": "此題考查急性呼吸窘迫症候群(acute respiratory distress syndrome， ARDS)與心因性肺水腫的鑑別。ARDS的主要病理機轉是肺泡微血管通透性增加。<br>(A) 錯誤，ARDS時肺動脈楔壓(pulmonary artery wedge pressure)通常≤18 mmHg，不是大於18 mmHg<br>(B) 錯誤，ARDS的肺部浸潤常見於周邊肺野<br>(C) 正確，ARDS的主要病理機轉是肺血管通透性增加，導致肺泡充滿富含蛋白質的液體<br>(D) 錯誤，ARDS缺氧主要是因為通氣血流比例失調(ventilation-perfusion mismatch)和肺內分流(intrapulmonary shunt)，不是擴散障礙",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4748"
+  },
+  {
+    "id": 1121350,
+    "question": "50. 下列關於矽肺症（silicosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "主要是因吸入free silica（SiO2）造成",
+      "B": "持續暴露於高濃度矽粉塵數年後，產生急性、亞急性矽肺症，只要離開污染源，疾病即不再惡化",
+      "C": "胸腔影像呈現上肺野小結節陰影、肺門淋巴腺腫大、鈣化或進行性大量纖維化（progressive massive fibrosis）",
+      "D": "容易合併肺結核（pulmonary tuberculosis）、肺癌或自體免疫疾病如類風濕性關節炎（rheumatoid arthritis） 等"
+    },
+    "answer": "B",
+    "explanation": "此題考查矽肺症(silicosis)的特性。矽肺症即使離開污染源後仍可能持續惡化。<br>(A) 正確，矽肺症主要由吸入游離二氧化矽(free silica， SiO2)造成<br>(B) 錯誤，即使離開污染源，矽肺症仍可能持續進展惡化，不會停止進展<br>(C) 正確，矽肺症的胸部影像典型表現包括上肺野小結節、肺門淋巴腺腫大鈣化及進行性大量纖維化<br>(D) 正確，矽肺症患者易合併肺結核、肺癌或類風濕性關節炎等疾病",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4749"
+  },
+  {
+    "id": 1121351,
+    "question": "51. 下列那個標誌無法區分小細胞肺癌與非小細胞肺癌？",
+    "options": {
+      "A": "CD56",
+      "B": "neural cell adhesion molecule（NCAM）",
+      "C": "chromogranin",
+      "D": "thyroid transcription factor-1（TTF-1）"
+    },
+    "answer": "D",
+    "explanation": "此題考查肺癌病理標記。甲狀腺轉錄因子-1(thyroid transcription factor-1， TTF-1)在小細胞肺癌和非小細胞肺癌中都可表現，無法區分兩者。<br>(A) 錯誤，CD56是神經內分泌標記，小細胞肺癌呈陽性，可用於區分<br>(B) 錯誤，神經細胞黏附分子(neural cell adhesion molecule， NCAM)在小細胞肺癌表現，可用於區分<br>(C) 錯誤，嗜鉻粒蛋白(chromogranin)是神經內分泌標記，小細胞肺癌呈陽性，可用於區分<br>(D) 正確，TTF-1在小細胞肺癌和大部分肺腺癌都可表現，無法區分小細胞與非小細胞肺癌",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4750"
+  },
+  {
+    "id": 1121352,
+    "question": "52. 一位26歲女性患有高血壓半年，三個月前開始伴有心悸、頭痛、流汗。主治醫師安排她做尿液24小時 catecholamine測定。若欲給藥治療其高血壓，下列何者不適宜？",
+    "options": {
+      "A": "α-adrenergic blocker alone",
+      "B": "β-adrenergic blocker alone",
+      "C": "calcium channel blocker",
+      "D": "β-adrenergic blocker after α-adrenergic blocker"
+    },
+    "answer": "B",
+    "explanation": "此題考查嗜鉻細胞瘤(pheochromocytoma)的治療。單獨使用β腎上腺素阻斷劑可能引發高血壓危象。<br>(A) 錯誤，單獨使用α腎上腺素阻斷劑是可以的，但不是最佳選擇<br>(B) 正確，嗜鉻細胞瘤患者不宜單獨使用β腎上腺素阻斷劑，因可能導致α受體未受阻斷下的血管過度收縮，引發高血壓危象<br>(C) 錯誤，鈣離子通道阻斷劑可用於嗜鉻細胞瘤的血壓控制<br>(D) 錯誤，先使用α腎上腺素阻斷劑後再使用β腎上腺素阻斷劑是正確的治療順序",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4751"
+  },
+  {
+    "id": 1121353,
+    "question": "53. 下列何者不是營養不良（malnutrition）高危險群之特徵？",
+    "options": {
+      "A": "敗血症（sepsis），高燒不退",
+      "B": "老年人",
+      "C": "長期酗酒（alcohol abuse）",
+      "D": "好喝汽水可樂"
+    },
+    "answer": "D",
+    "explanation": "此題考查營養不良的高危險群。喝汽水可樂本身不是營養不良的主要危險因子。<br>(A) 錯誤，敗血症患者因高代謝狀態和食慾不振易發生營養不良<br>(B) 錯誤，老年人因生理退化和慢性疾病是營養不良高危險群<br>(C) 錯誤，長期酗酒者易發生營養不良，特別是維生素B群缺乏<br>(D) 正確，單純好喝汽水可樂不是營養不良的主要高危險因子",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4752"
+  },
+  {
+    "id": 1121354,
+    "question": "54. 一位50歲男性病人因倦怠、體重減輕來診。患者10年前曾接受鼻咽癌放射線治療，2個月前回診無復發情形。身體診察發現血壓110/70 mmHg，脈搏96次/min，除了乳暈稍有褪色、腋毛及恥毛稍減外並無異常。抽血檢查Na+ 131 mmol/L、K+ 4.0 mmol/L、glucose 90 mg/dL（空腹）。下列那一項檢查對診斷及治療最有幫助？",
+    "options": {
+      "A": "free T4、TSH",
+      "B": "ACTH、cortisol",
+      "C": "tumor marker",
+      "D": "FSH、LH、testosterone"
+    },
+    "answer": "B",
+    "explanation": "此題考查腦下垂體功能低下症的診斷。患者有疲倦、體重減輕、低血鈉、皮膚色素減退、體毛減少等症狀，且有鼻咽癌放射治療史，應考慮續發性腎上腺功能不全(secondary adrenal insufficiency)。<br>(A) 錯誤，雖然甲狀腺功能檢查有意義，但本病例症狀更符合腎上腺功能不全<br>(B) 正確，促腎上腺皮質激素(ACTH)和皮質醇(cortisol)檢查最能幫助診斷續發性腎上腺功能不全<br>(C) 錯誤，腫瘤標記用於評估癌症復發，不是本例最需要的檢查<br>(D) 錯誤，性腺激素檢查雖可能異常，但不是最優先的檢查",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4753"
+  },
+  {
+    "id": 1121355,
+    "question": "55. 關於代謝症候群（metabolic syndrome）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "血中脂聯素（adiponectin）的濃度通常會增加",
+      "B": "血中C-反應蛋白（C-reactive protein）濃度通常會增加",
+      "C": "血中尿酸濃度通常會增加",
+      "D": "低密度脂蛋白膽固醇（LDL-C）的血中濃度，一般不是常用的診斷條件之一"
+    },
+    "answer": "A",
+    "explanation": "此題考查代謝症候群(metabolic syndrome)的生化特徵。脂聯素(adiponectin)在代謝症候群患者中會減少，不是增加。<br>(A) 錯誤，代謝症候群患者血中脂聯素濃度通常降低，不是增加<br>(B) 正確，代謝症候群患者處於慢性發炎狀態，C-反應蛋白濃度通常升高<br>(C) 正確，代謝症候群患者血中尿酸濃度通常升高<br>(D) 正確，低密度脂蛋白膽固醇(LDL-C)一般不是代謝症候群的診斷條件",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4754"
+  },
+  {
+    "id": 1121356,
+    "question": "56. 有關低血糖之敘述，下列何者最不適當？",
+    "options": {
+      "A": "血漿中葡萄糖濃度低於50 mg/dL，可能會造成認知障礙",
+      "B": "造成低血糖最常見的原因，是胰島素瘤",
+      "C": "雙胍類藥物（biguanides）不易造成低血糖",
+      "D": "Whipple's triad的判定，需要有可靠的血糖檢測"
+    },
+    "answer": "B",
+    "explanation": "此題考查低血糖的成因。造成低血糖最常見的原因是糖尿病藥物使用不當，不是胰島素瘤。<br>(A) 正確，血糖低於50 mg/dL可能造成認知功能障礙<br>(B) 錯誤，造成低血糖最常見的原因是糖尿病患者使用胰島素或口服降血糖藥物不當，胰島素瘤相對罕見<br>(C) 正確，雙胍類藥物(biguanides)如metformin主要作用是減少肝臟糖質新生，不易造成低血糖<br>(D) 正確，Whipple's triad需要可靠的血糖檢測來確認",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4755"
+  },
+  {
+    "id": 1121357,
+    "question": "57. 一位20歲女性，3個月來有心悸、怕熱、手抖、體重減輕、雙眼突出、紅腫及瀰漫性甲狀腺腫等症狀。她最有可能罹患下列何種疾病？",
+    "options": {
+      "A": "甲狀腺癌",
+      "B": "甲狀腺功能過低",
+      "C": "葛雷夫茲氏症（Graves' disease）",
+      "D": "亞急性甲狀腺炎"
+    },
+    "answer": "C",
+    "explanation": "此題考查甲狀腺疾病的診斷。心悸、怕熱、手抖、體重減輕、眼球突出及瀰漫性甲狀腺腫是葛雷夫茲氏症(Graves' disease)的典型表現。<br>(A) 錯誤，甲狀腺癌通常不會有甲狀腺功能亢進症狀和雙眼突出<br>(B) 錯誤，這些是甲狀腺功能亢進的症狀，不是功能低下<br>(C) 正確，葛雷夫茲氏症是最常見的甲狀腺功能亢進原因，特徵包括瀰漫性甲狀腺腫和眼病變<br>(D) 錯誤，亞急性甲狀腺炎通常有頸部疼痛，且甲狀腺功能亢進是暫時性的",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4756"
+  },
+  {
+    "id": 1121358,
+    "question": "58. 治療腦下垂體生長激素瘤造成肢端肥大症的首選方法為何？",
+    "options": {
+      "A": "手術切除",
+      "B": "注射體抑素類似物（somatostatin analogue）治療",
+      "C": "立體定位放射線治療（stereotactic radiosurgery）",
+      "D": "口服多巴胺促效劑（dopamine agonist）治療"
+    },
+    "answer": "A",
+    "explanation": "此題考查肢端肥大症(acromegaly)的治療。經蝶竇手術切除腦下垂體生長激素瘤是首選治療。<br>(A) 正確，手術切除腦下垂體腫瘤是肢端肥大症的首選治療方法<br>(B) 錯誤，體抑素類似物用於手術失敗、無法手術或作為手術前準備，不是首選<br>(C) 錯誤，立體定位放射線治療用於手術失敗或無法手術的病例<br>(D) 錯誤，多巴胺促效劑對部分患者有效，但不是首選治療",
+    "tags": [
+      "112-1-3(三)",
+      "新陳代謝科"
+    ],
+    "group_id": "group_4757"
+  },
+  {
+    "id": 1121359,
+    "question": "59. 下列有關HIV初次感染（primary infection）引起acute HIV syndrome之敘述，何者錯誤？",
+    "options": {
+      "A": "大多數HIV初次感染之病人於急性期並無症狀，只有小於10%的病人會出現急性症狀",
+      "B": "急性症狀通常在感染後3～6週時出現",
+      "C": "此時病人會有病毒血症（viremia），血中會有很高量之HIV病毒",
+      "D": "出現acute HIV syndrome後若未給與抗病毒藥物治療，症狀也會自然消失"
+    },
+    "answer": "A",
+    "explanation": "此題考查人類免疫缺乏病毒(HIV)初次感染的急性症候群。大多數HIV初次感染者會出現急性症狀，不是只有小於10%。<br>(A) 錯誤，大多數HIV初次感染者(約50-90%)會出現急性症狀，不是只有小於10%<br>(B) 正確，急性HIV症候群通常在感染後3-6週出現<br>(C) 正確，急性期病人會有高病毒血症<br>(D) 正確，即使不治療，急性HIV症候群的症狀也會自然消退",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4758"
+  },
+  {
+    "id": 1121360,
+    "question": "60. 關於醫療人員手部衛生（濕洗手或以酒精乾洗手）時機之敘述，下列何者錯誤？①醫師查房時，手未碰觸病人，僅碰觸病人床欄，離開病室不用洗手 ②輸送小組人員至病房接病人至檢查室、協助病人從床上移至輪椅，不用洗手 ③加護病房護理人員倒第一床病人的尿壺時因有戴手套且未碰到病人床，再倒第二床之間都不用洗手 ④護理人員在準備藥物或是協助病人清潔身體前不用洗手 ⑤呼吸照護病房護理人員準備替病人導尿，將圍簾拉起，乾洗手後再幫病人導尿",
+    "options": {
+      "A": "僅①②③④",
+      "B": "僅②③⑤",
+      "C": "僅①④⑤",
+      "D": "①②③④⑤"
+    },
+    "answer": "A",
+    "explanation": "此題考查醫療人員手部衛生的時機。①②③④都是需要洗手的情況，因此這些敘述都是錯誤的。<br>(A) 正確，①②③④都是錯誤的敘述，這些情況都需要洗手<br>(B) 錯誤，⑤的敘述是正確的手部衛生做法<br>(C) 錯誤，①④是錯誤的敘述，⑤是正確的<br>(D) 錯誤，⑤是正確的手部衛生時機",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4759"
+  },
+  {
+    "id": 1121361,
+    "question": "61. 診斷感染性心內膜炎所使用之Duke criteria中，下列何者屬於major criteria？①兩套blood culture培養出典型引起感染性心內膜炎的細菌，其中包括HACEK Group的細菌 ②心臟超音波檢查見到心臟瓣膜上有oscillating mass ③體溫超過38℃ ④出現Janeway lesion或Osler's node",
+    "options": {
+      "A": "僅①②",
+      "B": "僅③④",
+      "C": "僅①②④",
+      "D": "①②③④"
+    },
+    "answer": "A",
+    "explanation": "此題考查Duke criteria中major criteria的判定標準。third和fourth選項屬於minor criteria，不是major criteria。<br>(A) 正確，兩套血液培養陽性(包括HACEK Group細菌)是major criteria之一<br>(B) 正確，心臟超音波檢查發現心臟瓣膜上有震盪腫塊(oscillating mass)屬於major criteria<br>(C) 錯誤，體溫超過38℃屬於minor criteria，不是major criteria<br>(D) 錯誤，出現Janeway lesion或Osler's node屬於minor criteria，不是major criteria",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4760"
+  },
+  {
+    "id": 1121362,
+    "question": "62. 下列有關流感之敘述，何者錯誤？",
+    "options": {
+      "A": "流行性感冒病毒屬於RNA病毒",
+      "B": "主要傳播方式是透過飛沫傳染與接觸傳染",
+      "C": "免疫缺損病人及兒童可傳染期較成人病例為長",
+      "D": "流感快篩陰性，即可排除流感"
+    },
+    "answer": "D",
+    "explanation": "此題考查流感診斷的正確觀念。流感快篩有偽陰性的可能，不能單憑陰性結果排除流感。<br>(A) 正確，流感病毒確實屬於RNA病毒<br>(B) 正確，流感主要透過飛沫傳染與接觸傳染傳播<br>(C) 正確，免疫功能缺損病人及兒童的可傳染期較成人更長<br>(D) 錯誤，流感快篩陰性不能完全排除流感，因為快篩敏感度有限，仍可能有偽陰性",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4761"
+  },
+  {
+    "id": 1121363,
+    "question": "63. 下列何種菌種不屬於Mycobacterium tuberculosis complex？",
+    "options": {
+      "A": "M. africanum",
+      "B": "M. bovis",
+      "C": "M. chelonae",
+      "D": "M. microti"
+    },
+    "answer": "C",
+    "explanation": "此題考查結核分枝桿菌複合群的組成。Mycobacterium chelonae屬於非結核分枝桿菌，不在此複合群內。<br>(A) 正確，Mycobacterium africanum屬於結核分枝桿菌複合群<br>(B) 正確，Mycobacterium bovis屬於結核分枝桿菌複合群<br>(C) 錯誤，Mycobacterium chelonae不屬於結核分枝桿菌複合群，而是非結核分枝桿菌(NTM)<br>(D) 正確，Mycobacterium microti屬於結核分枝桿菌複合群",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4762"
+  },
+  {
+    "id": 1121364,
+    "question": "64. 40歲男性，有肝硬化病史多年。夏天時在高雄旗津海邊釣魚被魚刺刺傷左腳，隔天因左腳紅腫熱痛被送至急診，左腳發現有紫紅色水泡，且有休克現象，這位病人最可能之致病菌為何？",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pyogenes",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Vibrio vulnificus"
+    },
+    "answer": "D",
+    "explanation": "此題考查壞死性筋膜炎的致病菌判斷。肝硬化病人在海邊被魚刺刺傷後出現快速進展的壞死性感染，應高度懷疑創傷弧菌(Vibrio vulnificus)感染。<br>(A) 錯誤，金黃色葡萄球菌不是海洋相關感染的主要致病菌<br>(B) 錯誤，化膿性鏈球菌雖可引起壞死性筋膜炎，但與海洋環境關聯性較低<br>(C) 錯誤，綠膿桿菌較少引起如此急性的壞死性感染<br>(D) 正確，創傷弧菌(Vibrio vulnificus)是海洋相關的致病菌，肝硬化病人是高危險群，可引起快速進展的壞死性感染及休克",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4763"
+  },
+  {
+    "id": 1121365,
+    "question": "65. 承上題，下列何種抗生素治療對這位病人最為恰當？",
+    "options": {
+      "A": "vancomycin＋gentamicin",
+      "B": "clindamycin＋penicillin",
+      "C": "ceftazidime＋tetracycline",
+      "D": "cefazolin＋amikacin"
+    },
+    "answer": "C",
+    "explanation": "此題考查創傷弧菌感染的抗生素選擇。需使用對革蘭氏陰性菌有效的第三代頭孢子菌素加四環黴素。<br>(A) 錯誤，萬古黴素主要針對革蘭氏陽性菌，不適合治療創傷弧菌<br>(B) 錯誤，克林達黴素加青黴素對創傷弧菌效果不佳<br>(C) 正確，頭孢他啶(ceftazidime)加四環黴素(tetracycline)是治療創傷弧菌感染的適當組合<br>(D) 錯誤，第一代頭孢子菌素對創傷弧菌效果較差",
+    "tags": [
+      "112-1-3(三)",
+      "感染科"
+    ],
+    "group_id": "group_4763"
+  },
+  {
+    "id": 1121366,
+    "question": "66. 71歲女性因跌倒來門診就醫，她有認知功能障礙、帕金森氏症、退化性膝關節炎，下列何者不屬於跌倒的內生性危險因子（intrinsic risk factor）？",
+    "options": {
+      "A": "年紀大於65歲",
+      "B": "認知功能障礙",
+      "C": "帕金森氏症",
+      "D": "退化性膝關節炎"
+    },
+    "answer": "A",
+    "explanation": "此題考查跌倒危險因子的分類。年齡本身是人口學特徵，不是內生性危險因子。<br>(A) 錯誤，年紀大於65歲屬於人口學特徵，不是內生性危險因子<br>(B) 正確，認知功能障礙是內生性危險因子<br>(C) 正確，帕金森氏症是內生性危險因子<br>(D) 正確，退化性膝關節炎是內生性危險因子",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4765"
+  },
+  {
+    "id": 1121367,
+    "question": "67. 關於憂鬱症（depression）的敘述，下列何者正確？",
+    "options": {
+      "A": "憂鬱症只要完治之後，就不會再復發",
+      "B": "老年自殺比率不高，所以不用進行憂鬱篩檢",
+      "C": "憂鬱症藥物必須一輩子服用，故無法停藥",
+      "D": "憂鬱症治療除藥物治療外尚包括非藥物治療，例如：認知行為治療"
+    },
+    "answer": "D",
+    "explanation": "此題考查憂鬱症治療的正確觀念。憂鬱症治療包括藥物與非藥物治療的綜合處理。<br>(A) 錯誤，憂鬱症治癒後仍有復發可能，並非一次治癒就不會復發<br>(B) 錯誤，老年自殺比率其實相當高，應積極進行憂鬱篩檢<br>(C) 錯誤，憂鬱症藥物不需終身服用，可依病情調整或停藥<br>(D) 正確，憂鬱症治療除藥物外，還包括認知行為治療等非藥物治療",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4766"
+  },
+  {
+    "id": 1121368,
+    "question": "68. 臨床上，醫師與病人在醫療決策層面所扮演的角色，以何種方式最為理想？",
+    "options": {
+      "A": "醫師依病人個別選擇及保險需要，來進行醫療決策",
+      "B": "醫師依個人經驗與醫學證據，來進行醫療決策",
+      "C": "醫師依個人經驗及病人保險需要，來進行醫療決策",
+      "D": "醫師依醫學證據及病人個別選擇，來進行醫療決策"
+    },
+    "answer": "D",
+    "explanation": "此題考查理想的醫療決策模式。應結合醫學實證與病人個別選擇進行共同決策。<br>(A) 錯誤，不應將保險需求作為主要考量<br>(B) 錯誤，僅憑醫師經驗不足，缺乏病人參與<br>(C) 錯誤，不應將保險需求置於病人選擇之上<br>(D) 正確，依據醫學證據及病人個別選擇進行決策是最理想的模式",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4767"
+  },
+  {
+    "id": 1121369,
+    "question": "69. 針對盛行率低的疾病（Disease）進行社區篩檢時，下列何種篩檢（Test）呈現的結果假陽性較低，最適合使 用？",
+    "options": {},
+    "answer": "B",
+    "explanation": "此題考查篩檢測試的特性選擇。針對盛行率低的疾病進行社區篩檢時,為減少偽陽性並提高篩檢的陽性預測值(positive predictive value),應選擇特異度(specificity)最高、偽陽性率最低的檢驗。計算各選項的偽陽性率 = 偽陽性人數 / 無病總人數。<br>(A) 錯誤，偽陽性率 = 50/(50+550) = 50/600 = 8.3%,特異度 = 550/600 = 91.7%<br>(B) 正確，偽陽性率 = 50/(50+850) = 50/900 = 5.6%,特異度 = 850/900 = 94.4%,在四個選項中特異度最高、偽陽性率最低,最適合用於盛行率低的疾病篩檢<br>(C) 錯誤，偽陽性率 = 50/(50+400) = 50/450 = 11.1%,特異度 = 400/450 = 88.9%,偽陽性率較高<br>(D) 錯誤，偽陽性率 = 550/(550+50) = 550/600 = 91.7%,特異度僅 = 50/600 = 8.3%,偽陽性率極高,會產生大量偽陽性個案",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4768"
+  },
+  {
+    "id": 1121370,
+    "question": "70. 在醫病非語言的溝通與觀察中，醫病雙方出現鏡相姿勢（mirroring posture）代表何種意義？",
+    "options": {
+      "A": "為敵對的關係",
+      "B": "已建立適當的關係",
+      "C": "為從屬的關係",
+      "D": "正要開始建立關係"
+    },
+    "answer": "B",
+    "explanation": "此題考查非語言溝通的意義。鏡相姿勢代表雙方已建立良好關係與同理心。<br>(A) 錯誤，鏡相姿勢不代表敵對關係<br>(B) 正確，鏡相姿勢表示醫病雙方已建立適當的關係與同理<br>(C) 錯誤，鏡相姿勢不代表從屬關係<br>(D) 錯誤，鏡相姿勢表示已建立關係，而非正要開始",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4769"
+  },
+  {
+    "id": 1121371,
+    "question": "71. 有關暴力零容忍的敘述，下列何項最不適當？",
+    "options": {
+      "A": "依據美國預防醫學工作小組（US Preventive Services Task Force）的建議，育齡婦女親密伴侶暴力（intimate partner violence）篩檢為B等級",
+      "B": "依據美國預防醫學工作小組（US Preventive Services Task Force）的建議，老人虐待（elder abuse）篩檢為B等級",
+      "C": "在臺灣，若家庭暴力已經持續存在一段時間，受害者可以隨時撥打「113」進行諮詢與通報，或可逕洽各地方政府家庭暴力及性侵害防治中心尋求協助",
+      "D": "在臺灣，在家庭暴力發生的當下，受害者可以儘快撥打「110」報警，由警察介入制止暴力，蒐集犯罪證 據，並協助護送被害人就醫"
+    },
+    "answer": "B",
+    "explanation": "此題考查暴力篩檢的建議等級。美國預防醫學工作小組對老人虐待篩檢的證據不足，並非B等級。<br>(A) 正確，育齡婦女親密伴侶暴力篩檢確實為B等級建議<br>(B) 錯誤，美國預防醫學工作小組對老人虐待篩檢為I等級(證據不足)，不是B等級<br>(C) 正確，在台灣可撥打113進行家庭暴力諮詢與通報<br>(D) 正確，暴力發生當下可撥打110報警",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4770"
+  },
+  {
+    "id": 1121372,
+    "question": "72. 腕隧道症候群（carpal tunnel syndrome）是常見之職業性肌肉骨骼系統疾病，下列何者是腕隧道症候群之危險 因子？",
+    "options": {
+      "A": "反覆性手舉過肩",
+      "B": "反覆性手肘施力",
+      "C": "糖尿病",
+      "D": "甲狀腺機能亢進"
+    },
+    "answer": "C",
+    "explanation": "此題考查腕隧道症候群的危險因子。糖尿病會增加腕隧道症候群的風險。<br>(A) 錯誤，手舉過肩與肩部疾病較相關，非腕隧道症候群主要危險因子<br>(B) 錯誤，手肘施力與肘部疾病較相關<br>(C) 正確，糖尿病是腕隧道症候群的重要危險因子<br>(D) 錯誤，甲狀腺機能亢進不是危險因子，應是甲狀腺機能低下才是",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4771"
+  },
+  {
+    "id": 1121373,
+    "question": "73. 55歲女性，一年前被診斷為卵巢癌接受化學治療，主訴最近有噁心、嘔吐及食慾不振的現象。檢查發現呼吸 每分鐘約30次，結膜蒼白，腹部鼓脹，有腹水且有一10×30 cm之腫塊。導致此病人噁心、嘔吐最可能之原因 為何？",
+    "options": {
+      "A": "腸阻塞",
+      "B": "腦壓增加",
+      "C": "情緒低落",
+      "D": "高鈣血症"
+    },
+    "answer": "A",
+    "explanation": "此題考查卵巢癌病人噁心嘔吐的原因判斷。腹部腫塊與腹水提示腸阻塞的可能性最高。<br>(A) 正確，腹部鼓脹、腹水及大腫塊提示腸阻塞是噁心嘔吐最可能的原因<br>(B) 錯誤，無腦壓增加的症狀如頭痛等<br>(C) 錯誤，情緒低落較少直接引起如此嚴重的噁心嘔吐<br>(D) 錯誤，無高鈣血症的其他表現",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4772"
+  },
+  {
+    "id": 1121374,
+    "question": "74. 有關上腸胃道鋇劑檢查，下列敘述何者最不恰當？",
+    "options": {
+      "A": "主動脈弓會在食道右側形成壓迹",
+      "B": "左主支氣管會在食道左側形成壓迹",
+      "C": "胃食道交界可在食道穿過橫膈膜的位置辨認",
+      "D": "吞嚥會引發食道蠕動波，推動食糜往下排空"
+    },
+    "answer": "A",
+    "explanation": "此題考查上消化道鋇劑檢查的解剖學。主動脈弓位於食道左側而非右側。<br>(A) 錯誤，主動脈弓會在食道左側形成壓迹，不是右側<br>(B) 正確，左主支氣管確實在食道左側形成壓迹<br>(C) 正確，胃食道交界可在橫膈膜位置辨認<br>(D) 正確，吞嚥會引發食道蠕動波",
+    "tags": [
+      "112-1-3(三)",
+      "腸胃內科"
+    ],
+    "group_id": "group_4773"
+  },
+  {
+    "id": 1121375,
+    "question": "75. 關於慢性阻塞性肺病（COPD）的影像學表現，下列敘述何者最不恰當？",
+    "options": {
+      "A": "可能導致肺部X光片中肺部體積增加",
+      "B": "因肺氣腫可導致肺部血管於X光片中相對稀疏的徵象",
+      "C": "可能呈現支氣管擴張，於X光片中呈現管狀或環狀影的徵象",
+      "D": "胸部電腦斷層檢查無法診斷支氣管擴張"
+    },
+    "answer": "D",
+    "explanation": "此題考查慢性阻塞性肺病的影像學表現。電腦斷層是診斷支氣管擴張的重要工具。<br>(A) 正確，慢性阻塞性肺病可導致肺部體積增加<br>(B) 正確，肺氣腫可導致血管稀疏徵象<br>(C) 正確，可能呈現支氣管擴張的管狀或環狀影<br>(D) 錯誤，胸部電腦斷層是診斷支氣管擴張的重要且有效的檢查方法",
+    "tags": [
+      "112-1-3(三)",
+      "胸腔內科"
+    ],
+    "group_id": "group_4774"
+  },
+  {
+    "id": 1121376,
+    "question": "76. 有關高齡之躁動（agitation）處置原則，何者最不適當？",
+    "options": {
+      "A": "先治療原有疾病",
+      "B": "控制藥物要從最低有效劑量開始給與，再逐漸提高",
+      "C": "除藥物治療外，其他治療也有重要角色",
+      "D": "老人比較不會有精神藥物的副作用"
+    },
+    "answer": "D",
+    "explanation": "此題考查高齡躁動的處置原則。老年人對精神藥物的副作用更敏感。<br>(A) 正確，應先治療原有疾病<br>(B) 正確，藥物應從最低有效劑量開始<br>(C) 正確，非藥物治療也很重要<br>(D) 錯誤，老年人對精神藥物副作用更敏感，不是比較不會有副作用",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4775"
+  },
+  {
+    "id": 1121377,
+    "question": "77. 下列有關低血鉀症（hypokalemia）的敘述，何者最不適當？",
+    "options": {
+      "A": "低血鉀症的心電圖常呈現QTc延長",
+      "B": "嚴重低血鉀症可能導致心房顫動（atrial fibrillation）及torsades de pointes等心律不整",
+      "C": "hyperaldosteronism所導致的低血鉀症，transtubular K+ gradient（TTKG）通常低於5 mEq/L",
+      "D": "低血鉀症病人的尿液鈣磷比（calcium/phosphate ratio），若小於1.6，可以作為甲狀腺亢進週期性癱瘓 （thyrotoxic periodic paralysis）的診斷佐證"
+    },
+    "answer": "D",
+    "explanation": "此題考查低血鉀症的診斷與評估。選項D的數值判斷標準有誤。<br>(A) 正確，低血鉀症心電圖常呈現QTc延長<br>(B) 正確，嚴重低血鉀可導致心律不整<br>(C) 錯誤，原醛固酮增多症(hyperaldosteronism)的TTKG通常高於5 mEq/L，不是低於<br>(D) 錯誤，此選項敘述甲狀腺亢進週期性癱瘓診斷標準有誤",
+    "tags": [
+      "112-1-3(三)",
+      "腎臟內科"
+    ],
+    "group_id": "group_4776"
+  },
+  {
+    "id": 1121378,
+    "question": "78. 有關天然災害如颱風（颶風）及地震造成的傷害，下列描述何者最不適當？",
+    "options": {
+      "A": "颱風（颶風）於急性期（acute phase）時造成民眾傷亡較復原期（recovery period）多",
+      "B": "颱風（颶風）於急性期造成之外傷性死亡多肇因於墜落物外傷及車禍事件",
+      "C": "地震發生後之死亡事件多發生於震後3小時",
+      "D": "地震復原期災區常規醫療需求不易，環境衛生及傳染病為最大隱憂"
+    },
+    "answer": "A",
+    "explanation": "此題考查天然災害傷害的流行病學。颱風在復原期的傷亡可能較急性期多。<br>(A) 錯誤，颱風在復原期的傷亡可能因清理、重建工作而增加，不一定急性期較多<br>(B) 正確，急性期外傷性死亡多因墜落物與車禍<br>(C) 正確，地震後死亡多發生於震後3小時內<br>(D) 正確，復原期環境衛生與傳染病是主要問題",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4777"
+  },
+  {
+    "id": 1121379,
+    "question": "79. 張先生是70歲的退休老師，平時開朗樂觀，與唯一的兒子一家同住。近兩個月來因為腹脹和體重減輕就醫，經檢查後確認為胃淋巴癌末期且無法開刀。他兒子強力要求不要告知父親癌症末期的消息，擔心他會承受不了。雖然主治醫師已對兒子解釋告知病情的重要性，但兒子仍堅持不能告知。醫師後續的作法，下列何者最 為適當？",
+    "options": {
+      "A": "病人往生後對醫師有意見的通常是家屬，聽家屬的話比較不會產生糾紛",
+      "B": "最了解病人的是同住家人，既然兒子提出要求還是不要明講比較好",
+      "C": "病人是自己身體的主人，如表達想知道的意願還是應該告知",
+      "D": "病人雖然是末期癌症但病況難以預料，還是用模糊的說法帶過較好"
+    },
+    "answer": "C",
+    "explanation": "此題考查醫療倫理中病情告知的原則。應尊重病人的自主權與知情權。<br>(A) 錯誤，不應以避免糾紛為主要考量<br>(B) 錯誤，家屬意見不能凌駕病人權利<br>(C) 正確，病人有知情權，若表達想知道應該告知<br>(D) 錯誤，用模糊說法帶過不符合誠信原則",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4778"
+  },
+  {
+    "id": 1121380,
+    "question": "80. 下列何者不是研究倫理常用的原則或準則？",
+    "options": {
+      "A": "紐倫堡守則（the Nuremberg Code， 1947年）",
+      "B": "赫爾辛基宣言（the Declaration of Helsinki， 1964年）",
+      "C": "貝爾蒙報告書（the Belmont Report， 1979年）",
+      "D": "里斯本宣言（the Declaration of Lisbon， 1981年）"
+    },
+    "answer": "D",
+    "explanation": "此題考查研究倫理的重要準則。里斯本宣言是關於病人權利的宣言，不是研究倫理準則。<br>(A) 正確，紐倫堡守則是重要的研究倫理準則<br>(B) 正確，赫爾辛基宣言是研究倫理準則<br>(C) 正確，貝爾蒙報告書是研究倫理準則<br>(D) 錯誤，里斯本宣言(Declaration of Lisbon)是關於病人權利的宣言，不是研究倫理準則",
+    "tags": [
+      "112-1-3(三)",
+      "家醫科"
+    ],
+    "group_id": "group_4779"
+  }
+]
