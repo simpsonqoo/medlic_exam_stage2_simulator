@@ -643,6 +643,9 @@
       "112-1-3(三)",
       "血液科"
     ],
+    "images": [
+          "./exam/image/112-1-3-38.jpg"
+    ],
     "group_id": "group_4737"
   },
   {
@@ -659,6 +662,10 @@
     "tags": [
       "112-1-3(三)",
       "血液科"
+    ],
+    "images": [
+          "./exam/image/112-1-3-39-1.jpg",
+          "./exam/image/112-1-3-39-2.jpg"
     ],
     "group_id": "group_4738"
   },
@@ -778,6 +785,9 @@
     "tags": [
       "112-1-3(三)",
       "胸腔內科"
+    ],
+    "images": [
+          "./exam/image/112-1-3-46.jpg"
     ],
     "group_id": "group_4745"
   },
@@ -1159,7 +1169,12 @@
   {
     "id": 1121369,
     "question": "69. 針對盛行率低的疾病（Disease）進行社區篩檢時，下列何種篩檢（Test）呈現的結果假陽性較低，最適合使 用？",
-    "options": {},
+    "options": {
+      "A": "<table border=\"1\" style=\"border-collapse: collapse; text-align: center;\"><tr><td></td><td>Disease (+)</td><td>Disease (-)</td></tr><tr><td>Test (+)</td><td>300</td><td>50</td></tr><tr><td>Test (-)</td><td>100</td><td>550</td></tr></table>",
+      "B": "<table border=\"1\" style=\"border-collapse: collapse; text-align: center;\"><tr><td></td><td>Disease (+)</td><td>Disease (-)</td></tr><tr><td>Test (+)</td><td>50</td><td>50</td></tr><tr><td>Test (-)</td><td>50</td><td>850</td></tr></table>",
+      "C": "<table border=\"1\" style=\"border-collapse: collapse; text-align: center;\"><tr><td></td><td>Disease (+)</td><td>Disease (-)</td></tr><tr><td>Test (+)</td><td>500</td><td>50</td></tr><tr><td>Test (-)</td><td>50</td><td>400</td></tr></table>",
+      "D": "<table border=\"1\" style=\"border-collapse: collapse; text-align: center;\"><tr><td></td><td>Disease (+)</td><td>Disease (-)</td></tr><tr><td>Test (+)</td><td>100</td><td>550</td></tr><tr><td>Test (-)</td><td>300</td><td>50</td></tr></table>"
+    },
     "answer": "B",
     "explanation": "此題考查篩檢測試的特性選擇。針對盛行率低的疾病進行社區篩檢時,為減少偽陽性並提高篩檢的陽性預測值(positive predictive value),應選擇特異度(specificity)最高、偽陽性率最低的檢驗。計算各選項的偽陽性率 = 偽陽性人數 / 無病總人數。<br>(A) 錯誤，偽陽性率 = 50/(50+550) = 50/600 = 8.3%,特異度 = 550/600 = 91.7%<br>(B) 正確，偽陽性率 = 50/(50+850) = 50/900 = 5.6%,特異度 = 850/900 = 94.4%,在四個選項中特異度最高、偽陽性率最低,最適合用於盛行率低的疾病篩檢<br>(C) 錯誤，偽陽性率 = 50/(50+400) = 50/450 = 11.1%,特異度 = 400/450 = 88.9%,偽陽性率較高<br>(D) 錯誤，偽陽性率 = 550/(550+50) = 550/600 = 91.7%,特異度僅 = 50/600 = 8.3%,偽陽性率極高,會產生大量偽陽性個案",
     "tags": [
