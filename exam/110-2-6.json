@@ -578,8 +578,8 @@
     "group_id": "group_11673"
   },
   {
-    "id": 1103214,
-    "question": "614. bcdbfa28d3.jpg",
+    "id": 1102635,
+    "question": "35. 關於胎頭對於母親骨盆腔的相關位置如附圖，下列何者正確？",
     "options": {
       "A": "LOA",
       "B": "LOP",
@@ -589,7 +589,11 @@
     "answer": "B",
     "explanation": "胎位判讀需確定：胎兒姿勢（presentation）、位置（position）、先露部（presenting part）。標準表示法為：左/右（L/R）+ 先露部標記（O=occipital枕骨、S=sacral薦骨、M=mentum頦部）+ 相對於母體骨盆的位置（A=anterior前、P=posterior後、T=transverse橫）。<br>(A) 錯誤，LOA（left occipito-anterior）是左枕前位，胎兒枕骨朝向母體左前方，是最常見的正常胎位<br>(B) 正確，雖然沒有看到圖片，但根據答案，此胎位為LOP（left occipito-posterior）左枕後位，胎兒枕骨朝向母體左後方。這是枕後位（occipito-posterior position），可能導致產程延長、背痛（back labor），部分需要輔助分娩或剖腹產<br>(C) 錯誤，ROA（right occipito-anterior）是右枕前位，胎兒枕骨朝向母體右前方，也是常見的正常胎位<br>(D) 錯誤，ROP（right occipito-posterior）是右枕後位，胎兒枕骨朝向母體右後方",
     "tags": [
-      "110-2-6"
+      "110-2-6",
+      "婦產科"
+    ],
+    "images": [
+          "./exam/image/110-2-6-35.jpg"
     ],
     "group_id": "group_11674"
   },
@@ -781,8 +785,8 @@
     "group_id": "group_11685"
   },
   {
-    "id": 1103214,
-    "question": "614. bcdf3d9d61.jpg",
+    "id": 1102647,
+    "question": "47. 一個25歲有過性經驗女性來到急診，她主訴為腹痛併有噁心想吐，她的最後一次月經是27天前。手術中發現闌尾為正常，但子宮附件（adnexum）有腫塊，腫塊組織切除後圖像如下，下列何者是最有可能的診斷？",
     "options": {
       "A": "輸卵管卵巢膿瘍（tubo-ovarian abscess）",
       "B": "卵巢子宮內膜異位瘤（ovarian endometrioma）",
@@ -792,7 +796,11 @@
     "answer": "D",
     "explanation": "骨盆腔腫塊的超音波特徵可協助鑑別診斷，需注意囊腫內容物、回音特性、血流等。<br>(A) 錯誤，輸卵管卵巢膿瘍在超音波下通常呈現複雜性囊腫，內有液體和碎屑、厚壁、周圍組織發炎，可能伴隨腹水。臨床上有發燒、骨盆腔疼痛、白血球升高等感染徵象<br>(B) 錯誤，卵巢子宮內膜異位瘤（巧克力囊腫）在超音波下呈現均勻低回音（ground glass appearance），內有細緻回音，代表陳舊血液<br>(C) 錯誤，輸卵管子宮外孕的超音波表現為附件區腫塊、可能有胎囊或胎心音、子宮內膜增厚但無胎囊、可能有腹水。臨床上有腹痛、陰道出血、懷孕史<br>(D) 正確，雖然沒有看到圖片，但根據答案推測超音波應顯示畸胎瘤的典型特徵：囊腫內有高回音結節（代表脂肪、毛髮、牙齒等），可能有聲影（acoustic shadow），呈現特徵性的「tip of iceberg」外觀或Rokitansky nodule（壁結節）",
     "tags": [
-      "110-2-6"
+      "110-2-6",
+      "婦產科"
+    ],
+    "images": [
+          "./exam/image/110-2-6-47.jpg"
     ],
     "group_id": "group_11686"
   },
@@ -968,7 +976,7 @@
   },
   {
     "id": 1103214,
-    "question": "614. bce1a7e7d6.jpg",
+    "question": "58. 當這個病人雙手推牆時，發現他右側肩胛骨鼓起並往外移動，他最有可能是那一條神經病變？",
     "options": {
       "A": "長胸神經（long thoracic nerve）",
       "B": "背肩胛神經（dorsal scapular nerve）",
@@ -978,7 +986,11 @@
     "answer": "A",
     "explanation": "題目描述病人「雙手推牆」（Wall push test）時出現肩胛骨鼓起，這是測試前鋸肌（Serratus anterior）功能的經典理學檢查。前鋸肌的主要功能是將肩胛骨內側緣緊貼胸壁，若該肌肉無力，肩胛骨內側會向後翹起形成「翼狀肩胛」，而前鋸肌是由長胸神經所支配。<br>(A) 正確， 長胸神經（Long thoracic nerve）支配前鋸肌，受損會導致典型的「內側」翼狀肩胛（Medial winging），在推牆動作時最為明顯。<br>(B) 錯誤， 背肩胛神經（Dorsal scapular nerve）支配菱形肌（Rhomboids），受損雖然也可能導致肩胛骨位置異常（通常向外側偏移），但造成的翼狀現象較輕微，且非推牆測試的主要標的。<br>(C) 錯誤， 腋下神經（Axillary nerve）支配三角肌（Deltoid）和小圓肌，受損主要表現為肩膀外展無力及肩膀外側感覺喪失，不會造成翼狀肩胛。<br>(D) 錯誤， 副脊椎神經（Spinal accessory nerve）支配斜方肌（Trapezius），受損會造成「外側」翼狀肩胛（Lateral winging），特徵是肩胛骨下沉且向外移位，通常是在手臂外展時較明顯，而非推牆動作。",
     "tags": [
-      "110-2-6"
+      "110-2-6",
+      "復健科"
+    ],
+    "images": [
+          "./exam/image/110-2-6-58.jpg"
     ],
     "group_id": "group_11697"
   },
@@ -1204,8 +1216,8 @@
     "group_id": "group_11710"
   },
   {
-    "id": 1103214,
-    "question": "614. bce42662e2.jpg",
+    "id": 1102672,
+    "question": "72. 16歲男孩，主訴鼻塞、濃稠鼻涕已經超過一年。根據此張X光片，最可能的診斷是：",
     "options": {
       "A": "chronic rhinitis",
       "B": "chronic paranasal sinusitis",
@@ -1215,7 +1227,11 @@
     "answer": "B",
     "explanation": "影像題需結合鼻竇炎的典型影像特徵進行判讀，慢性與急性的影像表現有所不同。<br>(A) 錯誤，慢性鼻炎（chronic rhinitis）主要影響鼻腔黏膜，影像上不會出現鼻竇腔的黏膜增厚或液氣面（air-fluid level）等鼻竇炎典型表現<br>(B) 正確，慢性鼻竇炎（chronic paranasal sinusitis）在影像上可見鼻竇黏膜增厚、竇腔混濁、或骨質增厚硬化等慢性發炎變化<br>(C) 錯誤，顏面骨骨折（traumatic fracture of facial bone）在影像上會有骨折線、骨質不連續等直接骨折徵象，與慢性黏膜變化表現不同<br>(D) 錯誤，鼻竇腫瘤（tumors in the paranasal sinus）影像上會有軟組織腫塊、骨質破壞侵蝕等惡性特徵，與慢性炎症性黏膜增厚不同",
     "tags": [
-      "110-2-6"
+      "110-2-6",
+      "耳鼻喉科"
+    ],
+    "images": [
+          "./exam/image/110-2-6-72.jpg"
     ],
     "group_id": "group_11711"
   },
@@ -1234,11 +1250,14 @@
       "110-2-6",
       "耳鼻喉科"
     ],
+    "images": [
+          "./exam/image/110-2-6-73.jpg"
+    ],
     "group_id": "group_11712"
   },
   {
-    "id": 1103214,
-    "question": "614. bce816ffa6.jpg",
+    "id": 1102674,
+    "question": "74. 37歲女性，下腹部電腦斷層檢查呈現如圖，箭號所指之敘述何者最為可能？",
     "options": {
       "A": "囊腺瘤（cystadenoma）",
       "B": "子宮肌瘤（myoma）",
@@ -1249,6 +1268,9 @@
     "explanation": "婦科附件區腫瘤的超音波鑑別診斷需依據囊腫的內部回音特性、分隔、壁厚等特徵判斷。<br>(A) 正確，囊腺瘤（cystadenoma）超音波典型表現為薄壁、多房、清澈的囊性腫塊，可有細分隔（thin septation），漿液性（serous）者多為單房，黏液性（mucinous）者多為多房<br>(B) 錯誤，子宮肌瘤（uterine myoma）通常為實心低回音腫塊，附著於子宮，伴有邊緣鈣化或聲影，與囊性腫塊表現不同<br>(C) 錯誤，畸胎瘤（teratoma）超音波典型表現為混合回音、含有高回音的脂肪成分或鈣化點，有時可見「頭髮線」（hair line）或「皮脂瘤球」等特徵性表現<br>(D) 錯誤，膀胱瘤（bladder tumor）位置在膀胱內或膀胱壁，與附件區獨立的囊性腫塊位置不符",
     "tags": [
       "110-2-6"
+    ],
+    "images": [
+          "./exam/image/110-2-6-74.jpg"
     ],
     "group_id": "group_11713"
   },

@@ -391,8 +391,8 @@
     "group_id": "group_11742"
   },
   {
-    "id": 1107618,
-    "question": "6018. ebb075636.jpg",
+    "id": 1101624,
+    "question": "24. 有關使用外科手術建立呼吸繞道，下列敘述何者正確？",
     "options": {
       "A": "環甲膜切開術（cricothyrotomy）與氣管切開造口術（tracheostomy）皆為建立長期呼吸繞道之選項",
       "B": "頸部皮膚橫向切開可避免於術中傷及前頸靜脈（anterior jugular vein）",
@@ -402,7 +402,11 @@
     "answer": "C",
     "explanation": "此題涉及氣管切開術（tracheostomy）的解剖位置與手術注意事項，標準氣切位置在第2至4氣管軟骨環之間，環甲膜切開術則屬緊急暫時性氣道建立。<br>(A) 錯誤，環甲膜切開術（cricothyrotomy）是緊急臨時性氣道建立方式，不適合長期使用，因長期置放可能導致聲門下狹窄（subglottic stenosis）；氣管切開造口術（tracheostomy）才是建立長期呼吸繞道的標準術式，兩者不能並列為長期選項<br>(B) 錯誤，頸部皮膚橫向切開（transverse skin incision）並不能完全避免傷及前頸靜脈（anterior jugular vein），前頸靜脈走行於頸部中線兩側，手術時仍需辨識並小心保護或結紮<br>(C) 正確，標準氣管切開的適當位置為第2至4氣管軟骨環之間，即位於環狀軟骨（cricoid cartilage）下方、胸骨上緣上方的區域，對應圖中C處<br>(D) 錯誤，氣切術後持續滲血若為動脈性出血，應懷疑傷及無名動脈（innominate artery），即頭臂動脈（brachiocephalic artery），而非外頸動脈（external carotid artery）；外頸動脈位置較高，不在氣切手術的常見出血風險範圍內",
     "tags": [
-      "110-1-6"
+      "110-1-6",
+      "耳鼻喉科"
+    ],
+    "images": [
+          "./exam/image/110-1-6-24.jpg"
     ],
     "group_id": "group_11743"
   },
@@ -948,6 +952,9 @@
       "110-1-6",
       "婦產科"
     ],
+    "images": [
+          "./exam/image/110-1-6-56.jpg"
+    ],
     "group_id": "group_11775"
   },
   {
@@ -1236,6 +1243,10 @@
     "tags": [
       "110-1-6",
       "復健科"
+    ],
+    "images": [
+          "./exam/image/110-1-6-73-1.jpg",
+          "./exam/image/110-1-6-73-2.jpg"
     ],
     "group_id": "group_11792"
   },
