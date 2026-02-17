@@ -995,8 +995,16 @@
       font-weight: 600;
     }
 
-    .exam-header.medicine-2 {
+    .exam-header.medicine-4 {
       background: linear-gradient(135deg, #2196F3 0%, #1976D2 100%);
+    }
+
+    .exam-header.medicine-5 {
+      background: linear-gradient(135deg, #FF9800 0%, #F57C00 100%);
+    }
+
+    .exam-header.medicine-6 {
+      background: linear-gradient(135deg, #9C27B0 0%, #7B1FA2 100%);
     }
 
     .year-grid {
@@ -1118,6 +1126,51 @@
       .questions-container {
         max-height: 350px;
       }
+    }
+
+    /* 視覺化 Tab 列樣式 */
+    .visualization-tab-bar {
+      display: flex;
+      background-color: #f0f2f5;
+      border-bottom: 2px solid #dee2e6;
+      padding: 10px 20px 0 20px;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .vis-tab-btn {
+      padding: 10px 28px;
+      font-size: 15px;
+      font-weight: bold;
+      border: 2px solid #007bff;
+      border-bottom: none;
+      border-radius: 8px 8px 0 0;
+      background-color: #fff;
+      color: #007bff;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      margin-bottom: -2px;
+      position: relative;
+    }
+
+    .vis-tab-btn:hover {
+      background-color: #e7f3ff;
+    }
+
+    .vis-tab-btn.active {
+      background-color: #007bff;
+      color: white;
+      border-color: #007bff;
+      z-index: 1;
+    }
+
+    /* 各考科 section 的顯示控制 */
+    .vis-exam-section {
+      display: none;
+    }
+
+    .vis-exam-section.active {
+      display: block;
     }
 
     /* 自訂滾動條 */
@@ -3846,31 +3899,57 @@
 
 
 
+    // 切換視覺化 Tab
+    function switchVisualTab(grade) {
+      // 更新 Tab 按鈕 active 狀態
+      const tabMap = {
+        med3: 'visTab3',
+        med4: 'visTab4',
+        med5: 'visTab5',
+        med6: 'visTab6'
+      };
+      Object.keys(tabMap).forEach(key => {
+        const btn = document.getElementById(tabMap[key]);
+        if (btn) btn.classList.toggle('active', key === grade);
+      });
+
+      // 切換 section 顯示
+      ['med3', 'med4', 'med5', 'med6'].forEach(key => {
+        const section = document.getElementById(`visSection-${key}`);
+        if (section) section.classList.toggle('active', key === grade);
+      });
+    }
+
     // 生成視覺化顯示
     function generateVisualizationDisplay(parsedQuestions) {
       const container = document.getElementById('visualizationContent');
       const yearList = generateYearList();
-      
-      // 分離醫學(三)和醫學(四)
-      const medicine3Years = yearList.map(y => y.medicine3);
-      const medicine4Years = yearList.map(y => y.medicine4);
+
+      const gradeConfig = [
+        { key: 'med3', title: '醫學(三)', yearKey: 'medicine3', colorClass: '' },
+        { key: 'med4', title: '醫學(四)', yearKey: 'medicine4', colorClass: 'medicine-4' },
+        { key: 'med5', title: '醫學(五)', yearKey: 'medicine5', colorClass: 'medicine-5' },
+        { key: 'med6', title: '醫學(六)', yearKey: 'medicine6', colorClass: 'medicine-6' }
+      ];
 
       let html = '';
-
-      // 醫學(三)部分
-      html += generateVisualizationExamSection('醫學(三)', medicine3Years, parsedQuestions);
-      
-      // 醫學(四)部分
-      html += generateVisualizationExamSection('醫學(四)', medicine4Years, parsedQuestions, true);
+      gradeConfig.forEach((cfg, index) => {
+        const years = yearList.map(y => y[cfg.yearKey]);
+        // 第一個（醫學三）預設 active
+        const activeClass = index === 0 ? 'active' : '';
+        html += `<div class="vis-exam-section ${activeClass}" id="visSection-${cfg.key}">`;
+        html += generateVisualizationExamSection(cfg.title, years, parsedQuestions, cfg.colorClass);
+        html += `</div>`;
+      });
 
       container.innerHTML = html;
     }
 
     // 生成考試科目區塊
-    function generateVisualizationExamSection(title, years, parsedQuestions, isMedicine2 = false) {
+    function generateVisualizationExamSection(title, years, parsedQuestions, colorClass = '') {
       let html = `
         <div class="exam-section">
-          <div class="exam-header ${isMedicine2 ? 'medicine-2' : ''}">${title} 試卷</div>
+          <div class="exam-header ${colorClass}">${title} 試卷</div>
           <div class="year-grid">
       `;
 
@@ -4081,6 +4160,13 @@
       <div class="visualization-header">
         <h2>📊 答題狀況視覺化分析</h2>
         <button class="close-visualization" onclick="closeVisualization()">✕</button>
+      </div>
+      <!-- Tab 按鈕列 -->
+      <div class="visualization-tab-bar">
+        <button id="visTab3" class="vis-tab-btn active" onclick="switchVisualTab('med3')">醫學(三)</button>
+        <button id="visTab4" class="vis-tab-btn" onclick="switchVisualTab('med4')">醫學(四)</button>
+        <button id="visTab5" class="vis-tab-btn" onclick="switchVisualTab('med5')">醫學(五)</button>
+        <button id="visTab6" class="vis-tab-btn" onclick="switchVisualTab('med6')">醫學(六)</button>
       </div>
       <div class="visualization-body" id="visualizationBody">
         <div id="visualizationContent">
