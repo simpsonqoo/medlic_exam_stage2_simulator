@@ -372,7 +372,7 @@
       "D": "中樞神經腫瘤"
     },
     "answer": "D",
-    "explanation": "嗅覺異常可分為傳導性（conductive）和感覺神經性（sensorineural）原因。<br>常見原因包括：<br>· 病毒性上呼吸道感染（20-30%）<br>· 鼻竇疾病（15-20%）<br>· 頭部外傷（10-15%）<br>· 老化<br>· 鼻息肉<br>· 藥物<br>(A) 正確為常見原因，病毒性上呼吸道感染（viral upper respiratory infection）是嗅覺異常最常見的原因之一，病毒可直接損傷嗅覺上皮細胞（olfactory epithelium）或嗅神經<br>(B) 正確為常見原因，頭部外傷（head trauma）可造成嗅絲（olfactory fila）在篩板（cribriform plate）處剪斷，或直接損傷嗅球（olfactory bulb），是嗅覺喪失的重要原因<br>(C) 正確為常見原因，鼻竇疾病（sinonasal disease）如慢性鼻竇炎、鼻息肉等，阻擋氣流到達嗅覺區域，造成傳導性嗅覺異常<br>(D) 錯誤，中樞神經腫瘤（central nervous system tumors）如嗅溝腦膜瘤（olfactory groove meningioma）、額葉腫瘤等可造成嗅覺異常，但相對罕見，僅佔嗅覺異常原因的1-2%",
+    "explanation": "嗅覺異常可分為傳導性（conductive）和感覺神經性（sensorineural）原因。<br>常見原因包括：<br>· 病毒性上呼吸道感染（20-30%）<br>· 鼻竇疾病（15-20%）<br>· 頭部外傷（10-15%）<br>· 老化<br>· 鼻息肉<br>· 藥物<br>(A) ，病毒性上呼吸道感染（viral upper respiratory infection）是嗅覺異常最常見的原因之一，病毒可直接損傷嗅覺上皮細胞（olfactory epithelium）或嗅神經<br>(B) ，頭部外傷（head trauma）可造成嗅絲（olfactory fila）在篩板（cribriform plate）處剪斷，或直接損傷嗅球（olfactory bulb），是嗅覺喪失的重要原因<br>(C) ，鼻竇疾病（sinonasal disease）如慢性鼻竇炎、鼻息肉等，阻擋氣流到達嗅覺區域，造成傳導性嗅覺異常<br>(D) 錯誤，中樞神經腫瘤（central nervous system tumors）如嗅溝腦膜瘤（olfactory groove meningioma）、額葉腫瘤等可造成嗅覺異常，但相對罕見，僅佔嗅覺異常原因的1-2%",
     "tags": [
       "113-2-6",
       "耳鼻喉科"
@@ -650,7 +650,7 @@
       "D": "李斯特菌（Listeria monocytogenes）"
     },
     "answer": "D",
-    "explanation": "產科敗血症的常見病原菌主要來自泌尿生殖道、腸道菌群。<br>產科敗血症常見病原菌：<br>· 大腸桿菌（E. coli）：最常見<br>· A群鏈球菌（Group A Streptococcus）<br>· 腸球菌（Enterococcus）<br>· 克雷伯菌（Klebsiella）<br>· 厭氧菌（Bacteroides等）<br>· 金黃色葡萄球菌（S. aureus）<br>(A) 正確為常見，大腸桿菌（E. coli）是產科敗血症最常見的病原菌，可來自泌尿道感染、絨毛膜羊膜炎、產後子宮內膜炎<br>(B) 正確為常見，糞腸球菌（Enterococcus faecalis）是常見的產科感染病原菌，屬於正常腸道和陰道菌群，可造成泌尿道感染、子宮內膜炎<br>(C) 正確為常見，肺炎克雷伯菌（Klebsiella pneumoniae）是常見的革蘭氏陰性桿菌，可造成產科泌尿道感染和敗血症<br>(D) 錯誤，李斯特菌（Listeria monocytogenes）在產科敗血症中相對罕見。李斯特菌主要造成懷孕期感染（如透過未煮熟食物感染），可導致流產、死產、新生兒敗血症，但在產科敗血症的總體病例中佔比很小（<5%）",
+    "explanation": "產科敗血症的常見病原菌主要來自泌尿生殖道、腸道菌群。<br>產科敗血症常見病原菌：<br>· 大腸桿菌（E. coli）：最常見<br>· A群鏈球菌（Group A Streptococcus）<br>· 腸球菌（Enterococcus）<br>· 克雷伯菌（Klebsiella）<br>· 厭氧菌（Bacteroides等）<br>· 金黃色葡萄球菌（S. aureus）<br>(A) ，大腸桿菌（E. coli）是產科敗血症最常見的病原菌，可來自泌尿道感染、絨毛膜羊膜炎、產後子宮內膜炎<br>(B) ，糞腸球菌（Enterococcus faecalis）是常見的產科感染病原菌，屬於正常腸道和陰道菌群，可造成泌尿道感染、子宮內膜炎<br>(C) ，肺炎克雷伯菌（Klebsiella pneumoniae）是常見的革蘭氏陰性桿菌，可造成產科泌尿道感染和敗血症<br>(D) 錯誤，李斯特菌（Listeria monocytogenes）在產科敗血症中相對罕見。李斯特菌主要造成懷孕期感染（如透過未煮熟食物感染），可導致流產、死產、新生兒敗血症，但在產科敗血症的總體病例中佔比很小（<5%）",
     "tags": [
       "113-2-6",
       "婦產科"

@@ -587,7 +587,7 @@
       "D": "ROP"
     },
     "answer": "B",
-    "explanation": "胎位判讀需確定：胎兒姿勢（presentation）、位置（position）、先露部（presenting part）。標準表示法為：左/右（L/R）+ 先露部標記（O=occipital枕骨、S=sacral薦骨、M=mentum頦部）+ 相對於母體骨盆的位置（A=anterior前、P=posterior後、T=transverse橫）。<br>(A) 錯誤，LOA（left occipito-anterior）是左枕前位，胎兒枕骨朝向母體左前方，是最常見的正常胎位<br>(B) 正確，雖然沒有看到圖片，但根據答案，此胎位為LOP（left occipito-posterior）左枕後位，胎兒枕骨朝向母體左後方。這是枕後位（occipito-posterior position），可能導致產程延長、背痛（back labor），部分需要輔助分娩或剖腹產<br>(C) 錯誤，ROA（right occipito-anterior）是右枕前位，胎兒枕骨朝向母體右前方，也是常見的正常胎位<br>(D) 錯誤，ROP（right occipito-posterior）是右枕後位，胎兒枕骨朝向母體右後方",
+    "explanation": "胎位判讀需確定：胎兒姿勢（presentation）、位置（position）、先露部（presenting part）。標準表示法為：左/右（L/R）+ 先露部標記（O=occipital枕骨、S=sacral薦骨、M=mentum頦部）+ 相對於母體骨盆的位置（A=anterior前、P=posterior後、T=transverse橫）。圖中可見代表胎兒枕骨 (Occiput) 的後囟門（呈Y字型的骨縫交界）朝向母親骨盆的右後方，因此判定為右枕後位 (Right Occipito-Posterior, ROA)。<br>(A) 錯誤，LOA（left occipito-anterior）是左枕前位，胎兒枕骨朝向母體左前方，是最常見的正常胎位<br>(B) 正確，雖然沒有看到圖片，但根據答案，此胎位為LOP（left occipito-posterior）左枕後位，胎兒枕骨朝向母體左後方。這是枕後位（occipito-posterior position），可能導致產程延長、背痛（back labor），部分需要輔助分娩或剖腹產<br>(C) 錯誤，ROA（right occipito-anterior）是右枕前位，胎兒枕骨朝向母體右前方，也是常見的正常胎位<br>(D) 錯誤，ROP（right occipito-posterior）是右枕後位，胎兒枕骨朝向母體右後方",
     "tags": [
       "110-2-6",
       "婦產科"
