@@ -574,7 +574,7 @@
       "D": "hyaluronan"
     },
     "answer": "C",
-    "explanation": "雖然沒有提供圖片，但根據題目描述「羊膜分泌激素刺激子宮肌肉層收縮」可以推論。<br>生產啟動的機轉涉及多種激素：<br>· 胎兒HPA axis活化<br>· 胎盤CRH增加<br>· 雌激素/黃體素比例改變<br>· 前列腺素增加<br>· Oxytocin作用增強<br>(A) 錯誤，DHEA-S（dehydroepiandrosterone sulfate）是雄性素前驅物，由胎兒腎上腺分泌，在胎盤轉化為雌激素，但不直接刺激子宮收縮<br>(B) 錯誤，Serotonin（血清素）不是羊膜分泌的主要激素，也不是主要的子宮收縮刺激因子<br>(C) 正確，Prostaglandin E2（PGE2）是羊膜（amnion）和絨毛膜（chorion）分泌的重要激素：<br>· 直接刺激子宮肌層收縮<br>· 促進子宮頸成熟（cervical ripening）<br>· 增加gap junctions形成<br>· 增強oxytocin受體表現<br>· 臨床上也使用PGE2（如dinoprostone）進行引產<br>(D) 錯誤，Hyaluronan（玻尿酸）參與子宮頸成熟過程，使子宮頸變軟，但不是主要的子宮收縮刺激激素",
+    "explanation": "★位於羊膜（amnion）層內，題目說明羊膜分泌此激素以刺激子宮肌層收縮，在生產機轉中羊膜會分泌前列腺素（prostaglandin）來促進子宮收縮，需判斷是哪一種前列腺素或其他激素負責此訊號傳遞路徑。<br>(A) 錯誤，DHEA-S 是由胎兒腎上腺（fetal adrenal gland）分泌的雄性素前驅物，用於合成雌激素（estrogen），並非由羊膜分泌來直接刺激子宮肌層收縮。<br>(B) 錯誤，血清素（serotonin）雖具有血管收縮作用，但在生產機轉中並非羊膜分泌用以刺激子宮肌層（myometrium）收縮的主要激素。<br>(C) 正確，前列腺素E2（prostaglandin E2，PGE2）是羊膜在足月時大量分泌的關鍵激素，能直接作用於子宮肌層的前列腺素受體（prostaglandin receptor）促進子宮收縮，是啟動生產的重要訊號分子。<br>(D) 錯誤，玻尿酸（hyaluronan）是細胞外基質（extracellular matrix）的成分之一，在子宮頸軟化（cervical ripening）中扮演角色，但並非由羊膜分泌來直接刺激子宮肌層收縮的激素。",
     "tags": [
       "114-1-6",
       "婦產科"
