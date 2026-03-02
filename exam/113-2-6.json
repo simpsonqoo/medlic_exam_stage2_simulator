@@ -613,7 +613,7 @@
       "D": "胎兒下行主動脈血流杜卜勒超音波"
     },
     "answer": "C",
-    "explanation": "雖然無法看到圖片，但根據題目提示：妊娠32週進行Doppler檢查，最可能是評估胎兒健康狀況。<br>產科常用的Doppler超音波檢查：<br>· 臍動脈（umbilical artery）：評估胎盤功能<br>· 中大腦動脈（middle cerebral artery, MCA）：評估胎兒貧血、腦部血流<br>· 靜脈導管（ductus venosus）：評估胎兒心臟功能<br>· 子宮動脈（uterine artery）：預測子癇前症風險<br>(A) 錯誤，臍動脈血流（umbilical artery Doppler）主要用於評估胎盤功能，異常表現為阻力增加、舒張期血流減少或反轉，常用於子宮內生長遲滯（IUGR）或子癇前症的監測<br>(B) 錯誤，胎兒下腔靜脈血流（inferior vena cava Doppler）較少使用，主要用於評估胎兒心臟功能異常<br>(C) 正確，胎兒中大腦動脈血流（middle cerebral artery Doppler）是產科重要檢查。MCA的peak systolic velocity（PSV）可用於：<br>· 評估胎兒貧血（如Rh同種免疫、parvovirus B19感染）<br>· 評估腦部血流分布異常（brain-sparing effect）<br>· 妊娠32週是常規進行MCA Doppler的時間點<br>(D) 錯誤，胎兒下行主動脈血流（descending aorta Doppler）較少單獨使用，主要用於複雜心臟異常的評估",
+    "explanation": "這題的解題關鍵在於辨識超音波影像中的解剖位置，圖中顯示的是胎兒大腦橫切面及其基底的威利氏環（Circle of Willis），彩色杜卜勒血流標示出向兩側延伸的血管，符合中大腦動脈的特徵。<br>產科常用的Doppler超音波檢查：<br>· 臍動脈（umbilical artery）：評估胎盤功能<br>· 中大腦動脈（middle cerebral artery, MCA）：評估胎兒貧血、腦部血流<br>· 靜脈導管（ductus venosus）：評估胎兒心臟功能<br>· 子宮動脈（uterine artery）：預測子癇前症風險<br>(A) 錯誤，圖中影像背景為胎兒大腦組織而非臍帶；臍動脈（Umbilical artery）杜卜勒超音波應顯示於羊水中漂浮、呈現動靜脈交纏管狀構造的臍帶，主要用於評估胎盤功能。<br>(B) 錯誤，圖中影像為胎兒頭部橫切面；胎兒下腔靜脈（Inferior vena cava）位於胎兒腹部並連接至心臟右心房，其杜卜勒檢查需在胎兒軀幹處進行掃描，常用於評估胎兒心臟負荷。<br>(C) 正確，影像清楚呈現胎兒頭部橫切面，彩色杜卜勒精準捕捉到源自威利氏環並向外側延伸的胎兒中大腦動脈（Middle Cerebral Artery, MCA）血流，臨床上常用於評估胎兒貧血或腦部血流分配。<br>(D) 錯誤，此為胎兒頭部內的血管影像；胎兒下行主動脈（Descending aorta）是貫穿胎兒胸腔與腹腔的主要大血管，其超音波檢查必須在胎兒的軀幹進行縱切或橫切掃描。",
     "tags": [
       "113-2-6",
       "婦產科"
