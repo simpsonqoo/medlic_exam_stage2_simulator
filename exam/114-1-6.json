@@ -94,7 +94,7 @@
       "D": "疼痛（pain）：疼痛嚴重程度是否可以接受"
     },
     "answer": "D",
-    "explanation": "Aldrete評分系統用於評估麻醉後恢復狀況，包含五大項目：活動能力、呼吸、循環、意識、血氧飽和度，每項0-2分。<br>(A) 正確包含，意識（consciousness）是Aldrete score的評估項目之一：完全清醒2分、可喚醒1分、無反應0分<br>(B) 正確包含，血液循環（circulation）評估血壓與麻醉前基礎值的差異：差異20% mmHg以內2分、20-49%差異1分、50%以上差異0分<br>(C) 正確包含，血氧飽和度（oxygen saturation）評估：室內空氣下SpO2 > 92%給2分、需要氧氣維持SpO2 > 90%給1分、即使給氧SpO2 < 90%給0分<br>(D) 錯誤，疼痛控制並不包含在原始的Aldrete評分系統中。Aldrete評分的五個項目是：活動能力（activity/motor function）、呼吸（respiration）、循環（circulation）、意識（consciousness）、血氧飽和度（oxygen saturation）。疼痛評估通常另外進行，但不是轉出恢復室的Aldrete標準之一",
+    "explanation": "Aldrete評分系統用於評估麻醉後恢復狀況，包含五大項目：活動能力、呼吸、循環、意識、血氧飽和度，每項0-2分。<br>(A) 正確，意識（consciousness）是Aldrete score的評估項目之一：完全清醒2分、可喚醒1分、無反應0分<br>(B) 正確，血液循環（circulation）評估血壓與麻醉前基礎值的差異：差異20% mmHg以內2分、20-49%差異1分、50%以上差異0分<br>(C) 正確，血氧飽和度（oxygen saturation）評估：室內空氣下SpO2 > 92%給2分、需要氧氣維持SpO2 > 90%給1分、即使給氧SpO2 < 90%給0分<br>(D) 錯誤，疼痛控制並不包含在原始的Aldrete評分系統中。Aldrete評分的五個項目是：活動能力（activity/motor function）、呼吸（respiration）、循環（circulation）、意識（consciousness）、血氧飽和度（oxygen saturation）。疼痛評估通常另外進行，但不是轉出恢復室的Aldrete標準之一",
     "tags": [
       "114-1-6",
       "麻醉科"
@@ -645,7 +645,7 @@
       "D": "血小板低下"
     },
     "answer": "C",
-    "explanation": "嚴重子癇前症（severe preeclampsia）的診斷標準包括血壓嚴重升高或有器官功能異常的證據。<br>子癇前症的嚴重特徵（severe features）包括：<br>· 血壓：收縮壓≥160或舒張壓≥110 mmHg<br>· 血小板低下：< 100,000/μL<br>· 肝功能異常：肝酵素升高≥2倍正常值<br>· 腎功能異常：肌酐酸 > 1.1 mg/dL或倍增<br>· 肺水腫<br>· 新發生的頭痛或視覺症狀<br>· 上腹痛<br>(A) 正確包含，上腹痛（epigastric pain）或右上腹痛是嚴重子癇前症的警訊：<br>· 可能反映肝臟腫脹或肝包膜伸展<br>· 可能是HELLP syndrome的表現<br>· 需要緊急評估<br>(B) 正確包含，寡尿（oliguria，尿量 < 500 mL/24小時）反映腎功能受損：<br>· 腎絲球內皮細胞受損（glomerular endotheliosis）<br>· 腎血流減少<br>· 可能進展為急性腎衰竭<br>(C) 錯誤，胰臟功能異常不是子癇前症的典型合併症。子癇前症主要影響：<br>· 肝臟（肝功能異常、HELLP syndrome）<br>· 腎臟（蛋白尿、腎功能異常）<br>· 腦部（子癇、腦出血、後可逆性腦病變症候群PRES）<br>· 血液系統（血小板低下、DIC）<br>· 心血管系統（高血壓、肺水腫）<br>(D) 正確包含，血小板低下（thrombocytopenia）是嚴重子癇前症的重要特徵：<br>· 可能單獨出現或合併HELLP syndrome<br>· 血小板 < 100,000/μL定義為嚴重<br>· 反映微血管病變和凝血功能異常",
+    "explanation": "嚴重子癇前症（severe preeclampsia）的診斷標準包括血壓嚴重升高或有器官功能異常的證據。<br>子癇前症的嚴重特徵（severe features）包括：<br>· 血壓：收縮壓≥160或舒張壓≥110 mmHg<br>· 血小板低下：< 100,000/μL<br>· 肝功能異常：肝酵素升高≥2倍正常值<br>· 腎功能異常：肌酐酸 > 1.1 mg/dL或倍增<br>· 肺水腫<br>· 新發生的頭痛或視覺症狀<br>· 上腹痛<br>(A) 正確，上腹痛（epigastric pain）或右上腹痛是嚴重子癇前症的警訊：<br>· 可能反映肝臟腫脹或肝包膜伸展<br>· 可能是HELLP syndrome的表現<br>· 需要緊急評估<br>(B) 正確，寡尿（oliguria，尿量 < 500 mL/24小時）反映腎功能受損：<br>· 腎絲球內皮細胞受損（glomerular endotheliosis）<br>· 腎血流減少<br>· 可能進展為急性腎衰竭<br>(C) 錯誤，胰臟功能異常不是子癇前症的典型合併症。子癇前症主要影響：<br>· 肝臟（肝功能異常、HELLP syndrome）<br>· 腎臟（蛋白尿、腎功能異常）<br>· 腦部（子癇、腦出血、後可逆性腦病變症候群PRES）<br>· 血液系統（血小板低下、DIC）<br>· 心血管系統（高血壓、肺水腫）<br>(D) 正確，血小板低下（thrombocytopenia）是嚴重子癇前症的重要特徵：<br>· 可能單獨出現或合併HELLP syndrome<br>· 血小板 < 100,000/μL定義為嚴重<br>· 反映微血管病變和凝血功能異常",
     "tags": [
       "114-1-6",
       "婦產科"
