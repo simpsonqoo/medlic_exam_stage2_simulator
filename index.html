@@ -3071,7 +3071,7 @@
         ${q.images ? generateImageHTML(q.images) : ''}
         ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}" ${isAnswered && q.userAnswer === key ? 'checked' : ''} ${isAnswered ? 'disabled' : ''}> ${key}. ${value}</label><br>`).join('')}
         <div class="warning-message" id="warning${i}">⚠️ 請先選擇一個選項再提交答案！</div>
-        <div class="explanation" id="explanation${i}">${q.explanation}</div>
+        <div class="explanation" id="explanation${i}">${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}</div>
         <button id="submitAnswerBtn${i}" class="submit-answer-btn" onclick="checkStep(${i})" ${isAnswered ? 'style="display:none"' : ''}>提交答案</button>
       `;
       quizDiv.appendChild(qBlock);
@@ -3091,13 +3091,13 @@
         let explanationText = '';
         if (isBonusQuestion && q.userAnswer) {
           explanation.classList.add('correct');
-          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(q.tags)}<br>你的答案：${q.userAnswer}. ${q.options[q.userAnswer]}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(q.tags)}<br>你的答案：${q.userAnswer}. ${q.options[q.userAnswer]}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}`;
         } else if (q.userAnswer && isAnswerCorrect(q.userAnswer, q.answer)) {
           explanation.classList.add('correct');
-          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(q.tags)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(q.tags)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}`;
         } else {
           explanation.classList.add('incorrect');
-          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(q.tags)}<br>你的答案：<br>${formatUserAnswer(q.userAnswer, q.options)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}`;
+          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(q.tags)}<br>你的答案：<br>${formatUserAnswer(q.userAnswer, q.options)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}`;
         }
         explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
         explanation.style.display = 'block';
@@ -3148,16 +3148,16 @@
           explanation.classList.add('correct');
           correct++;
           quiz[i].isCorrect = true;
-          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen.value}. ${quiz[i].options[chosen.value]}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}`;
+          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen.value}. ${quiz[i].options[chosen.value]}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
         } else if (chosen && isAnswerCorrect(chosen.value, quiz[i].answer)) {
           explanation.classList.add('correct');
           correct++;
           quiz[i].isCorrect = true;
-          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(quiz[i].tags)}<br>正確答案：${formatCorrectAnswer(quiz[i].answer, quiz[i].options)}<br>詳解：${quiz[i].explanation}`;
+          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(quiz[i].tags)}<br>正確答案：${formatCorrectAnswer(quiz[i].answer, quiz[i].options)}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
         } else {
           explanation.classList.add('incorrect');
           quiz[i].isCorrect = false;
-          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen ? chosen.value + '. ' + quiz[i].options[chosen.value] : '未作答'}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}`;
+          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen ? chosen.value + '. ' + quiz[i].options[chosen.value] : '未作答'}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
         }
         explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
         
@@ -3299,7 +3299,7 @@
         Object.entries(q.options).forEach(([key, value]) => {
           questionResult += `  ${key}. ${value}\n`;
         });
-        questionResult += `正確答案：${formatCorrectAnswer(q.answer, q.options)}${isBonusQuestion ? ' （送分題）' : ''}\n詳解：${q.explanation}\n${'-'.repeat(30)}\n\n`;
+        questionResult += `正確答案：${formatCorrectAnswer(q.answer, q.options)}${isBonusQuestion ? ' （送分題）' : ''}\n詳解：${q.explanation}\n${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}${'-'.repeat(30)}\n\n`;
         
         // 給每個題目結果添加包裝div
         detailedResults += `<div class="question-result browse-mode" data-question-index="${idx}">${questionResult}</div>`;
@@ -3411,7 +3411,7 @@
         Object.entries(q.options).forEach(([key, value]) => {
           questionResult += `  ${key}. ${value}\n`;
         });
-        questionResult += `你的答案：${q.userAnswer ? q.userAnswer + '. ' + q.options[q.userAnswer] : "未作答"}\n正確答案：${formatCorrectAnswer(q.answer, q.options)}\n結果：<span class="${resultClass}">${resultText}</span>\n詳解：${q.explanation}\n${'-'.repeat(30)}\n\n`;
+        questionResult += `你的答案：${q.userAnswer ? q.userAnswer + '. ' + q.options[q.userAnswer] : "未作答"}\n正確答案：${formatCorrectAnswer(q.answer, q.options)}\n結果：<span class="${resultClass}">${resultText}</span>\n詳解：${q.explanation}\n${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}${'-'.repeat(30)}\n\n`;
         
         // 给每个题目结果添加包装div，用于显示/隐藏控制
         detailedResults += `<div class="question-result" data-question-index="${idx}" data-is-correct="${isCorrect}">${questionResult}</div>`;
@@ -3669,7 +3669,7 @@
           <p>${q.question}</p>
           ${q.images ? generateImageHTML(q.images) : ''}
           ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}"> ${key}. ${value}</label><br>`).join('')}
-          <div class="explanation" id="explanation${i}">${q.explanation}</div>
+          <div class="explanation" id="explanation${i}">${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}</div>
         `;
         quizDiv.appendChild(qBlock);
       });
