@@ -129,7 +129,7 @@
       "D": "器官移植術後的急性排斥"
     },
     "answer": "B",
-    "explanation": "超急性排斥（hyperacute rejection）是發生在移植後數分鐘至數小時內，關鍵在於「誰體內的抗體」需釐清清楚。<br>(A) 正確，HLA（人類白血球抗原）基因位於第六對染色體上，器官移植排斥主要與HLA配對有關<br>(B) 錯誤，超急性排斥是因**受贈者（recipient）體內預先存在的抗體（preformed antibodies）**攻擊捐贈者（donor）的血管內皮，而非捐贈者體內的抗體；常見原因為ABO血型不合或先前輸血/懷孕產生的抗HLA抗體<br>(C) 正確，同種識別（allorecognition）可經由直接路徑（direct pathway，受贈者T細胞直接辨識供者MHC）及間接路徑（indirect pathway，受贈者抗原呈現細胞處理後呈現），均透過T細胞活化<br>(D) 正確，急性排斥（acute rejection）分為細胞性排斥（cellular/T cell-mediated rejection）和體液性排斥（humoral/antibody-mediated rejection）",
+    "explanation": "超急性排斥（hyperacute rejection）是發生在移植後數分鐘至數小時內，關鍵在於「誰體內的抗體」需釐清清楚。<br>(A) 正確，HLA（人類白血球抗原）基因位於第六對染色體上，器官移植排斥主要與HLA配對有關<br>(B) 錯誤，超急性排斥是因受贈者（recipient）體內預先存在的抗體（preformed antibodies）攻擊捐贈者（donor）的血管內皮，而非捐贈者體內的抗體；常見原因為ABO血型不合或先前輸血/懷孕產生的抗HLA抗體<br>(C) 正確，同種識別（allorecognition）可經由直接路徑（direct pathway，受贈者T細胞直接辨識供者MHC）及間接路徑（indirect pathway，受贈者抗原呈現細胞處理後呈現），均透過T細胞活化<br>(D) 正確，急性排斥（acute rejection）分為細胞性排斥（cellular/T cell-mediated rejection）和體液性排斥（humoral/antibody-mediated rejection）",
     "tags": [
       "110-2-5",
       "外科概論"
@@ -526,7 +526,7 @@
       "D": "待心肌梗塞發生6個月後再考慮手術"
     },
     "answer": "D",
-    "explanation": "術前評估（preoperative evaluation）需考量心臟事件後的再手術安全性，尤其心肌梗塞後有其等待期建議，以降低圍術期心臟風險。<br>(A) 錯誤，任何手術前均應請麻醉科醫師評估，尤其高齡多重共病患者；「不用請麻醉科評估」的說法違反醫療常規<br>(B) 錯誤，有冠狀動脈塗藥支架（drug-eluting stent）的患者服用雙重抗血小板藥物（dual antiplatelet therapy）期間，不可隨意停藥，必須與心臟科醫師討論後才可調整用藥<br>(C) 錯誤，腹部手術後致死原因有相當比例與心血管併發症直接相關，此敘述明顯錯誤<br>(D) 正確，根據指引，心肌梗塞後**至少等待60天（緊急情況）至6個月（選擇性手術）**再進行非緊急手術，以降低圍術期心臟事件風險；可回復性疝氣屬擇期手術，應等待足夠時間",
+    "explanation": "術前評估（preoperative evaluation）需考量心臟事件後的再手術安全性，尤其心肌梗塞後有其等待期建議，以降低圍術期心臟風險。<br>(A) 錯誤，任何手術前均應請麻醉科醫師評估，尤其高齡多重共病患者；「不用請麻醉科評估」的說法違反醫療常規<br>(B) 錯誤，有冠狀動脈塗藥支架（drug-eluting stent）的患者服用雙重抗血小板藥物（dual antiplatelet therapy）期間，不可隨意停藥，必須與心臟科醫師討論後才可調整用藥<br>(C) 錯誤，腹部手術後致死原因有相當比例與心血管併發症直接相關，此敘述明顯錯誤<br>(D) 正確，根據指引，心肌梗塞後至少等待60天（緊急情況）至6個月（選擇性手術）再進行非緊急手術，以降低圍術期心臟事件風險；可回復性疝氣屬擇期手術，應等待足夠時間",
     "tags": [
       "110-2-5",
       "外科概論"
@@ -543,7 +543,7 @@
       "D": "腸胃道基質瘤不常經由淋巴轉移,所以在針對腸胃道基質瘤進行手術時,不需要特別進行淋巴廓清手術"
     },
     "answer": "C",
-    "explanation": "小腸腫瘤的類型及各類腫瘤的轉移特性需正確區分，腸胃道基質瘤（GIST）有其特殊的生物行為。<br>(A) 正確，小腸具有消化吸收、內分泌（如分泌CCK、secretin等）功能，也是腸道相關淋巴組織（GALT）的重要免疫器官<br>(B) 正確，腸道阻塞的原因分為外因性（如術後沾黏、疝氣）、內因性（如腫瘤、腸套疊）及管腔內（如糞石、膽石），其中術後沾黏（adhesion）是最常見原因<br>(C) 錯誤，GIST確實源自腸道間質細胞（Cajal細胞），但小腸最常見的惡性腫瘤為腺癌（adenocarcinoma）（好發於近端小腸）或類癌（carcinoid tumor）（好發於迴腸末端），GIST並非最常見的小腸惡性腫瘤；不過GIST容易復發及轉移至肝臟和腹膜的描述是正確的<br>(D) 正確，GIST主要經**血行（hematogenous）**或腹膜播散（peritoneal spread）轉移，很少經淋巴轉移，因此手術不需要進行廣泛淋巴廓清",
+    "explanation": "小腸腫瘤的類型及各類腫瘤的轉移特性需正確區分，腸胃道基質瘤（GIST）有其特殊的生物行為。<br>(A) 正確，小腸具有消化吸收、內分泌（如分泌CCK、secretin等）功能，也是腸道相關淋巴組織（GALT）的重要免疫器官<br>(B) 正確，腸道阻塞的原因分為外因性（如術後沾黏、疝氣）、內因性（如腫瘤、腸套疊）及管腔內（如糞石、膽石），其中術後沾黏（adhesion）是最常見原因<br>(C) 錯誤，GIST確實源自腸道間質細胞（Cajal細胞），但小腸最常見的惡性腫瘤為腺癌（adenocarcinoma）（好發於近端小腸）或類癌（carcinoid tumor）（好發於迴腸末端），GIST並非最常見的小腸惡性腫瘤；不過GIST容易復發及轉移至肝臟和腹膜的描述是正確的<br>(D) 正確，GIST主要經血行（hematogenous）或腹膜播散（peritoneal spread）轉移，很少經淋巴轉移，因此手術不需要進行廣泛淋巴廓清",
     "tags": [
       "110-2-5",
       "小腸外科"
@@ -577,7 +577,7 @@
       "D": "ghrelin"
     },
     "answer": "C",
-    "explanation": "胃是重要的內分泌器官，能分泌多種荷爾蒙，但需與脂肪組織分泌的荷爾蒙區分。<br>(A) 錯誤（是胃細胞分泌），體抑素（somatostatin）由胃的D細胞分泌，抑制胃酸及其他消化道荷爾蒙的分泌<br>(B) 錯誤（是胃細胞分泌），胃泌素釋放胜肽（gastrin-releasing peptide, GRP）由胃的神經內分泌細胞分泌，可刺激胃泌素（gastrin）釋放<br>(C) 正確，脂聯素（adiponectin）是由**脂肪細胞（adipocytes）**分泌的荷爾蒙，參與胰島素敏感性調節，不是由胃細胞分泌<br>(D) 錯誤（是胃細胞分泌），飢餓素（ghrelin）主要由胃底（fundus）的X/A細胞分泌，是促進食慾的重要荷爾蒙",
+    "explanation": "胃是重要的內分泌器官，能分泌多種荷爾蒙，但需與脂肪組織分泌的荷爾蒙區分。<br>(A) 錯誤（是胃細胞分泌），體抑素（somatostatin）由胃的D細胞分泌，抑制胃酸及其他消化道荷爾蒙的分泌<br>(B) 錯誤（是胃細胞分泌），胃泌素釋放胜肽（gastrin-releasing peptide, GRP）由胃的神經內分泌細胞分泌，可刺激胃泌素（gastrin）釋放<br>(C) 正確，脂聯素（adiponectin）是由脂肪細胞（adipocytes）分泌的荷爾蒙，參與胰島素敏感性調節，不是由胃細胞分泌<br>(D) 錯誤（是胃細胞分泌），飢餓素（ghrelin）主要由胃底（fundus）的X/A細胞分泌，是促進食慾的重要荷爾蒙",
     "tags": [
       "110-2-5",
       "胃外科"
@@ -594,7 +594,7 @@
       "D": "第一型糖尿病,尚未產生糖尿病合併症"
     },
     "answer": "C",
-    "explanation": "胰臟移植的適應症需在血糖控制效益與手術風險及免疫抑制之間取得平衡，目前主要適用於已有嚴重終末器官損傷的第一型糖尿病患者。<br>(A) 錯誤，第一型糖尿病但血糖控制穩定者，手術風險大於獲益，不是胰臟移植的適應症<br>(B) 錯誤，第二型糖尿病口服藥控制合併腎衰竭，首選是腎臟移植，胰臟移植不是第二型糖尿病的標準適應症（因胰島素阻抗而非胰島素分泌不足為主要問題）<br>(C) 正確，第一型糖尿病合併腎衰竭（end-stage renal disease, ESRD）是**胰腎聯合移植（simultaneous pancreas-kidney transplant, SPK）**的標準適應症，可同時解決高血糖及腎衰竭問題<br>(D) 錯誤，第一型糖尿病尚未產生糖尿病合併症者，血糖控制尚可透過胰島素治療，移植的風險效益比不佳，不是適應症",
+    "explanation": "胰臟移植的適應症需在血糖控制效益與手術風險及免疫抑制之間取得平衡，目前主要適用於已有嚴重終末器官損傷的第一型糖尿病患者。<br>(A) 錯誤，第一型糖尿病但血糖控制穩定者，手術風險大於獲益，不是胰臟移植的適應症<br>(B) 錯誤，第二型糖尿病口服藥控制合併腎衰竭，首選是腎臟移植，胰臟移植不是第二型糖尿病的標準適應症（因胰島素阻抗而非胰島素分泌不足為主要問題）<br>(C) 正確，第一型糖尿病合併腎衰竭（end-stage renal disease, ESRD）是胰腎聯合移植（simultaneous pancreas-kidney transplant, SPK）的標準適應症，可同時解決高血糖及腎衰竭問題<br>(D) 錯誤，第一型糖尿病尚未產生糖尿病合併症者，血糖控制尚可透過胰島素治療，移植的風險效益比不佳，不是適應症",
     "tags": [
       "110-2-5",
       "胰臟外科"
@@ -713,7 +713,7 @@
       "D": "①④⑤"
     },
     "answer": "A",
-    "explanation": "膽道囊腫（choledochal cyst）的分型依Todani分類，需依影像表現判斷類型；肝內外膽管同時擴大是type IV的特徵，手術時機及囊腫成因是臨床重點。<br>(A) 正確，①題目描述肝內膽管與總膽管同時擴大，符合**type IV（肝內外膽管均擴大）而非type V；③急性胰臟炎緩解後應盡早安排手術切除囊腫，以預防反覆發炎、膽管炎及惡性轉變；⑤目前主要假說為胰膽管合流異常（anomalous pancreaticobiliary junction）**導致胰液逆流進入膽管，造成膽管壁損傷擴張<br>(B) 錯誤，②type V即Carol氏症（Caroli disease），特徵是單純肝內膽管多發性擴張，不包含總膽管擴大，與本題影像不符；④等到6歲再手術的說法沒有根據，確診後應在病情穩定時盡早手術<br>(C) 錯誤，同上，type V不符合題目的影像描述，且等到6歲才手術亦不適當<br>(D) 錯誤，同樣包含type V的錯誤敘述④",
+    "explanation": "膽道囊腫（choledochal cyst）的分型依Todani分類，需依影像表現判斷類型；肝內外膽管同時擴大是type IV的特徵，手術時機及囊腫成因是臨床重點。<br>(A) 正確，①題目描述肝內膽管與總膽管同時擴大，符合type IV（肝內外膽管均擴大）而非type V；③急性胰臟炎緩解後應盡早安排手術切除囊腫，以預防反覆發炎、膽管炎及惡性轉變；⑤目前主要假說為胰膽管合流異常（anomalous pancreaticobiliary junction）導致胰液逆流進入膽管，造成膽管壁損傷擴張<br>(B) 錯誤，②type V即Carol氏症（Caroli disease），特徵是單純肝內膽管多發性擴張，不包含總膽管擴大，與本題影像不符；④等到6歲再手術的說法沒有根據，確診後應在病情穩定時盡早手術<br>(C) 錯誤，同上，type V不符合題目的影像描述，且等到6歲才手術亦不適當<br>(D) 錯誤，同樣包含type V的錯誤敘述④",
     "tags": [
       "110-2-5",
       "小兒外科"
@@ -764,7 +764,7 @@
       "D": "如果在懷孕的過程及出生之後,病兒均沒有特別的症狀,我們可以先監控觀察,等到約六個月大前,再考慮 進行手術將其病灶切除。但少數的病例在出生後就出現呼吸窘迫的現象,此時就要進行緊急手術將其肺部的 病灶切除"
     },
     "answer": "C",
-    "explanation": "先天性肺呼吸道畸形（CPAMs）的自然病史、潛在風險及治療時機是本題重點，需了解其惡性轉變的可能性。<br>(A) 正確，CPAMs是正常肺組織中發展出的多囊腫塊，通常侷限於單側肺部或單一肺葉，描述正確<br>(B) 正確，大型CPAMs可壓迫縱膈腔及心臟，造成心臟移位、胎兒水腫（hydrops fetalis）等胎兒窘迫表現，說明有此可能是正確的<br>(C) 錯誤，CPAMs確實有惡性轉變的風險，目前文獻顯示CPAMs（尤其是type I的大囊型）與**胸膜肺母細胞瘤（pleuropulmonary blastoma）及細支氣管肺泡癌（bronchoalveolar carcinoma）**有相關性，告知家屬「無惡性可能」是不正確且不完整的資訊<br>(D) 正確，無症狀的CPAMs可以監控至約6個月大再考慮擇期手術切除；若出生後立即出現呼吸窘迫則需緊急手術，描述正確",
+    "explanation": "先天性肺呼吸道畸形（CPAMs）的自然病史、潛在風險及治療時機是本題重點，需了解其惡性轉變的可能性。<br>(A) 正確，CPAMs是正常肺組織中發展出的多囊腫塊，通常侷限於單側肺部或單一肺葉，描述正確<br>(B) 正確，大型CPAMs可壓迫縱膈腔及心臟，造成心臟移位、胎兒水腫（hydrops fetalis）等胎兒窘迫表現，說明有此可能是正確的<br>(C) 錯誤，CPAMs確實有惡性轉變的風險，目前文獻顯示CPAMs（尤其是type I的大囊型）與胸膜肺母細胞瘤（pleuropulmonary blastoma）及細支氣管肺泡癌（bronchoalveolar carcinoma）有相關性，告知家屬「無惡性可能」是不正確且不完整的資訊<br>(D) 正確，無症狀的CPAMs可以監控至約6個月大再考慮擇期手術切除；若出生後立即出現呼吸窘迫則需緊急手術，描述正確",
     "tags": [
       "110-2-5",
       "小兒外科"
@@ -815,7 +815,7 @@
       "D": "②③"
     },
     "answer": "A",
-    "explanation": "栓塞外痔（thrombosed external hemorrhoid）的治療策略取決於症狀嚴重程度與發生時間，需分辨切除、切開與保守治療的適用時機，並了解各治療方式對外痔的適用性。<br>(A) 正確，①症狀明顯的栓塞外痔（尤其發作72小時內）可在門診局部麻醉下**切除（excision）**整個血栓與覆蓋皮膚，復發率低於單純切開；③超過72小時或症狀可以忍受時，溫水坐浴合併局部止痛是合適的保守治療<br>(B) 錯誤，②單純切開（incision）引流血栓雖可即時減壓，但血栓容易殘留且復發率高，效果不如切除，不是首選；④硬化劑注射（sclerotherapy）適用於內痔（internal hemorrhoid），對外痔無效且不適用<br>(C) 錯誤，包含④硬化劑注射，此法不適用於外痔<br>(D) 錯誤，②切開為次要選擇且復發率高；③雖正確但②不適當，組合不完整",
+    "explanation": "栓塞外痔（thrombosed external hemorrhoid）的治療策略取決於症狀嚴重程度與發生時間，需分辨切除、切開與保守治療的適用時機，並了解各治療方式對外痔的適用性。<br>(A) 正確，①症狀明顯的栓塞外痔（尤其發作72小時內）可在門診局部麻醉下切除（excision）整個血栓與覆蓋皮膚，復發率低於單純切開；③超過72小時或症狀可以忍受時，溫水坐浴合併局部止痛是合適的保守治療<br>(B) 錯誤，②單純切開（incision）引流血栓雖可即時減壓，但血栓容易殘留且復發率高，效果不如切除，不是首選；④硬化劑注射（sclerotherapy）適用於內痔（internal hemorrhoid），對外痔無效且不適用<br>(C) 錯誤，包含④硬化劑注射，此法不適用於外痔<br>(D) 錯誤，②切開為次要選擇且復發率高；③雖正確但②不適當，組合不完整",
     "tags": [
       "110-2-5",
       "大腸直腸外科"
@@ -849,7 +849,7 @@
       "D": "抽菸不會增加克隆氏症復發的機率"
     },
     "answer": "B",
-    "explanation": "發炎性腸道疾病（inflammatory bowel disease, IBD）兩大類型的臨床特徵、病灶分布及腸道外表徵各有差異，是考試常見比較題型。<br>(A) 錯誤，潰瘍性結腸炎（UC）病灶僅限於大腸（結腸及直腸），不會有小腸病灶（除非是回腸末端逆行性發炎，即backwash ileitis，屬輕微例外）；反而是克隆氏症（CD）可侵犯從口腔到肛門的任何腸道節段，包含小腸，兩者敘述完全相反<br>(B) 正確，克隆氏症（CD）因其全層性（transmural）發炎特性，容易形成瘻管（fistula），包括肛門廔管（perianal fistula）、腸腸廔管（entero-enteric fistula）及腸皮廔管（enterocutaneous fistula），是CD的典型特徵<br>(C) 錯誤，原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）是**潰瘍性結腸炎（UC）**最常見且最具特異性的腸道外表徵，而非克隆氏症<br>(D) 錯誤，抽菸（smoking）會增加克隆氏症的復發率及惡化風險；有趣的是，抽菸對潰瘍性結腸炎有某種程度的保護效果，兩者關係相反",
+    "explanation": "發炎性腸道疾病（inflammatory bowel disease, IBD）兩大類型的臨床特徵、病灶分布及腸道外表徵各有差異，是考試常見比較題型。<br>(A) 錯誤，潰瘍性結腸炎（UC）病灶僅限於大腸（結腸及直腸），不會有小腸病灶（除非是回腸末端逆行性發炎，即backwash ileitis，屬輕微例外）；反而是克隆氏症（CD）可侵犯從口腔到肛門的任何腸道節段，包含小腸，兩者敘述完全相反<br>(B) 正確，克隆氏症（CD）因其全層性（transmural）發炎特性，容易形成瘻管（fistula），包括肛門廔管（perianal fistula）、腸腸廔管（entero-enteric fistula）及腸皮廔管（enterocutaneous fistula），是CD的典型特徵<br>(C) 錯誤，原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）是潰瘍性結腸炎（UC）最常見且最具特異性的腸道外表徵，而非克隆氏症<br>(D) 錯誤，抽菸（smoking）會增加克隆氏症的復發率及惡化風險；有趣的是，抽菸對潰瘍性結腸炎有某種程度的保護效果，兩者關係相反",
     "tags": [
       "110-2-5",
       "大腸直腸外科"
@@ -917,7 +917,7 @@
       "D": "C4神經根"
     },
     "answer": "B",
-    "explanation": "依上題的診斷（腕隧道症候群），受壓迫的神經直接對應其解剖位置與症狀分布即可作答。<br>(A) 錯誤，尺神經（ulnar nerve）穿過肘隧道（cubital tunnel）或腕部的尺神經管（Guyon's canal），壓迫後表現為無名指尺側及小指的感覺異常<br>(B) 正確，腕隧道症候群是**正中神經（median nerve）**在腕隧道（carpal tunnel）內受壓迫所致，長期反覆手腕動作的工作（如包裝、打字）是常見的職業性危險因子<br>(C) 錯誤，脊髓（spinal cord）受壓為中樞性病變，不會造成如此局限且典型的周邊神經壓迫症狀<br>(D) 錯誤，C4神經根支配頸部、肩膀及鎖骨區域感覺，不支配手指",
+    "explanation": "依上題的診斷（腕隧道症候群），受壓迫的神經直接對應其解剖位置與症狀分布即可作答。<br>(A) 錯誤，尺神經（ulnar nerve）穿過肘隧道（cubital tunnel）或腕部的尺神經管（Guyon's canal），壓迫後表現為無名指尺側及小指的感覺異常<br>(B) 正確，腕隧道症候群是正中神經（median nerve）在腕隧道（carpal tunnel）內受壓迫所致，長期反覆手腕動作的工作（如包裝、打字）是常見的職業性危險因子<br>(C) 錯誤，脊髓（spinal cord）受壓為中樞性病變，不會造成如此局限且典型的周邊神經壓迫症狀<br>(D) 錯誤，C4神經根支配頸部、肩膀及鎖骨區域感覺，不支配手指",
     "tags": [
       "110-2-5",
       "骨科"
@@ -934,7 +934,7 @@
       "D": "椎間孔擠壓測試"
     },
     "answer": "C",
-    "explanation": "腕隧道症候群的臨床理學檢查有多種，需了解各檢查所針對的疾病及其陽性意義。<br>(A) 錯誤，深部肌腱反射過度反射（hyperreflexia）是上運動神經元病變（如脊髓病變, myelopathy）的表現，腕隧道症候群屬下運動神經元（周邊神經）壓迫，不會出現反射亢進<br>(B) 錯誤，肘部彎曲測試（elbow flexion test）是檢查肘隧道症候群（cubital tunnel syndrome）（尺神經壓迫）的陽性檢查，不用於腕隧道症候群<br>(C) 正確，法倫氏測試（Phalen's test）讓患者維持手腕最大屈曲60秒，若出現拇指、食指、中指的麻木或刺痛感即為陽性，是診斷腕隧道症候群（CTS）的標準理學檢查，靈敏度約68～80%<br>(D) 錯誤，椎間孔擠壓測試（Spurling test）是檢查**頸神經根病變（cervical radiculopathy）**的理學檢查，與腕隧道症候群無關",
+    "explanation": "腕隧道症候群的臨床理學檢查有多種，需了解各檢查所針對的疾病及其陽性意義。<br>(A) 錯誤，深部肌腱反射過度反射（hyperreflexia）是上運動神經元病變（如脊髓病變, myelopathy）的表現，腕隧道症候群屬下運動神經元（周邊神經）壓迫，不會出現反射亢進<br>(B) 錯誤，肘部彎曲測試（elbow flexion test）是檢查肘隧道症候群（cubital tunnel syndrome）（尺神經壓迫）的陽性檢查，不用於腕隧道症候群<br>(C) 正確，法倫氏測試（Phalen's test）讓患者維持手腕最大屈曲60秒，若出現拇指、食指、中指的麻木或刺痛感即為陽性，是診斷腕隧道症候群（CTS）的標準理學檢查，靈敏度約68～80%<br>(D) 錯誤，椎間孔擠壓測試（Spurling test）是檢查頸神經根病變（cervical radiculopathy）的理學檢查，與腕隧道症候群無關",
     "tags": [
       "110-2-5",
       "骨科"
@@ -968,7 +968,7 @@
       "D": "腔室內壓力正常值應低於10毫米汞柱,若超過30毫米汞柱以上就要懷疑有腔室症候群"
     },
     "answer": "B",
-    "explanation": "橫紋肌溶解症（rhabdomyolysis）的治療核心是大量補液以維持腎臟灌流、預防急性腎衰竭，與限水的原則完全相反。<br>(A) 正確，臨床上有腔室症候群（compartment syndrome）徵象時，應立即進行筋膜切開術（fasciotomy），不需等腔室壓力測量結果，以免延誤造成不可逆肌肉壞死<br>(B) 錯誤，橫紋肌溶解症（rhabdomyolysis）時，肌紅素（myoglobin）大量釋放，沉積於腎小管可造成急性腎衰竭（acute kidney injury），治療原則是**大量靜脈補液（aggressive IV fluid resuscitation）**以維持足夠尿量（>200 mL/hr），絕對不應限制水分；限水反而會加重腎損傷<br>(C) 正確，腔室症候群的5P徵象為：<br>· Pain（疼痛，最早且最重要）<br>· Paresthesia（感覺異常）<br>· Paralysis（麻痺）<br>· Pallor（蒼白）<br>· Pulselessness（脈搏消失，為晚期表現）<br>(D) 正確，腔室內壓力正常值低於10 mmHg，超過30 mmHg需懷疑腔室症候群；當腔室壓力與舒張壓差距（delta pressure）小於30 mmHg時，更應積極手術",
+    "explanation": "橫紋肌溶解症（rhabdomyolysis）的治療核心是大量補液以維持腎臟灌流、預防急性腎衰竭，與限水的原則完全相反。<br>(A) 正確，臨床上有腔室症候群（compartment syndrome）徵象時，應立即進行筋膜切開術（fasciotomy），不需等腔室壓力測量結果，以免延誤造成不可逆肌肉壞死<br>(B) 錯誤，橫紋肌溶解症（rhabdomyolysis）時，肌紅素（myoglobin）大量釋放，沉積於腎小管可造成急性腎衰竭（acute kidney injury），治療原則是大量靜脈補液（aggressive IV fluid resuscitation）以維持足夠尿量（>200 mL/hr），絕對不應限制水分；限水反而會加重腎損傷<br>(C) 正確，腔室症候群的5P徵象為：<br>· Pain（疼痛，最早且最重要）<br>· Paresthesia（感覺異常）<br>· Paralysis（麻痺）<br>· Pallor（蒼白）<br>· Pulselessness（脈搏消失，為晚期表現）<br>(D) 正確，腔室內壓力正常值低於10 mmHg，超過30 mmHg需懷疑腔室症候群；當腔室壓力與舒張壓差距（delta pressure）小於30 mmHg時，更應積極手術",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1002,7 +1002,7 @@
       "D": "Kim test用來檢查posterior instability"
     },
     "answer": "D",
-    "explanation": "肩關節不穩定的理學檢查有多種，各針對不同方向的不穩定，需正確對應檢查名稱與其所評估的方向。<br>(A) 錯誤，Jankle test（Jahnke test）並非標準的肩關節不穩定檢查名稱；前方不穩定（anterior instability）的標準檢查為apprehension test（憂慮測試）及relocation test<br>(B) 錯誤，apprehension test（憂慮測試）是用來檢查前方不穩定（anterior instability），讓肩關節外展外旋時若患者出現不安感或疼痛即為陽性，而非後方不穩定<br>(C) 錯誤，溝槽測試（sulcus test）是用來檢查下方不穩定（inferior instability），向下牽引上肢若肩峰下出現凹溝即為陽性，而非前方不穩定<br>(D) 正確，金氏測試（Kim test）讓患者坐姿外展90度，施加後下方壓力與軸向負荷，若誘發後方疼痛或不穩定感即為陽性，是診斷**後方不穩定（posterior instability）**的有效檢查",
+    "explanation": "肩關節不穩定的理學檢查有多種，各針對不同方向的不穩定，需正確對應檢查名稱與其所評估的方向。<br>(A) 錯誤，Jankle test（Jahnke test）並非標準的肩關節不穩定檢查名稱；前方不穩定（anterior instability）的標準檢查為apprehension test（憂慮測試）及relocation test<br>(B) 錯誤，apprehension test（憂慮測試）是用來檢查前方不穩定（anterior instability），讓肩關節外展外旋時若患者出現不安感或疼痛即為陽性，而非後方不穩定<br>(C) 錯誤，溝槽測試（sulcus test）是用來檢查下方不穩定（inferior instability），向下牽引上肢若肩峰下出現凹溝即為陽性，而非前方不穩定<br>(D) 正確，金氏測試（Kim test）讓患者坐姿外展90度，施加後下方壓力與軸向負荷，若誘發後方疼痛或不穩定感即為陽性，是診斷後方不穩定（posterior instability）的有效檢查",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1019,7 +1019,7 @@
       "D": "後外側"
     },
     "answer": "B",
-    "explanation": "先天性脛骨假關節（congenital pseudarthrosis of the tibia, CPT）與第一型神經纖維瘤病（NF-1）高度相關，其彎曲方向是診斷與預後的重要特徵。<br>(A) 錯誤，前內側彎曲（anteromedial bowing）通常為良性，與腓骨發育不全（fibular hemimelia）相關，不易骨折，多數可自然改善<br>(B) 正確，**前外側彎曲（anterolateral bowing）**是先天性脛骨假關節最典型的彎曲方向，與NF-1高度相關，骨質異常脆弱，容易在輕微外力下發生骨折並導致假關節（骨折不癒合），是治療最困難的先天性骨骼疾病之一<br>(C) 錯誤，後內側彎曲（posteromedial bowing）通常與鈣缺失性骨骼發育不良（calcaneovalgus deformity）相關，預後良好，大多可自然矯正，不易造成假關節<br>(D) 錯誤，後外側彎曲（posterolateral bowing）不是先天性脛骨假關節的典型方向，臨床上較少見",
+    "explanation": "先天性脛骨假關節（congenital pseudarthrosis of the tibia, CPT）與第一型神經纖維瘤病（NF-1）高度相關，其彎曲方向是診斷與預後的重要特徵。<br>(A) 錯誤，前內側彎曲（anteromedial bowing）通常為良性，與腓骨發育不全（fibular hemimelia）相關，不易骨折，多數可自然改善<br>(B) 正確，前外側彎曲（anterolateral bowing）是先天性脛骨假關節最典型的彎曲方向，與NF-1高度相關，骨質異常脆弱，容易在輕微外力下發生骨折並導致假關節（骨折不癒合），是治療最困難的先天性骨骼疾病之一<br>(C) 錯誤，後內側彎曲（posteromedial bowing）通常與鈣缺失性骨骼發育不良（calcaneovalgus deformity）相關，預後良好，大多可自然矯正，不易造成假關節<br>(D) 錯誤，後外側彎曲（posterolateral bowing）不是先天性脛骨假關節的典型方向，臨床上較少見",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1053,7 +1053,7 @@
       "D": "伸拇趾長肌"
     },
     "answer": "D",
-    "explanation": "腰椎各節神經根對應的肌肉與動作是神經學檢查的基礎，各節神經根的支配範圍需正確記憶，不可混淆L5與S1的支配差異。<br>(A) 正確，股四頭肌（quadriceps）主要由L3、L4神經根支配，負責膝關節伸展（knee extension），深腱反射（膝反射）也反映L4功能<br>(B) 正確，脛骨前肌（tibialis anterior）由L4、L5神經根支配，負責踝關節背屈（ankle dorsiflexion）<br>(C) 正確，腓骨長/短肌（peroneus longus/brevis）由L5、S1神經根支配，負責踝關節外翻（ankle eversion）<br>(D) 錯誤，伸拇趾長肌（extensor hallucis longus, EHL）主要由L5神經根支配，而非S1；大拇趾伸展（great toe extension）的動作正確，但支配神經根敘述有誤。S1神經根主要反映在**腓腸肌（gastrocnemius）及比目魚肌（soleus）的踝關節蹠屈（plantar flexion）**以及跟腱反射（ankle reflex）",
+    "explanation": "腰椎各節神經根對應的肌肉與動作是神經學檢查的基礎，各節神經根的支配範圍需正確記憶，不可混淆L5與S1的支配差異。<br>(A) 正確，股四頭肌（quadriceps）主要由L3、L4神經根支配，負責膝關節伸展（knee extension），深腱反射（膝反射）也反映L4功能<br>(B) 正確，脛骨前肌（tibialis anterior）由L4、L5神經根支配，負責踝關節背屈（ankle dorsiflexion）<br>(C) 正確，腓骨長/短肌（peroneus longus/brevis）由L5、S1神經根支配，負責踝關節外翻（ankle eversion）<br>(D) 錯誤，伸拇趾長肌（extensor hallucis longus, EHL）主要由L5神經根支配，而非S1；大拇趾伸展（great toe extension）的動作正確，但支配神經根敘述有誤。S1神經根主要反映在腓腸肌（gastrocnemius）及比目魚肌（soleus）的踝關節蹠屈（plantar flexion）以及跟腱反射（ankle reflex）",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1172,7 +1172,7 @@
       "D": "因濫用止痛藥引起的腎臟乳突壞死"
     },
     "answer": "A",
-    "explanation": "持續性菌尿症（unresolved bacteriuria）是指抗生素療程結束後菌尿症未消除，需與治療後復發（relapse）及再感染（reinfection）區別；其最常見的原因是藥物選擇不當或細菌本身具有抗藥性。<br>(A) 正確，**細菌對所用抗生素具有抗藥性（resistance）**是Unresolved bacteriuria最常見的原因，細菌未被有效殺滅，尿液培養持續陽性；這強調了治療前進行尿液培養及藥物敏感性試驗（culture and sensitivity）的重要性<br>(B) 錯誤，兩種致病菌同時感染且抗生素感受性不同確實可能造成unresolved bacteriuria，但此情況相對少見，並非最常見原因<br>(C) 錯誤，氮血症（azotemia）本身是腎功能不全的表現，可能影響抗生素的藥物動力學，但並非unresolved bacteriuria的最常見直接原因<br>(D) 錯誤，止痛藥引起的腎乳突壞死（papillary necrosis）可造成壞死組織中細菌持續存在，是unresolved bacteriuria的少見原因之一，並非最常見",
+    "explanation": "持續性菌尿症（unresolved bacteriuria）是指抗生素療程結束後菌尿症未消除，需與治療後復發（relapse）及再感染（reinfection）區別；其最常見的原因是藥物選擇不當或細菌本身具有抗藥性。<br>(A) 正確，細菌對所用抗生素具有抗藥性（resistance）是Unresolved bacteriuria最常見的原因，細菌未被有效殺滅，尿液培養持續陽性；這強調了治療前進行尿液培養及藥物敏感性試驗（culture and sensitivity）的重要性<br>(B) 錯誤，兩種致病菌同時感染且抗生素感受性不同確實可能造成unresolved bacteriuria，但此情況相對少見，並非最常見原因<br>(C) 錯誤，氮血症（azotemia）本身是腎功能不全的表現，可能影響抗生素的藥物動力學，但並非unresolved bacteriuria的最常見直接原因<br>(D) 錯誤，止痛藥引起的腎乳突壞死（papillary necrosis）可造成壞死組織中細菌持續存在，是unresolved bacteriuria的少見原因之一，並非最常見",
     "tags": [
       "110-2-5",
       "泌尿外科"
