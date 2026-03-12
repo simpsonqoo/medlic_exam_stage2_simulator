@@ -932,7 +932,7 @@
       "D": "在排卵時，初級卵母細胞（primary oocyte）會完成兩次減數分裂，成為卵子（ovum）"
     },
     "answer": "A",
-    "explanation": "女性生殖細胞的發育是複杂的過程，與男性有重大差異。<br>(A) 正確，女性生殖細胞發育的時程如下：<br>· 胚胎3-4週：原始生殖細胞（primordial germ cells）從卵黃囊遷移至生殖嶺<br>· 胚胎8-20週：卵原細胞（oogonia）進行有絲分裂，數量增加至600-700萬<br>· 胚胎20週至出生：卵原細胞進入減數分裂第一次分裂前期（meiosis I prophase）並停滯在雙線期（diplotene stage），成為初級卵母細胞（primary oocytes）<br>· 出生時：已無卵原細胞，全部成為初級卵母細胞（約100-200萬個），並停滯在減數分裂第一次分裂前期，直到青春期排卵前才恢復<br>(B) 錯誤，初級卵母細胞與顆粒細胞組合成原始濾泡（primordial follicle）的時間是在「胎兒期」（約懷孕20週至出生），而非懷孕18-20週時組成初級濾泡（primary follicle）。Primary follicle是指原始濾泡受刺激後，顆粒細胞變為立方狀的階段<br>(C) 錯誤，原始濾泡（primordial follicle）受FSH刺激後發育的過程是連續的：primordial → primary → secondary（antral） → Graafian（preovulatory） follicle。Primary follicle的特徵是單層立方狀顆粒細胞，secondary follicle是有antrum（液體腔）的濾泡。這個過程在每個月經週期都在進行，不僅限於青春期<br>(D) 錯誤，排卵時，初級卵母細胞「僅完成第一次減數分裂」，成為次級卵母細胞（secondary oocyte）和第一極體（first polar body），然後立即進入減數分裂第二次分裂並停滯在中期（metaphase II）。只有在受精（fertilization）時，才完成第二次減數分裂，成為成熟卵子（ovum）和第二極體",
+    "explanation": "本題的解題關鍵在於熟悉人類女性「卵子發生（oogenesis）」與「濾泡生成（folliculogenesis）」的發育時間軸。解題思路需精準比對胚胎期、青春期至排卵等不同人生階段中，細胞分裂狀態、濾泡形態變化以及荷爾蒙的作用對象。 <br>(A) 正確，在女嬰出生之前，卵巢中所有的卵原細胞（oogonium）皆已開始第一次減數分裂並停滯於前期，全部轉變為初級卵母細胞（primary oocyte）。 <br>(B) 錯誤，在懷孕中後期，初級卵母細胞（primary oocyte）是與單層扁平的濾泡細胞結合成「原始濾泡（primordial follicle）」，由立方顆粒細胞（granulosa cell）包圍的初級濾泡（primary follicle）是在青春期後才開始發育形成的。 <br>(C) 錯誤，初級濾泡（primary follicle）發育成二級濾泡（secondary follicle）的過程屬於局部因子調控，不依賴荷爾蒙，濾泡刺激素（follicle-stimulating hormone, FSH）主要是刺激二級濾泡進一步發育成成熟濾泡（mature follicle）。 <br>(D) 錯誤，在排卵時，初級卵母細胞（primary oocyte）僅完成「第一次」減數分裂成為二級卵母細胞（secondary oocyte），必須等到精子進入進行受精（fertilization）時，才會完成「第二次」減數分裂並成為真正的卵子（ovum）。",
     "tags": [
       "112-2-6",
       "婦產科"
