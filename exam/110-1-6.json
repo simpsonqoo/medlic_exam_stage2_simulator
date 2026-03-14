@@ -955,6 +955,9 @@
     "images": [
           "./exam/image/110-1-6-56.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/110-1-6-56e.jpg"
+    ],
     "group_id": "group_11775"
   },
   {
