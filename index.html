@@ -1733,15 +1733,17 @@
     // 答案比較函數 - 支援單選和多選
     function isAnswerCorrect(userAnswer, correctAnswer) {
       if (!userAnswer) return false;
-      
-      // 處理正確答案格式
+
+      // 處理正確答案格式（含逗號分隔的多選答案如 "A,C"）
       let correctAnswers = [];
       if (Array.isArray(correctAnswer)) {
         correctAnswers = correctAnswer;
+      } else if (typeof correctAnswer === 'string' && correctAnswer.includes(',')) {
+        correctAnswers = correctAnswer.split(',').map(s => s.trim());
       } else {
         correctAnswers = [correctAnswer];
       }
-      
+
       // 檢查用戶答案是否在正確答案列表中
       return correctAnswers.includes(userAnswer);
     }
