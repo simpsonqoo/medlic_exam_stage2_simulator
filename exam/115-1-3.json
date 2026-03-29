@@ -8,7 +8,7 @@
       "C": "Venerable Elder Survey 13 工具，≧3 分即為衰弱",
       "D": "Strawbridge 等人 1994 年設計的 Frailty Measure，problem/difficulties in≧2 domains 即為衰弱"
     },
-    "answer": "A",
+    "answer": "A,C",
     "explanation": "衰弱（frailty）的評估工具各有不同的判斷標準，Linda Fried的Physical Frailty Index（表型評估）門檻設定是關鍵考點。<br>(A) 錯誤，Linda Fried的Physical Frailty Index共有5項指標（體重下降、疲憊感、握力低下、步行速度慢、低活動量），符合≧3項才定義為衰弱（frailty），符合1～2項為衰弱前期（pre-frailty），≧1分即為衰弱的說法是錯誤的<br>(B) 正確，Kenneth Rockwood的累積缺損衰弱指數（Cumulative Deficit Frailty Index）以「有缺損的面向數／評估的面向總數」計算，得到0到1之間的分數，評估面向涵蓋廣泛<br>(C) 正確，老年人評估問卷（Vulnerable Elders Survey-13，VES-13）以≧3分作為衰弱的切點<br>(D) 正確，Strawbridge等人1998年設計的Frailty Measure以≧2個領域出現問題或困難作為衰弱的判斷標準",
     "tags": [
       "115-1-3",
@@ -127,7 +127,7 @@
       "C": "無可確認的靜脈血栓栓塞危險因子（no identifiable risk factor of venous thromboembolism）",
       "D": "外傷（trauma）"
     },
-    "answer": "D",
+    "answer": "C,D",
     "explanation": "靜脈血栓栓塞症（venous thromboembolism，VTE）停用抗凝血藥物後的再發風險，取決於初始血栓的誘發因子是否可逆或持續存在。<br>(A) 錯誤，活動性癌症（active cancer）屬於持續性強烈危險因子，停藥後再發風險極高，通常需要長期甚至無限期抗凝治療<br>(B) 錯誤，長途飛行（long-haul flight）雖然是暫時性的誘發因子，但屬於可重複發生的輕度誘發因素，停藥後仍有一定再發風險<br>(C) 錯誤，無可確認誘發因子（unprovoked VTE）的病人停藥後再發風險反而高於有明確誘發因子者，需考慮長期抗凝治療<br>(D) 正確，外傷（trauma）是明確的暫時性強誘發因子，危險因子去除後再發風險最低，完成療程後通常可安全停藥",
     "tags": [
       "115-1-3",

@@ -94,9 +94,10 @@
       "A": "接受 central shunt 人工分流管術後",
       "B": "冠狀動脈竇破裂到右心室（ruptured sinus of Valsalva aneurysm to right ventricle）",
       "C": "大型的主動脈到肺動脈側枝血管（major aortopulmonary collateral arteries, MAPCAs）",
-      "D": "肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）"
+      "D": "肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）",
+      "E": "一律給分"
     },
-    "answer": "D",
+    "answer": "E",
     "explanation": "連續性雜音（continuous murmur）需有貫穿收縮期與舒張期的持續壓力差，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula，PAVF）兩端壓力差不顯著，不會產生連續性雜音。<br>(A) 錯誤（會有連續性雜音），中央分流管（central shunt）造成主動脈與肺動脈間持續壓力差，會產生連續性雜音<br>(B) 錯誤（會有連續性雜音），冠狀動脈竇破裂至右心室（ruptured sinus of Valsalva aneurysm to right ventricle）因兩側持續壓力差而產生連續性雜音<br>(C) 錯誤（會有連續性雜音），大型主動脈至肺動脈側枝血管（major aortopulmonary collateral arteries，MAPCAs）因持續壓力差而產生連續性雜音<br>(D) 正確，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）兩端均為低壓系統，壓力差不足以維持連續性雜音，通常聽到的是收縮期雜音或無明顯雜音",
     "tags": [
       "115-1-4",
@@ -145,9 +146,10 @@
       "A": "CDla：positive",
       "B": "Birbeck granule：positive",
       "C": "hemophagocytic histiocyte：positive",
-      "D": "eosinophilic granuloma"
+      "D": "eosinophilic granuloma",
+      "E": "一律給分"
     },
-    "answer": "C",
+    "answer": "E",
     "explanation": "朗格漢斯細胞組織細胞增生症（Langerhans cell histiocytosis，LCH）的特色來自朗格漢斯細胞（Langerhans cell）本身的標記，嗜血性組織細胞（hemophagocytic histiocyte）是嗜血性淋巴組織細胞增生症（hemophagocytic lymphohistiocytosis，HLH）的特徵，不屬於LCH。<br>(A) 錯誤（確實是LCH特色），CD1a陽性是朗格漢斯細胞的特徵性表面標記<br>(B) 錯誤（確實是LCH特色），Birbeck顆粒（Birbeck granule）是電子顯微鏡下朗格漢斯細胞的特徵性構造<br>(C) 正確，嗜血性組織細胞（hemophagocytic histiocyte）是HLH的特徵，不是LCH的特色<br>(D) 錯誤（確實是LCH特色），嗜酸性肉芽腫（eosinophilic granuloma）是LCH骨骼病變的一種表現型",
     "tags": [
       "115-1-4",
@@ -848,9 +850,10 @@
       "A": "形容如何寄一封信的步驟",
       "B": "示範刷牙時如何拿牙刷",
       "C": "模仿檢查者使用槌子",
-      "D": "用剪刀剪出一直線"
+      "D": "用剪刀剪出一直線",
+      "E": "一律給分"
     },
-    "answer": "A",
+    "answer": "E",
     "explanation": "意想運動性失用症（ideomotor apraxia）是指患者無法依命令或模仿執行已知的動作，但仍保有語言概念理解及描述動作步驟的能力，因為概念（ideation）與動作執行（motor execution）是分開的功能。<br>(A) 正確，形容如何寄一封信的步驟屬於語言描述（verbal description of ideation），不需要實際執行動作，意想運動性失用症（ideomotor apraxia）患者概念系統完整，可以口頭說明步驟<br>(B) 錯誤，示範刷牙時如何拿牙刷（pantomiming tool use）需要實際執行動作序列，意想運動性失用症患者無法完成此項測試<br>(C) 錯誤，模仿檢查者使用槌子（imitation of tool use）同樣需要執行動作，意想運動性失用症患者的模仿能力也受損<br>(D) 錯誤，用剪刀剪出一直線（actual tool use）屬於實際操作，意想運動性失用症患者執行實際工具使用時也可能有困難（雖然較輕微），且此選項需要雙手協調，非最適合的可執行項目",
     "tags": [
       "115-1-4",

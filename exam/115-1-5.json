@@ -654,7 +654,7 @@
       "C": "單獨外科、化學或放射治療皆無法延長存活",
       "D": "肋膜外全肺切除包括切除肺、臟層、壁層肋膜、心包膜與橫膈"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "惡性肋膜間質細胞瘤（malignant pleural mesothelioma）的治療策略及外科角色是本題核心，需正確理解外科介入的目的與範圍。<br>(A) 正確，惡性肋膜間質細胞瘤與石綿（asbestos）暴露高度相關，潛伏期可長達 20 至 50 年，好發於 40 歲以上男性<br>(B) 錯誤，外科在惡性肋膜間質細胞瘤中的角色不只是切片診斷及姑息性肋膜沾黏（pleurodesis），在特定可手術病人中，肋膜外全肺切除術（extrapleural pneumonectomy，EPP）或肋膜切除術（pleurectomy/decortication）可作為多模式治療的一部分<br>(C) 正確，單獨使用外科、化學治療（chemotherapy）或放射治療（radiotherapy）均無法顯著延長存活，需採用多模式療法（multimodal therapy）<br>(D) 正確，肋膜外全肺切除術（EPP）包含切除同側肺臟、臟層肋膜（visceral pleura）、壁層肋膜（parietal pleura）、心包膜（pericardium）與橫膈（diaphragm）",
     "tags": [
       "115-1-5",
@@ -873,9 +873,10 @@
       "A": "甲狀舌骨瘻管（thyroglossal duct fistula）",
       "B": "第一對鰓裂瘻管（1st branchial fistula）",
       "C": "第二對鰓裂瘻管（2nd branchial fistula）",
-      "D": "梨狀竇瘻管（pyriform sinus fistula）"
+      "D": "梨狀竇瘻管（pyriform sinus fistula）",
+      "E": "一律給分"
     },
-    "answer": "C",
+    "answer": "E",
     "explanation": "頸部瘻管（cervical fistula）的手術特性需對應其胚胎起源，第二對鰓裂瘻管（2nd branchial fistula）的典型走行路徑與本題手術描述最為吻合。<br>(A) 錯誤，甲狀舌骨瘻管（thyroglossal duct fistula）位於頸部正中線，開口於甲狀軟骨（thyroid cartilage）前方，而非側頸部，且走行路徑經過舌骨（hyoid bone）<br>(B) 錯誤，第一對鰓裂瘻管（1st branchial fistula）位於耳垂至下頷角（mandibular angle）附近，開口位置較高，且走行與顏面神經（facial nerve）關係密切<br>(C) 正確，第二對鰓裂瘻管（2nd branchial fistula）典型外開口位於胸鎖乳突肌（sternocleidomastoid muscle）前緣下 1/3，走行向上穿過頸動脈鞘（carotid sheath）至扁桃體窩（tonsillar fossa），需分兩個切口分段追蹤分離，與題目描述吻合<br>(D) 錯誤，梨狀竇瘻管（pyriform sinus fistula）開口通常位於梨狀竇（pyriform sinus），常伴隨反覆左側頸部化膿性甲狀腺炎（suppurative thyroiditis），走行路徑與本題不符",
     "tags": [
       "115-1-5",
@@ -1102,7 +1103,7 @@
       "C": "type IIF 腎臟囊泡有 18%以上惡性腫瘤機率",
       "D": "type IV 腎臟囊泡有 90%以上惡性腫瘤機率"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "Bosniak 分類系統（Bosniak classification）依據腎臟囊泡（renal cyst）的影像特徵評估惡性風險，各型別的惡性腫瘤機率需正確記憶。<br>(A) 正確，Bosniak Type I 為單純囊泡（simple cyst），具平滑內壁、含清澈液體，無分隔或鈣化，惡性機率幾乎為零<br>(B) 錯誤，Bosniak Type II 為輕微複雜囊泡，有少量細分隔或細小鈣化，惡性機率極低，約小於 5% 而非 33%；惡性機率約 33% 的是 Bosniak Type IIF 至 Type III 之間的病灶<br>(C) 正確，Bosniak Type IIF 需追蹤觀察，惡性腫瘤機率約 18 至 25%<br>(D) 正確，Bosniak Type IV 有強化的實質成分（enhancing solid component），惡性機率超過 90%，建議手術切除",
     "tags": [
       "115-1-5",

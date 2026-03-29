@@ -25,7 +25,7 @@
       "C": "術中發生的 myocardial ischemia 大多可以清楚定位缺血區域",
       "D": "對缺血敏感度最高的 lead 是 V5，次之則是 V4"
     },
-    "answer": "C",
+    "answer": "A,C",
     "explanation": "術中心電圖（ECG）監測心肌缺血（myocardial ischemia）時，定位能力受限於導程（lead）數目，並非像完整 12 導程 ECG 那樣可清楚定位。<br>(A) 正確，ST segment 代表心室再極化（ventricular repolarization），對心肌缺血最敏感<br>(B) 正確，術中心肌缺血最常表現為 ST segment 壓低（depression）<br>(C) 錯誤，術中監測導程有限，大多無法清楚定位缺血區域<br>(D) 正確，對缺血敏感度最高的導程為 V5，其次為 V4",
     "tags": [
       "115-1-6",
@@ -144,7 +144,7 @@
       "C": "使用抑制血管收縮素轉化酶（angiotensin converting enzyme）的抗高血壓藥物",
       "D": "使用低劑量硝化甘油輸注（nitroglycerin infusion）"
     },
-    "answer": "D",
+    "answer": "B,C,D",
     "explanation": "腎前性氮血症（prerenal azotemia）的核心機制是腎臟灌流不足，需辨別哪些藥物是直接作用在腎血管造成此結果，哪些不是。<br>(A) 錯誤，Norepinephrine、vasopressin 等血管收縮藥物（vasoconstrictors）可直接收縮腎血管，造成腎臟低灌流<br>(B) 錯誤，Ketorolac 等非類固醇抗發炎藥（NSAIDs）抑制環氧酶（cyclooxygenase），減少前列腺素（prostaglandin）合成，前列腺素原本有擴張腎入球小動脈的保護作用，抑制後可導致腎臟灌流下降<br>(C) 錯誤，血管收縮素轉化酶抑制劑（ACE inhibitors）會擴張出球小動脈（efferent arteriole），降低腎絲球過濾壓，在腎臟低灌流狀態下可加重腎功能惡化<br>(D) 正確，低劑量硝化甘油（nitroglycerin）主要作用於靜脈系統（venodilation），不直接作用在腎血管造成腎臟低灌流",
     "tags": [
       "115-1-6",
@@ -195,7 +195,7 @@
       "C": "角膜占整體眼球屈光度的 1/3",
       "D": "角膜的鮑曼氏層（Bowman layer）是上皮細胞的基質層（basement membrane）"
     },
-    "answer": "C",
+    "answer": "C,D",
     "explanation": "眼球整體屈光系統（refractive system）由角膜與水晶體共同構成，了解各自貢獻比例是解題關鍵。<br>(A) 正確，角膜（cornea）為透明無血管組織，其透明性依賴角膜內皮細胞的去水腫功能<br>(B) 正確，結膜（conjunctiva）含有豐富血管，充血時可見明顯紅眼<br>(C) 錯誤，角膜約占整體眼球屈光度的 2/3（約 40-44 屈光度，佔總屈光力約 65-70%），而非 1/3<br>(D) 正確，角膜的鮑曼氏層（Bowman layer）位於上皮細胞下方，是上皮細胞的基底膜層（basement membrane）",
     "tags": [
       "115-1-6",
@@ -453,7 +453,7 @@
       "C": "術前給與病人抗甲狀腺藥物及碘液（Lugol's iodine）可以降低甲狀腺血流，減少手術過程中出血的風險",
       "D": "凸眼（exophthalmos）症狀在甲狀腺手術後仍無法有效改善"
     },
-    "answer": "B",
+    "answer": "A,B",
     "explanation": "Graves disease 的手術適應症及切除範圍在學界有所演進，目前建議術式是解題關鍵。<br>(A) 正確，Graves disease 的致病機轉主要是 T 淋巴球及 B 淋巴球產生甲促素受器抗體（TSH receptor antibody，TRAb），持續刺激甲狀腺過度分泌<br>(B) 錯誤，Graves disease 建議的手術方式為近全甲狀腺切除（near-total thyroidectomy），保留極少量甲狀腺組織以降低喉返神經及副甲狀腺（parathyroid gland）損傷風險，**全甲狀腺切除（total thyroidectomy）**雖也可選擇但需視情況而定，直接說「建議全切」過於絕對<br>(C) 正確，術前給予抗甲狀腺藥物（antithyroid drugs）及 Lugol's iodine 可使甲狀腺縮小、血流減少，降低術中出血風險<br>(D) 正確，Graves 凸眼（exophthalmos）是由眼窩後組織的自體免疫炎症所致，與甲狀腺本身關係有限，甲狀腺手術後凸眼症狀通常無法有效改善",
     "tags": [
       "115-1-6",
