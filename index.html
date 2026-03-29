@@ -1756,6 +1756,8 @@
     function formatCorrectAnswer(answer, options) {
       if (Array.isArray(answer)) {
         return '\n' + answer.map(a => a + '. ' + options[a]).join('\n');
+      } else if (typeof answer === 'string' && answer.includes(',')) {
+        return '\n' + answer.split(',').map(a => a.trim() + '. ' + options[a.trim()]).join('\n');
       } else {
         return '\n' + answer + '. ' + options[answer];
       }
