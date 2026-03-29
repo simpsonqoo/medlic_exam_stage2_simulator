@@ -1467,6 +1467,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all3" onchange="handleSelectAll('year3')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-3">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-3">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-3">114-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-3">113-2</div><br>
@@ -1532,6 +1533,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all4" onchange="handleSelectAll('year4')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-4">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-4">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-4">114-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-4">113-2</div><br>
@@ -1579,6 +1581,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all5" onchange="handleSelectAll('year5')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-5">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-5">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-5">114-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-5">113-2</div><br>
@@ -1662,6 +1665,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all6" onchange="handleSelectAll('year6')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-6">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-6">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-6">114-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="113-2-6">113-2</div><br>
@@ -2191,13 +2195,14 @@
     // 定義已知的年份和科目標籤
     const yearTags = ["114-2(一)", "114-1(一)", "113-2(一)", "113-1(一)", "112-2(一)", "112-1(一)", "111-2(一)", "111-1(一)", "110-2(一)", "110-1(一)", "109-2(一)", "109-1(一)", "108-2(一)", "108-1(一)", "107-2(一)", "107-1(一)", "106-2(一)", "106-1(一)", "105-2(一)", "105-1(一)", "104-2(一)", "104-1(一)", "114-2(二)", "114-1(二)", "113-2(二)", "113-1(二)", "112-2(二)", "112-1(二)", "111-2(二)", "111-1(二)", "110-2(二)", "110-1(二)", "109-2(二)", "109-1(二)", "108-2(二)", "108-1(二)", "107-2(二)", "107-1(二)", "106-2(二)", "106-1(二)", "105-2(二)", "105-1(二)", "104-2(二)", "104-1(二)"];
     const subjectTags = [
-      // 醫學(三)和醫學(四)的科目
-      "心臟內科", "胸腔內科", "腸胃內科", "肝膽內科", "新陳代謝科", "腎臟內科", "感染科", "風濕免疫科", "血液科", "腫瘤科", "家醫科", "小兒科", "皮膚科", "精神科", "神經內科",
+      // 醫學(三)的科目
+      "心臟內科", "胸腔內科", "腸胃內科", "肝膽內科", "新陳代謝科", "腎臟內科", "感染科", "風濕免疫科", "血液科", "腫瘤科", "家醫科", 
+      // 醫學(四)的科目
+      "小兒科", "皮膚科", "精神科", "神經內科",
       // 醫學(五)的科目
       "外科概論", "神經外科", "心臟外科", "大腸直腸外科", "內分泌外科", "整形外科", "胃外科", "小腸外科", "肝臟外科", "膽道外科", "胰臟外科", "乳房外科", "胸腔外科", "小兒外科", "泌尿外科", "骨科",
       // 醫學(六)的科目
-      "婦產科", "眼科", "復健科", "麻醉科", "耳鼻喉科",
-      "醫學倫理"
+      "婦產科", "眼科", "復健科", "麻醉科", "耳鼻喉科", "醫學倫理"
     ];
 
     // 添加鍵盤事件監聽器
@@ -3799,6 +3804,15 @@
     // 生成年度列表
     function generateYearList() {
       const years = [];
+      // 115年
+      years.push({
+        year: 115,
+        term: 1,
+        medicine3: "115-1(三)",
+        medicine4: "115-1(四)",
+        medicine5: "115-1(五)",
+        medicine6: "115-1(六)"
+      });
       // 114年
       years.push({
         year: 114,
@@ -3837,7 +3851,7 @@
         });
       }
       
-      return years; // 10份考卷（114-2 到 110-1）
+      return years; // 11份考卷（115-1 到 110-1）
     }
 
     // 更新視覺化按鈕狀態
