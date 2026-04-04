@@ -712,7 +712,7 @@
       "D": "圖(b)在超音波若看不到，即可不必安排mammography-guided biopsy"
     },
     "answer": "D",
-    "explanation": "此題考核乳房攝影（mammography）影像的 BI-RADS 分類判讀，以及不同鈣化型態的臨床處置原則，核心在於「mammography 獨立可見的異常病灶，超音波陰性不能作為免除切片的理由」。<br>(A) 正確，粗大鈣化（coarse calcification）通常代表良性病灶（如纖維腺瘤退化性鈣化），歸類為 BI-RADS category 2（良性），建議定期追蹤即可，無需切片。<br>(B) 正確，線狀微鈣化（linear microcalcifications）型態高度懷疑惡性（可能代表導管內癌，ductal carcinoma in situ, DCIS 的鈣化沉積），應歸類為 BI-RADS category 4（可疑惡性），需安排組織切片。<br>(C) 正確，圖(a)的粗大鈣化已判讀為 BI-RADS category 2 良性，超音波若看不到對應病灶，確實無需安排乳房攝影導引切片（mammography-guided biopsy）。<br>(D) 錯誤，圖(b)的線狀微鈣化為 BI-RADS category 4 可疑惡性病灶，這類鈣化在超音波下常常看不到（因微鈣化本為乳房攝影的優勢偵測範圍）。即使超音波陰性，仍必須安排乳房攝影導引穿刺切片（mammography-guided stereotactic biopsy），不能因為超音波看不到就省略切片，否則可能延誤 DCIS 或早期乳癌的診斷。",
+    "explanation": "這題的解題關鍵在於辨識乳房攝影（mammography）中不同型態的鈣化特徵，並結合乳房影像報告與資料分析系統（BI-RADS）的分類來決定後續處置。判斷原則為：典型良性的粗大鈣化無需後續處置，而具高度惡性嫌疑的微小鈣化若無法透過超音波定位，則必須依賴乳房攝影導引來完成切片化驗。<br> (A) 正確，圖(a)呈現如同爆米花般的粗大鈣化（coarse calcification），通常為退化中的良性纖維腺瘤表現，屬於良性發現的乳房影像報告與資料分析系統第2級（BI-RADS category 2）。<br> (B) 正確，圖(b)顯示出細小、分支的線狀微小鈣化（linear microcalcifications），這類鈣化具有高度原位癌等惡性腫瘤的嫌疑，屬於需要進行組織化驗的乳房影像報告與資料分析系統第4級（BI-RADS category 4）或第5級。<br> (C) 正確，因為圖(a)是明確的良性粗大鈣化（coarse calcification），不具備惡性風險，所以無論超音波（ultrasound）是否能看見對應病灶，原本就不必安排任何乳房攝影導引切片（mammography-guided biopsy）。<br> (D) 錯誤，圖(b)的線狀微小鈣化（linear microcalcifications）為高度懷疑惡性的病灶，若在超音波（ultrasound）下看不到，反而必須安排乳房攝影導引切片（mammography-guided biopsy）或立體定位切片（stereotactic biopsy）以取得組織排除惡性腫瘤；只有在超音波能清楚看到對應腫塊時，才可以改安排超音波導引切片。",
     "tags": [
       "112-1-5",
       "乳房外科"
