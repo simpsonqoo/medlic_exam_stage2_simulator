@@ -3057,6 +3057,24 @@
       };
     }
 
+    function getQuestionGroupId(i) {
+      return quiz[i].group_id || `single_${quiz[i].id}`;
+    }
+
+    function isLastInGroup(i) {
+      const currentGroup = getQuestionGroupId(i);
+      return i >= quiz.length - 1 || getQuestionGroupId(i + 1) !== currentGroup;
+    }
+
+    function isGroupCompleted(i) {
+      const currentGroup = getQuestionGroupId(i);
+      let lastIdx = i;
+      while (lastIdx + 1 < quiz.length && getQuestionGroupId(lastIdx + 1) === currentGroup) {
+        lastIdx++;
+      }
+      return quiz[lastIdx].userAnswer !== undefined;
+    }
+
     function showQuestion(i) {
       const quizDiv = document.getElementById('quiz');
       quizDiv.innerHTML = '';
@@ -3078,10 +3096,10 @@
         <h3>第 ${i + 1} 題</h3>
         <p>${q.question}</p>
         ${q.images ? generateImageHTML(q.images) : ''}
-        ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}" ${isAnswered && q.userAnswer === key ? 'checked' : ''} ${isAnswered ? 'disabled' : ''}> ${key}. ${value}</label><br>`).join('')}
+        ${Object.entries(q.options).map(([key, value]) => `<label><input type="radio" name="q${i}" value="${key}" ${isAnswered && q.userAnswer === key ? 'checked' : ''} ${isAnswered && isGroupCompleted(i) ? 'disabled' : ''}> ${key}. ${value}</label><br>`).join('')}
         <div class="warning-message" id="warning${i}">⚠️ 請先選擇一個選項再提交答案！</div>
         <div class="explanation" id="explanation${i}">${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}</div>
-        <button id="submitAnswerBtn${i}" class="submit-answer-btn" onclick="checkStep(${i})" ${isAnswered ? 'style="display:none"' : ''}>提交答案</button>
+        <button id="submitAnswerBtn${i}" class="submit-answer-btn" onclick="checkStep(${i})" ${isAnswered && isGroupCompleted(i) ? 'style="display:none"' : ''}>提交答案</button>
       `;
       quizDiv.appendChild(qBlock);
       
@@ -3109,8 +3127,10 @@
           explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(q.tags)}<br>你的答案：<br>${formatUserAnswer(q.userAnswer, q.options)}<br>正確答案：${formatCorrectAnswer(q.answer, q.options)}<br>詳解：${q.explanation}${q.explanation_images ? generateImageHTML(q.explanation_images) : ''}`;
         }
         explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
-        explanation.style.display = 'block';
-        
+        if (isGroupCompleted(i)) {
+          explanation.style.display = 'block';
+        }
+
         // 重置警告狀態，因為已經是回答過的題目
         hasWarned = false;
       }
@@ -3124,71 +3144,68 @@
       const explanation = document.getElementById(`explanation${i}`);
       const submitBtn = document.getElementById(`submitAnswerBtn${i}`);
       const warningMsg = document.getElementById(`warning${i}`);
-      
-      // 檢查是否有選擇選項
+
       if (!chosen) {
         if (!hasWarned) {
-          // 第一次警告，顯示警告訊息
           warningMsg.style.display = 'block';
           hasWarned = true;
           return;
         }
-        // 第二次提交，隱藏警告訊息並允許繼續（視為未作答）
         warningMsg.style.display = 'none';
       }
-      
-      // 鎖定所有選項，防止修改答案
-      const allOptions = document.querySelectorAll(`input[name='q${i}']`);
-      allOptions.forEach(option => {
-        option.disabled = true;
-      });
-      
-      if (!explanation.dataset.answered) {
-        explanation.dataset.answered = "true";
-        quiz[i].userAnswer = chosen ? chosen.value : null;
-        
-        // 檢查是否為五個選項的題目（送分題）
-        const optionCount = Object.keys(quiz[i].options).length;
-        const isBonusQuestion = optionCount === 5;
-        
-        let explanationText = '';
-        if (isBonusQuestion && chosen) {
-          // 五個選項的題目，有選就對
-          explanation.classList.add('correct');
-          correct++;
-          quiz[i].isCorrect = true;
-          explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen.value}. ${quiz[i].options[chosen.value]}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
-        } else if (chosen && isAnswerCorrect(chosen.value, quiz[i].answer)) {
-          explanation.classList.add('correct');
-          correct++;
-          quiz[i].isCorrect = true;
-          explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(quiz[i].tags)}<br>正確答案：${formatCorrectAnswer(quiz[i].answer, quiz[i].options)}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
-        } else {
-          explanation.classList.add('incorrect');
-          quiz[i].isCorrect = false;
-          explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen ? chosen.value + '. ' + quiz[i].options[chosen.value] : '未作答'}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
-        }
-        explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
-        
-        // 隱藏提交答案按鈕
+
+      // 更新答案（整組結束前允許修改）
+      explanation.dataset.answered = "true";
+      quiz[i].userAnswer = chosen ? chosen.value : null;
+
+      // 計算正確性
+      const optionCount = Object.keys(quiz[i].options).length;
+      const isBonusQuestion = optionCount === 5;
+      explanation.classList.remove('correct', 'incorrect');
+
+      let explanationText = '';
+      if (isBonusQuestion && chosen) {
+        explanation.classList.add('correct');
+        quiz[i].isCorrect = true;
+        explanationText = `<span class="result-correct">✓ 正確！（送分題）</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen.value}. ${quiz[i].options[chosen.value]}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
+      } else if (chosen && isAnswerCorrect(chosen.value, quiz[i].answer)) {
+        explanation.classList.add('correct');
+        quiz[i].isCorrect = true;
+        explanationText = `<span class="result-correct">✓ 正確！</span><br>標籤：${formatTags(quiz[i].tags)}<br>正確答案：${formatCorrectAnswer(quiz[i].answer, quiz[i].options)}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
+      } else {
+        explanation.classList.add('incorrect');
+        quiz[i].isCorrect = false;
+        explanationText = `<span class="result-incorrect">✗ 錯誤！</span><br>標籤：${formatTags(quiz[i].tags)}<br>你的答案：${chosen ? chosen.value + '. ' + quiz[i].options[chosen.value] : '未作答'}<br>正確答案：${quiz[i].answer}. ${quiz[i].options[quiz[i].answer]}<br>詳解：${quiz[i].explanation}${quiz[i].explanation_images ? generateImageHTML(quiz[i].explanation_images) : ''}`;
+      }
+      explanation.innerHTML = explanationText.replace(/\n/g, '<br>');
+
+      if (isLastInGroup(i)) {
+        // 整組最後一題：鎖定整組所有選項、隱藏所有提交按鈕、公布所有詳解
+        document.querySelectorAll(`input[name='q${i}']`).forEach(opt => { opt.disabled = true; });
         submitBtn.style.display = 'none';
-        
-        // 顯示詳解
         explanation.style.display = 'block';
-        
-        // 判斷是否為最後一題
-        const isLast = currentQuestion >= quiz.length - 1;
-        
-        if (!isLast) {
-          // 不是最後一題，更新按鈕顯示
-          updateButtonDisplay();
-        } else {
-          // 是最後一題，隱藏提早交卷按鈕，延遲顯示最終結果
-          document.getElementById('earlySubmitBtn').style.display = 'none';
-          setTimeout(() => {
-            showFinalResults();
-          }, 1000);
+
+        const currentGroup = getQuestionGroupId(i);
+        let j = i - 1;
+        while (j >= 0 && getQuestionGroupId(j) === currentGroup) {
+          document.querySelectorAll(`input[name='q${j}']`).forEach(opt => { opt.disabled = true; });
+          const prevSubmitBtn = document.getElementById(`submitAnswerBtn${j}`);
+          if (prevSubmitBtn) prevSubmitBtn.style.display = 'none';
+          const prevExplanation = document.getElementById(`explanation${j}`);
+          if (prevExplanation) prevExplanation.style.display = 'block';
+          j--;
         }
+      }
+      // 不是最後一題：選項維持可修改，提交按鈕維持可見
+
+      const isLast = currentQuestion >= quiz.length - 1;
+      if (!isLast) {
+        updateButtonDisplay();
+      } else if (isLastInGroup(i)) {
+        document.getElementById('earlySubmitBtn').style.display = 'none';
+        setTimeout(() => { showFinalResults(); }, 1000);
+      } else {
+        updateButtonDisplay();
       }
     }
     
@@ -3384,6 +3401,11 @@
       wrongQuestionIndices = [];
       
       const total = quiz.length;
+      correct = quiz.filter(q => {
+        const isBonusQuestion = Object.keys(q.options).length === 5;
+        if (isBonusQuestion) return !!q.userAnswer;
+        return isAnswerCorrect(q.userAnswer, q.answer);
+      }).length;
       const wrong = total - correct;
       
       // 构建详细结果并记录错题索引
