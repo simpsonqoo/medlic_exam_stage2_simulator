@@ -2777,10 +2777,9 @@
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(三) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
         if (!confirmUseAll) return;
-        finalQuiz = finalQuiz.concat(filteredQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(filteredQuestions, false));
       } else {
-        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(filteredQuestions, totalCount));
       }
     } else {
       // 個別科目模式
@@ -2809,10 +2808,9 @@
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(四) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
         if (!confirmUseAll) return;
-        finalQuiz = finalQuiz.concat(filteredQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(filteredQuestions, false));
       } else {
-        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(filteredQuestions, totalCount));
       }
     } else {
       // 個別科目模式
@@ -2841,10 +2839,9 @@
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(五) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
         if (!confirmUseAll) return;
-        finalQuiz = finalQuiz.concat(filteredQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(filteredQuestions, false));
       } else {
-        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(filteredQuestions, totalCount));
       }
     } else {
       // 個別科目模式
@@ -2873,10 +2870,9 @@
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(六) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
         if (!confirmUseAll) return;
-        finalQuiz = finalQuiz.concat(filteredQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(filteredQuestions, false));
       } else {
-        const shuffled = [...filteredQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, totalCount));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(filteredQuestions, totalCount));
       }
     } else {
       // 個別科目模式
@@ -2911,10 +2907,9 @@
       if (subjectQuestions.length === 0) continue;
       
       if (subjectQuestions.length <= subjectInfo.count) {
-        finalQuiz = finalQuiz.concat(subjectQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(subjectQuestions, false));
       } else {
-        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(subjectQuestions, subjectInfo.count));
       }
     }
   }
@@ -2928,10 +2923,9 @@
       if (subjectQuestions.length === 0) continue;
       
       if (subjectQuestions.length <= subjectInfo.count) {
-        finalQuiz = finalQuiz.concat(subjectQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(subjectQuestions, false));
       } else {
-        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(subjectQuestions, subjectInfo.count));
       }
     }
   }
@@ -2945,10 +2939,9 @@
       if (subjectQuestions.length === 0) continue;
       
       if (subjectQuestions.length <= subjectInfo.count) {
-        finalQuiz = finalQuiz.concat(subjectQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(subjectQuestions, false));
       } else {
-        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(subjectQuestions, subjectInfo.count));
       }
     }
   }
@@ -2962,10 +2955,9 @@
       if (subjectQuestions.length === 0) continue;
       
       if (subjectQuestions.length <= subjectInfo.count) {
-        finalQuiz = finalQuiz.concat(subjectQuestions);
+        finalQuiz = finalQuiz.concat(groupQuestionsByGroupId(subjectQuestions, false));
       } else {
-        const shuffled = [...subjectQuestions].sort(() => Math.random() - 0.5);
-        finalQuiz = finalQuiz.concat(shuffled.slice(0, subjectInfo.count));
+        finalQuiz = finalQuiz.concat(selectQuestionsByGroup(subjectQuestions, subjectInfo.count));
       }
     }
   }
@@ -2979,10 +2971,9 @@
   const questionOrder = document.getElementById('questionOrder').value;
   
   if (questionOrder === 'random') {
-    quiz = [...finalQuiz].sort(() => Math.random() - 0.5);
+    quiz = groupQuestionsByGroupId(finalQuiz, false);
   } else {
-    // 按照 id 排序
-    quiz = [...finalQuiz].sort((a, b) => a.id - b.id);
+    quiz = groupQuestionsByGroupId([...finalQuiz].sort((a, b) => a.id - b.id), true);
   }
   
   currentQuestion = 0;
