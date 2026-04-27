@@ -806,9 +806,9 @@
     "question": "48. Haller index或稱凹陷指數，常用於漏斗胸（pectus excavatum）的嚴重度評估，是由Dr. Haller等人在 1987年所提出來的方法，圖中A為白色橫向雙箭頭線長度；B、D分別為左右兩側白色縱向雙箭頭線長度；C為中間黑色縱向雙箭頭線長度；E為中間白色縱向雙箭頭線長度，則Haller index為何？",
     "options": {
       "A": "A/C",
-      "B": "",
+      "B": "(B+D)/2C",
       "C": "C/E",
-      "D": ""
+      "D": "(B+D)/A"
     },
     "answer": "A",
     "explanation": "Haller index用於量化漏斗胸的嚴重程度。<br>計算方式：<br>· Haller index = 胸腔橫徑（transverse diameter）/ 前後徑（anteroposterior diameter）<br>· A代表胸腔最寬處的橫徑<br>· C代表胸骨到脊椎的最短前後徑<br>· 因此Haller index = A/C<br>判讀標準：<br>· 正常值：<2.5<br>· 輕度漏斗胸：2.5-3.2<br>· 中度：3.2-3.5<br>· 重度：>3.5<br>· 手術適應症通常為>3.25<br>(A) 正確，A/C是標準Haller index計算公式<br>(B)(C)(D) 錯誤，不是正確的計算方式",
