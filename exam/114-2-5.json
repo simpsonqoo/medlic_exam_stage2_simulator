@@ -625,7 +625,7 @@
       "D": "①②④⑤"
     },
     "answer": "D",
-    "explanation": "此題涉及肝膽胰解剖學的細節，需要參考圖片判斷各選項的正確性。根據答案(D)，正確的敘述為①②④⑤，錯誤的為③。",
+    "explanation": "本題的解題關鍵在於區分肝臟的「外觀解剖學分界」與「內部功能性分段（Couinaud classification）」，並熟悉膽囊周邊三角區域及韌帶內含的血管與膽道構造。<br> ① 正確，左肝（left liver）和右肝（right liver）在功能上的分界線正是中肝靜脈（middle hepatic vein）走行的平面，此平面亦稱為康德黎線（Cantlie’s line）。<br> ② 正確，在「外科解剖學」的實務應用中，肝左葉（left lobe）與右葉（right lobe）常等同於功能性的分界，因此同樣是以康德黎線（Cantlie’s line）來作為區分。<br> ③ 錯誤，Calot 三角（Calot's triangle）的邊界應為膽囊管（cystic duct）、肝總管（common hepatic duct）與肝臟下緣（inferior border of liver）；總膽管（common bile duct）是由肝總管與膽囊管匯合後的產物，並非邊界，且上方邊界應為肝臟下緣而非肝腹側表面（ventral surface of liver）。<br> ④ 正確，肝十二指腸韌帶（hepatoduodenal ligament）內包含了重要的門脈三合體（portal triad），也就是門靜脈（portal vein）、固有肝動脈（proper hepatic artery）與總膽管（common bile duct）。<br> ⑤ 正確，功能性分段中的左側肝（left lateral segment）及左中肝（left medial segment）正是以左肝靜脈（left hepatic vein）走行的臍裂與鐮狀韌帶（falciform ligament）附著處來作為分界。",
     "tags": [
       "114-2-5",
       "肝臟外科"
