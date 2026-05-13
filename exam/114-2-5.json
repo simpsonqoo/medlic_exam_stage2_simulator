@@ -634,7 +634,7 @@
   },
   {
     "id": 1142538,
-    "question": "38. 下列有關急性膽管炎的敘述，何者正確？",
+    "question": "38. 下列有關急性膽管炎的敘述，何者正確？<br>①Charcot triad 是指黃疸、右上腹痛、發燒<br> ②患者在 Charcot triad 的階段，緊急手術並非是必要的<br> ③Reynolds pentad 是指 Charcot triad 再加上休克及代謝性酸中毒<br> ④當患者有 Reynolds pentad 時，若不予以緊急引流處置，會有致命的危險<br> ⑤膽汁細菌培養最常見的細菌是 Klebsiella, E.Coli, Enterobacter, Pseudomonas 及 Citrobacter spp.",
     "options": {
       "A": "①②③④",
       "B": "②③④⑤",
@@ -642,7 +642,7 @@
       "D": "僅③④⑤"
     },
     "answer": "C",
-    "explanation": "此題涉及急性膽管炎的臨床表現、診斷及治療，根據答案(C)，正確的敘述為①②④⑤，錯誤的為③。",
+    "explanation": "此題考急性膽管炎（acute cholangitis）的經典臨床表現與治療原則。重點在於 Charcot triad 與 Reynolds pentad 的定義差異，以及對應的處置時機 — Charcot triad 階段可先以抗生素穩定後再行膽道引流，但出現 Reynolds pentad 即代表化膿性膽管炎（suppurative cholangitis），需緊急膽道減壓。<br> ① 正確，Charcot triad 就是黃疸（jaundice）、右上腹痛（RUQ pain）、發燒（fever）三聯徵。<br> ② 正確，僅出現 Charcot triad 時，多數病人可先以抗生素與支持性治療穩定，再安排內視鏡逆行性膽胰管攝影（ERCP）進行膽道引流，並非必須緊急手術。<br> ③ 錯誤，Reynolds pentad 是指 Charcot triad 再加上「休克（shock／低血壓）」與「意識障礙（altered mental status／confusion）」，而非代謝性酸中毒（metabolic acidosis）。<br> ④ 正確，出現 Reynolds pentad 代表已進展為急性阻塞性化膿性膽管炎（acute obstructive suppurative cholangitis），若未緊急進行膽道引流（如 ERCP 或經皮穿肝膽道引流 PTCD）會導致敗血症甚至死亡。<br> ⑤ 正確，膽汁細菌培養常見革蘭氏陰性菌（gram-negative bacteria）如 Klebsiella、E. coli、Enterobacter、Pseudomonas 及 Citrobacter spp.，其中以 E. coli 最常見，臨床上亦需注意 Enterococcus 等革蘭氏陽性菌與厭氧菌的可能性。",
     "tags": [
       "114-2-5",
       "膽道外科"
