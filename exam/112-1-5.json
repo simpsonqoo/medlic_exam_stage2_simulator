@@ -1373,7 +1373,7 @@
       "D": "醫師可自由決定優先順序"
     },
     "answer": "C",
-    "explanation": "醫療資源稀缺時的分配需要遵循倫理原則。<br>(A) 錯誤，抽籤決定：<br>· 完全隨機，不考慮醫療需求<br>· 忽略預後和醫療效益<br>· 不符合公平正義原則<br>· 浪費有限資源<br>(B) 錯誤，依據申請順序（first-come, first-served）：<br>· 過於機械化<br>· 不考慮醫療急迫性和預後<br>· 可能讓資源用在效益較低的病人<br>· 不符合效益最大化原則<br>(C) 正確，評估使用呼吸器後的預後：<br>· 考慮醫療效益（medical benefit）<br>· 評估存活機會和生活品質<br>· 20歲車禍患者：可能完全恢復，長期存活<br>· 89歲長期臥床肺炎患者：預後差，即使使用呼吸器可能無法脫離<br>· 符合效益最大化原則（utilitarian approach）<br>· 也考慮公平性（fairness）和資源有效利用<br>· 這是目前醫療倫理和重症醫學的共識<br>(D) 錯誤，醫師可自由決定：<br>· 缺乏客觀標準<br>· 可能有偏見或主觀判斷<br>· 應該有明確的分配準則<br>· 需要透明的決策過程<br>醫療資源分配的倫理原則：<br>· 醫療效益（medical utility）<br>· 公平性（fairness）<br>· 急迫性（urgency）<br>· 不歧視（non-discrimination）<br>· 透明性（transparency）",
+    "explanation": "醫療資源稀缺時的分配原則應以醫學效益（medical utility）為核心，依據預後評估（prognosis）來達到資源使用的最大效益，這也符合分配正義（distributive justice）與行善原則（beneficence）的倫理精神。 <br>(A) 錯誤，抽籤（lottery）雖然程序公平，但完全忽略醫學適應症與預後差異，會導致資源浪費，僅適用於各方條件完全相同無法區分時的最後手段。 <br>(B) 錯誤，先到先服務（first-come, first-served）的原則未考量臨床急迫性與療效，會違背醫學效益最大化的精神，並非稀缺資源分配的最適原則。 <br>(C) 正確，評估使用呼吸器（ventilator）後的預後情況符合醫學效益原則與分配正義，能讓有限資源用於最可能受益的患者，是國際間（包含 COVID-19 大流行期間）公認的稀缺資源分配準則。 <br>(D) 錯誤，醫師自由決定容易受主觀偏見影響，缺乏透明性與可問責性（accountability），應依循客觀的臨床預後評估標準與倫理委員會（ethics committee）的共識，而非單一醫師自由裁量。 <br><br>醫療資源分配的倫理原則：<br>· 醫療效益（medical utility）<br>· 公平性（fairness）<br>· 急迫性（urgency）<br>· 不歧視（non-discrimination）<br>· 透明性（transparency）",
     "tags": [
       "112-1-5",
       "醫學倫理"
