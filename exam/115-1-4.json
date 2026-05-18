@@ -49,7 +49,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/115-1-4-3.jpg"
+      "./exam/image/115-1-4-3.jpg"
     ],
     "group_id": "group_1151402"
   },
@@ -649,7 +649,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/115-1-4-38.jpg"
+      "./exam/image/115-1-4-38.jpg"
     ],
     "group_id": "group_1151437"
   },
@@ -757,7 +757,7 @@
   },
   {
     "id": 1151445,
-    "question": "45. 82 歲女性病人突然發生右側枕葉頭痛合併左側視野缺損，無顯影劑之腦部電腦斷層（non-contrast CT）檢 查結果如下圖①，磁振造影之磁敏感加權成像（susceptibility weighted imaging, SWI）結果如下圖② ③。下列何者最有可能是此病人的診斷？",
+    "question": "45. 82 歲女性病人突然發生右側枕葉頭痛合併左側視野缺損，無顯影劑之腦部電腦斷層（non-contrast CT）檢 查結果如下圖<br>①，磁振造影之磁敏感加權成像（susceptibility weighted imaging, SWI）結果如下圖<br>② <br>③。下列何者最有可能是此病人的診斷？",
     "options": {
       "A": "腫瘤併發腦轉移及腦出血",
       "B": "腦部隱球菌（cryptococcus）感染合併腦出血",
@@ -771,7 +771,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/115-1-4-45.jpg"
+      "./exam/image/115-1-4-45.jpg"
     ],
     "group_id": "group_1151444"
   },
@@ -877,7 +877,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/115-1-4-51.jpg"
+      "./exam/image/115-1-4-51.jpg"
     ],
     "group_id": "group_1151450"
   },
@@ -1271,7 +1271,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/115-1-4-74.jpg"
+      "./exam/image/115-1-4-74.jpg"
     ],
     "group_id": "group_1151473"
   },
@@ -1291,8 +1291,8 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/115-1-4-75-1.jpg",
-          "./exam/image/115-1-4-75-2.jpg"
+      "./exam/image/115-1-4-75-1.jpg",
+      "./exam/image/115-1-4-75-2.jpg"
     ],
     "group_id": "group_1151474"
   },

@@ -1,7 +1,7 @@
 [
   {
     "id": 1102501,
-    "question": "1. 對於人類白血球組織抗原(human lekocyte antigen,HLA)的描述,列何者正確?①HLA antigens位在人類第九對染色體的短臀上②HLA完全相同的腎移植可以得到比較好的預後③HLA-DP,HLA-DQ和HLA DR是屬於第二型主要組織相容性複合體(major histocompatibility complex,MHC)④第一型主組織相容性複合體(MHC Class主要是表現在B巴球(lymphocytes),樹突細胞(dendritic cells),内皮細胞 (endothclial cells)和活化的(activated)T細胞⑤HLA敏化作用(scnsitization)會因為懷孕,輸血和曾經 接受過移植而產生",
+    "question": "1. 對於人類白血球組織抗原(human lekocyte antigen,HLA)的描述,列何者正確?<br>①HLA antigens位在人類第九對染色體的短臀上<br>②HLA完全相同的腎移植可以得到比較好的預後<br>③HLA-DP,HLA-DQ和HLA DR是屬於第二型主要組織相容性複合體(major histocompatibility complex,MHC)<br>④第一型主組織相容性複合體(MHC Class主要是表現在B巴球(lymphocytes),樹突細胞(dendritic cells),内皮細胞 (endothclial cells)和活化的(activated)T細胞<br>⑤HLA敏化作用(scnsitization)會因為懷孕,輸血和曾經 接受過移植而產生",
     "options": {
       "A": "②③④",
       "B": "①③④",
@@ -271,7 +271,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-2-5-16.jpg"
+      "./exam/image/110-2-5-16.jpg"
     ],
     "group_id": "group_9655"
   },
@@ -325,7 +325,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-2-5-19.jpg"
+      "./exam/image/110-2-5-19.jpg"
     ],
     "group_id": "group_9658"
   },
@@ -705,7 +705,7 @@
   },
   {
     "id": 1102542,
-    "question": "42. 一名2歲大的小朋友因為腹痛來到急診室,生化檢查發現他有升高的澱粉酶(amylase),腹部超音波檢查發 現他的肝內膽管與總膽管擴大。診斷可能是膽道囊腫(choledochal cyst)。下列相關敘述何者正確?①type IV的膽道囊腫② type V的膽道囊腫 ③應該待胰臟炎緩解後即安排手術切除囊腫 ④應該等到6歲再做手術 切除囊腫 ⑤囊腫發生的假說是因為胰液反流導致膽管發炎擴大",
+    "question": "42. 一名2歲大的小朋友因為腹痛來到急診室,生化檢查發現他有升高的澱粉酶(amylase),腹部超音波檢查發 現他的肝內膽管與總膽管擴大。診斷可能是膽道囊腫(choledochal cyst)。下列相關敘述何者正確?<br>①type IV的膽道囊腫<br>② type V的膽道囊腫 <br>③應該待胰臟炎緩解後即安排手術切除囊腫 <br>④應該等到6歲再做手術 切除囊腫 <br>⑤囊腫發生的假說是因為胰液反流導致膽管發炎擴大",
     "options": {
       "A": "①③⑤",
       "B": "②③",
@@ -722,7 +722,7 @@
   },
   {
     "id": 1102543,
-    "question": "43. 一位5歲男孩因為發燒來到急診,理學檢查並無上呼吸道感染,但有左後背敲痛感,尿液檢查發現有白血球增高現象,腎臟超音波發現有嚴重水腎現象伴隨腎臟皮質變薄的現象,輸尿管無脹大,後續的尿液逆流攝影 (VCUG)發現他沒有膀胱輸尿管逆流。下列敘述何者正確?①可能是腎盂輸尿管狹窄併發腎盂腎炎 ② 能是輸尿管膀胱狹窄併發腎盂腎炎 ③可以再加做腎臟核醫掃描(DTPA with Lasix)的檢查協助判斷 ④手術方式有兩種,一種是從膀胱外重新植入輸尿管,一種是從膀胱內重新植入輸尿管(reimplantation) ⑤先用抗生素治療就好，除非反覆性感染才需要手術",
+    "question": "43. 一位5歲男孩因為發燒來到急診,理學檢查並無上呼吸道感染,但有左後背敲痛感,尿液檢查發現有白血球增高現象,腎臟超音波發現有嚴重水腎現象伴隨腎臟皮質變薄的現象,輸尿管無脹大,後續的尿液逆流攝影 (VCUG)發現他沒有膀胱輸尿管逆流。下列敘述何者正確?<br>①可能是腎盂輸尿管狹窄併發腎盂腎炎 <br>② 能是輸尿管膀胱狹窄併發腎盂腎炎 <br>③可以再加做腎臟核醫掃描(DTPA with Lasix)的檢查協助判斷 <br>④手術方式有兩種,一種是從膀胱外重新植入輸尿管,一種是從膀胱內重新植入輸尿管(reimplantation) <br>⑤先用抗生素治療就好，除非反覆性感染才需要手術",
     "options": {
       "A": "僅①⑤",
       "B": "②③④",
@@ -807,7 +807,7 @@
   },
   {
     "id": 1102548,
-    "question": "48. 35歲女性解便後,肛門口外出現疼痛腫塊,第二天至門診檢查,確定為1.5公分栓塞外痔,以下何者可以為適 當的治療?①局部手術切除(excision) ②局部手術切開(incision) ③溫水坐浴,局部治療(local treatment) ④硬化劑注射(sclerotherapy)",
+    "question": "48. 35歲女性解便後,肛門口外出現疼痛腫塊,第二天至門診檢查,確定為1.5公分栓塞外痔,以下何者可以為適 當的治療?<br>①局部手術切除(excision) <br>②局部手術切開(incision) <br>③溫水坐浴,局部治療(local treatment) <br>④硬化劑注射(sclerotherapy)",
     "options": {
       "A": "①③",
       "B": "僅②④",
@@ -1229,7 +1229,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-2-5-72.jpg"
+      "./exam/image/110-2-5-72.jpg"
     ],
     "group_id": "group_9711"
   },
@@ -1249,7 +1249,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-2-5-73.jpg"
+      "./exam/image/110-2-5-73.jpg"
     ],
     "group_id": "group_9712"
   },
@@ -1269,7 +1269,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-2-5-74.jpg"
+      "./exam/image/110-2-5-74.jpg"
     ],
     "group_id": "group_9713"
   },

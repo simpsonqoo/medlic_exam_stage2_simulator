@@ -321,7 +321,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/111-2-6-19.jpg"
+      "./exam/image/111-2-6-19.jpg"
     ],
     "group_id": "group_11498"
   },
@@ -1197,7 +1197,7 @@
   },
   {
     "id": 1112671,
-    "question": "71. De Quervain's 肌腱腱鞘炎常見以下那兩條肌腱的發炎？①伸拇短肌（extensor pollicis brevis）② 伸拇長肌 （extensor pollicis longus） ③ 外展拇短肌（abductor pollicis brevis）④ 外展拇長肌（abductor pollicis longus）",
+    "question": "71. De Quervain's 肌腱腱鞘炎常見以下那兩條肌腱的發炎？<br>①伸拇短肌（extensor pollicis brevis）<br>② 伸拇長肌 （extensor pollicis longus） <br>③ 外展拇短肌（abductor pollicis brevis）<br>④ 外展拇長肌（abductor pollicis longus）",
     "options": {
       "A": "①③",
       "B": "②④",
@@ -1245,7 +1245,7 @@
       "復健科"
     ],
     "images": [
-          "./exam/image/111-2-6-73.jpg"
+      "./exam/image/111-2-6-73.jpg"
     ],
     "group_id": "group_11552"
   },
@@ -1265,10 +1265,10 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/111-2-6-74.jpg"
+      "./exam/image/111-2-6-74.jpg"
     ],
     "explanation_images": [
-          "./exam/image/111-2-6-74e.jpg"
+      "./exam/image/111-2-6-74e.jpg"
     ],
     "group_id": "group_11553"
   },
@@ -1359,7 +1359,7 @@
   },
   {
     "id": 1112680,
-    "question": "80. 林先生為口腔癌症末期病人，因呼吸困難被家人送到醫院急診室，林先生意識不清，醫護人員認為病人死亡已經無法避免，不應再施以急救，下列作法的優先次序為何？① 查詢病人是否已簽署 DNR 意願書② 徵求家屬同意並簽署同意書③ 查詢病人有無醫療委任代理人",
+    "question": "80. 林先生為口腔癌症末期病人，因呼吸困難被家人送到醫院急診室，林先生意識不清，醫護人員認為病人死亡已經無法避免，不應再施以急救，下列作法的優先次序為何？<br>① 查詢病人是否已簽署 DNR 意願書<br>② 徵求家屬同意並簽署同意書<br>③ 查詢病人有無醫療委任代理人",
     "options": {
       "A": "① → ③ →②",
       "B": "①→ ②  →③",

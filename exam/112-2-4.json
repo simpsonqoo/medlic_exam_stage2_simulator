@@ -32,7 +32,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/112-2-4-2.jpg"
+      "./exam/image/112-2-4-2.jpg"
     ],
     "group_id": "group_7321"
   },
@@ -613,7 +613,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/112-2-4-36.jpg"
+      "./exam/image/112-2-4-36.jpg"
     ],
     "group_id": "group_7355"
   },
@@ -636,7 +636,7 @@
   },
   {
     "id": 1122438,
-    "question": "38. 8歲女童，主訴近兩年來發現右手食指指甲下出現如圖①所示慢慢變大而且會痛的增生物。臨床醫師排了一個 X光攝影檢查，結果如圖②③箭頭所示。下列何者是最可能的診斷？",
+    "question": "38. 8歲女童，主訴近兩年來發現右手食指指甲下出現如圖<br>①所示慢慢變大而且會痛的增生物。臨床醫師排了一個 X光攝影檢查，結果如圖<br>②<br>③箭頭所示。下列何者是最可能的診斷？",
     "options": {
       "A": "甲下病毒疣（subungual viral wart）",
       "B": "甲下角化棘皮瘤（subungual keratoacanthoma）",
@@ -650,7 +650,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/112-2-4-38.jpg"
+      "./exam/image/112-2-4-38.jpg"
     ],
     "group_id": "group_7357"
   },
@@ -776,7 +776,7 @@
   },
   {
     "id": 1122446,
-    "question": "46. 49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non- contrast CT）檢查結果如下圖①，5天後的腦部磁振造影（MRI）檢查結果如下圖②（Fluid attenuated inversion recovery, FLAIR）及圖③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？",
+    "question": "46. 49歲男性平常有高血壓，因突發性右側肢體無力及麻木而就診，就診當天的無顯影劑腦部電腦斷層（non- contrast CT）檢查結果如下圖<br>①，5天後的腦部磁振造影（MRI）檢查結果如下圖<br>②（Fluid attenuated inversion recovery, FLAIR）及圖<br>③無施打顯影劑之T1影像。下列何者最有可能是此病人的診斷？",
     "options": {
       "A": "高血壓引發腦出血",
       "B": "腦腫瘤合併中心壞死（central necrosis）",
@@ -790,7 +790,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/112-2-4-46.jpg"
+      "./exam/image/112-2-4-46.jpg"
     ],
     "group_id": "group_7365"
   },
@@ -1154,7 +1154,7 @@
   },
   {
     "id": 1122468,
-    "question": "68. 下列有關海洛因之敘述，何者最適當？①中毒時宜給與naloxone進行緊急治療 ②意識混亂、呼吸淺、瞳孔縮小是海洛因戒斷的核心症狀 ③即使急性戒斷期過去，仍有可能殘存戒斷症狀達數個月之久 ④methadone 和buprenorphine可使用於戒斷期，但是戒斷期過後再用此兩種藥物會不利於戒除海洛因",
+    "question": "68. 下列有關海洛因之敘述，何者最適當？<br>①中毒時宜給與naloxone進行緊急治療 <br>②意識混亂、呼吸淺、瞳孔縮小是海洛因戒斷的核心症狀 <br>③即使急性戒斷期過去，仍有可能殘存戒斷症狀達數個月之久 <br>④methadone 和buprenorphine可使用於戒斷期，但是戒斷期過後再用此兩種藥物會不利於戒除海洛因",
     "options": {
       "A": "僅①③",
       "B": "①②④",
@@ -1270,7 +1270,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/112-2-4-74.jpg"
+      "./exam/image/112-2-4-74.jpg"
     ],
     "group_id": "group_7393"
   },

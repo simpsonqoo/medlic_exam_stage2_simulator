@@ -49,7 +49,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/110-1-4-3.jpg"
+      "./exam/image/110-1-4-3.jpg"
     ],
     "group_id": "group_7722"
   },
@@ -256,8 +256,8 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/110-1-4-15-1.jpg",
-          "./exam/image/110-1-4-15-2.jpg"
+      "./exam/image/110-1-4-15-1.jpg",
+      "./exam/image/110-1-4-15-2.jpg"
     ],
     "group_id": "group_7734"
   },
@@ -618,7 +618,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/110-1-4-36.jpg"
+      "./exam/image/110-1-4-36.jpg"
     ],
     "group_id": "group_7755"
   },
@@ -638,7 +638,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/110-1-4-37.jpg"
+      "./exam/image/110-1-4-37.jpg"
     ],
     "group_id": "group_7756"
   },
@@ -658,7 +658,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/110-1-4-38.jpg"
+      "./exam/image/110-1-4-38.jpg"
     ],
     "group_id": "group_7757"
   },
@@ -695,7 +695,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/110-1-4-40.jpg"
+      "./exam/image/110-1-4-40.jpg"
     ],
     "group_id": "group_7759"
   },
@@ -974,7 +974,7 @@
   },
   {
     "id": 1101457,
-    "question": "57. 如果要診斷為神經性梅毒合併失智症，下列那一組檢查結果最具有診斷的正確性？①血清之梅毒螺旋體血球 凝集試驗（T. pallidum particle agglutination test, MHA-TP）為陽性反應 ②腦脊髓液之VDRL為陽性反應 ③ 腦脊髓液之TPHA為陽性反應 ④腦波呈現典型的週期性單側癲癇樣放電（periodic lateralized epileptiform discharges）",
+    "question": "57. 如果要診斷為神經性梅毒合併失智症，下列那一組檢查結果最具有診斷的正確性？<br>①血清之梅毒螺旋體血球 凝集試驗（T. pallidum particle agglutination test, MHA-TP）為陽性反應 <br>②腦脊髓液之VDRL為陽性反應 <br>③ 腦脊髓液之TPHA為陽性反應 <br>④腦波呈現典型的週期性單側癲癇樣放電（periodic lateralized epileptiform discharges）",
     "options": {
       "A": "①②",
       "B": "②④",
@@ -1196,7 +1196,7 @@
   },
   {
     "id": 1101470,
-    "question": "70. 有關酒精戒斷最常見症狀出現的時間先後順序排列，下列何者正確？①幻覺 ②手抖 ③譫妄（delirium） ④抽搐（seizure）",
+    "question": "70. 有關酒精戒斷最常見症狀出現的時間先後順序排列，下列何者正確？<br>①幻覺 <br>②手抖 <br>③譫妄（delirium） <br>④抽搐（seizure）",
     "options": {
       "A": "①②③④",
       "B": "④②①③",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 1101471,
-    "question": "71. 有關兒童發展之敘述，下列何者正確？",
+    "question": "71. 有關兒童發展之敘述，下列何者正確？<br>①大多數兒童在1歲時已能發出近似語言、但不若語言清楚的聲音 <br>②大多數輕度智能障礙的兒童在5歲之前能被診斷出來 <br>③大多數兒童在2歲時已能對簡單指示如「把球給我」有合宜反應 <br>④特定學習障礙症中的書寫障礙（specific learning disorder with impairment in written expression）是因為智能 障礙所致",
     "options": {
       "A": "①③",
       "B": "②③",
@@ -1295,8 +1295,8 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/110-1-4-75-1.jpg",
-          "./exam/image/110-1-4-75-2.jpg"
+      "./exam/image/110-1-4-75-1.jpg",
+      "./exam/image/110-1-4-75-2.jpg"
     ],
     "group_id": "group_7794"
   },

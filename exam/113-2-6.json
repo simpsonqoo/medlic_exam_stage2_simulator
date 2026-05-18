@@ -49,7 +49,7 @@
       "麻醉科"
     ],
     "images": [
-          "./exam/image/113-2-6-3.jpg"
+      "./exam/image/113-2-6-3.jpg"
     ],
     "group_id": "group_11162"
   },
@@ -324,7 +324,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/113-2-6-19.jpg"
+      "./exam/image/113-2-6-19.jpg"
     ],
     "group_id": "group_11178"
   },
@@ -429,7 +429,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/113-2-6-25.jpg"
+      "./exam/image/113-2-6-25.jpg"
     ],
     "group_id": "group_11184"
   },
@@ -619,7 +619,7 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/113-2-6-36.jpg"
+      "./exam/image/113-2-6-36.jpg"
     ],
     "group_id": "group_11195"
   },
@@ -1234,7 +1234,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/113-2-6-72.jpg"
+      "./exam/image/113-2-6-72.jpg"
     ],
     "group_id": "group_11231"
   },
@@ -1254,10 +1254,10 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/113-2-6-73.jpg"
+      "./exam/image/113-2-6-73.jpg"
     ],
     "explanation_image": [
-          "./exam/image/113-2-6-73e.jpg"
+      "./exam/image/113-2-6-73e.jpg"
     ],
     "group_id": "group_11232"
   },
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 1132678,
-    "question": "78. 根據生命倫理四原則的作者Beauchamp和Childress之見解，四個原則的重要性依序為何？①尊重自主原則 （respect for autonomy） ②不傷害原則（nonmaleficence） ③行善原則（beneficence） ④正義原 則（justice）",
+    "question": "78. 根據生命倫理四原則的作者Beauchamp和Childress之見解，四個原則的重要性依序為何？<br>①尊重自主原則 （respect for autonomy） <br>②不傷害原則（nonmaleficence） <br>③行善原則（beneficence） <br>④正義原 則（justice）",
     "options": {
       "A": "①＝②＝③＝④",
       "B": "②＞①＞③＞④",

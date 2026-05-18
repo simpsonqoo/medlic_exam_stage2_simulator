@@ -168,7 +168,7 @@
       "神經外科"
     ],
     "images": [
-          "./exam/image/112-2-5-10.jpg"
+      "./exam/image/112-2-5-10.jpg"
     ],
     "group_id": "group_9329"
   },
@@ -225,7 +225,7 @@
   },
   {
     "id": 1122514,
-    "question": "14. 有關血管腫瘤和血管畸形，下列何者錯誤？①有一半比例的血管瘤（hemangioma）在一歲前會完全消失 ②硬化劑注射（sclerotherapy）是治療動靜脈畸形（arteriovenous malformation）的最好方法 ③血管腫瘤（vascular tumors）是因為內皮細胞異常增生，血管畸形（vascular malformations）是動靜脈或淋巴系統異常發展 ④微血管畸形與動靜脈畸形不同，會隨著年紀增長而萎縮變小，甚至消失",
+    "question": "14. 有關血管腫瘤和血管畸形，下列何者錯誤？<br>①有一半比例的血管瘤（hemangioma）在一歲前會完全消失 <br>②硬化劑注射（sclerotherapy）是治療動靜脈畸形（arteriovenous malformation）的最好方法 <br>③血管腫瘤（vascular tumors）是因為內皮細胞異常增生，血管畸形（vascular malformations）是動靜脈或淋巴系統異常發展 <br>④微血管畸形與動靜脈畸形不同，會隨著年紀增長而萎縮變小，甚至消失",
     "options": {
       "A": "僅①③",
       "B": "②③",
@@ -783,7 +783,7 @@
       "小兒外科"
     ],
     "images": [
-          "./exam/image/112-2-5-46.jpg"
+      "./exam/image/112-2-5-46.jpg"
     ],
     "group_id": "group_9365"
   },
@@ -837,7 +837,7 @@
       "小兒外科"
     ],
     "images": [
-          "./exam/image/112-2-5-49.jpg"
+      "./exam/image/112-2-5-49.jpg"
     ],
     "group_id": "group_9367"
   },
@@ -857,7 +857,7 @@
       "大腸直腸外科"
     ],
     "images": [
-          "./exam/image/112-2-5-50.jpg"
+      "./exam/image/112-2-5-50.jpg"
     ],
     "group_id": "group_9369"
   },
@@ -1047,7 +1047,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/112-2-5-61.jpg"
+      "./exam/image/112-2-5-61.jpg"
     ],
     "group_id": "group_9380"
   },
@@ -1237,7 +1237,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/112-2-5-72.jpg"
+      "./exam/image/112-2-5-72.jpg"
     ],
     "group_id": "group_9391"
   },
@@ -1257,7 +1257,7 @@
       "泌尿外科"
     ],
     "images": [
-          "./exam/image/112-2-5-73.jpg"
+      "./exam/image/112-2-5-73.jpg"
     ],
     "group_id": "group_9392"
   },
@@ -1277,7 +1277,7 @@
       "膽道外科"
     ],
     "images": [
-          "./exam/image/112-2-5-74.jpg"
+      "./exam/image/112-2-5-74.jpg"
     ],
     "group_id": "group_9393"
   },

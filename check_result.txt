@@ -1,0 +1,4 @@
+checked 84 files
+found 2 questions with missing circled numbers:
+  [110-1-5.json] id=1101532 missing: ① ② ③
+  [115-1-4.json] id=1151403 missing: ① ② ③ ④

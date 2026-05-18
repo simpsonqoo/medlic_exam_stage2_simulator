@@ -168,7 +168,7 @@
       "神經外科"
     ],
     "images": [
-          "./exam/image/114-2-5-10.jpg"
+      "./exam/image/114-2-5-10.jpg"
     ],
     "group_id": "group_9008"
   },
@@ -617,7 +617,7 @@
   },
   {
     "id": 1142537,
-    "question": "37. 有關肝膽胰外科解剖學，下列何者正確？<br>①左肝（left liver）和右肝（right liver）的功能性分界為中肝靜脈（middle hepatic vein）<br>②肝左葉（left lobe）和右葉（right lobe）的分界為康德黎線（Cantlie’s line）<br> ③Calot 三角的邊包括膽囊管（cystic duct）、肝腹側表面（ventral surface of liver）、總膽管（common bile duct） <br> ④肝十二指腸韌帶（hepatoduodenal ligament）包括門靜脈（portal vein）、固有肝動脈（proper hepatic artery）、總膽管（common bile duct） <br> ⑤左側肝（left lateral segment）及左中肝（left medial segment）的分界為鐮韌帶（falciform ligament）",
+    "question": "37. 有關肝膽胰外科解剖學，下列何者正確？<br>①左肝（left liver）和右肝（right liver）的功能性分界為中肝靜脈（middle hepatic vein）<br>②肝左葉（left lobe）和右葉（right lobe）的分界為康德黎線（Cantlie’s line）<br> <br>③Calot 三角的邊包括膽囊管（cystic duct）、肝腹側表面（ventral surface of liver）、總膽管（common bile duct） <br> <br>④肝十二指腸韌帶（hepatoduodenal ligament）包括門靜脈（portal vein）、固有肝動脈（proper hepatic artery）、總膽管（common bile duct） <br> <br>⑤左側肝（left lateral segment）及左中肝（left medial segment）的分界為鐮韌帶（falciform ligament）",
     "options": {
       "A": "②③④⑤",
       "B": "①③④⑤",
@@ -634,7 +634,7 @@
   },
   {
     "id": 1142538,
-    "question": "38. 下列有關急性膽管炎的敘述，何者正確？<br>①Charcot triad 是指黃疸、右上腹痛、發燒<br> ②患者在 Charcot triad 的階段，緊急手術並非是必要的<br> ③Reynolds pentad 是指 Charcot triad 再加上休克及代謝性酸中毒<br> ④當患者有 Reynolds pentad 時，若不予以緊急引流處置，會有致命的危險<br> ⑤膽汁細菌培養最常見的細菌是 Klebsiella, E.Coli, Enterobacter, Pseudomonas 及 Citrobacter spp.",
+    "question": "38. 下列有關急性膽管炎的敘述，何者正確？<br>①Charcot triad 是指黃疸、右上腹痛、發燒<br> <br>②患者在 Charcot triad 的階段，緊急手術並非是必要的<br> <br>③Reynolds pentad 是指 Charcot triad 再加上休克及代謝性酸中毒<br> <br>④當患者有 Reynolds pentad 時，若不予以緊急引流處置，會有致命的危險<br> <br>⑤膽汁細菌培養最常見的細菌是 Klebsiella, E.Coli, Enterobacter, Pseudomonas 及 Citrobacter spp.",
     "options": {
       "A": "①②③④",
       "B": "②③④⑤",
@@ -784,7 +784,7 @@
       "小兒外科"
     ],
     "images": [
-          "./exam/image/114-2-5-46.jpg"
+      "./exam/image/114-2-5-46.jpg"
     ],
     "group_id": "group_9045"
   },
@@ -1246,7 +1246,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/114-2-5-73.jpg"
+      "./exam/image/114-2-5-73.jpg"
     ],
     "group_id": "group_9072"
   },
@@ -1266,7 +1266,7 @@
       "大腸直腸外科"
     ],
     "images": [
-          "./exam/image/114-2-5-74.jpg"
+      "./exam/image/114-2-5-74.jpg"
     ],
     "group_id": "group_9073"
   },

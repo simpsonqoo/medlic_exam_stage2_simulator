@@ -117,7 +117,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/112-1-4-7.jpg"
+      "./exam/image/112-1-4-7.jpg"
     ],
     "group_id": "group_7406"
   },
@@ -443,7 +443,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/112-1-4-26.jpg"
+      "./exam/image/112-1-4-26.jpg"
     ],
     "group_id": "group_7425"
   },
@@ -633,7 +633,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/112-1-4-37.jpg"
+      "./exam/image/112-1-4-37.jpg"
     ],
     "group_id": "group_7436"
   },
@@ -653,8 +653,8 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/112-1-4-38-1.jpg",
-          "./exam/image/112-1-4-38-2.jpg"
+      "./exam/image/112-1-4-38-1.jpg",
+      "./exam/image/112-1-4-38-2.jpg"
     ],
     "group_id": "group_7437"
   },
@@ -708,7 +708,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/112-1-4-41.jpg"
+      "./exam/image/112-1-4-41.jpg"
     ],
     "group_id": "group_7440"
   },
@@ -748,7 +748,7 @@
   },
   {
     "id": 1121444,
-    "question": "44. 50歲男性病人突然發生右側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如下圖①，經顯影劑造影之腦部電腦斷層如下圖②。於圖②中箭頭所指的小白點，其名稱及意義為何？",
+    "question": "44. 50歲男性病人突然發生右側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如下圖<br>①，經顯影劑造影之腦部電腦斷層如下圖<br>②。於圖<br>②中箭頭所指的小白點，其名稱及意義為何？",
     "options": {
       "A": "spot sign；代表中風容易惡化且預後較差",
       "B": "lentiform nucleus sign；代表中風發生於基底核的小血管",
@@ -762,7 +762,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/112-1-4-44.jpg"
+      "./exam/image/112-1-4-44.jpg"
     ],
     "group_id": "group_7443"
   },
@@ -884,7 +884,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/112-1-4-51.jpg"
+      "./exam/image/112-1-4-51.jpg"
     ],
     "group_id": "group_7450"
   },
@@ -1077,7 +1077,7 @@
   },
   {
     "id": 1121463,
-    "question": "63. 下列何種治療模式或藥物可用於治療疼痛疾患（pain disorder）？①生理回饋（biofeedback） ②神經阻斷術 （nerve blocks） ③抗憂鬱藥（antidepressants） ④催眠（hypnosis）",
+    "question": "63. 下列何種治療模式或藥物可用於治療疼痛疾患（pain disorder）？<br>①生理回饋（biofeedback） <br>②神經阻斷術 （nerve blocks） <br>③抗憂鬱藥（antidepressants） <br>④催眠（hypnosis）",
     "options": {
       "A": "僅①③",
       "B": "僅②④",
@@ -1094,7 +1094,7 @@
   },
   {
     "id": 1121464,
-    "question": "64. 抗憂鬱劑（antidepressants），例如selective serotonin reuptake inhibitors（SSRIs）或serotonin norepinephrine reuptake inhibitors（SNRIs）等，除了用於憂鬱症的治療外，還可用於治療下列何者？①疼痛症（pain disorder） ②泛焦慮症（generalized anxiety disorder） ③恐慌症（panic disorder） ④雙相情緒障礙症躁期 （bipolar mania）",
+    "question": "64. 抗憂鬱劑（antidepressants），例如selective serotonin reuptake inhibitors（SSRIs）或serotonin norepinephrine reuptake inhibitors（SNRIs）等，除了用於憂鬱症的治療外，還可用於治療下列何者？<br>①疼痛症（pain disorder） <br>②泛焦慮症（generalized anxiety disorder） <br>③恐慌症（panic disorder） <br>④雙相情緒障礙症躁期 （bipolar mania）",
     "options": {
       "A": "僅①③",
       "B": "僅②④",
@@ -1230,7 +1230,7 @@
   },
   {
     "id": 1121472,
-    "question": "72. 有關人格障礙症個案的防衛機轉（defensive mechanism），下列敘述何者最適當？ ①從想像的朋友獲得心理慰藉，是幻想（fantasy） ②和親密伴侶激烈爭吵後，突然忘記自己是誰，是解離（dissociation） ③每次醫師問到過往經驗，個案都不帶感情地詳細描述每一次被父母不良對待的經過和細節，是情感抽離 （isolation of affect） ④在醫療過程不想付出努力，指責醫師不專業導致治療成效有限，是投射（projection）",
+    "question": "72. 有關人格障礙症個案的防衛機轉（defensive mechanism），下列敘述何者最適當？ <br>①從想像的朋友獲得心理慰藉，是幻想（fantasy） <br>②和親密伴侶激烈爭吵後，突然忘記自己是誰，是解離（dissociation） <br>③每次醫師問到過往經驗，個案都不帶感情地詳細描述每一次被父母不良對待的經過和細節，是情感抽離 （isolation of affect） <br>④在醫療過程不想付出努力，指責醫師不專業導致治療成效有限，是投射（projection）",
     "options": {
       "A": "僅①③",
       "B": "僅①②④",
@@ -1278,7 +1278,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/112-1-4-74.jpg"
+      "./exam/image/112-1-4-74.jpg"
     ],
     "group_id": "group_7473"
   },
@@ -1298,7 +1298,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/112-1-4-75.jpg"
+      "./exam/image/112-1-4-75.jpg"
     ],
     "group_id": "group_7474"
   },

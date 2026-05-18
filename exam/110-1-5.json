@@ -205,7 +205,7 @@
   },
   {
     "id": 1101513,
-    "question": "13. 請選擇出急性傷口癒合過程（wound healing）正確的順序：①重塑期（remodeling） ②增生期 （proliferation） ③成熟期（maturation） ④發炎期（inflammation） ⑤凝血（coagulation）",
+    "question": "13. 請選擇出急性傷口癒合過程（wound healing）正確的順序：<br>①重塑期（remodeling） <br>②增生期 （proliferation） <br>③成熟期（maturation） <br>④發炎期（inflammation） <br>⑤凝血（coagulation）",
     "options": {
       "A": "①→②→③→④→⑤",
       "B": "④→⑤→③→②→①",
@@ -256,7 +256,7 @@
   },
   {
     "id": 1101516,
-    "question": "16. 下列那些先天性心臟病若不及時手術，可能會發生所謂的Eisenmenger syndrome，最後需要心肺移植？①肺動 脈瓣狹窄 ②心室中隔缺損 ③動脈幹症（truncus arteriosus） ④開放性動脈導管",
+    "question": "16. 下列那些先天性心臟病若不及時手術，可能會發生所謂的Eisenmenger syndrome，最後需要心肺移植？<br>①肺動 脈瓣狹窄 <br>②心室中隔缺損 <br>③動脈幹症（truncus arteriosus） <br>④開放性動脈導管",
     "options": {
       "A": "僅①②",
       "B": "僅①③",
@@ -307,7 +307,7 @@
   },
   {
     "id": 1101519,
-    "question": "19. 68歲農婦因右手輕微無力伴隨下肢輕微水腫來診，經診斷為二尖瓣狹窄（mitral stenosis），超音波顯示為心房顫動（atrial fibrillation）且瓣膜開口為1.35 cm2，過去有右側膿胸且經開胸治療之病史，下列敘述或處置何 者正確？①中風之故，不應給與抗凝血劑，如warfarin ②應建議進行心導管檢查 ③進行瓣膜手術，且可同時進行迷宮手術（Cox-Maze procedure） ④可選擇胸腔鏡或小傷口內視鏡進行手術",
+    "question": "19. 68歲農婦因右手輕微無力伴隨下肢輕微水腫來診，經診斷為二尖瓣狹窄（mitral stenosis），超音波顯示為心房顫動（atrial fibrillation）且瓣膜開口為1.35 cm2，過去有右側膿胸且經開胸治療之病史，下列敘述或處置何 者正確？<br>①中風之故，不應給與抗凝血劑，如warfarin <br>②應建議進行心導管檢查 <br>③進行瓣膜手術，且可同時進行迷宮手術（Cox-Maze procedure） <br>④可選擇胸腔鏡或小傷口內視鏡進行手術",
     "options": {
       "A": "僅①④",
       "B": "②③④",
@@ -542,7 +542,7 @@
       "膽道外科"
     ],
     "images": [
-          "./exam/image/110-1-5-32.jpg"
+      "./exam/image/110-1-5-32.jpg"
     ],
     "group_id": "group_9751"
   },
@@ -565,7 +565,7 @@
   },
   {
     "id": 1101534,
-    "question": "34. 下列有關胰臟炎之敘述，何者正確？①急性胰臟炎70～80%原因為膽道結石及酗酒 ②慢性胰臟炎70～80% 原因為酗酒 ③急性胰臟炎大部分（約90%）應以外科治療 ④血液澱粉酶素（amylase）高低可預測急性胰 臟炎的嚴重度 ⑤慢性胰臟炎合併糖尿病即應考慮外科治療",
+    "question": "34. 下列有關胰臟炎之敘述，何者正確？<br>①急性胰臟炎70～80%原因為膽道結石及酗酒 <br>②慢性胰臟炎70～80% 原因為酗酒 <br>③急性胰臟炎大部分（約90%）應以外科治療 <br>④血液澱粉酶素（amylase）高低可預測急性胰 臟炎的嚴重度 <br>⑤慢性胰臟炎合併糖尿病即應考慮外科治療",
     "options": {
       "A": "①②",
       "B": "③⑤",
@@ -594,8 +594,9 @@
     "tags": [
       "110-1-5",
       "乳房外科"
-    ],"explanation_image": [
-          "./exam/image/110-1-5-35e.jpg"
+    ],
+    "explanation_image": [
+      "./exam/image/110-1-5-35e.jpg"
     ],
     "group_id": "group_9754"
   },
@@ -1227,7 +1228,7 @@
       "泌尿外科"
     ],
     "images": [
-          "./exam/image/110-1-5-72.jpg"
+      "./exam/image/110-1-5-72.jpg"
     ],
     "group_id": "group_9791"
   },
@@ -1247,7 +1248,7 @@
       "心臟外科"
     ],
     "images": [
-          "./exam/image/110-1-5-73.jpg"
+      "./exam/image/110-1-5-73.jpg"
     ],
     "group_id": "group_9792"
   },
@@ -1267,7 +1268,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/110-1-5-74.jpg"
+      "./exam/image/110-1-5-74.jpg"
     ],
     "group_id": "group_9793"
   },

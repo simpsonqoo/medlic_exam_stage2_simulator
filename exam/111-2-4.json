@@ -508,7 +508,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/111-2-4-30.jpg"
+      "./exam/image/111-2-4-30.jpg"
     ],
     "group_id": "group_7509"
   },
@@ -630,8 +630,8 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/111-1-4-37-1.jpg",
-          "./exam/image/111-1-4-37-2.jpg"
+      "./exam/image/111-2-4-37-1.jpg",
+      "./exam/image/111-2-4-37-2.jpg"
     ],
     "group_id": "group_7516"
   },
@@ -651,8 +651,8 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/111-1-4-38-1.jpg",
-          "./exam/image/111-1-4-38-2.jpg"
+      "./exam/image/111-2-4-38-1.jpg",
+      "./exam/image/111-2-4-38-2.jpg"
     ],
     "group_id": "group_7517"
   },
@@ -740,7 +740,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/111-1-4-43.jpg"
+      "./exam/image/111-1-4-43.jpg"
     ],
     "group_id": "group_7522"
   },
@@ -763,7 +763,7 @@
   },
   {
     "id": 1112445,
-    "question": "45. 42 歲男性病人突然發生左側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如圖①，於 2 天 後病人因漸進性意識不清再次安排了腦部 CT 檢查，結果如圖②。下列何種治療最有可能增進此病人的存活機會？",
+    "question": "45. 42 歲男性病人突然發生左側肢體無力，無顯影劑之腦部電腦斷層（non-contrast CT）檢查結果如圖<br>①，於 2 天 後病人因漸進性意識不清再次安排了腦部 CT 檢查，結果如圖<br>②。下列何種治療最有可能增進此病人的存活機會？",
     "options": {
       "A": "抗凝血劑（anticoagulants）",
       "B": "抗癲癇藥物（antiepileptic drugs）",
@@ -777,7 +777,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/111-1-4-45.jpg"
+      "./exam/image/111-2-4-45.jpg"
     ],
     "group_id": "group_7524"
   },
@@ -882,7 +882,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/111-1-4-51.jpg"
+      "./exam/image/111-2-4-51.jpg"
     ],
     "group_id": "group_7530"
   },
@@ -1144,7 +1144,7 @@
   },
   {
     "id": 1112467,
-    "question": "67. 有關海洛因之中毒和戒斷，下列敘述何者正確？ ①Opioid、catecholamine、γ-aminobutyric acid system 是形成藥物濫用和成癮最主要的神經傳導物質 ②急性中毒的症狀包括過度興奮、多話、記憶過度活躍、瞳孔擴大，如果用量過大而缺氧時會瞳孔縮小至針 尖狀 ③戒斷症狀在停藥 6 至 8 小時後就可能出現，一般在 7 至 10 天內改善 ④戒斷症狀和 locus ceruleus of pons 有關，在停用海洛因時這區域的 noradrenergic neurons 會降低活性",
+    "question": "67. 有關海洛因之中毒和戒斷，下列敘述何者正確？ <br>①Opioid、catecholamine、γ-aminobutyric acid system 是形成藥物濫用和成癮最主要的神經傳導物質 <br>②急性中毒的症狀包括過度興奮、多話、記憶過度活躍、瞳孔擴大，如果用量過大而缺氧時會瞳孔縮小至針 尖狀 <br>③戒斷症狀在停藥 6 至 8 小時後就可能出現，一般在 7 至 10 天內改善 <br>④戒斷症狀和 locus ceruleus of pons 有關，在停用海洛因時這區域的 noradrenergic neurons 會降低活性",
     "options": {
       "A": "僅①③",
       "B": "①②④",
@@ -1277,7 +1277,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/111-1-4-74.jpg"
+      "./exam/image/111-1-4-74.jpg"
     ],
     "group_id": "group_7553"
   },

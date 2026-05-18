@@ -66,7 +66,7 @@
       "外科概論"
     ],
     "images": [
-          "./exam/image/111-1-5-4.jpg"
+      "./exam/image/111-1-5-4.jpg"
     ],
     "group_id": "group_9563"
   },
@@ -123,7 +123,7 @@
   },
   {
     "id": 1111508,
-    "question": "8. 面對一位胸腔穿刺傷的病患，下列那些狀況須考慮手術探查治療？①一置入胸管立刻流出1,500 mL鮮血 ②超音波顯示有心包填塞（pericardial tamponade） ③開放式氣胸 ④兩側胸腔皆疑似受傷 ⑤胸管內除血液外同 時有少量氣體溢出",
+    "question": "8. 面對一位胸腔穿刺傷的病患，下列那些狀況須考慮手術探查治療？<br>①一置入胸管立刻流出1,500 mL鮮血 <br>②超音波顯示有心包填塞（pericardial tamponade） <br>③開放式氣胸 <br>④兩側胸腔皆疑似受傷 <br>⑤胸管內除血液外同 時有少量氣體溢出",
     "options": {
       "A": "①②④",
       "B": "③④⑤",
@@ -477,7 +477,7 @@
       "心臟外科"
     ],
     "images": [
-          "./exam/image/111-1-5-28.jpg"
+      "./exam/image/111-1-5-28.jpg"
     ],
     "group_id": "group_9587"
   },
@@ -497,7 +497,7 @@
       "心臟外科"
     ],
     "images": [
-          "./exam/image/111-1-5-29.jpg"
+      "./exam/image/111-1-5-29.jpg"
     ],
     "group_id": "group_9588"
   },
@@ -1231,7 +1231,7 @@
       "胸腔外科"
     ],
     "images": [
-          "./exam/image/111-1-5-72.jpg"
+      "./exam/image/111-1-5-72.jpg"
     ],
     "group_id": "group_9631"
   },
@@ -1251,7 +1251,7 @@
       "膽道外科"
     ],
     "images": [
-          "./exam/image/111-1-5-73.jpg"
+      "./exam/image/111-1-5-73.jpg"
     ],
     "group_id": "group_9632"
   },
@@ -1271,7 +1271,7 @@
       "泌尿外科"
     ],
     "images": [
-          "./exam/image/111-1-5-74.jpg"
+      "./exam/image/111-1-5-74.jpg"
     ],
     "group_id": "group_9633"
   },

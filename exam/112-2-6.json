@@ -202,7 +202,7 @@
       "眼科"
     ],
     "images": [
-          "./exam/image/112-2-6-12.jpg"
+      "./exam/image/112-2-6-12.jpg"
     ],
     "group_id": "group_11331"
   },
@@ -277,7 +277,7 @@
   },
   {
     "id": 1122617,
-    "question": "17. 長期口服或局部眼用類固醇藥物，可能在眼睛產生的副作用包括下列那些？①白內障（cataract） ②眼壓升高（elevation of intraocular pressure） ③中心性漿液性脈絡膜視網膜病變（central serous chorioretinopathy） ④視神經炎（optic neuritis）",
+    "question": "17. 長期口服或局部眼用類固醇藥物，可能在眼睛產生的副作用包括下列那些？<br>①白內障（cataract） <br>②眼壓升高（elevation of intraocular pressure） <br>③中心性漿液性脈絡膜視網膜病變（central serous chorioretinopathy） <br>④視神經炎（optic neuritis）",
     "options": {
       "A": "①②④",
       "B": "②③④",
@@ -1228,10 +1228,10 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/112-2-6-72.jpg"
+      "./exam/image/112-2-6-72.jpg"
     ],
     "explanation_images": [
-          "./exam/image/112-2-6-72e.jpg"
+      "./exam/image/112-2-6-72e.jpg"
     ],
     "group_id": "group_11391"
   },
@@ -1251,8 +1251,8 @@
       "眼科"
     ],
     "images": [
-          "./exam/image/112-2-6-73-1.jpg",
-          "./exam/image/112-2-6-73-2.jpg"
+      "./exam/image/112-2-6-73-1.jpg",
+      "./exam/image/112-2-6-73-2.jpg"
     ],
     "group_id": "group_11392"
   },
@@ -1272,8 +1272,8 @@
       "復健科"
     ],
     "images": [
-          "./exam/image/112-2-6-74-1.jpg",
-          "./exam/image/112-2-6-74-2.jpg"
+      "./exam/image/112-2-6-74-1.jpg",
+      "./exam/image/112-2-6-74-2.jpg"
     ],
     "group_id": "group_11393"
   },

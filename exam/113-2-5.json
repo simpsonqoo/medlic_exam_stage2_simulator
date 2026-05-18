@@ -732,7 +732,7 @@
   },
   {
     "id": 1132544,
-    "question": "44. 一名59歲婦女診斷乳癌並接受乳房部分切除併前哨淋巴結取樣，病理報告顯示為侵襲性乳管癌（invasive ductal carcinoma），腫瘤大小2公分，淋巴結無轉移，免疫染色為雌激素受體陽性（ER：positive）、黃體素受體陰性（PR：negative）、人類表皮生長因子受體2（HER2/neu）陽性，則建議接受下列那些治療組 合？ ①化學藥物 ②抗荷爾蒙藥物 ③放射線治療 ④標靶藥物",
+    "question": "44. 一名59歲婦女診斷乳癌並接受乳房部分切除併前哨淋巴結取樣，病理報告顯示為侵襲性乳管癌（invasive ductal carcinoma），腫瘤大小2公分，淋巴結無轉移，免疫染色為雌激素受體陽性（ER：positive）、黃體素受體陰性（PR：negative）、人類表皮生長因子受體2（HER2/neu）陽性，則建議接受下列那些治療組 合？ <br>①化學藥物 <br>②抗荷爾蒙藥物 <br>③放射線治療 <br>④標靶藥物",
     "options": {
       "A": "僅①②③",
       "B": "僅②③④",
@@ -763,7 +763,7 @@
       "小兒外科"
     ],
     "images": [
-          "./exam/image/113-2-5-45.jpg"
+      "./exam/image/113-2-5-45.jpg"
     ],
     "group_id": "group_9204"
   },
@@ -817,7 +817,7 @@
       "小兒外科"
     ],
     "images": [
-          "./exam/image/113-2-5-48.jpg"
+      "./exam/image/113-2-5-48.jpg"
     ],
     "group_id": "group_9207"
   },
@@ -1245,7 +1245,7 @@
       "大腸直腸外科"
     ],
     "images": [
-          "./exam/image/113-2-5-73.jpg"
+      "./exam/image/113-2-5-73.jpg"
     ],
     "group_id": "group_9232"
   },
@@ -1265,7 +1265,7 @@
       "骨科"
     ],
     "images": [
-          "./exam/image/113-2-5-74.jpg"
+      "./exam/image/113-2-5-74.jpg"
     ],
     "group_id": "group_9233"
   },

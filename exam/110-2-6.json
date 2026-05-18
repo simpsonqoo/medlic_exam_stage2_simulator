@@ -593,7 +593,7 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/110-2-6-35.jpg"
+      "./exam/image/110-2-6-35.jpg"
     ],
     "group_id": "group_11674"
   },
@@ -800,10 +800,10 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/110-2-6-47.jpg"
+      "./exam/image/110-2-6-47.jpg"
     ],
     "explanation_images": [
-          "./exam/image/110-2-6-47e.jpg"
+      "./exam/image/110-2-6-47e.jpg"
     ],
     "group_id": "group_11686"
   },
@@ -911,7 +911,7 @@
   },
   {
     "id": 1102654,
-    "question": "54. 受精（fertilization）的過程依序為何？①capacitation ②acrosome reaction ③cortical reaction",
+    "question": "54. 受精（fertilization）的過程依序為何？<br>①capacitation <br>②acrosome reaction <br>③cortical reaction",
     "options": {
       "A": "①②③",
       "B": "②①③",
@@ -993,7 +993,7 @@
       "復健科"
     ],
     "images": [
-          "./exam/image/110-2-6-58.jpg"
+      "./exam/image/110-2-6-58.jpg"
     ],
     "group_id": "group_11697"
   },
@@ -1234,7 +1234,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/110-2-6-72.jpg"
+      "./exam/image/110-2-6-72.jpg"
     ],
     "group_id": "group_11711"
   },
@@ -1254,7 +1254,7 @@
       "耳鼻喉科"
     ],
     "images": [
-          "./exam/image/110-2-6-73.jpg"
+      "./exam/image/110-2-6-73.jpg"
     ],
     "group_id": "group_11712"
   },
@@ -1274,10 +1274,10 @@
       "婦產科"
     ],
     "images": [
-          "./exam/image/110-2-6-74.jpg"
+      "./exam/image/110-2-6-74.jpg"
     ],
     "explanation_images": [
-          "./exam/image/110-2-6-74e.jpg"
+      "./exam/image/110-2-6-74e.jpg"
     ],
     "group_id": "group_11713"
   },
