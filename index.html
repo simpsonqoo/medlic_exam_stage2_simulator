@@ -2790,6 +2790,9 @@
       questionsData.forEach(q => {
         if (!q.tags) q.tags = [];
         q.tags.push(yearLabel);
+        if (q.group_id) {
+          q.group_id = `${yearValue}_${q.group_id}`;
+        }
       });
       
       allLoadedQuestions.push(...questionsData);
