@@ -12,7 +12,7 @@
     "explanation": "嚴重頭部外傷（GCS≤8）需要積極處置保護腦部和維持生命徵象。類固醇在急性顱內壓升高的治療角色已被否定。<br>(A) 正確，GCS≤8表示意識嚴重障礙且無法保護呼吸道，應立即放置氣管內管（endotracheal tube）確保呼吸道通暢、避免吸入性肺炎、控制通氣<br>(B) 錯誤，大型隨機對照試驗（CRASH study）證實類固醇（corticosteroids）在急性頭部外傷不僅無益，反而增加死亡率。現在已不建議使用類固醇治療創傷性腦損傷<br>(C) 正確，低血壓（收縮壓<90 mmHg）會導致腦灌流不足、加重次發性腦損傷，需要積極輸液或升壓藥物維持血壓<br>(D) 正確，頭部外傷病人應假設同時有頸椎損傷，需使用頸圈（cervical collar）固定頸部直到排除頸椎骨折",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9240"
   },
@@ -80,7 +80,7 @@
     "explanation": "米蘭準則（Milan criteria）是肝細胞癌（hepatocellular carcinoma）肝移植的經典選擇標準。<br>正確的米蘭準則為：<br>· 單一腫瘤，直徑≤5公分，或<br>· 2-3顆腫瘤，每顆直徑≤3公分<br>· 無大血管侵犯<br>· 無肝外轉移<br>(A) 錯誤，單一腫瘤的標準是直徑≤5公分，而非6.5公分。6.5公分是UCSF準則（加州大學舊金山分校準則）的標準<br>(B) 正確，符合米蘭準則<br>(C) 正確，不能有肝內大血管侵犯（vascular invasion）<br>(D) 正確，不能有肝外轉移（extrahepatic metastasis）",
     "tags": [
       "113-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9244"
   },
@@ -97,7 +97,7 @@
     "explanation": "胰臟移植主要用於治療第一型糖尿病，常與腎臟移植合併進行。<br>(A) 錯誤，胰臟移植主要就是用來治療第一型糖尿病（type 1 diabetes mellitus），特別是合併腎衰竭需要腎移植的病人<br>(B) 錯誤，目前以腸道引流（enteric drainage）較為普遍。膀胱引流（bladder drainage）雖然可透過尿液澱粉酶監測排斥，但併發症較多（如代謝性酸中毒、血尿、尿道炎），已較少使用<br>(C) 正確，血管栓塞（vascular thrombosis）是胰臟移植最常見且嚴重的手術併發症，發生率約5-10%，可能導致移植物失功能<br>(D) 錯誤，胰臟移植後長期死亡原因主要是心血管疾病（cardiovascular disease）和感染，而非糖尿病復發",
     "tags": [
       "113-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9245"
   },
@@ -114,7 +114,7 @@
     "explanation": "Billroth II手術是胃遠端切除後將殘胃與空腸吻合，繞過十二指腸。<br>(C) 正確，Billroth II手術繞過十二指腸（duodenum），而十二指腸是鈣質吸收的主要部位。胃切除後胃酸分泌減少也會影響鈣的吸收，容易導致低血鈣（hypocalcemia）和骨質疏鬆，需要補充鈣質和維生素D<br>(A)(B)(D) 錯誤，雖然可能有電解質不平衡，但不是特別需要補充的",
     "tags": [
       "113-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9246"
   },
@@ -131,7 +131,7 @@
     "explanation": "腦膜瘤是最常見的原發性腦腫瘤，通常為良性。<br>(A) 錯誤，腦膜瘤從蜘蛛膜（arachnoid）的顆粒細胞長出，但通常附著在硬腦膜（dura）上，所以MRI確實常描述為dural-based tumor，這個敘述基本正確但不夠精確<br>(B) 正確，Simpson grading scale（Grade I-V）是評估腦膜瘤手術切除程度的標準分類，與復發率相關。Grade I是完全切除包括受侵犯的硬腦膜和骨頭<br>(C) 錯誤，約5-10%的腦膜瘤是多發性（multiple），而非20%<br>(D) 錯誤，放射治療（radiation therapy）在復發性腦膜瘤和無法完全切除的腫瘤中有重要角色",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9247"
   },
@@ -148,7 +148,7 @@
     "explanation": "WHO膠質瘤（glioma）分級主要基於組織病理學特徵，反映腫瘤的惡性度。<br>分級依據的特徵包括：<br>· 細胞密度（cellularity）<br>· 細胞核異型性（nuclear atypia）<br>· 有絲分裂活性（mitotic activity）<br>· 微血管增生（microvascular proliferation）<br>· 壞死（necrosis）<br>(A) 正確，細胞密度（degree of cellularity）是分級標準之一<br>(B) 正確，細胞多形性（pleomorphism）即細胞核異型性是分級標準<br>(C) 錯誤，鈣化（calcification）不是WHO膠質瘤分級的標準。鈣化是某些腦腫瘤（如寡樹突膠質細胞瘤oligodendroglioma）的特徵，但不用於分級<br>(D) 正確，壞死（necrosis）是Grade IV（膠質母細胞瘤glioblastoma）的重要特徵",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9248"
   },
@@ -165,7 +165,7 @@
     "explanation": "蜘蛛膜下腔出血（subarachnoid hemorrhage）的預後評估有多種量表。<br>(A) 錯誤，Hunt and Hess scale 沒有0分。分級從Grade I（無症狀或輕微頭痛）到Grade V（深度昏迷），分數越高預後越差<br>(B) 錯誤，Fisher grading是評估電腦斷層（CT）而非核磁共振（MRI）影像中蜘蛛膜下腔的出血量，用來預測腦血管痙攣（vasospasm）的風險<br>(C) 正確，WFNS（World Federation of Neurological Surgeons）分級從Grade I到Grade V，數字越小（如Grade I）表示神經學狀態越好、預後越佳<br>(D) 錯誤，Glasgow Coma Scale（GCS）分數與預後密切相關，GCS越低預後越差",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9249"
   },
@@ -182,7 +182,7 @@
     "explanation": "中央脊髓症候群（central cord syndrome）是最常見的不完全性脊髓損傷，常發生於頸椎狹窄病人遭受過伸損傷（hyperextension injury）。<br>典型表現：<br>· 上肢無力較下肢嚴重（因為cervical cord的內側運動神經元支配上肢）<br>· 感覺異常<br>· 可能有膀胱功能障礙<br>ASIA分級：<br>· A：完全損傷<br>· B：感覺不完全，運動完全<br>· C：運動不完全，大部分關鍵肌肉肌力<3分<br>· D：運動不完全，大部分關鍵肌肉肌力≥3分<br>· E：正常<br>(A)(B) 錯誤，症狀確實是central cord syndrome，但分級錯誤<br>(C) 正確，下肢肌力3-4分表示大部分關鍵肌肉≥3分，符合ASIA D級。症狀（上肢較下肢嚴重）符合中央脊髓症候群<br>(D) 錯誤，anterior cord syndrome表現為運動和痛溫覺喪失但保留本體感覺，不符合此病患",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9250"
   },
@@ -199,7 +199,7 @@
     "explanation": "顱內壓（intracranial pressure, ICP）升高的原因包括腦實質腫脹、顱內血腫、腦脊髓液（CSF）循環阻塞等。<br>(A) 錯誤，蜘蛛膜下腔出血（subarachnoid hemorrhage）會導致腦部腫脹、發炎反應、腦脊髓液吸收障礙，造成腦壓升高<br>(B) 正確，降低血中二氧化碳濃度（hyperventilation導致hypocapnia）會引起腦血管收縮，減少腦血流量和腦血容積，是急性降低腦壓的方法之一<br>(C) 錯誤，阻塞性水腦症（obstructive hydrocephalus）因腦脊髓液循環受阻、積聚，導致腦壓升高<br>(D) 錯誤，30 c.c.的腦實質出血（intraparenchymal hemorrhage）會佔據空間、壓迫周圍腦組織，造成腦壓升高",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9251"
   },
@@ -216,7 +216,7 @@
     "explanation": "腦膨出是神經管缺陷（neural tube defect），腦組織和腦膜從顱骨缺損處膨出。<br>(A) 正確，大部分（約75%）的腦膨出發生在頭顱中線，特別是枕部（occipital）<br>(B) 正確，顱底腦膨出（basal encephalocele）相對少見，僅佔約10-15%<br>(C) 錯誤，膨出的腦組織通常是發育不良、無功能的，手術目標是切除異常腦組織（而非回置），修補顱骨和腦膜缺損，保護正常腦組織<br>(D) 正確，腦膨出病患常合併智能障礙（intellectual disability），預後與膨出大小和位置相關",
     "tags": [
       "113-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9252"
   },
@@ -233,7 +233,7 @@
     "explanation": "Mathes and Nahai分類將肌肉皮瓣依血管供應分為五型：<br>· Type I：單一血管蒂（如tensor fascia lata）<br>· Type II：一條主要血管蒂+次要血管蒂（如gracilis、trapezius）<br>· Type III：兩條主要血管蒂（如gluteus maximus、rectus abdominis）<br>· Type IV：多條分段血管蒂（如sartorius、tibialis anterior）<br>· Type V：一條主要血管蒂+多條次要分段血管蒂（如latissimus dorsi、pectoralis major）<br>(D) 正確，闊背肌（latissimus dorsi）主要由胸背動脈（thoracodorsal artery）供應，加上多條次要分段血管，屬於Type V",
     "tags": [
       "113-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9253"
   },
@@ -267,7 +267,7 @@
     "explanation": "Angle classification是牙齒咬合分類系統，根據第一大臼齒的相對位置分類。<br>(A) 正確，Class I（第一類咬合）是正常咬合關係，上顎第一大臼齒的近心頰側咬頭（mesiobuccal cusp）咬在下顎第一大臼齒的頰側溝（buccal groove）上，是矯正手術的理想目標<br>(B)(C)(D) 錯誤，Class II（遠心咬合）和Class III（近心咬合）都是咬合不正，Class IV不存在於Angle分類中",
     "tags": [
       "113-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9255"
   },
@@ -284,7 +284,7 @@
     "explanation": "頭頸部重建常使用各種皮瓣來修復缺損。<br>(A) 正確，頦下皮瓣由facial artery的分支頦下動脈供應，可用於口腔重建<br>(B) 錯誤，胸大肌肌皮瓣主要由胸肩峰動脈（thoracoacromial artery）供應，而非內乳動脈（internal mammary artery）。它確實可用於全喉切除後的下咽重建<br>(C) 正確，胸大肌肌皮瓣體積大、血流豐富，可用於覆蓋暴露的頸部大血管（如頸動脈）作為salvage procedure<br>(D) 正確，鎖骨上皮瓣由鎖骨上動脈供應，皮瓣較薄，適合臉部或頸部表淺重建",
     "tags": [
       "113-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9256"
   },
@@ -301,7 +301,7 @@
     "explanation": "乳房重建可分為義乳重建和自體組織重建兩大類。<br>(A) 錯誤，雖然DIEP flap（deep inferior epigastric perforator flap）確實能提供自然的乳房外觀和觸感，但最常使用的乳房重建方法仍是義乳重建（implant-based），因為手術時間較短、恢復較快<br>(B) 正確，義乳重建的併發症包括：外觀不自然、莢膜攣縮（capsular contracture）、義乳破裂或滲漏、感染、義乳位移等<br>(C) 錯誤，游離皮瓣重建時，受區血管（recipient vessel）最常選擇內乳動脈（internal mammary vessels）或胸背動脈（thoracodorsal vessels），選擇取決於缺損位置和血管狀況<br>(D) 錯誤，BIA-ALCL（breast implant-associated anaplastic large cell lymphoma）在西方人中較常見，東方人較少見",
     "tags": [
       "113-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9257"
   },
@@ -318,7 +318,7 @@
     "explanation": "冠狀動脈阻塞疾病（coronary artery disease）的治療包括危險因子控制和藥物治療。<br>(A) 正確，AHA/ACC指引中，戒菸是class I recommendation（強烈建議），對預防冠狀動脈疾病極為重要<br>(B) 正確，β-blocker在冠狀動脈繞道手術（CABG）後能降低心肌梗塞和死亡率，除非有禁忌症（如嚴重心衰竭、心搏過緩），應儘早使用<br>(C) 正確，急性冠狀動脈症候群（acute coronary syndrome）主要由斑塊破裂（plaque rupture）和血栓形成（thrombus formation）引起<br>(D) 錯誤，Digoxin可改善心衰竭症狀，但多項研究（如DIG trial）顯示它不能降低死亡率，僅能減少住院次數",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9258"
   },
@@ -335,7 +335,7 @@
     "explanation": "心臟腫瘤分為原發性和轉移性，原發性腫瘤罕見。<br>(A) 錯誤，原發性心臟腫瘤中，良性腫瘤（約75%）遠多於惡性腫瘤（約25%）。最常見的良性腫瘤是黏液瘤（myxoma）<br>(B) 錯誤，即使是良性腫瘤，若發生栓塞症狀，治療應是手術切除而非抗凝血劑<br>(C) 正確，約75-80%的心臟黏液瘤發生在左心房（left atrium），其中大部分附著在心房中隔（atrial septum）的卵圓窩（fossa ovalis）附近<br>(D) 錯誤，心臟腫瘤的診斷標準工具是心臟超音波（echocardiography，特別是經食道超音波TEE），而非心臟電腦斷層（CT）",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9259"
   },
@@ -352,7 +352,7 @@
     "explanation": "Crawford分類將胸腹主動脈瘤依據範圍分為四型，用於手術規劃和預後評估。<br>Crawford分類：<br>· Type I：從左鎖骨下動脈至腹腔動脈上方<br>· Type II：從左鎖骨下動脈至腎動脈以下（範圍最廣）<br>· Type III：從第六胸椎至腎動脈以下<br>· Type IV：從橫膈膜至腎動脈以下<br>(A) 錯誤，Type I範圍較小，不包含腎動脈以下<br>(B) 正確，Type II從左鎖骨下動脈（left subclavian artery）延伸至腎動脈以下的腹主動脈，涵蓋範圍最廣，手術風險也最高<br>(C)(D) 錯誤，Type III和IV起始點更低，不是從左鎖骨下動脈開始",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9260"
   },
@@ -369,7 +369,7 @@
     "explanation": "深層靜脈栓塞的診斷需要影像學證據來確認。<br>(A) 正確，杜卜勒超音波（duplex ultrasound）結合了B-mode影像和都卜勒血流偵測，是目前診斷下肢深層靜脈栓塞的首選工具。優點包括：非侵入性、無輻射、準確度高（敏感度和特異度都超過90%）、可在床邊執行<br>(B) 錯誤，核磁共振靜脈攝影（MRV）雖然準確，但費用高、耗時長，通常保留給超音波無法評估的部位（如骨盆靜脈、上腔靜脈）<br>(C) 錯誤，靜脈攝影（venography）曾是診斷金標準，但因為侵入性、需要顯影劑、可能引起靜脈炎等問題，現已很少使用<br>(D) 錯誤，阻抗容積描記術（impedance plethysmography）已被超音波取代，現在很少使用",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9261"
   },
@@ -386,7 +386,7 @@
     "explanation": "心臟瓣膜置換可選擇機械瓣膜或生物瓣膜，各有優缺點。<br>(A) 正確，生物瓣膜（bioprosthetic valve）不需要長期抗凝血，但耐久性較差。一般建議主動脈瓣置換≥65歲、二尖瓣置換≥70歲選擇生物瓣膜<br>(B) 正確，機械瓣膜需要終生使用warfarin抗凝血治療，需監測PT/INR值，通常維持INR在2.5-3.5之間<br>(C) 錯誤，Ross手術（Ross procedure）是將病人自己的肺動脈瓣（pulmonary valve）移至主動脈位置，再用同種異體移植物（homograft）重建肺動脈。此手術特別適合年輕病人（兒童和青少年），而非年老病人，因為年輕病人需要長期耐久性且避免終生抗凝血<br>(D) 正確，新型抗凝血劑（NOAC）如dabigatran、rivaroxaban等，目前仍不建議用於機械瓣膜病患，因為研究顯示增加血栓和出血風險。機械瓣膜病患仍應使用warfarin",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9262"
   },
@@ -403,7 +403,7 @@
     "explanation": "大動脈轉位（transposition of great arteries, TGA）是主動脈從右心室發出、肺動脈從左心室發出，導致體循環和肺循環分離，是新生兒發紺型先天性心臟病的急症。<br>(A) 正確，發紺嚴重的新生兒需要插管給氧、維持血流動力學穩定<br>(B) 錯誤，這是最不合醫療常規的處置。PGE1是救命藥物，它維持動脈導管（ductus arteriosus）開放，讓體循環和肺循環的血液能混合，改善氧合。絕對不能停止PGE1，否則動脈導管關閉會導致嚴重缺氧、死亡<br>(C) 正確，arterial switch operation是治療TGA的首選手術，應在出生後1-2週內進行（趁左心室還能承受體循環壓力）<br>(D) 正確，若氧合狀況危急，可考慮心房中隔氣球擴張術（balloon atrial septostomy, Rashkind procedure）增加心房間的血液混合，作為暫時性措施",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9263"
   },
@@ -505,7 +505,7 @@
     "explanation": "小腸出血的診斷和治療具有挑戰性，因為小腸位置深且傳統內視鏡難以到達。<br>(A) 錯誤，小腸腫瘤（如腺癌、類癌、淋巴瘤）可引起出血，但相對少見<br>(B) 正確，血管發育不良（angiodysplasias）是成人小腸出血最常見的原因，特別是老年人。這是黏膜下層異常擴張的血管，容易破裂出血。常見於右側結腸和小腸，與年齡、主動脈瓣狹窄、慢性腎病等有關<br>(C) 錯誤，克隆氏症（Crohn's disease）可引起小腸出血，但通常不是大量出血，較常表現為慢性貧血<br>(D) 錯誤，梅克爾憩室（Meckel's diverticulum）是小兒和年輕成人小腸出血的重要原因，但在所有年齡層中不是最常見的",
     "tags": [
       "113-1-5",
-      "小腸外科"
+      "消化外科"
     ],
     "group_id": "group_9269"
   },
@@ -522,7 +522,7 @@
     "explanation": "減重手術可分為：侷限型（restriction，減少胃容量）、吸收不良型（malabsorption，繞過小腸）、或兩者混合型。<br>(A) 錯誤，調節式胃束帶（adjustable gastric banding, AGB）純粹是侷限型手術，用束帶限制胃的入口，減少食量<br>(B) 正確，Roux-en-Y胃繞道手術（RYGB）同時具有：<br>· 侷限作用：製造小胃囊（約30 mL）<br>· 吸收不良作用：繞過部分十二指腸和近端空腸，減少營養吸收<br>因此是混合型手術<br>(C) 錯誤，垂直束帶胃成形術（vertical banded gastroplasty）主要是侷限型手術<br>(D) 錯誤，胃內水球（balloon）是暫時性的侷限型裝置，通常放置6個月後需移除",
     "tags": [
       "113-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9270"
   },
@@ -539,7 +539,7 @@
     "explanation": "肝硬化導致肝功能障礙和門脈高壓，產生多種臨床表徵。<br>(A) 正確，蜘蛛狀血管瘤（spider angioma）和手掌紅斑（palmar erythema）與肝臟代謝雌激素（estrogen）能力下降有關，導致雌激素相對過多<br>(B) 正確，Cruveilhier-Baumgarten murmur是門脈高壓時，門靜脈系統與臍靜脈（umbilical vein，胎兒時期的血管）側枝循環重新開放，在上腹部可聽到連續性血流雜音<br>(C) 正確，肝硬化導致內臟血管擴張、周邊血管阻力降低，身體代償性增加心輸出量和心跳，形成高動力循環（hyperdynamic circulation）<br>(D) 錯誤，肝硬化病人的肌肉痙攣（muscle cramps）與腹水、低平均動脈壓（hypotension）、高血漿腎素活性有關。門脈高壓導致有效循環血量減少，激活腎素-血管收縮素系統，而非高血壓",
     "tags": [
       "113-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9271"
   },
@@ -556,7 +556,7 @@
     "explanation": "克隆氏症是慢性發炎性腸道疾病，可影響消化道任何部位。<br>(A) 錯誤，克隆氏症是無法治癒的慢性疾病。手術只能治療併發症（如狹窄、瘻管、膿瘍），無法根治疾病，術後復發率很高<br>(B) 錯誤，克隆氏症可侵犯整個消化道（從口腔到肛門），最常侵犯迴腸末端（terminal ileum）和右側結腸，而非主要侵犯大腸<br>(C) 正確，克隆氏症好發於已開發國家、都市地區、社經地位較高者。吸菸是克隆氏症的重要危險因子，會增加發病風險、加重病情、增加復發率（這與潰瘍性結腸炎相反）<br>(D) 錯誤，壞疽性膿皮症（pyoderma gangrenosum）和僵直性脊椎炎（ankylosing spondylitis）是腸道外表現，但它們的嚴重程度與腸道發炎程度不一定成正相關。有些腸道外表現（如周邊關節炎）與腸道發炎相關，有些（如僵直性脊椎炎）則獨立進展",
     "tags": [
       "113-1-5",
-      "小腸外科"
+      "消化外科"
     ],
     "group_id": "group_9272"
   },
@@ -573,7 +573,7 @@
     "explanation": "胃神經內分泌腫瘤（gastric NET）依據病因和病理分為三型。<br>(A) 錯誤，胃神經內分泌腫瘤是由腸嗜鉻細胞（enterochromaffin-like cells, ECL cells）增生形成的，而非Cajal間質細胞（interstitial cells of Cajal）。Cajal間質細胞是腸道的節律細胞（pacemaker），其異常增生形成的是胃腸道間質瘤（GIST）<br>(B) 正確，Type II胃NET與多發性內分泌腫瘤第一型（MEN-I）和Zollinger-Ellison症候群有關<br>(C) 正確，局部的胃NET（特別是Type I和II，通常<1-2 cm）治療以完全切除為主，可使用內視鏡切除<br>(D) 正確，Type III胃NET是散發性的神經內分泌癌，惡性度高、容易轉移，預後最差<br>分類：<br>· Type I：與萎縮性胃炎、惡性貧血有關，最常見（70-80%），預後最好<br>· Type II：與MEN-I、Zollinger-Ellison症候群有關（5-10%）<br>· Type III：散發性，惡性度高（15-20%），預後最差",
     "tags": [
       "113-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9273"
   },
@@ -590,7 +590,7 @@
     "explanation": "年輕女性肝臟腫瘤的鑑別診斷需考慮良性腫瘤，特別是與荷爾蒙相關的病變。<br>影像特徵分析：<br>· Peripheral enhancement with centripetal progression：周邊先顯影、逐漸向中心填充，這是血管瘤的典型特徵<br>· 但本題的關鍵是：腹腔內有液體（提示腫瘤破裂出血）+ 長期服用避孕藥<br>(A) 正確，肝細胞腺瘤（hepatocellular adenoma）最可能的診斷，理由：<br>· 好發於生育年齡女性，與長期服用口服避孕藥密切相關<br>· 腫瘤較大（>5 cm）時有破裂出血風險，導致腹痛和腹腔積液<br>· 雖然影像描述像血管瘤，但臨床表現（腹痛、腹水）更符合腺瘤破裂<br>(B) 錯誤，局部結節性增生（focal nodular hyperplasia, FNH）雖然也好發於年輕女性，但很少破裂出血，通常無症狀。典型影像是中央瘢痕（central scar）<br>(C) 錯誤，肝臟過誤瘤（hamartoma）極為罕見<br>(D) 錯誤，血管瘤（hemangioma）雖然影像符合peripheral enhancement with centripetal fill-in，但很少破裂，且與避孕藥無明確關聯",
     "tags": [
       "113-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9274"
   },
@@ -607,7 +607,7 @@
     "explanation": "Charcot triad是急性膽管炎（acute cholangitis）的典型三聯症。<br>(A) 正確，發燒（fever）是Charcot triad之一，反映膽道感染<br>(B) 正確，黃疸（jaundice）是Charcot triad之一，反映膽道阻塞<br>(C) 錯誤，右上腹腫塊不是Charcot triad的一部分。Courvoisier's law提到：無痛性黃疸合併可觸摸到的膽囊（palpable gallbladder）提示胰頭癌等惡性腫瘤，而非膽管炎<br>(D) 正確，右上腹痛（right upper quadrant pain）是Charcot triad之一<br>Charcot triad：發燒 + 黃疸 + 右上腹痛<br>Reynolds pentad（五聯症）：Charcot triad + 意識改變 + 低血壓（表示嚴重敗血症）",
     "tags": [
       "113-1-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9275"
   },
@@ -624,7 +624,7 @@
     "explanation": "胰管內乳頭狀黏液性腫瘤（IPMN）分為主胰管型（main duct）和分支胰管型（branch duct）。高危險特徵（high-risk features）提示惡性變化，需要手術切除。<br>BD-IPMN的高危險特徵包括：<br>· 阻塞性黃疸（obstructive jaundice）<br>· 囊腫內增強的壁結節（enhancing mural nodule）>5 mm<br>· 主胰管擴張≥10 mm<br>· 囊腫快速增大<br>· CA 19-9升高<br>(A) 正確，黃疸（jaundice）是高危險特徵，提示主胰管受侵犯或惡性變化壓迫總膽管<br>(B) 錯誤，發燒（fever）不是IPMN的高危險特徵。發燒通常提示感染（如急性胰臟炎、膽管炎），而非惡性變化<br>(C) 正確，主胰管擴張>10 mm是高危險特徵<br>(D) 正確，囊腫內增強的壁結節>5 mm是高危險特徵，提示可能有惡性成分",
     "tags": [
       "113-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9276"
   },
@@ -922,7 +922,7 @@
     "explanation": "腹腔鏡手術的技術細節和注意事項。<br>① 正確，急性膽囊炎的腹腔鏡手術較困難：<br>· 組織發炎、腫脹、沾黏<br>· 手術時間較長<br>· 轉開腹率較高<br>· 膽管損傷風險較高（因解剖辨識困難）<br>② 錯誤，腹腔鏡的標準氣腹壓力是12-15 mmHg，而非25 mmHg：<br>· 25 mmHg過高，會影響靜脈回流、心輸出量<br>· 可能導致高碳酸血症<br>· 增加術後疼痛<br>③ 正確，鼻胃管（nasogastric tube）可以：<br>· 減壓胃部<br>· 減少胃脹氣<br>· 改善手術視野<br>④ 正確，術中膽道攝影（intraoperative cholangiography）：<br>· 在膽囊管上開小口<br>· 插入導管<br>· 注射造影劑<br>· 目的：確認膽管解剖、排除總膽管結石<br>⑤ 正確，膽囊破裂時：<br>· 應使用檢體袋（specimen bag）取出膽囊和結石<br>· 避免結石散落腹腔<br>· 預防日後結石性腹膜炎或膿瘍<br>正確答案包含①③④⑤",
     "tags": [
       "113-1-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9293"
   },
@@ -1041,7 +1041,7 @@
     "explanation": "斷指再接的適應症需考慮功能恢復的可能性和手術成功率。<br>(A) 正確，拇指截肢是斷指再接的絕對適應症，因為拇指佔手部功能的40-50%，對於對掌、抓握等功能至關重要<br>(B) 正確，多指截肢應盡量再接，即使無法全部成功，保留部分手指仍能大幅改善手部功能<br>(C) 正確，小孩的斷指應積極嘗試再接，因為兒童血管較小但癒合能力強、功能恢復好、心理影響大<br>(D) 錯誤，單指多段截肢（single digit with multiple level amputation）是最不適當的適應症，因為血管、神經、肌腱在多處損傷，再接成功率極低且功能恢復差。除非是拇指，否則通常不建議再接<br>斷指再接的相對禁忌症還包括：嚴重壓碎傷、缺血時間過長（溫缺血>6小時、冷缺血>12小時）、嚴重污染傷口等",
     "tags": [
       "113-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9300"
   },
@@ -1229,7 +1229,7 @@
     "explanation": "肝臟鈍性創傷常見於車禍、跌倒等，傷害類型依據撞擊力道和方向。<br>(A) 正確且常見，肝臟撕裂傷（hepatic lacerations）是最常見的肝臟鈍傷，肝實質撕裂導致出血<br>(B) 正確且常見，肝臟被膜下血腫（subcapsular hematomas）是血液積聚在肝被膜（Glisson's capsule）下方，可能延遲破裂<br>(C) 正確且常見，肝實質內出血（intraparenchymal hemorrhage）是肝組織內部出血形成血腫<br>(D) 錯誤，肝門靜脈栓塞在鈍性創傷中極為罕見。門靜脈血栓較常見於肝硬化、惡性腫瘤、高凝血狀態、腹腔內感染等情況，而非急性外傷",
     "tags": [
       "113-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9311"
   },
@@ -1246,7 +1246,7 @@
     "explanation": "Budd-Chiari症候群是肝靜脈回流受阻的疾病。<br>(A) 錯誤，膽管阻塞會導致黃疸和膽汁鬱積，不是Budd-Chiari症候群<br>(B) 錯誤，門靜脈阻塞會導致門脈高壓和腸道鬱血，但不是Budd-Chiari症候群的定義<br>(C) 錯誤，肝動脈阻塞會導致肝臟缺血和梗塞<br>(D) 正確，Budd-Chiari症候群的定義是肝靜脈（hepatic veins）或肝靜脈與下腔靜脈交界處阻塞，導致肝臟靜脈回流受阻。典型影像表現為肝臟中央低密度（因鬱血）、周邊相對高密度（側枝循環代償），呈現「花斑肝」或「馬賽克樣」外觀。病因包括血栓形成（如骨髓增生性疾病、高凝血狀態）、腫瘤侵犯、外傷等",
     "tags": [
       "113-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "images": [
       "./exam/image/113-1-5-73.jpg"
@@ -1321,7 +1321,7 @@
     "explanation": "穿刺傷（penetrating injury）的肢體血管損傷評估很重要。<br>(A) 錯誤，下肢比上肢更容易發生血管受傷，因為下肢的主要血管（股動脈、膕動脈）較粗大且走向相對固定，更容易被穿刺物傷及<br>(B) 錯誤，神經受傷不一定伴隨血管受傷，因為神經和血管雖然常伴行但位置不完全重疊。且神經受傷需要神經外科或整形外科評估，而血管受傷需要血管外科，應該分別評估<br>(C) 正確，傷口處聽診發現雜音（bruit）或觸診有震顫（thrill）強烈提示動靜脈瘻管（arteriovenous fistula）或假性動脈瘤（pseudoaneurysm）形成，代表血管損傷，需要立即照會血管外科醫師進行影像學檢查（如血管攝影或CTA）和治療<br>(D) 錯誤，噴血的血管絕對不應該用器械盲目夾住，因為：可能夾到神經或其他重要結構、可能造成更嚴重的血管損傷、正確做法是直接加壓止血或使用止血帶，然後立即送手術室在直視下處理",
     "tags": [
       "113-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9316"
   },
@@ -1338,7 +1338,7 @@
     "explanation": "這是醫療倫理和急救處置的重要題目。<br>病人狀況評估：GCS 3分（最低分）、雙側瞳孔放大無反射（腦幹功能嚴重受損）、庫興氏反應（Cushing's reflex：高血壓、心搏過緩，提示顱內壓升高）、SpO2 88%（呼吸功能不足）<br>DNR（不施行心肺復甦術）的意義：DNR是指當心跳或呼吸停止時不進行CPR，但不等於放棄所有急救治療或基本醫療照護。<br>(A) 錯誤，病人呼吸功能不足（SpO2 88%）且無法保護呼吸道，這是緊急狀況，不應等待家屬同意才處理<br>(B) 正確，應立即插管，理由包括：病人目前心跳和呼吸仍存在，未達到CPR的情境、插管是維持呼吸道和氧合的基本醫療處置，不屬於CPR範疇、SpO2 88%且GCS 3分，有立即的生命危險、DNR不等於拒絕所有治療，插管屬於急救穩定措施<br>(C) 錯誤，病人已經呼吸功能不足，不能只觀察<br>(D) 錯誤，DNR不代表不能插管。DNR是指不施行心肺復甦術（胸外按壓、電擊等），插管是維持呼吸道的基本處置",
     "tags": [
       "113-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9317"
   },
@@ -1355,7 +1355,7 @@
     "explanation": "醫療保密義務與例外情況是醫療倫理的重要課題。<br>(A) 正確，醫師的保密義務是基本原則，除非病人同意或法律規定（如傳染病通報、兒童虐待通報、法院命令等），否則不能洩露病人資訊<br>(B) 正確，當保密可能造成他人嚴重傷害時，醫師可以基於「避免傷害原則」突破保密義務，告知可能受害者或相關單位。這是Tarasoff案例確立的原則<br>(C) 正確，當得知病人有傷害他人的意圖時，醫師應該：先告知病人將不再為此保密、說明原因（保護潛在受害者）、記錄溝通過程<br>(D) 錯誤，最不恰當的做法。當得知病人可能傷害他人時，應該：採取最小必要揭露原則（need-to-know basis）、只告知特定可能受害者或執法單位、而非「儘量」告知身旁親友，這會過度侵犯隱私。正確做法是評估風險後，針對性地通知可能受害者、精神醫療團隊、或執法單位",
     "tags": [
       "113-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9318"
   },
@@ -1372,7 +1372,7 @@
     "explanation": "未成年人的醫療自主權、性病處理和通報義務的平衡。<br>法律背景：淋病是第三類法定傳染病，醫師有通報義務。性病防治法規定，對於性病防治，未成年人可以自行就醫和同意治療，不需要法定代理人同意。<br>(A) 錯誤，淋病是法定傳染病，醫師有義務通報，不能因為病人請求就不通報<br>(B) 錯誤，HIV檢驗陽性當然需要通報，但不論是否陽性，淋病都必須通報。且自費購藥不能解決通報義務<br>(C) 錯誤，性病防治法明確規定，未成年人可以自行就醫並同意性病相關檢查和治療，不需要監護人同意。過度保護未成年人隱私可能導致他們不敢就醫，增加疫情傳播風險<br>(D) 正確，最恰當的處置包括：尊重未成年人的醫療隱私權、告知通報是法定義務，但通報給疾管單位而非家長、說明通報目的（疾病監控、接觸者追蹤）、強調完整治療的重要性、提供衛教和預防指導、建議性伴侶一起接受檢查治療。醫師可以在保護病人隱私的前提下履行通報義務，不一定要告知家長",
     "tags": [
       "113-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9319"
   }

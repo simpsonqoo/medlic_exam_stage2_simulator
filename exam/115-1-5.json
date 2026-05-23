@@ -46,7 +46,7 @@
     "explanation": "冠狀動脈（coronary artery）的主要分支為固定的解剖結構，只需辨認哪個名稱並不存在於正常冠狀循環即可。<br>(A) 正確，左主冠狀動脈（left main coronary artery）是真實存在的冠狀動脈主幹<br>(B) 正確，左前降支（left anterior descending coronary artery）是左主冠狀動脈的主要分支之一<br>(C) 正確，迴旋支（circumflex coronary artery）是左主冠狀動脈的另一主要分支<br>(D) 錯誤，橈冠狀動脈（radial coronary artery）並不存在於正常冠狀動脈解剖中，橈動脈（radial artery）是前臂的動脈，與心臟冠狀循環無關",
     "tags": [
       "115-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_1151502"
   },
@@ -63,7 +63,7 @@
     "explanation": "Carpentier 分類（Carpentier classification）根據二尖瓣葉（mitral leaflet）的運動型態來分類，腱索斷裂（chordae rupture）會造成瓣葉活動度增加，需對應到正確的 type。<br>(A) 錯誤，Type I 是指瓣葉活動度正常（normal leaflet motion），如瓣環擴張（annular dilation）造成的逆流<br>(B) 正確，Type II 是指瓣葉活動度過大（leaflet prolapse/excess motion），腱索斷裂（chordae rupture）導致瓣葉脫垂，屬於此類<br>(C) 錯誤，Type IIIa 是指瓣葉活動度受限且發生在收縮期及舒張期（restricted motion in diastole and systole），如風濕性心臟病（rheumatic heart disease）所致<br>(D) 錯誤，Type IIIb 是指瓣葉活動度受限且主要發生在收縮期（restricted motion in systole），如缺血性心肌病變（ischemic cardiomyopathy）所致的功能性逆流",
     "tags": [
       "115-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_1151503"
   },
@@ -131,7 +131,7 @@
     "explanation": "急性膽囊炎（acute calculous cholecystitis）的診斷影像選擇是本題核心，超音波與電腦斷層在此情境下的角色需明確區分。<br>(A) 正確，急性膽囊炎（acute cholecystitis）典型表現為發燒及右上腹痛，常伴隨墨菲氏徵（Murphy's sign）陽性<br>(B) 錯誤，超音波（ultrasound）對急性膽囊炎的診斷敏感度優於電腦斷層（CT scan），超音波是第一線影像工具，可直接觀察膽結石、膽囊壁增厚及膽囊周圍積液<br>(C) 正確，當解剖構造不清晰時（critical view of safety 無法建立），部分膽囊切除（subtotal cholecystectomy）是避免總膽管（common bile duct）損傷的安全選擇<br>(D) 正確，先以抗生素治療後安排延遲膽囊切除（delayed cholecystectomy）的保守策略，約有 20% 的失敗機率，可能需要緊急手術",
     "tags": [
       "115-1-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151507"
   },
@@ -148,7 +148,7 @@
     "explanation": "胰臟腺癌（pancreatic adenocarcinoma）各亞型的預後差異是解題重點，腺鱗癌（adenosquamous carcinoma）的分化程度與預後需正確認識。<br>(A) 正確，約 60 至 70% 的胰臟腺癌發生於胰臟頭部（head）或鈎突（uncinate process）<br>(B) 正確，胰臟尾部（tail）腫瘤因早期症狀不明顯，診斷時通常腫瘤較大，可手術切除的比例較低<br>(C) 正確，胰臟頭部腫瘤壓迫膽管造成阻塞性黃疸（obstructive jaundice），可較早發現，手術機會相對較高<br>(D) 錯誤，腺鱗癌（adenosquamous carcinoma）是胰腺癌的罕見變異型，分化程度差，預後比胰管腺癌（ductal adenocarcinoma）更差，而非更好",
     "tags": [
       "115-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151508"
   },
@@ -182,7 +182,7 @@
     "explanation": "門脈高壓（portal hypertension）依阻力位置分為竇前型（presinusoidal）、竇性（sinusoidal）及竇後型（postsinusoidal），需逐一對應各病因的阻塞位置。<br>(A) 錯誤，原發性膽汁性肝硬化（primary biliary cirrhosis）造成肝內膽管破壞和肝硬化，屬於竇性（sinusoidal）或竇後型（postsinusoidal）門脈高壓<br>(B) 錯誤，充血性心衰竭（congestive heart failure）造成靜脈回流受阻，屬於竇後型（postsinusoidal）門脈高壓<br>(C) 錯誤，肝內血管阻塞性疾病（intrahepatic vascular occlusive disease）如 Budd-Chiari syndrome，屬於竇後型（postsinusoidal）門脈高壓<br>(D) 正確，肉芽腫病（sarcoidosis）的肉芽腫沉積於門脈匯管區（portal tract），造成竇前型（presinusoidal）阻力增加，屬於 presinusoidal portal hypertension",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151510"
   },
@@ -284,7 +284,7 @@
     "explanation": "比較腹腔鏡（laparoscopic）與機械手臂（robotic）遠端胰臟切除術（distal pancreatectomy）的差異，需從轉為開腹率（conversion rate）及脾臟保留率（spleen preservation rate）兩項指標正確判斷。<br>(A) 正確，兩者相較於開腹手術（open surgery）皆具有微創手術的優點，如術後疼痛較輕、恢復較快<br>(B) 正確，兩者在胰臟瘻管（pancreatic fistula）等重大併發症的發生率上相近<br>(C) 錯誤，機械手臂手術的轉為開腹率（conversion rate）低於腹腔鏡手術，且脾臟保留率（spleen preservation rate）高於腹腔鏡手術，而非較低<br>(D) 正確，腹腔鏡手術的醫療費用（cost）低於機械手臂手術",
     "tags": [
       "115-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151516"
   },
@@ -301,7 +301,7 @@
     "explanation": "比較腹腔鏡（laparoscopic）與機械手臂（robotic）肝臟切除術在手術時間、失血量及費用方面的差異是本題核心。<br>(A) 錯誤，機械手臂切肝手術並未明確比腹腔鏡切肝手術耗費時間更短或失血更少，兩者在手術時間與出血量方面差異不顯著，但機械手臂的醫療費用（cost）確實較高<br>(B) 正確，腹腔鏡與機械手臂切肝手術在適應症（indications）上大致相同<br>(C) 正確，兩者在術後併發症（complications）及轉為開腹率（conversion rate）方面並無顯著差異<br>(D) 正確，微創手術（minimally invasive surgery）已成為肝臟邊緣病灶（peripheral lesion）切除的標準治療方式",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151517"
   },
@@ -318,7 +318,7 @@
     "explanation": "Child-Pugh Score 的計算需整合五項參數：腹水（ascites）、肝性腦病變（hepatic encephalopathy）、總膽紅素（total bilirubin）、白蛋白（albumin）及凝血酶原時間（PT/INR），正確計分後再決定治療方式。<br>本題患者：Total bilirubin 0.8 mg/dL（1分）、PT 延長 1.5 秒（1分）、albumin 4.38 g/dL（1分）、些微肝硬化但無明顯腹水（1分）、無肝性腦病變（1分），合計 5 分，屬於 Child-Pugh A 級。<br>(A) 正確，Child-Pugh A（5 至 6 分）代表肝功能尚佳，加上腫瘤為單顆 2.5 公分、位於第五葉，適合安排腹腔鏡肝臟部分切除手術（laparoscopic partial hepatectomy）<br>(B) 錯誤，此患者屬於 Child-Pugh A 而非 B，靛氰綠（indocyanine green，ICG）肝功能檢查雖可輔助評估，但分級判斷有誤<br>(C) 錯誤，Child-Pugh C 代表嚴重肝功能不全，此患者不符合，射頻灼燒術（radiofrequency ablation，RFA）是在手術風險高時的替代選項<br>(D) 錯誤，Child-Pugh B 分級有誤，且此患者肝功能良好、腫瘤可切除，不應優先選擇經動脈導管肝臟腫瘤化學栓塞術（trans-arterial chemoembolization，TACE）",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151518"
   },
@@ -386,7 +386,7 @@
     "explanation": "MELD score（Model for End-stage Liver Disease score）的計算公式需熟記，其使用三個客觀的血清生化指標，白蛋白並不在其中。<br>MELD score 公式：3.78×ln（總膽紅素）+ 11.2×ln（INR）+ 9.57×ln（肌酸酐）+ 6.43<br>(A) 正確，血清肌酸酐（serum creatinine）是 MELD score 的計算參數之一，反映腎功能<br>(B) 正確，血清總膽紅素（serum total bilirubin）是 MELD score 的計算參數之一，反映肝臟膽紅素代謝功能<br>(C) 正確，國際標準化比值（international normalized ratio，INR）是 MELD score 的計算參數之一，反映肝臟合成凝血因子的功能<br>(D) 錯誤，血清白蛋白（serum albumin）是 Child-Pugh Score 的參數之一，並非 MELD score 的計算項目",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151522"
   },
@@ -437,7 +437,7 @@
     "explanation": "左側基底核（basal ganglia）出血合併長期高血壓病史，需對應最常見的出血機轉，Charcot-Bouchard 動脈瘤破裂是高血壓性腦出血的經典致病機轉。<br>(A) 錯誤，澱粉樣血管病（cerebral amyloid angiopathy）好發於老年人，但出血位置通常在腦葉（lobar）而非基底核，且與高血壓關聯性較低<br>(B) 正確，長期高血壓造成穿通動脈（perforating artery）管壁形成微動脈瘤（Charcot-Bouchard aneurysm），破裂後造成基底核、視丘（thalamus）或腦橋（pons）的高血壓性腦出血（hypertensive intracerebral hemorrhage）<br>(C) 錯誤，頸內動脈與海綿竇瘻管（carotid-cavernous fistula）造成的靜脈高壓性出血表現通常為眼眶靜脈充血、搏動性眼球突出（pulsating exophthalmos），而非基底核出血<br>(D) 錯誤，此患者並無急性缺血性腦中風（ischemic stroke）接受血栓溶解治療（thrombolysis）的病史，故不符合再灌流性出血（hemorrhagic transformation）的情境",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151525"
   },
@@ -454,7 +454,7 @@
     "explanation": "兒童腦幹膠質瘤（pediatric brainstem glioma）依位置不同預後差異顯著，瀰漫性橋腦膠質瘤（diffuse pontine glioma，DIPG）的治療策略是本題核心。<br>(A) 正確，瀰漫性橋腦膠質瘤（diffuse intrinsic pontine glioma，DIPG）多為高惡性度（high-grade）腫瘤，預後極差，中位存活期約 9 至 11 個月<br>(B) 正確，中腦膠質瘤（midbrain glioma）包含頂蓋膠質瘤（tectal glioma）及被蓋膠質瘤（tegmental glioma），生長緩慢，預後優於瀰漫性橋腦膠質瘤<br>(C) 錯誤，瀰漫性橋腦膠質瘤（DIPG）因腫瘤瀰漫浸潤橋腦，手術切除風險極高且無法達到腫瘤控制，治療以放射治療（radiation therapy）為主，而非手術<br>(D) 正確，頂蓋膠質瘤（tectal glioma）常因壓迫中腦導水管（cerebral aqueduct）而合併阻塞性水腦症（obstructive hydrocephalus）",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151526"
   },
@@ -471,7 +471,7 @@
     "explanation": "癲癇手術（epilepsy surgery）包含切除性手術及調控性手術，需區分哪些術式屬於癲癇外科的範疇。<br>(A) 正確，前顳葉切除術（anterior temporal lobectomy）是顳葉癲癇（temporal lobe epilepsy）最常見的切除性手術，可有效控制發作<br>(B) 正確，迷走神經刺激術（vagus nerve stimulation，VNS）是一種神經調控（neuromodulation）手術，屬於癲癇外科治療的一環<br>(C) 正確，胼胝體切開術（corpus callosotomy）透過切斷胼胝體阻斷癲癇放電跨半球傳播，用於失張力發作（atonic seizure）等難治性癲癇<br>(D) 錯誤，微血管減壓術（microvascular decompression，MVD）是用於治療三叉神經痛（trigeminal neuralgia）及顏面半側痙攣（hemifacial spasm）的手術，與癲癇手術無關",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151527"
   },
@@ -488,7 +488,7 @@
     "explanation": "水腦症（hydrocephalus）依腦脊髓液（cerebrospinal fluid，CSF）循環阻塞位置分為阻塞性（non-communicating）及交通性（communicating）水腦，導水管狹窄的分類是本題核心。<br>(A) 正確，導水管狹窄（aqueductal stenosis）可為先天性（congenital），屬於 congenital etiology<br>(B) 錯誤，導水管狹窄（aqueductal stenosis）造成腦脊髓液在第三腦室與第四腦室之間受阻，屬於阻塞性水腦症（non-communicating hydrocephalus），而非交通性水腦症（communicating hydrocephalus）<br>(C) 正確，新生兒腦膜炎（neonatal meningitis）後造成蜘蛛膜下腔（subarachnoid space）沾黏，影響腦脊髓液的再吸收，屬於交通性水腦症（communicating hydrocephalus）<br>(D) 正確，Chiari II 畸形（Chiari II malformation）常合併脊髓脊膜膨出（myelomeningocele），造成先天性水腦症，屬於 congenital etiology",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151528"
   },
@@ -505,7 +505,7 @@
     "explanation": "頸椎退化性疾病（cervical degenerative disease）的影像學評估工具選擇是本題核心，各影像工具的適應症需正確區分。<br>(A) 正確，急性頸椎椎間盤突出（acute cervical disc herniation）有典型的神經根病變（radiculopathy）症狀，仔細的臨床評估包含皮節感覺（dermatomal sensation）及肌節肌力（myotomal strength）檢查可協助診斷<br>(B) 正確，無顯影劑的核磁共振造影（MRI without contrast）是評估頸椎軟組織、椎間盤及脊髓的最主要影像工具<br>(C) 錯誤，若病人無法接受核磁共振造影（MRI），應以電腦斷層脊髓攝影（CT myelography）作為替代，而非骨頭掃描攝影（bone scan）；骨頭掃描主要用於偵測骨骼代謝活性異常，對神經壓迫的評估幫助有限<br>(D) 正確，肌電圖（electromyography，EMG）和神經傳導檢查（nerve conduction study，NCS）可協助區分神經根病變（radiculopathy）、臂神經叢病變（brachial plexopathy）及周邊神經病變（peripheral neuropathy）",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151529"
   },
@@ -522,7 +522,7 @@
     "explanation": "庫欣三徵（Cushing's triad）是顱內壓升高（increased intracranial pressure，ICP）的典型臨床表現，由三個特定的生命徵象組成，頭痛並不在其中。<br>(A) 正確，血壓上升（hypertension）是 Cushing's triad 的三項之一，為腦幹受壓後代償性升壓以維持腦灌流壓（cerebral perfusion pressure）<br>(B) 正確，心跳變慢（bradycardia）是 Cushing's triad 的三項之一，為壓力感受器（baroreceptor）對高血壓的反射性心跳減慢<br>(C) 錯誤，頭痛（headache）雖然是顱內壓升高的常見症狀，但並不屬於 Cushing's triad；Cushing's triad 的三項為高血壓（hypertension）、心跳過慢（bradycardia）及呼吸不規則（irregular respiration）<br>(D) 正確，呼吸不規則（irregular respiration）是 Cushing's triad 的三項之一，反映延腦（medulla oblongata）呼吸中樞受壓",
     "tags": [
       "115-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_1151530"
   },
@@ -590,7 +590,7 @@
     "explanation": "體重小於 20 公斤的嚴重燒燙傷兒童，因肝醣儲存量少且代謝速率高，輸液復甦（fluid resuscitation）中需額外補充特定成分以避免低血糖。<br>(A) 錯誤，鉀離子（potassium）在燒燙傷急性期因大量細胞破壞釋放，血鉀常偏高，不應額外補充<br>(B) 錯誤，乳酸林格氏液（Lactated Ringer's solution）本身已含有鈉離子（sodium），不需另外添加<br>(C) 錯誤，鈣離子（calcium）並非燒燙傷兒童輸液復甦的常規添加成分<br>(D) 正確，小兒尤其是兩歲以下的嬰幼兒肝醣儲存量少，代謝需求高，嚴重燒燙傷時容易發生低血糖（hypoglycemia），因此在乳酸林格氏液中需添加葡萄糖（dextrose）",
     "tags": [
       "115-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_1151534"
   },
@@ -607,7 +607,7 @@
     "explanation": "急性主動脈綜合症（acute aortic syndrome，AAS）是一組具有相似臨床表現的主動脈急症，需明確區分哪些疾病屬於此分類。<br>(A) 錯誤，主動脈粥狀動脈硬化（aortic atherosclerosis）是慢性退化性病變，並不屬於急性主動脈綜合症的範疇；急性主動脈綜合症包含急性主動脈剝離、主動脈壁內血腫及穿透性主動脈潰瘍三種<br>(B) 正確，急性主動脈剝離（acute aortic dissection，AAD）是急性主動脈綜合症的主要疾病之一<br>(C) 正確，主動脈壁內血腫（intramural hematoma，IMH）是急性主動脈綜合症的組成之一，病理上為主動脈中層（media）出血而無內膜撕裂口<br>(D) 正確，穿透性主動脈潰瘍（penetrating aortic ulcer，PAU）是急性主動脈綜合症的組成之一，由主動脈粥狀硬化斑塊潰瘍穿透內彈性膜造成",
     "tags": [
       "115-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_1151535"
   },
@@ -624,7 +624,7 @@
     "explanation": "急性 Type A 主動脈剝離（acute Type A aortic dissection）是高度致命的外科急症，藥物治療的角色極為有限，手術時機的判斷是本題核心。<br>(A) 錯誤，急性 Type A 主動脈剝離（acute Type A AD）若不手術，住院死亡率每小時約增加 1 至 2%，藥物治療死亡率極高；標準治療是緊急手術（emergency surgery），而非等待藥物治療無效後才考慮手術<br>(B) 正確，複雜型 Type B 主動脈剝離（complicated Type B AD）如出現器官灌流不良（malperfusion）、主動脈破裂或持續疼痛，需考慮胸主動脈腔內修補術（TEVAR）或外科手術介入<br>(C) 正確，急性 Type A 壁內血腫（acute Type A IMH）因其自然病程與急性 Type A AD 類似，手術適應症應比照急性 Type A AD，建議緊急手術<br>(D) 正確，穿透性主動脈潰瘍（PAU）以藥物治療優先，但潰瘍內徑大於 20 mm 及頸部（neck）大於 10 mm 時，破裂風險高，建議儘早手術或腔內介入治療",
     "tags": [
       "115-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_1151536"
   },
@@ -641,7 +641,7 @@
     "explanation": "D-dimer 在深層靜脈栓塞（deep venous thrombosis，DVT）診斷中的角色需正確理解，其特性為高敏感度但低特異度，陰性預測值高而非低。<br>(A) 正確，霍曼氏徵（Homan's sign）是將足踝背屈時小腿疼痛，雖曾被使用於 DVT 篩查，但其敏感度（sensitivity）及特異性（specificity）皆不高，臨床上已不建議作為主要診斷依據<br>(B) 錯誤，D-dimer 對 DVT 的陰性預測值（negative predictive value，NPV）極高，通常大於 95%，其臨床價值在於陰性結果可有效排除 DVT，而非用陽性結果確診；且 D-dimer 不應作為唯一診斷工具<br>(C) 正確，雙功能超音波（duplex ultrasound）可直接觀察血栓並以壓迫測試（compression test）評估靜脈是否可被壓縮，是 DVT 診斷的主要非侵入性工具<br>(D) 正確，靜脈攝影（venography）是 DVT 診斷的黃金標準（gold standard），但因其侵入性及需注射顯影劑，臨床上已被超音波大量取代",
     "tags": [
       "115-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_1151537"
   },
@@ -726,7 +726,7 @@
     "explanation": "各種減重手術（bariatric surgery）的機轉不同，術後營養缺乏、胃食道逆流及長期減重效果各有差異，需逐項正確判斷。<br>(A) 錯誤，胃袖狀切除術（sleeve gastrectomy）切除胃底及大彎側後，下食道括約肌（lower esophageal sphincter）的支撐結構改變，術後胃食道逆流病（gastroesophageal reflux disease，GERD）的發生率反而上升<br>(B) 正確，Roux-en-Y 胃繞道術（Roux-en-Y gastric bypass）因繞過胃體、十二指腸及近端空腸，影響維生素 B12（cyanocobalamin）的內因子（intrinsic factor）分泌及鐵（iron）的吸收，最常見的營養缺乏為維生素 B12 及鐵缺乏<br>(C) 錯誤，可調式胃束帶術（laparoscopic adjustable gastric banding，LAGB）的長期體重回升率高於 Roux-en-Y 胃繞道術，長期效果較差<br>(D) 錯誤，膽胰分流術合併十二指腸轉位術（biliopancreatic diversion with duodenal switch，BPD-DS）因大幅縮短功能性小腸，術後低血糖（hypoglycemia）及傾食症候群（dumping syndrome）風險反而最高，而非最低",
     "tags": [
       "115-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_1151542"
   },
@@ -743,7 +743,7 @@
     "explanation": "急性胰臟炎（acute pancreatitis）的手術適應症需嚴格限定，過早手術會增加死亡率，感染性壞死是最主要的手術指標。<br>(A) 錯誤，嚴重型急性胰臟炎（severe acute pancreatitis）不應及早手術清創，早期手術死亡率極高；即使有壞死，無感染證據時應先採保守治療，待壞死組織界限清楚後（通常 4 週後）再介入<br>(B) 正確，手術或侵入性介入主要適用於感染性胰臟壞死（infected pancreatic necrosis）或感染性積聚（infected collection），是目前公認的手術適應症<br>(C) 錯誤，胰臟偽囊腫（pseudocyst）引流方式以內引流（internal drainage）優於外引流（external drainage），因外引流易造成胰臟皮膚瘻管（pancreaticocutaneous fistula）<br>(D) 錯誤，偽囊腫（pseudocyst）引流目前優先考慮內視鏡引流（endoscopic drainage），手術引流（surgical drainage）為內視鏡失敗或不適合時的替代選項",
     "tags": [
       "115-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151543"
   },
@@ -760,7 +760,7 @@
     "explanation": "胃食道逆流病（gastroesophageal reflux disease，GERD）的手術治療目標是重建下食道括約肌（lower esophageal sphincter）功能，而非切除胃部，手術方式的認識是本題核心。<br>(A) 正確，胸口燒灼感（heartburn）是胃食道逆流病最典型的症狀，由胃酸逆流刺激食道黏膜所致<br>(B) 正確，生活飲食習慣調整如減重、戒菸、少量多餐及避免睡前進食，是胃食道逆流病的第一線非藥物治療<br>(C) 正確，質子幫浦抑制劑（proton pump inhibitor，PPI）等制酸劑合併生活習慣調整，可有效控制大多數胃食道逆流病患者的症狀<br>(D) 錯誤，胃食道逆流病的手術治療以胃底折疊術（fundoplication）為主，如 Nissen fundoplication，藉由將胃底（gastric fundus）包繞下食道以重建括約肌功能；並不需要進行近端胃部切除（proximal gastrectomy）",
     "tags": [
       "115-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_1151544"
   },
@@ -934,7 +934,7 @@
     "explanation": "肝膽微創手術的技術細節包含 Pringle 手法（Pringle maneuver）的使用時機、氣體栓塞（gas embolism）的處理及手術時機選擇，懷孕患者的手術時機是本題正確選項的所在。<br>(A) 錯誤，並非所有切肝手術都需要 Pringle 手法（即暫時阻斷肝門血流），小範圍或周邊病灶切除出血量少者不需常規使用<br>(B) 錯誤，Pringle 手法應間歇性使用（intermittent clamping），通常阻斷 15 至 20 分鐘後需鬆開讓肝臟再灌流，以避免長時間缺血造成肝損傷，而非持續到手術結束<br>(C) 錯誤，懷疑氣體栓塞（gas embolism）時應立即讓病人採取頭低腳高左側躺（Trendelenburg position with left lateral decubitus），以避免氣體阻塞右心室出口，並考慮以中央靜脈導管（central venous catheter）抽出氣體；題目所述為頭高腳低，方向錯誤<br>(D) 正確，懷孕患者若需手術，應儘量安排在妊娠中期（second trimester，第 13 至 28 週）進行，因為此時期胎兒器官已發育完成、自然流產風險降低，且子宮尚未過大影響手術視野",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151554"
   },
@@ -1056,7 +1056,7 @@
     "explanation": "先天性併指症（syndactyly）的好發蹼間（web space）需正確記憶，最常發生於第三蹼間而非第四蹼間。<br>(A) 正確，複合併指（complex syndactyly）除皮膚及軟組織黏合外，骨骼（指骨）亦有融合，結構更複雜<br>(B) 正確，單純併指（simple syndactyly）及複合併指（complex syndactyly）都有皮膚黏合的表現，差別在於是否有骨骼融合<br>(C) 錯誤，先天性併指症最常發生於第三蹼間（third web space），即中指（middle finger）與無名指（ring finger）之間，而非第四蹼間<br>(D) 正確，第一蹼間（first web space）即拇指與食指之間，較少發生先天性併指症",
     "tags": [
       "115-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_1151561"
   },
@@ -1226,7 +1226,7 @@
     "explanation": "肝細胞癌（hepatocellular carcinoma，HCC）主要由肝動脈供血，但部分腫瘤可有肝外腫瘤血管供應（extrahepatic blood supply），右側橫膈膜下動脈是最常見的肝外供血來源。<br>(A) 錯誤，內乳動脈（internal mammary artery）偶爾可供應肝臟上方的腫瘤，但並非最常見的肝外供血血管<br>(B) 錯誤，下腸繫膜動脈（inferior mesenteric artery）主要供應左側大腸，與肝臟腫瘤的肝外供血關聯性低<br>(C) 正確，右側橫膈膜下動脈（right inferior phrenic artery）是肝細胞癌最常見的肝外腫瘤供血血管，尤其當腫瘤位於肝臟頂部（dome）或緊鄰橫膈膜時，在栓塞治療（transarterial embolization）時需特別評估<br>(D) 錯誤，網膜動脈（omental artery）是肝外供血的少見來源，並非最常見",
     "tags": [
       "115-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_1151571"
   },
@@ -1318,7 +1318,7 @@
     "explanation": "哺乳動物咬傷（mammalian bite wound）的感染風險依咬傷部位、動物種類及傷口特性不同而有所差異，並非所有部位的咬傷均屬高風險。<br>(A) 正確，貓咬傷（cat bite）因貓的牙齒細長，傷口深但表面小，容易造成深部感染，最常見的致病菌為巴斯德氏菌（Pasteurella multocida）<br>(B) 錯誤，並非所有部位的哺乳動物咬傷均屬高感染風險，臉部及頭皮（face and scalp）因血液循環豐富，感染風險反而較低，可考慮初級縫合（primary closure）；手部（hand）咬傷因腔室多、血液循環相對差，感染風險最高<br>(C) 正確，哺乳動物咬傷臉部或頭皮因血液供應佳、癒合能力強，可考慮初級縫合（primary closure）並給予預防性抗生素<br>(D) 正確，人類咬傷（human bite）通常為多重細菌感染（polymicrobial infection），最常見的致病菌為葡萄球菌（Staphylococcus）及鏈球菌（Streptococcus），以及口腔厭氧菌（oral anaerobes）",
     "tags": [
       "115-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_1151576"
   },
@@ -1335,7 +1335,7 @@
     "explanation": "醫療告知同意（informed consent）的本質是一個持續的溝通過程，而非僅憑簽署同意書即完成，同意的要素及其內涵是本題核心。<br>(A) 正確，「同意」的本質是病患對所接受醫療介入的自主授權（autonomous authorization），強調病患的自主性（autonomy）<br>(B) 正確，有效的「同意」需具備三個要素：充分告知（disclosure）、決策能力（capacity）及自願性（voluntariness），缺一不可<br>(C) 正確，當病患以行為表示接受，如捲起袖子伸出手臂準備抽血，屬於隱含同意（implied consent），具有法律效力<br>(D) 錯誤，簽妥同意書（consent form）只是告知同意過程的書面記錄，並不代表完成「同意」的全部過程；真正的告知同意是醫師與病患之間充分溝通、病患理解並自願接受的整個過程，簽名本身不等同於有效同意",
     "tags": [
       "115-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_1151577"
   },
@@ -1352,7 +1352,7 @@
     "explanation": "我國活體器官捐贈（living organ donation）的相關法律規定，包含捐贈者資格及所需親屬書面同意，是本題核心。<br>(A) 錯誤，我國《人體器官移植條例》對於配偶捐腎並無結婚年限（如未滿 2 年）的限制，只要符合其他法定條件即可<br>(B) 錯誤，配偶捐腎並非李先生同意即可，依法需出具相關親屬的書面同意文件<br>(C) 正確，依我國《人體器官移植條例》規定，配偶進行活體器官捐贈時，需出具捐贈者（妻子）最近親屬（即娘家至親）的書面同意證明，以確保捐贈行為出於自願且無強迫<br>(D) 錯誤，雖然活體捐贈者須為成年人，但我國法定成年年齡已修法為 18 歲，本選項描述雖大致正確，但相較於選項 C 所描述的娘家書面同意要求，C 才是本題情境下最關鍵的正確處置",
     "tags": [
       "115-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_1151578"
   },
@@ -1369,7 +1369,7 @@
     "explanation": "家庭會議（family meeting）的目的在於促進醫病溝通並協助病患及家屬面對末期疾病，但會議應有明確的目標導向，而非完全無預設目標。<br>(A) 正確，醫師應先自我介紹並確認在場每位人士與病患的關係，有助於建立信任關係及了解家庭動態<br>(B) 正確，使用開放性問句（open-ended questions）了解病患及家屬對病情的認知與態度，是家庭會議的重要溝通技巧<br>(C) 錯誤，家庭會議並非不應有任何預設目標；有效的家庭會議應在會議前設定明確的討論目標（如討論安寧緩和治療、預立醫療決定等），醫師需以有結構的方式引導討論，同時保持開放態度回應家屬需求，完全無目標的會議反而可能讓溝通失焦<br>(D) 正確，會議中應隨時注意曹女士及家屬的情緒反應，以同理心（empathy）及適當的方式回應，包含沉默、情感支持及提供必要的資訊",
     "tags": [
       "115-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_1151579"
   }

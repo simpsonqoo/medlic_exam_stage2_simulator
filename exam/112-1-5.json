@@ -46,7 +46,7 @@
     "explanation": "Whipple手術（pancreaticoduodenectomy）後需要三個吻合：胰腸吻合、膽腸吻合、胃腸吻合。<br>(A) 錯誤，胃空腸吻合（gastrojejunostomy）血液供應良好，組織較厚實，滲漏率相對較低<br>(B) 錯誤，膽管空腸吻合（hepaticojejunostomy）雖有滲漏風險，但膽汁刺激性較胰液低，且膽管組織較胰臟組織堅韌，滲漏率低於胰腸吻合<br>(C) 正確，胰腸吻合（pancreaticojejunostomy）是Whipple手術最容易發生滲漏的部位。原因包括：<br>· 胰臟組織柔軟且易碎（soft and friable），縫合困難<br>· 胰液含有高濃度的消化酶，對組織有腐蝕性<br>· 若胰管細小或胰臟質地過軟，吻合技術難度更高<br>· 術後胰瘻（pancreatic fistula）是最常見且最嚴重的併發症<br>(D) 錯誤，各吻合處滲漏機率有明顯差異，胰腸吻合滲漏率最高（10-30%），遠高於其他吻合處",
     "tags": [
       "112-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9402"
   },
@@ -63,7 +63,7 @@
     "explanation": "BCLC分期系統整合腫瘤狀態、肝功能和病人體能狀態來指引治療策略。<br>(A) 正確，BCLC分期包括：<br>· Stage 0：very early stage<br>· Stage A：early stage<br>· Stage B：intermediate stage<br>· Stage C：advanced stage<br>· Stage D：terminal stage<br>(B) 正確，BCLC分期考慮多項因素：<br>· 腫瘤大小、數目和血管侵犯<br>· Child-Pugh分數（肝功能）<br>· Performance status（體能狀態）<br>· 腫瘤相關症狀<br>(C) 錯誤，化學栓塞（transarterial chemoembolization, TACE）是一種姑息性治療（palliative treatment），而非根治性治療（curative treatment）。TACE主要用於BCLC stage B（intermediate stage）的病人，無法完全治癒癌症，但可延長生存期。根治性治療包括手術切除、肝移植和射頻消融<br>(D) 正確，BCLC stage C（advanced stage）患者可考慮使用標靶藥物如sorafenib、lenvatinib等，這些是一線系統性治療選擇",
     "tags": [
       "112-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9403"
   },
@@ -114,7 +114,7 @@
     "explanation": "盲環症候群是因腸道手術或解剖異常造成腸道停滯，導致細菌過度增生。<br>(A) 正確，細菌過度增生會：<br>· 分解膽鹽（bile salt deconjugation）<br>· 影響脂肪吸收<br>· 造成脂肪瀉（steatorrhea）<br>(B) 正確，過度增生的細菌會消耗維生素B12，導致B12缺乏。補充維生素B12是治療的一部分<br>(C) 正確，盲環症候群的定義就是腸道中細菌過度孳生（bacterial overgrowth），通常是因為腸內容物停滯<br>(D) 錯誤，盲環症候群會導致大紅血球貧血（macrocytic anemia），而非小紅血球貧血。這是因為：<br>· 維生素B12缺乏導致DNA合成障礙<br>· 造成巨大母細胞性貧血（megaloblastic anemia）<br>· 紅血球變大（MCV增加）<br>小紅血球貧血通常見於缺鐵性貧血或地中海貧血",
     "tags": [
       "112-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9406"
   },
@@ -131,7 +131,7 @@
     "explanation": "星狀細胞瘤依WHO分級系統分為四級，惡性度和預後各異。<br>(A) 正確，WHO分級：<br>· Grade I（pilocytic astrocytoma）：良性，生長緩慢，預後最佳<br>· Grade II（diffuse astrocytoma）：低惡性度，生長緩慢但會浸潤<br>· Grade III（anaplastic astrocytoma）：高惡性度<br>· Grade IV（glioblastoma）：最高惡性度，預後最差<br>(B) 錯誤，只有Grade IV稱為glioblastoma multiforme（GBM），Grade III稱為anaplastic astrocytoma。兩者都是高惡性度，但分類和預後不同<br>(C) 錯誤，預後因分級而異：<br>· Grade I：中位存活期可達10年以上<br>· Grade II：中位存活期約5-8年<br>· Grade III：中位存活期約2-3年<br>· Grade IV（GBM）：中位存活期約12-15個月<br>只有高惡性度的Grade III和IV預後極差<br>(D) 錯誤，手術切除是主要治療方式，特別是低惡性度腫瘤。盡可能完全切除可改善預後。高惡性度腫瘤則需手術加上放射治療和化學治療的多模式治療",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9407"
   },
@@ -148,7 +148,7 @@
     "explanation": "根據臨床表現（昏迷、高血壓、嘔吐）推測為自發性腦內出血，常見於基底核或視丘。<br>(A) 錯誤，病人昏迷指數E1V1M4（GCS=6），已處於深度昏迷狀態，無法表現出半側肢體無力。半側肢體無力通常見於意識較清醒的病人<br>(B) 錯誤，腦出血急性期的血壓管理需謹慎。雖然擔心腦灌流，但過高的血壓（>180/105 mmHg）會增加血腫擴大風險。應適度控制血壓至140-160/90-100 mmHg，而非完全不降血壓<br>(C) 錯誤，根據病史（清晨發現、高血壓、昏迷、嘔吐）最可能是高血壓性腦出血（hypertensive intracerebral hemorrhage），而非外傷性出血。常見部位包括基底核、視丘、腦幹和小腦<br>(D) 正確，高血壓是自發性腦內出血最重要的危險因子。長期高血壓導致小動脈病變（lipohyalinosis）和微小動脈瘤形成，容易破裂出血。冠狀動脈心臟病反映全身動脈硬化，也與腦血管病變相關",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "images": [
       "./exam/image/112-1-5-9.jpg"
@@ -168,7 +168,7 @@
     "explanation": "深部腦出血的治療需根據出血位置、大小、病人狀況決定。<br>(A) 正確，深部腦出血（如視丘或基底核出血）可能破入腦室系統，造成阻塞性水腦症（obstructive hydrocephalus）。此時需放置腦室外引流（external ventricular drain, EVD）降低顱內壓<br>(B) 錯誤，類固醇對腦出血周圍水腫效果有限，且可能增加併發症（如血糖升高、感染）。是否需要手術取決於：<br>· 出血量（>30 mL考慮手術）<br>· 出血位置（淺表性出血較適合手術）<br>· 神經功能惡化<br>· 顱內壓升高<br>深部出血（如基底核、視丘）手術風險高，通常先保守治療，但若有腦疝跡象或血腫擴大則需手術<br>(C) 正確，深部出血若擴大可壓迫腦幹，造成呼吸心跳中樞受損，導致猝死。需密切監測神經學變化和重複影像檢查<br>(D) 正確，高血壓性腦出血最常見的部位包括：<br>· 基底核（putamen）：最常見（35-50%）<br>· 視丘（thalamus）：20-30%<br>· 腦幹（pons）：5-10%<br>· 小腦：5-10%",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9408"
   },
@@ -185,7 +185,7 @@
     "explanation": "退化性腰椎管狹窄（degenerative lumbar spinal stenosis）是老年人常見的脊椎疾病。<br>(A) 錯誤，典型症狀是神經性跛行（neurogenic claudication）：<br>· 行走時下肢疼痛、麻木、無力<br>· 站立或腰椎伸直（extension）時症狀加劇<br>· 坐下或前彎（flexion）時症狀緩解<br>· 騎腳踏車時因脊椎前彎反而不會痛<br>下背痛可能存在但非主要症狀<br>(B) 錯誤，症狀會因腰椎伸直（extension）而加重，因為伸直會使椎管進一步狹窄。前彎（flexion）時椎管空間增加，症狀反而緩解。這就是為什麼病人坐著或前彎時比較舒服<br>(C) 錯誤，第5腰椎的pars interarticularis斷裂（spondylolysis）會造成L5/S1的腰椎滑脫（spondylolisthesis），而非L4/L5。若發生在L4則會造成L4/L5滑脫<br>(D) 正確，治療原則：<br>· 首選保守治療：物理治療、藥物、硬脊膜外類固醇注射<br>· 手術適應症包括：",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9410"
   },
@@ -202,7 +202,7 @@
     "explanation": "Jefferson骨折是第一頸椎（atlas，C1）的爆裂性骨折。<br>(A) 錯誤，Jefferson骨折主要是由軸向壓迫力（axial loading）造成，例如跳水時頭部直接撞擊或重物垂直落下打擊頭頂。不是前屈外力（flexion force）造成<br>(B) 錯誤，Jefferson骨折通常不會造成嚴重神經損傷，因為：<br>· C1骨折時環狀結構向外擴張<br>· 椎管空間反而增加<br>· 脊髓較不易受壓<br>· 大多數病人神經功能正常<br>(C) 錯誤，診斷主要靠X光和電腦斷層（CT）。CT可清楚顯示骨折型態。核磁共振（MRI）主要用於評估韌帶損傷，並非診斷骨折的必要檢查<br>(D) 正確，Jefferson骨折若合併橫向韌帶（transverse ligament）斷裂，會造成atlantoaxial instability（C1-C2不穩定）。評估標準：<br>· 側塊位移總和（lateral mass displacement）>7 mm提示韌帶斷裂<br>· 需要手術固定<br>· 若無韌帶損傷，可用頸圈保守治療",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9411"
   },
@@ -219,7 +219,7 @@
     "explanation": "顱骨骨折的手術時機取決於是否有腦損傷或急性併發症。<br>(A) 錯誤，顳骨骨折導致的顏面神經麻痺（facial nerve palsy）：<br>· 若為延遲性麻痺（delayed onset）：通常不需緊急手術，可觀察或給類固醇<br>· 若為立即性完全麻痺：可考慮手術減壓，但非緊急手術<br>(B) 錯誤，前顱窩骨折導致的腦脊髓液鼻漏（CSF rhinorrhea）：<br>· 大多數（85-90%）會在1-2週內自行癒合<br>· 先保守治療：抬高床頭、避免用力、預防性抗生素<br>· 若持續超過2週或反覆感染才考慮手術修補<br>(C) 錯誤，顳骨骨折較少導致CSF鼻漏，通常是CSF耳漏（otorrhea）。處理原則同上，先保守治療<br>(D) 正確，這是需要緊急手術的情況：<br>· 血腫量35 mL已達手術標準（通常>30 mL考慮手術）<br>· 中線偏移>1 cm（通常>5 mm為顯著偏移）<br>· 神智改變提示腦疝（herniation）風險<br>· 需緊急開顱移除血塊降低顱內壓",
     "tags": [
       "112-1-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9412"
   },
@@ -236,7 +236,7 @@
     "explanation": "先天性黑色素細胞痣依大小分類，癌變風險和處理方式不同。<br>① 正確，CMN依最大直徑分類（成年後預計大小）：<br>· 小型（small）：<1.5 cm<br>· 中型（medium）：1.5-19.9 cm<br>· 大型（large）：20-49.9 cm<br>· 巨大型（giant）：≥50 cm<br>（部分分類標準將≥20 cm統稱為large/giant）<br>② 正確，黑色素瘤（melanoma）風險：<br>· 小型CMN：終生風險<1%<br>· 大型和巨大型CMN：終生風險4.5-10%<br>· 風險隨CMN大小增加而上升<br>· 大型/巨大型CMN的黑色素瘤常在兒童早期發生<br>③ 正確，神經皮膚黑色素沉著症（neurocutaneous melanosis）：<br>· 大型/巨大型CMN有5-25%機會合併<br>· 黑色素細胞在腦膜和中樞神經系統異常增生<br>· 可用MRI診斷<br>· 可能造成神經症狀、發展遲緩、癲癇<br>④ 正確，小型CMN若發展成黑色素瘤：<br>· 通常發生在青春期後或成年期<br>· 大型/巨大型CMN的黑色素瘤反而常在10歲前發生<br>· 需終生監測ABCDE變化",
     "tags": [
       "112-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9413"
   },
@@ -253,7 +253,7 @@
     "explanation": "顯微手術皮瓣移植需注意組織缺血耐受時間和血管吻合技術。<br>(A) 錯誤，不同組織的熱缺血耐受時間（warm ischemia time）：<br>· 肌肉：4-6小時（較敏感）<br>· 筋膜皮瓣（fasciocutaneous flap）：8-12小時<br>· 骨頭：12-24小時<br>但「4-6小時」這個時間對肌肉來說已接近上限，較為寬鬆。更保守的說法是肌肉應在4小時內完成再灌流。此選項標示為錯誤可能是因為4-6小時對肌肉過於樂觀<br>(B) 正確，動脈吻合方式：<br>· End-to-end anastomosis：端端吻合<br>· End-to-side anastomosis：端側吻合<br>兩者成功率相近，選擇取決於受區血管狀況<br>(C) 正確，當皮瓣血管和受區血管口徑不匹配時，end-to-side吻合是很好的解決方式：<br>· 可將細血管接到粗血管側壁<br>· 保持受區血管主幹血流<br>· 技術上較容易處理口徑差異<br>(D) 正確，血管外膜（adventitia）含有交感神經纖維，可能引起血管痙攣（vasospasm）。剝除外膜可：<br>· 減少神經刺激<br>· 降低vasospasm風險<br>· 改善吻合處血流<br>但需小心不要損傷血管壁",
     "tags": [
       "112-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9414"
   },
@@ -270,7 +270,7 @@
     "explanation": "手部魚際肌群（thenar muscles）的神經支配需要清楚記憶。<br>(A) 錯誤，abductor pollicis brevis由正中神經的recurrent motor branch支配，是魚際肌群的一部分<br>(B) 正確，adductor pollicis由尺神經（ulnar nerve）的深支（deep branch）支配，不是正中神經。這是容易混淆的地方，因為其他魚際肌群多由正中神經支配<br>(C) 錯誤，flexor pollicis brevis有兩個頭：<br>· Superficial head：由正中神經支配<br>· Deep head：由尺神經支配<br>通常以正中神經支配為主<br>(D) 錯誤，opponens pollicis由正中神經的recurrent motor branch支配<br>記憶口訣：正中神經支配的魚際肌群包括「OAF」：<br>· Opponens pollicis<br>· Abductor pollicis brevis<br>· Flexor pollicis brevis（superficial head）<br>其餘手部內在肌多由尺神經支配",
     "tags": [
       "112-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9415"
   },
@@ -287,7 +287,7 @@
     "explanation": "唾液腺腫瘤相對少見，但有特定的流行病學和病理特徵。<br>(A) 正確，唾液腺腫瘤在頭頸部癌症中占比很小，約<2%。大多數是良性腫瘤<br>(B) 正確，唾液腺腫瘤分布：<br>· 80%發生在腮腺（parotid gland）<br>· 腮腺腫瘤中75-80%為良性<br>· 最常見的良性腫瘤是多形性腺瘤（pleomorphic adenoma），占腮腺腫瘤的60-70%<br>(C) 錯誤，腺樣囊狀癌（adenoid cystic carcinoma, ACC）的病理型態與預後關係：<br>· Cribriform pattern：最常見，預後中等<br>· Tubular pattern：預後最好<br>· Solid pattern：預後最差<br>因此tubular pattern預後較好，而非較差<br>(D) 正確，黏液表皮樣癌（mucoepidermoid carcinoma）：<br>· 是最常見的唾液腺惡性腫瘤<br>· High grade：以epidermoid cells為主，預後較差<br>· Low grade：以mucinous cells為主，預後較好",
     "tags": [
       "112-1-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9416"
   },
@@ -324,7 +324,7 @@
     "explanation": "體外循環（CPB）暫時取代心肺功能，需注意灌流參數和併發症。<br>(A) 正確，動脈管路（arterial cannulation）常見位置：<br>· 升主動脈（ascending aorta）：最常用<br>· 無名動脈（innominate artery）<br>· 腋動脈（axillary artery）：特別在主動脈手術<br>· 股動脈（femoral artery）：緊急或重做手術<br>(B) 錯誤，體外循環流量需求與體溫相關：<br>· 正常體溫（37℃）：2.4-2.8 L/min/m²<br>· 中度低溫（28-32℃）：1.5-2.0 L/min/m²<br>· 深度低溫（20℃）：可降至更低甚至短暫完全停止循環（deep hypothermic circulatory arrest）<br>體溫20℃時代謝率大幅下降，不需要2.4 L/min/m²的高流量<br>(C) 正確，CPB的負面影響包括：<br>· 全身性發炎反應（SIRS）：接觸人工表面<br>· 栓塞：空氣栓塞、微小血栓<br>· 凝血功能異常：稀釋、血小板功能障礙<br>· 器官功能不全：腎、腦、肺損傷<br>(D) 正確，心臟停跳且完全依靠CPB時，肺臟沒有血流，不需要換氣功能，呼吸器可暫停。但通常會維持低頻率通氣以避免肺塌陷",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9418"
   },
@@ -341,7 +341,7 @@
     "explanation": "IVC filter的目的是預防肺栓塞，適應症需謹慎評估。<br>(A) 正確，慢性下腔靜脈完全阻塞（chronic IVC occlusion）：<br>· IVC已經完全阻塞，血栓無法經由IVC到達肺動脈<br>· 血流已經建立側支循環<br>· 放置filter無意義且技術上困難<br>· 這不是filter的適應症<br>(B) 錯誤，有抗凝血劑絕對禁忌症（如活動性出血、近期腦出血、嚴重血小板低下）但有DVT/PE風險時，需要放置IVC filter作為替代保護<br>(C) 錯誤，在足夠抗凝治療下仍復發DVT或PE，表示抗凝治療失敗，需要放置IVC filter提供機械性保護<br>(D) 錯誤，慢性肺栓塞合併肺高壓（chronic thromboembolic pulmonary hypertension, CTEPH）的病人無法承受新的肺栓塞，即使很小的栓塞都可能致命。在某些情況下（如需手術或抗凝禁忌）可考慮放置IVC filter<br>IVC filter的主要適應症：<br>· 抗凝治療的絕對禁忌症<br>· 抗凝治療失敗（復發性PE/DVT）<br>· 嚴重心肺功能不全無法承受PE<br>· 自由漂浮的大型血栓（free-floating thrombus）",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9419"
   },
@@ -358,7 +358,7 @@
     "explanation": "Fontaine分類是周邊動脈阻塞疾病（peripheral arterial disease, PAD）的經典分期系統，依症狀嚴重程度分為四期。<br>(A) 錯誤，組織喪失（tissue loss）包括潰瘍或壞疽，屬於最嚴重的stage IV，而非stage I<br>(B) 錯誤，壞疽（gangrene）是最嚴重的表現，屬於stage IV，而非stage II<br>(C) 正確，Fontaine分類：<br>· Stage I：無症狀（asymptomatic）<br>· Stage II：間歇性跛行（intermittent claudication）<br>· Stage IIa：跛行距離>200公尺<br>· Stage IIb：跛行距離<200公尺<br>· Stage III：休息時缺血性疼痛（ischemic rest pain）<br>· Stage IV：組織壞死（ulceration or gangrene）<br>(D) 錯誤，間歇性跛行（claudication）是stage II的表現，而非stage IV",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9420"
   },
@@ -375,7 +375,7 @@
     "explanation": "馬凡氏症是一種遺傳性結締組織疾病，影響多個器官系統。<br>(A) 錯誤，elastin缺陷會造成其他疾病如cutis laxa（皮膚鬆弛症）或supravalvular aortic stenosis，但不是馬凡氏症的主要原因<br>(B) 錯誤，metalloproteinase異常與動脈瘤形成有關，但不是馬凡氏症的原發缺陷<br>(C) 錯誤，collagen異常會造成Ehlers-Danlos syndrome（埃勒斯-當洛斯症候群）或osteogenesis imperfecta（成骨不全症），而非馬凡氏症<br>(D) 正確，馬凡氏症是由FBN1基因突變造成，導致fibrillin-1蛋白質異常。Fibrillin-1是細胞外基質的重要成分，其缺陷造成心血管系統（主動脈根部擴張、主動脈剝離、二尖瓣脫垂）、骨骼系統（身材高瘦、蜘蛛指、脊柱側彎、胸骨畸形）、眼睛（水晶體異位、近視、視網膜剝離）、肺部（自發性氣胸）等多系統病變",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9421"
   },
@@ -392,7 +392,7 @@
     "explanation": "TAPVC是先天性心臟病，所有肺靜脈未正常連接至左心房。<br>(A) 錯誤，手術治療TAPVC時，垂直靜脈（vertical vein）是異常的引流通道，手術目標是將肺靜脈重新連接至左心房，應該結紮或切斷垂直靜脈，避免術後仍有異常分流。若保留垂直靜脈會造成持續的異常血流<br>(B) 正確，TAPVC無論是否有阻塞都應該手術矯正。有阻塞者需在新生兒期緊急手術，無阻塞者在嬰兒期擇期手術。不手術會導致心衰竭、肺高壓<br>(C) 正確，無縫修復法（sutureless repair）適用於術後肺靜脈再狹窄的病人，使用自體心包膜或其他材料擴大吻合口，減少縫合造成的張力和狹窄<br>(D) 正確，現代影像學進步使得心導管檢查不再是必要的診斷工具。心臟超音波可清楚診斷TAPVC型態，CT或MRI可提供額外資訊。心導管主要用於複雜病例或評估肺動脈壓力",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9422"
   },
@@ -409,7 +409,7 @@
     "explanation": "心室中隔缺損（ventricular septal defect, VSD）依位置分類，各有不同併發症。<br>(A) 錯誤，小的perimembranous VSD（<3 mm）通常不會造成明顯的主動脈瓣問題，可能自行閉合<br>(B) 錯誤，大的perimembranous VSD（>5 mm）主要問題是左向右分流造成的心衰竭和肺高壓，較少造成主動脈瓣脫垂<br>(C) 正確，Subarterial VSD（又稱supracristal VSD或doubly committed subarterial VSD）位於主動脈瓣和肺動脈瓣下方，缺乏肌肉或纖維組織支撐，主動脈瓣（特別是右冠瓣）容易因缺乏支撐而脫垂進入VSD。約25-50%會發生主動脈瓣脫垂和逆流，常見於亞洲人（約佔VSD的30%）。即使VSD很小也建議手術，因為主動脈瓣問題會進行性惡化<br>(D) 錯誤，Muscular VSD周圍有肌肉組織包圍，提供良好支撐，不易造成主動脈瓣脫垂",
     "tags": [
       "112-1-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9423"
   },
@@ -528,7 +528,7 @@
     "explanation": "肝臟移植的適應症主要依循Milan criteria或UCSF criteria評估。<br>(A) 錯誤，此病人符合Milan criteria（單顆腫瘤≤5 cm或≤3顆腫瘤且每顆≤3 cm，無血管侵犯或肝外轉移）。兩顆腫瘤分別為2.0 cm和2.5 cm，CTP score=8顯示肝功能Child-Pugh B級，適合肝移植<br>(B) 錯誤，此病人符合Milan criteria（單顆4.5 cm<5 cm），CTP score=10為Child-Pugh C級，肝功能很差，肝移植是最佳選擇<br>(C) 錯誤，此病人符合Milan criteria（3顆腫瘤且每顆≤3 cm），CTP score=7為Child-Pugh B級，適合肝移植<br>(D) 正確，此病人雖然腫瘤條件完全符合Milan criteria（單顆2.0 cm），但CTP score=5為Child-Pugh A級，肝功能良好，這種情況下應優先考慮肝切除手術而非肝移植。因為肝切除的風險較低且可保留自己的肝臟，不需要終生免疫抑制劑。肝移植應保留給肝功能較差無法接受肝切除的病人，以有效利用珍貴的移植器官",
     "tags": [
       "112-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9430"
   },
@@ -545,7 +545,7 @@
     "explanation": "大腸直腸癌肝轉移的治療策略已有長足進步。<br>(A) 正確，最常見的轉移性肝臟腫瘤來自大腸直腸癌（colorectal cancer），因為大腸靜脈血經門靜脈系統首先流經肝臟<br>(B) 正確，約50-60%的大腸直腸癌患者在其病程中會出現肝臟轉移，包括診斷時即有轉移（同時性轉移）或術後追蹤發現（異時性轉移）<br>(C) 正確，基於化學藥物治療（如FOLFOX, FOLFIRI加上標靶藥物）的發展及肝臟手術技術的精進，肝臟切除已成為大腸直腸癌肝轉移的標準治療之一，可顯著延長存活期<br>(D) 錯誤，多發性大腸直腸癌肝轉移並非手術禁忌症。隨著手術技術進步和周術期化療的發展，即使多發性轉移，只要能完全切除（R0 resection）且保留足夠的功能性肝實質（通常需要殘餘肝體積>30%），仍可獲得良好預後。可考慮分階段切除、門靜脈栓塞誘導肝臟再生、合併消融治療等策略。5年存活率可達30-50%",
     "tags": [
       "112-1-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9431"
   },
@@ -562,7 +562,7 @@
     "explanation": "胰臟移植有三種主要類型，各有不同的適應症和預後。<br>(A) 正確，SPK（simultaneous pancreas and kidney transplant）是最常見的胰臟移植類型，約佔所有胰臟移植的80%以上。預後也最好，原因包括：<br>· 同時移植兩個器官，只需一次手術<br>· 腎臟功能可作為胰臟排斥的監測指標（血清肌酐酸上升提示排斥）<br>· 免疫抑制方案較容易調整<br>· 1年胰臟存活率約85-90%，腎臟存活率約95%<br>· 病人5年存活率約90%<br>(B) 錯誤，PAK（pancreas after kidney transplant）約佔10-15%，預後較SPK稍差，因為已經使用免疫抑制劑，增加了致敏風險<br>(C) 錯誤，PTA（pancreas transplant alone）最少見，約佔5%以下，適用於血糖極難控制但腎功能尚可的病人。預後相對較差，且缺乏腎功能作為排斥監測指標<br>(D) 錯誤，PBK（pancreas before kidney transplant）極為少見，幾乎不施行，因為沒有優於SPK的理由",
     "tags": [
       "112-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9432"
   },
@@ -579,7 +579,7 @@
     "explanation": "胰臟內分泌瘤包括多種類型，各有特定的臨床表現和分布位置。<br>(A) 正確，insulinoma是最常見的胰臟內分泌瘤，主要症狀為Whipple triad：<br>· 禁食時出現低血糖症狀（symptomatic fasting hypoglycemia）<br>· 血糖值<50 mg/dL<br>· 補充葡萄糖後症狀緩解<br>(B) 錯誤，此處描述的是gastrinoma的好發位置（gastrinoma triangle），而非insulinoma。Passaro's triangle（又稱gastrinoma triangle）範圍由膽囊管與總膽管交界處、十二指腸第二及第三部分、胰臟頸部和體部所組成的三角區域，70-90%的gastrinoma發生於此。而insulinoma約90%發生在胰臟實質內，分布相對均勻於胰頭、體、尾<br>(C) 正確，Zollinger-Ellison syndrome是由gastrinoma引起，過度分泌gastrin造成胃酸過多，主要症狀包括腹痛（abdominal pain）、消化性潰瘍（peptic ulcer disease）和嚴重食道炎（severe esophagitis）<br>(D) 正確，約90%的insulinoma是偶發性的（sporadic），10%與multiple endocrine neoplasia type I（MEN I）syndrome相關。MEN I患者的insulinoma通常是多發性的",
     "tags": [
       "112-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9433"
   },
@@ -596,7 +596,7 @@
     "explanation": "小腸瘻管的處理需要耐心，保守治療和手術時機的選擇很重要。<br>(A) 錯誤，大部分腸皮膚瘻管（enterocutaneous fistula）確實是醫療過程造成的（術後、放射治療後等），但通常在術後5-10天發生，而非2個星期<br>(B) 錯誤，影響自發性閉合的因素包括「FRIENDS」：<br>· Foreign body（異物）<br>· Radiation（放射治療）<br>· Infection/Inflammation（感染/發炎）<br>· Epithelialization（上皮化）<br>· Neoplasm（腫瘤）<br>· Distal obstruction（遠端阻塞）<br>· Short tract（<2 cm）才有利於閉合，長管道（>2 cm）反而不利於閉合<br>(C) 錯誤，octreotide可以減少胃腸道分泌和瘻管滲出量，但研究顯示它並不能縮短住院時間、加快瘻管閉合或提高閉合率。主要用於高輸出量瘻管的輔助治療<br>(D) 正確，瘻管處理的原則是先保守治療2-3個月，原因包括：<br>· 大部分可自發性閉合的瘻管會在4-6週內閉合<br>· 過早手術時腹腔仍有發炎、沾黏，手術困難度高<br>· 等待期間可改善營養狀態、控制感染<br>· 保守治療後再手術的成功率較高，併發症較少<br>· 若3個月後仍未閉合或有併發症才考慮手術",
     "tags": [
       "112-1-5",
-      "小腸外科"
+      "消化外科"
     ],
     "group_id": "group_9434"
   },
@@ -613,7 +613,7 @@
     "explanation": "膽道惡性腫瘤包括膽囊癌和膽管癌，預後普遍不佳。<br>(A) 錯誤，膽囊癌主要發生在女性（女性：男性約3-4：1），且約70-90%有膽結石病史，但並非絕大部分都有膽結石<br>(B) 錯誤，膽囊癌若未穿透肌肉層（T1期）可細分：<br>· T1a：侵犯黏膜層，單純膽囊切除即可<br>· T1b：侵犯肌肉層，需擴大切除包括部分肝臟和淋巴結清除<br>因此T1期並非都只需單純膽囊切除<br>(C) 錯誤，遠端膽管癌（distal cholangiocarcinoma）預後較肝門膽管癌（Klatskin tumor，hilar cholangiocarcinoma）好。遠端膽管癌可行Whipple手術完整切除，5年存活率約20-40%。肝門膽管癌因位置關係常無法完全切除，5年存活率僅10-20%<br>(D) 正確，膽管癌（cholangiocarcinoma）整體預後不佳，主要原因包括：<br>· 早期無症狀，診斷時多已晚期<br>· 腫瘤沿膽管壁浸潤生長<br>· 容易侵犯血管和周圍組織<br>· 即使手術切除，復發率高<br>· 對化療和放療反應不佳<br>· 整體5年存活率<30%",
     "tags": [
       "112-1-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9435"
   },
@@ -630,7 +630,7 @@
     "explanation": "Billroth II手術後的併發症需要根據臨床表現鑑別診斷。<br>(A) 錯誤，胃潰瘍穿孔（perforated gastric ulcer）會表現為突發性劇烈腹痛、腹膜炎徵象、腹部僵硬，不會因嘔吐而緩解，也不符合間歇性症狀的表現<br>(B) 錯誤，傾倒症候群（dumping syndrome）分為早期和晚期：<br>· 早期：餐後30分鐘內出現腹脹、腹瀉、心悸、盜汗<br>· 晚期：餐後2-3小時出現低血糖症狀<br>不會有苦味嘔吐物或澱粉酶上升<br>(C) 正確，輸入環症候群（afferent loop syndrome）的典型表現：<br>· Billroth II手術後，輸入環（afferent loop）阻塞或扭轉<br>· 膽汁和胰液堆積在輸入環，無法流入胃<br>· 表現為餐後上腹脹痛<br>· 突然嘔吐大量苦味液體（膽汁）後症狀緩解<br>· 膽汁和胰液逆流入胰管可能造成急性胰臟炎，澱粉酶上升<br>· 此病人的臨床表現完全符合<br>(D) 錯誤，急性闌尾炎表現為右下腹痛、發燒、白血球上升，不會有苦味嘔吐物或澱粉酶上升",
     "tags": [
       "112-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9436"
   },
@@ -647,7 +647,7 @@
     "explanation": "胃部不同細胞的功能決定了其胞器組成。<br>(A) 錯誤，chief cell（主細胞）主要分泌pepsinogen，含有豐富的粗面內質網（rough ER）和分泌顆粒，但粒線體含量不是最高<br>(B) 正確，parietal cell（壁細胞）分泌胃酸（HCl）和內在因子（intrinsic factor）。分泌胃酸需要大量ATP來驅動H⁺-K⁺ ATPase幫浦，將氫離子主動運輸到胃腔。因此壁細胞含有極豐富的粒線體以提供能量，是胃部細胞中粒線體含量最高的<br>(C) 錯誤，argentaffin cell（嗜銀細胞）屬於神經內分泌細胞，分泌serotonin等激素，粒線體含量不特別高<br>(D) 錯誤，mucous cell（黏液細胞）分泌黏液保護胃壁，含有豐富的高基氏體（Golgi apparatus）和分泌顆粒，但粒線體含量不是最高",
     "tags": [
       "112-1-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9437"
   },
@@ -664,7 +664,7 @@
     "explanation": "年輕女性乳房腫塊的檢查策略需考慮年齡和乳房密度。<br>(A) 正確，25歲年輕女性的初步檢查應選擇乳房超音波，原因包括：<br>· 年輕女性乳房組織緻密，乳房攝影靈敏度低<br>· 超音波可清楚區分囊腫和實質腫塊<br>· 無輻射暴露<br>· 可移動的硬塊在年輕女性最常見的是纖維腺瘤（fibroadenoma），超音波即可診斷<br>· 超音波可引導必要時的切片<br>(B) 錯誤，乳房攝影（mammography）在年輕女性的效果不佳，因為緻密的乳腺組織會遮蔽病灶。通常建議40歲以上或高風險族群才使用乳房攝影作為篩檢工具<br>(C) 錯誤，核磁共振（MRI）敏感度高但特異性低，價格昂貴，並非初步檢查的首選。主要用於高風險族群篩檢、評估乳癌範圍或追蹤<br>(D) 錯誤，細針抽吸細胞學檢查（fine needle aspiration）可用於診斷，但在進行侵入性檢查前應先做影像學檢查（超音波）評估腫塊性質",
     "tags": [
       "112-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9438"
   },
@@ -1234,7 +1234,7 @@
     "explanation": "急性胰臟炎的併發症分為早期和晚期，需要了解各自的發生率。<br>(A) 錯誤，胰管阻塞（pancreatic duct obstruction）是常見的晚期併發症：<br>· 發炎後纖維化或結石造成<br>· 可能導致慢性胰臟炎<br>· 需要內視鏡或手術處理<br>(B) 錯誤，後腹腔膿瘍（retroperitoneal abscess）是急性胰臟炎的常見併發症：<br>· 壞死性胰臟炎感染後形成<br>· 通常在發病2-4週後出現<br>· 需要引流治療<br>· 發生率約10-30%<br>(C) 正確（最少見），肝動脈假性動脈瘤是罕見併發症：<br>· 胰臟炎很少直接侵犯肝動脈<br>· 假性動脈瘤較常發生在脾動脈（splenic artery）或胃十二指腸動脈（gastroduodenal artery）<br>· 這些動脈更靠近胰臟，容易被消化酶侵蝕<br>· 肝動脈位置較遠，不易受影響<br>· 發生率<1%<br>(D) 錯誤，假性囊腫形成（pseudocyst formation）是最常見的晚期併發症：<br>· 發生率約10-20%<br>· 通常在急性胰臟炎4-6週後形成<br>· 由胰液積聚在被纖維組織包圍的腔室內<br>· 大多數小的假性囊腫會自行消退<br>· 大於6 cm或有症狀者需要引流",
     "tags": [
       "112-1-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9471"
   },
@@ -1342,7 +1342,7 @@
     "explanation": "醫師與藥廠的關係需要遵守倫理規範以避免利益衝突。<br>① 正確，學術研討會的時間要求：<br>· 學術時間應達總時間的三分之二以上<br>· 確保會議以教育為主要目的<br>· 避免藉學術名義進行娛樂活動<br>② 正確，講師費用：<br>· 擔任講師可收取適當的演講費<br>· 費用應合理反映講師的專業和準備時間<br>· 需要符合公開透明原則<br>③ 正確，演講內容要求：<br>· 發表資料應符合科學實證原則<br>· 應平衡論述，不偏頗特定產品<br>· 需揭露利益衝突<br>· 避免誤導性資訊<br>④ 錯誤，餽贈規範：<br>· 參與會議的醫師不應接受任何餽贈<br>· 不論是金錢或禮券都不可接受<br>· 只能接受會議相關的合理招待（如餐飲、住宿）<br>· 醫療專業人員應避免接受可能影響專業判斷的利益<br>正確答案為①②③",
     "tags": [
       "112-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9477"
   },
@@ -1359,7 +1359,7 @@
     "explanation": "醫療決策的自主性可能受到不同方式的影響，需要區分。<br>(A) 錯誤，心理脅迫（coercion）：<br>· 使用威脅或懲罰迫使某人做決定<br>· 例如：「如果你不手術，我就不治療你了」<br>· 此案例沒有明顯的威脅<br>(B) 正確，不正當之操控（manipulation）：<br>· 透過選擇性提供資訊影響決策<br>· 醫師過度強調手術風險和併發症<br>· 未充分說明手術的潛在好處和化療的限制<br>· 早期肺癌手術是標準治療，治癒率高<br>· 化療對早期肺癌效果有限<br>· 醫師的呈現方式（framing）影響了病人的決策<br>· 雖然病人表面上做了「自主」決定，但資訊不完整且偏頗<br>(C) 錯誤，外力約束（force）：<br>· 使用物理力量強迫某人<br>· 此案例沒有使用強制力<br>(D) 錯誤，內在因素的妥協（compromise）：<br>· 病人在充分資訊下權衡利弊做出選擇<br>· 此案例的問題在於資訊不完整和偏頗<br>· 不是病人內在的真正妥協",
     "tags": [
       "112-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9478"
   },
@@ -1376,7 +1376,7 @@
     "explanation": "醫療資源稀缺時的分配原則應以醫學效益（medical utility）為核心，依據預後評估（prognosis）來達到資源使用的最大效益，這也符合分配正義（distributive justice）與行善原則（beneficence）的倫理精神。 <br>(A) 錯誤，抽籤（lottery）雖然程序公平，但完全忽略醫學適應症與預後差異，會導致資源浪費，僅適用於各方條件完全相同無法區分時的最後手段。 <br>(B) 錯誤，先到先服務（first-come, first-served）的原則未考量臨床急迫性與療效，會違背醫學效益最大化的精神，並非稀缺資源分配的最適原則。 <br>(C) 正確，評估使用呼吸器（ventilator）後的預後情況符合醫學效益原則與分配正義，能讓有限資源用於最可能受益的患者，是國際間（包含 COVID-19 大流行期間）公認的稀缺資源分配準則。 <br>(D) 錯誤，醫師自由決定容易受主觀偏見影響，缺乏透明性與可問責性（accountability），應依循客觀的臨床預後評估標準與倫理委員會（ethics committee）的共識，而非單一醫師自由裁量。 <br><br>醫療資源分配的倫理原則：<br>· 醫療效益（medical utility）<br>· 公平性（fairness）<br>· 急迫性（urgency）<br>· 不歧視（non-discrimination）<br>· 透明性（transparency）",
     "tags": [
       "112-1-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9479"
   }

@@ -46,7 +46,7 @@
     "explanation": "肝臟移植的適應症包括急性或慢性肝衰竭、肝硬化相關併發症等，但有腫瘤血管侵犯通常為禁忌症。<br>(A) 正確，乙醯胺酚（acetaminophen）過量引發的肝毒性導致急性肝衰竭是肝臟移植的適應症之一<br>(B) 正確，慢性B型肝炎引發急性發作及肝衰竭是肝臟移植的適應症<br>(C) 正確，慢性C型肝炎合併肝硬化、嚴重腹水及肝腎症候群（hepatorenal syndrome）符合肝臟移植適應症<br>(D) 錯誤，小型肝細胞癌雖可考慮移植，但合併門脈分枝腫瘤血栓（portal vein tumor thrombus）屬於血管侵犯，是肝臟移植的絕對禁忌症，因為移植後腫瘤復發率極高",
     "tags": [
       "114-2-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9002"
   },
@@ -148,7 +148,7 @@
     "explanation": "頭部外傷後意識快速惡化需要優先處理氣道、呼吸、循環（ABC原則），再進行進一步檢查。<br>(A) 錯誤，雖然需要安排brain CT，但在意識惡化至GCS 7（E2V1M4）時，首要處理是確保氣道通暢及生命徵象穩定，而非直接送去做CT<br>(B) 錯誤，FAST（Focused Assessment with Sonography for Trauma）主要用於評估腹內出血，但此病人主要問題是頭部外傷後意識惡化，應優先處理神經學問題<br>(C) 錯誤，電解質異常較不可能在30分鐘內造成如此快速的意識惡化，且不應延誤氣道保護<br>(D) 正確，GCS≤8（E2V1M4=7分）表示嚴重意識障礙，有失去氣道保護能力的風險。應立即重新評估生命徵象，必要時進行氣管內管插管以維持呼吸道通暢及充足氧合，穩定後再安排brain CT檢查",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9008"
   },
@@ -165,7 +165,7 @@
     "explanation": "顱內出血的類型與出血來源有明確的對應關係，需要正確區分。<br>(A) 錯誤，應該是右腦為epidural hematoma（硬腦膜外血腫），左腦為contused intracranial hematoma（挫傷性顱內血腫），題目將左右腦的診斷對調了<br>(B) 正確，但應修正為：左腦的出血來源多半為顱骨骨折造成中腦膜動脈（middle meningeal artery）破裂而產生epidural hematoma<br>(C) 正確，但應修正為：右腦的出血來源多半為大腦本身的血管破裂而產生contused intracranial hematoma<br>(D) 正確，若病人的瞳孔出現放大的情形，表示顱內壓上升造成腦疝脫（brain herniation），則建議進行開顱減壓手術",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "images": [
       "./exam/image/114-2-5-10.jpg"
@@ -185,7 +185,7 @@
     "explanation": "中央脊髓症候群有其特定的受傷機轉和臨床表現特徵。<br>(A) 正確，中央脊髓症候群（central cord syndrome）的特徵是上肢的運動功能缺損大於下肢，因為脊髓中央區域主要支配上肢的神經纖維<br>(B) 錯誤，central cord syndrome常導因於急性頸椎過度伸展損傷（acute cervical hyperextension injury），而非過度屈曲（hyperflexion）。常見於老年人跌倒後仰或車禍時頭部後仰撞擊<br>(C) 正確，可能伴隨有括約肌功能障礙（sphincter dysfunction），通常造成尿滯留（urinary retention）<br>(D) 正確，通常下肢的肌力會比上肢的肌力早回復，且恢復程度較好",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9010"
   },
@@ -202,7 +202,7 @@
     "explanation": "脊椎腫瘤依據位置不同有不同的組織學特性和好發部位。<br>(A) 錯誤，硬膜外（extradural）腫瘤以惡性居多，最常見的是轉移性腫瘤，約佔脊椎腫瘤的70%<br>(B) 正確，硬膜內、髓膜外（intradural extramedullary）的腫瘤，以腦膜瘤（meningioma）及神經鞘瘤（schwannoma）最常見，這兩者都是良性腫瘤<br>(C) 正確，髓膜內（intramedullary）腫瘤以星形細胞瘤（astrocytoma）及室管膜瘤（ependymoma）最常見<br>(D) 正確，脊椎腫瘤最好發的部位是胸椎，約佔50-60%",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9011"
   },
@@ -219,7 +219,7 @@
     "explanation": "不同類型的腦瘤有不同的年齡分布特徵。<br>(A) 錯誤，多形性神經膠質母細胞瘤（glioblastoma multiforme, GBM）主要見於成人，平均發病年齡約64歲<br>(B) 錯誤，腦膜瘤（meningioma）主要見於成人，尤其是中老年女性<br>(C) 錯誤，腦下垂體腺瘤（pituitary adenoma）主要見於成人<br>(D) 正確，神經管胚細胞瘤（medulloblastoma）是最常見的兒童惡性腦瘤，約75%發生於10歲以下孩童，在成人相對少見",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9012"
   },
@@ -236,7 +236,7 @@
     "explanation": "毛毛樣血管疾病有其特定的血管侵犯模式和影像學特徵。<br>(A) 正確，亞洲人（特別是日本人、韓國人、中國人）較多罹患moyamoya disease<br>(B) 正確，moyamoya disease多發生在兩側血管，雖然初期可能單側，但最終多數會發展為雙側<br>(C) 錯誤，影像上最常見內頸動脈（internal carotid artery）末端、中大腦動脈（middle cerebral artery）及前大腦動脈（anterior cerebral artery）的狹窄萎縮，後大腦動脈（posterior cerebral artery）較少受影響<br>(D) 正確，小孩通常以缺血性腦病變表現（如短暫性腦缺血發作或腦中風），而成人較常以出血性腦病變表現",
     "tags": [
       "114-2-5",
-      "神經外科"
+      "腦神經外科"
     ],
     "group_id": "group_9013"
   },
@@ -254,7 +254,7 @@
     "explanation": "神經失用症（neurapraxia）是周邊神經損傷最輕微的類型，恢復時間相對較短。<br>根據題目標示答案為(E)送分，表示此題可能有爭議或標準答案不明確。一般而言，neurapraxia的恢復時間通常在數天到數週之間，約2-12週，因個案而異。Neurapraxia是指神經傳導暫時中斷但軸突（axon）完整，只有髓鞘受損，因此恢復較快且完全。",
     "tags": [
       "114-2-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9014"
   },
@@ -271,7 +271,7 @@
     "explanation": "斷指重接的適應症需考慮功能恢復的可能性及重要性。<br>(A) 正確，多根手指截斷時（multiple digital amputations）是絕對適應症，因為保留多根手指對手部功能非常重要<br>(B) 正確，拇指截斷時（thumb amputation）是絕對適應症，因為拇指佔手部功能的40%以上<br>(C) 正確，小孩子任一手指截斷時（any amputated part in children）是絕對適應症，因為兒童組織癒合能力佳且需考慮長期功能及心理影響<br>(D) 錯誤，成人單一手指（非拇指）在屈指淺肌（flexor digitorum superficialis, FDS）近端處截斷時，並非絕對適應症。因為單一手指重接後功能恢復有限，且手術複雜度高、成功率相對較低，需要個別評估",
     "tags": [
       "114-2-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9015"
   },
@@ -288,7 +288,7 @@
     "explanation": "Z形整形術的延長效果與角度有固定的數學關係。<br>(A) 錯誤，60度時的延長並非60%<br>(B) 正確，當Z-plasty的兩側臂線與主軸成60度角時，理論上可以增加主軸長度約75%。這是最常用的Z-plasty角度，提供良好的延長效果同時保持組織張力在可接受範圍<br>(C) 錯誤，75度角時約可增加100%<br>(D) 錯誤，60度角時無法達到100%的延長",
     "tags": [
       "114-2-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9016"
   },
@@ -305,7 +305,7 @@
     "explanation": "皮膚張力鬆弛線是整形外科切口設計的重要參考。<br>(A) 錯誤，RSTLs與皮下肌肉走向垂直，而非成45度<br>(B) 錯誤，RSTLs與面部形成的皺紋線平行（不是垂直）。有表情時形成的皺紋方向就是RSTLs的方向<br>(C) 正確，RSTLs與皮下肌肉走向垂直，因為肌肉收縮時會產生垂直於肌肉纖維方向的皮膚張力線<br>(D) 正確，在唇部區域，RSTLs和唇緣線垂直，這是為什麼唇裂修補手術的切口設計需要特別考慮",
     "tags": [
       "114-2-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9017"
   },
@@ -322,7 +322,7 @@
     "explanation": "Parkland formula是燒傷早期輸液治療的標準公式。<br>計算方式：4 mL × 體重（kg）× 燒傷面積（%）= 前24小時總輸液量<br>計算：4 × 70 × 70 = 19,600 mL（前24小時）<br>前8小時應給予總量的一半：19,600 ÷ 2 = 9,800 mL<br>(A) 正確，根據Parkland formula計算，前8小時需要9,800 mL lactated Ringer輸液。LR是首選輸液，因其成分接近細胞外液<br>(B) 錯誤，雖然量正確但normal saline（NS）不是Parkland formula的首選輸液，LR較佳<br>(C) 錯誤，量錯誤且5% Dextrose不適用於燒傷早期輸液，應使用晶體溶液<br>(D) 錯誤，量錯誤，前8小時需要的是前24小時總量的一半，即9,800 mL而非4,900 mL",
     "tags": [
       "114-2-5",
-      "整形外科"
+      "重建整形外科"
     ],
     "group_id": "group_9018"
   },
@@ -339,7 +339,7 @@
     "explanation": "DeBakey分類中type III的次分類是根據剝離延伸的範圍來區分。<br>(A) 錯誤，升主動脈（ascending aorta）的侵犯與否是區分type I和type II的關鍵，而非IIIa和IIIb<br>(B) 錯誤，主動脈弓（aortic arch）的侵犯與否並非區分IIIa和IIIb的標準<br>(C) 錯誤，降主動脈（descending aorta）是type III的起始部位，IIIa和IIIb都涉及降主動脈<br>(D) 正確，DeBakey type IIIa是指剝離局限在胸降主動脈（thoracic descending aorta），未延伸到橫膈膜以下；而type IIIb是指剝離從胸降主動脈延伸至腹主動脈（abdominal aorta），甚至可能到達髂動脈。因此腹主動脈是否受侵犯是IIIa與IIIb間最大的區別",
     "tags": [
       "114-2-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9019"
   },
@@ -356,7 +356,7 @@
     "explanation": "心房顫動合併二尖瓣狹窄容易形成左心房血栓，導致周邊動脈栓塞。急性肢體缺血再灌流時會產生多種代謝異常。<br>(A) 正確，患者有二尖瓣嚴重狹窄、左心房擴大及心房顫動，容易在左心房形成血栓，導致下肢動脈血管急性血栓栓塞（arterial embolism），出現急性肢體缺血的5P症狀：疼痛（pain）、無脈（pulselessness）、蒼白（pallor）、感覺異常（paresthesia）、麻痺（paralysis）<br>(B) 正確，緊急下肢動脈血管打通後，缺血組織再灌流會釋放大量鉀離子至血液循環中，可能導致高血鉀症（hyperkalemia）<br>(C) 錯誤，若有骨骼肌溶解現象（rhabdomyolysis），下肢動脈血管打通後會發生再灌流損傷（reperfusion injury），大量肌紅蛋白（myoglobin）釋放到血液中，肌蛋白尿（myoglobinuria）狀況不會立即緩解，反而會加重，可能導致急性腎衰竭<br>(D) 正確，若缺血時間越久，組織損傷越嚴重，下肢動脈血管打通後因再灌流損傷及發炎反應，下肢腫脹會越厲害，嚴重時可能發生腔室症候群（compartment syndrome）",
     "tags": [
       "114-2-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9020"
   },
@@ -373,7 +373,7 @@
     "explanation": "法洛氏四重症發生缺氧發作時的處理重點是減少右至左分流，增加肺血流。<br>(A) 正確，給與乙型阻斷劑（beta blocker）可以減少右心室流出道的肌肉痙攣，降低右心室流出道阻塞，改善肺血流<br>(B) 正確，給與輸液（hydration）可以增加血液容積，提高右心室前負荷，改善肺血流<br>(C) 錯誤，給與血管擴張劑（vasodilator）會降低全身血管阻力（systemic vascular resistance, SVR），使右至左分流增加，反而惡化缺氧狀況。應該給與血管收縮劑以增加SVR，減少分流<br>(D) 正確，麻醉鎮定（sedation）可以減少患兒哭鬧及焦慮，降低氧氣消耗，並減少右心室流出道痙攣",
     "tags": [
       "114-2-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9021"
   },
@@ -390,7 +390,7 @@
     "explanation": "胸主動脈瘤的治療方式依據動脈瘤位置及大小而有不同選擇。<br>(A) 正確，先天性雙主動脈瓣（congenital bicuspid aortic valve）患者有較高機率發展為升主動脈瘤，可視為高危險群<br>(B) 正確，女性患者的主動脈瘤最大直徑為7公分時，已達到手術適應症（一般建議女性≥5.5公分、男性≥6公分即可考慮手術）<br>(C) 正確，升主動脈瘤最大直徑為6公分且無主動脈逆流時，可以考慮行瓣膜保留術式（valve-sparing procedure）如David procedure或Yacoub procedure，不一定非進行主動脈根部置換術（aortic root replacement）<br>(D) 錯誤，血管內支架術式（endovascular stenting, TEVAR）主要用於降主動脈瘤，並非升主動脈瘤的主流治療。升主動脈瘤因涉及主動脈瓣、冠狀動脈開口及主動脈弓分支血管，仍以傳統開胸手術為主要治療方式",
     "tags": [
       "114-2-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9022"
   },
@@ -407,7 +407,7 @@
     "explanation": "腹主動脈瘤的治療方式包括傳統開腹手術及血管內支架治療，各有其優缺點。<br>(A) 錯誤，腹主動脈瘤的手術適應症一般為最大直徑≥5.5公分（或女性≥5公分），或每年增長速度＞0.5公分，或有症狀性動脈瘤。4公分尚未達到手術建議標準<br>(B) 錯誤，血管支架治療（EVAR）比起傳統開腹主動脈置換手術，再次介入（re-intervention）比率較高，因為可能發生內漏（endoleak）、支架移位等併發症需要再次處理<br>(C) 正確，以住院的手術存活率（perioperative mortality）而言，傳統開腹主動脈置換手術的死亡率約3-5%，高於血管支架治療的1-2%。血管支架治療因侵入性較低，短期存活率較佳<br>(D) 錯誤，下腸繫膜動脈（inferior mesenteric artery, IMA）並非一定要重新吻合。若側支循環良好（如經由Riolan arch或marginal artery of Drummond），可以結紮IMA。重建IMA的指徵包括：IMA血流量大、側支循環不足、左結腸缺血徵象等",
     "tags": [
       "114-2-5",
-      "心臟外科"
+      "心臟血管外科"
     ],
     "group_id": "group_9023"
   },
@@ -543,7 +543,7 @@
     "explanation": "食道靜脈曲張出血是肝硬化患者的嚴重併發症，需要多層次的治療策略。<br>(A) 正確，治療首要是維持生命徵象（vital signs），包括輸液復甦、輸血、維持呼吸道通暢等<br>(B) 正確，可以給與octreotide（抑制生長激素）或vasopressin（加壓素）收縮內臟血管，降低門脈壓力以控制出血<br>(C) 正確，對於大量出血且藥物及內視鏡治療失敗的病患，可以考慮外科分流手術（如TIPS：transjugular intrahepatic portosystemic shunt，經頸靜脈肝內門靜脈分流術）來降低門脈壓力止血<br>(D) 錯誤，血管攝影栓塞術（angiographic embolization）並非食道靜脈曲張出血的標準治療方式。因為食道靜脈曲張是由於門脈高壓導致的側支循環，栓塞單一血管無法有效止血，且可能造成食道缺血。標準治療包括：內視鏡結紮術（EVL）或硬化劑注射、藥物治療、氣囊壓迫（Sengstaken-Blakemore tube）、TIPS等",
     "tags": [
       "114-2-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9031"
   },
@@ -560,7 +560,7 @@
     "explanation": "十二指腸潰瘍的治療策略及特性與胃潰瘍有所不同。<br>(A) 正確，藥物控制（如質子幫浦抑制劑、H2受體阻斷劑、根除幽門螺旋桿菌）為治療的第一線考慮，絕大多數十二指腸潰瘍可以藥物治癒<br>(B) 正確，對於藥物治療失敗、疼痛無法控制的頑固性潰瘍，可以考慮次全胃切除手術或迷走神經切斷術<br>(C) 正確，對於急性潰瘍穿孔的手術方針是越簡單越好（如單純修補穿孔），術後輔以氫離子阻斷劑（如PPI）使用為佳，而非立即進行根治性手術<br>(D) 錯誤，雖然十二指腸潰瘍惡性腫瘤的機會遠低於胃潰瘍，但並非完全沒有。十二指腸腺癌雖然罕見，但仍有可能發生。此外，某些看似潰瘍的病灶可能是淋巴瘤或轉移性腫瘤。因此對於治療效果不佳的十二指腸潰瘍，仍應考慮切片檢查",
     "tags": [
       "114-2-5",
-      "胃外科"
+      "消化外科"
     ],
     "group_id": "group_9032"
   },
@@ -577,7 +577,7 @@
     "explanation": "Zollinger-Ellison syndrome是由特定的神經內分泌腫瘤引起的症候群。<br>(A) 錯誤，Insulinoma（胰島素瘤）會分泌過量胰島素，導致低血糖症狀（Whipple's triad），而非Zollinger-Ellison syndrome<br>(B) 正確，Zollinger-Ellison syndrome是由Gastrinoma（胃泌素瘤）所導致。Gastrinoma分泌過量胃泌素（gastrin），刺激胃酸過度分泌，導致頑固性消化性潰瘍（特別是十二指腸多發性潰瘍或空腸潰瘍）、腹瀉等症狀。約60%的gastrinoma位於胰臟，40%位於十二指腸<br>(C) 錯誤，Glucagonoma（升糖素瘤）會分泌過量升糖素，導致糖尿病、壞死性遊走性紅斑（necrolytic migratory erythema）、體重減輕等，而非Zollinger-Ellison syndrome<br>(D) 錯誤，血管活性腸肽分泌腫瘤（VIPoma）會導致Verner-Morrison syndrome（或稱WDHA syndrome：watery diarrhea, hypokalemia, achlorhydria），表現為大量水瀉、低血鉀、胃酸缺乏，而非Zollinger-Ellison syndrome",
     "tags": [
       "114-2-5",
-      "胰臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9033"
   },
@@ -594,7 +594,7 @@
     "explanation": "肝臟血管瘤（hepatic hemangioma）是最常見的良性肝臟腫瘤，多數不需要手術治療。<br>(A) 正確，發生Kasabach-Merritt syndrome（血小板減少、消耗性凝血病變）是需要開刀的原因，因為此症候群可能危及生命<br>(B) 正確，腫瘤破裂導致腹內出血是需要緊急手術的適應症<br>(C) 正確，腫瘤明顯變大，特別是短期內快速增大，可能需要手術切除以避免併發症或確認診斷<br>(D) 錯誤，單純腫瘤大於5公分並非手術的絕對適應症。大多數肝臟血管瘤即使較大（5-10公分甚至更大）但無症狀者，可以觀察追蹤。手術適應症包括：有症狀（如腹痛、壓迫症狀）、快速增大、診斷不確定、發生併發症（如破裂、Kasabach-Merritt syndrome）等",
     "tags": [
       "114-2-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9034"
   },
@@ -611,7 +611,7 @@
     "explanation": "大腸癌肝轉移切除術後的預後因素已有明確研究。<br>(A) 正確，CEA血中濃度大於200 ng/mL是影響預後的不良因素，顯示腫瘤負荷量大<br>(B) 正確，肝轉移腫瘤的大小大於5公分是預後不良因素，與腫瘤侵犯性及微小轉移風險相關<br>(C) 錯誤，原發腫瘤的位置在直腸（rectum）或結腸（colon）並非影響肝轉移切除術後存活的主要因素。影響預後的主要因素包括：肝轉移腫瘤的數目、大小、CEA濃度、是否為同時性轉移（synchronous）、切除邊緣是否乾淨（R0 resection）、肝外轉移等<br>(D) 正確，與原發的大腸癌同時發現的肝臟轉移腫瘤（synchronous liver metastasis）相較於異時性轉移（metachronous），通常預後較差，是影響存活的因素之一",
     "tags": [
       "114-2-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9035"
   },
@@ -628,7 +628,7 @@
     "explanation": "本題的解題關鍵在於區分肝臟的「外觀解剖學分界」與「內部功能性分段（Couinaud classification）」，並熟悉膽囊周邊三角區域及韌帶內含的血管與膽道構造。<br> ① 正確，左肝（left liver）和右肝（right liver）在功能上的分界線正是中肝靜脈（middle hepatic vein）走行的平面，此平面亦稱為康德黎線（Cantlie’s line）。<br> ② 正確，在「外科解剖學」的實務應用中，肝左葉（left lobe）與右葉（right lobe）常等同於功能性的分界，因此同樣是以康德黎線（Cantlie’s line）來作為區分。<br> ③ 錯誤，Calot 三角（Calot's triangle）的邊界應為膽囊管（cystic duct）、肝總管（common hepatic duct）與肝臟下緣（inferior border of liver）；總膽管（common bile duct）是由肝總管與膽囊管匯合後的產物，並非邊界，且上方邊界應為肝臟下緣而非肝腹側表面（ventral surface of liver）。<br> ④ 正確，肝十二指腸韌帶（hepatoduodenal ligament）內包含了重要的門脈三合體（portal triad），也就是門靜脈（portal vein）、固有肝動脈（proper hepatic artery）與總膽管（common bile duct）。<br> ⑤ 正確，功能性分段中的左側肝（left lateral segment）及左中肝（left medial segment）正是以左肝靜脈（left hepatic vein）走行的臍裂與鐮狀韌帶（falciform ligament）附著處來作為分界。",
     "tags": [
       "114-2-5",
-      "肝臟外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9036"
   },
@@ -645,7 +645,7 @@
     "explanation": "此題考急性膽管炎（acute cholangitis）的經典臨床表現與治療原則。重點在於 Charcot triad 與 Reynolds pentad 的定義差異，以及對應的處置時機 — Charcot triad 階段可先以抗生素穩定後再行膽道引流，但出現 Reynolds pentad 即代表化膿性膽管炎（suppurative cholangitis），需緊急膽道減壓。<br> ① 正確，Charcot triad 就是黃疸（jaundice）、右上腹痛（RUQ pain）、發燒（fever）三聯徵。<br> ② 正確，僅出現 Charcot triad 時，多數病人可先以抗生素與支持性治療穩定，再安排內視鏡逆行性膽胰管攝影（ERCP）進行膽道引流，並非必須緊急手術。<br> ③ 錯誤，Reynolds pentad 是指 Charcot triad 再加上「休克（shock／低血壓）」與「意識障礙（altered mental status／confusion）」，而非代謝性酸中毒（metabolic acidosis）。<br> ④ 正確，出現 Reynolds pentad 代表已進展為急性阻塞性化膿性膽管炎（acute obstructive suppurative cholangitis），若未緊急進行膽道引流（如 ERCP 或經皮穿肝膽道引流 PTCD）會導致敗血症甚至死亡。<br> ⑤ 正確，膽汁細菌培養常見革蘭氏陰性菌（gram-negative bacteria）如 Klebsiella、E. coli、Enterobacter、Pseudomonas 及 Citrobacter spp.，其中以 E. coli 最常見，臨床上亦需注意 Enterococcus 等革蘭氏陽性菌與厭氧菌的可能性。",
     "tags": [
       "114-2-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9037"
   },
@@ -920,7 +920,7 @@
     "explanation": "腹腔鏡膽囊切除術的優缺點需要客觀評估。<br>(A) 錯誤，腹腔鏡膽囊切除手術的嚴重併發症（特別是膽管損傷）發生率實際上略高於或至少相當於傳統開腹手術。腹腔鏡膽囊切除的膽管損傷率約0.3-0.7%，而開腹手術約0.1-0.3%。其他嚴重併發症（如大血管損傷、腸道損傷）的發生率兩者相當<br>(B) 正確，腹腔鏡膽囊切除手術的術後疼痛明顯較低，因為傷口較小（3-4個小切口vs. 一個大切口）<br>(C) 正確，腹腔鏡膽囊切除手術的術後恢復較快，住院時間較短（通常1-2天vs. 3-5天），返回正常活動時間較短<br>(D) 正確，腹腔鏡膽囊切除手術應用於急性膽囊炎時，因組織水腫、發炎、粘連等因素，需要較長的手術時間且有較高機率需要轉為開腹手術或造成膽管損傷",
     "tags": [
       "114-2-5",
-      "膽道外科"
+      "肝膽胰外科"
     ],
     "group_id": "group_9053"
   },
@@ -1300,7 +1300,7 @@
     "explanation": "腸阻塞的流行病學及臨床處理有其特定原則。<br>(A) 正確，小腸阻塞（small bowel obstruction, SBO）發生的機率確實多於大腸阻塞（large bowel obstruction, LBO）。小腸阻塞約佔所有腸阻塞的80%，最常見原因為腹部手術後的沾黏（約60%）、疝氣（約20%）、腫瘤等。大腸阻塞約佔20%，最常見原因為大腸癌<br>(B) 錯誤，腸阻塞病人腸子蠕動在初期可能增強（產生高頻率的腸鳴音），但隨著病程進展會減弱甚至消失。抗痙攣藥物如Buscopan（hyoscine butylbromide）會抑制腸蠕動，可能掩蓋症狀或延誤診斷，不應儘早使用<br>(C) 錯誤，腸阻塞時血液中脂肪酶（lipase）濃度通常不會上升5倍以上。脂肪酶上升主要見於胰臟炎。腸阻塞時可能有輕度澱粉酶（amylase）上升，但通常不超過正常值3倍<br>(D) 錯誤，小腸阻塞很常見是因為疝氣（約20%的小腸阻塞由疝氣引起）或手術後沾黏（約60%）造成的",
     "tags": [
       "114-2-5",
-      "小腸外科"
+      "消化外科"
     ],
     "group_id": "group_9075"
   },
@@ -1334,7 +1334,7 @@
     "explanation": "醫療決策需考慮病人最佳利益及法律倫理原則。<br>(A) 正確，此病人雖然重度昏迷但並非末期病人（終末期illness），顱內大量出血經手術治療可能有機會挽救生命。因病人無法表達意願，應告知家屬病情（包括病情嚴重度、手術必要性、手術風險、不手術可能後果等），並獲得家屬同意後施行緊急開顱手術。這符合醫療法及醫療倫理的告知後同意（informed consent）原則<br>(B) 錯誤，此病人並非末期病人，且無證據顯示病人有不施行「心肺復甦術」或「維生醫療」的意願。安寧緩和醫療主要適用於末期病人或無治療希望的情況，不適用於此急性可治療的情況<br>(C) 錯誤，雖然給予維生醫療支持是合理的，但對於急性顱內出血導致的重度昏迷，緊急手術減壓是關鍵治療，不應先觀察預後再決定是否手術，這樣可能延誤黃金治療時間<br>(D) 錯誤，雖然應告知家屬可能的嚴重後遺症（如植物人狀態、神經功能缺損等），但醫師不應直接建議家屬不為病人施行手術。醫師應提供完整資訊，包括手術可能帶來的利弊，讓家屬做出知情決定，而非替家屬做決定",
     "tags": [
       "114-2-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9077"
   },
@@ -1351,7 +1351,7 @@
     "explanation": "醫療倫理需平衡專業判斷、病人自主與醫師權益。<br>(A) 錯誤，「行禮如儀」暗示敷衍了事，不是負責任的醫療態度。且未考慮病人的愛滋病狀況及CD4低下對手術及預後的影響<br>(B) 正確，醫師應如實告知病人其健康狀況（CD4＜200/μL表示免疫功能嚴重低下，屬於AIDS階段），解釋為何目前不適合進行輸精管重接手術的原因：(1)免疫功能嚴重低下，手術及麻醉風險高；(2)傷口癒合能力差，感染風險高；(3)手術成功率可能受影響；(4)應優先控制愛滋病病情，待CD4回升後再評估。這符合誠實告知及專業判斷原則<br>(C) 錯誤，找理由推託或轉介而不說明真正原因，不符合醫療倫理的誠實告知原則<br>(D) 錯誤，雖然告知未婚妻可能有其考量（如保護未婚妻知情權、公共衛生考量），但未經病人同意即告知第三者病人的愛滋病狀況，違反醫療隱私及保密原則（愛滋病防治法也有相關規範）",
     "tags": [
       "114-2-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9078"
   },
@@ -1368,7 +1368,7 @@
     "explanation": "器官移植的法規有明確規範醫師及醫院的資格要件。<br>根據人體器官移植條例及相關法規：<br>(A) 錯誤，雖然甲醫師具中央主管機關核定之心臟移植資格，但乙醫院未經核定，不可進行心臟移植手術<br>(B) 正確但不完整，乙醫院未經中央主管機關核定，確實不可進行心臟移植手術，但可以進行心臟摘取<br>(C) 錯誤，甲醫師在乙醫院可以進行心臟摘取<br>(D) 正確，根據人體器官移植條例，器官移植手術需由經中央主管機關核定的醫師在經核定的醫院施行。但器官摘取（procurement）的要求相對寬鬆，具資格的醫師可在其他醫院進行器官摘取。因此甲醫師在乙醫院僅可摘取心臟（如從腦死捐贈者摘取心臟後送至有資格的醫院進行移植），但不可在乙醫院進行心臟移植手術",
     "tags": [
       "114-2-5",
-      "醫學倫理"
+      "醫學倫理(五)"
     ],
     "group_id": "group_9079"
   }
