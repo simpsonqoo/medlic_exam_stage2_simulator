@@ -739,12 +739,12 @@
   },
   {
     "id": 1122344,
-    "question": "44. 慢性淋巴性白血病（chroniclymphocyticleukemia，CLL）的病人，具有下列何種的染色體變異，有較佳的預 後？",
+    "question": "44. 慢性淋巴性白血病（chroniclymphocyticleukemia，CLL）的病人，具有下列何種的染色體變異，有較佳的預後？",
     "options": {
-      "A": "del",
-      "B": "del",
-      "C": "trisomy12",
-      "D": "del"
+      "A": "del(13)(q14.3)",
+      "B": "del(11)(q22.3)",
+      "C": "trisomy 12",
+      "D": "del(17)(p13.1)"
     },
     "answer": "A",
     "explanation": "此題考查慢性淋巴性白血病的預後因子。染色體13q14.3缺失是預後較佳的染色體變異。<br>(A) 正確，del(13)(q14.3)是慢性淋巴性白血病中預後最佳的染色體變異，中位存活期最長<br>(B) 錯誤，del(11)(q22.3)影響ATM基因，屬於中等到不良預後因子<br>(C) 錯誤，第12號染色體三體症（trisomy 12）屬於中等預後因子<br>(D) 錯誤，del(17)(p13.1)影響TP53基因，是預後最差的染色體變異",
