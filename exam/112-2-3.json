@@ -5,7 +5,7 @@
     "options": {
       "A": "測血中白蛋白（albumin）及磷（phosphorus）濃度",
       "B": "測血中副甲狀腺素（PTH）濃度",
-      "C": "測血中1，25",
+      "C": "測血中1,25(OH)2D濃度",
       "D": "測血中鎂（magnesium）濃度"
     },
     "answer": "C",
@@ -593,7 +593,7 @@
       "C": "華人髖關節OA較白種人少見",
       "D": "90%以上OA患者必須先行使用非類固醇抗發炎藥物（NSAID）"
     },
-    "answer": "B",
+    "answer": "B,D",
     "explanation": "此題考查退化性關節炎的病理生理和治療。軟骨主要被多種蛋白酶破壞，非僅MMPs；且NSAID非必須首選。<br>(A) 正確，手部及髖關節的退化性關節炎與遺傳基因較有關，膝關節與遺傳的相關性較低<br>(B) 錯誤，關節type 2軟骨（第二型膠原蛋白）主要被多種蛋白酶破壞，包括MMPs（matrix metalloproteinases）、aggrecanases（ADAMTS）等，不僅是MMPs<br>(C) 正確，華人髖關節退化性關節炎發生率較白種人低<br>(D) 錯誤，退化性關節炎的治療不一定需要使用NSAID，可先使用acetaminophen、物理治療、運動等非藥物治療；NSAID因有心血管和胃腸道副作用，非必須首選",
     "tags": [
       "112-2-3(三)",
@@ -724,12 +724,12 @@
     "id": 1122343,
     "question": "43. 下列有關造血幹細胞移植（hematopoieticstemcelltransplantation）的敘述，何者最不恰當？",
     "options": {
-      "A": "一位病人若有n個同父同母的兄弟姊妹，則可以找到至少一位HLA全合的兄弟姊妹的機率是1-",
+      "A": "一位病人若有n個同父同母的兄弟姊妹，則可以找到至少一位HLA全合的兄弟姊妹的機率是1-(0.75)n",
       "B": "進行異體造血幹細胞移植（allogeneichematopoieticstemcelltransplantation），若是ABO血型不相合，通常在移植前的免疫抑制劑的劑量必須增加或是進行recipient之脾臟切除",
       "C": "自體造血幹細胞移植（autologoushematopoieticstemcelltransplantation）並無graft-versus-hostdisease（GVHD）或是graftrejection的風險",
       "D": "周邊血液中，在施打granulocyte colony-stimulating factor（G-CSF）數天之後，也可能收集到足夠的造血幹細 胞進行移植。若是收集的數量不足，施打plerixafor（一種CXCR4的拮抗劑），可以幫助收集到更多的造血 幹細胞"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "此題考查造血幹細胞移植的相關知識。ABO血型不合不需增加免疫抑制劑或切除脾臟，自體移植也可能有自體移植物抗宿主疾病（autologous GVHD）。<br>(A) 正確，每位兄弟姊妹與病人HLA全合的機率是25%，不合的機率是75%，故有n個兄弟姊妹時，找到至少一位HLA全合者的機率是1-(0.75)^n<br>(B) 錯誤，ABO血型不合並非異體造血幹細胞移植的禁忌症，不需要增加免疫抑制劑劑量或切除脾臟，只需在移植前後進行適當的血漿置換或紅血球去除即可<br>(C) 錯誤，自體造血幹細胞移植雖然沒有移植物排斥（graft rejection）的風險，但仍可能發生自體移植物抗宿主疾病（autologous GVHD），雖然少見<br>(D) 正確，施打顆粒球群落刺激因子（G-CSF）可動員周邊血液幹細胞，若數量不足可加上plerixafor（CXCR4拮抗劑）來增加幹細胞收集量",
     "tags": [
       "112-2-3(三)",

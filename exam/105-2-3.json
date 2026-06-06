@@ -704,7 +704,7 @@
       "D": "神經毒性"
     },
     "answer": "C",
-    "explanation": "此題考查大腸直腸癌轉移後的治療選擇。當癌症已發生遠端轉移且不具EGFR突變時，應優先使用血管增生抑制劑。<br>(A) 錯誤，EGFR抑制劑（epidermal growth factor receptor inhibitor）僅適用於具有K-RAS野生型且未突變的病例，而此患者EGFR突變陰性且無K-RAS檢測資料<br>(B) 正確，血管增生抑制劑（如bevacizumab）是遠端轉移大腸直腸癌的標準治療選擇之一<br>(C) 錯誤，組合療法並非此情況的首選，且EGFR抑制劑在EGFR突變陰性患者效果不佳<br>(D) 錯誤，血管增生抑制劑對大腸直腸癌遠端轉移有治療效果",
+    "explanation": "此題考查乳癌化療（CMF療法：cyclophosphamide、methotrexate、5-fluorouracil）的長期副作用。<br>(A) 錯誤，心臟毒性主要與anthracyclines類藥物（如adriamycin/doxorubicin）相關，此CMF療法中不含此類藥物<br>(B) 錯誤，繼發性白血病雖與cyclophosphamide有關，但發生率遠低於提早停經<br>(C) 正確，cyclophosphamide具有強烈卵巢毒性，40歲女性接受CMF化療後最常見的長期副作用是卵巢功能衰竭導致的提早停經（premature menopause）<br>(D) 錯誤，神經毒性主要與vincristine、taxanes相關，CMF療法不含此類藥物",
     "tags": [
       "105-2-3",
       "腫瘤科"
@@ -721,7 +721,7 @@
       "D": "EGFR抑制劑或血管增生抑制劑皆不使用，因二者都沒效"
     },
     "answer": "B",
-    "explanation": "此題考查非小細胞肺癌在EGFR突變陰性時的治療策略。ALK重組陽性患者應優先選擇血管增生抑制劑治療。<br>(A) 錯誤，EGFR抑制劑在EGFR突變陰性的患者療效不佳<br>(B) 正確，血管增生抑制劑（如bevacizumab）是EGFR突變陰性非小細胞肺癌的有效治療選項<br>(C) 錯誤，組合療法並非首選，因EGFR抑制劑在此情況下效果有限<br>(D) 錯誤，血管增生抑制劑在此類患者仍有治療效果",
+    "explanation": "此題考查K-ras突變大腸直腸癌的標靶治療選擇。K-ras基因G12D突變時，EGFR抑制劑（cetuximab、panitumumab）無效，應改用血管增生抑制劑。<br>(A) 錯誤，EGFR抑制劑僅對K-ras野生型（wild-type）患者有效，K-ras有突變者使用EGFR抑制劑無效<br>(B) 正確，血管增生抑制劑（如bevacizumab，抗VEGF）不受K-ras突變影響，是K-ras突變大腸直腸癌轉移患者的標靶治療選擇，可使肝轉移縮小，增加日後切除可能性<br>(C) 錯誤，EGFR抑制劑在K-ras突變患者無效，聯合使用不但無益，研究顯示反而有害<br>(D) 錯誤，血管增生抑制劑對K-ras突變患者仍有效，並非兩者皆無效",
     "tags": [
       "105-2-3",
       "腫瘤科"

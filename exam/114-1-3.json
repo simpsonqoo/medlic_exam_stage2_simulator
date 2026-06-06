@@ -366,7 +366,7 @@
       "A": "bilirubin",
       "B": "prothrombin time",
       "C": "hepatic encephalopathy",
-      "D": "alanine aminotransferase（ALT）\n\n【已刪除】"
+      "D": "alanine aminotransferase（ALT）"
     },
     "answer": "D",
     "explanation": "此題考查Child-Turcotte-Pugh score評估肝硬化嚴重度的項目。此評分系統包含bilirubin、albumin、prothrombin time、腹水和肝性腦病變，但不包含ALT。<br>(A) 正確，bilirubin是Child-Turcotte-Pugh score的項目之一<br>(B) 正確，prothrombin time是Child-Turcotte-Pugh score的項目之一<br>(C) 正確，hepatic encephalopathy（肝性腦病變）是Child-Turcotte-Pugh score的項目之一<br>(D) 錯誤，Child-Turcotte-Pugh score包含bilirubin、albumin、prothrombin time、ascites（腹水）和hepatic encephalopathy，不包含alanine aminotransferase（ALT）",
@@ -709,7 +709,7 @@
       "C": "在成人會有β4 tetramer的形成",
       "D": "成年病人其HbA的生成，約為正常人的25～30%"
     },
-    "answer": "A",
+    "answer": "A,D",
     "explanation": "此題考查HbH disease的病理機轉。HbH disease是α海洋性貧血（非β海洋性貧血），成人HbA生成約為正常人的60-70%（非25-30%）。<br>(A) 錯誤，HbH disease是一種α海洋性貧血（α thalassemia，非β thalassemia），由於四個α-globin基因中有三個缺失或失功能所致<br>(B) 正確，HbH disease臨床上常伴隨溶血的表現<br>(C) 正確，在成人會有β4 tetramer（即HbH）的形成<br>(D) 錯誤，成年HbH disease病人其HbA的生成約為正常人的60-70%（非25-30%）",
     "tags": [
       "114-1-3(三)",

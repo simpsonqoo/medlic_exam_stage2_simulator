@@ -1030,7 +1030,7 @@
   },
   {
     "id": 1082361,
-    "question": "61. 下列藥物何者最不可能造成此種情況？",
+    "question": "有一位75歲男性病人，解尿時通常需要稍微用力才能解出來，且尿流較細，曾被泌尿科醫師診斷為前列腺肥 大（benign prostatic hyperplasia or hypertrophy）。某日他因感冒與嘔吐服用藥物，結果突然發生無法排尿的情 況，明明覺得膀胱很脹，但就是解不出來。請依前述情況回答下列3題。<br>61. 下列藥物何者最不可能造成此種情況？",
     "options": {
       "A": "codeine（一種opiate，用於止咳）",
       "B": "diphenhydramine（一種抗組織胺[anti-histamine]）",
@@ -1060,7 +1060,7 @@
       "108-2-3",
       "家醫科"
     ],
-    "group_id": "group_1082362"
+    "group_id": "group_1082361"
   },
   {
     "id": 1082363,
@@ -1077,11 +1077,11 @@
       "108-2-3",
       "家醫科"
     ],
-    "group_id": "group_1082363"
+    "group_id": "group_1082361"
   },
   {
     "id": 1082364,
-    "question": "64. 此病人最有可能的診斷為：",
+    "question": "一位45歲男性清潔工，過去健康情形良好，無任何病史，因呼吸急促胸悶住院，chest X-ray發現兩側肺野有 零散的毛玻璃病灶（ground-glass opacities），病人主訴前兩週去廢棄工廠打掃並清除雜物，一週前開始咳 嗽、發燒、胸悶現象，住院後經支氣管鏡肺泡灌洗術（bronchoalveolar lavage）檢查發現有lymphocytosis現 象<br>64. 此病人最有可能的診斷為：",
     "options": {
       "A": "allergic bronchopulmonary aspergillosis",
       "B": "eosinophilic pneumonia",
@@ -1111,7 +1111,7 @@
       "108-2-3",
       "胸腔內科"
     ],
-    "group_id": "group_1082365"
+    "group_id": "group_1082364"
   },
   {
     "id": 1082366,

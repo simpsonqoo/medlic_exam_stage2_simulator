@@ -52,7 +52,7 @@
   },
   {
     "id": 1102304,
-    "question": "4. 一位70歲男性糖尿病患，長期服用glimepiride、metformin、acarbose、pioglitazone控制血糖。接受血管攝影4天後，因意識不清被送至急診。抽動脈血液檢驗結果顯示代謝性酸中毒(pH6.8、Pco239.3mmHg、60ff77f8027ca.jpg mEq/L )ㆍBUN 86 mgdLㆍ creatinine 6.8 mgdLㆍ Na+ 135 mEq/LㆍK+ 6.0 mEq/LㆍCI- 90 mEq/L、glucose 131 mg/dL、lactic acid 26.6 mmol/L(参考值0.5〜2.2mmol/L)、ketone body(negative)其所服用的藥物中，何者與此急性病變最具相關性?",
+    "question": "4. 一位70歲男性糖尿病患，長期服用glimepiride、metformin、acarbose、pioglitazone控制血糖。接受血管攝影4天後，因意識不清被送至急診。抽動脈血液檢驗結果顯示代謝性酸中毒(pH6.8、Pco239.3mmHg、HCO₃⁻ 6 mEq/L )ㆍBUN 86 mgdLㆍ creatinine 6.8 mgdLㆍ Na+ 135 mEq/LㆍK+ 6.0 mEq/LㆍCI- 90 mEq/L、glucose 131 mg/dL、lactic acid 26.6 mmol/L(参考值0.5〜2.2mmol/L)、ketone body(negative)其所服用的藥物中，何者與此急性病變最具相關性?",
     "options": {
       "A": "glimepiride",
       "B": "metformin",
@@ -154,7 +154,7 @@
   },
   {
     "id": 1102310,
-    "question": "10. 22歲女性因心悸來到急診求診。生命徵象為：意識清楚，體溫37℃，心跳每分鐘160次，血壓110/70毫米汞柱，呼吸每分鐘24次。心電圖如下，以下處置何者最不恰當?60ff7c46740f7.jpg",
+    "question": "10. 22歲女性因心悸來到急診求診。生命徵象為：意識清楚，體溫37℃，心跳每分鐘160次，血壓110/70毫米汞柱，呼吸每分鐘24次。心電圖如下，以下處置何者最不恰當?",
     "options": {
       "A": "胸前電擊100J",
       "B": "給與adenosine静脈注射治療",
@@ -331,11 +331,11 @@
     "options": {
       "A": "病毒量的高低與肝癌發生的風險成正比，因此高病毒量患者都應該要積極接受抗病毒藥物治療",
       "B": "慢性B型肝炎可以有肝外症狀的表現，較常見的是arthralgia及arthritis",
-      "C": "肝臟纖維化的程度，美國常使月histologicactivitydxHAI分為0〜6分·欧洲常使用METAVIR系統分為 0~4分",
-      "D": "肝纖維化的判斷也可以非侵襲方式得知，如抽血檢測纖維的生物標誌"
+      "C": "肝臟纖維化的程度，美國常使月histologic activity index(HAI)分為0〜6分，歐洲常使用METAVIR系統分為 0~4分",
+      "D": "肝纖維化的判斷也可以非侵襲方式得知，如抽血檢測纖維的生物標誌(serum biomarkers of fibrosis)及利用影像學方式檢測肝臓的彈性(liver elasticity)"
     },
     "answer": "A",
-    "explanation": "此題考查慢性B型肝炎的治療原則。並非所有高病毒量患者都需積極抗病毒治療。<br>(A) 錯誤，雖然高病毒量與肝癌風險相關，但治療需綜合考慮肝功能、肝纖維化程度等因素，並非所有高病毒量患者都需立即治療<br>(B) 正確，慢性B型肝炎可能出現關節痛等肝外表現<br>(C) 正確，肝纖維化可用HAI(0-6分)或METAVIR(0-4分)系統評估<br>(D) 正確，可用血清生物標誌或肝彈性檢測等非侵入性方法評估肝纖維化<br>答案： C 詳解： 此題考查潰瘍性大腸炎 (Ulcerative Colitis， UC) 與克隆氏症 (Crohn's disease， CD) 之間的臨床特徵區別。克隆氏症是全層發炎 (transmural inflammation)，因此容易造成腸道纖維化並併發狹窄。 (A) 錯誤， 克隆氏症 (Crohn's disease) 較容易有跳躍性病灶 (skip lesion)；潰瘍性大腸炎 (Ulcerative Colitis) 的病灶通常是連續性的。 (B) 錯誤， 克隆氏症 (Crohn's disease) 因為是全層發炎，通常比較容易出現發燒、體重減輕等全身性症狀 (systemic symptoms)。 (C) 正確， 克隆氏症 (Crohn's disease) 的發炎是全層性的 (transmural)，容易導致纖維化，併發腸道狹窄 (stricture)。 (D) 錯誤， 黏液血便 (mucus bloody stool) 是潰瘍性大腸炎 (Ulcerative Colitis) 的典型症狀。",
+    "explanation": "此題考查慢性B型肝炎的治療原則。並非所有高病毒量患者都需積極抗病毒治療。<br>(A) 錯誤，雖然高病毒量與肝癌風險相關，但治療需綜合考慮肝功能、肝纖維化程度等因素，並非所有高病毒量患者都需立即治療<br>(B) 正確，慢性B型肝炎可能出現關節痛等肝外表現<br>(C) 正確，肝纖維化可用HAI(0-6分)或METAVIR(0-4分)系統評估<br>(D) 正確，可用血清生物標誌或肝彈性檢測等非侵入性方法評估肝纖維化",
     "tags": [
       "110-2-3(三)",
       "肝膽內科"
@@ -990,7 +990,7 @@
   },
   {
     "id": 1102359,
-    "question": "59. 外科重症加護病房病人有甲氧西林抗藥金黃色葡萄球菌(60ffa97ee8090.jpg)引起的群聚感染。管制此次MRSA傳播最有效的手段為何?",
+    "question": "59. 外科重症加護病房病人有甲氧西林抗藥金黃色葡萄球菌(MRSA)引起的群聚感染。管制此次MRSA傳播最有效的手段為何?",
     "options": {
       "A": "採取嚴格的感染管制措施，且以頭孢菌素(cephalosporin)治療感染的病人",
       "B": "採取嚴格的感染管制措施，且以高劑量苯唑西林(oxacillin)，治療感染的病人",
@@ -1044,7 +1044,7 @@
   },
   {
     "id": 1102362,
-    "question": "62. 一位55歲男性兩天來嘔吐不止送至急診處．病人過去有十二指腸潰瘍，兩天前開始噁心嘔吐，但無腹痛或發 燒。身體診察，脈搏每分錢118，血壓88/50mmHg，貧血或黄疸；胸腔和心臟正常，上腹部稍有壓痛但無反彈疼痛，腸動聲稍減，血清電解質(mmol/L)：Na+136，K+2.9，CI-89。動脈氣體分析如下：pH7.49， PaCO2 45mmHg，PaO298mmHg，60ffac9f43892.jpg。下列有關對此病人的敘述何者最為正確?",
+    "question": "62. 一位55歲男性兩天來嘔吐不止送至急診處．病人過去有十二指腸潰瘍，兩天前開始噁心嘔吐，但無腹痛或發 燒。身體診察，脈搏每分錢118，血壓88/50mmHg，貧血或黄疸；胸腔和心臟正常，上腹部稍有壓痛但無反彈疼痛，腸動聲稍減，血清電解質(mmol/L)：Na+136，K+2.9，CI-89。動脈氣體分析如下：pH7.49， PaCO2 45mmHg，PaO298mmHg，HCO₃⁻ 33 mEq/L。下列有關對此病人的敘述何者最為正確?",
     "options": {
       "A": "尿液的氯離子應該＜20mmol/L",
       "B": "尿液的滲透壓應該＜300mOsmol/kgH2O",
@@ -1265,7 +1265,7 @@
   },
   {
     "id": 1102375,
-    "question": "75. 下圖為右上腹部超音波掃描，對於箭號所指之處的相關敘述，何者錯誤?60ffb16a2b717.jpg",
+    "question": "75. 下圖為右上腹部超音波掃描，對於箭號所指之處的相關敘述，何者錯誤?",
     "options": {
       "A": "和Rokitansky-Aschoff憩室無關",
       "B": "病灶有伴隨假影",
