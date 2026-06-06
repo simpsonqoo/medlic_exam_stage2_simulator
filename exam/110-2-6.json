@@ -38,7 +38,7 @@
     "question": "3. 關於麻醉深度的監測，下列敘述何者正確？",
     "options": {
       "A": "腦部為高代謝率的器官，約使用15%的心輸出量（cardiac output），腦血氧監測（cerebral oximeter）為良好的麻醉深度監測指標",
-      "B": "以腦電圖（EEG）為基礎的監測（包含bispectral index",
+      "B": "以腦電圖（EEG）為基礎的監測（包含bispectral index (BIS), entropy等），無助於減少術中awareness的風險",
       "C": "腦電圖（EEG）的分析，對鎮靜程度及全身麻醉深度之監測很有助益",
       "D": "研究結果顯示，麻醉中若BIS數值越低，術後的後遺症越少"
     },

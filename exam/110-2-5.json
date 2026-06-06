@@ -57,7 +57,7 @@
       "A": "B型肝炎活化",
       "B": "傷口感染",
       "C": "泌尿道感染",
-      "D": "隱球菌感染"
+      "D": "隱球菌感染（cryptococcal infection）"
     },
     "answer": "D",
     "explanation": "器官移植後的感染依時間點分期：移植後1個月內以手術相關細菌感染及供體本身潛伏感染（如B型肝炎活化）為主；隱球菌等機會性真菌感染通常發生於移植後1～6個月，免疫抑制達高峰時。<br>(A) 錯誤（即正確選項），B型肝炎活化可於移植後1個月內因免疫抑制劑使用而發生<br>(B) 錯誤（即正確選項），傷口感染屬術後早期（<1個月）最常見感染之一<br>(C) 錯誤（即正確選項），泌尿道感染（urinary tract infection）是移植後早期最常見的感染，因導尿管使用及免疫抑制<br>(D) 正確，隱球菌感染（cryptococcal infection）屬於機會性感染，通常在移植後1～6個月或更晚期（高度免疫抑制狀態）出現，移植後一個月內較少發生",
@@ -123,10 +123,10 @@
     "id": 1102508,
     "question": "8. 下列何項關於人體器官移植的陳述是錯誤的?",
     "options": {
-      "A": "器官移植術後的排斥主要是跟人類白血球抗原",
+      "A": "器官移植術後的排斥主要是跟人類白血球抗原（human leukocyte antigen）有關，此抗原基因在第六對染色體上",
       "B": "器官移植術後的超急性排斥（hyperacute rejection）主要和捐贈者體內已存在抗體（preformed antibody）有關",
-      "C": "同種識別",
-      "D": "器官移植術後的急性排斥"
+      "C": "同種識別（allorecognition）可經由直接或間接路徑（direct or indirect pathway）發生，都是經由 T 細胞（T-cell）活化造成",
+      "D": "器官移植術後的急性排斥（acute rejection）依機轉主要分為細胞型排斥（cellular rejection）和體液型排斥（humoral rejection）"
     },
     "answer": "B",
     "explanation": "超急性排斥（hyperacute rejection）是發生在移植後數分鐘至數小時內，關鍵在於「誰體內的抗體」需釐清清楚。<br>(A) 正確，HLA（人類白血球抗原）基因位於第六對染色體上，器官移植排斥主要與HLA配對有關<br>(B) 錯誤，超急性排斥是因受贈者（recipient）體內預先存在的抗體（preformed antibodies）攻擊捐贈者（donor）的血管內皮，而非捐贈者體內的抗體；常見原因為ABO血型不合或先前輸血/懷孕產生的抗HLA抗體<br>(C) 正確，同種識別（allorecognition）可經由直接路徑（direct pathway，受贈者T細胞直接辨識供者MHC）及間接路徑（indirect pathway，受贈者抗原呈現細胞處理後呈現），均透過T細胞活化<br>(D) 正確，急性排斥（acute rejection）分為細胞性排斥（cellular/T cell-mediated rejection）和體液性排斥（humoral/antibody-mediated rejection）",
@@ -157,10 +157,10 @@
     "id": 1102510,
     "question": "10. 脈絡叢乳頭狀瘤(choroid plexs papillomas)造成腦室擴大(ventricular enlargement)的原因,不包括下列何 者?",
     "options": {
-      "A": "腫瘤長大",
-      "B": "後脈絡叢血管被腫瘤壓迫",
-      "C": "腦脊髓液過度製造",
-      "D": "出血造成蜘蛛膜炎以致減少腦脊髓液吸收"
+      "A": "腫瘤長大（tumor growth）",
+      "B": "後脈絡叢血管被腫瘤壓迫（posterior choroid artery compression by tumor）",
+      "C": "腦脊髓液過度製造（excessive CSF production）",
+      "D": "出血造成蜘蛛膜炎（arachnoiditis）以致減少腦脊髓液吸收"
     },
     "answer": "B",
     "explanation": "脈絡叢乳頭狀瘤（choroid plexus papilloma）造成水腦的機制主要有：過度製造腦脊髓液、腫瘤體積佔據阻礙腦脊髓液循環、出血後蜘蛛膜炎減少吸收；壓迫特定血管造成水腦並非主要機制。<br>(A) 這是原因之一，腫瘤生長（tumor growth）直接造成腦室擴大及腦脊髓液循環阻礙<br>(B) 正確（即不包含的原因），後脈絡叢動脈（posterior choroid artery）被腫瘤壓迫並非造成腦室擴大的機制，不在標準病理機制之列<br>(C) 這是原因之一，脈絡叢乳頭狀瘤可過度分泌腦脊髓液（excessive CSF production），導致交通性水腦（communicating hydrocephalus）<br>(D) 這是原因之一，腫瘤出血後引發蜘蛛膜炎（arachnoiditis），減少腦脊髓液在蜘蛛膜下腔的吸收，也會造成腦室擴大",
@@ -174,10 +174,10 @@
     "id": 1102511,
     "question": "11. 下列關於吊頸骨折(Hangman's fracture)之敘述何者正確?",
     "options": {
-      "A": "第一頸椎側體",
-      "B": "第二頸椎關節小面",
+      "A": "第一頸椎側體（lateral mass）爆裂性骨折（bursting fracture）",
+      "B": "第二頸椎關節小面（pars interarticularis fracture）骨折移位",
       "C": "第三、四頸椎伸張性損傷",
-      "D": "雙側性關節面鎖住"
+      "D": "雙側性關節面鎖住（locked facet）"
     },
     "answer": "B",
     "explanation": "吊頸骨折（Hangman's fracture）是因頸椎過度伸張加壓迫所致，需與寰椎（C1）骨折及其他頸椎損傷加以區分。<br>(A) 錯誤，第一頸椎（寰椎）側塊（lateral mass）爆裂性骨折稱為傑佛遜骨折（Jefferson fracture），不是吊頸骨折<br>(B) 正確，吊頸骨折（Hangman's fracture）定義為第二頸椎（樞椎, axis）雙側椎弓峽部（pars interarticularis / isthmus）骨折，可伴隨C2-C3椎體移位<br>(C) 錯誤，第三、四頸椎損傷屬於中段頸椎損傷，不是吊頸骨折的定義<br>(D) 錯誤，雙側關節面鎖住（bilateral locked facets）是屈曲型脫位（flexion dislocation）的表現，與吊頸骨折無關",
@@ -193,8 +193,8 @@
     "options": {
       "A": "肢體的整圈全層燒燙傷,是手術的適應症",
       "B": "胸廓的全層燒燙傷,造成呼吸困難,是手術的適應症",
-      "C": "焦痂切開術",
-      "D": "緊急時可以在一般病房病床邊進行"
+      "C": "焦痂切開術(escharotomy)需將筋膜切開",
+      "D": "緊急時可以在一般病房病床邊進行(bedside procedure)"
     },
     "answer": "C",
     "explanation": "焦痂切開術（escharotomy）與筋膜切開術（fasciotomy）是兩個不同的手術，需清楚區分兩者的深度差異。<br>(A) 正確，肢體環形全層燒傷（circumferential full-thickness burn）會造成腔室壓力升高，是焦痂切開術的適應症<br>(B) 正確，胸廓環形全層燒傷造成胸廓順應性下降、限制呼吸運動，引起呼吸困難，也是適應症<br>(C) 錯誤，焦痂切開術（escharotomy）僅切至焦痂層（eschar），不需要切開筋膜；若需切開筋膜則稱為筋膜切開術（fasciotomy），適用於腔室症候群（compartment syndrome）<br>(D) 正確，情況緊急時，焦痂切開術可於床邊（bedside）進行，無需等待手術室",
@@ -210,8 +210,8 @@
     "options": {
       "A": "可單獨發生,也有可能合併其他症候群,如Poland syndrome",
       "B": "最常受影響的手指是拇指與食指之併指",
-      "C": "手指的成形在胚胎發育過程中,牽涉細胞凋亡",
-      "D": "對於完全型併指"
+      "C": "手指的成形在胚胎發育過程中,牽涉細胞凋亡(apoptosis)和BMP-4(bone morphogenic protein)",
+      "D": "對於完全型併指(complete syndactyly)之指蹼(webspace)的重建,背側苜蓿葉型皮瓣(dorsal clover leaf flap),是一種實用的選擇"
     },
     "answer": "B",
     "explanation": "手部併指症（syndactyly）中，各手指間的發生頻率不同，需記住最常見的組合。<br>(A) 正確，併指症可單獨發生（isolated form），也可合併在症候群中，如Poland症候群（Poland syndrome）<br>(B) 錯誤，手部先天性併指症最常發生在中指與無名指之間（third web space，即第三指蹼），而非拇指與食指之間<br>(C) 正確，手指分離在胚胎發育中牽涉細胞凋亡（apoptosis）及骨形成蛋白-4（BMP-4, bone morphogenetic protein-4）調控<br>(D) 正確，完全型併指（complete syndactyly）的指蹼重建，背側苜蓿葉型皮瓣（dorsal cloverleaf flap）是實用的重建選擇",
@@ -225,10 +225,10 @@
     "id": 1102514,
     "question": "14. 下列何種情況最不適合斷指重接(replantation)手術?",
     "options": {
-      "A": "拇指",
-      "B": "單一手指的多段",
+      "A": "拇指(thumb)截斷",
+      "B": "單一手指的多段(multiple level)截斷",
       "C": "幼兒斷指",
-      "D": "單一手指的遠端指節"
+      "D": "單一手指的遠端指節(distal phalanx)截斷"
     },
     "answer": "B",
     "explanation": "斷指重接（replantation）的適應症需考量功能恢復的可能性，某些情況下重接後功能恢復差反而不建議執行。<br>(A) 錯誤，拇指（thumb）截斷是重接的強烈適應症，因拇指功能佔手部功能約40%，幾乎都應嘗試重接<br>(B) 正確，單一手指的多段截斷（multiple level amputation）重接後功能恢復極差，血管修復困難，屬於最不建議重接的情況<br>(C) 錯誤，幼兒斷指是重接的適應症，因幼兒再生能力強、神經恢復好，應積極嘗試重接<br>(D) 錯誤，單一手指遠端指節（distal phalanx）截斷視情況可重接，尤其功能及美觀需求時",
@@ -279,10 +279,10 @@
     "id": 1102517,
     "question": "17. 下列那一條血管不適合做為冠狀動脈繞道手術(coronary artery bypass grafting)之繞道管道(conduit)?",
     "options": {
-      "A": "股動脈",
-      "B": "內乳動脈",
-      "C": "大隱靜脈",
-      "D": "橈動脈"
+      "A": "股動脈(femoral artery)",
+      "B": "內乳動脈(intermal mammary artery)或稱內胸動脈(internal thoracic artery)",
+      "C": "大隱靜脈(greater saphenous vein)",
+      "D": "橈動脈(radial artery)"
     },
     "answer": "A",
     "explanation": "冠狀動脈繞道手術（CABG）的血管材料需具備足夠長度、口徑相符及長期通暢率（patency rate），且取用後不影響供應部位的血流。<br>(A) 正確（不適合），股動脈（femoral artery）是下肢主要的血液供應幹道，取用後會造成嚴重下肢缺血，不適合作為CABG的管道<br>(B) 錯誤，內乳動脈（internal mammary artery），又稱內胸動脈（internal thoracic artery），是CABG最佳選擇，10年通暢率超過90%<br>(C) 錯誤，大隱靜脈（greater saphenous vein）是最常使用的靜脈管道，取用後下肢靜脈回流由其他靜脈代償<br>(D) 錯誤，橈動脈（radial artery）是常用的動脈管道，取用前須確認尺動脈（ulnar artery）能提供足夠的手部血流（Allen test）",
@@ -296,10 +296,10 @@
     "id": 1102518,
     "question": "18. 下列何者不是嚴重主動脈瓣閉鎖不全(severe aortic insufficiency)之手術適應症?",
     "options": {
-      "A": "急性嚴重主動脈瓣閉鎖不全",
-      "B": "有症狀之慢性嚴重主動脈瓣閉鎖不全",
-      "C": "無症狀之慢性嚴重主動脈瓣閉鎖不全",
-      "D": "無症狀之慢性嚴重主動脈瓣閉鎖不全"
+      "A": "急性嚴重主動脈瓣閉鎖不全(acute severe aortic insufficiency)併有休克之病患",
+      "B": "有症狀之慢性嚴重主動脈瓣閉鎖不全(chronic severe aortic insufficiency),不論有無心臟功能不全",
+      "C": "無症狀之慢性嚴重主動脈瓣閉鎖不全(chronic severe aortic insufficiency),且左心室末期收縮直徑(LVESD)30mm之病患",
+      "D": "無症狀之慢性嚴重主動脈瓣閉鎖不全(chronic severe aortic insufficiency),且有左心室功能不全,左心室射出率低於50%"
     },
     "answer": "C",
     "explanation": "主動脈瓣閉鎖不全（aortic insufficiency, AI）的手術時機根據指引（AHA/ACC）有明確標準，重點在左心室功能及腔室大小的閾值。<br>(A) 錯誤，急性嚴重主動脈瓣閉鎖不全合併休克（cardiogenic shock）是緊急手術適應症<br>(B) 錯誤，有症狀（呼吸困難、心絞痛等）之慢性嚴重主動脈瓣閉鎖不全無論左心室功能如何均應手術<br>(C) 正確（不是適應症），無症狀且LVESD僅30 mm屬正常範圍，手術閾值為LVESD≥50 mm（或LVESD＞25 mm/m²BSA），30 mm遠低於手術適應症的閾值，不符合手術指徵<br>(D) 錯誤，無症狀但有左心室功能不全（LVEF＜50%）是手術適應症，因為左心室功能已開始惡化，應及早介入",
@@ -316,7 +316,7 @@
       "A": "間歇性跛行或潰瘍不癒合以左下肢為主",
       "B": "狹窄之可能部位位於左側腸骨動脈或股動脈",
       "C": "雙側下肢血管,左側足背動脈脈搏觸診較右側微弱",
-      "D": "如需進行膝下繞道手術時,以聚四氟乙烯"
+      "D": "如需進行膝下繞道手術時,以聚四氟乙烯(polytetrafluoroethylene, PTFE)人工血管植入為主"
     },
     "answer": "D",
     "explanation": "下肢周邊動脈疾病（peripheral arterial disease, PAD）的診斷與治療，需依病灶位置及血管條件選擇最合適的治療方式。<br>(A) 正確，若血管攝影顯示左側狹窄較嚴重，間歇性跛行（claudication）或潰瘍不癒合以左下肢為主是合理推論<br>(B) 正確，影像上若左側顯影較差，狹窄位置可能在左側腸骨動脈（iliac artery）或股動脈（femoral artery）<br>(C) 正確，左側足背動脈（dorsalis pedis artery）脈搏較右側微弱符合左側血管病變<br>(D) 錯誤，膝下繞道手術（infrapopliteal bypass）首選應為自體大隱靜脈（autologous saphenous vein），因為PTFE人工血管在膝下位置的長期通暢率遠低於自體靜脈，並非首選",
@@ -333,7 +333,7 @@
     "id": 1102520,
     "question": "20. 有關單一心室先天性心臟病之敘述,下列何者錯誤?",
     "options": {
-      "A": "左心室發育不全症候群",
+      "A": "左心室發育不全症候群(hypoplastic left heart syndrome)和三尖瓣發育不全(tricuspid atresia)皆適合行Fontan術式",
       "B": "Bidirectional Glenn shunt可以是Fontan術式之階段手術,一般建議在第一階段手術後3至6個月左右施行",
       "C": "進行Bidirectional Glenn shunt術式時,保留動脈到肺動脈之分流,可增加血氧濃度,且可提高單心室之長期存活率",
       "D": "Norwood術式是單一心室之第一階段術式,可以採用心室到肺動脈之分流來取代主動脈到肺動脈之分流"
@@ -350,10 +350,10 @@
     "id": 1102521,
     "question": "21. 下列先天性心臟病,何者不是發紺性(cyanotic heart disease) 心臟病?",
     "options": {
-      "A": "法洛氏四重症",
-      "B": "大動脈轉位",
-      "C": "肺動脈吊索",
-      "D": "三尖瓣發育不全"
+      "A": "法洛氏四重症(tetralogy of Fallot)",
+      "B": "大動脈轉位(transposition of great arteries)",
+      "C": "肺動脈吊索(pulmonary artery sling)",
+      "D": "三尖瓣發育不全(tricuspid atresia)"
     },
     "answer": "C",
     "explanation": "發紺性先天性心臟病（cyanotic congenital heart disease）的共同特徵是右向左分流（right-to-left shunt）或肺血流不足，導致去氧血進入體循環。本題要找出「不是」發紺性心臟病的選項，關鍵在辨識哪個疾病本質上不會造成發紺。<br>(A) 正確（是發紺性），法洛氏四重症（tetralogy of Fallot）包含肺動脈狹窄、心室中隔缺損、主動脈跨位及右心室肥大，肺動脈狹窄造成右向左分流，是最常見的發紺性先天性心臟病<br>(B) 正確（是發紺性），大動脈轉位（transposition of great arteries, TGA）使主動脈接右心室、肺動脈接左心室，體循環與肺循環完全分離，屬嚴重發紺性心臟病<br>(C) 錯誤（不是發紺性），肺動脈吊索（pulmonary artery sling）是左肺動脈異常起源於右肺動脈，環繞氣管造成壓迫，主要症狀為喘鳴（stridor）和呼吸道阻塞，並不造成右向左分流，故不屬於發紺性心臟病<br>(D) 正確（是發紺性），三尖瓣閉鎖（tricuspid atresia）使右心室發育不良，血液必須透過心房中隔缺損或心室中隔缺損形成分流才能存活，屬發紺性心臟病",
@@ -370,7 +370,7 @@
       "A": "在女性中,最常因為乳癌產生惡性肋膜積液",
       "B": "引流惡性肋膜積液是必要的,而且可以提升病人存活率",
       "C": "如果因為肺癌腫瘤產生的肋膜積液,不論惡性或良性,皆不適合手術治療",
-      "D": "如果惡性肋膜積液經引流,仍有大量積液,可以考慮肋膜沾黏術,其中以滑石粉"
+      "D": "如果惡性肋膜積液經引流,仍有大量積液,可以考慮肋膜沾黏術,其中以滑石粉(talc)沾黏效果最差"
     },
     "answer": "A",
     "explanation": "惡性肋膜積液（malignant pleural effusion）的原因因性別而異，治療目的在於症狀緩解而非治癒，需了解各種處置的適應症與效果。<br>(A) 正確，女性惡性肋膜積液最常見原因為乳癌（breast cancer），男性則以肺癌最常見<br>(B) 錯誤，引流惡性肋膜積液的目的是緩解症狀（palliative），並無法提升病人存活率<br>(C) 錯誤，若肺癌造成的肋膜積液經細胞學或切片確認為良性（benign）反應性積液，仍不影響手術切除的評估；並非所有肺癌相關肋膜積液都是手術禁忌<br>(D) 錯誤，惡性肋膜積液大量反覆累積時，可考慮肋膜沾黏術（pleurodesis），其中滑石粉（talc）效果最佳，而非最差",
@@ -384,10 +384,10 @@
     "id": 1102523,
     "question": "23. 關於先天性肺部疾病,下列敘述何者錯誤?",
     "options": {
-      "A": "支氣管囊腫",
-      "B": "肺葉肺氣腫",
-      "C": "肺內游離肺",
-      "D": "肺血管吊索"
+      "A": "支氣管囊腫(bronchogenic cyst)無症狀不需要手術切除",
+      "B": "肺葉肺氣腫(lobar emphysema)為最常切除的肺部先天性囊腫疾病",
+      "C": "肺內游離肺(intralobar pulmonary sequestration)常發於下肺葉,血液回流到肺靜脈",
+      "D": "肺血管吊索(pulmonary vascular sling)常伴有喘鳴發生"
     },
     "answer": "A",
     "explanation": "先天性肺部疾病的處置原則因疾病種類而異，支氣管囊腫即使無症狀，也有其潛在風險需考量。<br>(A) 錯誤，支氣管囊腫（bronchogenic cyst）即使無症狀，仍建議手術切除，原因是有感染、出血及惡性轉變的風險，且手術切除可確立診斷<br>(B) 正確，先天性肺葉肺氣腫（congenital lobar emphysema）是最常需要手術切除的先天性肺部囊腫性病變<br>(C) 正確，肺內游離肺（intralobar pulmonary sequestration）好發於下肺葉，其靜脈回流流入肺靜脈（與肺外型不同，肺外型回流至體循環靜脈）<br>(D) 正確，肺血管吊索（pulmonary vascular sling）因血管壓迫氣管或支氣管，常伴有喘鳴（stridor）發生",
@@ -418,9 +418,9 @@
     "id": 1102525,
     "question": "25. 有關食道疾病的敘述,下列何者正確?",
     "options": {
-      "A": "Zenker憩室",
-      "B": "中段食道憩室",
-      "C": "胃食道逆流的胃底折疊術",
+      "A": "Zenker憩室(Zenker diverticulum)主要以測壓機(manometry)診斷",
+      "B": "中段食道憩室(midesophageal diverticula)主要為位於右側的真性憩室(true diverticulum)",
+      "C": "胃食道逆流的胃底折疊術(fundoplication)應做360度的包埋,效果較佳",
       "D": "食道腐蝕性傷害在無胃鏡檢查下,應立即放置鼻胃管引流"
     },
     "answer": "B",
@@ -539,7 +539,7 @@
     "options": {
       "A": "具有消化、吸收、內分泌的功能,且為體內重要的免疫器官",
       "B": "腸道阻塞會因外因性、内因性跟管腔内的病因所造成。最常見的原因是術後沾黏",
-      "C": "腸胃道基質瘤",
+      "C": "腸胃道基質瘤(gastrointestinal stromal tumor)是從腸道的間質組織生出,為小腸最常見的惡性腫瘤,容易復發並轉移",
       "D": "腸胃道基質瘤不常經由淋巴轉移,所以在針對腸胃道基質瘤進行手術時,不需要特別進行淋巴廓清手術"
     },
     "answer": "C",
@@ -605,10 +605,10 @@
     "id": 1102536,
     "question": "36. 下列何者不是供應甲狀腺血液之動脈?",
     "options": {
-      "A": "上甲狀腺動脈",
-      "B": "中甲狀腺動脈",
-      "C": "下甲狀腺動脈",
-      "D": "最下甲狀腺動脈"
+      "A": "上甲狀腺動脈(superior thyroid artery)",
+      "B": "中甲狀腺動脈(middle thyroid artery)",
+      "C": "下甲狀腺動脈(inferior thyroid artery)",
+      "D": "最下甲狀腺動脈(thyroidea ima artery)"
     },
     "answer": "B",
     "explanation": "甲狀腺的血液供應來自特定的動脈，手術中辨識這些血管至關重要，「中甲狀腺動脈」在解剖學上並不存在。<br>(A) 錯誤（是供應動脈），上甲狀腺動脈（superior thyroid artery）源自頸外動脈（external carotid artery），供應甲狀腺上極<br>(B) 正確，中甲狀腺動脈（middle thyroid artery）在解剖學上並不存在，甲狀腺的動脈供應只有上、下甲狀腺動脈及偶爾出現的最下甲狀腺動脈<br>(C) 錯誤（是供應動脈），下甲狀腺動脈（inferior thyroid artery）源自甲狀頸幹（thyrocervical trunk），供應甲狀腺下極及甲狀旁腺（parathyroid gland）<br>(D) 錯誤（是供應動脈），最下甲狀腺動脈（thyroidea ima artery）是不穩定出現的變異血管，約3%人口存在，直接源自主動脈弓或無名動脈，供應甲狀腺峽部",
@@ -641,7 +641,7 @@
     "options": {
       "A": "乳房超音波較mammography易偵測到microcalcifications",
       "B": "mammography sensitivity在50歲以下的婦女較50歲以上婦女差",
-      "C": "婦女乳腺緻密者",
+      "C": "婦女乳腺緻密者(dense breast),mammography sensitivity差",
       "D": "50歲以上無症狀健康婦女的乳癌篩檢應做mammography"
     },
     "answer": "A",
@@ -673,10 +673,10 @@
     "id": 1102540,
     "question": "40. 有關乳癌手術及輔助治療,下列敘述何者錯誤?",
     "options": {
-      "A": "乳房根治切除術",
-      "B": "乳房保留手術",
+      "A": "乳房根治切除術(radical mastectomy)是現今乳癌治療的基礎,強調大範圍根治清除,在1970年代是重要的治療方式",
+      "B": "乳房保留手術(breast-conserving therapy)經過臨床試驗證實可以有統計意義的增加存活率(overall and disease-free survival)",
       "C": "乳房保留手術,若切除腫瘤的切面邊緣有殘留的癌組織會增加局部復發率",
-      "D": "放射治療是乳癌治療的選項之一,病患有嚴重肺部疾病者"
+      "D": "放射治療是乳癌治療的選項之一,病患有嚴重肺部疾病者(severe pulmonary disease),放射治療並不適合"
     },
     "answer": "B",
     "explanation": "乳癌手術的演進從根治性切除到乳房保留，關鍵在了解各術式的存活率比較結果與實際臨床試驗結論。<br>(A) 正確，乳房根治切除術（radical mastectomy，Halsted mastectomy）在1970年代是主流術式，強調大範圍切除包含胸大肌，但現今已被改良式根治切除術取代<br>(B) 錯誤，大型隨機對照試驗（如NSABP B-06）證實乳房保留手術合併放射治療的整體存活率與乳房切除術相當（equivalent），但並未增加存活率；兩者生存率相似，而非保留手術更好<br>(C) 正確，乳房保留手術若切緣（surgical margin）有殘留癌組織（positive margin），局部復發率（local recurrence rate）會顯著增加，切緣陰性是手術成功的重要指標<br>(D) 正確，放射治療（radiation therapy）是乳房保留手術後的標準輔助治療，但嚴重肺部疾病（severe pulmonary disease）患者因肺臟對放射線耐受性差，放射治療相對不適合",
@@ -691,7 +691,7 @@
     "question": "41. 有關乳房重建方式的敘述,下列何者錯誤?",
     "options": {
       "A": "義乳植入是雙側乳房重建手術的適應症之一",
-      "B": "義乳植入其優點在維持雙側對稱,其缺點在無法維持自然下垂的外觀",
+      "B": "義乳植入其優點在維持雙側對稱,其缺點在無法維持自然下垂的外觀(natural ptosis)",
       "C": "闊背肌皮瓣可以提供較寬厚的組織覆蓋,適用於乳房較大的重建手術",
       "D": "腹直肌皮瓣手術對先前曾做腹部手術的病患,是相對禁忌症"
     },
@@ -758,7 +758,7 @@
     "id": 1102545,
     "question": "45. 一個懷孕28周的準媽媽,在接受例行的產前超音波檢查,由婦產科醫師檢查出:在胎兒的右肺出現了泡泡狀 的病灶。而在此之前,準媽媽與寶寶的檢查,都未出現特別的異狀。婦產科醫師再安排了更詳盡的胎兒檢 查,推斷此胎兒患有「先天性肺呼吸道畸形(CPAMs, congenital pulmonary airway malformations)」。於是, 婦產科醫師將準媽媽轉介到小兒外科醫師的門診,希望小兒外科醫師跟準媽媽解釋,寶寶在出生之後,寶寶 可能需要接受的治療。下列是小兒外科醫師跟著急的準媽媽的病解,何者最不適當?",
     "options": {
-      "A": "先天性肺呼吸道畸形",
+      "A": "先天性肺呼吸道畸形(CPAMs)是一種在正常肺部組織中生長出的多囊結構腫塊。這種多囊腫塊,通常會侷限在某一側的肺部或是某一塊肺葉",
       "B": "有可能會發生胎兒窘迫",
       "C": "此病灶並無轉為惡性腫瘤的可能",
       "D": "如果在懷孕的過程及出生之後,病兒均沒有特別的症狀,我們可以先監控觀察,等到約六個月大前,再考慮 進行手術將其病灶切除。但少數的病例在出生後就出現呼吸窘迫的現象,此時就要進行緊急手術將其肺部的 病灶切除"
@@ -775,10 +775,10 @@
     "id": 1102546,
     "question": "46. 腸道旋轉不良(intestinal malrotation)可能造成腸道扭轉(intestinal volvulus),下列那一個敘述對手術所需的步驟最正確?",
     "options": {
-      "A": "解除腸道扭轉,分離升結腸盲腸",
+      "A": "解除腸道扭轉,分離升結腸盲腸(cecum)與十二指腸之沾黏切除闌尾",
       "B": "解除腸道扭轉,將升結腸及降結腸固定在腹壁避免容易扭轉,增寬小腸腸繫膜根部避免容易扭轉,切除闌尾",
-      "C": "解除腸道扭轉分離升結腸、盲腸",
-      "D": "解除腸道扭轉,分離升結腸、盲腸"
+      "C": "解除腸道扭轉分離升結腸、盲腸(cecum)與十二指腸之沾黏,增寬小腸腸繫膜根部避免容易扭轉切除闌尾",
+      "D": "解除腸道扭轉,分離升結腸、盲腸(cecum)與十二指腸之沾黏,將升結腸及降結腸固定在腹壁避免容易扭轉,切除闌尾"
     },
     "answer": "C",
     "explanation": "腸道旋轉不良的手術（Ladd's procedure）有固定步驟，需完整了解各步驟的目的，尤其腸繫膜增寬與闌尾切除是重要的步驟，但結腸固定並非標準步驟。<br>(A) 錯誤，只有沾黏分離與闌尾切除，缺少增寬小腸腸繫膜根部這個關鍵步驟，腸繫膜根部狹窄是日後再扭轉的根本原因<br>(B) 錯誤，Ladd手術不包括將升結腸及降結腸固定在腹壁，且缺少分離沾黏的步驟；固定結腸非標準術式<br>(C) 正確，Ladd手術的標準步驟包含：解除扭轉（detorsion）→ 分離Ladd氏帶（Ladd's bands，即升結腸、盲腸與十二指腸間的腹膜沾黏）→ 增寬小腸腸繫膜根部（widening mesenteric base）→ 切除闌尾（因闌尾位置異常，日後若發炎難以診斷）<br>(D) 錯誤，同樣包含了「將升降結腸固定在腹壁」這個非標準步驟，Ladd手術不強調結腸固定",
@@ -845,7 +845,7 @@
     "options": {
       "A": "潰瘍性結腸炎有可能產生小腸病灶,克隆氏症則不會有小腸病灶",
       "B": "克隆氏症較易形成肛門廔管或腸道廔管",
-      "C": "在腸道外表徵",
+      "C": "在腸道外表徵(extraintestinal manifestations)方面,相較於潰瘍性結腸炎,克隆氏症較易有原發性硬化性膽管炎(primary sclerosing cholangitis, PSC)",
       "D": "抽菸不會增加克隆氏症復發的機率"
     },
     "answer": "B",
@@ -860,10 +860,10 @@
     "id": 1102551,
     "question": "51. 下列有關腹腔鏡手術的敘述何者錯誤?",
     "options": {
-      "A": "氣體栓塞",
-      "B": "非充氣式的腹腔鏡手術",
-      "C": "接受腹腔鏡手術後的免疫抑制反應",
-      "D": "接受腹腔鏡手術後血清中的皮質醇"
+      "A": "氣體栓塞(air emboli)在腹腔鏡手術中並不常見",
+      "B": "非充氣式的腹腔鏡手術(gasless laparoscopic surgery),撐開器(lift device)的使用對於手術視野的呈現(exposure)及可運作空間上比傳統充氣式腹腔鏡手術更佳",
+      "C": "接受腹腔鏡手術後的免疫抑制反應(immune suppression)較傳統手術少",
+      "D": "接受腹腔鏡手術後血清中的皮質醇(cortisol)濃度較傳統開腹手術後為高"
     },
     "answer": "B",
     "explanation": "腹腔鏡手術依建立操作空間的方式分為充氣式（pneumoperitoneum）與非充氣式（gasless），兩者的視野品質與操作空間各有優缺點。<br>(A) 正確，氣體栓塞（gas embolism）在腹腔鏡手術中是已知的罕見但嚴重併發症，並不常見，描述正確<br>(B) 錯誤，非充氣式腹腔鏡手術（gasless laparoscopic surgery）使用撐開器（lift device）抬起腹壁，其操作空間與視野不如傳統充氣式（CO₂ pneumoperitoneum），充氣式可提供更均勻、更大的腹腔空間；gasless的優點是避免CO₂相關的生理影響，而非視野或空間更佳<br>(C) 正確，腹腔鏡手術的傷口較小，手術創傷較小，術後的免疫抑制反應（immune suppression）確實較傳統開腹手術輕微<br>(D) 正確，腹腔鏡手術雖創傷較小，但CO₂氣腹（pneumoperitoneum）及手術本身仍會引發壓力反應，皮質醇（cortisol）濃度升高幅度有時不亞於開腹手術，此描述在文獻上有根據",
@@ -880,7 +880,7 @@
       "A": "手術醫師雙手的trocar至少相隔10公分為佳",
       "B": "鏡頭的trocar位於手術醫師雙手間且稍微遠離手術目標為宜",
       "C": "理想狀況下,手術醫師雙手的trocar和鏡頭的trocar應呈現一等腰三角形",
-      "D": "手術醫師在操作時,常常需以雙手交叉的方式"
+      "D": "手術醫師在操作時,常常需以雙手交叉的方式(crossed hands fashion)進行"
     },
     "answer": "D",
     "explanation": "腹腔鏡手術的trocar配置原則遵循「棒球場原則（baseball diamond principle）」，目的是讓操作者雙手與鏡頭形成最佳的三角關係，避免器械互相干擾。<br>(A) 正確，手術醫師雙手的trocar至少相隔10公分，可避免器械在腹腔外互相碰撞（fulcrumming）<br>(B) 正確，鏡頭trocar應位於手術醫師雙手之間且稍微遠離手術目標，形成良好的視角與操作距離<br>(C) 正確，理想的trocar配置是雙手trocar與鏡頭trocar呈現等腰三角形，鏡頭在頂點正後方，雙手分列兩側，是標準的三角配置原則<br>(D) 錯誤，良好的trocar配置應讓手術醫師雙手平行操作，不需要交叉；雙手交叉（crossed hands fashion）代表trocar位置不當，操作符合效能差、方向感錯亂，是應該避免的情況，而非常見的操作方式",
@@ -894,10 +894,10 @@
     "id": 1102553,
     "question": "53. 45歲陳太太是工廠包裝員,近年來在拇指、食指及中指的分布區域有紅腫、疼痛、麻木及刺痛現象,晚上睡 覺時會被痛醒,甩手後症狀會改善。請依此回答下列3題: 陳太太可能的診斷為何?",
     "options": {
-      "A": "腕隧道症候群",
-      "B": "肘隧道症候群",
-      "C": "頸神經根病變",
-      "D": "脊髓病變"
+      "A": "腕隧道症候群(carpal tunnel syndrome)",
+      "B": "肘隧道症候群(cubital tunnel syndrome)",
+      "C": "頸神經根病變(cervical radiculopathy)",
+      "D": "脊髓病變(myelopathy)"
     },
     "answer": "A",
     "explanation": "正中神經（median nerve）壓迫症候群的典型症狀分布與誘發因素是診斷的關鍵，夜間加重及甩手緩解是腕隧道症候群的特徵性表現。<br>(A) 正確，腕隧道症候群（carpal tunnel syndrome, CTS）典型症狀為正中神經分布區域（拇指、食指、中指及無名指橈側半）的麻木、刺痛及疼痛，夜間症狀加重（因腕部屈曲），甩手可暫時緩解，與題目描述完全吻合<br>(B) 錯誤，肘隧道症候群（cubital tunnel syndrome）壓迫的是尺神經（ulnar nerve），症狀分布在無名指尺側及小指，不符合拇指、食指、中指的分布<br>(C) 錯誤，頸神經根病變（cervical radiculopathy）雖可引起手部麻木，但通常伴隨頸部疼痛、症狀延伸至前臂或上臂，且甩手不會緩解<br>(D) 錯誤，脊髓病變（myelopathy）為上運動神經元病變，表現為雙側肢體無力、反射亢進、步態異常，與本題局限於手部的周邊神經壓迫症狀不符",
@@ -911,10 +911,10 @@
     "id": 1102554,
     "question": "54. 陳太太會發生這種症狀是因為工作過度造成那一神經的壓迫?",
     "options": {
-      "A": "尺神經",
-      "B": "正中神經",
-      "C": "脊髓",
-      "D": "C4神經根"
+      "A": "尺神經(ulnar nerve)",
+      "B": "正中神經(median nerve)",
+      "C": "脊髓(spinal cord)",
+      "D": "C4神經根(C4 nerve root)"
     },
     "answer": "B",
     "explanation": "依上題的診斷（腕隧道症候群），受壓迫的神經直接對應其解剖位置與症狀分布即可作答。<br>(A) 錯誤，尺神經（ulnar nerve）穿過肘隧道（cubital tunnel）或腕部的尺神經管（Guyon's canal），壓迫後表現為無名指尺側及小指的感覺異常<br>(B) 正確，腕隧道症候群是正中神經（median nerve）在腕隧道（carpal tunnel）內受壓迫所致，長期反覆手腕動作的工作（如包裝、打字）是常見的職業性危險因子<br>(C) 錯誤，脊髓（spinal cord）受壓為中樞性病變，不會造成如此局限且典型的周邊神經壓迫症狀<br>(D) 錯誤，C4神經根支配頸部、肩膀及鎖骨區域感覺，不支配手指",
@@ -928,10 +928,10 @@
     "id": 1102555,
     "question": "55. 在門診中,下列何種檢查呈陽性反應可以幫助確診?",
     "options": {
-      "A": "深部肌腱反射呈現過度反射",
-      "B": "肘部彎曲測試",
-      "C": "手腕彎曲測試",
-      "D": "椎間孔擠壓測試"
+      "A": "深部肌腱反射呈現過度反射(deep tendon reflex hyperreflexia)",
+      "B": "肘部彎曲測試(elbow flexion test)",
+      "C": "手腕彎曲測試(Phalen's test)",
+      "D": "椎間孔擠壓測試(Spurling test)"
     },
     "answer": "C",
     "explanation": "腕隧道症候群的臨床理學檢查有多種，需了解各檢查所針對的疾病及其陽性意義。<br>(A) 錯誤，深部肌腱反射過度反射（hyperreflexia）是上運動神經元病變（如脊髓病變, myelopathy）的表現，腕隧道症候群屬下運動神經元（周邊神經）壓迫，不會出現反射亢進<br>(B) 錯誤，肘部彎曲測試（elbow flexion test）是檢查肘隧道症候群（cubital tunnel syndrome）（尺神經壓迫）的陽性檢查，不用於腕隧道症候群<br>(C) 正確，法倫氏測試（Phalen's test）讓患者維持手腕最大屈曲60秒，若出現拇指、食指、中指的麻木或刺痛感即為陽性，是診斷腕隧道症候群（CTS）的標準理學檢查，靈敏度約68～80%<br>(D) 錯誤，椎間孔擠壓測試（Spurling test）是檢查頸神經根病變（cervical radiculopathy）的理學檢查，與腕隧道症候群無關",
@@ -945,10 +945,10 @@
     "id": 1102556,
     "question": "56. 下列關於骨肉瘤(osteosarcoma)的敘述,何者最不適當?",
     "options": {
-      "A": "經大量放射線暴露",
-      "B": "骨膜骨肉瘤",
-      "C": "動脈瘤性骨囊腫",
-      "D": "骨旁骨肉瘤"
+      "A": "經大量放射線暴露(radiation exposure)之後,有可能出現放射線誘發的骨肉瘤(radiation-induced osteosarcoma)",
+      "B": "骨膜骨肉瘤(periosteal osteosarcoma)在影像檢查常會看到 stuck-on appearance",
+      "C": "動脈瘤性骨囊腫(aneurysmal bone cyst)影像呈現上易與微血管擴張性骨肉瘤(telangiectatic osteosarcoma)混淆診斷",
+      "D": "骨旁骨肉瘤(parosteal osteosarcoma)為低度惡性,最適當的治療方法是手術切除"
     },
     "answer": "B",
     "explanation": "骨肉瘤（osteosarcoma）有多種亞型，各亞型的影像特徵、惡性程度及好發族群各異，需正確對應每個亞型的典型特徵。<br>(A) 正確，接受大劑量放射線治療後確實可能誘發放射線誘發骨肉瘤（radiation-induced osteosarcoma），是已知的晚期放射線傷害之一<br>(B) 錯誤，stuck-on appearance（附著外觀）是骨旁骨肉瘤（parosteal osteosarcoma）的典型影像特徵，表現為骨皮質外表面「黏附」一個緻密鈣化腫塊；骨膜骨肉瘤（periosteal osteosarcoma）的影像特徵則是Codman三角（Codman's triangle）及日射狀骨針（sunburst pattern），兩者特徵張冠李戴<br>(C) 正確，動脈瘤性骨囊腫（aneurysmal bone cyst, ABC）與微血管擴張性骨肉瘤（telangiectatic osteosarcoma）在影像上均呈現液-液平面（fluid-fluid level），形態相似，容易混淆，需靠切片鑑別<br>(D) 正確，骨旁骨肉瘤（parosteal osteosarcoma）為低度惡性（low grade），預後較佳，標準治療為廣泛手術切除，不需常規化療",
@@ -979,10 +979,10 @@
     "id": 1102558,
     "question": "58. Bennett fracture是拇指的掌指骨折併關節脫臼,最可能由下列那一條肌腱牽拉所造成?",
     "options": {
-      "A": "橈側伸腕短肌腱",
-      "B": "橈側伸腕長肌腱",
-      "C": "伸拇長肌腱",
-      "D": "外展拇長肌腱"
+      "A": "橈側伸腕短肌腱(extensor carpi radialis brevis tendon)",
+      "B": "橈側伸腕長肌腱(extensor carpi radialis longus tendon)",
+      "C": "伸拇長肌腱(extensor pollicis longus tendon)",
+      "D": "外展拇長肌腱 (abductor pollicis longus tendon)"
     },
     "answer": "D",
     "explanation": "Bennett骨折是第一掌骨基部的關節內骨折合併腕掌關節（carpometacarpal joint）半脫位，骨折片的移位與肌腱拉力方向直接相關。<br>(A) 錯誤，橈側伸腕短肌腱（extensor carpi radialis brevis tendon）附著於第三掌骨基部，與拇指掌骨骨折無直接關係<br>(B) 錯誤，橈側伸腕長肌腱（extensor carpi radialis longus tendon）附著於第二掌骨基部，同樣與拇指掌骨骨折無關<br>(C) 錯誤，伸拇長肌腱（extensor pollicis longus tendon）附著於拇指末節指骨背側，在Bennett骨折中雖參與拇指移位，但非主要牽拉造成骨折移位的肌腱<br>(D) 正確，外展拇長肌腱（abductor pollicis longus tendon）附著於第一掌骨基部，Bennett骨折發生時，此肌腱將較大的骨折片（近端掌骨）向近端及橈側牽拉，造成特徵性的骨折移位與關節脫臼",
@@ -1013,10 +1013,10 @@
     "id": 1102560,
     "question": "60. 新生兒先天性脛骨假關節(congenital pseudarthrosis of the tibia),最可能發生下列那一種方向的先天性小腿 彎曲變形(bowing deformity),且容易骨折?",
     "options": {
-      "A": "前內側",
-      "B": "前外側",
-      "C": "後內側",
-      "D": "後外側"
+      "A": "前內側 (anteromedial)",
+      "B": "前外側 (anterolateral)",
+      "C": "後內側 (posteromedial)",
+      "D": "後外側 (posterolateral)"
     },
     "answer": "B",
     "explanation": "先天性脛骨假關節（congenital pseudarthrosis of the tibia, CPT）與第一型神經纖維瘤病（NF-1）高度相關，其彎曲方向是診斷與預後的重要特徵。<br>(A) 錯誤，前內側彎曲（anteromedial bowing）通常為良性，與腓骨發育不全（fibular hemimelia）相關，不易骨折，多數可自然改善<br>(B) 正確，前外側彎曲（anterolateral bowing）是先天性脛骨假關節最典型的彎曲方向，與NF-1高度相關，骨質異常脆弱，容易在輕微外力下發生骨折並導致假關節（骨折不癒合），是治療最困難的先天性骨骼疾病之一<br>(C) 錯誤，後內側彎曲（posteromedial bowing）通常與鈣缺失性骨骼發育不良（calcaneovalgus deformity）相關，預後良好，大多可自然矯正，不易造成假關節<br>(D) 錯誤，後外側彎曲（posterolateral bowing）不是先天性脛骨假關節的典型方向，臨床上較少見",
@@ -1047,10 +1047,10 @@
     "id": 1102562,
     "question": "62. 有關腰椎神經根(lumbar spinal root)所支配的肌肉及動作,下列敘述何者最不適當?",
     "options": {
-      "A": "股四頭肌",
-      "B": "脛骨前肌",
-      "C": "腓骨長/短肌",
-      "D": "伸拇趾長肌"
+      "A": "股四頭肌(quadriceps)主要是由第三及第四腰椎神經根支配,其主要的動作是膝關節伸展(knee extension)",
+      "B": "脛骨前肌(tibialis anterior)主要是由第四及第五腰椎神經根支配,其主要的動作是踝關節背屈(ankle dorsiflexion)",
+      "C": "腓骨長/短肌(peroneus longus/brevis)主要是由第五腰椎及第一薦椎神經根支配,其主要的動作是踝關節外翻(ankle eversion)",
+      "D": "伸拇趾長肌(extensor hallucis longus)主要是由第一薦椎神經根支配,其主要的動作是大拇趾伸展(great toe extension)"
     },
     "answer": "D",
     "explanation": "腰椎各節神經根對應的肌肉與動作是神經學檢查的基礎，各節神經根的支配範圍需正確記憶，不可混淆L5與S1的支配差異。<br>(A) 正確，股四頭肌（quadriceps）主要由L3、L4神經根支配，負責膝關節伸展（knee extension），深腱反射（膝反射）也反映L4功能<br>(B) 正確，脛骨前肌（tibialis anterior）由L4、L5神經根支配，負責踝關節背屈（ankle dorsiflexion）<br>(C) 正確，腓骨長/短肌（peroneus longus/brevis）由L5、S1神經根支配，負責踝關節外翻（ankle eversion）<br>(D) 錯誤，伸拇趾長肌（extensor hallucis longus, EHL）主要由L5神經根支配，而非S1；大拇趾伸展（great toe extension）的動作正確，但支配神經根敘述有誤。S1神經根主要反映在腓腸肌（gastrocnemius）及比目魚肌（soleus）的踝關節蹠屈（plantar flexion）以及跟腱反射（ankle reflex）",
@@ -1081,10 +1081,10 @@
     "id": 1102564,
     "question": "64. 當患者有1.5公分合併症狀之腎臟結石,且一年前有放置冠狀動脈塗藥支架病史,現仍持續服用抗凝血藥時, 其最適當的治療選擇為何?",
     "options": {
-      "A": "體外震波碎石術",
-      "B": "軟式輸尿管鏡碎石術",
-      "C": "經皮腎造機截石術",
-      "D": "腎盂截石術"
+      "A": "體外震波碎石術(extracorporeal shock wave lithotripsy)",
+      "B": "軟式輸尿管鏡碎石術(flexible ureteroscopic lithotripsy)",
+      "C": "經皮腎造機截石術(percutaneous nephrolithotripsy)",
+      "D": "腎盂截石術(pyelolithotomy)"
     },
     "answer": "B",
     "explanation": "腎臟結石的治療選擇需同時考量結石大小、位置及患者的全身狀況，尤其是正在服用抗血小板藥物（antiplatelet therapy）的患者，各治療方式的出血風險不同。<br>(A) 錯誤，體外震波碎石術（extracorporeal shock wave lithotripsy, ESWL）的適應症通常為結石小於1公分，1.5公分的結石效果較差，且震波可能誘發出血風險；服用抗凝血藥為相對禁忌症<br>(B) 正確，軟式輸尿管鏡碎石術（flexible ureteroscopic lithotripsy, f-URS）為內視鏡手術，出血風險最低，對於正在服用雙重抗血小板藥物（不宜停藥）的冠狀動脈支架患者是最安全的選擇；1.5公分結石以此方式處理效果良好<br>(C) 錯誤，經皮腎造廔截石術（percutaneous nephrolithotripsy, PCNL）適用於較大（>2公分）或複雜腎臟結石，需要腎臟穿刺，出血風險最高，對於無法停用抗凝血藥的患者風險過大<br>(D) 錯誤，腎盂截石術（pyelolithotomy）為開放性或腹腔鏡手術，在微創技術發達的現今已甚少使用，且手術出血風險高，對此患者更不適合",
@@ -1098,8 +1098,8 @@
     "id": 1102565,
     "question": "65. 下列有關膀胱癌的敘述,何者最適當?",
     "options": {
-      "A": "腺癌",
-      "B": "鱗狀上皮細胞癌",
+      "A": "腺癌(adenocarcinoma)是最常見的膀胱腫瘤",
+      "B": "鱗狀上皮細胞癌(squamous cell carcinoma)與慢性發炎無關",
       "C": "膀胱癌是泌尿上皮最少發生腫瘤的部位",
       "D": "一部分的膀胱癌會呈現膀胱刺激症狀"
     },
@@ -1132,7 +1132,7 @@
     "id": 1102567,
     "question": "67. 下列有關良性前列腺增生(benign prostatic hyperplasia)的藥物治療,何者最不恰當?",
     "options": {
-      "A": "國際前列腺症狀評分",
+      "A": "國際前列腺症狀評分(International prostate symptom score)輕微(評分為0~7)者,通常建議注意觀察即可,不須給藥",
       "B": "α1-腎上腺素受體阻斷劑可以有效改善良性前列腺增生病人主觀和客觀的下泌尿道症狀",
       "C": "選擇性α1-腎上腺素受體阻斷劑主要是作用在α<sub>1d</sub>-腎上腺素受體",
       "D": "α1-肾上腺素受體阻斷劑可能的副作用包括姿態性低血壓、頭暈、疲倦、逆行性射精、鼻炎和頭痛"
@@ -1168,8 +1168,8 @@
     "options": {
       "A": "細菌對治療之抗生素有抗藥性",
       "B": "兩種不同致病菌同時存在,且抗生素感受性不同",
-      "C": "氮血症",
-      "D": "因濫用止痛藥引起的腎臟乳突壞死"
+      "C": "氮血症(azotemia)",
+      "D": "因濫用止痛藥引起的腎臟乳突壞死(papillary necrosis)"
     },
     "answer": "A",
     "explanation": "持續性菌尿症（unresolved bacteriuria）是指抗生素療程結束後菌尿症未消除，需與治療後復發（relapse）及再感染（reinfection）區別；其最常見的原因是藥物選擇不當或細菌本身具有抗藥性。<br>(A) 正確，細菌對所用抗生素具有抗藥性（resistance）是Unresolved bacteriuria最常見的原因，細菌未被有效殺滅，尿液培養持續陽性；這強調了治療前進行尿液培養及藥物敏感性試驗（culture and sensitivity）的重要性<br>(B) 錯誤，兩種致病菌同時感染且抗生素感受性不同確實可能造成unresolved bacteriuria，但此情況相對少見，並非最常見原因<br>(C) 錯誤，氮血症（azotemia）本身是腎功能不全的表現，可能影響抗生素的藥物動力學，但並非unresolved bacteriuria的最常見直接原因<br>(D) 錯誤，止痛藥引起的腎乳突壞死（papillary necrosis）可造成壞死組織中細菌持續存在，是unresolved bacteriuria的少見原因之一，並非最常見",
@@ -1200,10 +1200,10 @@
     "id": 1102571,
     "question": "71. Sildenafil是治療勃起功能障礙的藥物,下列敘述何者正確?",
     "options": {
-      "A": "可增加大腦的促進勃起訊息",
-      "B": "作用機轉是促進cyclic guanosine monophosphate",
-      "C": "病人有服用硝酸鹽",
-      "D": "主要作用是抑制phosphodiesterase-6"
+      "A": "可增加大腦的促進勃起訊息(proerectile signaling)",
+      "B": "作用機轉是促進cyclic guanosine monophosphate(cGMP)之分解",
+      "C": "病人有服用硝酸鹽(nitrate)時不可合併使用",
+      "D": "主要作用是抑制phosphodiesterase-6(PDE6)"
     },
     "answer": "C",
     "explanation": "Sildenafil的藥理機轉及重要藥物交互作用是臨床用藥安全的核心知識，與硝酸鹽的禁忌組合是最重要的臨床警示。<br>(A) 錯誤，Sildenafil的作用部位在周邊（陰莖海綿體平滑肌），並非直接增加大腦的促進勃起訊息（proerectile signaling）；勃起需要性刺激觸發神經訊號，Sildenafil只是增強周邊的血管反應<br>(B) 錯誤，Sildenafil的作用機轉是抑制第五型磷酸二酯酶（phosphodiesterase type 5, PDE5），使環狀鳥嘌呤單磷酸（cyclic guanosine monophosphate, cGMP）不被分解而累積，進而維持海綿體平滑肌舒張及血流增加；並非「促進cGMP分解」，敘述與事實相反<br>(C) 正確，Sildenafil（PDE5抑制劑）合併硝酸鹽（如硝化甘油, nitroglycerin）使用會造成嚴重的加乘性血壓下降（synergistic hypotension），可能危及生命，是絕對禁忌症（absolute contraindication）<br>(D) 錯誤，Sildenafil主要抑制PDE5（分布於肺臟及陰莖海綿體血管平滑肌）；PDE6分布於視網膜視錐細胞，Sildenafil對PDE6有輕微交叉抑制作用，這是其引起短暫視覺色調異常副作用的原因，但PDE6並非其主要作用標靶",
