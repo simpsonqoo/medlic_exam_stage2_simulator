@@ -584,7 +584,7 @@
       "A": "KOH鏡檢（KOH examination）",
       "B": "貼膚試驗（patch test）",
       "C": "針刺試驗（prick test）",
-      "D": "Tzanck抹片檢查（Tzanck test"
+      "D": "Tzanck抹片檢查（Tzanck test）"
     },
     "answer": "B",
     "explanation": "接觸藥布後出現皮膚病變，懷疑接觸性皮膚炎，貼膚試驗可確診過敏原。<br>(A) 錯誤，KOH鏡檢主要用於診斷黴菌感染<br>(B) 正確，貼膚試驗可診斷接觸性過敏<br>(C) 錯誤，針刺試驗用於診斷即發型過敏<br>(D) 錯誤，Tzanck抹片檢查用於病毒感染診斷",

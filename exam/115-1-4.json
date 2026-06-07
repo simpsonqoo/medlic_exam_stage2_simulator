@@ -146,10 +146,9 @@
       "A": "CDla：positive",
       "B": "Birbeck granule：positive",
       "C": "hemophagocytic histiocyte：positive",
-      "D": "eosinophilic granuloma",
-      "E": "一律給分"
+      "D": "eosinophilic granuloma"
     },
-    "answer": "E",
+    "answer": "C",
     "explanation": "朗格漢斯細胞組織細胞增生症（Langerhans cell histiocytosis，LCH）的特色來自朗格漢斯細胞（Langerhans cell）本身的標記，嗜血性組織細胞（hemophagocytic histiocyte）是嗜血性淋巴組織細胞增生症（hemophagocytic lymphohistiocytosis，HLH）的特徵，不屬於LCH。<br>(A) 錯誤（確實是LCH特色），CD1a陽性是朗格漢斯細胞的特徵性表面標記<br>(B) 錯誤（確實是LCH特色），Birbeck顆粒（Birbeck granule）是電子顯微鏡下朗格漢斯細胞的特徵性構造<br>(C) 正確，嗜血性組織細胞（hemophagocytic histiocyte）是HLH的特徵，不是LCH的特色<br>(D) 錯誤（確實是LCH特色），嗜酸性肉芽腫（eosinophilic granuloma）是LCH骨骼病變的一種表現型",
     "tags": [
       "115-1-4",
@@ -487,9 +486,10 @@
       "A": "自閉症的語言表達能力通常不會受到影響",
       "B": "自閉症目前已經有抽血的生物標記（biomarker）可以用來診斷",
       "C": "目前對於自閉症的核心症狀已有很有效的藥物治療",
-      "D": "自閉症約有 50%病患有智能不足的問題"
+      "D": "自閉症約有 50%病患有智能不足的問題",
+      "E": "一律給分"
     },
-    "answer": "D",
+    "answer": "E",
     "explanation": "自閉症類群障礙症（autism spectrum disorder，ASD）的臨床表現多元，其中智能不足（intellectual disability）的共病率約50%，是重要的臨床事實。<br>(A) 錯誤，ASD患者的語言表達能力（verbal communication）常受到不同程度的影響，包括語言發展遲緩或語用（pragmatic）障礙<br>(B) 錯誤，目前尚無經過驗證的抽血生物標記（biomarker）可用於診斷ASD，診斷仍依賴臨床行為評估<br>(C) 錯誤，目前尚無針對ASD核心症狀（社交溝通障礙及侷限重複行為）有效的藥物治療，藥物僅用於處理共病症狀如過動、焦慮等<br>(D) 正確，ASD患者中約有50%合併有智能不足（intellectual disability，IQ < 70）的問題",
     "tags": [
       "115-1-4",

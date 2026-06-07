@@ -205,9 +205,8 @@
   },
   {
     "id": 1142413,
-    "question": "13. 8個月大男嬰因發燒住院，實驗室檢查結果如下：WBC 18600/μL，Seg 89%，Lym 10%，Mono 1%，反應性蛋白（CRP）8.6 mg/dL，urine routine WBC＞100/HPF，尿液培養長出",
+    "question": "13. 8個月大男嬰因發燒住院，實驗室檢查結果如下：WBC 18600/μL，Seg 89%，Lym 10%，Mono 1%，反應性蛋白（CRP）8.6 mg/dL，urine routine WBC＞100/HPF，尿液培養長出E. coli，colony count＞105/mL，下列處置何者最不適當？",
     "options": {
-      "E": "coli，colony count＞105/mL，下列處置何者最不適當？",
       "A": "抗生素治療要7～14天",
       "B": "應安排腎臟超音波檢查",
       "C": "立即腎臟皮質攝影（Tc-99m-DMSA renal cortical scan）是必要的檢查",
@@ -441,7 +440,7 @@
       "小兒科"
     ],
     "images": [
-          "./exam/image/114-2-4-26.jpg"
+      "./exam/image/114-2-4-26.jpg"
     ],
     "group_id": "group_7025"
   },
@@ -665,7 +664,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/114-2-4-39.jpg"
+      "./exam/image/114-2-4-39.jpg"
     ],
     "group_id": "group_7038"
   },
@@ -685,7 +684,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/114-2-4-40.jpg"
+      "./exam/image/114-2-4-40.jpg"
     ],
     "group_id": "group_7039"
   },
@@ -705,7 +704,7 @@
       "皮膚科"
     ],
     "images": [
-          "./exam/image/114-2-4-41.jpg"
+      "./exam/image/114-2-4-41.jpg"
     ],
     "group_id": "group_7040"
   },
@@ -745,7 +744,7 @@
   },
   {
     "id": 1142444,
-    "question": "44. 前脈絡叢動脈（anterior choroidal artery）阻塞造成的缺血性腦中風，下列何者是最不常見的",
+    "question": "44. 前脈絡叢動脈（anterior choroidal artery）阻塞造成的缺血性腦中風，下列何者是最不常見的臨床症狀？",
     "options": {
       "A": "半邊視野缺損（hemianopia）",
       "B": "半邊肢體無力（hemiplegia）",
@@ -793,7 +792,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/114-2-4-46.jpg"
+      "./exam/image/114-2-4-46.jpg"
     ],
     "group_id": "group_7045"
   },
@@ -1289,7 +1288,7 @@
       "神經內科"
     ],
     "images": [
-          "./exam/image/114-2-4-75.jpg"
+      "./exam/image/114-2-4-75.jpg"
     ],
     "group_id": "group_7074"
   },

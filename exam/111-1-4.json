@@ -993,10 +993,10 @@
     "id": 1111458,
     "question": "58. 下列何者與視神經脊髓炎（neuromyelitis optica spectrum disorder, NMOSD）的相關性最為密切？",
     "options": {
-      "A": "anti-aquaporin",
+      "A": "anti-aquaporin (AQP4) antibody",
       "B": "anti-ganglioside GQ1b antibody",
-      "C": "anti- muscle specific kinase",
-      "D": "anti-glutamic acid decarboxylase"
+      "C": "anti- muscle specific kinase (MuSK) antibody",
+      "D": "anti-glutamic acid decarboxylase (GAD) antibody"
     },
     "answer": "A",
     "explanation": "(A) 正確，AQP4抗體是診斷依據<br>(B) 錯誤，GQ1b與Miller-Fisher症候群相關<br>(C) 錯誤，MuSK與重症肌無力相關<br>(D) 錯誤，GAD與僵人症候群相關",

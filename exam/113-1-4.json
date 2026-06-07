@@ -799,7 +799,7 @@
       "C": "phenytoin",
       "D": "carbamazepine"
     },
-    "answer": "A",
+    "answer": "A,B",
     "explanation": "青少年肌陣攣癲癇（JME）首選valproate，也可選levetiracetam。phenytoin與carbamazepine會加重。<br>(A) 正確<br>(B) 正確<br>(C) 錯誤，會惡化myoclonus<br>(D) 錯誤，亦會惡化",
     "tags": [
       "113-1(四)",
