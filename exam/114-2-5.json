@@ -707,10 +707,11 @@
       "A": "乳突狀瘤（papilloma）",
       "B": "硬化腺症（sclerosing adenosis）",
       "C": "放射狀疤痕（radial scar）",
-      "D": "纖維腺瘤（fibroadenoma）"
+      "D": "纖維腺瘤（fibroadenoma）",
+      "E": "送分"
     },
     "answer": "E",
-    "explanation": "根據題目標示答案為(E)送分，表示此題可能有爭議或答案不明確。<br>乳房病理切片中的高危險病灶（high-risk lesions）包括：",
+    "explanation": "根據題目標示答案為(E)送分，表示此題因答案有爭議而刪除。<br>乳房病理切片中的高危險病灶（high-risk lesions）包括：乳突狀瘤（papilloma）及放射狀疤痕（radial scar）均有一定的惡性風險，而硬化腺症（sclerosing adenosis）及纖維腺瘤（fibroadenoma）通常屬低風險病灶。由於各選項均有其支持理由，故本題列為送分題。",
     "tags": [
       "114-2-5",
       "乳房外科"

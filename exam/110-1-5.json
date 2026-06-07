@@ -6,7 +6,7 @@
       "A": "外傷病患出現的lethal triad包括 hypotension, hypothermia, metabolic acidosis",
       "B": "手術策略為積極復甦處置（aggressive resuscitation），快速止血處理（quickly managing bleeding），腸道破 裂快速縫合或局部切掉但不接回，及胸腹部開刀傷口暫時性關閉（temporary closure）",
       "C": "軍方於戰場處理的經驗，建議resuscitation時，Packed RBC, FFP及platelet應使用1：1：1的比例",
-      "D": "最近的文獻，亦有Tranexamic acid"
+      "D": "最近的文獻，亦有Tranexamic acid(TXA)應用在Damage Control Principles中"
     },
     "answer": "A",
     "explanation": "損傷控制外科（Damage Control Surgery）的核心概念是先處理立即危及生命的問題，而非追求完整的解剖修復，其中最關鍵的是認識致死三聯症（lethal triad）的正確組成。<br>(A) 錯誤，致死三聯症（lethal triad）的正確內容為低體溫（hypothermia）、代謝性酸中毒（metabolic acidosis）和凝血功能障礙（coagulopathy），而非低血壓（hypotension）。低血壓是外傷的症狀表現，而非三聯症的一員<br>(B) 正確，損傷控制手術的策略確實包含這些步驟：積極復甦、快速止血、暫不重建腸道連續性，以及暫時性關閉傷口，待穩定後再行確定性手術<br>(C) 正確，依據戰場創傷輸血經驗（massive transfusion protocol），建議以1:1:1的比例輸注濃縮紅血球、新鮮冷凍血漿及血小板，以模擬全血成分<br>(D) 正確，氨甲環酸（Tranexamic acid, TXA）作為抗纖維蛋白溶解劑，已被文獻支持應用於損傷控制原則中，可降低出血相關死亡率",

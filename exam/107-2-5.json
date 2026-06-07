@@ -110,7 +110,7 @@
       "C": "太晚減壓，死亡率可能高達七成",
       "D": "腹腔壓力的表現可由下腔靜脈壓力來表示最為準確"
     },
-    "answer": "A",
+    "answer": "A,D",
     "explanation": "腹部腔室症候群（abdominal compartment syndrome, ACS）是腹腔內壓力（intra-abdominal pressure, IAP）持續升高導致多器官功能障礙的臨床急症，診斷與處置標準需精確掌握。<br>(A) 錯誤，腹部腔室症候群的定義是腹腔內壓力超過20 mmHg並合併新發生的器官功能障礙，一般腹腔手術打開腹腔（laparotomy）是減壓的方式之一，但並非「一般腹腔手術打開時能緩解」此說法，應為「減壓性開腹手術（decompressive laparotomy）」，並非所有腹部手術都能緩解，且緩解的前提是針對性減壓處置。<br>(B) 正確，膀胱內壓（intravesical pressure）超過35 mmHg代表嚴重腹腔高壓，需積極進行減壓處置以防止不可逆的器官損傷。<br>(C) 正確，腹部腔室症候群若未及時減壓，死亡率可高達七成，是外科急症的重要概念。<br>(D) 錯誤，腹腔內壓力的最準確測量方式是以膀胱內壓（intravesical pressure/bladder pressure）作為替代指標，而非下腔靜脈（inferior vena cava）壓力；下腔靜脈壓力受多重因素影響，準確性較差。",
     "tags": [
       "107-2-5",
@@ -573,7 +573,7 @@
       "C": "迴腸（ileum）",
       "D": "結腸（colon）"
     },
-    "answer": "A",
+    "answer": "A,B,C,D",
     "explanation": "此題考膽鹽（bile salts）再吸收部位，標準答案為迴腸（ileum），尤其末端迴腸（terminal ileum）為主動再吸收的主要部位，但此題答案為一律給分，顯示出題有爭議。<br>(A) 此選項十二指腸（duodenum）為膽鹽分泌至腸道的起始處，主動再吸收不在此發生，屬於爭議選項<br>(B) 此選項空腸（jejunum）可進行少量被動吸收，非主要部位<br>(C) 此選項迴腸（ileum）為正確答案，末端迴腸（terminal ileum）具有特定的主動運輸系統（apical sodium-dependent bile acid transporter），是膽鹽再吸收進入腸肝循環的主要部位<br>(D) 此選項結腸（colon）中細菌可將初級膽鹽轉化為次級膽鹽，少量可被被動吸收，非主要再吸收部位",
     "tags": [
       "107-2-5",
@@ -737,6 +737,9 @@
   {
     "id": 1072544,
     "question": "44. 下圖為一個足月的新生女嬰，檢查發現其薦尾椎有一個巨大的腫瘤，下列敘述何者錯誤？",
+    "images": [
+      "./exam/image/107-2-5-44.jpg"
+    ],
     "options": {
       "A": "最可能的診斷為薦尾椎畸胎瘤（sacrococcygeal teratoma）",
       "B": "不論在懷孕過程或是嬰兒出生之後，都要嚴密觀察嬰兒有無因為此巨大腫瘤產生的盜血現象（tumor- induced vascular steal syndrome）",
@@ -1123,7 +1126,7 @@
       "C": "不需要接受任何膀胱內化學藥物或 BCG 灌注輔助治療",
       "D": "需要接受放射輔助治療"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "表淺性膀胱癌（superficial bladder cancer）的術後輔助治療選擇取決於腫瘤分期、分級及復發風險，低風險腫瘤與高風險腫瘤處置不同。<br>(A) 錯誤，膀胱內卡介苗（intravesical BCG）灌注適用於高風險表淺性膀胱癌（如高分級、T1期、原位癌），本案為低風險的Ta grade I單一腫瘤，不需使用BCG<br>(B) 正確，對於低風險表淺性膀胱癌，可考慮術後單次膀胱內化學藥物（如絲裂黴素C，Mitomycin C）即刻灌注，以減少復發率，此為可接受的處置<br>(C) 正確，若評估為極低風險的單一小腫瘤，亦可選擇不進行任何膀胱內灌注輔助治療，密切追蹤即可，故本選項亦為可接受的答案<br>(D) 錯誤，放射輔助治療（radiotherapy）不是表淺性膀胱癌的標準輔助治療，不適用於此低期別低分級病患",
     "tags": [
       "107-2-5",

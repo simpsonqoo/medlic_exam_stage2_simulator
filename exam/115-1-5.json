@@ -820,8 +820,8 @@
     "question": "49. 2 歲男童因反覆無痛性大量暗紅色便（melena）至急診就醫。理學檢查穩定，腹部軟，無壓痛。實驗室顯示 輕度貧血。懷疑 Meckel diverticulum。下列那一項初步處置或診斷方式最適當？",
     "options": {
       "A": "腹部 X 光可確定是否為 Meckel diverticulum 出血",
-      "B": "立即行小腸攝影檢查確認病灶位置 99m",
-      "C": "Tc-pertechnetate 掃描檢查異位胃黏膜",
+      "B": "立即行小腸攝影檢查確認病灶位置",
+      "C": "99mTc-pertechnetate 掃描檢查異位胃黏膜",
       "D": "安排腹腔鏡立即切除並送病理以確認診斷"
     },
     "answer": "C",
@@ -1103,7 +1103,7 @@
       "C": "type IIF 腎臟囊泡有 18%以上惡性腫瘤機率",
       "D": "type IV 腎臟囊泡有 90%以上惡性腫瘤機率"
     },
-    "answer": "B,C",
+    "answer": "B",
     "explanation": "Bosniak 分類系統（Bosniak classification）依據腎臟囊泡（renal cyst）的影像特徵評估惡性風險，各型別的惡性腫瘤機率需正確記憶。<br>(A) 正確，Bosniak Type I 為單純囊泡（simple cyst），具平滑內壁、含清澈液體，無分隔或鈣化，惡性機率幾乎為零<br>(B) 錯誤，Bosniak Type II 為輕微複雜囊泡，有少量細分隔或細小鈣化，惡性機率極低，約小於 5% 而非 33%；惡性機率約 33% 的是 Bosniak Type IIF 至 Type III 之間的病灶<br>(C) 正確，Bosniak Type IIF 需追蹤觀察，惡性腫瘤機率約 18 至 25%<br>(D) 正確，Bosniak Type IV 有強化的實質成分（enhancing solid component），惡性機率超過 90%，建議手術切除",
     "tags": [
       "115-1-5",

@@ -212,7 +212,7 @@
       "C": "氫氟酸（hydrofluoric acid）灼傷應立即以2.5%葡萄糖酸鈣凝膠（calcium gluconate gel）局部患處治療",
       "D": "水泥灼傷是酸性化學灼傷"
     },
-    "answer": "A",
+    "answer": "A,C,D",
     "explanation": "化學性灼傷的處置需根據致傷物的化學性質（酸、鹼或特殊物質）分別評估，不同化學物質有不同的急救原則。<br>(A) 錯誤，並非所有化學性灼傷都應立即大量沖水；例如生石灰（quicklime, CaO）遇水會產生放熱反應，應先以乾布拍除殘餘粉末後再沖水，以免加重熱傷害；因此「所有」化學性灼傷一律大量沖水的說法不正確<br>(B) 正確（非本題答案），嚴重酸性化學灼傷若造成系統性酸中毒及呼吸困難，確實可能需要氣管內插管（endotracheal intubation）並使用呼吸器（ventilator）輔助呼吸<br>(C) 錯誤，氫氟酸（hydrofluoric acid, HF）灼傷時，應使用2.5%葡萄糖酸鈣凝膠（calcium gluconate gel）局部塗抹以中和氟離子，但濃度應為2.5%，同時若灼傷面積大或出現系統性低鈣血症，需考慮靜脈注射葡萄糖酸鈣；此選項描述的濃度雖正確，但處置仍需配合全身評估，不能單純只做局部處置<br>(D) 錯誤，水泥（cement）灼傷屬於鹼性化學灼傷（alkaline burn），因水泥含有氫氧化鈣（calcium hydroxide），pH值極高，並非酸性灼傷；鹼性灼傷會造成液化性壞死（liquefactive necrosis），往往比酸性灼傷更深且更難控制",
     "tags": [
       "109-1-5",

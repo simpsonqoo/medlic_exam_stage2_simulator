@@ -649,7 +649,7 @@
       "C": "低血糖症狀、血糖低於50 mg/dL及靜脈注射葡萄糖後可改善症狀",
       "D": "低血糖症狀、血糖低於50 mg/dL及有使用胰島素注射史"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "惠普爾三聯症（Whipple's triad）的三個要素是：低血糖症狀、發作時血糖低、補充葡萄糖後症狀緩解；關鍵在於葡萄糖補充方式（口服或靜脈注射均可）均符合定義。<br>(A) 錯誤，有服用糖尿病藥物史並非Whipple triad的組成要素，藥物性低血糖屬排除診斷的考量<br>(B) 正確，低血糖症狀＋血糖低於50 mg/dL＋口服葡萄糖後症狀緩解，完整符合Whipple triad<br>(C) 正確，靜脈注射葡萄糖後症狀緩解同樣符合Whipple triad的第三項要素，故B、C均為正確答案<br>(D) 錯誤，有使用胰島素注射史屬外源性胰島素造成的低血糖，並非胰島素瘤（內源性高胰島素血症）的診斷標準",
     "tags": [
       "107-1-5",
@@ -1083,7 +1083,7 @@
       "C": "負荷重量的長骨之X光片影像中，皆可常見Looser氏轉型區（Looser's transformation zone）的變化",
       "D": "確切的診斷依據皆是骨活體組織切片"
     },
-    "answer": "A",
+    "answer": "A,B",
     "explanation": "佝僂病（rickets）發生於生長中兒童，骨軟化病（osteomalacia）發生於成人，兩者皆因骨礦化（bone mineralization）不足所致，需清楚其病理機轉。<br>兩者皆與維生素D（vitamin D）缺乏密切相關<br>須區分生長板（growth plate）各區域的功能<br>(A) 錯誤，佝僂病與骨軟化病是生長板中鈣化區（calcification zone/hypertrophic zone）骨礦化失敗所導致，而非增生區（proliferative zone）；增生區負責軟骨細胞增殖，鈣化區才是礦化發生的部位<br>(B) 錯誤，副甲狀腺素（parathyroid hormone, PTH）確實會升高（因低血鈣刺激），鹼性磷酸酶（alkaline phosphatase, ALP）也會升高（因成骨細胞活性增加）；但血清鈣（serum calcium）通常是降低的，而非兩項皆升高那樣單純，此選項的問題在於未提及血鈣下降這一重要變化，且PTH升高是繼發性（secondary）反應<br>(C) 正確，Looser氏轉型區（Looser's transformation zone），又稱假性骨折（pseudofracture），在負重長骨X光上可見，是骨軟化病的特徵性影像<br>(D) 正確，確切診斷佝僂病與骨軟化病的黃金標準（gold standard）確實是骨活體組織切片（bone biopsy），可見未礦化類骨質（osteoid）增加",
     "tags": [
       "107-1-5",
@@ -1117,7 +1117,7 @@
       "C": "格里森分數（Gleason score）高於7分者較易發生癌症進展",
       "D": "腫瘤侵犯至貯精囊時屬T3a期"
     },
-    "answer": "B",
+    "answer": "B,D",
     "explanation": "前列腺癌（prostate cancer）的診斷與分期需熟悉PSA動力學、影像工具的限制及TNM分期系統。<br>PSA速率（PSA velocity）與前列腺特異抗原密度（PSA density）是重要輔助指標<br>分期須清楚T3a與T3b的差異<br>(A) 正確，每年PSA上升超過0.75 ng/mL（PSA velocity > 0.75 ng/mL/year）確實與潛伏性前列腺癌風險增加相關<br>(B) 錯誤，經直腸超音波（transrectal ultrasound, TRUS）在判斷局部腫瘤分期上並不優於數位直腸指診（digital rectal examination, DRE）；目前局部分期最準確的影像工具是多參數磁振造影（multiparametric MRI, mpMRI）<br>(C) 正確，葛里森分數（Gleason score）高於7分（即8~10分）屬高惡性度，較易發生生化復發（biochemical recurrence）及癌症進展（disease progression）<br>(D) 錯誤，腫瘤侵犯貯精囊（seminal vesicle invasion）屬於T3b期，而非T3a期；T3a期是指腫瘤突破前列腺包膜（extracapsular extension）但尚未侵犯貯精囊",
     "tags": [
       "107-1-5",
