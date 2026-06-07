@@ -728,7 +728,7 @@
       "D": "聽覺"
     },
     "answer": "D",
-    "explanation": "MRKH症候群是Müllerian管發育異常導致的先天性疾病，特徵是陰道和子宮缺如或發育不全，但卵巢功能正常。<br>(A) 錯誤，MRKH症候群不會伴隨視覺系統異常<br>(B) 錯誤，MRKH症候群不會伴隨味覺異常<br>(C) 錯誤，嗅覺異常見於Kallmann症候群（伴隨性腺功能低下），但MRKH患者卵巢功能正常，不會有嗅覺異常<br>(D) 正確，MRKH症候群可分為兩型：<br>· Type I（isolated）：僅有陰道子宮發育不全<br>· Type II（MURCS association）：除了生殖道異常，還可能合併其他器官系統異常，包括：",
+    "explanation": "MRKH症候群是Müllerian管發育異常導致的先天性疾病，特徵是陰道和子宮缺如或發育不全，但卵巢功能正常。<br>(A) 錯誤，MRKH症候群不會伴隨視覺系統異常<br>(B) 錯誤，MRKH症候群不會伴隨味覺異常<br>(C) 錯誤，嗅覺異常見於Kallmann症候群（伴隨性腺功能低下），但MRKH患者卵巢功能正常，不會有嗅覺異常<br>(D) 正確，MRKH症候群可分為兩型：<br>· Type I（isolated）：僅有陰道子宮發育不全<br>· Type II（MURCS association）：除了生殖道異常，還可能合併其他器官系統異常，包括：腎臟及泌尿道異常（renal anomalies，如單側腎缺如、馬蹄腎）、骨骼異常（skeletal anomalies，如頸椎融合）、心臟異常（cardiac defects）以及「聽力異常（auditory anomalies，感音神經性聽力損失）」，其中聽力異常是最常與MRKH共同出現的非生殖器官系統異常，因此答案選聽覺（D）",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -750,7 +750,7 @@
       "112-2-6",
       "婦產科"
     ],
-    "explanation_images": ["112-2-6-44e.jpg"],
+    "explanation_images": ["./exam/image/112-2-6-44e.jpg"],
     "group_id": "group_11363"
   },
   {

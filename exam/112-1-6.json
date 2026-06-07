@@ -655,9 +655,9 @@
     "id": 1121639,
     "question": "39. 妊娠期合併全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）導致新生兒狼瘡（neonatal lupus syndrome）的最主要相關性自體免疫抗體為：",
     "options": {
-      "A": "抗Ro抗體（Anti-Ro",
+      "A": "抗Ro抗體（Anti-Ro (SS-A)）",
       "B": "抗血小板抗體（Antiplatelet）",
-      "C": "抗Sm抗體（Anti-Sm",
+      "C": "抗Sm抗體（Anti-Sm (Smith)）",
       "D": "抗磷脂抗體（Antiphospholipid）"
     },
     "answer": "A",
@@ -1242,7 +1242,7 @@
     "explanation": "單側耳鳴（unilateral tinnitus）合併MRI影像異常的鑑別診斷，需整合臨床症狀與影像特徵，鼻咽癌（NPC）透過阻塞耳咽管造成中耳積液及乳突炎是本題核心。<br>鼻咽癌常以單側耳鳴、耳悶及聽力下降為初期症狀，因腫瘤阻塞耳咽管（Eustachian tube）造成中耳積液及急性乳突炎（acute mastoiditis）<br>(A) 錯誤，聽神經瘤（acoustic neuroma，vestibular schwannoma）通常表現為單側感音性聽力損失（sensorineural hearing loss）及耳鳴，MRI典型表現為內聽道（internal auditory canal）或橋小腦角（cerebellopontine angle）的腫瘤，與本題影像描述不符<br>(B) 錯誤，單純咽喉細菌感染引發急性乳突炎通常發生於兒童，且需先有中耳炎病史，48歲成人單側耳鳴合併乳突炎更應高度懷疑有原發病因如鼻咽癌<br>(C) 正確，鼻咽癌（nasopharyngeal carcinoma，NPC）合併急性乳突炎（acute mastoiditis）是48歲成年男性單側耳鳴的重要診斷。NPC好發於中年華人男性，腫瘤位於鼻咽部，常阻塞同側耳咽管，導致中耳積液並繼發乳突炎，MRI可同時顯示鼻咽部腫瘤及乳突積液信號<br>(D) 錯誤，慢性中耳炎（chronic otitis media，COM）通常有長期耳流膿及聽力下降病史，MRI表現與急性乳突炎不同，且不能解釋鼻咽部的病灶",
     "tags": [
       "112-1-6(六)",
-      "眼科"
+      "耳鼻喉科"
     ],
     "images": [
       "./exam/image/112-1-6-73.jpg"
@@ -1262,7 +1262,7 @@
     "explanation": "腮腺（parotid gland）腫塊的鑑別診斷需整合臨床特徵（無痛、緩慢生長）與超音波影像特徵，多形性腺瘤（pleomorphic adenoma）是腮腺最常見的良性腫瘤。<br>多形性腺瘤特徵：無痛性、緩慢生長、質地硬、超音波顯示邊界清楚的低回音腫塊，是腮腺最常見的良性腫瘤（約75%的腮腺良性腫瘤）<br>(A) 錯誤，耳下腺膿瘍（parotid abscess）通常表現為急性發炎症狀，包括紅、腫、熱、痛及發燒，而非無痛性緩慢生長2年的硬塊，與此病人的臨床表現不符<br>(B) 正確，多形性腺瘤（pleomorphic adenoma）是腮腺最常見的良性腫瘤，典型表現為無痛、緩慢生長的硬塊，好發於中老年人，超音波顯示邊界清楚、低回音的腫塊，與此病人無痛硬塊持續2年的病史高度吻合<br>(C) 錯誤，耳下腺血管瘤（parotid hemangioma）多見於嬰幼兒，65歲成年男性發生率低，超音波通常顯示高血流信號的特殊影像，與本題描述不符<br>(D) 錯誤，耳下腺腺癌（parotid adenocarcinoma）屬於惡性腫瘤，通常生長較快、質地硬且固定，可能合併疼痛或面神經麻痺等惡性特徵，無痛且緩慢生長2年的病史較偏向良性診斷",
     "tags": [
       "112-1-6(六)",
-      "復健科"
+      "耳鼻喉科"
     ],
     "group_id": "group_11213"
   },
@@ -1279,7 +1279,7 @@
     "explanation": "此病人有子宮外孕（ectopic pregnancy）破裂合併腹腔內出血（hemoperitoneum）及出血性休克（hemorrhagic shock）的典型表現，處置原則以迅速手術止血為優先。<br>子宮外孕破裂造成血流動力學不穩定（hemodynamic instability）時，需緊急剖腹手術，不宜使用藥物治療或腹腔鏡等耗時較長的方式<br>(A) 錯誤，病人已出現出血性休克（低血壓、心搏過速、頭暈冒冷汗），屬緊急情況，絕對不可出院追蹤，此選項完全不適當<br>(B) 錯誤，methotrexate（葉酸拮抗劑）是用於血流動力學穩定的早期未破裂子宮外孕的藥物保守治療，此病人已有休克徵象及腹腔積血，是methotrexate的禁忌症<br>(C) 錯誤，腹腔鏡輸卵管造口術（laparoscopic salpingostomy）適用於血流動力學穩定的子宮外孕，此病人已有休克且腹腔大量積血，腹腔鏡建立氣腹及手術時間較長，不適用於緊急止血<br>(D) 正確，病人已出現出血性休克，應立即輸血（blood transfusion）穩定生命徵象，同時安排緊急剖腹手術（emergency laparotomy）進行輸卵管切除術（salpingectomy），是此情境下最迅速有效的止血及治療方式",
     "tags": [
       "112-1-6(六)",
-      "麻醉科"
+      "婦產科"
     ],
     "group_id": "group_11214"
   },
@@ -1296,7 +1296,7 @@
     "explanation": "快速序列插管（rapid-sequence intubation，RSI）時的藥物選擇需考量病人的血流動力學狀態，propofol對血壓的抑制效應在低血容性休克病人中可能造成嚴重後果，是本題核心。<br>(A) 正確，ketamine具有支氣管擴張（bronchodilation）及交感神經興奮（sympathomimetic）作用，可降低支氣管痙攣並維持血壓，適用於重積性氣喘（refractory status asthmaticus）病人的RSI<br>(B) 正確，rocuronium是非去極化型肌肉鬆弛劑（non-depolarizing neuromuscular blocking agent），重症肌無力（myasthenia gravis）病人對非去極化型藥物異常敏感，使用rocuronium時需大幅減少劑量，雖需謹慎但可在必要時使用，此敘述描述適當使用<br>(C) 正確，succinylcholine是去極化型肌肉鬆弛劑（depolarizing neuromuscular blocking agent），會短暫升高血清鉀離子（hyperkalemia），蜘蛛膜下腔出血（subarachnoid hemorrhage，SAH）早期患者尚無去神經化（denervation），通常可使用succinylcholine，不是使用禁忌<br>(D) 錯誤，propofol具有強烈的血管擴張（vasodilation）及心肌抑制效應，可顯著降低血壓，對已處於低血容性休克（hypovolemic shock）的病人使用propofol誘導，可能造成血壓急劇下降甚至心跳停止，是非常不適當的選擇。此類病人應改用對血壓影響較小的藥物，如ketamine或低劑量etomidate",
     "tags": [
       "112-1-6(六)",
-      "眼科"
+      "麻醉科"
     ],
     "group_id": "group_11215"
   },
@@ -1313,7 +1313,7 @@
     "explanation": "鼻出血（epistaxis）依出血位置分為前鼻出血（anterior epistaxis）及後鼻出血（posterior epistaxis），兩者的出血來源血管不同，是本題核心考點。<br>前鼻出血來自Little's area（Kiesselbach's plexus），由多條動脈匯集而成，蝶顎動脈（sphenopalatine artery）是後鼻出血的主要來源<br>(A) 正確，乾燥的季節（如秋冬）因空氣濕度低，鼻黏膜容易乾燥龜裂，較常發生鼻出血，是正確的敘述<br>(B) 正確，前鼻腔出血（anterior epistaxis）確實較後鼻腔出血（posterior epistaxis）更為常見，約90%的鼻出血屬於前鼻出血<br>(C) 錯誤，前鼻腔出血最常來自利特氏區（Little's area，即Kiesselbach's plexus），此區位於鼻中隔前下方，由篩前動脈（anterior ethmoidal artery）、蝶顎動脈（sphenopalatine artery）、上唇動脈（superior labial artery）及齶大動脈（greater palatine artery）的分支匯集而成。蝶顎動脈（sphenopalatine artery）是後鼻腔出血（posterior epistaxis）的主要來源，並非前鼻腔出血的主要血管<br>(D) 正確，鼻出血好發於小於10歲的兒童（鼻黏膜薄且易受刺激）及大於70歲的老年人（血管彈性下降、服用抗凝血藥物等），呈現雙峰（bimodal）分布",
     "tags": [
       "112-1-6(六)",
-      "復健科"
+      "耳鼻喉科"
     ],
     "group_id": "group_11216"
   },
@@ -1330,7 +1330,7 @@
     "explanation": "黏膜下肌瘤（submucosal myoma）的分類及最適當的手術入路是本題核心，type 1黏膜下肌瘤的治療方式需依肌瘤位置選擇。<br>FIGO（International Federation of Gynecology and Obstetrics）分類中，submucosal myoma type 0為完全突入子宮腔，type 1為突入子宮腔超過50%，type 2為突入不足50%。Type 0及type 1均適合子宮腔鏡切除<br>(A) 錯誤，此病人已因經血過多多次需急診輸血，屬於嚴重且反覆的失血，不應以「接近更年期」為由繼續保守觀察，應積極手術介入改善症狀<br>(B) 錯誤，病人僅46歲、育有兩子，雖然全子宮切除（hysterectomy）可根治問題，但在有保守手術選項可有效解決問題的情況下，直接建議全子宮切除過於積極，不符合最小侵入性原則<br>(C) 正確，type 1黏膜下肌瘤（突入子宮腔超過50%）適合以子宮腔鏡肌瘤切除術（hysteroscopic myomectomy）處理，可直接切除造成月經過多的肌瘤，有效改善貧血問題，且保留子宮，是最適合此病人的手術方式<br>(D) 錯誤，腹腔鏡式子宮肌瘤切除術（laparoscopic myomectomy）適用於漿膜下（subserosal）或肌肉層內（intramural）肌瘤，黏膜下肌瘤尤其是type 1應優先以子宮腔鏡處理，從子宮腔內切除效率更高且侵入性更小",
     "tags": [
       "112-1-6(六)",
-      "醫學倫理(六)"
+      "婦產科"
     ],
     "group_id": "group_11217"
   },

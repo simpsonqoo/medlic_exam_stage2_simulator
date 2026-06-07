@@ -837,10 +837,10 @@
     "id": 1131649,
     "question": "49. 有關卵巢生殖細胞腫瘤及其分泌的標記物質，下列何者錯誤？",
     "options": {
-      "A": "dysgerminoma：AFP",
-      "B": "immature teratoma：AFP",
-      "C": "choriocarcinoma：AFP",
-      "D": "endodermal sinus tumor：AFP"
+      "A": "dysgerminoma：AFP (-), hCG (-)",
+      "B": "immature teratoma：AFP (+), hCG (+)",
+      "C": "choriocarcinoma：AFP (-), hCG (+)",
+      "D": "endodermal sinus tumor：AFP (+), hCG (-)"
     },
     "answer": "B",
     "explanation": "卵巢生殖細胞腫瘤的腫瘤標記對診斷和追蹤很重要。關鍵在於記憶各種腫瘤的特定標記模式。<br>(A) 正確，dysgerminoma（無性細胞瘤）通常AFP陰性、hCG陰性。少數病例可能有輕微hCG升高（若含有合體滋養層巨細胞）<br>(B) 錯誤，immature teratoma（未成熟畸胎瘤）通常AFP陽性，但hCG陰性。AFP升高是因為腫瘤含有卵黃囊成分或未分化的內胚層組織<br>(C) 正確，choriocarcinoma（絨毛膜癌）AFP陰性、hCG陽性。hCG由滋養層細胞分泌，通常非常高<br>(D) 正確，endodermal sinus tumor（卵黃囊瘤，yolk sac tumor）AFP陽性、hCG陰性。AFP是卵黃囊瘤的特異性標記，幾乎所有病例都會升高",

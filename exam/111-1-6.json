@@ -839,7 +839,7 @@
       "D": "stage IIIB"
     },
     "answer": "A",
-    "explanation": "FIGO 2018子宮頸癌分期系統整合了影像學和病理學資訊，並細分IB期。<br>分期要點：<br>· Stage IA：顯微鏡下侵襲癌",
+    "explanation": "FIGO 2018子宮頸癌分期系統整合了影像學和病理學資訊，並細分IB期。<br>分期要點：<br>· Stage IA：顯微鏡下侵襲癌，侵犯深度≤5mm（僅限顯微鏡可見，不含臨床可見病灶）<br>&emsp;- Stage IA1：侵犯深度≤3mm<br>&emsp;- Stage IA2：侵犯深度>3mm但≤5mm<br>· Stage IB：臨床可見病灶（或顯微鏡下病灶大於IA2）<br>&emsp;- Stage IB1：腫瘤最大直徑≤2cm（FIGO 2018新修訂）<br>&emsp;- Stage IB2：腫瘤最大直徑>2cm但≤4cm<br>&emsp;- Stage IB3：腫瘤最大直徑>4cm<br>· Stage II：侵犯超過子宮，但未達骨盆壁或陰道下三分之一<br>本案例分析：<br>· 子宮頸腫瘤1cm，內診臨床可見→屬於臨床可見病灶，進入Stage IB分類<br>· 侵犯深度5mm（雖接近IA邊界，但腫瘤已臨床可見，故應分入IB）<br>· 腫瘤最大直徑1cm≤2cm→Stage IB1<br>· 骨盆腔電腦斷層正常、膀胱鏡正常→無子宮旁組織侵犯，無遠處轉移<br>(A) 正確，Stage IB1：臨床可見病灶，腫瘤最大直徑≤2cm，符合本案例<br>(B) 錯誤，Stage IIA是侵犯陰道上三分之二但未達子宮旁組織，本案例無此侵犯<br>(C) 錯誤，Stage IIB是有明確子宮旁組織侵犯，本案例CT正常，不符<br>(D) 錯誤，Stage IIIB是侵犯至骨盆壁或造成水腎/無功能腎，本案例完全不符",
     "tags": [
       "111-1-6(六)",
       "婦產科"

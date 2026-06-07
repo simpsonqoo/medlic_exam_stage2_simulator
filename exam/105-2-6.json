@@ -42,7 +42,7 @@
       "C": "electromyography",
       "D": "wake-up test"
     },
-    "answer": "A",
+    "answer": "A,B,C,D",
     "explanation": "脊椎矯正手術中，神經功能監測的目的是及早發現脊髓損傷，各監測方式各有其適用範圍，多模式合併使用才能最全面地保護神經功能。<br>(A) 正確，運動誘發電位（motor evoked potentials, MEP）監測皮質脊髓束（corticospinal tract）的運動功能，能即時反映前側脊髓的完整性<br>(B) 正確，體感誘發電位（somatosensory evoked potentials, SSEP）監測後側脊髓的感覺傳導路徑，是脊椎手術中最傳統常用的神經監測方式<br>(C) 正確，肌電圖（electromyography, EMG）可監測特定神經根的功能，在手術操作過程中能即時偵測到神經根受到刺激或損傷<br>(D) 正確，喚醒測試（wake-up test）是在術中將病患麻醉深度降低使其短暫清醒，直接評估運動功能，雖較不便利，但仍是可靠的神經功能評估方式",
     "tags": [
       "105-2-6",
@@ -144,7 +144,7 @@
       "C": "中央視網膜動脈阻塞（central retinal artery occlusion）",
       "D": "老年性黃斑病變（age-related macular degeneration）"
     },
-    "answer": "A",
+    "answer": "A,D",
     "explanation": "牛眼狀黃斑病變（bull's eye maculopathy）是指黃斑部出現同心圓狀色素異常，中央保留、周圍環狀萎縮的特徵性眼底表現，需了解其常見病因。<br>(A) 正確，氯奎寧視網膜病變（chloroquine retinopathy）是牛眼狀黃斑病變最經典的原因，長期使用氯奎寧（chloroquine）或羥氯奎寧（hydroxychloroquine）可造成此特徵性病變<br>(B) 錯誤，囊狀黃斑部水腫（cystoid macular edema）的眼底表現為蜂巢狀囊腔，螢光攝影呈花瓣狀滲漏，與牛眼狀病變不同<br>(C) 錯誤，中央視網膜動脈阻塞（central retinal artery occlusion）的眼底表現為急性視網膜水腫、視網膜蒼白及黃斑部的「櫻桃紅點（cherry red spot）」，並非牛眼狀病變<br>(D) 正確，老年性黃斑病變（age-related macular degeneration）在某些特定型態下可呈現類似牛眼狀的黃斑部色素上皮萎縮，亦與此病變相關",
     "tags": [
       "105-2-6",
@@ -1303,7 +1303,7 @@
       "C": "Etomidate可使用於輕度技術鎮靜和止痛",
       "D": "Propofol可使用於中度技術鎮靜和止痛"
     },
-    "answer": "A",
+    "answer": "A,C,D",
     "explanation": "程序性鎮靜止痛依深度分為輕度、中度、深度鎮靜，各藥物有其適用的鎮靜深度。<br>(A) 錯誤，Midazolam屬於苯二氮平類（benzodiazepine），適用於中度鎮靜（conscious sedation）而非輕度鎮靜，用於輕度技術鎮靜的描述不適當。<br>(B) 正確，Ketamine為解離性麻醉劑（dissociative anesthetic），可提供良好的鎮痛、鎮靜及遺忘效果，適用於中度程序性鎮靜止痛，是此分類中的適當敘述。<br>(C) 錯誤，Etomidate具有快速起效與短效特性，適用於深度鎮靜（deep sedation）或全身麻醉誘導，並非輕度鎮靜的適當用藥。<br>(D) 錯誤，Propofol可用於深度鎮靜，而非中度鎮靜；其治療窗（therapeutic window）窄，容易從中度鎮靜滑入深度鎮靜甚至全身麻醉，用於中度技術鎮靜的描述不精確且不適當。",
     "tags": [
       "105-2-6",

@@ -59,7 +59,7 @@
       "C": "propofol",
       "D": "midazolam"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "支氣管擴張效果的麻醉藥物選擇，在氣喘或慢性阻塞性肺病（COPD）患者中尤為重要，需熟悉各類靜脈麻醉藥物對呼吸道的影響。<br>(A) 錯誤，硫噴妥鈉（thiopental）屬巴比妥類藥物，可能誘發支氣管痙攣（bronchospasm），對氣喘患者需謹慎使用<br>(B) 正確，氯胺酮（ketamine）具有交感神經興奮及直接支氣管擴張作用，是氣喘急性發作患者誘導麻醉的優選藥物<br>(C) 正確，丙泊酚（propofol）具有支氣管擴張效果，可抑制氣道高反應性，對氣喘患者相對安全<br>(D) 錯誤，咪達唑侖（midazolam）屬苯二氮平類（benzodiazepine）藥物，對支氣管平滑肌無明顯擴張作用",
     "tags": [
       "108-2-6",
