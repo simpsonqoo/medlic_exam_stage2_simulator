@@ -1226,7 +1226,7 @@
       "D": "脊髓的主要血液供應來自一條anterior spinal artery和一對posterior spinal arteries"
     },
     "answer": "C",
-    "explanation": "雖然沒有提供圖片，但根據臨床表現（跌倒後急性四肢無力和大小便失禁）可以推論是脊髓梗塞。<br>(A) 正確，跌倒後數小時出現四肢無力和大小便失禁，加上磁振造影顯示脊髓異常，符合脊髓梗塞（spinal cord infarction）的臨床和影像表現<br>(B) 正確，脊髓梗塞在T2加權磁振造影可能見到owl's eye sign（貓頭鷹眼徵象），這是脊髓前角（anterior horn）雙側對稱性梗塞的特徵性表現，看起來像貓頭鷹的兩隻眼睛<br>(C) 錯誤，脊髓梗塞最常受影響的血管是anterior spinal artery（前脊髓動脈）而非posterior spinal artery（後脊髓動脈）。前脊髓動脈供應脊髓前2/3，包括前角（運動神經元）、側角（自主神經）和前側脊髓丘腦束（痛溫覺），梗塞會導致運動癱瘓、痛溫覺喪失和自主神經功能障礙（如大小便失禁），但保留後柱功能（本體感覺和振動覺）。後脊髓動脈梗塞較罕見<br>(D) 正確，脊髓的主要血液供應來自一條anterior spinal artery（由兩條椎動脈分支合成）和一對posterior spinal arteries。Anterior spinal artery供應前2/3脊髓，posterior spinal arteries供應後1/3脊髓（後柱）",
+    "explanation": "本題的解題關鍵在於辨識胸椎軸位磁振造影（axial MRI）中脊髓前角對稱的高訊號，此為經典的「貓頭鷹眼徵象」（owl's eye sign），並結合急性神經學症狀來診斷脊髓梗塞（spinal cord infarction）。<br> (A) 正確，病人的急性四肢無力與大小便失禁表現，搭配影像上脊髓前角的雙側病變，非常符合脊髓梗塞（spinal cord infarction）的特徵。<br> (B) 正確，脊髓梗塞（spinal cord infarction）在磁振造影（magnetic resonance imaging）的軸位 T2 加權影像（T2-weighted imaging）中，因雙側前角細胞缺血水腫，確實可能見到貓頭鷹眼表現（owl's eye sign）。<br> (C) 錯誤，脊髓梗塞（spinal cord infarction）最常受影響的血管是脊髓前動脈（anterior spinal artery），其負責供應脊髓前方三分之二的血液；而脊髓後動脈（posterior spinal artery）主要供應後方三分之一的區域且臨床上較少受影響。<br> (D) 正確，脊髓（spinal cord）的血管解剖構造中，主要血液供應確實是由一條位於前中線的脊髓前動脈（anterior spinal artery）與一對位於後外側的脊髓後動脈（posterior spinal arteries）所組成。",
     "tags": [
       "114-1-6",
       "復健科"
