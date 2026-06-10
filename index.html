@@ -3478,18 +3478,17 @@
             <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
           </div>
           
-          <div class="record-section">
-            <h3>📊 視覺化分析</h3>
-            <div class="download-buttons">
+          <div class="record-section" style="display:flex; flex-direction:column; padding:0; overflow:hidden;">
+            <div style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; padding:10px 12px; text-align:center;">
+              <h3 style="margin:0 0 8px 0; color:#495057; font-size:14px;">📊 視覺化分析</h3>
               <button id="visualizationBtn" class="visualization-btn" onclick="openVisualization()" disabled>答題狀況視覺化</button>
+              <div style="font-size:11px; color:#999; margin-top:4px;">瀏覽模式不會記錄答題結果</div>
             </div>
-            <div style="font-size: 12px; color: #666; margin-top: 5px;">
-              瀏覽模式不會記錄答題結果
+            <div style="flex:1; display:flex; justify-content:center; align-items:center; border-top:1px solid #dee2e6; padding:8px 12px;">
+              <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
+                📈 歷年作答與及格分析<br>by 昶聿學長
+              </a>
             </div>
-            <hr style="margin: 12px 0; border: none; border-top: 1px solid #dee2e6;">
-            <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
-              📈 歷年作答與及格分析<br>by 昶聿學長
-            </a>
           </div>
         </div>
       `;
@@ -3607,15 +3606,16 @@
         </div>
       </div>
       
-      <div class="record-section">
-        <h3>📊 視覺化分析</h3>
-        <div class="download-buttons">
+      <div class="record-section" style="display:flex; flex-direction:column; padding:0; overflow:hidden;">
+        <div style="flex:1; display:flex; flex-direction:column; justify-content:center; align-items:center; padding:10px 12px; text-align:center;">
+          <h3 style="margin:0 0 8px 0; color:#495057; font-size:14px;">📊 視覺化分析</h3>
           <button id="visualizationBtn" class="visualization-btn" onclick="openVisualization()" disabled>答題狀況視覺化</button>
         </div>
-        <hr style="margin: 12px 0; border: none; border-top: 1px solid #dee2e6;">
-        <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
-          📈 歷年作答與及格分析<br>by 昶聿學長
-        </a>
+        <div style="flex:1; display:flex; justify-content:center; align-items:center; border-top:1px solid #dee2e6; padding:8px 12px;">
+          <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
+            📈 歷年作答與及格分析<br>by 昶聿學長
+          </a>
+        </div>
       </div>
     </div>
   `;
