@@ -893,6 +893,26 @@
       }
     }
   
+    /* 結果頁視覺化區塊外部連結 */
+    .result-external-link {
+      display: block;
+      text-align: center;
+      text-decoration: none;
+      color: #17a2b8;
+      font-size: 13px;
+      font-weight: 600;
+      line-height: 1.5;
+      padding: 8px;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+    }
+
+    .result-external-link:hover {
+      background-color: #e8f7fa;
+      color: #0c5460;
+      text-decoration: none;
+    }
+
     /* 視覺化功能樣式 */
     .visualization-btn {
       padding: 8px 16px;
@@ -1249,16 +1269,72 @@
       border-radius: 8px;
       padding: 20px;
       margin: 20px 0;
-      text-align: center;
+      display: flex;
+      gap: 20px;
+      align-items: stretch;
     }
-    
+
+    .homepage-record-left {
+      flex: 1;
+      text-align: center;
+      min-width: 0;
+    }
+
+    .homepage-record-right {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-left: 2px solid #dee2e6;
+      padding-left: 20px;
+      min-width: 0;
+    }
+
+    .external-link-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: #495057;
+      background: white;
+      border: 2px solid #17a2b8;
+      border-radius: 10px;
+      padding: 20px 30px;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 6px rgba(23,162,184,0.1);
+      text-align: center;
+      width: 100%;
+      max-width: 320px;
+      box-sizing: border-box;
+    }
+
+    .external-link-card:hover {
+      background: #e8f7fa;
+      border-color: #138496;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(23,162,184,0.25);
+      color: #0c5460;
+      text-decoration: none;
+    }
+
+    .external-link-card .link-icon {
+      font-size: 36px;
+    }
+
+    .external-link-card .link-title {
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.5;
+    }
+
     .homepage-record-section h3 {
       margin: 0 0 15px 0;
       color: #495057;
       font-size: 18px;
       font-weight: 600;
     }
-    
+
     .homepage-record-buttons {
       display: flex;
       gap: 20px;
@@ -1371,11 +1447,22 @@
     
     /* 手機版優化 */
     @media (max-width: 600px) {
+      .homepage-record-section {
+        flex-direction: column;
+      }
+
+      .homepage-record-right {
+        border-left: none;
+        border-top: 2px solid #dee2e6;
+        padding-left: 0;
+        padding-top: 20px;
+      }
+
       .homepage-record-buttons {
         flex-direction: column;
         gap: 12px;
       }
-      
+
       .homepage-file-btn,
       .homepage-visualization-btn {
         width: 100%;
@@ -1414,19 +1501,27 @@
 
   <!-- 首頁記錄檔管理區域 -->
   <div class="homepage-record-section" id="homepageRecordSection">
-    <h3>📊 答題記錄管理</h3>
-    <div class="homepage-record-buttons">
-      <div class="homepage-file-input-wrapper">
-        <input type="file" accept=".json" class="homepage-file-input" onchange="loadHomepageRecord(this.files[0])">
-        <button class="homepage-file-btn">
-          📂 載入記錄檔
+    <div class="homepage-record-left">
+      <h3>📊 答題記錄管理</h3>
+      <div class="homepage-record-buttons">
+        <div class="homepage-file-input-wrapper">
+          <input type="file" accept=".json" class="homepage-file-input" onchange="loadHomepageRecord(this.files[0])">
+          <button class="homepage-file-btn">
+            📂 載入記錄檔
+          </button>
+        </div>
+        <button id="homepageVisualizationBtn" class="homepage-visualization-btn" onclick="openHomepageVisualization()" disabled>
+          📊 視覺化分析
         </button>
       </div>
-      <button id="homepageVisualizationBtn" class="homepage-visualization-btn" onclick="openHomepageVisualization()" disabled>
-        📊 視覺化分析
-      </button>
+      <div class="homepage-record-status info" id="homepageRecordStatus">尚未載入記錄檔案</div>
     </div>
-    <div class="homepage-record-status info" id="homepageRecordStatus">尚未載入記錄檔案</div>
+    <div class="homepage-record-right">
+      <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="external-link-card">
+        <span class="link-icon">📈</span>
+        <span class="link-title">歷年作答與及格分析<br>by 昶聿學長</span>
+      </a>
+    </div>
   </div>
   <div class="feedback-link">
     💬 <a href="https://forms.gle/XdYNQoRgq9PBRm658" target="_blank">系統回饋與建議</a>
@@ -3391,6 +3486,10 @@
             <div style="font-size: 12px; color: #666; margin-top: 5px;">
               瀏覽模式不會記錄答題結果
             </div>
+            <hr style="margin: 12px 0; border: none; border-top: 1px solid #dee2e6;">
+            <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
+              📈 歷年作答與及格分析<br>by 昶聿學長
+            </a>
           </div>
         </div>
       `;
@@ -3513,10 +3612,14 @@
         <div class="download-buttons">
           <button id="visualizationBtn" class="visualization-btn" onclick="openVisualization()" disabled>答題狀況視覺化</button>
         </div>
+        <hr style="margin: 12px 0; border: none; border-top: 1px solid #dee2e6;">
+        <a href="https://alohabearbear-sudo.github.io/med-exam-dashboard/" target="_blank" class="result-external-link">
+          📈 歷年作答與及格分析<br>by 昶聿學長
+        </a>
       </div>
     </div>
   `;
-  
+
   htmlSummary = recordManagementHTML + htmlSummary;
       
       // 測驗完成後初始化歷史記錄下載按鈕狀態
