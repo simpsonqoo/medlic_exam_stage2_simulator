@@ -661,7 +661,7 @@
       "D": "無法切除的轉移進展性insulinoma，可考慮everolimus治療"
     },
     "answer": "A",
-    "explanation": "年輕女性乳房腫塊的檢查策略需考慮年齡和乳房密度。<br>(A) 正確，25歲年輕女性的初步檢查應選擇乳房超音波，原因包括：<br>· 年輕女性乳房組織緻密，乳房攝影靈敏度低<br>· 超音波可清楚區分囊腫和實質腫塊<br>· 無輻射暴露<br>· 可移動的硬塊在年輕女性最常見的是纖維腺瘤（fibroadenoma），超音波即可診斷<br>· 超音波可引導必要時的切片<br>(B) 錯誤，乳房攝影（mammography）在年輕女性的效果不佳，因為緻密的乳腺組織會遮蔽病灶。通常建議40歲以上或高風險族群才使用乳房攝影作為篩檢工具<br>(C) 錯誤，核磁共振（MRI）敏感度高但特異性低，價格昂貴，並非初步檢查的首選。主要用於高風險族群篩檢、評估乳癌範圍或追蹤<br>(D) 錯誤，細針抽吸細胞學檢查（fine needle aspiration）可用於診斷，但在進行侵入性檢查前應先做影像學檢查（超音波）評估腫塊性質",
+    "explanation": "此題考核 insulinoma 的診斷特徵，解題關鍵在於區分內源性高胰島素血症（insulinoma）與外源性胰島素注射（factitious hypoglycemia）的實驗室差異。<br>(A) 錯誤（最不適當），insulinoma 由胰島 β 細胞自主分泌過多胰島素，胰島素與 C-peptide 均由同一胰島素前驅物（proinsulin）裂解而來，兩者必定同時升高。若出現「insulin 升高但 C-peptide 極低」，反而代表病人自行注射外源性胰島素（exogenous insulin），因為外源性胰島素不含 C-peptide，會抑制內源性胰島素分泌而使 C-peptide 降低。因此此選項的描述不符合 insulinoma 的特徵，是錯誤敘述。<br>(B) 正確，insulinoma 雖然造成明顯的低血糖症狀，但腫瘤平均大小通常小於 2 公分（約 1–2 cm），因為即使是小腫瘤也能分泌足量胰島素引發症狀。這也是為何術前定位（如腹部超音波、CT、EUS）有時困難。<br>(C) 正確，與 multiple endocrine neoplasia type 1（MEN I）相關的 insulinoma 惡性機率較散發性（sporadic）insulinoma 高，且常為多發性病灶，處理上更為複雜。散發性 insulinoma 約 90% 為良性，而 MEN I 相關者惡性比例更高。<br>(D) 正確，對於無法手術切除的轉移性或進展性 insulinoma，everolimus（mTOR 抑制劑）是經 FDA 核准的治療選項，可用於控制腫瘤生長並減少胰島素過度分泌所造成的低血糖症狀。",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -678,7 +678,7 @@
       "D": "stage IV"
     },
     "answer": "B",
-    "explanation": "前哨淋巴結切片的適應症需根據腫瘤特性和手術方式決定。<br>(A) 正確，炎性乳癌（inflammatory breast cancer）是局部晚期乳癌，通常已有廣泛淋巴結轉移，SLNB無法準確評估淋巴結狀態，應直接進行腋下淋巴結廓清術（ALND）<br>(B) 錯誤，術前診斷為DCIS預計全乳房切除時，仍應考慮做SLNB。原因包括：<br>· 術前切片診斷為DCIS，約10-20%術後病理發現有侵襲性癌（upstaging）<br>· 全乳房切除後無法再做SLNB（淋巴引流路徑改變）<br>· 若術後發現侵襲癌且未做SLNB，需要二次手術做ALND<br>· 因此預計全乳房切除的DCIS病人，建議同時做SLNB<br>(C) 正確，根據ACOSOG Z0011試驗結果，早期乳癌（T1-T2）預計做乳房保留手術併術後放療和化療，若有1-2顆前哨淋巴結轉移，可以不做ALND，因為整體存活率和局部復發率沒有差異<br>(D) 正確，侵襲性乳癌做全乳房切除，若發現1顆前哨淋巴結轉移，仍建議做ALND，因為沒有放療可能無法充分控制腋下淋巴結",
+    "explanation": "此題考核 AJCC TNM 第八版（2018 年起使用）對分化型甲狀腺癌（differentiated thyroid cancer，包含乳突癌）的分期原則。第八版最重要的改變是：年齡切點由 45 歲改為 55 歲，且 55 歲以下的病患不論腫瘤大小、淋巴結狀態，均最高只能分到 Stage II。<br><br>AJCC 第八版分化型甲狀腺癌分期（年齡 &lt; 55 歲）：<br>· Stage I：Any T, Any N, M0（無遠端轉移）<br>· Stage II：Any T, Any N, M1（有遠端轉移）<br>（55 歲以下不存在 Stage III 或 Stage IV）<br><br>(A) 錯誤，此病人有肺部轉移（M1），因此不符合 Stage I（需 M0）。<br>(B) 正確，此病人為 30 歲（&lt; 55 歲），合併肺部遠端轉移（M1），依第八版分期為 Stage II。Level IV 淋巴結轉移（N1b）在 55 歲以下不影響分期，仍維持 Stage II。<br>(C) 錯誤，Stage III 在第八版中僅適用於 55 歲以上患者，55 歲以下不存在 Stage III。<br>(D) 錯誤，Stage IV 同樣僅適用於 55 歲以上患者，且需符合特定的 T 或 M 標準；55 歲以下患者即使有遠端轉移也只到 Stage II，不會到 Stage IV。",
     "tags": [
       "112-1-5",
       "內分泌外科"
