@@ -819,7 +819,7 @@
     "options": {
       "A": "卵巢的濾泡期（follicular phase）相當於子宮內膜的增生期（proliferative phase）",
       "B": "卵巢的黃體期（luteal phase）相當於子宮內膜的增生期（proliferative phase）",
-      "C": "卵巢的黃體期（luteal phase）相當於子宮內膜的分泌期（secretary phase）",
+      "C": "卵巢的黃體期（luteal phase）相當於子宮內膜的分泌期（secretory phase）",
       "D": "排卵後之黃體化顆粒細胞會製造及分泌黃體素"
     },
     "answer": "B",
@@ -984,7 +984,7 @@
       "109-1-6",
       "婦產科"
     ],
-    "group_id": "group_1091657"
+    "group_id": "group_1091656"
   },
   {
     "id": 1091658,

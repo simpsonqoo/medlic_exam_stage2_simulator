@@ -383,7 +383,7 @@
   },
   {
     "id": 1092323,
-    "question": "23. 關於可遺傳性胃腸道息肉增生症候群（hereditable gastrointestinal polyposis syndromes），下列敘述何者正確？",
+    "question": "23. 關於可遺傳性胃腸道息肉增生症候群（hereditary gastrointestinal polyposis syndromes），下列敘述何者正確？",
     "options": {
       "A": "familial adenomatous polyposis其大腸息肉組織型態為腺瘤（adenoma），腺瘤常具有癌化可能，此症候也常 伴隨各種先天性異常（congenital abnormalities）",
       "B": "Peutz-Jeghers syndrome其息肉組織型態為腺瘤（adenoma），腺瘤常具有癌化可能，此病症息肉可能發生在 大小腸及胃部",
@@ -1079,7 +1079,7 @@
       "109-2-3",
       "胸腔內科"
     ],
-    "group_id": "group_1092363"
+    "group_id": "group_1092362"
   },
   {
     "id": 1092364,
@@ -1088,7 +1088,7 @@
       "A": "進行針扎來源者及被針扎者的anti-HIV抗體檢驗",
       "B": "進行HCV、HBV、梅毒（syphilis）血清檢查",
       "C": "告知空窗期及後續抽血時間",
-      "D": "安排年初四至感染科等指定門診追踨及後續處置"
+      "D": "安排年初四至感染科等指定門診追蹤及後續處置"
     },
     "answer": "D",
     "explanation": "此題考查針扎事件的緊急處置。針扎事件發生後應立即處理，不能延遲至數天後才追蹤，尤其是HIV暴露後預防性投藥需在72小時內(最好24小時內)開始。<br>(A) 正確，應進行針扎來源者和被針扎者的anti-HIV抗體檢驗以評估風險<br>(B) 正確，應進行C型肝炎病毒(HCV)、B型肝炎病毒(HBV)和梅毒血清檢查<br>(C) 正確，應告知空窗期的概念和後續追蹤抽血的時間點<br>(D) 錯誤，針扎事件屬於緊急狀況，應立即評估是否需要暴露後預防性投藥，不能等到年初四才處理",
@@ -1113,7 +1113,7 @@
       "109-2-3",
       "感染科"
     ],
-    "group_id": "group_1092365"
+    "group_id": "group_1092364"
   },
   {
     "id": 1092366,
@@ -1185,7 +1185,7 @@
   },
   {
     "id": 1092370,
-    "question": "70. 下列有關篩檢工具的特性，那些對臨床醫師及病人最有意義？",
+    "question": "70. 下列有關篩檢工具的特性，哪些對臨床醫師及病人最有意義？",
     "options": {
       "A": "敏感度（sensitivity）及特異度（specificity）",
       "B": "敏感度（sensitivity）及陽性預測值（positive predictive value）",

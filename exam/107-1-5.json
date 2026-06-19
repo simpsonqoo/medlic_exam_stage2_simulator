@@ -105,7 +105,7 @@
     "id": 1071507,
     "question": "7. 下列有關微量元素（trace element） 的敘述何者錯誤？",
     "options": {
-      "A": "beriberi disease是因為缺乏硒（selemuim）",
+      "A": "beriberi disease是因為缺乏硒（selenium）",
       "B": "缺乏鋅（zinc）會造成禿頭（alopecia）",
       "C": "接受過胃切除的病患容易缺乏鐵（iron）",
       "D": "缺乏vitamin D會造成骨質疏鬆（osteoporosis）"
@@ -879,7 +879,7 @@
       "107-1-5",
       "消化外科"
     ],
-    "group_id": "group_1071551"
+    "group_id": "group_1071550"
   },
   {
     "id": 1071552,
@@ -913,7 +913,7 @@
       "107-1-5",
       "肝膽胰外科"
     ],
-    "group_id": "group_1071553"
+    "group_id": "group_1071552"
   },
   {
     "id": 1071554,
@@ -950,7 +950,7 @@
       "107-1-5",
       "大腸直腸外科"
     ],
-    "group_id": "group_1071555"
+    "group_id": "group_1071554"
   },
   {
     "id": 1071556,

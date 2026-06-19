@@ -298,7 +298,7 @@
       "A": "胰島素抗性（insulin resistance）",
       "B": "3歲以上肥胖男童",
       "C": "B型肝炎帶原者（hepatitis B carrier）",
-      "D": "三酸苷油酯（triglyceride）過高"
+      "D": "三酸甘油酯（triglyceride）過高"
     },
     "answer": "C",
     "explanation": "B型肝炎帶原是病毒性肝炎，不是非酒精性脂肪肝的危險因子。<br>(A) 正確是危險因子，胰島素阻抗與脂肪肝相關<br>(B) 正確是危險因子，肥胖是主要危險因子<br>(C) 錯誤，B型肝炎帶原不是非酒精性脂肪肝的危險因子<br>(D) 正確是危險因子，三酸甘油酯過高與脂肪肝相關",
@@ -857,8 +857,8 @@
     "question": "50. 下列何者不屬於頭顱內會引發痛覺的結構？",
     "options": {
       "A": "顱內的大血管（large intracranial vessels）",
-      "B": "軟腦膜（pia matter）",
-      "C": "硬腦膜（dura matter）",
+      "B": "軟腦膜（pia mater）",
+      "C": "硬腦膜（dura mater）",
       "D": "三叉神經（trigeminal nerve）"
     },
     "answer": "B",
@@ -956,7 +956,7 @@
   },
   {
     "id": 1071456,
-    "question": "56. 有關腕隧道症候群（carpal tunnel syrdrome）之敘述，下列何者錯誤？",
+    "question": "56. 有關腕隧道症候群（carpal tunnel syndrome）之敘述，下列何者錯誤？",
     "options": {
       "A": "為最常見之神經壓迫症候群",
       "B": "於女性懷孕期間容易出現",
@@ -990,7 +990,7 @@
   },
   {
     "id": 1071458,
-    "question": "58. 下列何者不是食物引起的肉毒桿菌毒素中毒（food-born botulism）的症狀？",
+    "question": "58. 下列何者不是食物引起的肉毒桿菌毒素中毒（food-borne botulism）的症狀？",
     "options": {
       "A": "瞳孔放大（pupil dilatation）",
       "B": "吞嚥困難（dysphagia）",
@@ -1037,7 +1037,7 @@
       "107-1-4",
       "神經內科"
     ],
-    "group_id": "group_1071460"
+    "group_id": "group_1071459"
   },
   {
     "id": 1071461,

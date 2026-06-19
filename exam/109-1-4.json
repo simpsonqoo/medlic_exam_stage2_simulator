@@ -735,7 +735,7 @@
       "A": "此病症可能出現Koebner phenomenon",
       "B": "此病症可能造成病人社會適應困難",
       "C": "病灶內的黑色素細胞雖存在，但無法有效製造黑色素顆粒",
-      "D": "波長308 nm之準分子光治療（excimer phototherapy）有效 ."
+      "D": "波長308 nm之準分子光治療（excimer phototherapy）有效"
     },
     "answer": "C",
     "explanation": "白斑（Vitiligo）病灶內黑色素細胞消失或缺乏，而非存在但功能失常。<br>(A) 正確，Vitiligo 可有 Koebner phenomenon。<br>(B) 正確，病人常有社交困難。<br>(C) 錯誤，黑色素細胞是缺乏，而非單純無法製造。<br>(D) 正確，308nm 準分子光治療有效。",
@@ -752,7 +752,7 @@
     "id": 1091444,
     "question": "44. 下列何者非治療重症肌無力症之正確方式?",
     "options": {
-      "A": "抗膽鹼脂藥物（anticholinesterase drugs）",
+      "A": "抗膽鹼酯藥物（anticholinesterase drugs）",
       "B": "類固醇藥物（corticosteroid）",
       "C": "胸腺切除術（thymectomy）",
       "D": "病人感染時使用aminoglycoside藥物"
@@ -1001,7 +1001,7 @@
       "109-1-4",
       "神經內科"
     ],
-    "group_id": "group_1091458"
+    "group_id": "group_1091457"
   },
   {
     "id": 1091459,

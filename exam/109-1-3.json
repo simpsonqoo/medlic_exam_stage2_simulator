@@ -432,7 +432,7 @@
     "question": "26. 一位28歲女性，這兩年來有頭暈及容易疲倦的症狀，且越來越嚴重而住院治療。入院前八個月，因症狀持續 加重，於某醫學中心發現血色素9 g/dL，血球容積92.5 fL，白血球及血小板數目正常，當時肌酸酐為1.3 mg/dL。住院後血壓140/90 mmHg，脈搏76/分鐘，心臟無雜音，下肢輕微水腫，實驗室檢查發現肌酸酐增至 2.4 mg/dL，血色素8.5 g/dL，血清儲鐵蛋白（ferritin）591 ng/mL，鐵172 μg/dL，鐵結合總容量為190 μg/dL， 大便潛血反應為陰性，尿液檢查無異常，下列何者為此病人腎功能惡化最可能之病變？",
     "options": {
       "A": "rapidly progressive glomerulonephritis",
-      "B": "thrombotic microaniopathy",
+      "B": "thrombotic microangiopathy",
       "C": "chronic tubulointerstitial disorders",
       "D": "hypertensive nephrosclerosis"
     },
@@ -1080,7 +1080,7 @@
       "109-1-3",
       "心臟內科"
     ],
-    "group_id": "group_1091363"
+    "group_id": "group_1091362"
   },
   {
     "id": 1091364,
@@ -1114,7 +1114,7 @@
       "109-1-3",
       "感染科"
     ],
-    "group_id": "group_1091365"
+    "group_id": "group_1091364"
   },
   {
     "id": 1091366,

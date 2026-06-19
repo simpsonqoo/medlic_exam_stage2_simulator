@@ -208,8 +208,8 @@
     "question": "13. 眼球欲往內下（nasal lower）方向看時，須靠下列何組眼外肌共同作用？",
     "options": {
       "A": "內直肌（medial rectus muscle）和下直肌（inferior rectus muscle）",
-      "B": "內直肌（meeial rectus muscle）和下斜肌（inferior oblique muscle）",
-      "C": "內直肌（medial rectus muscle）和上斜肌（superior obique muscle）",
+      "B": "內直肌（medial rectus muscle）和下斜肌（inferior oblique muscle）",
+      "C": "內直肌（medial rectus muscle）和上斜肌（superior oblique muscle）",
       "D": "內直肌（medial rectus muscle）和上直肌（superior rectus muscle）"
     },
     "answer": "C",
@@ -378,7 +378,7 @@
   },
   {
     "id": 1081623,
-    "question": "23. 此病人之最可能診斷為何？",
+    "question": "23. 一位57歲男性病人因經常性流鼻血至急診處，無高血壓、糖尿病等病史，但有多次黑便及腸胃道出血，血液檢查血紅素偏低，其它凝血因子、血小板等均正常，耳鼻喉理學檢查發現鼻與舌部有多處似血管擴張之紅點。此病人之最可能診斷為何？",
     "options": {
       "A": "鼻過敏",
       "B": "Osler-Weber-Rendu syndrome",
@@ -408,7 +408,7 @@
       "108-1-6",
       "耳鼻喉科"
     ],
-    "group_id": "group_1081624"
+    "group_id": "group_1081623"
   },
   {
     "id": 1081625,
@@ -644,7 +644,7 @@
       "A": "頸部透明帶厚度（nuchal translucency）檢測",
       "B": "母血胎兒甲型蛋白（maternal serum AFP）",
       "C": "人類絨毛膜性腺激素（human chorionic gonadotropin）",
-      "D": "懷孕相關蛋白A（pegnancy-associated protein A）"
+      "D": "懷孕相關蛋白A（pregnancy-associated protein A）"
     },
     "answer": "B",
     "explanation": "第一孕期唐氏症篩檢組合（first trimester combined screening）的構成要素需熟悉，區分第一孕期與第二孕期各自使用的血清標記。<br>(A) 錯誤（此選項屬於第一孕期篩檢），頸部透明帶厚度（nuchal translucency，NT）是第一孕期（妊娠11至13又6/7週）超音波的重要染色體異常標記，屬於標準篩檢項目<br>(B) 正確（此選項不屬於第一孕期篩檢），母血甲型蛋白（maternal serum alpha-fetoprotein，AFP）是第二孕期四聯篩檢（quadruple screen，妊娠15至20週）的組成標記，用於篩檢開放性神經管缺損（neural tube defects）及唐氏症，不屬於第一孕期篩檢項目<br>(C) 錯誤（此選項屬於第一孕期篩檢），人類絨毛膜性腺激素（human chorionic gonadotropin，hCG）是第一孕期血清篩檢的標記之一，唐氏症患者的free β-hCG通常升高<br>(D) 錯誤（此選項屬於第一孕期篩檢），懷孕相關血漿蛋白A（pregnancy-associated plasma protein-A，PAPP-A）是第一孕期血清篩檢的另一重要標記，唐氏症患者的PAPP-A通常降低",
@@ -894,7 +894,7 @@
   },
   {
     "id": 1081653,
-    "question": "53. 關於曉晴的情況，下列何者錯誤？",
+    "question": "53. 曉晴23歲，從小體力就比較差，爬樓梯很容易喘，也比較容易生病感冒，不過不影響日常生活。1個月前自己驗出有懷孕，最近1個月，常感到頭暈、噁心、嘔吐，有時還會感到胸悶及心悸，所以至婦產科產檢。曉晴身高158公分，體重42公斤，血壓112/76 mmHg，心跳速率每分鐘92下，超音波檢查看到子宮內有一個正常胚囊，可看到一個胚胎頭臀長（CRL）為2.1公分。關於曉晴的情況，下列何者錯誤？",
     "options": {
       "A": "依據胚胎頭臀長2.1公分來判斷，曉晴目前懷孕（胚胎）週數約9週",
       "B": "一般正常懷孕時，在懷孕前8週，心血管系統就會開始產生明顯的變化，心輸出量（cardiac output）會上 升，周邊血管阻力（systemic vascular resistance）會下降，心跳（heart rate）會加快",
@@ -925,7 +925,7 @@
       "108-1-6",
       "婦產科"
     ],
-    "group_id": "group_1081654"
+    "group_id": "group_1081653"
   },
   {
     "id": 1081655,
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 1081663,
-    "question": "63. 張太太為75歲家庭主婦，最近三個月來抱怨走路走個十來分鐘兩下肢就會酸痛、麻木，但是坐一下子症狀立 即改善，ㄡ可繼續走下去。下列何種檢查對診斷最有幫助？",
+    "question": "63. 張太太為75歲家庭主婦，最近三個月來抱怨走路走個十來分鐘兩下肢就會酸痛、麻木，但是坐一下子症狀立 即改善，又可繼續走下去。下列何種檢查對診斷最有幫助？",
     "options": {
       "A": "腰椎一般X光檢查（plain x-ray）",
       "B": "肌電圖檢查（EMG）",

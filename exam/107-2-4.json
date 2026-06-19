@@ -741,7 +741,7 @@
   },
   {
     "id": 1072444,
-    "question": "44. 隨著時間緩慢變大，最有可能的診斷為何？",
+    "question": "44. 6歲男孩，在嬰兒時右側頭皮出現一肉色隆起之斑塊如圖所示，隨著時間緩慢變大，最有可能的診斷為何？",
     "options": {
       "A": "seborrheic keratosis",
       "B": "sebaceous hyperplasia",
@@ -774,7 +774,7 @@
       "107-2-4",
       "皮膚科"
     ],
-    "group_id": "group_1072445"
+    "group_id": "group_1072444"
   },
   {
     "id": 1072446,
@@ -999,7 +999,7 @@
   },
   {
     "id": 1072459,
-    "question": "59. 72歲男性，出現波動性的認知障礙及注意力不集中⋯並且有視幻覺（visual hallucination）。這半年來，除了上述病症加劇外，病人出現記憶力衰退，肢體僵硬，步態緩慢，並容易跌倒。其最可能的診斷為何？",
+    "question": "59. 72歲男性，出現波動性的認知障礙及注意力不集中（fluctuating cognitive and attention disturbances），並且有視幻覺（visual hallucination）。這半年來，除了上述病症加劇外，病人出現記憶力衰退，肢體僵硬，步態緩慢，並容易跌倒。其最可能的診斷為何？",
     "options": {
       "A": "阿茲海默症（Alzheimer disease）",
       "B": "路易氏體失智症（dementia with Lewy bodies）",
@@ -1029,7 +1029,7 @@
       "107-2-4",
       "神經內科"
     ],
-    "group_id": "group_1072460"
+    "group_id": "group_1072459"
   },
   {
     "id": 1072461,

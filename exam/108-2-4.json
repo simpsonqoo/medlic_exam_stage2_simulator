@@ -71,7 +71,7 @@
     "id": 1082405,
     "question": "5. 7天大男嬰，發現有呼吸窘迫、發紺及心雜音。呼吸次數每分鐘60次合併厲害胸凹（Subcostal retraction）現 象，肝臟下緣位於右肋骨下4公分，右手血壓為90/50 mmHg，左手及下肢血壓約為60/45 mmHg。下列敘述何者錯誤？",
     "options": {
-      "A": "需要給與前列腺素（Prostaglandin1）",
+      "A": "需要給與前列腺素（Prostaglandin E1）",
       "B": "常合併胸腺發育不良（Thymic hypoplasia）",
       "C": "常合併臉部異常及顎裂（Cleft palate）",
       "D": "常合併血中鈣離子偏高（Hypercalcemia）"
@@ -328,7 +328,7 @@
     "options": {
       "A": "Oral glucose tolerance test",
       "B": "Arginine test",
-      "C": "Clondine test",
+      "C": "Clonidine test",
       "D": "Glucagon test"
     },
     "answer": "A",
@@ -737,7 +737,7 @@
       "108-2-4",
       "皮膚科"
     ],
-    "group_id": "group_1082443"
+    "group_id": "group_1082442"
   },
   {
     "id": 1082444,

@@ -189,7 +189,7 @@
   },
   {
     "id": 1092512,
-    "question": "12. 小腦扁桃體下垂5mm至頸椎脊椎腔且合併有脊髓空洞症（syringomyelia），但沒有合併脊柱裂（spinal bifida）或水腦（hydrocephalus），應該歸屬下列何種異常？",
+    "question": "12. 小腦扁桃體下垂5mm至頸椎脊椎腔且合併有脊髓空洞症（syringomyelia），但沒有合併脊柱裂（spina bifida）或水腦（hydrocephalus），應該歸屬下列何種異常？",
     "options": {
       "A": "Chiari I malformation",
       "B": "Chiari II malformation",
@@ -744,7 +744,7 @@
       "A": "該患兒必定伴隨著食道氣管瘻管（tracheoesophageal fistula）",
       "B": "該患兒很可能身體有其他的異常，因此一定要再檢查其他器官系統有無異常",
       "C": "該患兒之疾病以Gross type C最常見",
-      "D": "若沒有其他更緊急的狀況，患兒應儘速接受手術治療 ."
+      "D": "若沒有其他更緊急的狀況，患兒應儘速接受手術治療"
     },
     "answer": "A,D",
     "explanation": "食道閉鎖（esophageal atresia, EA）的分型與處置是解題核心，需熟悉Gross分類及各型的特徵。<br>(A) 錯誤，食道閉鎖不一定伴隨食道氣管瘻管（tracheoesophageal fistula, TEF）。Gross type A為單純食道閉鎖，無瘻管，約佔8%；只有Gross type C（最常見，約85%）才有遠端食道氣管瘻管<br>(B) 正確，食道閉鎖常合併其他先天性異常，臨床上以VACTERL症候群（脊椎、肛門、心臟、食道氣管、腎臟、肢體異常）最具代表性，故必須全面評估其他器官系統<br>(C) 正確，Gross type C（近端食道閉鎖合併遠端食道氣管瘻管）是食道閉鎖中最常見的分型，約佔85%<br>(D) 錯誤，手術時機需視病人整體狀況而定，若合併嚴重先天性心臟病、嚴重肺炎或極低體重等高風險因素，可能需先穩定病情或分期手術，並非所有病人都應「儘速」接受手術",
@@ -942,7 +942,7 @@
       "109-2-5",
       "肝膽胰外科"
     ],
-    "group_id": "group_1092555"
+    "group_id": "group_1092554"
   },
   {
     "id": 1092556,
