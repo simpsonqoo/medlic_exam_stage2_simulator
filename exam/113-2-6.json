@@ -22,7 +22,7 @@
     "options": {
       "A": "BIS 100代表清醒",
       "B": "BIS 40～60 時，產生回憶（recall）的機率低，可減少術中awareness的風險",
-      "C": "腦波burst suppresion時，BIS的數值通常呈現為40",
+      "C": "腦波burst suppression時，BIS的數值通常呈現為40",
       "D": "BIS 是consciousness level的監測，不能完全代表麻醉深度"
     },
     "answer": "C",
@@ -126,7 +126,7 @@
     "question": "8. 下列有關慢性疼痛的相關名詞定義，何者錯誤？",
     "options": {
       "A": "allodynia：對非傷害性（nonnoxious）的刺激感受為疼痛",
-      "B": "hyperalgisia：對傷害性（noxious）的刺激反應加劇",
+      "B": "hyperalgesia：對傷害性（noxious）的刺激反應加劇",
       "C": "analgesia：對所有知覺皆無反應",
       "D": "paresthesia：無明顯刺激狀態下卻感受異樣知覺"
     },
@@ -244,8 +244,8 @@
     "id": 1132615,
     "question": "15. 四個月大的女嬰，媽媽注意到她有溢淚的情況，內眼角常有黃綠色的黏稠分泌物，尤其是按摩內眼角與鼻骨 之間的部位，會有更多的分泌物出現。下列敘述何者正確？",
     "options": {
-      "A": "最有可能的診斷是先天性青光眼 ü",
-      "B": "淚小管（canaliculus）進入淚囊（lacrimal sac）的部分（valve of Rosenm ller）是最常見的阻塞位置",
+      "A": "最有可能的診斷是先天性青光眼",
+      "B": "淚小管（canaliculus）進入淚囊（lacrimal sac）的部分（valve of Rosenmüller）是最常見的阻塞位置",
       "C": "一歲前靠按摩自行痊癒的機會是50%",
       "D": "鼻淚管在鼻內的出口位於下鼻道（inferior nasal meatus）"
     },
@@ -1003,7 +1003,7 @@
     "options": {
       "A": "腓長肌（peroneus longus）",
       "B": "脛前肌（tibialis anterior）",
-      "C": "伸 趾長肌（extensor hallucis longus）",
+      "C": "伸趾長肌（extensor hallucis longus）",
       "D": "腓腸肌（gastrocnemius）"
     },
     "answer": "D",

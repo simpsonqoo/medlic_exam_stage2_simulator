@@ -120,7 +120,7 @@
   },
   {
     "id": 1112308,
-    "question": "8. 下列關於壓力催迫性（stress）核醫心肌灌流造影（stressSPECT）與冠狀動脈心臟病的敘述，何者錯誤？",
+    "question": "8. 下列關於壓力催迫性（stress）核醫心肌灌流造影（stress SPECT）與冠狀動脈心臟病的敘述，何者錯誤？",
     "options": {
       "A": "電腦斷層高鈣化指數者建議安排運動心電圖或壓力催迫性核醫心肌灌流檢查，依據心肌缺血嚴重度決定是否 需要血管再通術",
       "B": "非心臟外科手術術前風險評估除了考慮心肌缺氧嚴重度及範圍、左心室功能之外，還要考量手術種類及麻醉 方式",
@@ -450,12 +450,12 @@
   },
   {
     "id": 1112327,
-    "question": "27. 一位 27 歲女性，長期在腎臟科門診追蹤 長期在腎臟科門診追蹤 IgA nephropathy 與輕度蛋白尿。最近懷孕並出現高血壓 最近懷孕並出現高血壓，下列高血壓 相關藥物處置，何者最不適合？",
+    "question": "27. 一位 27 歲女性，長期在腎臟科門診追蹤 IgA nephropathy 與輕度蛋白尿。最近懷孕並出現高血壓，下列高血壓相關藥物處置，何者最不適合？",
     "options": {
       "A": "使用 methyldopa 控制血壓",
-      "B": "使用 long-actingcalcium channel blockers（CCB）控制血壓 blockers",
+      "B": "使用 long-acting calcium channel blockers（CCB）控制血壓",
       "C": "使用 labetalol 控制血壓",
-      "D": "使用 angiotensin-converting-enzyme enzyme inhibitors（ACE inhibitors inhibitors）藥物降低蛋白尿，預防發生 預防發生 pre-eclampsia"
+      "D": "使用 angiotensin-converting-enzyme inhibitors（ACE inhibitors）藥物降低蛋白尿，預防發生 pre-eclampsia"
     },
     "answer": "D",
     "explanation": "此題考查懷孕期間高血壓的用藥安全。ACE抑制劑在懷孕期間為禁忌用藥。<br>(A) 正確，Methyldopa是懷孕期間控制血壓的安全藥物<br>(B) 正確，長效型鈣離子通道阻斷劑（long-acting CCB）可用於孕婦<br>(C) 正確，Labetalol是孕婦高血壓的首選藥物之一<br>(D) 錯誤，血管收縮素轉化酶抑制劑（ACE inhibitors）在懷孕期間為絕對禁忌，因其有致畸胎性，會導致胎兒腎臟發育不良、羊水過少等問題",
@@ -484,7 +484,7 @@
   },
   {
     "id": 1112329,
-    "question": "29. 下列那一段腎小管（renal tubule）可透過抗利尿荷爾蒙 可透過抗利尿荷爾蒙（antidiuretic hormone, ADH） ）的作用增加對水分的通透 性？",
+    "question": "29. 下列那一段腎小管（renal tubule）可透過抗利尿荷爾蒙（antidiuretic hormone, ADH）的作用增加對水分的通透性？",
     "options": {
       "A": "近端腎小管（proximal tubule）",
       "B": "Henle 氏環下行枝（descending limb of Henle's loop）",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 1112360,
-    "question": "60. Extended-spectrum β-lactamase（ESBL）可以水解下列那些β-lactam 類抗生素，而使其失效？<br>① cefotaxime（第 三代頭孢子素）<br>② aztreonam（monobactam）<br>③ ertapenem（carbapenem）",
+    "question": "60. Extended-spectrum β-lactamase（ESBL）可以水解下列那些β-lactam 類抗生素，而使其失效？<br>① cefotaxime（第三代頭孢子素）<br>② aztreonam（monobactam）<br>③ ertapenem（carbapenem）",
     "options": {
       "A": "僅①②",
       "B": "僅①③",
@@ -1215,12 +1215,12 @@
   },
   {
     "id": 1112372,
-    "question": "72. 85 歲女性居家照護個案，近一個月跌倒兩次，下列何者可能是導致她跌倒的內在因子（intrinsic factors）？ 1.跌倒過去史 2.視力障礙 3.憂鬱 4.認知障礙 5.下肢無力",
+    "question": "72. 85 歲女性居家照護個案，近一個月跌倒兩次，下列何者可能是導致她跌倒的內在因子（intrinsic factors）？<br>① 跌倒過去史 <br>② 視力障礙 <br>③ 憂鬱 <br>④ 認知障礙 <br>⑤ 下肢無力",
     "options": {
-      "A": "僅 125",
-      "B": "僅 1235",
-      "C": "僅 1245",
-      "D": "12345"
+      "A": "僅 ①②⑤",
+      "B": "僅 ①②③⑤",
+      "C": "僅 ①②④⑤",
+      "D": "①②③④⑤"
     },
     "answer": "D",
     "explanation": "此題考查老年人跌倒的內在因子。所列的五項因素都是個人生理或心理狀況，全屬於內在因子。<br>(A) 錯誤，除了1、2、5之外，還有其他內在因子<br>(B) 錯誤，除了1、2、3、5之外，還有其他內在因子<br>(C) 錯誤，除了1、2、4、5之外，還有其他內在因子<br>(D) 正確，跌倒過去史、視力障礙、憂鬱、認知障礙、下肢無力都是導致跌倒的內在因子（intrinsic factors），這些都是與個人生理或心理狀況相關的危險因子",

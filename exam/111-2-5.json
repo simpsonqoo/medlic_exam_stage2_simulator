@@ -107,7 +107,7 @@
     "options": {
       "A": "高脂高蛋白的飲食",
       "B": "含氯的飲用水",
-      "C": "低社經階層（low low socioeconomic class）人士",
+      "C": "低社經階層（low socioeconomic class）人士",
       "D": "女性病人"
     },
     "answer": "C",
@@ -137,7 +137,7 @@
   },
   {
     "id": 1112509,
-    "question": "9. 有關兒童腦幹膠質瘤（pediatric pediatric brainstem glioma）之敘述，下列何者錯誤？",
+    "question": "9. 有關兒童腦幹膠質瘤（pediatric brainstem glioma）之敘述，下列何者錯誤？",
     "options": {
       "A": "占兒童腦瘤比例約 10～20%",
       "B": "pontine glioma 的存活率較 midbrain glioma 好",
@@ -158,7 +158,7 @@
     "options": {
       "A": "須立即進行手術移除顱內血塊，否則會有生命危險",
       "B": "可能是動靜脈畸形出血",
-      "C": "可能是類澱粉血管病變（amyloid amyloid angiopathy）出血 angiopathy",
+      "C": "可能是類澱粉血管病變（amyloid angiopathy）出血",
       "D": "可能是一個轉移性腫瘤出血"
     },
     "answer": "A",
@@ -176,7 +176,7 @@
     "id": 1112511,
     "question": "11. 下列關於頸椎退化性疾病的治療敘述，何者最不適當？",
     "options": {
-      "A": "急性頸椎神經根病變，通常先以保守治療 通常先以保守治療（包括休息、復健和藥物治療），可以改善大部分症狀",
+      "A": "急性頸椎神經根病變，通常先以保守治療（包括休息、復健和藥物治療），可以改善大部分症狀",
       "B": "如果病人保守治療後，症狀仍未改善，則須考慮手術治療",
       "C": "以手術治療後，病人肩頸疼痛症狀和神經症狀都能全部改善，可回到原本生活和工作",
       "D": "前位椎間盤切除減壓手術，術後病人可能發生聲音沙啞、喝水容易嗆到、和吞嚥困難的風險"
@@ -191,7 +191,7 @@
   },
   {
     "id": 1112512,
-    "question": "12. 關於 Chiari I herniation 的敘述，下列何者錯誤 下列何者錯誤？",
+    "question": "12. 關於 Chiari I herniation 的敘述，下列何者錯誤？",
     "options": {
       "A": "延髓（medulla）向下疝出，超出 foramen magnum 位置",
       "B": "可能產生四肢麻木、無力情形",
@@ -860,7 +860,7 @@
   },
   {
     "id": 1112551,
-    "question": "51. 下列那一段結腸或直腸（colonand rectum）並未附著於後腹腔（retroperitoneum）？",
+    "question": "51. 下列那一段結腸或直腸（colon and rectum）並未附著於後腹腔（retroperitoneum）？",
     "options": {
       "A": "升結腸",
       "B": "降結腸",
@@ -983,8 +983,8 @@
     "options": {
       "A": "髖臼是由三向放射狀軟骨（triradiate cartilage）組成，並由透明軟骨（hyaline cartilage）所覆蓋",
       "B": "兩種骨盆斜位照（oblique views）藉由朝向或遠離患側傾斜60 度拍攝，補骨盆正位前後照（AP view）的不足之處",
-      "C": "內斜位照（internal oblique view / obturator view）可展現後柱（posterior view column），包含坐骨棘（ischial spine） 與髖臼前壁（anterior anterior wall of the acetabulum）",
-      "D": "外斜位照（external external oblique view / iliac view）可展現前柱（anterior view column）及髖臼後緣（posterior lip of the acetabulum）"
+      "C": "內斜位照（internal oblique view / obturator view）可展現後柱（posterior column），包含坐骨棘（ischial spine） 與髖臼前壁（anterior wall of the acetabulum）",
+      "D": "外斜位照（external oblique view / iliac view）可展現前柱（anterior column）及髖臼後緣（posterior lip of the acetabulum）"
     },
     "answer": "A",
     "explanation": "關鍵在於正確理解髖臼的發育解剖和影像學檢查。<br>(A) 正確，髖臼是由三向放射狀軟骨組成並由透明軟骨覆蓋。髖臼由三塊骨組成包括髂骨上五分之二、坐骨後下五分之二、恥骨前下五分之一。三向放射狀軟骨即 Y 型軟骨是胚胎和兒童期三塊骨的交界處約 15 至 17 歲融合，關節面覆蓋透明軟骨包括月狀面馬蹄形關節面、髖臼窩中央非關節面無軟骨<br>(B) 錯誤，骨盆斜位照是傾斜 45 度不是 60 度。Judet views 即骨盆斜位照補充骨盆正位照，兩種斜位照包括內斜位患側向下傾斜 45 度、外斜位患側向上傾斜 45 度。45 度角度是標準 60 度不正確<br>(C) 錯誤，內斜位照展現的結構錯誤。內斜位照即 obturator oblique view 患側向下轉 45 度，展現結構是前柱、髖臼後壁骨盆呈現如內側看的輪廓。題目說展現後柱和前壁是錯的<br>(D) 錯誤，外斜位照展現的結構錯誤。外斜位照即 iliac oblique view 患側向上轉 45 度，展現結構是後柱、髖臼前壁、髂骨翼骨盆呈現如外側看的輪廓。題目說展現前柱和後緣是錯的<br>記憶法是內斜位看前柱後壁、外斜位看後柱前壁。髖臼骨折分類依 Letournel and Judet 包括簡單型如後壁、後柱、前壁、前柱、橫向骨折，以及複雜型如後柱加後壁、橫向加後壁、T 型、前柱加後半橫向、雙柱骨折。影像檢查是 AP 加 Judet views 加 CT 3D 重組為標準評估",
@@ -1052,7 +1052,7 @@
       "A": "protrusion、extrusion 和 sequestration 三種突出中，protrusion type 是最常見的類型",
       "B": "通常需要手術治療才可以將神經減壓，進而解除神經痛以達到最佳的療效",
       "C": "有症狀及徵象時，磁振造影（MRI）是診斷椎間盤突出症最佳的檢查",
-      "D": "術後感染（infection）、硬膜撕裂（dural tear）、神經根損傷（nerve root injury）及復發性椎間盤突出症及復發性椎間盤突出症（recurrent HIVD）是最常見的術後併發症"
+      "D": "術後感染（infection）、硬膜撕裂（dural tear）、神經根損傷（nerve root injury）及復發性椎間盤突出症（recurrent HIVD）是最常見的術後併發症"
     },
     "answer": "B",
     "explanation": "關鍵在於大部分椎間盤突出症可以保守治療改善不一定需要手術。<br>(A) 正確，protrusion 是最常見的類型。椎間盤突出症依突出程度分為三種包括 protrusion 即突出纖維環未破裂椎間盤仍與母體相連最常見、extrusion 即脫出纖維環破裂椎間盤脫出但仍與母體相連、sequestration 即游離脫出的椎間盤碎片完全游離最嚴重。Protrusion type 是最常見的類型<br>(B) 錯誤，大部分椎間盤突出症不需要手術可以保守治療改善。約 80 至 90% 的椎間盤突出症患者可以通過保守治療在 6 至 12 週內改善，保守治療包括休息、物理治療、藥物如止痛藥、肌肉鬆弛劑、類固醇、硬膜外類固醇注射。手術適應症包括保守治療 6 至 12 週無效、進行性神經功能惡化、馬尾症候群如大小便失禁、嚴重肌肉無力。手術不是第一線治療大部分患者可以保守治療達到良好療效<br>(C) 正確，MRI 是診斷椎間盤突出症最佳的檢查。有症狀及徵象時磁振造影是診斷椎間盤突出症最佳的檢查，可清楚顯示椎間盤突出的位置、大小、神經根壓迫程度。其他檢查包括 X 光可排除骨折、腫瘤、退化性變化但看不到椎間盤，CT 可看到骨性結構和部分軟組織但不如 MRI 清楚，肌電圖可確認神經根受損但無法定位椎間盤突出<br>(D) 正確，術後感染、硬膜撕裂、神經根損傷及復發性椎間盤突出症是最常見的術後併發症。椎間盤切除手術的常見併發症包括感染發生率約 1 至 3%、硬膜撕裂約 1 至 5% 大多數可以修補、神經根損傷約 1 至 2% 可能導致永久神經功能缺損、復發性椎間盤突出症約 5 至 10% 可能需要再次手術。其他併發症包括血腫、深部靜脈栓塞、脊椎不穩定",

@@ -1,7 +1,7 @@
 [
   {
     "id": 1102501,
-    "question": "1. 對於人類白血球組織抗原(human lekocyte antigen,HLA)的描述,列何者正確?<br>①HLA antigens位在人類第九對染色體的短臀上<br>②HLA完全相同的腎移植可以得到比較好的預後<br>③HLA-DP,HLA-DQ和HLA DR是屬於第二型主要組織相容性複合體(major histocompatibility complex,MHC)<br>④第一型主組織相容性複合體(MHC Class主要是表現在B巴球(lymphocytes),樹突細胞(dendritic cells),内皮細胞 (endothclial cells)和活化的(activated)T細胞<br>⑤HLA敏化作用(scnsitization)會因為懷孕,輸血和曾經 接受過移植而產生",
+    "question": "1. 對於人類白血球組織抗原（human leukocyte antigen, HLA）的描述，下列何者正確？<br>①HLA antigens位在人類第九對染色體的短臂上<br>②HLA完全相同的腎臟移植可以得到比較好的預後<br>③HLA-DP,HLA-DQ和HLA-DR是屬於第二型主要組織相容性複合體（major histocompatibility complex, MHC）<br>④第一型主要組織相容性複合體（MHC Class I）主要是表現在B淋巴球（lymphocytes），樹突細胞（dendritic cells），內皮細胞（endothelial cells）和活化的（activated）T細胞<br>⑤HLA敏化作用（sensitization）會因為懷孕，輸血和曾經接受過移植而產生",
     "options": {
       "A": "②③④",
       "B": "①③④",
@@ -35,12 +35,12 @@
   },
   {
     "id": 1102503,
-    "question": "3. 54歲男性,體重65公斤,因直腸癌接受根治性直腸全切除併大腸肛門吻合術及迴腸造瘻術,術後恢復良好,於術後第三天開始由口進食。但術後第八天主訴全身倦怠無力,理學檢查發現血壓90/40mmHg，心跳100次/分, 呼吸16次/分,體溫36.5°C,每日尿量為800毫升,每日迴腸造口排出量約3000毫升。生化檢查現血中鈉離子125mEg/L、鉀離子2.5mEq/L,全血血球計數為白血球15,000/μL、血紅素80g/dL、血小板150000/μL。此時造成病人倦怠感最有可能的原因為何?",
+    "question": "3. 54歲男性,體重65公斤,因直腸癌接受根治性直腸全切除併大腸肛門吻合術及迴腸造瘻術,術後恢復良好,於術後第三天開始由口進食。但術後第八天主訴全身倦怠無力,理學檢查發現血壓90/40mmHg，心跳100次/分, 呼吸16次/分,體溫36.5°C,每日尿量為800毫升,每日迴腸造口排出量約3000毫升。生化檢查發現血中鈉離子125 mEq/L、鉀離子2.5mEq/L,全血血球計數為白血球15,000/μL、血紅素8.0 g/dL、血小板150000/μL。此時造成病人倦怠感最有可能的原因為何?",
     "options": {
       "A": "腎上腺功能不全合併電解質不平衡",
       "B": "急性失血合併低血壓",
       "C": "腹腔內感染合併輕微敗血症",
-      "D": "大量體液自腸造口流失而致電解質不平衡"
+      "D": "大量體液自迴腸造口流失而致電解質不平衡"
     },
     "answer": "D",
     "explanation": "迴腸造口（ileostomy）每日正常排出量約500～1000 mL，若高達3000 mL屬高輸出造口（high-output stoma），大量腸液流失會導致低鈉（hyponatremia）、低鉀（hypokalemia）及低血壓。<br>(A) 錯誤，腎上腺功能不全（adrenal insufficiency）雖可出現電解質異常，但無明確迴腸造口大量流失的誘因，且臨床表現與題目情境不吻合<br>(B) 錯誤，急性失血（acute blood loss）應有血紅素明顯下降，題目中血紅素為80 g/dL（偏低但為慢性貧血表現），且引流液為腸液而非血液<br>(C) 錯誤，腹腔內感染（intra-abdominal infection）雖可有輕微敗血症（mild sepsis），但體溫36.5°C正常，白血球升高較符合術後反應，電解質異常的主因仍為造口大量流失<br>(D) 正確，迴腸造口每日3000 mL的高輸出，直接造成大量電解質（尤其鈉、鉀）及水分流失，是導致低血壓及倦怠的主因",
@@ -73,8 +73,8 @@
     "options": {
       "A": "neutrophil→macrophage→fibroblast→lymphocyte",
       "B": "neutrophil→fibroblast→lymphocyte→macrophage",
-      "C": "macrophagel→ymphocyte→fibroblast→neutrophil",
-      "D": "Iymphocyte→fibroblast→neutrophil→macrophage"
+      "C": "macrophage→lymphocyte→fibroblast→neutrophil",
+      "D": "lymphocyte→fibroblast→neutrophil→macrophage"
     },
     "answer": "A",
     "explanation": "傷口癒合各期的細胞依序是：發炎期先由嗜中性球清除細菌，接著巨噬細胞主導清創與釋放生長因子，增生期由纖維母細胞進行膠原蛋白合成，淋巴球則在後期介入調控。<br>(A) 正確，嗜中性球（neutrophil）在傷後數小時至1～2天出現 → 巨噬細胞（macrophage）第2～4天為主 → 纖維母細胞（fibroblast）第4天後增生 → 淋巴球（lymphocyte）第5～7天後出現，順序正確<br>(B) 錯誤，淋巴球出現在纖維母細胞之後，而非中間；且巨噬細胞不在最後<br>(C) 錯誤，巨噬細胞不是最先到達傷口的細胞，嗜中性球才是第一波<br>(D) 錯誤，淋巴球非最先，嗜中性球才是傷口癒合最早出現的細胞",
@@ -89,7 +89,7 @@
     "question": "6. 有關瘢痕瘤（Keloid），下列敘述何者錯誤？",
     "options": {
       "A": "較易發生在臉部、低於鎖骨的軀幹部及下肢",
-      "B": "較常發生在皮膚顏色較深的人種例如非美國人、亞洲人及拉丁裔人",
+      "B": "較常發生在皮膚顏色較深的人種例如非裔美國人、亞洲人及拉丁裔人",
       "C": "其盛行率約15%〜20%",
       "D": "目前仍無法預防,不論內科或外科療法效果皆不彰"
     },
@@ -155,7 +155,7 @@
   },
   {
     "id": 1102510,
-    "question": "10. 脈絡叢乳頭狀瘤(choroid plexs papillomas)造成腦室擴大(ventricular enlargement)的原因,不包括下列何 者?",
+    "question": "10. 脈絡叢乳頭狀瘤（choroid plexus papillomas）造成腦室擴大（ventricular enlargement）的原因，不包括下列何者？",
     "options": {
       "A": "腫瘤長大（tumor growth）",
       "B": "後脈絡叢血管被腫瘤壓迫（posterior choroid artery compression by tumor）",
@@ -311,7 +311,7 @@
   },
   {
     "id": 1102519,
-    "question": "19. 78歲男性抽菸且合併高血壓，糖尿病病史，接受都卜勒分段血壓（Dopper segmental pressure）檢查之結果如附圖。則下列敘述何者錯誤？",
+    "question": "19. 78歲男性抽菸且合併高血壓，糖尿病病史，接受都卜勒分段血壓（Doppler segmental pressure）檢查之結果如附圖。則下列敘述何者錯誤？",
     "options": {
       "A": "間歇性跛行或潰瘍不癒合以左下肢為主",
       "B": "狹窄之可能部位位於左側腸骨動脈或股動脈",
@@ -436,7 +436,7 @@
     "question": "26. 下列關於食道穿孔之敘述,何者不適當?",
     "options": {
       "A": "一般建議,先以食道鏡檢查作為優先診斷工具",
-      "B": "如經證貨,則馬上給予適當治療不可延誤",
+      "B": "如經證實,則馬上給予適當治療不可延誤",
       "C": "如穿孔發生在12小時內,則可考慮修補縫合",
       "D": "情況不佳的年長患者,可考慮stenting"
     },
@@ -453,7 +453,7 @@
     "question": "27. 下列縱膈腔腫瘤相關症狀,何者錯誤?",
     "options": {
       "A": "neurofibroma - von Recklinghausen's disease",
-      "B": "carcinoid carcinoid syndrome",
+      "B": "carcinoid - carcinoid syndrome",
       "C": "thymoma - myasthenia gravis",
       "D": "thymoma - vertebral anomalies"
     },
@@ -722,7 +722,7 @@
   },
   {
     "id": 1102543,
-    "question": "43. 一位5歲男孩因為發燒來到急診,理學檢查並無上呼吸道感染,但有左後背敲痛感,尿液檢查發現有白血球增高現象,腎臟超音波發現有嚴重水腎現象伴隨腎臟皮質變薄的現象,輸尿管無脹大,後續的尿液逆流攝影 (VCUG)發現他沒有膀胱輸尿管逆流。下列敘述何者正確?<br>①可能是腎盂輸尿管狹窄併發腎盂腎炎 <br>② 能是輸尿管膀胱狹窄併發腎盂腎炎 <br>③可以再加做腎臟核醫掃描(DTPA with Lasix)的檢查協助判斷 <br>④手術方式有兩種,一種是從膀胱外重新植入輸尿管,一種是從膀胱內重新植入輸尿管(reimplantation) <br>⑤先用抗生素治療就好，除非反覆性感染才需要手術",
+    "question": "43. 一位5歲男孩因為發燒來到急診,理學檢查並無上呼吸道感染,但有左後背敲痛感,尿液檢查發現有白血球增高現象,腎臟超音波發現有嚴重水腎現象伴隨腎臟皮質變薄的現象,輸尿管無脹大,後續的尿液逆流攝影 (VCUG)發現他沒有膀胱輸尿管逆流。下列敘述何者正確?<br>①可能是腎盂輸尿管狹窄併發腎盂腎炎 <br>②可能是輸尿管膀胱狹窄併發腎盂腎炎<br>③可以再加做腎臟核醫掃描(DTPA with Lasix)的檢查協助判斷 <br>④手術方式有兩種,一種是從膀胱外重新植入輸尿管,一種是從膀胱內重新植入輸尿管(reimplantation) <br>⑤先用抗生素治療就好，除非反覆性感染才需要手術",
     "options": {
       "A": "僅①⑤",
       "B": "②③④",
@@ -775,9 +775,9 @@
     "id": 1102546,
     "question": "46. 腸道旋轉不良(intestinal malrotation)可能造成腸道扭轉(intestinal volvulus),下列那一個敘述對手術所需的步驟最正確?",
     "options": {
-      "A": "解除腸道扭轉,分離升結腸盲腸(cecum)與十二指腸之沾黏切除闌尾",
+      "A": "解除腸道扭轉，分離升結腸、盲腸（cecum）與十二指腸之沾黏，切除闌尾",
       "B": "解除腸道扭轉,將升結腸及降結腸固定在腹壁避免容易扭轉,增寬小腸腸繫膜根部避免容易扭轉,切除闌尾",
-      "C": "解除腸道扭轉分離升結腸、盲腸(cecum)與十二指腸之沾黏,增寬小腸腸繫膜根部避免容易扭轉切除闌尾",
+      "C": "解除腸道扭轉，分離升結腸、盲腸（cecum）與十二指腸之沾黏，增寬小腸腸繫膜根部避免容易扭轉，切除闌尾",
       "D": "解除腸道扭轉,分離升結腸、盲腸(cecum)與十二指腸之沾黏,將升結腸及降結腸固定在腹壁避免容易扭轉,切除闌尾"
     },
     "answer": "C",
@@ -1083,7 +1083,7 @@
     "options": {
       "A": "體外震波碎石術(extracorporeal shock wave lithotripsy)",
       "B": "軟式輸尿管鏡碎石術(flexible ureteroscopic lithotripsy)",
-      "C": "經皮腎造機截石術(percutaneous nephrolithotripsy)",
+      "C": "經皮腎造廔截石術（percutaneous nephrolithotripsy）",
       "D": "腎盂截石術(pyelolithotomy)"
     },
     "answer": "B",

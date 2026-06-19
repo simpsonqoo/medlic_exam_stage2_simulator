@@ -123,7 +123,7 @@
     "question": "8. 有關腦下垂體（pituitary）腫瘤治療，下列何者不是以手術切除為第一優先？",
     "options": {
       "A": "促腎上腺皮質素瘤（ACTH secreting tumor）",
-      "B": "生長激素瘤（growth homone secreting tumor）",
+      "B": "生長激素瘤（growth hormone secreting tumor）",
       "C": "甲狀腺刺激素瘤（TSH secreting tumor）",
       "D": "泌乳激素瘤（prolactinoma）"
     },
@@ -843,7 +843,7 @@
   },
   {
     "id": 1122550,
-    "question": "50. 74歲楊女士這一星期來左下腹疼痛越來越厲害到急診求診，其過去病史有糖尿病、高血壓病及大腸憩室炎；急診的生命徵象穩定，但體溫為38.5℃；其他的臨床症狀包括食慾變差（anorexia）、噁心（nausea）及有腹 瀉（diarrhea）的情況。理學檢查發現左下腹疑似有摸到硬塊且有壓痛合併局部性的腹膜炎（localized peritonitis）之情形，抽血檢查發現WBC：19,310/mm3，neutrophil：86.1%，CRP：196 mg/L，腹部的電腦斷 層如附圖，則最可能的診斷為何？",
+    "question": "50. 74歲楊女士這一星期來左下腹疼痛越來越厲害到急診求診，其過去病史有糖尿病、高血壓病及大腸憩室炎；急診的生命徵象穩定，但體溫為38.5℃；其他的臨床症狀包括食慾變差（anorexia）、噁心（nausea）及有腹 瀉（diarrhea）的情況。理學檢查發現左下腹疑似有摸到硬塊且有壓痛合併局部性的腹膜炎（localized peritonitis）之情形，抽血檢查發現WBC：19,310/mm3，neutrophil：86.1%，CRP：196 mg/dL，腹部的電腦斷 層如附圖，則最可能的診斷為何？",
     "options": {
       "A": "缺血性腸壞死（ischemic bowel）",
       "B": "乙狀結腸腸扭轉（volvulus）",
@@ -950,7 +950,7 @@
     "id": 1122556,
     "question": "56. 下列關於圓形細胞瘤（round cell tumor）的敘述，何者最不適當？",
     "options": {
-      "A": "Ewing氏肉瘤家族（Ewing sarcoma family）大部分染色體易位為 t",
+      "A": "Ewing氏肉瘤家族（Ewing sarcoma family）大部分染色體易位為 t(21:22)，導致 EWS/FLI-1 嵌合體（chimera）",
       "B": "Ewing氏肉瘤（Ewing sarcoma）是放射敏感性腫瘤（radiosensitive tumor），如果手術切緣不乾淨，則術後常須使用局部照射治療",
       "C": "單發性的原發性骨淋巴瘤（isolated primary lymphoma of the bone）預後較好，常見的組織學類型是large cell type or mixed small and large cell type",
       "D": "多樣藥化療（multidrug chemotherapy）可提高原發性骨淋巴瘤（primary lymphoma of the bone）的5年生存率"
@@ -1001,7 +1001,7 @@
     "id": 1122559,
     "question": "59. 一位身高175公分，20歲的大學男生，拄著二根枴杖步入診間，右膝彎曲無法伸直，無法著地用力。主訴昨天打籃球時，上籃後著地，膝部疼痛卡住，無法伸直及彎曲，右膝X光片顯示無骨折。下列診斷何者最可能？",
     "options": {
-      "A": "內側副韌帶斷裂（medical collateral ligament tear）",
+      "A": "內側副韌帶斷裂（medial collateral ligament tear）",
       "B": "前十字韌帶拉傷（anterior cruciate ligament injury）",
       "C": "半月板破裂（meniscal tear）",
       "D": "髕骨韌帶斷裂（patellar tendon rupture）"

@@ -650,10 +650,10 @@
     "id": 1131638,
     "question": "38. 懷孕期間的高血壓用藥最不建議使用下列何者？",
     "options": {
-      "A": "腎上腺素受體阻斷劑（adrenergic adrenergic-receptor blocking agents）",
+      "A": "腎上腺素受體阻斷劑（adrenergic-receptor blocking agents）",
       "B": "血管擴張劑（vasodilators）",
-      "C": "鈣離子通道阻斷劑（calcium-channel channel blocking agents） agents",
-      "D": "血管張力素轉化酶抑制劑（angiotensin angiotensin-converting enzyme inhibitors）"
+      "C": "鈣離子通道阻斷劑（calcium-channel blocking agents）",
+      "D": "血管張力素轉化酶抑制劑（angiotensin-converting enzyme inhibitors）"
     },
     "answer": "D",
     "explanation": "懷孕期間某些降血壓藥物可能造成胎兒畸形或併發症。關鍵在於了解各類藥物的致畸性。<br>(A) 錯誤，腎上腺素受體阻斷劑如labetalol（α+β阻斷劑）、methyldopa（中樞性α2激動劑）是懷孕期間常用的降血壓藥物，相對安全<br>(B) 錯誤，血管擴張劑如hydralazine是懷孕期間可安全使用的降血壓藥物，特別用於急性高血壓控制<br>(C) 錯誤，鈣離子通道阻斷劑如nifedipine是懷孕期間可使用的降血壓藥物，也可用於安胎（抑制子宮收縮）<br>(D) 正確，血管張力素轉化酶抑制劑（ACE inhibitors，如enalapril, lisinopril）和血管張力素受體阻斷劑（ARBs，如losartan）在懷孕期間是絕對禁忌。這些藥物會造成胎兒腎臟發育不良、羊水過少、生長遲滯、顱骨發育不全、新生兒腎衰竭等嚴重併發症，特別是在第二、三孕期",
@@ -1247,7 +1247,7 @@
     "options": {
       "A": "頸動脈較腎動脈更常見",
       "B": "頸動脈病灶易發生在頸動脈分支處（carotid bifurcation）",
-      "C": "血管攝影檢查可發現串珠狀（string string of beads）擴張及狹窄 beads",
+      "C": "血管攝影檢查可發現串珠狀（string of beads）擴張及狹窄",
       "D": "男性較女性多"
     },
     "answer": "C",
@@ -1260,7 +1260,7 @@
   },
   {
     "id": 1131674,
-    "question": "74. 37 歲女性病人經電腦斷層檢查，發現影像中箭號所指處有結腸肝彎處腫瘤阻塞發現影像中箭號所指處有結腸肝彎處腫瘤阻塞，合併右側卵巢多囊性腫瘤， 下列有關卵巢的診斷何者最恰當？",
+    "question": "74. 37 歲女性病人經電腦斷層檢查，發現影像中箭號所指處有結腸肝彎處腫瘤阻塞，合併右側卵巢多囊性腫瘤，下列有關卵巢的診斷何者最恰當？",
     "options": {
       "A": "cystadenoma",
       "B": "Krukenberg tumor",
@@ -1283,7 +1283,7 @@
   },
   {
     "id": 1131675,
-    "question": "75. 惡性外耳炎（malignant external otitis）會造成顱底骨髓炎（skull  base osteomyelitis），下列敘述何者最適當？",
+    "question": "75. 惡性外耳炎（malignant external otitis）會造成顱底骨髓炎（skull base osteomyelitis），下列敘述何者最適當？",
     "options": {
       "A": "大部分個案使用抗生素治療即可",
       "B": "最常引發的致病菌是肺炎雙球菌",
@@ -1300,12 +1300,12 @@
   },
   {
     "id": 1131676,
-    "question": "76. 關於鼻腔內異物，下列敘述何者最不適當 下列敘述何者最不適當？",
+    "question": "76. 關於鼻腔內異物，下列敘述何者最不適當？",
     "options": {
       "A": "好發於兒童，也可發生於智能不足或罹患精神疾病的成人",
       "B": "兒童的鼻腔內異物，大部分是無症狀",
-      "C": "鼻腔內之鈕扣電池卡住鼻通道，應使用鼻滴劑潤滑",
-      "D": "鼻腔內之鈕扣電池常不易經由目視發現"
+      "C": "鼻腔內之鈕扣電池卡住鼻通道，應使用鼻滴劑潤滑，並儘快取出電池",
+      "D": "鼻腔內之鈕扣電池常不易經由目視發現，如懷疑可考慮照 X 光輔助診斷"
     },
     "answer": "C",
     "explanation": "鼻腔異物需要快速處理，鈕扣電池尤其緊急。關鍵在於了解鈕扣電池的危險性和處理原則。<br>(A) 正確，鼻腔異物好發於兒童（特別是2-5歲），因為好奇心強、喜歡探索。也可發生於智能不足或精神疾病的成人<br>(B) 正確，兒童鼻腔異物早期可能無症狀或症狀輕微，隨時間出現單側鼻塞、惡臭鼻分泌物（特別是有機異物如豆類、花生腐爛）、鼻出血等症狀<br>(C) 錯誤，鼻腔內鈕扣電池是耳鼻喉科急症，需要立即移除，不應使用鼻滴劑潤滑或延遲處理。鈕扣電池會產生電化學燒傷（electrochemical burn），在短時間內（數小時）造成組織壞死、鼻中隔穿孔、嚴重出血等併發症。應立即在急診或門診移除，必要時在全身麻醉下進行<br>(D) 正確，鈕扣電池可能嵌入組織或被分泌物覆蓋，不易經由目視直接發現。需要仔細檢查，必要時使用鼻內視鏡或影像學檢查（X光可見圓形金屬異物）",

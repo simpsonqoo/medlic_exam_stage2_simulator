@@ -9,7 +9,7 @@
       "D": "環甲膜切開術不應作為將來病人之永久性通氣道（permanent airway）"
     },
     "answer": "A",
-    "explanation": "環甲膜切開術（surgical cricothyrotomy）是處理「無法通氣、無法插管」緊急情境的最後手段，核心考點在於其適應症、定位方式及限制。",
+    "explanation": "環甲膜切開術（surgical cricothyrotomy）是處理「無法通氣、無法插管」緊急情境的最後手段，核心考點在於其適應症、定位方式及限制。<br>(A) 錯誤，環甲膜切開術禁用於六歲以下兒童（12歲以下有相對禁忌），因為幼兒的環甲膜狹小且軟骨尚未鈣化，手術風險極高；六歲以下兒童應改用針式環甲膜穿刺術（needle cricothyrotomy）作為緊急氣道。<br>(B) 正確，定位時讓病人仰臥，觸摸頸部甲狀軟骨下緣，環甲膜（cricothyroid membrane）位於甲狀軟骨與環狀軟骨之間，此為正確的解剖定位方式。<br>(C) 正確，環甲膜切開術的常見併發症包括出血（hemorrhage）與感染（infection），其他還有皮下氣腫、氣管損傷、聲帶損傷等。<br>(D) 正確，環甲膜切開術屬於緊急暫時性通氣道，不應作為病人的永久性通氣道；若需長期通氣，應在病人穩定後24-72小時內改行正式氣管切開術（tracheostomy）。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -26,7 +26,7 @@
       "D": "神經軸麻醉（neuraxial anesthesia）不會發生體溫過低的現象"
     },
     "answer": "D",
-    "explanation": "麻醉期間體溫過低的機轉，核心在於麻醉藥物影響體溫調節閾值，以及中樞至周邊的熱再分布（redistribution）。",
+    "explanation": "麻醉期間體溫過低的機轉，核心在於麻醉藥物影響體溫調節閾值，以及中樞至周邊的熱再分布（redistribution）。<br>(A) 正確，全身麻醉劑會抑制下視丘的體溫調節中樞，降低啟動血管收縮（vasoconstriction）及寒顫（shivering）等保溫機轉的閾值，使身體在較低溫度時才啟動保溫反應，容易造成體溫下降。<br>(B) 正確，手術室環境溫度通常維持在約18-22℃，加上術野大面積暴露、傷口散熱及靜脈輸液灌入，低溫環境是導致術中低體溫的重要外在因素。<br>(C) 正確，麻醉誘導後初期體溫散失（initial phase）的主要機轉是熱量由體核（core）向周邊組織（periphery）再分布（redistribution）；血管擴張使蓄積於周邊組織的冷血回流，約可解釋初始1-1.5℃的體溫下降，佔初始散熱的絕大部分。<br>(D) 錯誤，神經軸麻醉（neuraxial anesthesia，包括脊椎麻醉及硬膜外麻醉）同樣會造成體溫過低，其機轉為：阻斷交感神經造成體核以下血管擴張、抑制感覺神經使病人無法感知下肢寒冷刺激，並干擾寒顫反應，因此低體溫現象同樣會發生。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -43,7 +43,7 @@
       "D": "④②①③"
     },
     "answer": "B",
-    "explanation": "血壓從主動脈往周邊動脈傳導時，因動脈管徑漸細、血管阻力及反射波（pulse wave reflection）的影響，收縮壓（systolic blood pressure）會逐漸升高，而平均動脈壓則逐漸下降，越遠端的動脈收縮壓反而越高。",
+    "explanation": "血壓從主動脈往周邊動脈傳導時，因動脈管徑漸細、血管阻力及反射波（pulse wave reflection）的影響，收縮壓（systolic blood pressure）會逐漸升高，而平均動脈壓則逐漸下降，越遠端的動脈收縮壓反而越高。<br>各血管收縮壓由近端到遠端的放大現象（systolic pressure amplification）：鎖骨下動脈（最接近主動脈）< 肱動脈 < 股動脈 < 足背動脈（最遠端，收縮壓最高）<br>因此由高至低排列為②足背動脈 > ①股動脈 > ③肱動脈 > ④鎖骨下動脈，答案為B（②①③④）。<br>(A) 錯誤，①②③④排列將股動脈排最高，不符合足背動脈收縮壓高於股動脈的生理原則。<br>(B) 正確，②①③④即足背動脈→股動脈→肱動脈→鎖骨下動脈，符合收縮壓遠端放大的生理原則。<br>(C) 錯誤，②③①④排列中肱動脈高於股動脈，不符合下肢動脈收縮壓高於上肢的原則。<br>(D) 錯誤，④②①③排列將鎖骨下動脈排最高、最接近主動脈者收縮壓反而最大，完全相反。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -60,7 +60,7 @@
       "D": "fentanyl的低分子量和高脂溶性有利其經皮吸收（transdermal absorption）"
     },
     "answer": "B",
-    "explanation": "Opioids的細胞層級作用機轉是本題核心，其透過G蛋白偶聯受體（G protein-coupled receptor）產生抑制性效果。",
+    "explanation": "Opioids的細胞層級作用機轉是本題核心，其透過G蛋白偶聯受體（G protein-coupled receptor，Gi型）產生抑制性效果：抑制電壓依賴性鈣離子通道（減少突觸前神經傳遞物釋放）、啟動鉀離子通道（造成細胞膜超極化）。<br>(A) 正確，Opioids活化Gi蛋白偶聯受體後，啟動鉀離子通道（K⁺ channel）使鉀離子外流，造成細胞膜超極化（hyperpolarization），降低神經元興奮性，從而產生鎮痛等效果。<br>(B) 錯誤，Opioids實際上是「抑制電壓依賴性鈣離子通道，並啟動（開放）鉀離子通道」，而非相反。鈣離子內流減少→突觸前膜神經傳遞物釋放減少；鉀離子外流增加→細胞膜超極化→神經元活性降低。本選項顛倒了兩種離子通道的作用方向，故錯誤。<br>(C) 正確，Endorphins（β-endorphin、enkephalins、dynorphins等）是體內天然產生的opioid受體配體（endogenous ligand），屬於內源性肽，可結合μ（mu）、δ（delta）、κ（kappa）等受體產生鎮痛效果。<br>(D) 正確，Fentanyl（吩坦尼）具有低分子量（約336 Da）及高脂溶性（high lipophilicity），這兩個特性使其能穿透皮膚屏障，適合製成經皮藥貼（transdermal fentanyl patch）使用，以達到穩定的藥物血中濃度。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -77,7 +77,7 @@
       "D": "etomidate會抑制腎上腺皮質"
     },
     "answer": "C",
-    "explanation": "各類靜脈麻醉劑的血流動力學（hemodynamic）效應是本題核心，ketamine與其他藥物最大的差異在於其獨特的交感神經興奮作用。",
+    "explanation": "各類靜脈麻醉劑的血流動力學（hemodynamic）效應是本題核心，ketamine與其他藥物最大的差異在於其獨特的交感神經興奮作用。<br>(A) 正確，Barbiturates（如thiopental）可收縮腦血管、降低腦血流量（cerebral blood flow）及腦代謝率（CMRO₂），使顱內壓（ICP）下降，故在腦部手術或腦壓升高的病人中有腦保護作用。<br>(B) 正確，Benzodiazepines在高劑量或合併其他CNS抑制劑使用時，確實可能造成呼吸停止（respiratory arrest），特別是靜脈快速給藥時，需備妥氣道處理設備。<br>(C) 錯誤，Ketamine具有獨特的交感神經興奮作用（sympathomimetic effect），可使兒茶酚胺釋放增加，通常會升高（而非降低）動脈血壓和心跳速率；因此ketamine適用於低血壓、低血容積（hypovolemia）的病人，而非血壓下降。<br>(D) 正確，Etomidate即使單次給藥也會抑制腎上腺皮質中的11β-羥化酶（11β-hydroxylase），導致皮質醇（cortisol）合成受阻，造成腎上腺皮質功能抑制（adrenocortical suppression），在敗血症等危重病人中使用需謹慎。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -94,7 +94,7 @@
       "D": "propofol"
     },
     "answer": "C",
-    "explanation": "比較各靜脈麻醉劑對呼吸功能的影響程度，ketamine因其獨特的解離性麻醉（dissociative anesthesia）機轉而有別於其他藥物。",
+    "explanation": "比較各靜脈麻醉劑對呼吸功能的影響程度，ketamine因其獨特的解離性麻醉（dissociative anesthesia）機轉而有別於其他藥物。<br>(A) 錯誤，Thiopental（巴比妥類）具有顯著的呼吸抑制作用，誘導劑量即可造成呼吸暫停（apnea），呼吸中樞對二氧化碳的敏感性明顯下降，不是呼吸抑制最少的藥物。<br>(B) 錯誤，Fentanyl是強效μ受體opioid，對呼吸中樞有顯著抑制效果，可造成呼吸頻率（respiratory rate）下降、潮氣量（tidal volume）減少，甚至呼吸暫停，是opioids最重要的不良反應之一。<br>(C) 正確，Ketamine對呼吸的抑制最少；其解離性麻醉機轉能在維持意識分離的同時，保留呼吸道保護性反射、維持咽喉肌肉張力及自主呼吸；但高劑量快速靜脈注射仍可能短暫抑制呼吸，臨床使用時仍需注意。<br>(D) 錯誤，Propofol具有明顯的呼吸抑制作用，快速靜脈注射常造成呼吸暫停（尤其合併opioid時），使用時需備妥氣道管理設備，不是呼吸抑制最少的藥物。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -111,7 +111,7 @@
       "D": "肥胖病患對脊椎麻醉阻斷皮節高度無影響"
     },
     "answer": "D",
-    "explanation": "脊椎麻醉（spinal anesthesia）阻斷高度受多重因素影響，肥胖本身對麻醉擴散範圍的影響是本題考點。",
+    "explanation": "脊椎麻醉（spinal anesthesia）阻斷高度受多重因素影響，肥胖本身對麻醉擴散範圍的影響是本題考點。<br>(A) 正確，局部麻醉藥的比重（baricity，相對於腦脊髓液的密度比）是影響藥物在蛛網膜下腔擴散的關鍵因素：高比重（hyperbaric）藥物受重力沉降；低比重（hypobaric）藥物向上漂移；等比重藥物較不受體位影響，三者均顯著影響阻斷高度。<br>(B) 正確，局部麻醉藥的劑量（dose）和體積（volume）直接決定注入藥物的總量及在蛛網膜下腔的初始分布，是最重要的可控因素：劑量越大、體積越大，阻斷範圍通常越廣。<br>(C) 正確，病人姿勢（position）是影響脊椎麻醉擴散的關鍵操作因素，尤其對高比重或低比重藥物影響顯著；注射後體位的變化（如仰臥、頭高或頭低）都會影響最終阻斷高度。<br>(D) 錯誤，肥胖病患對脊椎麻醉阻斷高度確實有影響：肥胖者腹內壓升高使硬膜囊（dural sac）受外在壓迫、蛛網膜下腔相對體積減小，使同劑量的藥物在肥胖病患中可能擴散更廣、阻斷高度更難預測；本選項「無影響」的說法錯誤。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -128,7 +128,7 @@
       "D": "即使是腸胃道手術，也儘可能不置放鼻胃管"
     },
     "answer": "C",
-    "explanation": "ERAS（術後加速康復）的多模式止痛核心理念是結合多種不同機轉的止痛方式，減少單一藥物使用量，降低副作用並促進早期復原。",
+    "explanation": "ERAS（術後加速康復，enhanced recovery after surgery）的多模式止痛核心理念是結合多種不同機轉的止痛方式，減少單一藥物使用量，降低副作用並促進早期復原。<br>(A) 正確，NSAIDs雖為多模式止痛的重要一環，但可能造成腎功能損害（renal impairment），特別是在術後低血容量、老年人或原有腎功能不全的病人，臨床使用時須謹慎評估風險。<br>(B) 正確，Patient-controlled analgesia（PCA）讓病人依需求自行按鍵給藥，可提升疼痛控制的即時性與個別化，有效提高病患滿意度（patient satisfaction），是ERAS疼痛管理的選項之一。<br>(C) 錯誤，ERAS指引反而積極鼓勵使用周邊神經阻斷（peripheral nerve blockade），如硬膜外麻醉（epidural analgesia）、神經叢阻斷、筋膜平面阻斷（fascial plane block，如TAP block）等，可有效減少全身性opioid使用量，降低副作用並加速術後復原；「儘量不使用」與ERAS精神完全相悖，故本選項錯誤。<br>(D) 正確，ERAS指引建議即使是腸胃道手術，也應在可能情況下避免常規置放鼻胃管（nasogastric tube），以減少病人不適、促進早期恢復腸道功能及口服進食，此為ERAS核心措施之一。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -145,7 +145,7 @@
       "D": "敗血性休克（septic shock）"
     },
     "answer": "D",
-    "explanation": "依據Sepsis-3定義，需區分全身性炎症反應症候群（SIRS）、敗血症（sepsis）、嚴重敗血症（severe sepsis）及敗血性休克（septic shock）的診斷標準。",
+    "explanation": "依據Sepsis-3定義，需區分全身性炎症反應症候群（SIRS）、敗血症（sepsis）、嚴重敗血症（severe sepsis）及敗血性休克（septic shock）的診斷標準。<br>Sepsis-3核心定義：敗血症＝感染引起的器官功能障礙（SOFA急性升高≥2分）；敗血性休克＝在敗血症基礎上，充分補液後仍需升壓劑維持MAP≥65 mmHg，且血乳酸>2 mmol/L。<br>(A) 錯誤，SIRS（全身性炎症反應症候群）診斷需符合以下4項中≥2項：體溫>38℃或<36℃、心跳>90/min、呼吸>20/min或PaCO₂<32 mmHg、白血球>12000或<4000或桿狀球>10%。此病人雖符合SIRS，但已有明確感染灶（肺炎）且血壓持續偏低，應診斷更嚴重的狀態，單純SIRS不足以描述此病人。<br>(B) 錯誤，Sepsis-3中敗血症定義為感染誘發的器官功能障礙（SOFA評分急性升高≥2分）；此病人已有血壓持續偏低且需考慮升壓劑，已超過單純敗血症的範疇。<br>(C) 錯誤，「嚴重敗血症（severe sepsis）」是Sepsis-1/2的舊分類，Sepsis-3已廢棄此分類，不應再使用；本選項本身即為不適當的診斷類別。<br>(D) 正確，依Sepsis-3定義，敗血性休克為：敗血症 + 充分補液後仍需升壓劑維持MAP≥65 mmHg + 血乳酸>2 mmol/L。此病人已給予3000 mL靜脈輸液後血壓仍為90/45 mmHg（MAP≈60 mmHg），夜班醫師正考慮給予升壓劑，符合敗血性休克的診斷標準。",
     "tags": [
       "112-1-6(六)",
       "麻醉科"
@@ -162,7 +162,7 @@
       "D": "雖然與系統疾病相關，發作時通常以單眼發作為主"
     },
     "answer": "A",
-    "explanation": "僵直性脊椎炎（ankylosing spondylitis）相關的眼部表現以前葡萄膜炎（anterior uveitis）為主，需與全葡萄膜炎（pan-uveitis）作區別。",
+    "explanation": "僵直性脊椎炎（ankylosing spondylitis，AS）相關的眼部表現以前葡萄膜炎（anterior uveitis）為主，需與全葡萄膜炎（pan-uveitis）作區別。<br>(A) 錯誤，僵直性脊椎炎相關的葡萄膜炎以前葡萄膜炎（anterior uveitis，即虹彩炎iritis或睫狀體炎iridocyclitis）為主要表現，而非全葡萄膜炎（pan-uveitis）。前葡萄膜炎典型症狀為紅眼（red eye）、畏光（photophobia）及眼痛，病變侷限於前葡萄膜，與全葡萄膜炎不同。<br>(B) 正確，僵直性脊椎炎本身好發於年輕男性（男女比約2-3:1），其相關的前葡萄膜炎也同樣以男性較為多見。<br>(C) 正確，約90%的僵直性脊椎炎病患HLA-B27陽性；HLA-B27相關前葡萄膜炎是其重要的遺傳標誌，陽性率同樣極高，可輔助診斷及預測復發風險。<br>(D) 正確，HLA-B27相關前葡萄膜炎的特徵是以單眼急性發作為主，雖然可能在兩眼交替發作，但典型表現為單眼突發（不是雙眼同時發作），常自然緩解後再度復發。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -179,7 +179,7 @@
       "D": "輕度非增殖性糖尿病視網膜病變（mild nonproliferative diabetic retinopathy）"
     },
     "answer": "A",
-    "explanation": "糖尿病視網膜病變（diabetic retinopathy）的分期依據病變嚴重程度及是否出現新生血管（neovascularization）來區分。",
+    "explanation": "糖尿病視網膜病變（diabetic retinopathy）的分期依據病變嚴重程度及是否出現新生血管（neovascularization）來區分，增殖性糖尿病視網膜病變（PDR）的關鍵特徵為新生血管形成。<br>(A) 正確，增殖性糖尿病視網膜病變（proliferative diabetic retinopathy，PDR）的定義特徵是出現視網膜或玻璃體新生血管（neovascularization），包括視乳頭新生血管（NVD，neovascularization of disc）及其他區域新生血管（NVE，neovascularization elsewhere）；眼底照片可見視乳頭旁或視網膜表面的不規則細小血管增生，是由非增殖性轉為增殖性的關鍵分界。<br>(B) 錯誤，重度非增殖性糖尿病視網膜病變（severe NPDR）需符合「4-2-1法則」任一項：4個象限有廣泛視網膜出血、2個象限有靜脈串珠（venous beading）或1個象限有視網膜內微血管異常（IRMA），但尚未出現新生血管，與題目圖片所示不符。<br>(C) 錯誤，中度非增殖性視網膜病變介於輕度與重度之間，有部分出血、微血管瘤、硬性滲出物（hard exudate），但未達重度NPDR標準，更無新生血管。<br>(D) 錯誤，輕度非增殖性視網膜病變（mild NPDR）僅有少量微血管瘤（microaneurysms），是最早期的病變，與題目圖片所示不符。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -199,7 +199,7 @@
       "D": "若合併不規則散光，可配戴硬式隱形眼鏡矯正"
     },
     "answer": "A",
-    "explanation": "近視的種類分為真性近視（true myopia）與假性近視（pseudomyopia），兩者的治療方式不同，其中縮瞳劑與睫狀肌調節的關係是本題考點。",
+    "explanation": "近視的種類分為真性近視（true myopia）與假性近視（pseudomyopia），兩者的治療方式不同，其中縮瞳劑與睫狀肌調節的關係是本題考點。<br>(A) 錯誤，假性近視（pseudomyopia）是因睫狀肌過度收縮（accommodation spasm）所致，治療應使用睫狀肌麻痺劑（cycloplegic agents，如cyclopentolate）以放鬆睫狀肌，而非縮瞳劑（miotics，如pilocarpine）；縮瞳劑反而會促進睫狀肌收縮，加重假性近視。<br>(B) 正確，配戴適當度數眼鏡（spectacles）以凹透鏡（concave lens）矯正光線聚焦，是矯正真性近視最基本、最安全的方法，適用於各年齡層。<br>(C) 正確，近視雷射手術（如LASIK、PRK、SMILE）透過改變角膜曲率來永久矯正近視，是安全有效的手術選擇，適合角膜條件符合且度數穩定的成年近視患者。<br>(D) 正確，不規則散光（irregular astigmatism）因角膜表面不規則，一般軟式隱形眼鏡或框架眼鏡無法完全矯正；硬式透氣性隱形眼鏡（rigid gas-permeable contact lens，RGP）透過鏡片與角膜之間的淚液膜填補不規則角膜表面，能有效矯正不規則散光。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -216,7 +216,7 @@
       "D": "長期配戴隱形眼鏡"
     },
     "answer": "B",
-    "explanation": "角膜緣幹細胞缺乏症（LSCD）的病因分為先天性與後天性，後天性多為外傷性或炎症性破壞，需與造成乾眼症（dry eye）的疾病作區別。",
+    "explanation": "角膜緣幹細胞缺乏症（limbal stem cell deficiency，LSCD）的病因分為先天性與後天性，後天性多為外傷性或炎症性破壞，需與造成乾眼症（dry eye）的疾病作區別。<br>(A) 正確，化學藥物灼傷（chemical injury），尤其是鹼性灼傷（alkali burn），是後天性LSCD最重要的病因之一；強鹼可穿透角膜直接破壞角膜緣幹細胞（limbal stem cells），造成不可逆的幹細胞缺乏。<br>(B) 錯誤，謝格連氏症候群（Sjögren syndrome）主要因自體免疫攻擊淚腺（lacrimal gland）造成淚液分泌減少，導致乾眼症（dry eye syndrome），並非直接破壞角膜緣幹細胞的疾病，不是LSCD的典型病因。<br>(C) 正確，史蒂芬斯-強森症候群（Stevens-Johnson syndrome，SJS）是嚴重的黏膜皮膚反應，可造成結膜廣泛瘢痕化（conjunctival scarring），進而破壞角膜緣微環境及幹細胞，是LSCD的重要後天性病因。<br>(D) 正確，長期配戴隱形眼鏡（尤其是不透氣或長時間配戴）可造成角膜缺氧及機械性損傷，長期累積可能導致角膜緣幹細胞功能逐漸受損，是後天性LSCD的病因之一。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -233,7 +233,7 @@
       "D": "睫狀體（ciliary body）"
     },
     "answer": "D",
-    "explanation": "隅角閉鎖性青光眼（angle-closure glaucoma）的核心病理為虹膜（iris）向前推移，遮蔽房角（anterior chamber angle），使房水（aqueous humor）排出受阻，因此最深層的房角結構會被遮蔽而無法看見。",
+    "explanation": "隅角閉鎖性青光眼（angle-closure glaucoma）的核心病理為虹膜（iris）向前推移，遮蔽房角（anterior chamber angle），使房水（aqueous humor）排出受阻，因此最深層的房角結構會被遮蔽而無法看見。<br>房角結構由前到後依序為：施瓦布線（Schwalbe line）→ 小樑網（trabecular meshwork）→ 鞏膜嵴（scleral spur）→ 睫狀體帶（ciliary body band）→ 睫狀體（ciliary body，最深層）<br>(A) 錯誤，施瓦布線（Schwalbe line）位於房角最前端（最淺處），即角膜後彈力膜（Descemet's membrane）末端，在隅角閉鎖性青光眼中，即使周邊虹膜前移，施瓦布線仍位於最前方，不一定會被完全遮蔽。<br>(B) 錯誤，小樑網（trabecular meshwork）位於施瓦布線後方，在輕度隅角閉鎖或間歇性閉角時可能仍部分可見，不是「一定不會出現」的結構。<br>(C) 錯誤，周邊前沾黏（peripheral anterior synechiae，PAS）是隅角閉鎖性青光眼反覆發作後虹膜與小樑網或角膜後壁沾黏形成的特徵性表現，在隅角鏡檢中反而可見到。<br>(D) 正確，睫狀體（ciliary body）位於房角最深層（最後方），在隅角閉鎖性青光眼中虹膜前移遮蔽整個房角，最深處的睫狀體帶及睫狀體「一定不會出現」在隅角鏡檢中，是本題的正確答案。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -250,7 +250,7 @@
       "D": "房水排出後，最後會由淋巴系統回收"
     },
     "answer": "D",
-    "explanation": "房水（aqueous humor）的循環路徑及最終回收方式是本題考點，需了解房水由睫狀體產生後的完整流向。",
+    "explanation": "房水（aqueous humor）的循環路徑及最終回收方式是本題考點，需了解房水由睫狀體產生後的完整流向。<br>房水循環路徑：睫狀突（ciliary processes）產生→後房（posterior chamber）→瞳孔→前房（anterior chamber）→前房角小樑網（trabecular meshwork）→Schlemm管→集液管（collector channels）→表層鞏膜靜脈叢（episcleral venous plexus）→靜脈循環<br>(A) 正確，房水成分與血漿相似但有特定差異：維生素C（ascorbic acid）濃度比血漿高約10-50倍；蛋白質濃度極低（約血漿的1/200），以維持眼內的光學透明性。<br>(B) 正確，房水由睫狀體產生後流入後房，再經瞳孔邊緣進入前房，最後至前房角排出，此為標準的房水流動路徑。<br>(C) 正確，睫狀肌（ciliary muscle）的收縮可改變小樑網（trabecular meshwork）的結構與拉力，增加房水排出的流暢度，此為縮瞳劑（如pilocarpine）降眼壓機轉的一部分。<br>(D) 錯誤，房水排出後最終進入靜脈系統（venous system）：由Schlemm管→集液管→表層鞏膜靜脈叢→靜脈循環，而非淋巴系統（lymphatic system）；眼球內不存在淋巴管，房水回收依賴靜脈途徑。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -267,7 +267,7 @@
       "D": "眼窩尖端症候群（orbital apex syndrome）"
     },
     "answer": "B",
-    "explanation": "複視（diplopia）與眼球突出（proptosis）同時出現，代表眼眶內有佔位病變或眼外肌受累，需區分何種疾病不造成眼球突出。",
+    "explanation": "複視（diplopia）與眼球突出（proptosis）同時出現，代表眼眶內有佔位病變或眼外肌受累，需區分何種疾病不造成眼球突出。<br>(A) 錯誤，急性眼窩外傷性血腫（acute orbital traumatic hematoma）因血液積聚於眼窩內，可造成眼窩內壓升高引起眼球突出（proptosis），並壓迫或直接傷害眼外肌造成複視（diplopia），兩者可同時出現。<br>(B) 正確，重症肌無力（myasthenia gravis，MG）影響神經肌肉接合處（neuromuscular junction），眼外肌受累可造成複視（diplopia）及眼瞼下垂（ptosis），但肌肉本身沒有增生或眼窩佔位效應，因此不會造成眼球突出（proptosis），是本題「不會同時出現複視與眼球突出」的正確答案。<br>(C) 錯誤，甲狀腺相關眼疾（thyroid-associated ophthalmopathy，TAO）可造成眼外肌（尤其是下直肌及內直肌）肥厚腫脹引起複視；同時眼窩脂肪及肌肉體積增加造成眼球突出，兩者常同時存在。<br>(D) 錯誤，眼窩尖端症候群（orbital apex syndrome）因病變壓迫眼窩尖端的神經血管，可同時造成眼球運動障礙（第III、IV、VI腦神經麻痺）引起複視，以及眼窩佔位效應引起眼球突出。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -284,7 +284,7 @@
       "D": "大腸癌"
     },
     "answer": "B",
-    "explanation": "脈絡膜轉移瘤（choroidal metastasis）是成人最常見的眼內惡性腫瘤，其原發癌別依性別有所不同，男女最常見的原發部位不同是本題考點。",
+    "explanation": "脈絡膜轉移瘤（choroidal metastasis）是成人最常見的眼內惡性腫瘤，其原發癌別依性別有所不同，男女最常見的原發部位不同是本題考點。<br>(A) 錯誤，肝癌（hepatocellular carcinoma）轉移至眼部（脈絡膜）極為罕見，即使在亞洲地區肝癌盛行率較高的地區也不是最常見的原因，故不是成人男性脈絡膜轉移瘤的主要原發來源。<br>(B) 正確，在成人男性中，脈絡膜轉移瘤最常見的原發來源為肺癌（lung cancer），約佔40-50%；肺癌因其高度的血行轉移能力，是男性眼內轉移最主要的原發癌別（女性則以乳癌breast cancer為最常見的原發來源）。<br>(C) 錯誤，胰臟癌（pancreatic cancer）偶有眼部轉移的報告，但發生率相對低，不是成人男性脈絡膜轉移瘤的主要原發來源。<br>(D) 錯誤，大腸癌（colorectal cancer）偶可轉移至脈絡膜，但遠不如肺癌常見，在成人男性中亦非主要原發癌別。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -301,7 +301,7 @@
       "D": "在一歲前進行淚管通條疏通未打開的淚管瓣膜"
     },
     "answer": "C",
-    "explanation": "先天性鼻淚管阻塞（congenital nasolacrimal duct obstruction）是嬰兒最常見的淚道疾病，多數可自然緩解，治療應採循序漸進的保守策略。",
+    "explanation": "先天性鼻淚管阻塞（congenital nasolacrimal duct obstruction）是嬰兒最常見的淚道疾病，多數可自然緩解，治療應採循序漸進的保守策略。<br>(A) 正確，週歲前嬰兒出現溢淚（epiphora）合併黃色黏稠分泌物積於內眥，最常見的診斷為先天性鼻淚管阻塞，通常因Hasner瓣膜（valve of Hasner）出生後未完全開放所致，發生率約6-20%。<br>(B) 正確，Crigler按摩（淚囊按摩）是保守治療的重要部分：家長以指尖在鼻根內眥下方向下加壓按摩淚囊，增加淚囊內靜水壓，有助於衝開Hasner瓣膜使淚管開通，建議每天2-3次，每次約10下。<br>(C) 錯誤，先天性鼻淚管阻塞約90%以上在一歲以內會自然緩解（spontaneous resolution），不需立即手術；正確處置應先採保守治療（定期按摩＋局部抗生素眼藥水），若滿一歲仍未改善，再考慮進行淚管探通術（lacrimal probing），絕非「必須立即進行鼻淚管手術」。<br>(D) 正確，若保守治療至一歲仍未緩解，才建議進行淚管探通術（lacrimal probing）：以探針疏通鼻淚管，打開Hasner瓣膜，一歲前進行的成功率約80-95%，是安全且有效的標準處置。",
     "tags": [
       "112-1-6(六)",
       "眼科"
@@ -318,7 +318,7 @@
       "D": "下前庭神經位於內聽道之前下方"
     },
     "answer": "A",
-    "explanation": "內聽道（internal auditory canal，IAC）內的神經排列位置是重要的解剖考點，可用「七前八後」等記憶法輔助。",
+    "explanation": "內聽道（internal auditory canal，IAC）內的神經排列位置是重要的解剖考點，可用「七前八後」等記憶法輔助。<br>內聽道四象限神經排列（Bill's bar分隔前後；橫嵴transverse crest分隔上下）：前上：面神經（第VII腦神經）；前下：耳蝸神經（cochlear nerve）；後上：前庭上神經（superior vestibular nerve）；後下：前庭下神經（inferior vestibular nerve）<br>(A) 正確，面神經（第VII腦神經）位於內聽道的前上方（anterosuperior compartment），可用「七前八後」記憶：第七（面神經）在前，第八（前庭耳蝸神經）在後。<br>(B) 錯誤，內聽道內通過兩條腦神經：第VII腦神經（面神經）及第VIII腦神經（前庭耳蝸神經）；後者再分為耳蝸神經及前庭上、下神經，共四條神經束，但屬於兩條腦神經，非三條。<br>(C) 錯誤，聽神經（耳蝸神經，cochlear nerve）位於內聽道的前下方（anteroinferior compartment），而非後下方；後下方是前庭下神經的位置。<br>(D) 錯誤，下前庭神經（inferior vestibular nerve）位於內聽道的後下方（posteroinferior compartment），而非前下方；前下方是耳蝸神經的位置。",
     "tags": [
       "112-1-6(六)",
       "耳鼻喉科"
@@ -335,7 +335,7 @@
       "D": "將修補的耳膜放在stapes footplate上"
     },
     "answer": "A",
-    "explanation": "鼓室成型術（tympanoplasty）依聽小骨鏈（ossicular chain）的處理方式分為五型（Wullstein分類），各型的定義是本題考點。",
+    "explanation": "鼓室成型術（tympanoplasty）依聽小骨鏈（ossicular chain）的處理方式分為五型（Wullstein分類），各型的定義是本題考點。<br>Wullstein分類：Type I（myringoplasty）僅修補耳膜；Type II 修補耳膜放在incus上；Type III 修補耳膜放在stapes頭部；Type IV 修補耳膜放在stapes footplate上；Type V 含開窗術。<br>(A) 正確，第一型鼓室成型術（Type I，又稱鼓膜修補術myringoplasty）的定義是：僅修補耳膜缺損（tympanic membrane perforation），不改變聽小骨鏈（ossicular chain）的完整性，適用於聽小骨鏈完整但耳膜有穿孔的病例。<br>(B) 錯誤，將修補耳膜放在incus（砧骨）上是第二型（Type II）鼓室成型術的定義，適用於錘骨（malleus）缺失但砧骨仍存在的情況。<br>(C) 錯誤，將修補耳膜放在stapes（鐙骨）頭部是第三型（Type III）鼓室成型術的定義，適用於砧骨和錘骨均缺失但鐙骨存在的情況。<br>(D) 錯誤，將修補耳膜放在stapes footplate（鐙骨底板）上是第四型（Type IV）鼓室成型術的定義，適用於只剩鐙骨底板的情況。",
     "tags": [
       "112-1-6(六)",
       "耳鼻喉科"

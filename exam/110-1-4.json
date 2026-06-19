@@ -174,7 +174,7 @@
   },
   {
     "id": 1101411,
-    "question": "11. 下列何項不是逐步式鑑別診斷（Setpwise diagnostic approach）兒童慢性腹瀉（Chronic diarrhea）的建議 ？",
+    "question": "11. 下列何項不是逐步式鑑別診斷（Stepwise diagnostic approach）兒童慢性腹瀉（Chronic diarrhea）的建議？",
     "options": {
       "A": "感染性檢查如糞便細菌培養需考慮",
       "B": "可安排前白蛋白（Prealbumin）檢驗",
@@ -1307,7 +1307,7 @@
       "A": "生理食鹽水一般以每公斤20 mL給與",
       "B": "輸血量一般以每公斤10 mL給與",
       "C": "失血量達到20%時，就會表現出低血壓",
-      "D": "可以骨內注射（intraosseus injection）給與輸液"
+      "D": "可以骨內注射（intraosseous injection）給與輸液"
     },
     "answer": "C",
     "explanation": "兒童即使失血超過 20%，早期仍可維持血壓。<br>(A) 正確，生理食鹽水 20 mL/kg。<br>(B) 正確，輸血 10 mL/kg。<br>(C) 錯誤，低血壓是晚期徵兆。<br>(D) 正確，骨內注射可給液。",

@@ -11,7 +11,11 @@
       "Bash(git -C /Users/simpson/Documents/medic_exam_stage2_simulator/medlic_exam_stage2_simulator diff exam/108-1-3.json)",
       "Bash(git -C /Users/simpson/Documents/medic_exam_stage2_simulator/medlic_exam_stage2_simulator diff exam/108-2-3.json)",
       "Bash(git -C /Users/simpson/Documents/medic_exam_stage2_simulator/medlic_exam_stage2_simulator diff exam/110-1-3.json)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "PowerShell($content = Get-Content \"d:\\\\文件\\\\後醫系\\\\二階國考\\\\考古題\\\\git\\\\medlic_exam_stage2_simulator\\\\exam\\\\111-1-4.json\" -Encoding UTF8 -Raw; $lines = $content -split \"`n\"; $lineNum = 0; foreach \\($line in $lines\\) { $lineNum++; if \\($line -match '\"question\"|\"[A-D]\":'\\) { if \\($line -match '[一-鿿] [一-鿿]'\\) { Write-Output \"${lineNum}: $line\" } } })",
+      "PowerShell($content = Get-Content \"d:\\\\文件\\\\後醫系\\\\二階國考\\\\考古題\\\\git\\\\medlic_exam_stage2_simulator\\\\exam\\\\111-1-5.json\" -Encoding UTF8 -Raw; $lines = $content -split \"`n\"; $lineNum = 0; foreach \\($line in $lines\\) { $lineNum++; if \\($line -match '\"question\"|\"[A-D]\":'\\) { if \\($line -match '[一-鿿] [一-鿿]'\\) { Write-Output \"${lineNum}: $\\($line.Substring\\(0, [Math]::Min\\(150, $line.Length\\)\\)\\)\" } } })",
+      "PowerShell($content = Get-Content \"d:\\\\文件\\\\後醫系\\\\二階國考\\\\考古題\\\\git\\\\medlic_exam_stage2_simulator\\\\exam\\\\111-1-5.json\" -Encoding UTF8 -Raw; $lines = $content -split \"`n\"; $lineNum = 0; foreach \\($line in $lines\\) { $lineNum++; if \\($line -match '\"question\"|\"[A-D]\":'\\) { if \\($line -match '[一-鿿] [一-鿿]'\\) { Write-Output \"${lineNum}: $\\($line.Substring\\(0, [Math]::Min\\(120, $line.Length\\)\\)\\)\" } } })",
+      "PowerShell($content = Get-Content \"d:\\\\文件\\\\後醫系\\\\二階國考\\\\考古題\\\\git\\\\medlic_exam_stage2_simulator\\\\exam\\\\111-1-4.json\" -Encoding UTF8 -Raw; $lines = $content -split \"`n\"; $lineNum = 0; foreach \\($line in $lines\\) { $lineNum++; if \\($line -match '\"question\"|\"[A-D]\":'\\) { if \\($line -match '[一-鿿] [一-鿿]'\\) { Write-Output \"${lineNum}: $\\($line.Substring\\(0, [Math]::Min\\(120, $line.Length\\)\\)\\)\" } } })"
     ]
   }
 }

@@ -1177,8 +1177,8 @@
     "question": "69. 有關認知障礙症（major neurocognitive disorder）之診斷條件，下列敘述何者錯誤？",
     "options": {
       "A": "其認知障礙包含六大範疇：複雜注意力、社交認知、語言功能、知覺－動作、學習記憶、執行功能",
-      "B": "診斷輕型認知障礙症（mild mild neurocognitive disorder disorder）之認知缺損須達干擾其日常活動獨立進行 之認知缺損須達干擾其日常活動獨立進行",
-      "C": "輕型認知障礙症（mild mild neurocognitive disorder disorder）之認知缺損非只出現於譫妄情境",
+      "B": "診斷輕型認知障礙症（mild neurocognitive disorder）之認知缺損須達干擾其日常活動獨立進行",
+      "C": "輕型認知障礙症（mild neurocognitive disorder）之認知缺損非只出現於譫妄情境",
       "D": "認知缺損無法以另一精神疾病作更好的解釋（例如：重鬱症、思覺失調症）"
     },
     "answer": "B",
@@ -1212,7 +1212,7 @@
     "options": {
       "A": "根據 DSM-5 診斷準則，ASD 的症狀分成三大範圍（domains），包括社交溝通障礙、侷限與重複行為和語言發展障礙",
       "B": "ASD 的症狀一般在四歲左右出現",
-      "C": "ASD 患者若智力功能正常，而且語言功能只有輕度障礙，則可能到兒童中期（middle middle childhood）才會被發現",
+      "C": "ASD 患者若智力功能正常，而且語言功能只有輕度障礙，則可能到兒童中期（middle childhood）才會被發現",
       "D": "符合 DSM-5 的 ASD 診斷準則的患者，有四分之三同時合併有輕度智能不足（mild intellectual disability）"
     },
     "answer": "C",
@@ -1242,10 +1242,10 @@
   },
   {
     "id": 1102473,
-    "question": "73. 具有下列何種特質的個案不適合接受心理分析 具有下列何種特質的個案不適合接受心理分析（psychoanalysis）治療？",
+    "question": "73. 具有下列何種特質的個案不適合接受心理分析（psychoanalysis）治療？",
     "options": {
       "A": "低動機（low motivation）",
-      "B": "建立關係的能力（ability ability to form a relationship relationship）",
+      "B": "建立關係的能力（ability to form a relationship）",
       "C": "洞察力（capacity for insight）",
       "D": "充分的自我強度（ego strength）"
     },
@@ -1259,12 +1259,12 @@
   },
   {
     "id": 1102474,
-    "question": "74. 32 歲女性患者有癲癇、心智遲緩的病史， ，接受電腦斷層檢查，2 張圖分別是未注射顯影劑的不同切面影像，下 張圖分別是未注射顯影劑的不同切面影像 列何者是最可能的診斷？",
+    "question": "74. 32 歲女性患者有癲癇、心智遲緩的病史，接受電腦斷層檢查，2 張圖分別是未注射顯影劑的不同切面影像，下列何者是最可能的診斷？",
     "options": {
       "A": "結節硬化症（tuberous sclerosis）",
-      "B": "神經纖維瘤第一型（neurofibromatosis neurofibromatosis type 11）",
-      "C": "神經纖維瘤第二型（neurofibromatosis neurofibromatosis type 22）",
-      "D": "馮希伯－林島氏症候群（von Hippel-Lindau Lindau syndrome syndrome）"
+      "B": "神經纖維瘤第一型（neurofibromatosis type 1）",
+      "C": "神經纖維瘤第二型（neurofibromatosis type 2）",
+      "D": "馮希伯－林島氏症候群（von Hippel-Lindau syndrome）"
     },
     "answer": "A",
     "explanation": "結節硬化症常見癲癇與智力障礙，影像可見腦室旁結節與鈣化。<br>(A) 正確。<br>(B) 錯誤，NF1 與皮膚 café-au-lait 有關。<br>(C) 錯誤，NF2 多見聽神經瘤。<br>(D) 錯誤，VHL 多見血管母細胞瘤。",
@@ -1280,10 +1280,10 @@
   },
   {
     "id": 1102475,
-    "question": "75. 41 歲女性患者，主訴近幾天有頭痛、噁心和嘔吐症狀 噁心和嘔吐症狀，接受電腦斷層檢查，圖 A 為未注射顯影劑的影像，圖 為未注射顯影劑的影像 B 則為注射顯影劑後的影像，在圖 B 箭頭所指的是 箭頭所指的是：",
+    "question": "75. 41 歲女性患者，主訴近幾天有頭痛、噁心和嘔吐症狀，接受電腦斷層檢查，圖 A 為未注射顯影劑的影像，圖 B 則為注射顯影劑後的影像，在圖 B 箭頭所指的是：",
     "options": {
       "A": "硬腦膜下血腫（subdural hematoma）",
-      "B": "蜘蛛網膜下腔出血（subarachnoid subarachnoid hemorrhage hemorrhage）",
+      "B": "蜘蛛網膜下腔出血（subarachnoid hemorrhage）",
       "C": "硬腦膜外血腫（epidural hematoma）",
       "D": "靜脈竇栓塞（venous sinus thrombosis）"
     },
@@ -1318,7 +1318,7 @@
   },
   {
     "id": 1102477,
-    "question": "77. 一位 6 歲兒童約重 20 kg，因車禍至急診， ，血壓量不到，在急救時應立即靜脈注射生理食鹽水 在急救時應立即靜脈注射生理食鹽水（0.9% NaCl）， 其劑量為：",
+    "question": "77. 一位 6 歲兒童約重 20 kg，因車禍至急診，血壓量不到，在急救時應立即靜脈注射生理食鹽水（0.9% NaCl），其劑量為：",
     "options": {
       "A": "10 mL/kg",
       "B": "15 mL/kg",
@@ -1335,7 +1335,7 @@
   },
   {
     "id": 1102478,
-    "question": "78. 有關急性肌張力不全症（acute dystonia）之敘述 之敘述，下列何者錯誤？",
+    "question": "78. 有關急性肌張力不全症（acute dystonia）之敘述，下列何者錯誤？",
     "options": {
       "A": "常見於 antipsychotic 治療之副作用",
       "B": "可以用 diphenhydramine 靜脈治療",

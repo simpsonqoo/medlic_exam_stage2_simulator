@@ -780,7 +780,7 @@
     "explanation": "HIV診斷需檢測病毒抗體、抗原或病毒核酸，使用特定的檢驗方法。<br>(A) 錯誤，ELISA test是HIV篩檢的標準方法，檢測血液中的HIV抗體（anti-HIV IgG/IgM）。第四代ELISA同時檢測抗體和p24抗原，可更早期診斷<br>(B) 錯誤，rapid HIV test是快速篩檢方法，可在15-30分鐘內得到結果，檢測HIV抗體，適用於門診、急診或資源有限地區<br>(C) 正確，Southern blot是分子生物學技術，用於檢測DNA片段，主要用於基因研究、DNA指紋鑑定等，不用於HIV診斷。HIV診斷使用的分子技術是PCR（檢測病毒RNA）<br>(D) 錯誤，Western blot是HIV確認試驗，當ELISA或rapid test陽性時，使用Western blot確認。它可檢測針對HIV特定蛋白質（如gp120, gp41, p24等）的抗體",
     "tags": [
       "110-2-6",
-      "婦產科"
+      "感染科"
     ],
     "group_id": "group_11685"
   },
@@ -1027,7 +1027,7 @@
     "explanation": "骨質疏鬆藥物分為兩大類：抗骨質流失藥物（anti-resorptive）和促進骨形成藥物（anabolic）。<br>(A) 錯誤，雙磷酸鹽類（如alendronate, risedronate, zoledronic acid）是抗骨質流失藥物，抑制蝕骨細胞（osteoclast）活性，減少骨質吸收，但不促進新骨形成<br>(B) 錯誤，抑鈣激素（calcitonin）也是抗骨質流失藥物，抑制蝕骨細胞活性，降低骨質吸收速率，同時有止痛效果，但不促進骨合成<br>(C) 正確，副甲狀腺素衍生物（teriparatide, PTH 1-34）是目前唯一促進骨形成的藥物（anabolic agent）。間歇性使用可刺激造骨細胞（osteoblast）活性，促進新骨合成，增加骨密度。適用於嚴重骨質疏鬆或其他藥物治療失敗的病人，需每日皮下注射<br>(D) 錯誤，選擇性雌激素受體調節劑（SERM，如raloxifene）是抗骨質流失藥物，在骨骼作用類似雌激素，減少骨質吸收，但不促進骨合成",
     "tags": [
       "110-2-6",
-      "復健科"
+      "骨科"
     ],
     "group_id": "group_11699"
   },
@@ -1294,7 +1294,7 @@
     "explanation": "此題考周邊神經病變（peripheral neuropathy）與中樞神經病變（central nervous system lesion）的鑑別，需掌握兩者的典型症狀差異。<br>(A) 正確，周邊神經麻痺的特點包含無力合併感覺異常（如疼痛、麻木、刺痛），周邊神經同時含有運動與感覺纖維，因此損傷常同時出現運動與感覺症狀<br>(B) 錯誤，臉部半邊下垂若為同側上下半臉均下垂，為周邊性顏面神經麻痺（Bell's palsy）；但若僅下半臉下垂、上半臉保留，則為中樞性病變（如腦中風）；此描述過於模糊，且無力伴隨疼痛更具周邊神經特異性<br>(C) 錯誤，神經反射過度反射（hyperreflexia）是中樞神經病變（upper motor neuron lesion）的典型表現，周邊神經麻痺應表現為反射減弱（hyporeflexia）或消失<br>(D) 錯誤，無力突然發生更常見於中樞神經病變（如腦中風），周邊神經麻痺通常呈漸進性發展",
     "tags": [
       "110-2-6",
-      "復健科"
+      "復健內科"
     ],
     "group_id": "group_11714"
   },

@@ -173,7 +173,7 @@
     "id": 1101511,
     "question": "11. 依據Mathes and Nahai對肌肉皮瓣（muscle flaps）血管供應做分類，下列那一型較少用來做顯微組織移植的肌肉皮瓣？",
     "options": {
-      "A": "第一",
+      "A": "第一型",
       "B": "第二型",
       "C": "第三型",
       "D": "第四型"
@@ -933,7 +933,7 @@
       "D": "腫瘤大小"
     },
     "answer": "B",
-    "explanation": "甲狀腺癌（thyroid cancer）的TNM分期系統有其特殊性，年齡是重要的分期因子，需辨別哪些因素影響分期、哪些不影響。<br>(A) 錯誤，年齡（age）在甲狀腺分化癌的TNM分期中是關鍵因子，以55歲為切割點（2017年第八版AJCC更新為55歲）：55歲以下即使有轉移也僅為Stage II，55歲以上才有Stage III和IV的分類<br>(B) 正確\\，性別（sex）並不是甲狀腺癌TNM分期的考量因素，分期系統中沒有依性別調整的項目<br>(C) 錯誤，腫瘤侵犯甲狀腺旁肌肉（strap muscles）屬於腫瘤的T分期範疇（T3b：侵犯甲狀腺外周軟組織），直接影響T stage<br>(D) 錯誤，腫瘤大小（tumor size）是T分期的主要依據：T1（≤2 cm）、T2（2～4 cm）、T3a（>4 cm且限於甲狀腺內），腫瘤大小直接決定T stage",
+    "explanation": "甲狀腺癌（thyroid cancer）的TNM分期系統有其特殊性，年齡是重要的分期因子，需辨別哪些因素影響分期、哪些不影響。<br>(A) 錯誤，年齡（age）在甲狀腺分化癌的TNM分期中是關鍵因子，以55歲為切割點（2017年第八版AJCC更新為55歲）：55歲以下即使有轉移也僅為Stage II，55歲以上才有Stage III和IV的分類<br>(B) 正確，性別（sex）並不是甲狀腺癌TNM分期的考量因素，分期系統中沒有依性別調整的項目<br>(C) 錯誤，腫瘤侵犯甲狀腺旁肌肉（strap muscles）屬於腫瘤的T分期範疇（T3b：侵犯甲狀腺外周軟組織），直接影響T stage<br>(D) 錯誤，腫瘤大小（tumor size）是T分期的主要依據：T1（≤2 cm）、T2（2～4 cm）、T3a（>4 cm且限於甲狀腺內），腫瘤大小直接決定T stage",
     "tags": [
       "110-1-5",
       "內分泌外科"
@@ -1214,7 +1214,7 @@
   },
   {
     "id": 1101572,
-    "question": "72 45歲女性病人接受年度健康檢查，發現左腎腫瘤，下圖為注射對比劑之腎臟電腦斷層攝影（computed tomography of kidneys），最可能之診斷為何？",
+    "question": "72. 45歲女性病人接受年度健康檢查，發現左腎腫瘤，下圖為注射對比劑之腎臟電腦斷層攝影（computed tomography of kidneys），最可能之診斷為何？",
     "options": {
       "A": "renal cell carcinoma",
       "B": "renal lymphoma",
@@ -1234,7 +1234,7 @@
   },
   {
     "id": 1101573,
-    "question": "73 50歲男性至急診就醫，主訴突發性胸痛持續逾半小時，胸部電腦斷層影像如附圖，正確診斷為：",
+    "question": "73. 50歲男性至急診就醫，主訴突發性胸痛持續逾半小時，胸部電腦斷層影像如附圖，正確診斷為：",
     "options": {
       "A": "Stanford A型主動脈內皮血腫（Stanford Type A intramural hematoma）",
       "B": "Stanford B型主動脈內皮血腫（Stanford Type B intramural hematoma）",
@@ -1254,7 +1254,7 @@
   },
   {
     "id": 1101574,
-    "question": "74 23歲男性無特殊病史，近二個月來，他覺得舉重物時右髖部附近會痛，附圖為X光攝影，最可能的診斷為何？",
+    "question": "74. 23歲男性無特殊病史，近二個月來，他覺得舉重物時右髖部附近會痛，附圖為X光攝影，最可能的診斷為何？",
     "options": {
       "A": "fibrous dysplasia",
       "B": "chondroblastoma",

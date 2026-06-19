@@ -52,7 +52,7 @@
   },
   {
     "id": 1132304,
-    "question": "4. 病人平躺時，將其脖子向前彎，觀察其髖部及膝蓋是否有自主性 屈曲（flexion）動作，此項身體診察欲測試的為何？",
+    "question": "4. 有一位75歲男性病患，因最近2日呈嗜睡狀態、進食明顯減少而就醫。病患罹患高血壓與糖尿病25年以上，並因末期腎病接受長期血液透析治療已10年。病人平躺時，將其脖子向前彎，觀察其髖部及膝蓋是否有自主性屈曲（flexion）動作，此項身體診察欲測試的為何？",
     "options": {
       "A": "Babinski's sign",
       "B": "Brudzinski's sign",
@@ -980,7 +980,7 @@
   },
   {
     "id": 1132358,
-    "question": "58. 下列檢查，那一項是診斷「疾病甲狀腺正能症（sick euthyroid syndrome）」最關鍵的指標？",
+    "question": "58. 下列檢查，哪一項是診斷「甲狀腺正能症（sick euthyroid syndrome）」最關鍵的指標？",
     "options": {
       "A": "三碘甲狀腺素（T3）",
       "B": "四碘甲狀腺素（T4）",
@@ -988,7 +988,7 @@
       "D": "甲狀腺超音波"
     },
     "answer": "C",
-    "explanation": "疾病甲狀腺正能症（sick euthyroid syndrome）是指非甲狀腺疾病所引起的甲狀腺功能異常表現，診斷關鍵在於逆位三碘甲狀腺素（reverse T3）的升高。<br>(A) 錯誤，三碘甲狀腺素（T3）在此症候群中通常下降，但並非最關鍵的診斷指標<br>(B) 錯誤，四碘甲狀腺素（T4）可能正常或下降，不是最關鍵的診斷指標<br>(C) 正確，逆位三碘甲狀腺素（reverse T3）升高是診斷疾病甲狀腺正能症最關鍵的指標<br>(D) 錯誤，甲狀腺超音波是評估甲狀腺結構的工具，對診斷此症候群幫助有限",
+    "explanation": "甲狀腺正能症（sick euthyroid syndrome）是指非甲狀腺疾病所引起的甲狀腺功能異常表現，診斷關鍵在於逆位三碘甲狀腺素（reverse T3）的升高。<br>(A) 錯誤，三碘甲狀腺素（T3）在此症候群中通常下降，但並非最關鍵的診斷指標<br>(B) 錯誤，四碘甲狀腺素（T4）可能正常或下降，不是最關鍵的診斷指標<br>(C) 正確，逆位三碘甲狀腺素（reverse T3）升高是診斷疾病甲狀腺正能症最關鍵的指標<br>(D) 錯誤，甲狀腺超音波是評估甲狀腺結構的工具，對診斷此症候群幫助有限",
     "tags": [
       "113-2-3(三)",
       "新陳代謝科"
@@ -1101,7 +1101,7 @@
     "id": 1132365,
     "question": "65. 引起社區型肺炎的菌種，常與特殊的旅遊史或接觸史有關，下列配對何者錯誤？",
     "options": {
-      "A": "Pseudomonas aeruginosa — structural lung disease",
+      "A": "structural lung disease — Pseudomonas aeruginosa",
       "B": "在發病前二週內住過旅館或郵輪 — Acinetobacter spp.",
       "C": "近期接觸過鳥 — Chlamydia psittaci",
       "D": "近期接觸過羊 — Coxiella burnetii"
