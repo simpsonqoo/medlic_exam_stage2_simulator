@@ -831,7 +831,7 @@
       "D": "為避免呼吸器相關肺炎，必須將病人頭部抬高至少60度，以避免產生吸入性肺炎"
     },
     "answer": "D",
-    "explanation": "此題考查預防呼吸器相關肺炎（ventilator-associated pneumonia, VAP）的措施。題目問「最不會增加」風險的處置。<br>(A) 錯誤，讓病人平躺會增加胃內容物逆流和誤吸風險，應抬高床頭30-45度<br>(B) 錯誤，麻醉藥物會抑制咳嗽反射和呼吸驅動力，增加VAP風險<br>(C) 錯誤，延長氣管內插管時間會增加VAP風險，應儘早拔管<br>(D) 正確，口服sucralfate用於預防壓力性潰瘍，比使用氫離子幫浦抑制劑更不會增加VAP風險",
+    "explanation": "這題的解題關鍵在於熟悉呼吸器相關肺炎（ventilator-associated pneumonia, VAP）的致病菌隨時間變化的趨勢，以及預防照護措施（VAP bundle）的標準規範。藉由釐清早發性與晚發性感染的常見細菌種類，並確認預防吸入性肺炎的正確床頭抬高角度，即可迅速找出不合理的臨床處置。<br>(A) 正確，早發性呼吸器相關肺炎（early-onset VAP）通常發生在住院或插管早期，致病菌多為非多重抗藥性（non-multidrug-resistant）的社區型細菌，如肺炎鏈球菌（Streptococcus pneumoniae）或嗜血桿菌（Haemophilus influenzae）。<br> (B) 正確，晚發性呼吸器相關肺炎（late-onset VAP）因患者長期處於醫療環境，致病菌極高機率為多重抗藥菌（multidrug-resistant pathogens），例如綠膿桿菌（Pseudomonas aeruginosa）或鮑氏不動桿菌（Acinetobacter baumannii）。<br> (C) 正確，氣管內管（endotracheal tube）的氣囊（cuff）充氣後雖能阻擋大量分泌物，但無法完全密合管壁，仍會發生帶菌分泌物的微量吸入（microaspiration），這正是引發此類肺炎的重要機制。<br> (D) 錯誤，為預防呼吸器相關肺炎，正確的做法是將病人床頭抬高（head of bed elevation）至30到45度即可；若抬高至至少60度不但角度過陡，容易造成病人往下滑動，還會大幅增加薦骨處承受剪力而引發壓瘡（pressure injury）的風險。",
     "tags": [
       "109-1-3",
       "胸腔內科"
