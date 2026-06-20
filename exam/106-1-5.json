@@ -52,7 +52,7 @@
   },
   {
     "id": 1061504,
-    "question": "4. 嚴重外傷病患呈現腹內大量出血及休克時，有時必須採用傷害控制手術（damage control surgery）於短時間內來控制出血及其 他搶救步驟，以挽救生命。否則會出現致死三元素（lethal triad）。下列何者不屬於lethal triad？",
+    "question": "4. 嚴重外傷病患呈現腹內大量出血及休克時，有時必須採用傷害控制手術（damage control surgery）於短時間內來控制出血及其他搶救步驟，以挽救生命。否則會出現致死三元素（lethal triad）。下列何者不屬於lethal triad？",
     "options": {
       "A": "凝血機能不全（coagulopathy）",
       "B": "代謝性酸中毒（metabolic acidosis）",
@@ -159,7 +159,7 @@
       "A": "C5－deltoid muscle",
       "B": "C6－triceps muscle",
       "C": "L3－quadriceps muscle",
-      "D": "S1－gastronemius muscle"
+      "D": "S1－gastrocnemius muscle"
     },
     "answer": "B",
     "explanation": "脊神經節段與對應肌肉的配對需熟記，上肢各主要肌肉群的神經支配節段是神經學檢查的基本功。<br>(A) 正確，三角肌（deltoid muscle）由第五頸神經（C5）透過腋神經（axillary nerve）支配<br>(B) 錯誤，肱三頭肌（triceps muscle）是由第七頸神經（C7）而非第六頸神經（C6）透過橈神經（radial nerve）支配；C6主要支配橈側伸腕肌（extensor carpi radialis）及旋後肌（supinator）<br>(C) 正確，股四頭肌（quadriceps muscle）由第三腰神經（L3）透過股神經（femoral nerve）支配<br>(D) 正確，腓腸肌（gastrocnemius muscle）由第一薦神經（S1）透過脛神經（tibial nerve）支配",
@@ -171,7 +171,7 @@
   },
   {
     "id": 1061511,
-    "question": "11. 一位68歲男性因跌倒送來急診，意識狀態模糊，對痛刺激眼睛會張開，且左手會撥開痛刺激，但不會出聲，頭部電腦斷層如下 圖所示，下列何者正確？phpLFyMMp.png",
+    "question": "11. 一位68歲男性因跌倒送來急診，意識狀態模糊，對痛刺激眼睛會張開，且左手會撥開痛刺激，但不會出聲，頭部電腦斷層如下圖所示，下列何者正確？",
     "options": {
       "A": "出血位置位於硬腦膜下",
       "B": "出血的來源多半為顱骨骨折造成腦膜動脈破裂而成",
@@ -276,7 +276,7 @@
   },
   {
     "id": 1061517,
-    "question": "17. 下圖為一個顏面部創傷來急診的病人，急診醫師安排臉部電腦斷層，顏面骨有骨折的狀況，其受傷的情形分類為：phpfjl89q.png",
+    "question": "17. 下圖為一個顏面部創傷來急診的病人，急診醫師安排臉部電腦斷層，顏面骨有骨折的狀況，其受傷的情形分類為：",
     "options": {
       "A": "右側Le Fort I + II，左側Le Fort III",
       "B": "右側Le Fort II + III，左側Le Fort I",
@@ -298,7 +298,7 @@
     "id": 1061518,
     "question": "18. 下列有關下頜骨骨折（mandibular fractures）的敘述，何者錯誤？",
     "options": {
-      "A": "下頜骨的組成包含下頜骨聯合（symphysis），下頜骨體（body）、下頜角（angle）、下頜枝（ramus）、下頜髁突 （condyle）和下頜骨喙突（coronoid process）",
+      "A": "下頜骨的組成包含下頜骨聯合（symphysis），下頜骨體（body）、下頜角（angle）、下頜枝（ramus）、下頜髁突（condyle）和下頜骨喙突（coronoid process）",
       "B": "下頜骨骨折可以依據上下頜齒列的關係，Angle classification system分類為Class I、 Class II 及Class III",
       "C": "上下頜齒列固定復位可用於無明顯位移、無齒列錯位及顳顎關節（temporo-mandibular joint）活動正常之情形",
       "D": "手術治療主要為骨折處和上下頜齒列固定復位， 固定時間越久越好，不會有顳顎關節僵硬的問題"
@@ -437,7 +437,7 @@
       "A": "一旦有症狀且合併嚴重主動脈瓣膜逆流，需要手術",
       "B": "無症狀但合併嚴重主動脈瓣膜逆流及左心室射出比率＜ 50%，需要手術",
       "C": "嚴重主動脈瓣膜逆流且合併三條冠狀動脈疾病，需要手術",
-      "D": "無症狀但合併主動脈瓣膜逆流、左心室射出比率＞ 50%及end-diastolic dimention ＜ 70 mm，需要手術"
+      "D": "無症狀但合併主動脈瓣膜逆流、左心室射出比率＞ 50%及end-diastolic dimension ＜ 70 mm，需要手術"
     },
     "answer": "D",
     "explanation": "主動脈瓣逆流（aortic regurgitation）的手術適應症需依症狀、左心室射出分率（left ventricular ejection fraction, LVEF）及左心室擴大程度（end-diastolic dimension）綜合判斷。<br>(A) 正確，有症狀且合併嚴重主動脈瓣逆流為明確手術適應症<br>(B) 正確，無症狀但LVEF小於50%代表左心室已開始功能惡化，需手術介入<br>(C) 正確，嚴重主動脈瓣逆流合併三條冠狀動脈病變，需同時進行瓣膜置換與冠狀動脈繞道手術（coronary artery bypass graft, CABG）<br>(D) 錯誤，無症狀且LVEF大於50%、end-diastolic dimension小於70 mm表示左心室功能及大小尚可接受，尚未達到手術門檻，應修正為：此類病人應持續追蹤觀察，手術適應症為end-diastolic dimension ≥ 70 mm或end-systolic dimension ≥ 50 mm",
@@ -572,7 +572,7 @@
     "options": {
       "A": "股疝氣（femoral hernia）及間接型腹股溝疝氣（indirect type inguinal hernia）都以右側為主",
       "B": "股疝氣最易造成腸子壞死（20%），故應在初次診斷時就接受手術治療",
-      "C": "切口疝氣（incisional hernia）都可以直接縫合（primary closure），即使疝氣洞口大於5公分也不需要使用人工網膜 （prosthetic material）來縫合",
+      "C": "切口疝氣（incisional hernia）都可以直接縫合（primary closure），即使疝氣洞口大於5公分也不需要使用人工網膜（prosthetic material）來縫合",
       "D": "肥胖及腹部手術術後傷口感染都能造成切口疝氣（incisional hernia）的發生率增加"
     },
     "answer": "C",
@@ -1015,7 +1015,7 @@
       "A": "最常好發於10歲以下幼童的長骨骨幹，很少侵犯到骨骺（epiphysis）",
       "B": "最常見的X光發現是一個成骨性（osteoblastic）之破壞性病灶，且常有明顯的骨膜反應（periosteal reaction）",
       "C": "最常用的治療方式是廣泛切除（wide excision）手術",
-      "D": "為避免局部復發（local recurrence），往往手術中需合併輔助器材，如高速磨鑽（high-speed burr）清除腫瘤或滑水泥填充 等"
+      "D": "為避免局部復發（local recurrence），往往手術中需合併輔助器材，如高速磨鑽（high-speed burr）清除腫瘤或滑水泥填充等"
     },
     "answer": "D",
     "explanation": "骨骼巨大細胞瘤（giant cell tumor of bone, GCT）的好發年齡、X光特徵及治療方式是解題關鍵。<br>(A) 錯誤，骨骼巨大細胞瘤好發於20至40歲的成年人，且幾乎都侵犯骨骺（epiphysis）及骨骺板（epiphyseal plate）閉合後的骨端，而非10歲以下幼童的骨幹。<br>(B) 錯誤，GCT的典型X光表現是溶骨性（osteolytic）破壞性病灶，呈皂泡狀（soap-bubble appearance），且通常沒有明顯的骨膜反應（periosteal reaction），並非成骨性（osteoblastic）。<br>(C) 錯誤，廣泛切除（wide excision）雖然是高惡性骨腫瘤的治療方式，但GCT的標準治療是刮除術（intralesional curettage）搭配輔助器材，而非廣泛切除（除非位置特殊或復發惡性轉化）。<br>(D) 正確，GCT刮除術後局部復發率（local recurrence rate）高達25–50%，因此術中需搭配輔助器材如高速磨鑽（high-speed burr）擴大清除腫瘤邊緣，或骨水泥（bone cement，polymethylmethacrylate, PMMA）填充，以降低復發率。",
@@ -1044,7 +1044,7 @@
   },
   {
     "id": 1061562,
-    "question": "62. 2歲男孩因右上肢活動受限，被父母帶來求診，右肘部的X光檢查結果如附圖，該男孩右上肢活動受限最嚴重的是下列何種動作？php2VOrKl.png",
+    "question": "62. 2歲男孩因右上肢活動受限，被父母帶來求診，右肘部的X光檢查結果如附圖，該男孩右上肢活動受限最嚴重的是下列何種動作？",
     "options": {
       "A": "前臂旋後（forearm supination）",
       "B": "上臂外旋（arm external rotation）",
@@ -1218,7 +1218,7 @@
   },
   {
     "id": 1061572,
-    "question": "72. 75歲男性，副甲狀腺素血液濃度上升，腹部X光檢查如附圖，其脊椎骨的變化為何？phpsNsCPO.png",
+    "question": "72. 75歲男性，副甲狀腺素血液濃度上升，腹部X光檢查如附圖，其脊椎骨的變化為何？",
     "options": {
       "A": "renal osteodystrophy",
       "B": "ankylosing spondylitis",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": 1061573,
-    "question": "73. 中年男性車禍傷患主訴上腹部劇痛，血壓呈現穩定狀態。電腦斷層檢查如附圖。箭頭所指之異常最可能是下列那一項初診斷？phpXaZK5B.png",
+    "question": "73. 中年男性車禍傷患主訴上腹部劇痛，血壓呈現穩定狀態。電腦斷層檢查如附圖。箭頭所指之異常最可能是下列那一項初診斷？",
     "options": {
       "A": "liver laceration",
       "B": "colon laceration",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": 1061574,
-    "question": "74. 27歲男性病人發生車禍造成右手疼痛，手部X光片如附圖，最正確的診斷為？php0E92vW.png",
+    "question": "74. 27歲男性病人發生車禍造成右手疼痛，手部X光片如附圖，最正確的診斷為？",
     "options": {
       "A": "mallet fracture",
       "B": "boxer's fracture",

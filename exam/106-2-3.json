@@ -631,7 +631,7 @@
       "A": "cyclosporine",
       "B": "leflunomide",
       "C": "rituximab",
-      "D": "mycofenolate mofetil"
+      "D": "mycophenolate mofetil"
     },
     "answer": "A",
     "explanation": "此題考查狼瘡腎炎的治療藥物選擇。環孢靈（cyclosporine）在腎功能不全時最不適用。<br>(A) 錯誤，環孢靈（cyclosporine）具腎毒性，在腎功能不足（creatinine 2.0 mg/dL）病人最不適用<br>(B) 正確但可使用，來氟米特（leflunomide）可用於狼瘡腎炎<br>(C) 正確但可使用，利妥昔單抗（rituximab）可用於狼瘡腎炎<br>(D) 正確但可使用，黴酚酸酯（mycophenolate mofetil）是狼瘡腎炎的常用藥物",
@@ -677,7 +677,7 @@
   },
   {
     "id": 1062340,
-    "question": "40. 一30歲男子因流鼻血4週求診。理學檢查顯示左邊submanibular angle有一firm、non-tender and fixed mass， 該腫塊沒有局部感染之徵候，在這個階段最適當的檢查為何？",
+    "question": "40. 一30歲男子因流鼻血4週求診。理學檢查顯示左邊submandibular angle有一firm、non-tender and fixed mass， 該腫塊沒有局部感染之徵候，在這個階段最適當的檢查為何？",
     "options": {
       "A": "淋巴結超音波",
       "B": "切除生檢（excisional biopsy）",
