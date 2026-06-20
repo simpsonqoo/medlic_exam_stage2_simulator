@@ -1193,6 +1193,68 @@
       z-index: 1;
     }
 
+    /* 視覺化 Tab 列 toggle 樣式 */
+    .vis-view-toggle {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding-bottom: 10px;
+      align-self: flex-end;
+    }
+
+    .vis-toggle-label {
+      font-size: 13px;
+      font-weight: 600;
+      color: #495057;
+      white-space: nowrap;
+    }
+
+    .vis-toggle-switch {
+      width: 52px;
+      height: 26px;
+      background-color: #adb5bd;
+      border-radius: 13px;
+      cursor: pointer;
+      position: relative;
+      transition: background-color 0.3s ease;
+      flex-shrink: 0;
+    }
+
+    .vis-toggle-switch.detailed {
+      background-color: #6f42c1;
+    }
+
+    .vis-toggle-thumb {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      background-color: white;
+      border-radius: 50%;
+      top: 3px;
+      left: 3px;
+      transition: left 0.3s ease;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .vis-toggle-switch.detailed .vis-toggle-thumb {
+      left: 29px;
+    }
+
+    /* 詳細模式選項字母顯示 */
+    .vis-chosen-letter {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      border: 1.5px solid currentColor;
+      font-size: 0.75em;
+      font-weight: 700;
+      line-height: 1;
+    }
+
     /* 各考科 section 的顯示控制 */
     .vis-exam-section {
       display: none;
@@ -2054,6 +2116,7 @@
     let hasLoadedProgress = false;  // 是否已載入記錄
     // 記錄檔更新相關變數
     let loadedFileName = '';  // 載入的檔案名稱
+    let visDetailedMode = false;  // 視覺化詳細模式
 
     // 載入答題記錄
     function loadUserProgress(file) {
@@ -2171,15 +2234,17 @@
         
         if (isBonusQuestion) {
           result = 1; // 送分題，有答就對
+        } else if (isAnswerCorrect(q.userAnswer, q.answer)) {
+          result = 1; // 正確=1
         } else {
-          result = isAnswerCorrect(q.userAnswer, q.answer) ? 1 : 0; // 正確=1, 錯誤=0
+          result = q.userAnswer || 0; // 錯誤=選項字母(如"A")，舊格式為0
         }
-        
+
         // 初始化該題目的記錄陣列（如果不存在）
         if (!userProgress[q.id]) {
           userProgress[q.id] = [];
         }
-        
+
         // 追加這次的答題結果到已存在的記錄陣列
         userProgress[q.id].push(result);
         recordedCount++;
@@ -2226,8 +2291,10 @@
           
           if (isBonusQuestion) {
             result = 1; // 送分題，有答就對
+          } else if (isAnswerCorrect(q.userAnswer, q.answer)) {
+            result = 1; // 正確=1
           } else {
-            result = isAnswerCorrect(q.userAnswer, q.answer) ? 1 : 0; // 正確=1, 錯誤=0
+            result = q.userAnswer || 0; // 錯誤=選項字母(如"A")，舊格式為0
           }
           
           currentTestProgress[q.id] = [result];
@@ -4100,6 +4167,20 @@
       });
     }
 
+    // 切換簡易/詳細模式
+    function toggleVisDetailMode() {
+      visDetailedMode = !visDetailedMode;
+      const toggle = document.getElementById('visToggleSwitch');
+      if (toggle) toggle.classList.toggle('detailed', visDetailedMode);
+      // 保留目前 tab
+      const currentTab = ['med3', 'med4', 'med5', 'med6'].find(key => {
+        const s = document.getElementById(`visSection-${key}`);
+        return s && s.classList.contains('active');
+      }) || 'med3';
+      processVisualizationData();
+      switchVisualTab(currentTab);
+    }
+
     // 生成視覺化顯示
     function generateVisualizationDisplay(parsedQuestions) {
       const container = document.getElementById('visualizationContent');
@@ -4169,14 +4250,18 @@
     // 生成題目行
     function generateVisualizationQuestionRow(questionNum, attempts) {
       let answerHistory = '';
-      
+
       if (attempts.length === 0) {
         answerHistory = '<span style="color: #dee2e6;">—</span>';
       } else {
         attempts.forEach(attempt => {
           if (attempt === 1) {
             answerHistory += '<span class="answer-symbol correct-symbol">✅</span>';
-          } else if (attempt === 0) {
+          } else if (visDetailedMode && typeof attempt === 'string') {
+            // 詳細模式：顯示實際選擇的選項字母
+            answerHistory += `<span class="answer-symbol incorrect-symbol vis-chosen-letter">${attempt}</span>`;
+          } else {
+            // 簡易模式或舊格式
             answerHistory += '<span class="answer-symbol incorrect-symbol">❌</span>';
           }
         });
@@ -4347,6 +4432,13 @@
         <button id="visTab4" class="vis-tab-btn" onclick="switchVisualTab('med4')">醫學(四)</button>
         <button id="visTab5" class="vis-tab-btn" onclick="switchVisualTab('med5')">醫學(五)</button>
         <button id="visTab6" class="vis-tab-btn" onclick="switchVisualTab('med6')">醫學(六)</button>
+        <div class="vis-view-toggle">
+          <span class="vis-toggle-label">簡易</span>
+          <div class="vis-toggle-switch" id="visToggleSwitch" onclick="toggleVisDetailMode()">
+            <div class="vis-toggle-thumb"></div>
+          </div>
+          <span class="vis-toggle-label">詳細</span>
+        </div>
       </div>
       <div class="visualization-body" id="visualizationBody">
         <div id="visualizationContent">
