@@ -1338,7 +1338,7 @@
       "D": "給予benzodiazepine治療"
     },
     "answer": "D",
-    "explanation": "癲癇持續狀態（status epilepticus）首選立即給予 benzodiazepine（如 Lorazepam），再合併長效抗癲癇藥（phenytoin）。若答案標示 D，應理解為「僅給 benzo 而無進一步處置」屬不適當。<br>(A) 正確，需維持呼吸道。<br>(B) 正確，需安排頭部影像。<br>(C) 正確，Phenytoin 是後續治療。<br>(D) 錯誤，單純給 benzo 而無進一步處理不適當。",
+    "explanation": "此病人發作已停止，目前處於發作後意識不清狀態（postictal state），並非持續發作中。此情況的重點在於維持生命徵象、找出病因及預防再發。<br>(A) 正確，維持呼吸道暢通為緊急處置的優先項目。<br>(B) 正確，安排頭部電腦斷層掃描可排除腦出血、腫瘤等器質性病因，為首次發作的必要評估。<br>(C) 正確，給予phenytoin負荷劑量可預防癲癇再發，適用於發作已停止的情況。<br>(D) 錯誤，Benzodiazepine主要適用於癲癇持續狀態（active seizure，即發作持續 ≥5分鐘或間歇多次發作間未恢復意識）；本案例發作已停止，此時給予benzodiazepine不僅缺乏適應症，還可能因其呼吸抑制作用加重意識不清病人的呼吸危險，為最不適當的處置。",
     "tags": [
       "108-2-4",
       "神經內科"

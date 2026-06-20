@@ -9,7 +9,7 @@
       "D": "hepatic sinusoidal obstruction syndrome"
     },
     "answer": "C",
-    "explanation": "此題考查腹水的鑑別診斷，關鍵是計算血清與腹水白蛋白差值（serum-ascites albumin gradient, SAAG）。SAAG = 3.0 - 1.2 = 1.8 g/dL（≥1.1），提示門靜脈高壓相關腹水。<br>(A) 正確，肝靜脈血栓形成（hepatic vein thrombosis）早期會造成門靜脈高壓，SAAG ≥ 1.1<br>(B) 正確，心臟衰竭（heart failure）造成肝臟鬱血，導致門靜脈高壓，SAAG ≥ 1.1<br>(C) 錯誤，肝硬化（liver cirrhosis）會造成門靜脈高壓，SAAG應 ≥ 1.1，此病人完全符合肝硬化的表現<br>(D) 正確，肝竇阻塞症候群（hepatic sinusoidal obstruction syndrome）會造成門靜脈高壓，SAAG ≥ 1.1",
+    "explanation": "此題考查腹水的鑑別診斷，關鍵是計算血清與腹水白蛋白差值（serum-ascites albumin gradient, SAAG）及腹水蛋白總量。SAAG = 3.0 - 1.2 = 1.8 g/dL（≥1.1），提示門靜脈高壓相關腹水；腹水蛋白總量 2.8 g/dL（偏高）。<br>(A) 正確，肝靜脈血栓形成（hepatic vein thrombosis，Budd-Chiari syndrome）早期會造成門靜脈高壓，SAAG ≥ 1.1，且因淋巴液回流受阻，腹水蛋白通常偏高（≥2.5 g/dL），符合此病人表現<br>(B) 正確，心臟衰竭（heart failure）造成肝臟鬱血，SAAG ≥ 1.1，腹水蛋白通常偏高（≥2.5 g/dL），符合此病人表現<br>(C) 錯誤，雖然肝硬化（liver cirrhosis）會造成門靜脈高壓（SAAG ≥ 1.1），但肝硬化因肝臟合成功能下降，腹水蛋白通常低（< 2.5 g/dL），而此病人腹水蛋白為 2.8 g/dL（偏高），不符合典型肝硬化腹水表現，故肝硬化最不可能，為本題答案<br>(D) 正確，肝竇阻塞症候群（hepatic sinusoidal obstruction syndrome）會造成門靜脈高壓，SAAG ≥ 1.1，腹水蛋白通常偏高，符合此病人表現",
     "tags": [
       "108-2-3",
       "肝膽內科"
@@ -712,7 +712,7 @@
       "D": "用肺癌檢體，進行EGFR mutation及ALK rearrangements檢測"
     },
     "answer": "D",
-    "explanation": "此題考查肺癌分期後的適當處置順序。在確定分期前應先進行基因檢測。<br>(A) 錯誤，在未確定病理診斷及分期前，不應直接進行放射治療<br>(B) 錯誤，化學治療應在確定診斷及分期後，並根據基因檢測結果選擇適當方案<br>(C) 錯誤，立體定位放射手術適用於已確診且不適合手術的早期肺癌，應在完整評估後才決定<br>(D) 正確，對於肺癌檢體，進行EGFR突變及ALK基因重組檢測是制定治療計畫的重要步驟",
+    "explanation": "此題考查晚期肺腺癌的處置優先順序。此病人已有支氣管切片確診為肺腺癌，合併兩側肺葉廣泛轉移及胸水，屬第四期不可切除病灶，應優先進行基因檢測以決定治療方向。<br>(A) 錯誤，此病人已有兩側肺葉廣泛轉移（第四期），屬不可切除病灶，不適合進行右下肺葉切除及縱膈腔淋巴腺廓清<br>(B) 錯誤，肋膜沾黏術（pleurodesis）僅能緩解胸水症狀，無法治療肺癌本身，單獨使用肋膜沾黏術並非適當的處置<br>(C) 錯誤，立體定位放射手術（stereotactic radiosurgery）適用於局限性早期肺癌或少數腦轉移病灶，此病人已有兩側廣泛轉移，不適合<br>(D) 正確，第四期非小細胞肺腺癌應優先進行EGFR突變及ALK基因重排（rearrangement）檢測，以決定是否適合標靶治療（如EGFR抑制劑、ALK抑制劑），為最適當的初步處置",
     "tags": [
       "108-2-3",
       "胸腔內科"

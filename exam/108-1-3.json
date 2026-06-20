@@ -1096,7 +1096,7 @@
       "D": "Klebsiella pneumoniae"
     },
     "answer": "D",
-    "explanation": "此題應該是詢問腦膜炎（meningitis）的可能致病菌（雖然題幹被截斷了）。<br>(A) 正確，單純皰疹病毒（herpes simplex virus）可引起病毒性腦膜腦炎<br>(B) 正確，結核分枝桿菌（Mycobacterium tuberculosis）可引起結核性腦膜炎<br>(C) 正確，新型隱球菌（Cryptococcus neoformans）是常見的黴菌性腦膜炎致病菌<br>(D) 錯誤，肺炎克雷伯氏菌（Klebsiella pneumoniae）較少引起社區型腦膜炎，多見於醫院感染或免疫低下患者",
+    "explanation": "此題考查以淋巴球為主的腦脊髓液（lymphocytic pleocytosis）型態下，最不可能的致病菌。CSF白血球以淋巴球為主（90%），蛋白質45 mg/dL正常或輕微升高，符合病毒性、結核性或黴菌性腦膜炎的表現，細菌性腦膜炎則通常呈中性球為主。<br>(A) 正確，單純皰疹病毒（herpes simplex virus）可引起病毒性腦膜腦炎，CSF呈淋巴球性增多，是可能致病菌<br>(B) 正確，結核分枝桿菌（Mycobacterium tuberculosis）可引起結核性腦膜炎，CSF呈淋巴球性增多，是可能致病菌<br>(C) 正確，新型隱球菌（Cryptococcus neoformans）是常見的黴菌性腦膜炎致病菌，CSF亦呈淋巴球性增多，是可能致病菌<br>(D) 錯誤，肺炎克雷伯氏菌（Klebsiella pneumoniae）引起細菌性腦膜炎通常呈中性球性細胞增多，且多見於院內感染或免疫低下患者，在此淋巴球為主的CSF表現下最不可能",
     "tags": [
       "108-1-3",
       "感染科"
