@@ -93,7 +93,7 @@
       "C": "medulloblastoma是孩童primary brain tumor最常見的種類",
       "D": "medulloblastoma可能隨著CSF轉移至中樞神經系統的其他位置"
     },
-    "answer": "B",
+    "answer": "B,C",
     "explanation": "原發性腦瘤的好發族群與分類需熟悉，ependymoma與medulloblastoma的好發年齡是本題鑑別重點。<br>(A) 正確，在膠質瘤（glioma）中，glioblastoma multiforme（GBM）屬WHO Grade 4，是惡性度最高者。<br>(B) 錯誤，ependymoma好發於兒童而非老年人，常見於第四腦室附近，是兒童常見的後顱窩腫瘤之一。<br>(C) 錯誤，兒童原發性腦瘤中最常見的是pilocytic astrocytoma，而非medulloblastoma；medulloblastoma雖是兒童常見惡性腦瘤，但並非所有原發性腦瘤中最常見的種類。<br>(D) 正確，medulloblastoma確實可沿腦脊髓液（cerebrospinal fluid, CSF）路徑播散至中樞神經系統其他位置，稱為leptomeningeal dissemination。",
     "tags": [
       "106-2-5",
@@ -182,8 +182,8 @@
       "C": "靠肌肉之血管（myocutaneous perforators）",
       "D": "只靠真皮之微血管（subdermal plexus）"
     },
-    "answer": "A",
-    "explanation": "軸式皮瓣的定義在於其有明確的直接皮膚血管供應，需區分不同皮瓣類型的血液來源。<br>(A) 正確，軸式皮瓣最主要的血液供應來自直接皮動脈及皮靜脈（cutaneous artery and vein），這是其與隨機型皮瓣（random pattern flap）最大的區別。<br>(B) 錯誤，僅靠組織液滲透供應營養並非任何一種皮瓣的正常血液循環機制，此選項不符合生理原則。<br>(C) 正確，部分軸式皮瓣（如穿通枝皮瓣，perforator flap）的血液供應確實來自肌肉血管的穿通枝（myocutaneous perforators），這也是軸式血循的一種形式。<br>(D) 錯誤，僅靠真皮微血管叢（subdermal plexus）供血的是隨機型皮瓣（random pattern flap），而非軸式皮瓣。",
+    "answer": "A,C",
+    "explanation": "軸式皮瓣的定義在於其有明確的直接皮膚血管供應，需區分不同皮瓣類型的血液來源。<br>(A) 正確，軸式皮瓣最主要的血液供應來自直接皮動脈及皮靜脈（cutaneous artery and vein），這是其與隨機型皮瓣（random pattern flap）最大的區別。<br>(B) 錯誤，僅靠組織液滲透供應營養並非任何一種皮瓣的正常血液循環機制，此選項不符合生理原則。<br>(C) 正確，部分軸式皮瓣（如穿通枝皮瓣，perforator flap）的血液供應確實來自肌肉血管的穿通枝（myocutaneous perforators），這也是軸式血循的一種形式。<br>(D) 錯誤，僅靠真皮微血管叢（subdermal plexus）供血的是隨機型皮瓣（random pattern flap），而非軸式皮瓣。<br>(D) 錯誤，僅靠真皮微血管叢（subdermal plexus）供血的是隨機型皮瓣（random pattern flap），而非軸式皮瓣。",
     "tags": [
       "106-2-5",
       "重建整形外科"
