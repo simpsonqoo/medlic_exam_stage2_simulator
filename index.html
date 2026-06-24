@@ -363,6 +363,89 @@
  color: white;
 }
 
+/* 錯題模式樣式 */
+.wrong-mode-bar {
+  margin-bottom: 8px;
+}
+
+.wrong-mode-toggle-btn {
+  padding: 7px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  border: 2px solid #dc3545;
+  border-radius: 6px;
+  background-color: #fff;
+  color: #dc3545;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.wrong-mode-toggle-btn:hover:not(:disabled) {
+  background-color: #fff0f0;
+}
+
+.wrong-mode-toggle-btn.active {
+  background-color: #dc3545;
+  color: white;
+}
+
+.wrong-mode-toggle-btn:disabled {
+  border-color: #ccc;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+.wrong-mode-panel {
+  background-color: #fff8f8;
+  border: 1px solid #f5c6cb;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.wrong-sub-btns {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.wrong-sub-btn {
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: bold;
+  border: 2px solid #fd7e14;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #fd7e14;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.wrong-sub-btn:hover {
+  background-color: #fff5ec;
+}
+
+.wrong-sub-btn.active {
+  background-color: #fd7e14;
+  color: white;
+}
+
+.wrong-count-section {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #444;
+  line-height: 1.8;
+}
+
+.wrong-count-section input[type="number"] {
+  width: 70px;
+  padding: 4px 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-left: 4px;
+}
+
 /* 產生題目按鈕樣式 */
 .generate-button {
  padding: 20px 40px;
@@ -1619,6 +1702,19 @@
       <!-- 醫學(三)大區塊 -->
       <div class="medicine-block" id="med3Block">
         <h2>醫學(三)</h2>
+        <div class="wrong-mode-bar">
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn3" onclick="toggleWrongMode(3)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+        </div>
+        <div class="wrong-mode-panel" id="wrongPanel3" style="display:none;">
+          <div class="wrong-sub-btns">
+            <button class="wrong-sub-btn" id="wrongEverBtn3" onclick="selectWrongSubMode(3, 'ever')">曾經答錯 (<span id="wrongEverCount3">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn3" onclick="selectWrongSubMode(3, 'last')">最近答錯 (<span id="wrongLastCount3">0</span>題)</button>
+          </div>
+          <div class="wrong-count-section" id="wrongCountSection3" style="display:none;">
+            <span id="wrongCountLabel3"></span>，共 <span id="wrongTotalCount3">0</span> 題<br>
+            作答題數：<input type="number" id="wrongCountInput3" min="1" value="0" oninput="validateWrongCount(3)">
+          </div>
+        </div>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
           <div class="checkbox-group">
@@ -1698,6 +1794,19 @@
       <!-- 醫學(四)大區塊 -->
       <div class="medicine-block" id="med4Block" style="display: none;">
         <h2>醫學(四)</h2>
+        <div class="wrong-mode-bar">
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn4" onclick="toggleWrongMode(4)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+        </div>
+        <div class="wrong-mode-panel" id="wrongPanel4" style="display:none;">
+          <div class="wrong-sub-btns">
+            <button class="wrong-sub-btn" id="wrongEverBtn4" onclick="selectWrongSubMode(4, 'ever')">曾經答錯 (<span id="wrongEverCount4">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn4" onclick="selectWrongSubMode(4, 'last')">最近答錯 (<span id="wrongLastCount4">0</span>題)</button>
+          </div>
+          <div class="wrong-count-section" id="wrongCountSection4" style="display:none;">
+            <span id="wrongCountLabel4"></span>，共 <span id="wrongTotalCount4">0</span> 題<br>
+            作答題數：<input type="number" id="wrongCountInput4" min="1" value="0" oninput="validateWrongCount(4)">
+          </div>
+        </div>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
           <div class="checkbox-group">
@@ -1756,6 +1865,19 @@
       <!-- 醫學(五)大區塊 -->
       <div class="medicine-block" id="med5Block" style="display: none;">
         <h2>醫學(五)</h2>
+        <div class="wrong-mode-bar">
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn5" onclick="toggleWrongMode(5)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+        </div>
+        <div class="wrong-mode-panel" id="wrongPanel5" style="display:none;">
+          <div class="wrong-sub-btns">
+            <button class="wrong-sub-btn" id="wrongEverBtn5" onclick="selectWrongSubMode(5, 'ever')">曾經答錯 (<span id="wrongEverCount5">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn5" onclick="selectWrongSubMode(5, 'last')">最近答錯 (<span id="wrongLastCount5">0</span>題)</button>
+          </div>
+          <div class="wrong-count-section" id="wrongCountSection5" style="display:none;">
+            <span id="wrongCountLabel5"></span>，共 <span id="wrongTotalCount5">0</span> 題<br>
+            作答題數：<input type="number" id="wrongCountInput5" min="1" value="0" oninput="validateWrongCount(5)">
+          </div>
+        </div>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
           <div class="checkbox-group">
@@ -1841,6 +1963,19 @@
       <!-- 醫學(六)大區塊 -->
       <div class="medicine-block" id="med6Block" style="display: none;">
         <h2>醫學(六)</h2>
+        <div class="wrong-mode-bar">
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn6" onclick="toggleWrongMode(6)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+        </div>
+        <div class="wrong-mode-panel" id="wrongPanel6" style="display:none;">
+          <div class="wrong-sub-btns">
+            <button class="wrong-sub-btn" id="wrongEverBtn6" onclick="selectWrongSubMode(6, 'ever')">曾經答錯 (<span id="wrongEverCount6">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn6" onclick="selectWrongSubMode(6, 'last')">最近答錯 (<span id="wrongLastCount6">0</span>題)</button>
+          </div>
+          <div class="wrong-count-section" id="wrongCountSection6" style="display:none;">
+            <span id="wrongCountLabel6"></span>，共 <span id="wrongTotalCount6">0</span> 題<br>
+            作答題數：<input type="number" id="wrongCountInput6" min="1" value="0" oninput="validateWrongCount(6)">
+          </div>
+        </div>
         <div class="medicine-block-content">
           <!-- 年份選擇 -->
           <div class="checkbox-group">
@@ -2186,8 +2321,9 @@
           // 更新視覺化按鈕狀態
           setTimeout(() => {
             updateVisualizationButtonState();
+            updateWrongModeToggleStates();
           }, 100);
-          
+
         } catch (error) {
           console.error("載入檔案錯誤:", error);
           updateRecordStatus('error', "檔案格式錯誤");
@@ -2884,13 +3020,120 @@
       }).join(' ');
     }
 
+    async function startWrongModeQuiz() {
+      const grade = wrongModeState.grade;
+      const subMode = wrongModeState.subMode;
+      const wrongIds = new Set(getWrongQuestionIds(grade, subMode));
+
+      if (wrongIds.size === 0) {
+        alert('沒有符合條件的錯題');
+        return;
+      }
+
+      const countInput = document.getElementById(`wrongCountInput${grade}`);
+      let requestedCount = parseInt(countInput.value) || wrongIds.size;
+      if (requestedCount < 1) requestedCount = 1;
+      if (requestedCount > wrongIds.size) requestedCount = wrongIds.size;
+
+      // 隱藏首頁記錄區域
+      const homepageSection = document.getElementById('homepageRecordSection');
+      if (homepageSection) homepageSection.style.display = 'none';
+
+      // 載入該年級所有年份題目
+      const gradeFiles = getAllYearFilesForGrade(grade);
+      let allLoadedQuestions = [];
+
+      for (const filename of gradeFiles) {
+        const filepath = `./exam/${filename}`;
+        try {
+          const response = await fetch(filepath);
+          if (!response.ok) continue;
+          const questionsData = await response.json();
+          const yearValue = filename.replace('.json', '');
+          const yearMatch = yearValue.match(/(\d{3}-\d)/);
+          const yearLabel = yearMatch ? yearMatch[1] : yearValue;
+          questionsData.forEach(q => {
+            if (!q.tags) q.tags = [];
+            q.tags.push(yearLabel);
+            if (q.group_id) q.group_id = `${yearValue}_${q.group_id}`;
+          });
+          allLoadedQuestions.push(...questionsData);
+        } catch (e) {
+          console.error(`載入 ${filepath} 失敗`, e);
+        }
+      }
+
+      // 篩選出錯題
+      const wrongQuestions = allLoadedQuestions.filter(q => wrongIds.has(q.id));
+
+      if (wrongQuestions.length === 0) {
+        alert('找不到錯題對應的題目（題庫可能未包含這些題目）');
+        return;
+      }
+
+      let finalQuiz;
+      if (wrongQuestions.length < requestedCount) {
+        const confirmUseAll = await customConfirm(`錯題數量不足！<br><br>您要求的題數：${requestedCount} 題<br>實際可用錯題：${wrongQuestions.length} 題<br><br>是否使用所有 ${wrongQuestions.length} 題進行測驗？`);
+        if (!confirmUseAll) return;
+        finalQuiz = groupQuestionsByGroupId(wrongQuestions, false);
+      } else {
+        finalQuiz = selectQuestionsByGroup(wrongQuestions, requestedCount);
+      }
+
+      const questionOrder = document.getElementById('questionOrder').value;
+      if (questionOrder === 'sequential') {
+        quiz = groupQuestionsByGroupId([...finalQuiz].sort((a, b) => a.id - b.id), true);
+      } else {
+        quiz = finalQuiz;
+      }
+
+      currentQuestion = 0;
+      correct = 0;
+
+      const mode = document.getElementById('mode').value;
+      isStepMode = mode === 'step';
+      const isBrowseMode = mode === 'browse';
+
+      document.getElementById('result').innerText = '';
+      document.getElementById('quiz').innerHTML = '';
+      document.getElementById('setupSection').classList.add('hidden');
+      document.getElementById('headerSection').classList.add('hidden');
+
+      if (isBrowseMode) {
+        showBrowseResults();
+      } else if (isStepMode) {
+        document.getElementById('progressInfo').classList.remove('hidden');
+        document.getElementById('stepControls').classList.remove('hidden');
+        document.getElementById('submitBtn').classList.add('hidden');
+        document.getElementById('totalQuestions').innerText = quiz.length;
+        canUseSpacebar = true;
+        showQuestion(currentQuestion);
+      } else {
+        document.getElementById('progressInfo').classList.add('hidden');
+        document.getElementById('stepControls').classList.add('hidden');
+        document.getElementById('submitBtn').classList.remove('hidden');
+        canUseSpacebar = false;
+        showAllQuestions();
+      }
+    }
+
     async function startQuiz() {
+  // 錯題模式優先處理
+  if (wrongModeState.grade !== null) {
+    if (wrongModeState.subMode === null) {
+      alert('錯題模式：請選擇「曾經答錯」或「最近答錯」');
+      return;
+    }
+    await startWrongModeQuiz();
+    return;
+  }
+
   // 隱藏首頁記錄區域
   const homepageSection = document.getElementById('homepageRecordSection');
   if (homepageSection) {
     homepageSection.style.display = 'none';
   }
-  
+
   const selectedYears = getSelectedValues('yearTag');
   
   // 分別獲取醫學(三)和醫學(四)的科目選擇
@@ -4317,9 +4560,10 @@
         }
         
         updateHomepageVisualizationButton();
+        updateWrongModeToggleStates();
       }, 200);
     }
-    
+
     // 更新首頁記錄狀態顯示
     function updateHomepageRecordStatus(type, message) {
       const statusElement = document.getElementById('homepageRecordStatus');
@@ -4363,10 +4607,123 @@
     
 
     
+    // ========== 錯題模式功能 ==========
+
+    let wrongModeState = {
+      grade: null,   // 3, 4, 5, or 6
+      subMode: null  // 'ever' or 'last'
+    };
+
+    function hasValidRecord() {
+      return homepageRecordState.hasLoaded ||
+        (userProgress && Object.keys(userProgress).filter(k => k !== 'metadata').length > 0);
+    }
+
+    function getWrongQuestionIds(grade, subMode) {
+      const wrongIds = [];
+      Object.keys(userProgress).forEach(key => {
+        if (key === 'metadata') return;
+        const id = parseInt(key);
+        const idStr = String(id);
+        if (idStr.length !== 7) return;
+        if (parseInt(idStr[4]) !== grade) return;
+        const records = userProgress[key];
+        if (!Array.isArray(records) || records.length === 0) return;
+        if (subMode === 'ever') {
+          if (records.some(r => r !== 1)) wrongIds.push(id);
+        } else {
+          if (records[records.length - 1] !== 1) wrongIds.push(id);
+        }
+      });
+      return wrongIds;
+    }
+
+    function updateWrongModeCounts(grade) {
+      const everCount = getWrongQuestionIds(grade, 'ever').length;
+      const lastCount = getWrongQuestionIds(grade, 'last').length;
+      document.getElementById(`wrongEverCount${grade}`).textContent = everCount;
+      document.getElementById(`wrongLastCount${grade}`).textContent = lastCount;
+    }
+
+    function updateWrongModeToggleStates() {
+      const hasRecord = hasValidRecord();
+      [3, 4, 5, 6].forEach(grade => {
+        const btn = document.getElementById(`wrongToggleBtn${grade}`);
+        if (!btn) return;
+        btn.disabled = !hasRecord;
+        btn.title = hasRecord ? '' : '請先於上方載入記錄檔';
+      });
+    }
+
+    function deactivateWrongMode() {
+      if (wrongModeState.grade === null) return;
+      const grade = wrongModeState.grade;
+      document.getElementById(`wrongPanel${grade}`).style.display = 'none';
+      document.getElementById(`wrongToggleBtn${grade}`).classList.remove('active');
+      document.getElementById(`wrongCountSection${grade}`).style.display = 'none';
+      document.getElementById(`wrongEverBtn${grade}`).classList.remove('active');
+      document.getElementById(`wrongLastBtn${grade}`).classList.remove('active');
+      const content = document.getElementById(`med${grade}Block`).querySelector('.medicine-block-content');
+      if (content) content.style.display = '';
+      wrongModeState.grade = null;
+      wrongModeState.subMode = null;
+    }
+
+    function toggleWrongMode(grade) {
+      if (!hasValidRecord()) return;
+      if (wrongModeState.grade === grade) {
+        deactivateWrongMode();
+      } else {
+        deactivateWrongMode();
+        wrongModeState.grade = grade;
+        wrongModeState.subMode = null;
+        updateWrongModeCounts(grade);
+        document.getElementById(`wrongPanel${grade}`).style.display = 'block';
+        document.getElementById(`wrongToggleBtn${grade}`).classList.add('active');
+        const content = document.getElementById(`med${grade}Block`).querySelector('.medicine-block-content');
+        if (content) content.style.display = 'none';
+      }
+    }
+
+    function selectWrongSubMode(grade, subMode) {
+      wrongModeState.subMode = subMode;
+      document.getElementById(`wrongEverBtn${grade}`).classList.toggle('active', subMode === 'ever');
+      document.getElementById(`wrongLastBtn${grade}`).classList.toggle('active', subMode === 'last');
+      const count = getWrongQuestionIds(grade, subMode).length;
+      const label = subMode === 'ever' ? '曾經答錯' : '最近答錯';
+      document.getElementById(`wrongCountLabel${grade}`).textContent = `已選：${label}`;
+      document.getElementById(`wrongTotalCount${grade}`).textContent = count;
+      const input = document.getElementById(`wrongCountInput${grade}`);
+      input.max = count;
+      input.value = count;
+      document.getElementById(`wrongCountSection${grade}`).style.display = 'block';
+    }
+
+    function validateWrongCount(grade) {
+      const count = getWrongQuestionIds(grade, wrongModeState.subMode).length;
+      const input = document.getElementById(`wrongCountInput${grade}`);
+      let val = parseInt(input.value);
+      if (isNaN(val) || val < 1) val = 1;
+      if (val > count) val = count;
+      input.value = val;
+    }
+
+    function getAllYearFilesForGrade(grade) {
+      const blockIdx = grade - 3;
+      const block = document.querySelectorAll('.medicine-block')[blockIdx];
+      const yearCheckboxes = block.querySelectorAll('.checkbox-group:first-child input[type="checkbox"]');
+      const files = [];
+      yearCheckboxes.forEach(cb => {
+        if (cb.value.includes(`-${grade}`)) files.push(`${cb.value}.json`);
+      });
+      return files;
+    }
+
     // ========== 醫學年級切換功能 ==========
-    
+
     // 切換醫學年級顯示
     function switchGrade(grade) {
+      deactivateWrongMode();
       const med3Block = document.getElementById('med3Block');
       const med4Block = document.getElementById('med4Block');
       const med5Block = document.getElementById('med5Block');
