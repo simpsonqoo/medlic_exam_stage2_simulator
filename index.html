@@ -430,6 +430,19 @@
   color: white;
 }
 
+.wrong-sub-btn:disabled {
+  border-color: #ccc;
+  color: #aaa;
+  cursor: not-allowed;
+  background-color: #fff;
+}
+
+.wrong-no-record {
+  color: #dc3545;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
 .wrong-count-section {
   margin-top: 10px;
   font-size: 14px;
@@ -1703,12 +1716,13 @@
       <div class="medicine-block" id="med3Block">
         <h2>醫學(三)</h2>
         <div class="wrong-mode-bar">
-          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn3" onclick="toggleWrongMode(3)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn3" onclick="toggleWrongMode(3)">錯題模式</button>
         </div>
         <div class="wrong-mode-panel" id="wrongPanel3" style="display:none;">
-          <div class="wrong-sub-btns">
-            <button class="wrong-sub-btn" id="wrongEverBtn3" onclick="selectWrongSubMode(3, 'ever')">曾經答錯 (<span id="wrongEverCount3">0</span>題)</button>
-            <button class="wrong-sub-btn" id="wrongLastBtn3" onclick="selectWrongSubMode(3, 'last')">最近答錯 (<span id="wrongLastCount3">0</span>題)</button>
+          <div class="wrong-no-record" id="wrongNoRecord3" style="display:none;">尚未載入記錄檔案</div>
+          <div class="wrong-sub-btns" id="wrongSubBtns3">
+            <button class="wrong-sub-btn" id="wrongEverBtn3" onclick="selectWrongSubMode(3, 'ever')" disabled>曾經答錯 (<span id="wrongEverCount3">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn3" onclick="selectWrongSubMode(3, 'last')" disabled>最近答錯 (<span id="wrongLastCount3">0</span>題)</button>
           </div>
           <div class="wrong-count-section" id="wrongCountSection3" style="display:none;">
             <span id="wrongCountLabel3"></span>，共 <span id="wrongTotalCount3">0</span> 題<br>
@@ -1795,12 +1809,13 @@
       <div class="medicine-block" id="med4Block" style="display: none;">
         <h2>醫學(四)</h2>
         <div class="wrong-mode-bar">
-          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn4" onclick="toggleWrongMode(4)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn4" onclick="toggleWrongMode(4)">錯題模式</button>
         </div>
         <div class="wrong-mode-panel" id="wrongPanel4" style="display:none;">
-          <div class="wrong-sub-btns">
-            <button class="wrong-sub-btn" id="wrongEverBtn4" onclick="selectWrongSubMode(4, 'ever')">曾經答錯 (<span id="wrongEverCount4">0</span>題)</button>
-            <button class="wrong-sub-btn" id="wrongLastBtn4" onclick="selectWrongSubMode(4, 'last')">最近答錯 (<span id="wrongLastCount4">0</span>題)</button>
+          <div class="wrong-no-record" id="wrongNoRecord4" style="display:none;">尚未載入記錄檔案</div>
+          <div class="wrong-sub-btns" id="wrongSubBtns4">
+            <button class="wrong-sub-btn" id="wrongEverBtn4" onclick="selectWrongSubMode(4, 'ever')" disabled>曾經答錯 (<span id="wrongEverCount4">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn4" onclick="selectWrongSubMode(4, 'last')" disabled>最近答錯 (<span id="wrongLastCount4">0</span>題)</button>
           </div>
           <div class="wrong-count-section" id="wrongCountSection4" style="display:none;">
             <span id="wrongCountLabel4"></span>，共 <span id="wrongTotalCount4">0</span> 題<br>
@@ -1866,12 +1881,13 @@
       <div class="medicine-block" id="med5Block" style="display: none;">
         <h2>醫學(五)</h2>
         <div class="wrong-mode-bar">
-          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn5" onclick="toggleWrongMode(5)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn5" onclick="toggleWrongMode(5)">錯題模式</button>
         </div>
         <div class="wrong-mode-panel" id="wrongPanel5" style="display:none;">
-          <div class="wrong-sub-btns">
-            <button class="wrong-sub-btn" id="wrongEverBtn5" onclick="selectWrongSubMode(5, 'ever')">曾經答錯 (<span id="wrongEverCount5">0</span>題)</button>
-            <button class="wrong-sub-btn" id="wrongLastBtn5" onclick="selectWrongSubMode(5, 'last')">最近答錯 (<span id="wrongLastCount5">0</span>題)</button>
+          <div class="wrong-no-record" id="wrongNoRecord5" style="display:none;">尚未載入記錄檔案</div>
+          <div class="wrong-sub-btns" id="wrongSubBtns5">
+            <button class="wrong-sub-btn" id="wrongEverBtn5" onclick="selectWrongSubMode(5, 'ever')" disabled>曾經答錯 (<span id="wrongEverCount5">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn5" onclick="selectWrongSubMode(5, 'last')" disabled>最近答錯 (<span id="wrongLastCount5">0</span>題)</button>
           </div>
           <div class="wrong-count-section" id="wrongCountSection5" style="display:none;">
             <span id="wrongCountLabel5"></span>，共 <span id="wrongTotalCount5">0</span> 題<br>
@@ -1964,12 +1980,13 @@
       <div class="medicine-block" id="med6Block" style="display: none;">
         <h2>醫學(六)</h2>
         <div class="wrong-mode-bar">
-          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn6" onclick="toggleWrongMode(6)" disabled title="請先於上方載入記錄檔">📕 錯題模式</button>
+          <button class="wrong-mode-toggle-btn" id="wrongToggleBtn6" onclick="toggleWrongMode(6)">錯題模式</button>
         </div>
         <div class="wrong-mode-panel" id="wrongPanel6" style="display:none;">
-          <div class="wrong-sub-btns">
-            <button class="wrong-sub-btn" id="wrongEverBtn6" onclick="selectWrongSubMode(6, 'ever')">曾經答錯 (<span id="wrongEverCount6">0</span>題)</button>
-            <button class="wrong-sub-btn" id="wrongLastBtn6" onclick="selectWrongSubMode(6, 'last')">最近答錯 (<span id="wrongLastCount6">0</span>題)</button>
+          <div class="wrong-no-record" id="wrongNoRecord6" style="display:none;">尚未載入記錄檔案</div>
+          <div class="wrong-sub-btns" id="wrongSubBtns6">
+            <button class="wrong-sub-btn" id="wrongEverBtn6" onclick="selectWrongSubMode(6, 'ever')" disabled>曾經答錯 (<span id="wrongEverCount6">0</span>題)</button>
+            <button class="wrong-sub-btn" id="wrongLastBtn6" onclick="selectWrongSubMode(6, 'last')" disabled>最近答錯 (<span id="wrongLastCount6">0</span>題)</button>
           </div>
           <div class="wrong-count-section" id="wrongCountSection6" style="display:none;">
             <span id="wrongCountLabel6"></span>，共 <span id="wrongTotalCount6">0</span> 題<br>
@@ -4646,13 +4663,21 @@
     }
 
     function updateWrongModeToggleStates() {
+      // 若錯題面板已開啟，重新整理其狀態（記錄檔載入後呼叫）
+      if (wrongModeState.grade !== null) {
+        updateWrongPanelState(wrongModeState.grade);
+      }
+    }
+
+    function updateWrongPanelState(grade) {
       const hasRecord = hasValidRecord();
-      [3, 4, 5, 6].forEach(grade => {
-        const btn = document.getElementById(`wrongToggleBtn${grade}`);
-        if (!btn) return;
-        btn.disabled = !hasRecord;
-        btn.title = hasRecord ? '' : '請先於上方載入記錄檔';
-      });
+      const noRecordDiv = document.getElementById(`wrongNoRecord${grade}`);
+      const everBtn = document.getElementById(`wrongEverBtn${grade}`);
+      const lastBtn = document.getElementById(`wrongLastBtn${grade}`);
+      if (noRecordDiv) noRecordDiv.style.display = hasRecord ? 'none' : 'block';
+      if (everBtn) everBtn.disabled = !hasRecord;
+      if (lastBtn) lastBtn.disabled = !hasRecord;
+      if (hasRecord) updateWrongModeCounts(grade);
     }
 
     function deactivateWrongMode() {
@@ -4661,8 +4686,13 @@
       document.getElementById(`wrongPanel${grade}`).style.display = 'none';
       document.getElementById(`wrongToggleBtn${grade}`).classList.remove('active');
       document.getElementById(`wrongCountSection${grade}`).style.display = 'none';
-      document.getElementById(`wrongEverBtn${grade}`).classList.remove('active');
-      document.getElementById(`wrongLastBtn${grade}`).classList.remove('active');
+      const everBtn = document.getElementById(`wrongEverBtn${grade}`);
+      const lastBtn = document.getElementById(`wrongLastBtn${grade}`);
+      everBtn.classList.remove('active');
+      lastBtn.classList.remove('active');
+      everBtn.disabled = true;
+      lastBtn.disabled = true;
+      document.getElementById(`wrongNoRecord${grade}`).style.display = 'none';
       const content = document.getElementById(`med${grade}Block`).querySelector('.medicine-block-content');
       if (content) content.style.display = '';
       wrongModeState.grade = null;
@@ -4670,16 +4700,15 @@
     }
 
     function toggleWrongMode(grade) {
-      if (!hasValidRecord()) return;
       if (wrongModeState.grade === grade) {
         deactivateWrongMode();
       } else {
         deactivateWrongMode();
         wrongModeState.grade = grade;
         wrongModeState.subMode = null;
-        updateWrongModeCounts(grade);
         document.getElementById(`wrongPanel${grade}`).style.display = 'block';
         document.getElementById(`wrongToggleBtn${grade}`).classList.add('active');
+        updateWrongPanelState(grade);
         const content = document.getElementById(`med${grade}Block`).querySelector('.medicine-block-content');
         if (content) content.style.display = 'none';
       }
