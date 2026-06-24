@@ -94,7 +94,7 @@
       "D": "手肘屈曲可能會增加尺神經受損的風險"
     },
     "answer": "C",
-    "explanation": "手術擺位造成神經損傷的機轉主要為過度牽拉、壓迫或缺血，各姿勢對應不同的神經損傷風險，需正確配對才能選出非建議事項。<br>(A) 正確，術前確認患者能否耐受預期手術擺位，是避免神經損傷的重要預防措施，屬於美國麻醉醫學會（ASA）的建議。<br>(B) 正確，側躺（lateral decubitus）的病人使用胸捲軸（chest rolls）可撐開腋窩，避免臂叢神經（brachial plexus）受到壓迫，確實可降低神經損傷風險。<br>(C) 錯誤，採碎石姿勢（lithotomy position）時，過度拉扯腿後肌群（hamstrings）增加的是**坐骨神經（sciatic nerve）或總腓神經（common peroneal nerve）**受損的風險，而非股神經（femoral nerve）；股神經受損在截石位較與髖關節過度外展或屈曲相關。<br>(D) 正確，手肘屈曲角度過大（尤其超過90度）會增加尺神經（ulnar nerve）在肘管（cubital tunnel）處的張力與壓力，確實是尺神經損傷的危險因子，屬於ASA的預防建議。",
+    "explanation": "手術擺位造成神經損傷的機轉主要為過度牽拉、壓迫或缺血，各姿勢對應不同的神經損傷風險，需正確配對才能選出非建議事項。<br>(A) 正確，術前確認患者能否耐受預期手術擺位，是避免神經損傷的重要預防措施，屬於美國麻醉醫學會（ASA）的建議。<br>(B) 正確，側躺（lateral decubitus）的病人使用胸捲軸（chest rolls）可撐開腋窩，避免臂叢神經（brachial plexus）受到壓迫，確實可降低神經損傷風險。<br>(C) 錯誤，採碎石姿勢（lithotomy position）時，過度拉扯腿後肌群（hamstrings）增加的是坐骨神經（sciatic nerve）或總腓神經（common peroneal nerve）受損的風險，而非股神經（femoral nerve）；股神經受損在截石位較與髖關節過度外展或屈曲相關。<br>(D) 正確，手肘屈曲角度過大（尤其超過90度）會增加尺神經（ulnar nerve）在肘管（cubital tunnel）處的張力與壓力，確實是尺神經損傷的危險因子，屬於ASA的預防建議。",
     "tags": [
       "109-1-6",
       "麻醉科"
@@ -145,7 +145,7 @@
       "D": "給與FiO2 40～50%且吐氣末正壓（positive end expiratory pressure）＜5 cmH2O時，測得動脈血氧飽和度 （SaO2）＞90%"
     },
     "answer": "B",
-    "explanation": "呼吸機脫離（weaning）的評估需要多項指標同時達標，各指標均有特定的臨界值，判斷時需分辨哪些數值代表呼吸功能充足、哪些代表不足。<br>(A) 正確（適合拔管），潮氣容積（tidal volume）>5 mL/kg且肺活量（vital capacity）>10 mL/kg，表示呼吸肌有足夠的通氣能力，符合脫離呼吸機的標準。<br>(B) 正確答案（最不適合拔管），淺快呼吸指標（rapid shallow breathing index, RSBI）的計算為呼吸頻率除以潮氣容積（f/VT），數值**＜105**才代表適合脫離呼吸機；RSBI>105表示病人呼吸淺而快，呼吸功（work of breathing）過高，預測脫機失敗風險高，不適合拔管。<br>(C) 正確（適合拔管），最大吸氣壓力（maximal inspiratory pressure, MIP）＜-25 cmH2O（負值越大代表吸氣肌力越強），表示吸氣肌有足夠力量，符合脫機標準。<br>(D) 正確（適合拔管），在FiO2 40~50%且呼氣末正壓（PEEP）＜5 cmH2O的條件下，SaO2>90%顯示氧合功能尚可維持，符合考慮拔管的氧合標準。",
+    "explanation": "呼吸機脫離（weaning）的評估需要多項指標同時達標，各指標均有特定的臨界值，判斷時需分辨哪些數值代表呼吸功能充足、哪些代表不足。<br>(A) 正確（適合拔管），潮氣容積（tidal volume）>5 mL/kg且肺活量（vital capacity）>10 mL/kg，表示呼吸肌有足夠的通氣能力，符合脫離呼吸機的標準。<br>(B) 正確答案（最不適合拔管），淺快呼吸指標（rapid shallow breathing index, RSBI）的計算為呼吸頻率除以潮氣容積（f/VT），數值＜105才代表適合脫離呼吸機；RSBI>105表示病人呼吸淺而快，呼吸功（work of breathing）過高，預測脫機失敗風險高，不適合拔管。<br>(C) 正確（適合拔管），最大吸氣壓力（maximal inspiratory pressure, MIP）＜-25 cmH2O（負值越大代表吸氣肌力越強），表示吸氣肌有足夠力量，符合脫機標準。<br>(D) 正確（適合拔管），在FiO2 40~50%且呼氣末正壓（PEEP）＜5 cmH2O的條件下，SaO2>90%顯示氧合功能尚可維持，符合考慮拔管的氧合標準。",
     "tags": [
       "109-1-6",
       "麻醉科"
@@ -247,7 +247,7 @@
       "D": "調節性會聚（accommodative convergence）屬於一種強直性會聚（tonic convergence）"
     },
     "answer": "D",
-    "explanation": "眼球運動的分類需區分單眼運動（duction）、雙眼同向運動（version）、雙眼異向運動（vergence），以及會聚的不同類型，釐清各類會聚的定義是解題關鍵。<br>(A) 正確，duction指單眼的運動，包括內轉（adduction）、外轉（abduction）、上轉（elevation）、下轉（depression），以及內旋（intorsion）和外旋（extorsion），敘述正確。<br>(B) 正確，version指雙眼往同一方向的協調運動（conjugate eye movement），包括往右上看（dextro-elevation）、往左下看（levo-depression）等，敘述正確。<br>(C) 正確，vergence指雙眼往相反方向的異向運動（disjugate eye movement），包括會聚（convergence，雙眼內轉）及散開（divergence，雙眼外轉），敘述正確。<br>(D) 錯誤，調節性會聚（accommodative convergence）是由眼睛進行調節（accommodation，即看近物時水晶體變厚）所誘發的會聚反應，屬於**反射性會聚（reflex convergence）**的一種；強直性會聚（tonic convergence）則是由動眼神經持續張力性衝動所維持的靜態基礎會聚，兩者為不同的會聚類型。",
+    "explanation": "眼球運動的分類需區分單眼運動（duction）、雙眼同向運動（version）、雙眼異向運動（vergence），以及會聚的不同類型，釐清各類會聚的定義是解題關鍵。<br>(A) 正確，duction指單眼的運動，包括內轉（adduction）、外轉（abduction）、上轉（elevation）、下轉（depression），以及內旋（intorsion）和外旋（extorsion），敘述正確。<br>(B) 正確，version指雙眼往同一方向的協調運動（conjugate eye movement），包括往右上看（dextro-elevation）、往左下看（levo-depression）等，敘述正確。<br>(C) 正確，vergence指雙眼往相反方向的異向運動（disjugate eye movement），包括會聚（convergence，雙眼內轉）及散開（divergence，雙眼外轉），敘述正確。<br>(D) 錯誤，調節性會聚（accommodative convergence）是由眼睛進行調節（accommodation，即看近物時水晶體變厚）所誘發的會聚反應，屬於反射性會聚（reflex convergence）的一種；強直性會聚（tonic convergence）則是由動眼神經持續張力性衝動所維持的靜態基礎會聚，兩者為不同的會聚類型。",
     "tags": [
       "109-1-6",
       "眼科"
