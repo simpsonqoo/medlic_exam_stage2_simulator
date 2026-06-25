@@ -3787,8 +3787,8 @@
           <div class="record-section">
             <h3>📂 載入記錄</h3>
             <div class="file-input-wrapper">
-              <input type="file" accept=".json" class="file-input" onchange="loadUserProgress(this.files[0])">
-              <button class="file-input-btn" onclick="this.previousElementSibling.click()">選擇記錄檔</button>
+              <input type="file" accept=".json" class="file-input" id="browseFileInput" onchange="loadUserProgress(this.files[0])">
+              <button class="file-input-btn" onclick="document.getElementById('browseFileInput').click()">選擇記錄檔</button>
             </div>
             <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
           </div>
@@ -3907,8 +3907,8 @@
       <div class="record-section">
         <h3>📂 載入記錄</h3>
         <div class="file-input-wrapper">
-          <input type="file" accept=".json" class="file-input" onchange="loadUserProgress(this.files[0])">
-          <button class="file-input-btn">選擇記錄檔</button>
+          <input type="file" accept=".json" class="file-input" id="resultFileInput" onchange="loadUserProgress(this.files[0])">
+          <button class="file-input-btn" onclick="document.getElementById('resultFileInput').click()">選擇記錄檔</button>
         </div>
         <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
       </div>

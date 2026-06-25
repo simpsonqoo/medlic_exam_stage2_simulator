@@ -1248,7 +1248,7 @@
       "D": "avascular necrosis of femoral head"
     },
     "answer": "B",
-    "explanation": "雖然沒有圖片，但根據選項和臨床情境可以推論。<br>(A) 錯誤，前側髖關節骨折脫位（anterior hip fracture-dislocation）：<br>· 較少見，約佔10-15%<br>· 機轉：外展加外旋<br>· 股骨頭位於前方或閉孔位置<br>· 不是最常見的類型<br>(B) 正確，後側髖關節骨折脫位（posterior hip fracture-dislocation）最可能：<br>· 最常見的髖關節脫位類型，約佔85-90%<br>· 常見於車禍：膝蓋撞擊儀表板（dashboard injury）<br>· 機轉：髖關節屈曲、內收時受到軸向力量<br>· 股骨頭脫位到髖臼後方<br>· 常合併髖臼後壁骨折<br>· 理學檢查：患肢縮短、內收、內旋<br>· 需要緊急復位（6小時內）減少股骨頭壞死風險<br>(C) 錯誤，異位性骨化（heterotopic ossification）：<br>· 是髖關節脫位或手術後的晚期併發症<br>· 通常在數週到數月後發生<br>· 不是急性創傷的診斷<br>(D) 錯誤，股骨頭缺血性壞死（avascular necrosis）：<br>· 是髖關節脫位後的併發症<br>· 通常在創傷後數月到數年才發生<br>· 急性期無法診斷<br>· 風險與脫位時間長短相關",
+    "explanation": "解題關鍵在於觀察軸切面電腦斷層影像 (axial CT scan)，判斷股骨頭 (femoral head) 相對於髖臼 (acetabulum) 的脫位方向與骨骼完整性。影像清楚顯示左側股骨頭向後方移位，且伴隨髖臼後壁破裂的骨折碎片，符合典型的高能量急性外傷表現。<br> (A) 錯誤，影像中股骨頭 (femoral head) 是向髖臼 (acetabulum) 的後方移位，若是前側髖關節骨折脫臼 (anterior hip fracture-dislocation)，其影像則會顯示股骨頭向前側移位。 <br> (B) 正確，電腦斷層明確顯示股骨頭 (femoral head) 向後脫出，並伴隨髖臼後壁 (posterior wall of acetabulum) 的骨折碎片，為典型的後側髖關節骨折脫臼 (posterior hip fracture-dislocation)。 <br> (C) 錯誤，病患為車禍導致的急性腫痛，而脫臼後異位性骨化 (heterotopic ossification) 是受傷數週到數月後才會生成的慢性併發症，影像中看到的骨塊是急性骨折碎片，而非鈣化生成的新骨。 <br> (D) 錯誤，此為急性外傷脫位事件，股骨頭缺血性壞死 (avascular necrosis of femoral head) 通常是創傷後晚期（數月至數年）才出現的併發症，其影像特徵應為股骨頭的骨質硬化或塌陷變形，而非急性的脫位與骨折碎片。",
     "tags": [
       "112-1-5",
       "骨科"
