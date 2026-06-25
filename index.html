@@ -760,13 +760,9 @@
     }
     
     .file-input {
-      position: absolute;
-      opacity: 0;
-      width: 100%;
-      height: 100%;
-      cursor: pointer;
+      display: none;
     }
-    
+
     .file-input-btn {
       padding: 10px 20px;
       background-color: #007bff;
@@ -864,13 +860,9 @@
     }
     
     .file-input {
-      position: absolute;
-      opacity: 0;
-      width: 100%;
-      height: 100%;
-      cursor: pointer;
+      display: none;
     }
-    
+
     .file-input-btn {
       padding: 8px 16px;
       background-color: #007bff;
@@ -1509,12 +1501,7 @@
     }
     
     .homepage-file-input {
-      position: absolute;
-      opacity: 0;
-      width: 100%;
-      height: 100%;
-      cursor: pointer;
-      z-index: 1;
+      display: none;
     }
     
     .homepage-file-btn {
@@ -1664,8 +1651,8 @@
       <h3>📊 答題記錄管理</h3>
       <div class="homepage-record-buttons">
         <div class="homepage-file-input-wrapper">
-          <input type="file" accept=".json" class="homepage-file-input" onchange="loadHomepageRecord(this.files[0])">
-          <button class="homepage-file-btn">
+          <input type="file" accept=".json" class="homepage-file-input" id="homepageFileInput" onchange="loadHomepageRecord(this.files[0])">
+          <button class="homepage-file-btn" onclick="document.getElementById('homepageFileInput').click()">
             📂 載入記錄檔
           </button>
         </div>
@@ -3801,7 +3788,7 @@
             <h3>📂 載入記錄</h3>
             <div class="file-input-wrapper">
               <input type="file" accept=".json" class="file-input" onchange="loadUserProgress(this.files[0])">
-              <button class="file-input-btn">選擇記錄檔</button>
+              <button class="file-input-btn" onclick="this.previousElementSibling.click()">選擇記錄檔</button>
             </div>
             <div class="record-status info" id="recordStatus">尚未載入記錄檔案</div>
           </div>
