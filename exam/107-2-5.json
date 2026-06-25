@@ -737,9 +737,6 @@
   {
     "id": 1072544,
     "question": "44. 下圖為一個足月的新生女嬰，檢查發現其薦尾椎有一個巨大的腫瘤，下列敘述何者錯誤？",
-    "images": [
-      "./exam/image/107-2-5-44.jpg"
-    ],
     "options": {
       "A": "最可能的診斷為薦尾椎畸胎瘤（sacrococcygeal teratoma）",
       "B": "不論在懷孕過程或是嬰兒出生之後，都要嚴密觀察嬰兒有無因為此巨大腫瘤產生的盜血現象（tumor- induced vascular steal syndrome）",
@@ -751,6 +748,9 @@
     "tags": [
       "107-2-5",
       "小兒外科"
+    ],
+    "images": [
+      "./exam/image/107-2-5-44.jpg"
     ],
     "group_id": "group_1072544"
   },
