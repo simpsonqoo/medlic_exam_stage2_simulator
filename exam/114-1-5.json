@@ -1246,7 +1246,7 @@
       "D": "骨折（fracture）"
     },
     "answer": "C",
-    "explanation": "本題解題關鍵在於辨識惡性骨腫瘤（如骨肉瘤）在X光影像下的典型特徵，根據 image_a15a21.png 的影像，箭頭處顯示腫瘤突破皮質骨後刺激周圍骨膜，形成放射狀的新生骨與科德曼氏三角（Codman triangle），這正是侵襲性骨病變的標誌。<br> (A) 錯誤，要告訴我遊動體（loose body）通常是游離在「關節腔」內的游離骨或軟骨碎片，而箭頭所指位置是在骨幹至幹骺端（diaphysis to metaphysis）的皮質骨（cortical bone）外緣，並非關節腔內。<br> (B) 錯誤，雖然骨肉瘤（osteosarcoma）會向外侵犯形成軟組織腫塊並伴隨骨化，但箭頭明確指向源自皮質骨表面的針狀/放射狀新生骨邊緣，在影像學定義上這屬於骨膜反應（periosteal reaction），而非單純的軟組織鈣化（soft tissue calcification）。<br> (C) 正確，箭頭所指的特徵是腫瘤生長並破壞皮質骨後，刺激骨膜產生新生骨的骨膜反應（periosteal reaction），常見如日光放射狀（sunburst appearance）及科德曼氏三角（Codman triangle）。<br> (D) 錯誤，要告訴我骨折（fracture）在X光影像上通常會出現破壞骨骼連續性的透射線裂痕（radiolucent fracture line），而箭頭處顯示的是向外增生、不規則的反應性骨質，並未見到明顯的骨折線。",
+    "explanation": "本題解題關鍵在於辨識惡性骨腫瘤（如骨肉瘤）在X光影像下的典型特徵，根據 image_a15a21.png 的影像，箭頭處顯示腫瘤突破皮質骨後刺激周圍骨膜，形成放射狀的新生骨與科德曼氏三角（Codman triangle），這正是侵襲性骨病變的標誌。<br> (A) 錯誤，遊動體（loose body）通常是游離在「關節腔」內的游離骨或軟骨碎片，而箭頭所指位置是在骨幹至幹骺端（diaphysis to metaphysis）的皮質骨（cortical bone）外緣，並非關節腔內。<br> (B) 錯誤，雖然骨肉瘤（osteosarcoma）會向外侵犯形成軟組織腫塊並伴隨骨化，但箭頭明確指向源自皮質骨表面的針狀/放射狀新生骨邊緣，在影像學定義上這屬於骨膜反應（periosteal reaction），而非單純的軟組織鈣化（soft tissue calcification）。<br> (C) 正確，箭頭所指的特徵是腫瘤生長並破壞皮質骨後，刺激骨膜產生新生骨的骨膜反應（periosteal reaction），常見如日光放射狀（sunburst appearance）及科德曼氏三角（Codman triangle）。<br> (D) 錯誤，骨折（fracture）在X光影像上通常會出現破壞骨骼連續性的透射線裂痕（radiolucent fracture line），而箭頭處顯示的是向外增生、不規則的反應性骨質，並未見到明顯的骨折線。",
     "tags": [
       "114-1-5",
       "骨科"
