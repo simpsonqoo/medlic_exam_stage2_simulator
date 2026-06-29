@@ -1263,13 +1263,16 @@
       "D": "chondrosarcoma"
     },
     "answer": "C",
-    "explanation": "雖然沒有看到圖片，但根據年齡、位置和選項可以推斷。<br>14歲青少年的肩部（肱骨近端）疼痛持續半年，在骨腫瘤的鑑別診斷中，需要考慮原發性骨腫瘤的好發年齡和部位。<br>(A) 錯誤，骨轉移（bone metastasis）在14歲兒童極為罕見，通常見於成人的乳癌、肺癌、攝護腺癌等轉移<br>(B) 錯誤，淋巴瘤（lymphoma）可侵犯骨骼，但通常不是首發部位，且影像表現與原發性骨腫瘤不同<br>(C) 正確，骨肉瘤（osteogenic sarcoma）最可能，理由包括：好發於10-20歲青少年、好發於長骨幹骺端（metaphysis），特別是膝關節周圍（股骨遠端、脛骨近端）和肱骨近端、典型影像可能顯示骨質破壞、骨膜反應（Codman triangle）、日光放射狀（sunburst pattern）等<br>(D) 錯誤，軟骨肉瘤（chondrosarcoma）通常發生於40歲以上成人，在14歲青少年極為罕見",
+    "explanation": "本題解題關鍵在於綜合判斷患者的「年齡」（14歲青少年）以及「X光影像特徵」（肱骨近端幹骺端出現明顯的腫瘤性成骨病變與軟組織侵犯），這典型符合青少年最常見的原發性惡性骨腫瘤表現。<br> (A) 錯誤，骨轉移（bone metastasis）絕大多數好發於中老年癌症患者，且多呈多發性、蝕骨性（osteolytic）病變，極少以這種單一且伴隨大量新生骨的型態出現在青少年身上。<br> (B) 錯誤，骨淋巴瘤（lymphoma）主要好發於成年至中高齡族群，且影像學上通常表現為蟲蝕狀或穿透性的骨質破壞（permeative bone destruction），與圖中緻密的成骨性表現（osteoblastic appearance）不符。<br> (C) 正確，骨肉瘤（osteogenic sarcoma）是10至20歲青少年最常見的原發性惡性骨腫瘤，極度好發於長骨的幹骺端（metaphysis），影像中可見明顯的腫瘤骨形成（tumor bone formation）及皮質骨破壞。<br> (D) 錯誤，軟骨肉瘤（chondrosarcoma）主要好發於40歲以上的成年人，且影像上的典型特徵為爆米花狀或環弧狀鈣化（ring and arc calcification），而非圖中這種雲霧狀的實體骨化現象。",
     "tags": [
       "113-1-5",
       "骨科"
     ],
     "images": [
       "./exam/image/113-1-5-74.jpg"
+    ],
+    "explanation_image": [
+      "./exam/image/113-1-5-74e.jpg"
     ],
     "group_id": "group_9313"
   },
