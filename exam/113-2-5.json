@@ -1259,13 +1259,16 @@
       "D": "rheumatoid arthritis"
     },
     "answer": "D",
-    "explanation": "關節炎的影像學表現可以幫助鑑別診斷。雖然沒有實際圖片，但根據題目可以推論典型的類風濕性關節炎表現。<br>(A) 錯誤，痛風性關節炎（gouty arthritis）的X光特徵：<br>· 非對稱性關節侵蝕<br>· 鼠咬樣侵蝕（rat-bite erosions）<br>· 軟組織腫脹和痛風石（tophi）<br>· 好發於第一蹠趾關節、足踝、膝關節<br>· 早期關節間隙通常保留<br>(B) 錯誤，退化性關節炎（osteoarthritis）的X光特徵：<br>· 關節間隙狹窄<br>· 骨刺形成（osteophytes）<br>· 軟骨下骨硬化（subchondral sclerosis）<br>· 軟骨下囊腫<br>· 好發於遠端指間關節（DIP）、近端指間關節（PIP）、第一腕掌關節<br>· 通常無骨質侵蝕<br>(C) 錯誤，化膿性關節炎（septic arthritis）的X光特徵：<br>· 早期：關節間隙擴大（積液）、軟組織腫脹<br>· 晚期：快速的關節間隙狹窄、骨質破壞<br>· 通常單一關節受侵犯<br>· 需要緊急處理<br>(D) 正確，類風濕性關節炎（rheumatoid arthritis）的X光特徵：<br>· 對稱性多關節侵犯<br>· 好發於近端指間關節（PIP）和掌指關節（MCP），但不侵犯遠端指間關節（DIP）<br>· 早期：軟組織腫脹、關節周圍骨質疏鬆（periarticular osteopenia）<br>· 進展期：關節間隙狹窄、邊緣性骨質侵蝕（marginal erosions）<br>· 晚期：關節脫位、半脫位、尺側偏斜（ulnar deviation）<br>· 57歲女性符合好發年齡和性別（女性為男性的2-3倍）<br>其他支持類風濕性關節炎的臨床特徵：<br>· 晨間僵硬大於1小時<br>· 對稱性多關節腫痛<br>· 類風濕因子（RF）或抗CCP抗體陽性",
+    "explanation": "這題的解題關鍵在於觀察影像中關節破壞的分佈模式與對稱性。X光顯示雙手呈現對稱性的關節腔狹窄與骨侵蝕，且病灶主要侵犯腕關節 (Wrist joints)、掌指關節 (Metacarpophalangeal, MCP) 及近端指間關節 (Proximal interphalangeal, PIP)，而相對保留了遠端指間關節，這是類風濕性關節炎 (Rheumatoid arthritis) 的典型特徵。<br> (A) 錯誤，痛風性關節炎 (Gouty arthritis) 通常為非對稱性，最常好發於下肢的單一關節（如足部第一大腳趾），且典型的X光特徵為邊緣銳利的穿鑿狀骨侵蝕 (Punched-out erosions)，不會如圖中呈現雙手廣泛且對稱的關節破壞。<br> (B) 錯誤，骨關節炎 (Osteoarthritis) 屬於退化性疾病，在手部最常侵犯遠端指間關節 (Distal interphalangeal, DIP) 並伴隨增生的骨刺 (Osteophytes)，這與圖中主要侵犯近端關節且呈現骨質流失、侵蝕的表現完全不符。<br> (C) 錯誤，化膿性關節炎 (Septic arthritis) 通常是急性發作的嚴重感染，絕大多數情況下只會侵犯單一關節 (Monoarticular)，不會呈現圖中雙手多處、高度對稱性的慢性關節炎與變形。<br> (D) 正確，類風濕性關節炎 (Rheumatoid arthritis) 的經典影像學表現正如圖中所見，特徵為雙手對稱性的關節破壞、關節間隙變窄及骨侵蝕，並高度好發於腕關節、掌指關節與近端指間關節。",
     "tags": [
       "113-2-5",
       "骨科"
     ],
     "images": [
       "./exam/image/113-2-5-74.jpg"
+    ],
+    "explanation_image": [
+      "./exam/image/113-2-5-74e.jpg"
     ],
     "group_id": "group_9233"
   },
