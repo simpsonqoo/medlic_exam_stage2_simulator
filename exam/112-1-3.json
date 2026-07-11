@@ -1311,7 +1311,7 @@
       "C": "hyperaldosteronism所導致的低血鉀症，transtubular K+ gradient（TTKG）通常低於5 mEq/L",
       "D": "低血鉀症病人的尿液鈣磷比（calcium/phosphate ratio），若小於1.6，可以作為甲狀腺亢進週期性癱瘓 （thyrotoxic periodic paralysis）的診斷佐證"
     },
-    "answer": "D",
+    "answer": "C,D",
     "explanation": "此題考查低血鉀症的診斷與評估。選項D的數值判斷標準有誤。<br>(A) 正確，低血鉀症心電圖常呈現QTc延長<br>(B) 正確，嚴重低血鉀可導致心律不整<br>(C) 錯誤，原醛固酮增多症(hyperaldosteronism)的TTKG通常高於5 mEq/L，不是低於<br>(D) 錯誤，此選項敘述甲狀腺亢進週期性癱瘓診斷標準有誤",
     "tags": [
       "112-1-3(三)",
