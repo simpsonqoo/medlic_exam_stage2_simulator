@@ -1303,12 +1303,12 @@
   },
   {
     "id": 1122377,
-    "question": "77. 下列有關傷寒（typhoidfever）的敘述，何者最正確？",
+    "question": "77. 下列有關傷寒（typhoid fever）的敘述，何者最正確？",
     "options": {
       "A": "常見有多天的發燒、腹瀉及血便為主要的表現",
       "B": "病人可能有白血球下降、肝功能異常及脾腫大",
       "C": "使用抗生素後，最容易培養出細菌的方法是糞便培養",
-      "D": "Salmonellatyphi菌株對於fluoroquinolone類抗生素沒有抗藥性的產生"
+      "D": "Salmonella typhi菌株對於fluoroquinolone類抗生素沒有抗藥性的產生"
     },
     "answer": "B",
     "explanation": "此題考查傷寒的臨床表現。白血球下降、肝功能異常及脾腫大是典型表現。<br>(A) 錯誤，傷寒常見的表現是持續性發燒，腹瀉並非主要症狀，而且通常不會有血便<br>(B) 正確，傷寒病人可能有白血球下降、肝功能異常及脾腫大的表現<br>(C) 錯誤，使用抗生素後，最容易培養出細菌的方法是血液培養，而非糞便培養<br>(D) 錯誤，傷寒沙門氏菌(Salmonella typhi)對fluoroquinolone類抗生素已產生抗藥性問題",
