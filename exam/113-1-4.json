@@ -485,7 +485,7 @@
       "D": "Leigh syndrome"
     },
     "answer": "D",
-    "explanation": "臨床為線粒體疾病表徵：智能退化、肌張力低下、家族早夭。<br>(A) 錯誤，PWS表現為肥胖與高食慾，不符合。<br>(B) 錯誤，DMD通常2–3歲才明顯。<br>(C) 錯誤，先天性肌無力症候群以肌肉接合障礙為主。<br>(D) 正確，Leigh syndrome為典型表現。",
+    "explanation": "解題關鍵與思路：男嬰自出生即有餵食困難、明顯肌張力低下（hypotonia）與發展遲緩，加上母系家族中男女皆有智能障礙或早夭，最重要的線索是考慮粒線體遺傳（mitochondrial inheritance）。因此四個選項中最符合的是雷氏症候群（Leigh syndrome）。<br> (A) 錯誤，普瑞德－威利症候群（Prader-Willi syndrome, PWS）在嬰兒期確實可有嚴重肌張力低下與餵食困難，但主要源自父系第 15 號染色體相關基因缺失或異常，並不呈現這種明顯的母系家族遺傳；之後典型會轉為食慾亢進、肥胖。<br> (B) 錯誤，杜興氏肌肉失養症（Duchenne muscular dystrophy, DMD）為 X 聯鎖隱性遺傳（X-linked recessive），通常在 2–5 歲後才逐漸出現近端肌無力、Gowers sign 等表現；不典型於出生即持續餵食困難，且家族中女性通常是帶因者而非出現明顯智能障礙。<br> (C) 錯誤，先天性肌無力症候群（congenital myasthenic syndromes, CMS）可從嬰兒期出現肌無力、肌張力低下及吸吮／吞嚥困難，但主要是神經肌肉接合處（neuromuscular junction）疾病，通常不造成智能障礙或明顯社交互動異常，也無典型母系遺傳模式。<br> (D) 正確，雷氏症候群（Leigh syndrome）是一種粒線體能量代謝疾病（mitochondrial energy metabolism disorder），常在嬰幼兒期出現餵食困難、肌張力低下、精神動作發展遲緩及神經功能退化；部分病例由粒線體 DNA（mitochondrial DNA, mtDNA）突變造成，可呈現「母系家族中男女皆可能受影響」的遺傳型態。",
     "tags": [
       "113-1(四)",
       "小兒科"
