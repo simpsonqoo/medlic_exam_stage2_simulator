@@ -1291,7 +1291,7 @@
       "D": "脾臟內"
     },
     "answer": "A",
-    "explanation": "影像顯示腫瘤位於肝臟左外區。<br>(A) 正確，左外節。<br>(B) 錯誤，左內節位置不同。<br>(C) 錯誤，右前節非本例。<br>(D) 錯誤，不在脾臟內。",
+    "explanation": "影像判讀要先定位方向。橫斷面（axial）影像以病人右側在畫面左方、腹側（anterior）在上方；接著用肝臟分節解剖定位病灶。畫面中肝臟占據左側大半，腫瘤呈 T1 低訊號（hypointense）位於畫面中央偏右、且偏腹側的位置，此處正是跨過中線、位在胃前方的肝左外節（segment II/III）；再確認畫面最右後方的脾臟（spleen）訊號均勻、無病灶。<br> (A) 正確，腫瘤位於肝臟左外節（left lateral segment，即 Couinaud 分節的 segment II 與 III），此區位於鐮狀韌帶（falciform ligament）／左肝靜脈（left hepatic vein）之左外側，在影像上呈現為畫面右上、腹側的低訊號腫塊。以 5 歲男童合併腹部腫瘤來看，臨床上要優先考慮肝母細胞瘤（hepatoblastoma）。<br> (B) 錯誤，肝左內節（left medial segment，segment IV）位於鐮狀韌帶與中肝靜脈（middle hepatic vein）之間、也就是更靠近畫面中線偏左的位置；本例病灶落在鐮狀韌帶外側，屬左外節而非左內節。<br> (C) 錯誤，肝右前節（right anterior segment，segment V 與 VIII）位於中肝靜脈與右肝靜脈（right hepatic vein）之間，在影像上應是畫面左半部的肝實質；該處訊號均勻，並未見腫瘤。<br> (D) 錯誤，脾臟位於畫面最右側偏後方（病人左後方），本影像中脾臟輪廓完整、訊號均質而無腫塊；腫瘤所在的位置是肝臟左外節。",
     "tags": [
       "111-1(四)",
       "小兒科"
