@@ -111,7 +111,7 @@
       "D": "法洛氏四重症（tetralogy of Fallot）"
     },
     "answer": "C",
-    "explanation": "心電圖異常多與缺氧或右心負荷相關，ASD、PS、TOF 常見；而 Ao coarctation 主要為血壓差異，不一定有心電圖異常。<br>(A) 正確，ASD 會有特徵心電圖。<br>(B) 正確，PS 可見右心負荷。<br>(C) 錯誤，Ao coarctation 不太會。<br>(D) 正確，TOF 常見心電圖異常。",
+    "explanation": "先看心電圖的心軸（cardiac axis）與心室肥厚型態。此圖可見 I 導程 QRS 以負向為主、aVF/III 導程以正向為主，表示右軸偏移（right axis deviation）；胸前導程則可見右心室優勢，考慮右心室肥厚（right ventricular hypertrophy, RVH）。因此應找會造成右心室壓力或容量負荷的先天性心臟病，而主動脈弓窄縮（coarctation of aorta）主要造成左心室壓力負荷，最不符合。<br> (A) 正確，心房中隔缺損（atrial septal defect, ASD）造成左向右分流，使右心房、右心室產生容量負荷，可出現右軸偏移及右心室傳導異常，因此可能符合此心電圖。<br> (B) 正確，肺動脈瓣狹窄（pulmonary valvular stenosis）使右心室必須克服較高阻力射血，造成右心室壓力負荷，常出現右心室肥厚與右軸偏移。<br> (C) 錯誤／最不可能，主動脈弓窄縮（coarctation of aorta）造成的是左心室壓力負荷，較典型應出現左心室肥厚（left ventricular hypertrophy, LVH），而不是右軸偏移與右心室肥厚。<br> (D) 正確，法洛氏四重症（tetralogy of Fallot, TOF）因右心室出口阻塞（right ventricular outflow tract obstruction），會造成明顯右心室壓力負荷，因此常有右軸偏移與右心室肥厚。",
     "tags": [
       "112-1(四)",
       "小兒科"
