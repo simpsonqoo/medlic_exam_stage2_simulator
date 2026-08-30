@@ -213,7 +213,7 @@
       "D": "血液不易凝固（Hypocoagulability）的狀態"
     },
     "answer": "D",
-    "explanation": "腎病症候群因抗凝血蛋白流失，反而處於高凝狀態。<br>(A) 正確，大量蛋白尿。<br>(B) 正確，血漿膠體滲透壓下降。<br>(C) 正確，高血脂。<br>(D) 錯誤，實際為高凝狀態。",
+    "explanation": "解題關鍵在於理解兒童特發性腎病症候群（Idiopathic nephrotic syndrome）的病理生理機制：大量蛋白尿導致低白蛋白血症，進而引起血管內膠體滲透壓下降、水腫、高血脂，以及因肝臟代償性合成增加凝血因子和抗凝血因子流失而導致高凝固性狀態（hypercoagulability）而非低凝固性。<br> (A) 正確，尿中蛋白大量流失（Nephrotic-range proteinuria）是腎病症候群的診斷標準之一，定義為尿蛋白排泄量大於 40 mg/m²/hour 或尿蛋白/肌酸酐比值大於 2 mg/mg。<br> (B) 正確，血管內膠體滲透壓減低（Decrease intravascular oncotic pressure）是因為大量白蛋白從尿液流失導致低白蛋白血症（hypoalbuminemia），進而使血管內膠體滲透壓下降，液體外滲至組織間隙造成水腫。<br> (C) 正確，病童會出現高血脂（Hyperlipidemia）的現象，這是因為肝臟代償性增加脂蛋白合成以回應低白蛋白血症，同時脂蛋白分解酶活性降低，導致血中膽固醇和三酸甘油酯升高。<br> (D) 錯誤，腎病症候群患者處於高凝固性狀態（Hypercoagulability）而非低凝固性（Hypocoagulability），這是因為肝臟代償性增加凝血因子（如 fibrinogen、factors V, VII, VIII, X）的合成，同時抗凝血因子（如 antithrombin III、protein S）從尿液大量流失，增加血栓形成風險。",
     "tags": [
       "111-2(四)",
       "小兒科"
