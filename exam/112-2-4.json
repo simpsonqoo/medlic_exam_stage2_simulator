@@ -199,7 +199,7 @@
       "D": "源於尿液流失alternative pathway的factor B與factor D"
     },
     "answer": "B",
-    "explanation": "主要因為低免疫球蛋白血症與補體因子流失，而非白血球減少。<br>(A) 正確，IgG 流失。<br>(B) 錯誤，不會有白血球減少。<br>(C) 正確，C3/C5 流失。<br>(D) 正確，factor B/D 流失。",
+    "explanation": "解題關鍵是腎病症候群（nephrotic syndrome）因大量蛋白尿，不只流失白蛋白，也會流失免疫球蛋白與部分補體相關蛋白，因此體液性免疫（humoral immunity）下降；但低白血球症並不是腎病症候群本身的典型表現。<br> (A) 正確，低免疫球蛋白血症（hypogammaglobulinemia）可因免疫球蛋白，尤其免疫球蛋白 G（IgG）經尿液流失，使抗體介導的防禦能力下降，增加感染風險。<br> (B) 錯誤，腎病症候群本身通常不會造成低白血球症（leukopenia）；患者易感染主要與免疫球蛋白及補體因子的尿液流失、免疫功能異常，以及部分患者接受免疫抑制治療有關。<br> (C) 正確，部分補體成分（complement components）可隨大量蛋白尿流失，使調理作用（opsonization）與細菌清除能力下降；臨床上因此特別容易受到莢膜菌（encapsulated bacteria）感染。<br> (D) 正確，替代補體路徑（alternative complement pathway）的 B 因子（factor B）與 D 因子（factor D）流失，可降低替代路徑活性，進而削弱對細菌的防禦能力。",
     "tags": [
       "112-2(四)",
       "小兒科"
