@@ -323,7 +323,7 @@
       "D": "Adrenal crisis"
     },
     "answer": "A",
-    "explanation": "SIADH 特徵：低血鈉、低血漿滲透壓、高尿滲透壓、尿鈉高，血容量正常。<br>(A) 正確，典型 SIADH。<br>(B) 錯誤，CSW 會有低血容量。<br>(C) 錯誤，DI 會有高血鈉與低尿滲透壓。<br>(D) 錯誤，Adrenal crisis 會有低血鈉但常伴低血糖。",
+    "explanation": "解題關鍵是「下視丘－腦下垂體手術（hypothalamic-pituitary surgery）後約 1 週」加上「低血鈉、低血漿滲透壓、尿液卻濃縮，且血管內容積正常」。這正符合術後約第 5–10 天常見的抗利尿激素不適當分泌症候群（syndrome of inappropriate antidiuretic hormone secretion, SIADH）。<br> (A) 正確，抗利尿激素不適當分泌症候群（SIADH）會造成水分滯留，形成低滲透壓性低血鈉；典型表現為血漿滲透壓低、尿滲透壓不適當升高、尿鈉升高，且臨床上呈正常血容量（euvolemia）。<br> (B) 錯誤，腦性鹽分流失症候群（cerebral salt wasting, CSW）也會有低血鈉與高尿鈉，但因腎臟大量流失鈉與水，患者會呈現低血容量（hypovolemia），而非本題的正常血管內容積。 <br> (C) 錯誤，中樞性尿崩症（central diabetes insipidus）是抗利尿激素（ADH）不足，會造成大量稀尿、尿滲透壓低，若水分補充不足通常出現高血鈉與高血漿滲透壓，與本題相反。<br> (D) 錯誤，腎上腺危象（adrenal crisis）可造成低血鈉，但通常伴隨低血壓、血容量不足等表現；若為原發性腎上腺功能不全還常見高血鉀，而本題正常血容量及濃縮尿的組合更支持 SIADH。",
     "tags": [
       "110-2(四)",
       "小兒科"
