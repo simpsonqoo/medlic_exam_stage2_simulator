@@ -1264,7 +1264,7 @@
       "D": "建議以保守治療為主，不建議手術治療"
     },
     "answer": "D",
-    "explanation": "此為股骨頭滑脫（SCFE），治療需手術固定，保守治療無效。<br>(A) 正確，好發於青少年。<br>(B) 正確，病灶在股骨頭生長板區域。<br>(C) 正確，與 growth plate 受損有關。<br>(D) 錯誤，需手術治療。",
+    "explanation": "解題關鍵是「青少年＋髖關節疼痛＋跛行＋X 光顯示股骨頭骨骺相對股骨頸滑脫」，典型診斷為股骨頭骨骺滑脫（slipped capital femoral epiphysis, SCFE）。此病是近端股骨生長板（physis）病變，治療重點是防止進一步滑脫，通常需要手術固定。<br> (A) 正確，股骨頭骨骺滑脫（SCFE）主要發生於青少年快速生長期，常見於約 10–16 歲，肥胖是重要危險因子。<br> (B) 正確，病變位於近端股骨頭骨骺與股骨頸之間的生長板（proximal femoral physis）；更精確地說，股骨頭骨骺通常留在髖臼內，而股骨頸與幹部相對向前上方移位。<br> (C) 正確，主要病理機轉是生長板（growth plate）強度不足並發生滑脫，滑脫面通常經過肥大軟骨細胞層（hypertrophic zone），概念上類似第一型 Salter-Harris 骨骺損傷（Salter-Harris type I）。<br> (D) 錯誤，SCFE 不建議以保守治療為主；一旦診斷應立即避免負重，標準治療通常是原位螺釘固定（in-situ screw fixation），以避免進一步滑脫及股骨頭缺血性壞死（avascular necrosis）等併發症。",
     "tags": [
       "112-2(四)",
       "小兒科"
