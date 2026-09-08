@@ -1722,6 +1722,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all3" onchange="handleSelectAll('year3')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-2-3">115-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-3">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-3">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-3">114-1</div><br>
@@ -1815,6 +1816,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all4" onchange="handleSelectAll('year4')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-2-4">115-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-4">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-4">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-4">114-1</div><br>
@@ -1887,6 +1889,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all5" onchange="handleSelectAll('year5')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-2-5">115-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-5">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-5">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-5">114-1</div><br>
@@ -1986,6 +1989,7 @@
           <div class="checkbox-group">
             <strong>選擇年份</strong><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="all6" onchange="handleSelectAll('year6')">全選</div><br>
+            <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-2-6">115-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="115-1-6">115-1</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-2-6">114-2</div><br>
             <div class="visual-checkbox" onclick="toggleVisualCheckbox(this)"><input type="checkbox" value="114-1-6">114-1</div><br>
@@ -2544,6 +2548,16 @@
       "婦產科", "眼科", "復健科", "麻醉科", "耳鼻喉科", "醫學倫理(六)"
     ];
 
+    function questionMatchesSubject(question, subject) {
+      const tags = Array.isArray(question.tags) ? question.tags : [];
+      return question.subject === subject || tags.includes(subject);
+    }
+
+    function questionBelongsToGrade(question, grade) {
+      const id = String(question.id || '').padStart(7, '0');
+      return parseInt(id.charAt(4), 10) === grade;
+    }
+
     // 添加鍵盤事件監聽器
     document.addEventListener('keydown', function(event) {
       // 只在步驟模式下啟用鍵盤功能
@@ -3019,7 +3033,7 @@
 
     function formatTags(tags) {
       return tags.map(tag => {
-        const isYear = yearTags.includes(tag);
+        const isYear = yearTags.includes(tag) || /^\d{3}-[12](?:-[1-6])?(?:\([一二三四五六]\))?$/.test(tag);
         const tagClass = isYear ? 'tag year' : 'tag subject';
         return `<span class="${tagClass}">${tag}</span>`;
       }).join(' ');
@@ -3217,9 +3231,7 @@
   if (medicine3Subjects.subjects.length > 0) {
     if (medicine3Subjects.isAllSelected) {
       const totalCount = medicine3Subjects.totalCount;
-      const filteredQuestions = allLoadedQuestions.filter(q => 
-        medicine3Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
-      );
+      const filteredQuestions = allLoadedQuestions.filter(q => questionBelongsToGrade(q, 3));
       
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(三) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
@@ -3231,9 +3243,7 @@
     } else {
       // 個別科目模式
       for (const subjectInfo of medicine3Subjects.subjectCounts) {
-        const subjectQuestions = allLoadedQuestions.filter(q => 
-          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-        );
+        const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
         
         if (subjectQuestions.length === 0) {
           insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
@@ -3248,9 +3258,7 @@
   if (medicine4Subjects.subjects.length > 0) {
     if (medicine4Subjects.isAllSelected) {
       const totalCount = medicine4Subjects.totalCount;
-      const filteredQuestions = allLoadedQuestions.filter(q => 
-        medicine4Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
-      );
+      const filteredQuestions = allLoadedQuestions.filter(q => questionBelongsToGrade(q, 4));
       
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(四) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
@@ -3262,9 +3270,7 @@
     } else {
       // 個別科目模式
       for (const subjectInfo of medicine4Subjects.subjectCounts) {
-        const subjectQuestions = allLoadedQuestions.filter(q => 
-          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-        );
+        const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
         
         if (subjectQuestions.length === 0) {
           insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
@@ -3279,9 +3285,7 @@
   if (medicine5Subjects.subjects.length > 0) {
     if (medicine5Subjects.isAllSelected) {
       const totalCount = medicine5Subjects.totalCount;
-      const filteredQuestions = allLoadedQuestions.filter(q => 
-        medicine5Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
-      );
+      const filteredQuestions = allLoadedQuestions.filter(q => questionBelongsToGrade(q, 5));
       
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(五) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
@@ -3293,9 +3297,7 @@
     } else {
       // 個別科目模式
       for (const subjectInfo of medicine5Subjects.subjectCounts) {
-        const subjectQuestions = allLoadedQuestions.filter(q => 
-          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-        );
+        const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
         
         if (subjectQuestions.length === 0) {
           insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
@@ -3310,9 +3312,7 @@
   if (medicine6Subjects.subjects.length > 0) {
     if (medicine6Subjects.isAllSelected) {
       const totalCount = medicine6Subjects.totalCount;
-      const filteredQuestions = allLoadedQuestions.filter(q => 
-        medicine6Subjects.subjects.some(subject => q.subject === subject || q.tags.includes(subject))
-      );
+      const filteredQuestions = allLoadedQuestions.filter(q => questionBelongsToGrade(q, 6));
       
       if (filteredQuestions.length < totalCount) {
         const confirmUseAll = await customConfirm(`醫學(六) 題庫數量不足！<br><br>您要求的題數：${totalCount} 題<br>實際題庫數量：${filteredQuestions.length} 題<br><br>是否使用所有 ${filteredQuestions.length} 題進行測驗？`);
@@ -3324,9 +3324,7 @@
     } else {
       // 個別科目模式
       for (const subjectInfo of medicine6Subjects.subjectCounts) {
-        const subjectQuestions = allLoadedQuestions.filter(q => 
-          q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-        );
+        const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
         
         if (subjectQuestions.length === 0) {
           insufficientSubjects.push(`${subjectInfo.subject}：0 題（要求 ${subjectInfo.count} 題）`);
@@ -3347,9 +3345,7 @@
   // 實際選取題目（個別科目模式）
   if (!medicine3Subjects.isAllSelected) {
     for (const subjectInfo of medicine3Subjects.subjectCounts) {
-      const subjectQuestions = allLoadedQuestions.filter(q => 
-        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-      );
+      const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
       
       if (subjectQuestions.length === 0) continue;
       
@@ -3363,9 +3359,7 @@
   
   if (!medicine4Subjects.isAllSelected) {
     for (const subjectInfo of medicine4Subjects.subjectCounts) {
-      const subjectQuestions = allLoadedQuestions.filter(q => 
-        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-      );
+      const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
       
       if (subjectQuestions.length === 0) continue;
       
@@ -3379,9 +3373,7 @@
   
   if (!medicine5Subjects.isAllSelected) {
     for (const subjectInfo of medicine5Subjects.subjectCounts) {
-      const subjectQuestions = allLoadedQuestions.filter(q => 
-        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-      );
+      const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
       
       if (subjectQuestions.length === 0) continue;
       
@@ -3395,9 +3387,7 @@
   
   if (!medicine6Subjects.isAllSelected) {
     for (const subjectInfo of medicine6Subjects.subjectCounts) {
-      const subjectQuestions = allLoadedQuestions.filter(q => 
-        q.subject === subjectInfo.subject || q.tags.includes(subjectInfo.subject)
-      );
+      const subjectQuestions = allLoadedQuestions.filter(q => questionMatchesSubject(q, subjectInfo.subject));
       
       if (subjectQuestions.length === 0) continue;
       
@@ -3408,6 +3398,9 @@
       }
     }
   }
+
+  // 避免同一題因多個篩選條件而重複出現。
+  finalQuiz = Array.from(new Map(finalQuiz.map(question => [question.id, question])).values());
 
   if (finalQuiz.length === 0) {
     alert('沒有符合條件的題目，請重新選擇年份或科目');
@@ -4277,6 +4270,14 @@
       // 115年
       years.push({
         year: 115,
+        term: 2,
+        medicine3: "115-2(三)",
+        medicine4: "115-2(四)",
+        medicine5: "115-2(五)",
+        medicine6: "115-2(六)"
+      });
+      years.push({
+        year: 115,
         term: 1,
         medicine3: "115-1(三)",
         medicine4: "115-1(四)",
@@ -4321,7 +4322,7 @@
         });
       }
       
-      return years; // 19份考卷（115-1 到 105-1）
+      return years; // 20個年度梯次（115-2 到 105-1）
     }
 
     // 更新視覺化按鈕狀態
