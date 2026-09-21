@@ -612,7 +612,7 @@
       "D": "TNM分期有時會結合腫瘤的組織學分級（grading）"
     },
     "answer": "C,D",
-    "explanation": "本題依考選部更正答案，作答C、D或CD均給分。爭議核心在於純解剖TNM分類與整合非解剖因子的prognostic stage group之用語界線。<br>(A) 正確，TNM以原發腫瘤範圍（T）、區域淋巴結（N）及遠端轉移（M）描述解剖疾病程度<br>(B) 正確，白血病、多發性骨髓瘤及多數淋巴瘤通常使用各自分期或風險分類，不使用一般實體腫瘤TNM<br>(C) 錯誤且為更正答案之一，ypTNM表示接受新輔助治療後再由手術標本所得的病理分期；未經前置治療的手術病理分期是pTNM<br>(D) 依官方更正亦可判錯，嚴格而言histologic grade是獨立的非解剖因子，不是T、N、M本身；但部分癌別的prognostic stage group確會整合grade，因而產生命題爭議",
+    "explanation": "本題依考選部更正答案，作答C、D或CD均給分。爭議核心在於純解剖TNM分類與整合非解剖因子的prognostic stage group之用語界線。<br>(A) 正確，TNM以原發腫瘤範圍（T）、區域淋巴結（N）及遠端轉移（M）描述解剖疾病程度<br>(B) 正確，白血病、多發性骨髓瘤及多數淋巴瘤通常使用各自分期或風險分類，不使用一般實體腫瘤TNM<br>(C) 錯誤，且為更正答案之一，ypTNM表示接受新輔助治療後再由手術標本所得的病理分期；未經前置治療的手術病理分期是pTNM<br>(D) 錯誤，依官方更正亦可判錯，嚴格而言histologic grade是獨立的非解剖因子，不是T、N、M本身；但部分癌別的prognostic stage group確會整合grade，因而產生命題爭議",
     "tags": [
       "115-2-3",
       "腫瘤科"

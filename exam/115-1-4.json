@@ -63,7 +63,7 @@
       "D": "調高吐氣時間（expiratory time）"
     },
     "answer": "D",
-    "explanation": "呼吸器設定影響氧合（oxygenation）的參數主要是平均氣道壓（mean airway pressure）及吸入氧濃度（FiO₂），而吐氣時間（expiratory time）延長會降低平均氣道壓，不利氧合。<br>(A) 錯誤（可增加氧合），調高最高吸氣壓力（peak inspiratory pressure，PIP）可增加潮氣量（tidal volume）並提升平均氣道壓，有助氧合<br>(B) 錯誤（可增加氧合），調高吐氣末端正壓（positive end-expiratory pressure，PEEP）可防止肺泡塌陷並提升平均氣道壓，有助氧合<br>(C) 錯誤（可增加氧合），調高氣流流量（gas flow）可提升平均氣道壓，有助氧合<br>(D) 正確，調高吐氣時間（expiratory time）會降低呼吸比值（I:E ratio）並降低平均氣道壓，無法增加氧合",
+    "explanation": "呼吸器設定影響氧合（oxygenation）的參數主要是平均氣道壓（mean airway pressure）及吸入氧濃度（FiO₂），而吐氣時間（expiratory time）延長會降低平均氣道壓，不利氧合。<br>(A) 錯誤，調高最高吸氣壓力（peak inspiratory pressure，PIP）可增加潮氣量（tidal volume）並提升平均氣道壓，有助氧合<br>(B) 錯誤，調高吐氣末端正壓（positive end-expiratory pressure，PEEP）可防止肺泡塌陷並提升平均氣道壓，有助氧合<br>(C) 錯誤，調高氣流流量（gas flow）可提升平均氣道壓，有助氧合<br>(D) 正確，調高吐氣時間（expiratory time）會降低呼吸比值（I:E ratio）並降低平均氣道壓，無法增加氧合",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -98,7 +98,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "連續性雜音（continuous murmur）需有貫穿收縮期與舒張期的持續壓力差，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula，PAVF）兩端壓力差不顯著，不會產生連續性雜音。<br>(A) 錯誤（會有連續性雜音），中央分流管（central shunt）造成主動脈與肺動脈間持續壓力差，會產生連續性雜音<br>(B) 錯誤（會有連續性雜音），冠狀動脈竇破裂至右心室（ruptured sinus of Valsalva aneurysm to right ventricle）因兩側持續壓力差而產生連續性雜音<br>(C) 錯誤（會有連續性雜音），大型主動脈至肺動脈側枝血管（major aortopulmonary collateral arteries，MAPCAs）因持續壓力差而產生連續性雜音<br>(D) 正確，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）兩端均為低壓系統，壓力差不足以維持連續性雜音，通常聽到的是收縮期雜音或無明顯雜音",
+    "explanation": "連續性雜音（continuous murmur）需有貫穿收縮期與舒張期的持續壓力差，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula，PAVF）兩端壓力差不顯著，不會產生連續性雜音。<br>(A) 錯誤，中央分流管（central shunt）造成主動脈與肺動脈間持續壓力差，會產生連續性雜音<br>(B) 錯誤，冠狀動脈竇破裂至右心室（ruptured sinus of Valsalva aneurysm to right ventricle）因兩側持續壓力差而產生連續性雜音<br>(C) 錯誤，大型主動脈至肺動脈側枝血管（major aortopulmonary collateral arteries，MAPCAs）因持續壓力差而產生連續性雜音<br>(D) 正確，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）兩端均為低壓系統，壓力差不足以維持連續性雜音，通常聽到的是收縮期雜音或無明顯雜音",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -132,7 +132,7 @@
       "D": "蛋"
     },
     "answer": "C",
-    "explanation": "食物過敏（food allergy）中，部分過敏原（allergen）隨年紀增長有自然緩解的傾向，但海鮮（尤其是甲殼類，shellfish）過敏通常為終身持續，最不易自然消失。<br>(A) 錯誤（較易隨年齡消失），牛奶（cow's milk）過敏多在學齡前後自然緩解，大多數孩童會逐漸耐受<br>(B) 錯誤（較易隨年齡消失），黃豆（soy）過敏也常在幼兒期後自然緩解<br>(C) 正確，海鮮（seafood）過敏，尤其是甲殼類（shellfish）和魚類（fish），通常持續終身，最不易隨年齡消失<br>(D) 錯誤（較易隨年齡消失），蛋（egg）過敏在學齡前後也有相當比例會自然緩解",
+    "explanation": "食物過敏（food allergy）中，部分過敏原（allergen）隨年紀增長有自然緩解的傾向，但海鮮（尤其是甲殼類，shellfish）過敏通常為終身持續，最不易自然消失。<br>(A) 錯誤，牛奶（cow's milk）過敏多在學齡前後自然緩解，大多數孩童會逐漸耐受<br>(B) 錯誤，黃豆（soy）過敏也常在幼兒期後自然緩解<br>(C) 正確，海鮮（seafood）過敏，尤其是甲殼類（shellfish）和魚類（fish），通常持續終身，最不易隨年齡消失<br>(D) 錯誤，蛋（egg）過敏在學齡前後也有相當比例會自然緩解",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -336,7 +336,7 @@
       "D": "葉酸缺乏（folate deficiency）"
     },
     "answer": "B",
-    "explanation": "大球性貧血（macrocytic anemia）的特徵是平均紅血球容積（mean corpuscular volume，MCV）偏高；鉛中毒（lead poisoning）主要造成小球性或正球性（microcytic or normocytic）貧血，並影響血紅素合成，不屬於大球性貧血。<br>(A) 錯誤（確實屬於大球性貧血），硫胺素反應性貧血（thiamine-responsive megaloblastic anemia）屬於巨球性貧血（megaloblastic anemia），MCV偏高<br>(B) 正確，鉛中毒（lead poisoning）主要造成小球性或正球性貧血（因血基質合成受阻），並非大球性貧血，因此不屬於此類別<br>(C) 錯誤（確實屬於大球性貧血），范可尼貧血（Fanconi anemia）常伴隨大球性貧血及骨髓衰竭（bone marrow failure）<br>(D) 錯誤（確實屬於大球性貧血），葉酸缺乏（folate deficiency）是經典的巨球性大球性貧血病因",
+    "explanation": "大球性貧血（macrocytic anemia）的特徵是平均紅血球容積（mean corpuscular volume，MCV）偏高；鉛中毒（lead poisoning）主要造成小球性或正球性（microcytic or normocytic）貧血，並影響血紅素合成，不屬於大球性貧血。<br>(A) 錯誤，硫胺素反應性貧血（thiamine-responsive megaloblastic anemia）屬於巨球性貧血（megaloblastic anemia），MCV偏高<br>(B) 正確，鉛中毒（lead poisoning）主要造成小球性或正球性貧血（因血基質合成受阻），並非大球性貧血，因此不屬於此類別<br>(C) 錯誤，范可尼貧血（Fanconi anemia）常伴隨大球性貧血及骨髓衰竭（bone marrow failure）<br>(D) 錯誤，葉酸缺乏（folate deficiency）是經典的巨球性大球性貧血病因",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -387,7 +387,7 @@
       "D": "肌躍型抽搐（myoclonic jerk）"
     },
     "answer": "C",
-    "explanation": "兒童腸病毒（enterovirus）重症前兆症狀需熟記，結膜出血（conjunctival hemorrhage）不是腸病毒重症的前兆表現，而肌躍型抽搐、持續嘔吐及呼吸急促才是重要警示徵象。<br>(A) 錯誤（確實是前兆），呼吸急促（tachypnea）是腸病毒重症（尤其是神經性肺水腫，neurogenic pulmonary edema）的重要前兆<br>(B) 錯誤（確實是前兆），持續嘔吐（persistent vomiting）是腸病毒重症的前兆之一，反映自律神經功能失調（autonomic dysfunction）<br>(C) 正確，結膜出血（conjunctival hemorrhage）不是腸病毒重症的前兆，其他前兆包括肌躍型抽搐、嗜睡、持續嘔吐、呼吸急促、心跳加速及肢體無力<br>(D) 錯誤（確實是前兆），肌躍型抽搐（myoclonic jerk）是腸病毒71型（EV71）重症最具特異性的前兆，反映腦幹（brainstem）受侵犯",
+    "explanation": "兒童腸病毒（enterovirus）重症前兆症狀需熟記，結膜出血（conjunctival hemorrhage）不是腸病毒重症的前兆表現，而肌躍型抽搐、持續嘔吐及呼吸急促才是重要警示徵象。<br>(A) 錯誤，呼吸急促（tachypnea）是腸病毒重症（尤其是神經性肺水腫，neurogenic pulmonary edema）的重要前兆<br>(B) 錯誤，持續嘔吐（persistent vomiting）是腸病毒重症的前兆之一，反映自律神經功能失調（autonomic dysfunction）<br>(C) 正確，結膜出血（conjunctival hemorrhage）不是腸病毒重症的前兆，其他前兆包括肌躍型抽搐、嗜睡、持續嘔吐、呼吸急促、心跳加速及肢體無力<br>(D) 錯誤，肌躍型抽搐（myoclonic jerk）是腸病毒71型（EV71）重症最具特異性的前兆，反映腦幹（brainstem）受侵犯",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -524,7 +524,7 @@
       "D": "有癲癇的家族病史"
     },
     "answer": "A",
-    "explanation": "熱性痙攣（febrile seizure）後續發展為癲癇（epilepsy）的危險因子包括複雜性發作、神經發展異常、癲癇家族史及發燒後很快發生痙攣等；單純性熱性痙攣（simple febrile seizure）本身是後續發展為癲癇的低危險族群。<br>(A) 正確，單純性熱性痙攣（simple febrile seizure，即全面性、持續不超過15分鐘、24小時內不重複發作）後續發展為癲癇的機率最低，約與一般族群相當（2至3%）<br>(B) 錯誤（此為危險因子），發燒後不到1小時即發生熱性痙攣，代表神經系統對溫度變化較敏感，是後續發展癲癇的危險因子<br>(C) 錯誤（此為危險因子），神經發展障礙或缺陷（neurodevelopmental abnormality）是發展為癲癇的重要危險因子<br>(D) 錯誤（此為危險因子），有癲癇的家族病史（family history of epilepsy）會增加後續發展為癲癇的風險",
+    "explanation": "熱性痙攣（febrile seizure）後續發展為癲癇（epilepsy）的危險因子包括複雜性發作、神經發展異常、癲癇家族史及發燒後很快發生痙攣等；單純性熱性痙攣（simple febrile seizure）本身是後續發展為癲癇的低危險族群。<br>(A) 正確，單純性熱性痙攣（simple febrile seizure，即全面性、持續不超過15分鐘、24小時內不重複發作）後續發展為癲癇的機率最低，約與一般族群相當（2至3%）<br>(B) 錯誤，發燒後不到1小時即發生熱性痙攣，代表神經系統對溫度變化較敏感，是後續發展癲癇的危險因子<br>(C) 錯誤，神經發展障礙或缺陷（neurodevelopmental abnormality）是發展為癲癇的重要危險因子<br>(D) 錯誤，有癲癇的家族病史（family history of epilepsy）會增加後續發展為癲癇的風險",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -819,7 +819,7 @@
       "D": "味覺異常"
     },
     "answer": "D",
-    "explanation": "國際頭痛學會（International Headache Society，IHS）對偏頭痛（migraine）的診斷標準包含特定症狀組合，味覺異常（taste disturbance）並不在其中，屬於其他神經系統症狀或先兆（aura）的變異表現。<br>(A) 錯誤（確實屬於診斷標準），畏光（photophobia）且怕吵（phonophobia）是偏頭痛IHS診斷標準中的伴隨症狀之一<br>(B) 錯誤（確實屬於診斷標準），搏動性（pulsating quality）頭痛是偏頭痛IHS診斷標準中頭痛特性之一<br>(C) 錯誤（確實屬於診斷標準），噁心（nausea）或嘔吐（vomiting）是偏頭痛IHS診斷標準中的伴隨症狀之一<br>(D) 正確，味覺異常（taste disturbance）不屬於IHS偏頭痛診斷標準中的症狀，嗅覺過敏（osmophobia）雖常見於偏頭痛患者，但也未納入正式診斷標準",
+    "explanation": "國際頭痛學會（International Headache Society，IHS）對偏頭痛（migraine）的診斷標準包含特定症狀組合，味覺異常（taste disturbance）並不在其中，屬於其他神經系統症狀或先兆（aura）的變異表現。<br>(A) 錯誤，畏光（photophobia）且怕吵（phonophobia）是偏頭痛IHS診斷標準中的伴隨症狀之一<br>(B) 錯誤，搏動性（pulsating quality）頭痛是偏頭痛IHS診斷標準中頭痛特性之一<br>(C) 錯誤，噁心（nausea）或嘔吐（vomiting）是偏頭痛IHS診斷標準中的伴隨症狀之一<br>(D) 正確，味覺異常（taste disturbance）不屬於IHS偏頭痛診斷標準中的症狀，嗅覺過敏（osmophobia）雖常見於偏頭痛患者，但也未納入正式診斷標準",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -891,7 +891,7 @@
       "D": "monoamine oxidase type B inhibitors"
     },
     "answer": "B",
-    "explanation": "巴金森氏病（Parkinson disease，PD）的主要病理為黑質紋狀體多巴胺（dopamine）神經元退化，認知功能正常的患者不需要使用膽鹼酯酶抑制劑（cholinesterase inhibitor），該藥物是用於巴金森氏病合併失智症（Parkinson disease dementia，PDD）或路易體失智症（Lewy body dementia，LBD）的治療。<br>(A) 錯誤（此為可考慮的治療），抗膽鹼藥物（anticholinergics）可用於改善顫抖（tremor）為主的年輕巴金森氏病患者，雖現在較少使用，仍屬可考慮選項<br>(B) 正確，膽鹼酯酶抑制劑（cholinesterase inhibitors，如rivastigmine、donepezil）適用於巴金森氏病合併失智症，對認知功能正常的患者使用是最不適當的，且可能加重運動症狀<br>(C) 錯誤（此為適當治療），多巴胺受體促效劑（dopamine agonists，如pramipexole、ropinirole）是認知功能正常巴金森氏病患者的適當治療選項<br>(D) 錯誤（此為適當治療），單胺氧化酶B型抑制劑（monoamine oxidase type B inhibitors，MAO-B inhibitors，如selegiline、rasagiline）是巴金森氏病的適當治療選項",
+    "explanation": "巴金森氏病（Parkinson disease，PD）的主要病理為黑質紋狀體多巴胺（dopamine）神經元退化，認知功能正常的患者不需要使用膽鹼酯酶抑制劑（cholinesterase inhibitor），該藥物是用於巴金森氏病合併失智症（Parkinson disease dementia，PDD）或路易體失智症（Lewy body dementia，LBD）的治療。<br>(A) 錯誤，抗膽鹼藥物（anticholinergics）可用於改善顫抖（tremor）為主的年輕巴金森氏病患者，雖現在較少使用，仍屬可考慮選項<br>(B) 正確，膽鹼酯酶抑制劑（cholinesterase inhibitors，如rivastigmine、donepezil）適用於巴金森氏病合併失智症，對認知功能正常的患者使用是最不適當的，且可能加重運動症狀<br>(C) 錯誤，多巴胺受體促效劑（dopamine agonists，如pramipexole、ropinirole）是認知功能正常巴金森氏病患者的適當治療選項<br>(D) 錯誤，單胺氧化酶B型抑制劑（monoamine oxidase type B inhibitors，MAO-B inhibitors，如selegiline、rasagiline）是巴金森氏病的適當治療選項",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -1010,7 +1010,7 @@
       "D": "negativism"
     },
     "answer": "C",
-    "explanation": "僵直症（catatonia）是一種精神運動症候群（psychomotor syndrome），其症狀包括多種運動及行為異常；nihilism（虛無妄想）是一種思想內容的妄想型態，屬於思覺失調症（schizophrenia）等疾病的精神病症狀，不屬於僵直症的定義範疇。<br>(A) 錯誤（確實屬於僵直症），mannerism（怪異舉止）是僵直症的症狀之一，指奇特的重複性動作或姿勢<br>(B) 錯誤（確實屬於僵直症），mutism（緘默症）是僵直症的核心症狀之一，指無法或拒絕說話<br>(C) 正確，nihilism（虛無妄想）是指患者相信自己或外界不存在的妄想內容，屬於精神病性症狀（psychotic symptom），不屬於僵直症（catatonia）的症狀<br>(D) 錯誤（確實屬於僵直症），negativism（拒絕症）是僵直症的症狀之一，指患者主動抵抗或做出與指令相反的行為",
+    "explanation": "僵直症（catatonia）是一種精神運動症候群（psychomotor syndrome），其症狀包括多種運動及行為異常；nihilism（虛無妄想）是一種思想內容的妄想型態，屬於思覺失調症（schizophrenia）等疾病的精神病症狀，不屬於僵直症的定義範疇。<br>(A) 錯誤，mannerism（怪異舉止）是僵直症的症狀之一，指奇特的重複性動作或姿勢<br>(B) 錯誤，mutism（緘默症）是僵直症的核心症狀之一，指無法或拒絕說話<br>(C) 正確，nihilism（虛無妄想）是指患者相信自己或外界不存在的妄想內容，屬於精神病性症狀（psychotic symptom），不屬於僵直症（catatonia）的症狀<br>(D) 錯誤，negativism（拒絕症）是僵直症的症狀之一，指患者主動抵抗或做出與指令相反的行為",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1027,7 +1027,7 @@
       "D": "使用 lamotrigine"
     },
     "answer": "A",
-    "explanation": "雙極情緒障礙症鬱期（bipolar depression）的藥物治療需避免使用單純抗憂鬱劑（antidepressant）或具有躁症誘發風險的藥物；risperidone雖為非典型抗精神病藥（atypical antipsychotic），但其核准適應症主要為躁期（manic episode）及精神分裂症，用於雙極鬱期的證據不足且可能增加情緒轉躁（switch to mania）風險。<br>(A) 正確，risperidone主要核准用於雙極症躁期（manic episode）及精神分裂症，用於雙極鬱期（bipolar depression）的實證支持不足，並非適當選擇<br>(B) 錯誤（此為適當治療），鋰鹽（lithium）是雙極情緒障礙症的經典情緒穩定劑（mood stabilizer），對雙極鬱期具有治療效果<br>(C) 錯誤（此為適當治療），lurasidone已獲FDA核准用於雙極鬱期（bipolar depression）的治療，是有實證支持的選項<br>(D) 錯誤（此為適當治療），lamotrigine（拉莫三嗪）對雙極鬱期具有良好療效，是常用的雙極鬱期維持治療藥物",
+    "explanation": "雙極情緒障礙症鬱期（bipolar depression）的藥物治療需避免使用單純抗憂鬱劑（antidepressant）或具有躁症誘發風險的藥物；risperidone雖為非典型抗精神病藥（atypical antipsychotic），但其核准適應症主要為躁期（manic episode）及精神分裂症，用於雙極鬱期的證據不足且可能增加情緒轉躁（switch to mania）風險。<br>(A) 正確，risperidone主要核准用於雙極症躁期（manic episode）及精神分裂症，用於雙極鬱期（bipolar depression）的實證支持不足，並非適當選擇<br>(B) 錯誤，鋰鹽（lithium）是雙極情緒障礙症的經典情緒穩定劑（mood stabilizer），對雙極鬱期具有治療效果<br>(C) 錯誤，lurasidone已獲FDA核准用於雙極鬱期（bipolar depression）的治療，是有實證支持的選項<br>(D) 錯誤，lamotrigine（拉莫三嗪）對雙極鬱期具有良好療效，是常用的雙極鬱期維持治療藥物",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1180,7 +1180,7 @@
       "D": "Ketamine"
     },
     "answer": "D",
-    "explanation": "中樞神經刺激劑（central nervous system stimulants）的定義是增加中樞神經系統活性的物質，主要透過增加多巴胺（dopamine）及正腎上腺素（norepinephrine）的作用；ketamine是一種解離性麻醉劑（dissociative anesthetic），作用機制為NMDA受體拮抗劑（NMDA receptor antagonist），不屬於刺激劑。<br>(A) 錯誤（確實屬於刺激劑），cocaine透過阻斷多巴胺、正腎上腺素及血清素（serotonin）的再回收（reuptake），產生強烈的中樞神經刺激效果<br>(B) 錯誤（確實屬於刺激劑），methamphetamine透過促進多巴胺及正腎上腺素的釋放並抑制其再回收，屬於強效中樞神經刺激劑<br>(C) 錯誤（確實屬於刺激劑），methylphenidate（利他能，Ritalin）透過阻斷多巴胺及正腎上腺素的再回收，用於治療注意力不足過動症（ADHD），屬於中樞神經刺激劑<br>(D) 正確，ketamine（愷他命）是NMDA受體拮抗劑（NMDA receptor antagonist），屬於解離性麻醉劑（dissociative anesthetic），不屬於中樞神經刺激劑的分類",
+    "explanation": "中樞神經刺激劑（central nervous system stimulants）的定義是增加中樞神經系統活性的物質，主要透過增加多巴胺（dopamine）及正腎上腺素（norepinephrine）的作用；ketamine是一種解離性麻醉劑（dissociative anesthetic），作用機制為NMDA受體拮抗劑（NMDA receptor antagonist），不屬於刺激劑。<br>(A) 錯誤，cocaine透過阻斷多巴胺、正腎上腺素及血清素（serotonin）的再回收（reuptake），產生強烈的中樞神經刺激效果<br>(B) 錯誤，methamphetamine透過促進多巴胺及正腎上腺素的釋放並抑制其再回收，屬於強效中樞神經刺激劑<br>(C) 錯誤，methylphenidate（利他能，Ritalin）透過阻斷多巴胺及正腎上腺素的再回收，用於治療注意力不足過動症（ADHD），屬於中樞神經刺激劑<br>(D) 正確，ketamine（愷他命）是NMDA受體拮抗劑（NMDA receptor antagonist），屬於解離性麻醉劑（dissociative anesthetic），不屬於中樞神經刺激劑的分類",
     "tags": [
       "115-1-4",
       "精神科"

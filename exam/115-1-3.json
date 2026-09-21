@@ -60,7 +60,7 @@
       "D": "手術性昏厥（operation related）"
     },
     "answer": "D",
-    "explanation": "昏厥（syncope）是因腦部短暫血流不足導致的一過性意識喪失，需從神經性、心因性、體位性等機轉來思考。<br>(A) 錯誤（此題選項為可能的原因），迷走神經性昏厥（vasovagal syncope）是最常見的昏厥類型，屬於反射性昏厥<br>(B) 錯誤（此題選項為可能的原因），姿態性低血壓（orthostatic hypotension）是常見昏厥原因，尤其見於老人或服用降壓藥者<br>(C) 錯誤（此題選項為可能的原因），心因性昏厥（cardiac syncope）包含心律不整或結構性心臟病導致的昏厥，是預後較差的類型<br>(D) 正確，手術性昏厥（operation related）並非昏厥的獨立病因分類，昏厥的標準病因分類中不包含此項",
+    "explanation": "昏厥（syncope）是因腦部短暫血流不足導致的一過性意識喪失，需從神經性、心因性、體位性等機轉來思考。<br>(A) 錯誤，迷走神經性昏厥（vasovagal syncope）是最常見的昏厥類型，屬於反射性昏厥<br>(B) 錯誤，姿態性低血壓（orthostatic hypotension）是常見昏厥原因，尤其見於老人或服用降壓藥者<br>(C) 錯誤，心因性昏厥（cardiac syncope）包含心律不整或結構性心臟病導致的昏厥，是預後較差的類型<br>(D) 正確，手術性昏厥（operation related）並非昏厥的獨立病因分類，昏厥的標準病因分類中不包含此項",
     "tags": [
       "115-1-3",
       "心臟內科"
@@ -201,7 +201,7 @@
       "D": "尿酸"
     },
     "answer": "D",
-    "explanation": "高血壓的病因探索包含腎性、內分泌性、腎血管性等繼發性原因，各種血液檢查項目與不同病因的關聯程度不同。<br>(A) 錯誤（此選項與高血壓致病機轉有關），肌酸酐（creatinine）可反映腎功能，與腎性高血壓或高血壓腎損傷相關<br>(B) 錯誤（此選項與高血壓致病機轉有關），鉀離子（potassium）低下可提示原發性醛固酮增多症（primary aldosteronism），是繼發性高血壓的重要線索<br>(C) 錯誤（此選項與高血壓致病機轉有關），甲狀腺素（thyroid hormone）異常可導致繼發性高血壓，需排除甲狀腺功能亢進或低下<br>(D) 正確，尿酸（uric acid）雖與代謝症候群及高血壓有流行病學相關性，但並非探索高血壓致病機轉的核心檢查項目，在繼發性高血壓的鑑別診斷中貢獻最少",
+    "explanation": "高血壓的病因探索包含腎性、內分泌性、腎血管性等繼發性原因，各種血液檢查項目與不同病因的關聯程度不同。<br>(A) 錯誤，肌酸酐（creatinine）可反映腎功能，與腎性高血壓或高血壓腎損傷相關<br>(B) 錯誤，鉀離子（potassium）低下可提示原發性醛固酮增多症（primary aldosteronism），是繼發性高血壓的重要線索<br>(C) 錯誤，甲狀腺素（thyroid hormone）異常可導致繼發性高血壓，需排除甲狀腺功能亢進或低下<br>(D) 正確，尿酸（uric acid）雖與代謝症候群及高血壓有流行病學相關性，但並非探索高血壓致病機轉的核心檢查項目，在繼發性高血壓的鑑別診斷中貢獻最少",
     "tags": [
       "115-1-3",
       "心臟內科"
@@ -256,7 +256,7 @@
       "D": "tenofovir（TAF）"
     },
     "answer": "A",
-    "explanation": "懷孕的慢性B型肝炎（chronic hepatitis B）婦女使用核苷酸類似物（nucleos(t)ide analogue）治療時，藥物的致畸胎性與安全性分類是選藥關鍵。<br>(A) 正確（此為答案，即不建議使用者），entecavir在動物實驗中有致畸胎性的疑慮，懷孕安全分類為C級，不建議在懷孕婦女中使用<br>(B) 錯誤（此選項為可使用者），telbivudine懷孕安全分類為B級，可在懷孕期間使用，但目前已較少使用<br>(C) 錯誤（此選項為可使用者），tenofovir disoproxil fumarate（TDF）懷孕安全分類為B級，是懷孕婦女抗B肝治療的首選藥物之一<br>(D) 錯誤（此選項為可使用者），tenofovir alafenamide（TAF）懷孕安全分類為B級，可用於懷孕婦女",
+    "explanation": "懷孕的慢性B型肝炎（chronic hepatitis B）婦女使用核苷酸類似物（nucleos(t)ide analogue）治療時，藥物的致畸胎性與安全性分類是選藥關鍵。<br>(A) 正確，entecavir在動物實驗中有致畸胎性的疑慮，懷孕安全分類為C級，不建議在懷孕婦女中使用<br>(B) 錯誤，telbivudine懷孕安全分類為B級，可在懷孕期間使用，但目前已較少使用<br>(C) 錯誤，tenofovir disoproxil fumarate（TDF）懷孕安全分類為B級，是懷孕婦女抗B肝治療的首選藥物之一<br>(D) 錯誤，tenofovir alafenamide（TAF）懷孕安全分類為B級，可用於懷孕婦女",
     "tags": [
       "115-1-3",
       "肝膽內科"
@@ -341,7 +341,7 @@
       "D": "膽結石（cholelithiasis）"
     },
     "answer": "B",
-    "explanation": "急性胰臟炎（acute pancreatitis）的常見病因記憶口訣包含膽石、酒精、高三酸甘油酯等，需排除不可能的病因。<br>(A) 錯誤（此選項為可能原因），高三酸甘油酯血症（hypertriglyceridemia）是急性胰臟炎的明確病因，血清三酸甘油酯超過1000 mg/dL時風險顯著上升<br>(B) 正確，低血鈣症（hypocalcemia）是急性胰臟炎的「結果」而非「原因」，急性胰臟炎發生後因脂肪壞死（fat saponification）消耗大量鈣離子才導致低血鈣，因果關係相反<br>(C) 錯誤（此選項為可能原因），胰腺癌（pancreatic adenocarcinoma）可阻塞胰管導致胰液積聚，引發急性或慢性胰臟炎<br>(D) 錯誤（此選項為可能原因），膽結石（cholelithiasis）阻塞胰管開口是最常見的急性胰臟炎病因之一",
+    "explanation": "急性胰臟炎（acute pancreatitis）的常見病因記憶口訣包含膽石、酒精、高三酸甘油酯等，需排除不可能的病因。<br>(A) 錯誤，高三酸甘油酯血症（hypertriglyceridemia）是急性胰臟炎的明確病因，血清三酸甘油酯超過1000 mg/dL時風險顯著上升<br>(B) 正確，低血鈣症（hypocalcemia）是急性胰臟炎的「結果」而非「原因」，急性胰臟炎發生後因脂肪壞死（fat saponification）消耗大量鈣離子才導致低血鈣，因果關係相反<br>(C) 錯誤，胰腺癌（pancreatic adenocarcinoma）可阻塞胰管導致胰液積聚，引發急性或慢性胰臟炎<br>(D) 錯誤，膽結石（cholelithiasis）阻塞胰管開口是最常見的急性胰臟炎病因之一",
     "tags": [
       "115-1-3",
       "腸胃內科"
@@ -375,7 +375,7 @@
       "D": "急性膽管炎（acute cholangitis）"
     },
     "answer": "B",
-    "explanation": "膽囊與膽管結石可引發多種嚴重併發症，但膽管囊腫（choledochal cyst）為先天性結構異常，與結石無關。<br>(A) 錯誤（此選項為結石併發症），急性膽囊炎（acute cholecystitis）最常由膽囊結石阻塞膽囊頸或膽囊管引起<br>(B) 正確，膽管囊腫（choledochal cyst）是先天性膽道發育異常，為膽管的囊狀擴張，其成因與結石無關，不屬於結石引發的併發症<br>(C) 錯誤（此選項為結石併發症），膽管結石阻塞胰管開口（Vater壺腹）可引發急性胰臟炎（acute pancreatitis）<br>(D) 錯誤（此選項為結石併發症），膽管結石合併細菌感染可導致急性膽管炎（acute cholangitis），嚴重時出現Charcot三聯症（發燒、黃疸、右上腹痛）",
+    "explanation": "膽囊與膽管結石可引發多種嚴重併發症，但膽管囊腫（choledochal cyst）為先天性結構異常，與結石無關。<br>(A) 錯誤，急性膽囊炎（acute cholecystitis）最常由膽囊結石阻塞膽囊頸或膽囊管引起<br>(B) 正確，膽管囊腫（choledochal cyst）是先天性膽道發育異常，為膽管的囊狀擴張，其成因與結石無關，不屬於結石引發的併發症<br>(C) 錯誤，膽管結石阻塞胰管開口（Vater壺腹）可引發急性胰臟炎（acute pancreatitis）<br>(D) 錯誤，膽管結石合併細菌感染可導致急性膽管炎（acute cholangitis），嚴重時出現Charcot三聯症（發燒、黃疸、右上腹痛）",
     "tags": [
       "115-1-3",
       "肝膽內科"
@@ -409,7 +409,7 @@
       "D": "貧血"
     },
     "answer": "A",
-    "explanation": "慢性腎臟病（chronic kidney disease，CKD）因腎臟調節功能喪失，會導致多種電解質與代謝異常，但鈉離子的調節有其特殊性。<br>(A) 正確，高血鈉（hypernatremia）在慢性腎臟病中非常少見，因為只要患者有正常口渴感並能自由飲水，腎臟即使功能受損仍能維持血鈉平衡；CKD反而較常見低血鈉（hyponatremia）<br>(B) 錯誤（此為常見障礙），腎臟排磷能力下降導致高血磷（hyperphosphatemia）是CKD常見的代謝異常<br>(C) 錯誤（此為常見障礙），高血磷刺激副甲狀腺素（parathyroid hormone）分泌，加上活性維生素D不足，導致次發性副甲狀腺機能亢進（secondary hyperparathyroidism）<br>(D) 錯誤（此為常見障礙），腎臟合成紅血球生成素（erythropoietin）不足導致腎性貧血（renal anemia）是CKD極常見的併發症",
+    "explanation": "慢性腎臟病（chronic kidney disease，CKD）因腎臟調節功能喪失，會導致多種電解質與代謝異常，但鈉離子的調節有其特殊性。<br>(A) 正確，高血鈉（hypernatremia）在慢性腎臟病中非常少見，因為只要患者有正常口渴感並能自由飲水，腎臟即使功能受損仍能維持血鈉平衡；CKD反而較常見低血鈉（hyponatremia）<br>(B) 錯誤，腎臟排磷能力下降導致高血磷（hyperphosphatemia）是CKD常見的代謝異常<br>(C) 錯誤，高血磷刺激副甲狀腺素（parathyroid hormone）分泌，加上活性維生素D不足，導致次發性副甲狀腺機能亢進（secondary hyperparathyroidism）<br>(D) 錯誤，腎臟合成紅血球生成素（erythropoietin）不足導致腎性貧血（renal anemia）是CKD極常見的併發症",
     "tags": [
       "115-1-3",
       "腎臟內科"
@@ -528,7 +528,7 @@
       "D": "血液檢查有 anti-β2 glycoprotein I（anti-β2GPI）抗體"
     },
     "answer": "B",
-    "explanation": "抗磷脂症候群（antiphospholipid syndrome，APS）的診斷依賴特定的臨床表現（血栓事件或病態妊娠）加上持續性的抗磷脂抗體（antiphospholipid antibodies），消化道出血不在其典型臨床表現中。<br>(A) 錯誤（此選項有助於診斷），血小板低下（thrombocytopenia）是APS常見的血液學表現，屬於APS的非標準分類標準之一<br>(B) 正確，反覆胃腸出血（recurrent gastrointestinal bleeding）並非APS的典型或診斷相關臨床表現，APS以血栓形成（動脈或靜脈）及病態妊娠（反覆流產等）為主要表現<br>(C) 錯誤（此選項有助於診斷），反覆流產（recurrent pregnancy loss）是APS診斷標準中病態妊娠的重要項目<br>(D) 錯誤（此選項有助於診斷），抗β2醣蛋白I抗體（anti-β2 glycoprotein I antibody，anti-β2GPI）是APS三項主要抗體之一，直接支持診斷",
+    "explanation": "抗磷脂症候群（antiphospholipid syndrome，APS）的診斷依賴特定的臨床表現（血栓事件或病態妊娠）加上持續性的抗磷脂抗體（antiphospholipid antibodies），消化道出血不在其典型臨床表現中。<br>(A) 錯誤，血小板低下（thrombocytopenia）是APS常見的血液學表現，屬於APS的非標準分類標準之一<br>(B) 正確，反覆胃腸出血（recurrent gastrointestinal bleeding）並非APS的典型或診斷相關臨床表現，APS以血栓形成（動脈或靜脈）及病態妊娠（反覆流產等）為主要表現<br>(C) 錯誤，反覆流產（recurrent pregnancy loss）是APS診斷標準中病態妊娠的重要項目<br>(D) 錯誤，抗β2醣蛋白I抗體（anti-β2 glycoprotein I antibody，anti-β2GPI）是APS三項主要抗體之一，直接支持診斷",
     "tags": [
       "115-1-3",
       "風濕免疫科"
@@ -817,7 +817,7 @@
       "D": "細菌性肺炎"
     },
     "answer": "B",
-    "explanation": "此患者為長期重度吸菸的65歲男性，以咳嗽、黃色膿痰、喘鳴音（wheezing）為主訴，需從最符合病史的角度排除最不可能的診斷。<br>(A) 錯誤（此為可能診斷），長期吸菸合併咳嗽、膿痰及喘鳴音，高度符合慢性阻塞性肺病（COPD）急性發作（acute exacerbation of COPD）<br>(B) 正確，急性心臟衰竭（acute heart failure）的典型喘鳴應為心源性喘鳴（cardiac wheeze），合併端坐呼吸（orthopnea）、下肢水腫及粉紅色泡沫痰，此患者無上述心衰竭典型表現，且有膿性痰與吸菸史，以感染性/氣道疾病解釋更合理，急性心臟衰竭是最不可能的診斷<br>(C) 錯誤（此為可能診斷），長期吸菸者合併慢性咳嗽、膿痰及喘鳴，需考慮支氣管擴張症（bronchiectasis）急性惡化<br>(D) 錯誤（此為可能診斷），細菌性肺炎（bacterial pneumonia）可表現為發燒、膿痰與呼吸困難，在老年吸菸者中需列入鑑別診斷",
+    "explanation": "此患者為長期重度吸菸的65歲男性，以咳嗽、黃色膿痰、喘鳴音（wheezing）為主訴，需從最符合病史的角度排除最不可能的診斷。<br>(A) 錯誤，長期吸菸合併咳嗽、膿痰及喘鳴音，高度符合慢性阻塞性肺病（COPD）急性發作（acute exacerbation of COPD）<br>(B) 正確，急性心臟衰竭（acute heart failure）的典型喘鳴應為心源性喘鳴（cardiac wheeze），合併端坐呼吸（orthopnea）、下肢水腫及粉紅色泡沫痰，此患者無上述心衰竭典型表現，且有膿性痰與吸菸史，以感染性/氣道疾病解釋更合理，急性心臟衰竭是最不可能的診斷<br>(C) 錯誤，長期吸菸者合併慢性咳嗽、膿痰及喘鳴，需考慮支氣管擴張症（bronchiectasis）急性惡化<br>(D) 錯誤，細菌性肺炎（bacterial pneumonia）可表現為發燒、膿痰與呼吸困難，在老年吸菸者中需列入鑑別診斷",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -834,7 +834,7 @@
       "D": "膈神經麻痺（phrenic nerve palsy）"
     },
     "answer": "C",
-    "explanation": "胸腔超音波（thoracic ultrasound）對於偵測肺表面、肋膜腔及橫膈的病變敏感性高，但對縱膈腔（mediastinum）結構的評估有其物理限制。<br>(A) 錯誤（此為超音波有幫助的疾病），氣胸（pneumothorax）可藉由胸腔超音波偵測「肺滑動消失（absence of lung sliding）」與「B線消失」來快速診斷，敏感性高<br>(B) 錯誤（此為超音波有幫助的疾病），肋膜腔積液（pleural effusion）是胸腔超音波最適合偵測的疾病，可確認積液存在並引導穿刺引流<br>(C) 正確，縱膈腔淋巴結腫大（mediastinal lymphadenopathy）位於胸骨後方的縱膈腔深處，超音波訊號無法穿透充氣的肺組織與骨骼，因此胸腔超音波對縱膈腔結構的評估能力極為有限，應改用電腦斷層（CT）或正子斷層攝影（PET-CT）<br>(D) 錯誤（此為超音波有幫助的疾病），膈神經麻痺（phrenic nerve palsy）可藉由超音波觀察橫膈在呼吸時的運動幅度與方向來評估，是超音波的適用情境",
+    "explanation": "胸腔超音波（thoracic ultrasound）對於偵測肺表面、肋膜腔及橫膈的病變敏感性高，但對縱膈腔（mediastinum）結構的評估有其物理限制。<br>(A) 錯誤，氣胸（pneumothorax）可藉由胸腔超音波偵測「肺滑動消失（absence of lung sliding）」與「B線消失」來快速診斷，敏感性高<br>(B) 錯誤，肋膜腔積液（pleural effusion）是胸腔超音波最適合偵測的疾病，可確認積液存在並引導穿刺引流<br>(C) 正確，縱膈腔淋巴結腫大（mediastinal lymphadenopathy）位於胸骨後方的縱膈腔深處，超音波訊號無法穿透充氣的肺組織與骨骼，因此胸腔超音波對縱膈腔結構的評估能力極為有限，應改用電腦斷層（CT）或正子斷層攝影（PET-CT）<br>(D) 錯誤，膈神經麻痺（phrenic nerve palsy）可藉由超音波觀察橫膈在呼吸時的運動幅度與方向來評估，是超音波的適用情境",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -851,7 +851,7 @@
       "D": "免疫治療"
     },
     "answer": "B",
-    "explanation": "此患者為重度吸菸者，鱗狀細胞癌（squamous cell carcinoma）合併PD-L1高表現（≧50%），右上肺合併區域淋巴結（鎖骨上及縱膈腔）轉移但無遠端器官轉移，臨床分期約為局部晚期（locally advanced，stage IIIB/IIIC），需選擇對預後最無幫助的治療方式。<br>(A) 錯誤（此選項對預後有幫助），局部晚期肺癌的治療以同步放化療（concurrent chemoradiotherapy）為核心，高劑量放射治療（radiotherapy）是重要的局部控制手段<br>(B) 正確，此患者已有縱膈腔及鎖骨上淋巴結轉移，屬於局部晚期（stage IIIB以上），手術切除（surgery）已非標準治療選項；強行手術無法達到根治性切除（R0 resection），對預後改善幫助相對最小<br>(C) 錯誤（此選項對預後有幫助），化學治療（chemotherapy）是局部晚期肺癌同步放化療的重要組成，對疾病控制有貢獻<br>(D) 錯誤（此選項對預後有幫助），PD-L1≧50%的患者對免疫治療（immunotherapy，如pembrolizumab）反應良好，可顯著改善存活率",
+    "explanation": "此患者為重度吸菸者，鱗狀細胞癌（squamous cell carcinoma）合併PD-L1高表現（≧50%），右上肺合併區域淋巴結（鎖骨上及縱膈腔）轉移但無遠端器官轉移，臨床分期約為局部晚期（locally advanced，stage IIIB/IIIC），需選擇對預後最無幫助的治療方式。<br>(A) 錯誤，局部晚期肺癌的治療以同步放化療（concurrent chemoradiotherapy）為核心，高劑量放射治療（radiotherapy）是重要的局部控制手段<br>(B) 正確，此患者已有縱膈腔及鎖骨上淋巴結轉移，屬於局部晚期（stage IIIB以上），手術切除（surgery）已非標準治療選項；強行手術無法達到根治性切除（R0 resection），對預後改善幫助相對最小<br>(C) 錯誤，化學治療（chemotherapy）是局部晚期肺癌同步放化療的重要組成，對疾病控制有貢獻<br>(D) 錯誤，PD-L1≧50%的患者對免疫治療（immunotherapy，如pembrolizumab）反應良好，可顯著改善存活率",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -868,7 +868,7 @@
       "D": "肺高壓（pulmonary hypertension）"
     },
     "answer": "B",
-    "explanation": "慢性呼吸困難（chronic dyspnea）的主要病因涵蓋心肺、神經肌肉及血管等多系統疾病，良性局部腫瘤不在其主要病因之列。<br>(A) 錯誤（此為主要原因），重度脊柱後側彎（severe kyphoscoliosis）可嚴重限制胸廓活動與肺部擴張，導致限制型肺疾病（restrictive lung disease）與慢性呼吸困難<br>(B) 正確，肺部良性腫瘤如錯構瘤（hamartoma）通常位於周邊，體積小且生長緩慢，幾乎不造成氣道阻塞或通氣障礙，不是慢性呼吸困難的主要原因<br>(C) 錯誤（此為主要原因），運動神經元疾病（motor neuron disease）如肌萎縮性側索硬化症（amyotrophic lateral sclerosis，ALS）會導致呼吸肌進行性無力，是慢性呼吸困難的重要病因<br>(D) 錯誤（此為主要原因），肺高壓（pulmonary hypertension）增加右心室後負荷，導致運動性及靜息性呼吸困難，是慢性呼吸困難的重要病因",
+    "explanation": "慢性呼吸困難（chronic dyspnea）的主要病因涵蓋心肺、神經肌肉及血管等多系統疾病，良性局部腫瘤不在其主要病因之列。<br>(A) 錯誤，重度脊柱後側彎（severe kyphoscoliosis）可嚴重限制胸廓活動與肺部擴張，導致限制型肺疾病（restrictive lung disease）與慢性呼吸困難<br>(B) 正確，肺部良性腫瘤如錯構瘤（hamartoma）通常位於周邊，體積小且生長緩慢，幾乎不造成氣道阻塞或通氣障礙，不是慢性呼吸困難的主要原因<br>(C) 錯誤，運動神經元疾病（motor neuron disease）如肌萎縮性側索硬化症（amyotrophic lateral sclerosis，ALS）會導致呼吸肌進行性無力，是慢性呼吸困難的重要病因<br>(D) 錯誤，肺高壓（pulmonary hypertension）增加右心室後負荷，導致運動性及靜息性呼吸困難，是慢性呼吸困難的重要病因",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -970,7 +970,7 @@
       "D": "手麻與抽筋"
     },
     "answer": "D",
-    "explanation": "原發性副甲狀腺機能過高（primary hyperparathyroidism）因副甲狀腺素（parathyroid hormone，PTH）過度分泌，導致高血鈣（hypercalcemia）相關的骨骼、泌尿及消化道症狀，但低血鈣的表現（手麻、抽筋）與其病理生理相反。<br>(A) 錯誤（此為常見表現），PTH促進破骨細胞（osteoclast）活性，長期導致骨質疏鬆（osteoporosis）及纖維性骨炎（osteitis fibrosa cystica）<br>(B) 錯誤（此為常見表現），高血鈣增加尿鈣排泄，促進腎結石（nephrolithiasis）形成，反覆腎結石是原發性副甲狀腺機能過高的重要臨床表現<br>(C) 錯誤（此為常見表現），高血鈣抑制腸道平滑肌蠕動，導致便秘（constipation），以及噁心、嘔吐等消化道症狀<br>(D) 正確，手麻與抽筋（tetany）是低血鈣（hypocalcemia）的典型症狀，屬於Chvostek徵或Trousseau徵的表現；原發性副甲狀腺機能過高為「高血鈣」狀態，不會出現低血鈣症狀，此選項是最不常見的表現",
+    "explanation": "原發性副甲狀腺機能過高（primary hyperparathyroidism）因副甲狀腺素（parathyroid hormone，PTH）過度分泌，導致高血鈣（hypercalcemia）相關的骨骼、泌尿及消化道症狀，但低血鈣的表現（手麻、抽筋）與其病理生理相反。<br>(A) 錯誤，PTH促進破骨細胞（osteoclast）活性，長期導致骨質疏鬆（osteoporosis）及纖維性骨炎（osteitis fibrosa cystica）<br>(B) 錯誤，高血鈣增加尿鈣排泄，促進腎結石（nephrolithiasis）形成，反覆腎結石是原發性副甲狀腺機能過高的重要臨床表現<br>(C) 錯誤，高血鈣抑制腸道平滑肌蠕動，導致便秘（constipation），以及噁心、嘔吐等消化道症狀<br>(D) 正確，手麻與抽筋（tetany）是低血鈣（hypocalcemia）的典型症狀，屬於Chvostek徵或Trousseau徵的表現；原發性副甲狀腺機能過高為「高血鈣」狀態，不會出現低血鈣症狀，此選項是最不常見的表現",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -1106,7 +1106,7 @@
       "D": "抗生素治療 3 天後，血液培養仍為陽性"
     },
     "answer": "D",
-    "explanation": "感染性心內膜炎（infective endocarditis，IE）的外科手術適應症主要針對血行動力學不穩定、局部感染擴散及持續性菌血症等情況，但血液培養持續陽性的時間判斷需注意。<br>(A) 錯誤（此選項需要外科處置），心瓣膜嚴重破損導致的急性嚴重心臟衰竭（acute severe heart failure）是心內膜炎緊急手術的首要適應症<br>(B) 錯誤（此選項需要外科處置），瓣膜周圍膿腫（perivalvular abscess）代表感染已局部擴散至瓣環周圍，抗生素難以穿透，需手術清創<br>(C) 錯誤（此選項需要外科處置），人工瓣膜脫位不穩（dehisced unstable prosthetic valve）造成嚴重逆流及血行動力學不穩，需緊急手術更換<br>(D) 正確，抗生素治療3天後血液培養仍為陽性並不是立即外科手術的絕對適應症；菌血症持續的時間標準通常是有效抗生素治療5至7天後仍陽性才考慮手術，且需同時評估是否有可清除的感染來源（如膿腫），3天的標準過短，此情況最不需要合併外科處置",
+    "explanation": "感染性心內膜炎（infective endocarditis，IE）的外科手術適應症主要針對血行動力學不穩定、局部感染擴散及持續性菌血症等情況，但血液培養持續陽性的時間判斷需注意。<br>(A) 錯誤，心瓣膜嚴重破損導致的急性嚴重心臟衰竭（acute severe heart failure）是心內膜炎緊急手術的首要適應症<br>(B) 錯誤，瓣膜周圍膿腫（perivalvular abscess）代表感染已局部擴散至瓣環周圍，抗生素難以穿透，需手術清創<br>(C) 錯誤，人工瓣膜脫位不穩（dehisced unstable prosthetic valve）造成嚴重逆流及血行動力學不穩，需緊急手術更換<br>(D) 正確，抗生素治療3天後血液培養仍為陽性並不是立即外科手術的絕對適應症；菌血症持續的時間標準通常是有效抗生素治療5至7天後仍陽性才考慮手術，且需同時評估是否有可清除的感染來源（如膿腫），3天的標準過短，此情況最不需要合併外科處置",
     "tags": [
       "115-1-3",
       "感染科"
@@ -1208,7 +1208,7 @@
       "D": "心智化導向的心理治療（mentalization-based psychotherapy）"
     },
     "answer": "C",
-    "explanation": "邊緣性人格障礙（borderline personality disorder，BPD）的心理治療有多種實證基礎的專門取向，需區分哪些有強力證據，哪些相對較弱。<br>(A) 錯誤（此選項有實證支持），辯證行為治療（dialectical behavior therapy，DBT）是目前治療BPD實證最強的心理治療，由Marsha Linehan發展，可有效降低自傷行為及住院率<br>(B) 錯誤（此選項有實證支持），以移情為中心的心理治療（transference-focused psychotherapy，TFP）由Otto Kernberg發展，有隨機對照試驗（RCT）支持其對BPD的療效<br>(C) 正確，一般性心理動力取向治療（psychodynamic therapy）並非針對BPD設計的專門治療，缺乏針對BPD的強力特定實證，相較於DBT、TFP及心智化治療（MBT）等專門治療，其實證基礎相對薄弱<br>(D) 錯誤（此選項有實證支持），心智化導向的心理治療（mentalization-based treatment，MBT）由Peter Fonagy發展，有良好的RCT實證支持，是BPD的重要實證治療選項",
+    "explanation": "邊緣性人格障礙（borderline personality disorder，BPD）的心理治療有多種實證基礎的專門取向，需區分哪些有強力證據，哪些相對較弱。<br>(A) 錯誤，辯證行為治療（dialectical behavior therapy，DBT）是目前治療BPD實證最強的心理治療，由Marsha Linehan發展，可有效降低自傷行為及住院率<br>(B) 錯誤，以移情為中心的心理治療（transference-focused psychotherapy，TFP）由Otto Kernberg發展，有隨機對照試驗（RCT）支持其對BPD的療效<br>(C) 正確，一般性心理動力取向治療（psychodynamic therapy）並非針對BPD設計的專門治療，缺乏針對BPD的強力特定實證，相較於DBT、TFP及心智化治療（MBT）等專門治療，其實證基礎相對薄弱<br>(D) 錯誤，心智化導向的心理治療（mentalization-based treatment，MBT）由Peter Fonagy發展，有良好的RCT實證支持，是BPD的重要實證治療選項",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -1282,7 +1282,7 @@
       "D": "脾靜脈（splenic vein）"
     },
     "answer": "A",
-    "explanation": "肝門脈系統（portal venous system）收集腸道、脾臟及胰臟的靜脈血匯入肝臟，需與肝靜脈（收集血液離開肝臟）做清楚區分。<br>(A) 正確，肝靜脈（hepatic vein）是將血液從肝臟引流至下腔靜脈（inferior vena cava）的血管，屬於肝靜脈系統（hepatic venous system），不屬於肝門脈系統；肝門脈系統收集腸道靜脈血「進入」肝臟，而肝靜脈則將血液「離開」肝臟<br>(B) 錯誤（此選項屬於門脈系統），上腸繫膜靜脈（superior mesenteric vein）收集小腸及右側大腸的靜脈血，匯入門靜脈（portal vein）<br>(C) 錯誤（此選項屬於門脈系統），下腸繫膜靜脈（inferior mesenteric vein）收集左側大腸及直腸的靜脈血，匯入脾靜脈或腸繫膜上靜脈後進入門靜脈<br>(D) 錯誤（此選項屬於門脈系統），脾靜脈（splenic vein）收集脾臟及胰臟的靜脈血，與上腸繫膜靜脈匯合形成門靜脈（portal vein）",
+    "explanation": "肝門脈系統（portal venous system）收集腸道、脾臟及胰臟的靜脈血匯入肝臟，需與肝靜脈（收集血液離開肝臟）做清楚區分。<br>(A) 正確，肝靜脈（hepatic vein）是將血液從肝臟引流至下腔靜脈（inferior vena cava）的血管，屬於肝靜脈系統（hepatic venous system），不屬於肝門脈系統；肝門脈系統收集腸道靜脈血「進入」肝臟，而肝靜脈則將血液「離開」肝臟<br>(B) 錯誤，上腸繫膜靜脈（superior mesenteric vein）收集小腸及右側大腸的靜脈血，匯入門靜脈（portal vein）<br>(C) 錯誤，下腸繫膜靜脈（inferior mesenteric vein）收集左側大腸及直腸的靜脈血，匯入脾靜脈或腸繫膜上靜脈後進入門靜脈<br>(D) 錯誤，脾靜脈（splenic vein）收集脾臟及胰臟的靜脈血，與上腸繫膜靜脈匯合形成門靜脈（portal vein）",
     "tags": [
       "115-1-3",
       "肝膽內科"
@@ -1333,7 +1333,7 @@
       "D": "電腦斷層顯示多葉低密度影像＞1/3 大腦半球"
     },
     "answer": "A",
-    "explanation": "靜脈注射組織纖溶酶原活化劑（recombinant tissue plasminogen activator，r-tPA）治療急性缺血性腦中風（acute ischemic stroke）有嚴格的納入與排除標準，低血糖是可矯正的條件而非絕對排除。<br>(A) 正確，血糖65 mg/dL屬於低血糖（hypoglycemia），低血糖本身可造成局部神經學症狀而模擬腦中風，因此在r-tPA治療前必須先矯正血糖；矯正後若症狀消失則不需要溶栓，若症狀持續則可繼續評估是否施打r-tPA；低血糖本身並非r-tPA治療的「絕對排除條件」，而是需要先處理的可逆因素，因此此選項「不是排除條件」的說法在此題脈絡中為正確答案<br>(B) 錯誤（此為排除條件），血壓≧185/110 mmHg是r-tPA治療的排除條件，治療前需將血壓降至185/110 mmHg以下<br>(C) 錯誤（此為排除條件），血小板＜100,000/mm³是r-tPA治療的排除條件，因凝血功能不足會顯著增加顱內出血風險<br>(D) 錯誤（此為排除條件），電腦斷層顯示低密度影像大於1/3大腦半球是r-tPA治療的排除條件，代表大面積梗塞已發生，溶栓出血風險極高",
+    "explanation": "靜脈注射組織纖溶酶原活化劑（recombinant tissue plasminogen activator，r-tPA）治療急性缺血性腦中風（acute ischemic stroke）有嚴格的納入與排除標準，低血糖是可矯正的條件而非絕對排除。<br>(A) 正確，血糖65 mg/dL屬於低血糖（hypoglycemia），低血糖本身可造成局部神經學症狀而模擬腦中風，因此在r-tPA治療前必須先矯正血糖；矯正後若症狀消失則不需要溶栓，若症狀持續則可繼續評估是否施打r-tPA；低血糖本身並非r-tPA治療的「絕對排除條件」，而是需要先處理的可逆因素，因此此選項「不是排除條件」的說法在此題脈絡中為正確答案<br>(B) 錯誤，血壓≧185/110 mmHg是r-tPA治療的排除條件，治療前需將血壓降至185/110 mmHg以下<br>(C) 錯誤，血小板＜100,000/mm³是r-tPA治療的排除條件，因凝血功能不足會顯著增加顱內出血風險<br>(D) 錯誤，電腦斷層顯示低密度影像大於1/3大腦半球是r-tPA治療的排除條件，代表大面積梗塞已發生，溶栓出血風險極高",
     "tags": [
       "115-1-3",
       "心臟內科"

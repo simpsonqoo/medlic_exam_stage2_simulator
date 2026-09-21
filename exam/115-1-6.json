@@ -111,7 +111,7 @@
       "D": "緊急手術"
     },
     "answer": "A",
-    "explanation": "ARISCAT Score（Assess Respiratory Risk in Surgical Patients in Catalonia）用於預測術後肺部併發症，需熟記其評估項目，才能找出不包含其中者。<br>(A) 正確（即為答案），身體質量指數（BMI）不是 ARISCAT Score 的評估項目；ARISCAT 的項目包含：年齡、術前血氧飽和度、過去一個月內呼吸道感染、術前血紅素、手術切口位置、手術時間及緊急手術<br>(B) 錯誤，年齡是 ARISCAT Score 的評估項目之一<br>(C) 錯誤，術前血紅素（hemoglobin）是 ARISCAT Score 的評估項目之一<br>(D) 錯誤，緊急手術（emergency surgery）是 ARISCAT Score 的評估項目之一",
+    "explanation": "ARISCAT Score（Assess Respiratory Risk in Surgical Patients in Catalonia）用於預測術後肺部併發症，需熟記其評估項目，才能找出不包含其中者。<br>(A) 正確，身體質量指數（BMI）不是 ARISCAT Score 的評估項目；ARISCAT 的項目包含：年齡、術前血氧飽和度、過去一個月內呼吸道感染、術前血紅素、手術切口位置、手術時間及緊急手術<br>(B) 錯誤，年齡是 ARISCAT Score 的評估項目之一<br>(C) 錯誤，術前血紅素（hemoglobin）是 ARISCAT Score 的評估項目之一<br>(D) 錯誤，緊急手術（emergency surgery）是 ARISCAT Score 的評估項目之一",
     "tags": [
       "115-1-6",
       "麻醉科"
@@ -369,7 +369,7 @@
       "D": "腦脊髓液鼻漏（CSF rhinorrhea）"
     },
     "answer": "A",
-    "explanation": "內視鏡鼻竇手術（endoscopic sinus surgery，ESS）因操作鄰近顱底、眼眶等重要結構，有多種嚴重併發症，但馬鞍鼻屬於鼻外觀變形，與 ESS 手術路徑不符。<br>(A) 正確（即為答案），馬鞍鼻（saddle nose）是鼻中隔軟骨受損或鼻樑塌陷所致，常見於鼻中隔手術或外傷，不是 ESS 常見的併發症<br>(B) 錯誤，腦膜炎（meningitis）是 ESS 穿破顱底造成腦脊髓液鼻漏（CSF rhinorrhea）後可能出現的嚴重併發症<br>(C) 錯誤，複視或失明（diplopia or blindness）可能因手術損傷眼眶內壁或視神經管而發生<br>(D) 錯誤，腦脊髓液鼻漏（CSF rhinorrhea）是 ESS 穿破篩板（cribriform plate）等顱底結構的已知併發症",
+    "explanation": "內視鏡鼻竇手術（endoscopic sinus surgery，ESS）因操作鄰近顱底、眼眶等重要結構，有多種嚴重併發症，但馬鞍鼻屬於鼻外觀變形，與 ESS 手術路徑不符。<br>(A) 正確，馬鞍鼻（saddle nose）是鼻中隔軟骨受損或鼻樑塌陷所致，常見於鼻中隔手術或外傷，不是 ESS 常見的併發症<br>(B) 錯誤，腦膜炎（meningitis）是 ESS 穿破顱底造成腦脊髓液鼻漏（CSF rhinorrhea）後可能出現的嚴重併發症<br>(C) 錯誤，複視或失明（diplopia or blindness）可能因手術損傷眼眶內壁或視神經管而發生<br>(D) 錯誤，腦脊髓液鼻漏（CSF rhinorrhea）是 ESS 穿破篩板（cribriform plate）等顱底結構的已知併發症",
     "tags": [
       "115-1-6",
       "耳鼻喉科"
@@ -471,7 +471,7 @@
       "D": "上臀動脈（superior gluteal artery）"
     },
     "answer": "B",
-    "explanation": "內髂動脈（internal iliac artery）供應骨盆腔臟器及會陰部，卵巢的血液供應來源需特別記憶。<br>(A) 錯誤，內陰動脈（internal pudendal artery）是內髂動脈的分支，供應會陰及外生殖器<br>(B) 正確（即為答案），卵巢動脈（ovarian artery）直接起源於腹主動脈（abdominal aorta），類似睪丸動脈，不是內髂動脈的分支<br>(C) 錯誤，下膀胱動脈（inferior vesical artery）是內髂動脈前幹（anterior division）的分支，供應膀胱下部<br>(D) 錯誤，上臀動脈（superior gluteal artery）是內髂動脈後幹（posterior division）最大的分支，供應臀部肌肉",
+    "explanation": "內髂動脈（internal iliac artery）供應骨盆腔臟器及會陰部，卵巢的血液供應來源需特別記憶。<br>(A) 錯誤，內陰動脈（internal pudendal artery）是內髂動脈的分支，供應會陰及外生殖器<br>(B) 正確，卵巢動脈（ovarian artery）直接起源於腹主動脈（abdominal aorta），類似睪丸動脈，不是內髂動脈的分支<br>(C) 錯誤，下膀胱動脈（inferior vesical artery）是內髂動脈前幹（anterior division）的分支，供應膀胱下部<br>(D) 錯誤，上臀動脈（superior gluteal artery）是內髂動脈後幹（posterior division）最大的分支，供應臀部肌肉",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -647,7 +647,7 @@
       "D": "孕婦未接受 GBS 菌落篩檢，於第 35 週孕期因羊膜早破超過 24 小時，住院待產"
     },
     "answer": "B",
-    "explanation": "乙型鏈球菌（group B Streptococcus，GBS）臨產期抗生素預防性投藥（intrapartum antibiotic prophylaxis，IAP）的適應症需依據本次懷孕的篩檢結果為主，而非前次懷孕。<br>(A) 錯誤，本次懷孕期間發生 GBS 菌尿症（GBS bacteriuria）是 IAP 的明確適應症，應給予預防性投藥<br>(B) 正確（即為答案），前次懷孕 GBS 篩檢陽性與本次懷孕無關，需依本次懷孕的篩檢結果決定是否投藥；僅憑前次陽性不建議直接給予預防性投藥，這是最不建議的情況<br>(C) 錯誤，前一次分娩新生兒罹患嚴重 GBS 感染症是 IAP 的絕對適應症，應給予預防性投藥<br>(D) 錯誤，未接受 GBS 篩檢且有羊膜早破超過 18 小時（部分指引以 18 小時為界）是 IAP 的適應症之一，應給予預防性投藥",
+    "explanation": "乙型鏈球菌（group B Streptococcus，GBS）臨產期抗生素預防性投藥（intrapartum antibiotic prophylaxis，IAP）的適應症需依據本次懷孕的篩檢結果為主，而非前次懷孕。<br>(A) 錯誤，本次懷孕期間發生 GBS 菌尿症（GBS bacteriuria）是 IAP 的明確適應症，應給予預防性投藥<br>(B) 正確，前次懷孕 GBS 篩檢陽性與本次懷孕無關，需依本次懷孕的篩檢結果決定是否投藥；僅憑前次陽性不建議直接給予預防性投藥，這是最不建議的情況<br>(C) 錯誤，前一次分娩新生兒罹患嚴重 GBS 感染症是 IAP 的絕對適應症，應給予預防性投藥<br>(D) 錯誤，未接受 GBS 篩檢且有羊膜早破超過 18 小時（部分指引以 18 小時為界）是 IAP 的適應症之一，應給予預防性投藥",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -681,7 +681,7 @@
       "D": "可能發生 uterine perforation"
     },
     "answer": "A",
-    "explanation": "手術性子宮鏡（operative hysteroscopy）相較於診斷性子宮鏡（diagnostic hysteroscopy）操作複雜度更高，使用的器械更多，併發症發生率理應有所差異。<br>(A) 正確（即為答案），手術性子宮鏡因需置入切除器械、使用膨宮液（distension media）量更多、操作時間更長，發生併發症的機率高於診斷性子宮鏡，兩者機率並不相當<br>(B) 正確，手術性子宮鏡可用於沾黏去除（adhesiolysis）及黏膜下肌瘤切除（submucosal myomectomy）<br>(C) 正確，若使用氣體膨宮（CO₂）或操作不當導致氣體進入血管，可能發生氣體栓塞（air embolus）<br>(D) 正確，子宮穿孔（uterine perforation）是子宮鏡手術的已知風險，操作時需謹慎",
+    "explanation": "手術性子宮鏡（operative hysteroscopy）相較於診斷性子宮鏡（diagnostic hysteroscopy）操作複雜度更高，使用的器械更多，併發症發生率理應有所差異。<br>(A) 正確，手術性子宮鏡因需置入切除器械、使用膨宮液（distension media）量更多、操作時間更長，發生併發症的機率高於診斷性子宮鏡，兩者機率並不相當<br>(B) 正確，手術性子宮鏡可用於沾黏去除（adhesiolysis）及黏膜下肌瘤切除（submucosal myomectomy）<br>(C) 正確，若使用氣體膨宮（CO₂）或操作不當導致氣體進入血管，可能發生氣體栓塞（air embolus）<br>(D) 正確，子宮穿孔（uterine perforation）是子宮鏡手術的已知風險，操作時需謹慎",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -874,7 +874,7 @@
       "D": "loop electrosurgical excision procedure（LEEP）"
     },
     "answer": "B",
-    "explanation": "子宮頸抹片高度上皮內贅瘤（HSIL，high-grade squamous intraepithelial lesion）的後續處置需針對病灶本身進行診斷性或治療性介入，子宮頸癌疫苗（HPV vaccine）是預防性而非治療性措施。<br>(A) 正確，陰道鏡檢查加子宮頸切片（colposcopy + cervical biopsy）是 HSIL 後最標準的下一步，用以確認病灶範圍及等級<br>(B) 正確（即為答案），子宮頸癌疫苗（HPV vaccine）是預防性疫苗，對已存在的 HPV 感染或 HSIL 病灶無治療效果，施打疫苗不適當作為 HSIL 的後續處置<br>(C) 正確，子宮頸錐狀切除（conization）是 HSIL 的診斷兼治療性手術，可切除病灶並提供完整病理標本<br>(D) 正確，LEEP（loop electrosurgical excision procedure）是另一種常用的子宮頸病灶切除方式，適用於 HSIL 的治療",
+    "explanation": "子宮頸抹片高度上皮內贅瘤（HSIL，high-grade squamous intraepithelial lesion）的後續處置需針對病灶本身進行診斷性或治療性介入，子宮頸癌疫苗（HPV vaccine）是預防性而非治療性措施。<br>(A) 正確，陰道鏡檢查加子宮頸切片（colposcopy + cervical biopsy）是 HSIL 後最標準的下一步，用以確認病灶範圍及等級<br>(B) 正確，子宮頸癌疫苗（HPV vaccine）是預防性疫苗，對已存在的 HPV 感染或 HSIL 病灶無治療效果，施打疫苗不適當作為 HSIL 的後續處置<br>(C) 正確，子宮頸錐狀切除（conization）是 HSIL 的診斷兼治療性手術，可切除病灶並提供完整病理標本<br>(D) 正確，LEEP（loop electrosurgical excision procedure）是另一種常用的子宮頸病灶切除方式，適用於 HSIL 的治療",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -1308,7 +1308,7 @@
       "D": "檢驗血中一氧化碳濃度"
     },
     "answer": "C",
-    "explanation": "密閉空間火場吸入性損傷（inhalation injury）合併上呼吸道燒傷的患者，處置優先順序的判斷是解題關鍵，需辨別哪項處置最不適當。<br>(A) 正確，臉部燒傷合併聲音沙啞及喘鳴聲（wheezing/stridor）是上呼吸道水腫即將發生的警示，應儘早置放氣管內管（endotracheal tube）保護呼吸道，避免水腫加重後插管更困難<br>(B) 正確，給予 100% 潮濕氧氣可加速一氧化碳（CO）與血紅素解離，是一氧化碳中毒的標準處置<br>(C) 正確（即為答案），大量輸液在此情境最不適當；吸入性損傷患者不像皮膚大面積燒傷需要依據 Parkland formula 大量補液，且大量輸液反而可能加重呼吸道水腫（airway edema），使插管更困難甚至呼吸道完全阻塞<br>(D) 正確，密閉火場救出的患者必須檢驗血中一氧化碳濃度（carboxyhemoglobin，COHb），評估一氧化碳中毒嚴重程度",
+    "explanation": "密閉空間火場吸入性損傷（inhalation injury）合併上呼吸道燒傷的患者，處置優先順序的判斷是解題關鍵，需辨別哪項處置最不適當。<br>(A) 正確，臉部燒傷合併聲音沙啞及喘鳴聲（wheezing/stridor）是上呼吸道水腫即將發生的警示，應儘早置放氣管內管（endotracheal tube）保護呼吸道，避免水腫加重後插管更困難<br>(B) 正確，給予 100% 潮濕氧氣可加速一氧化碳（CO）與血紅素解離，是一氧化碳中毒的標準處置<br>(C) 正確，大量輸液在此情境最不適當；吸入性損傷患者不像皮膚大面積燒傷需要依據 Parkland formula 大量補液，且大量輸液反而可能加重呼吸道水腫（airway edema），使插管更困難甚至呼吸道完全阻塞<br>(D) 正確，密閉火場救出的患者必須檢驗血中一氧化碳濃度（carboxyhemoglobin，COHb），評估一氧化碳中毒嚴重程度",
     "tags": [
       "115-1-6",
       "麻醉科"
