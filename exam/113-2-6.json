@@ -562,7 +562,7 @@
       "D": "潛伏期拖延（protracted latent phase）"
     },
     "answer": "B",
-    "explanation": "不正常產程（abnormal labor patterns）的分類根據Friedman曲線。<br>不正常產程分類：<br>· 拖延型（Protraction disorders）：活動期進展過慢但持續<br>____· 活動期擴張拖延（protracted active-phase dilation）：初產婦擴張速度＜1.2 cm/hr，經產婦＜1.5 cm/hr<br>____· 下降拖延（protracted descent）<br>· 停滯型（Arrest disorders）：活動期完全停止進展超過一定時間<br>____· 活動期擴張停滯（secondary arrest of dilation）：超過2小時無擴張<br>____· 下降停滯（arrest of descent）<br>____· 第二產程停滯（failure of descent）<br>· 第三類：潛伏期延長（prolonged latent phase）<br>(A) 錯誤，活動期延長（prolonged active phase）在Friedman分類中屬於停滯型（arrest disorders），指活動期完全停止進展，而非拖延型<br>(B) 正確，活動期擴張拖延（protracted active-phase dilation）正是拖延型（protraction disorders）的代表，指子宮頸擴張速度過慢但仍在持續進展（初產婦速度＜1.2 cm/hr）<br>(C) 錯誤，減速期延長（prolonged deceleration phase）屬於停滯型（arrest disorders），而非拖延型<br>(D) 錯誤，潛伏期拖延（protracted latent phase）是一個獨立的第三類產程異常（潛伏期延長），並非Friedman所定義的拖延型（protraction disorders）",
+    "explanation": "拖延障礙（protraction disorders）指產程進展「變慢」，僅適用於活動期擴張與下降；潛伏期過長稱延長（prolonged），停滯則稱停滯障礙（arrest disorders），三者用詞不同不可混用。<br> (A) 錯誤，活動期異常應稱「拖延」而非「延長」，無此用語。<br> (B) 正確，活動期子宮頸擴張速度過慢即為拖延障礙的代表。<br> (C) 錯誤，此為產程完全停滯，屬停滯障礙非拖延障礙。<br> (D) 錯誤，潛伏期過長稱潛伏期延長（prolonged latent phase），非拖延障礙。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -579,7 +579,7 @@
       "D": "recurrent variable decelerations"
     },
     "answer": "A",
-    "explanation": "胎心音監測（fetal heart rate monitoring）分為三類（Category I, II, III）。<br>Category I（正常）：<br>· Baseline 110-160 bpm<br>· Moderate baseline variability（6-25 bpm）<br>· 無晚期或變異性減速<br>· 可有早期減速或加速<br>Category II（不確定）：<br>· 大多數不符合Category I或III的情況<br>· Marked baseline variability（>25 bpm）<br>· Minimal或absent baseline variability<br>· 偶發性晚期或變異性減速<br>Category III（異常，需緊急處理）：<br>· Absent baseline variability合併以下任一項：<br>____· 反覆性晚期減速（recurrent late decelerations）<br>____· 反覆性變異性減速（recurrent variable decelerations）<br>____· 心搏過緩（bradycardia）<br>________· 正弦波型（sinusoidal pattern）",
+    "explanation": "解題關鍵是記住胎心音監測（fetal heart rate monitoring, FHR）的 Category III 定義：除了正弦波型（sinusoidal pattern）外，必須是「基線變異消失（absent baseline variability）＋反覆晚期減速／反覆變異型減速／心搏過緩」。因此「明顯增加的基線變異」屬於 Category II，而不是 Category III。<br> (A) 正確，明顯基線變異（marked baseline variability，振幅 >25 bpm）屬於 Category II-indeterminate，不是 Category III；Category III 強調的是 absent variability。 <br> (B) 錯誤，正弦波型（sinusoidal pattern）本身就是 Category III-abnormal，代表胎兒可能有嚴重缺氧或貧血等狀況，需要立即評估。<br> (C) 錯誤，反覆晚期減速（recurrent late decelerations）若合併 基線變異消失（absent variability），即屬 Category III；若仍有變異性，則通常歸於 Category II。<br> (D) 錯誤，反覆變異型減速（recurrent variable decelerations）若合併 基線變異消失，屬 Category III；單獨出現而仍保有變異性時則是 Category II。",
     "tags": [
       "113-2-6",
       "婦產科"
