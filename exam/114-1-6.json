@@ -594,7 +594,7 @@
       "D": "前胎剖腹且子宮為vertical hysterotomy incision"
     },
     "answer": "C",
-    "explanation": "剖腹產（cesarean section）的適應症分為絕對適應症和相對適應症。<br>(A) 正確，待產時急性胎兒窘迫（acute fetal distress）是剖腹產的適應症：<br>· 胎心音異常（bradycardia、late decelerations、prolonged decelerations）<br>· 胎兒頭皮血液pH < 7.20<br>· 需要緊急娩出胎兒以避免缺氧傷害<br>(B) 正確，胎盤早期剝離（placental abruption）是剖腹產的適應症：<br>· 可能造成胎兒缺氧<br>· 可能造成母體大出血和DIC<br>· 需要緊急剖腹產娩出胎兒並處理出血<br>(C) 錯誤，臍帶繞頸（nuchal cord）本身不是剖腹產的適應症：<br>· 約25-40%的新生兒有臍帶繞頸，大多數可以安全自然產<br>· 只要胎心音正常，產程進展順利，可以陰道分娩<br>· 只有在臍帶繞頸造成胎兒窘迫（如胎心音異常）時才需要剖腹產<br>· 臍帶繞頸在分娩時通常可以輕易解開或剪斷<br>(D) 正確，前胎剖腹產且子宮切口為垂直切開（vertical hysterotomy incision，包括classical incision或low vertical incision）是剖腹產的適應症：<br>· 垂直切口的子宮破裂風險高（4-9%）<br>· 不適合嘗試陰道分娩（TOLAC contraindicated）<br>· 相對的，低位橫切（low transverse incision）的破裂風險較低（< 1%），可以考慮VBAC",
+    "explanation": "剖腹產（cesarean section）適應症多為母體或胎兒有立即危險、或陰道生產禁忌之情況；臍帶繞頸（nuchal cord）在生產中很常見，多數不影響陰道生產，並非剖腹產的絕對適應症。<br> (A) 正確，急性胎兒窘迫（acute fetal distress）屬產科急症，需緊急剖腹產以避免胎兒缺氧。<br> (B) 正確，胎盤早期剝離（placental abruption）會危及母胎生命，通常需緊急剖腹產。<br> (C) 錯誤，臍帶繞頸（nuchal cord）極常見，多數可經由陰道生產處理，非剖腹產適應症。<br> (D) 正確，前胎為垂直子宮切開（vertical/classical hysterotomy incision）者，子宮破裂風險高，此胎應剖腹產。",
     "tags": [
       "114-1-6",
       "婦產科"
