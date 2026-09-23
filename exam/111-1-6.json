@@ -1328,7 +1328,7 @@
       "D": "超音波檢查對於此病人並無幫助"
     },
     "answer": "C",
-    "explanation": "產後出血的分類、原因和治療需要正確理解。<br>產後出血分類：<br>· 原發性產後出血（primary PPH）：產後24小時內<br>· 次發性產後出血（secondary PPH）：產後24小時後到產後12週<br>(A) 錯誤，產後18小時仍屬於原發性產後出血（primary postpartum hemorrhage），不是次發性。次發性產後出血定義為產後24小時後發生，常見原因包括子宮內膜炎、殘留胎盤組織、子宮復舊不全<br>(B) 錯誤，血紅素數值可能不會立即下降，因為：<br>· 急性出血時，血紅素濃度最初可能正常（失血是全血，血紅素濃度不變）<br>· 需要時間進行血液稀釋（體液從組織間隙移入血管）<br>· 血紅素下降通常在出血後數小時到24小時才明顯<br>· 因此不能依賴血紅素數值判斷出血量，臨床表現（生命徵象、血壓、心跳）更重要<br>(C) 正確，Oxytocin是治療子宮收縮乏力（uterine atony）的第一線藥物：<br>· 劑量：10-40 units加入1000 mL晶體溶液持續輸注<br>· 或：10 units肌肉注射<br>· 作用：刺激子宮平滑肌收縮<br>· 起效快、副作用少<br>· 子宮收縮乏力是產後出血最常見原因（約70%）<br>(D) 錯誤，超音波檢查對產後出血病人非常有幫助：<br>· 評估子宮腔內是否有殘留組織（胎盤、血塊）<br>· 評估子宮收縮狀態<br>· 排除子宮破裂或血腫<br>· 引導後續處置（如子宮搔刮、手動移除殘留物）<br>產後出血的「4T」原因和治療：<br>· Tone（子宮收縮乏力）：oxytocin, methylergonovine, carboprost, misoprostol<br>· Trauma（產道裂傷）：修補<br>· Tissue（組織殘留）：移除殘留物<br>· Thrombin（凝血異常）：輸血、凝血因子",
+    "explanation": "關鍵在於先判斷產後出血（postpartum hemorrhage, PPH）的時間分類，再掌握子宮收縮乏力（uterine atony）的第一線處置。此病人在產後 18 小時發生大量出血，仍屬於原發性產後出血（primary postpartum hemorrhage），而最常見原因之一就是子宮收縮乏力。<br> (A) 錯誤，此病人屬於原發性產後出血（primary postpartum hemorrhage），通常指產後 24 小時內發生的出血；次發性產後出血（secondary postpartum hemorrhage）是產後 24 小時後至數週內發生。<br> (B) 錯誤，急性大量出血初期，血紅素（hemoglobin, Hb）可能尚未立即下降，因為紅血球與血漿會同時流失；待體液重新分布或輸液後，Hb 才可能明顯降低，因此不能用初期 Hb 正常排除大量失血。<br> (C) 正確，催產素（oxytocin）是子宮收縮乏力（uterine atony）造成產後出血時的第一線子宮收縮劑（uterotonic agent），可促進子宮收縮以減少出血。<br> (D) 錯誤，超音波（ultrasonography）對產後出血仍有幫助，例如評估是否有胎盤或妊娠組織殘留（retained products of conception）、子宮腔內血塊等，但不能因超音波正常就完全排除產後出血的其他原因。",
     "tags": [
       "111-1-6(六)",
       "婦產科"
