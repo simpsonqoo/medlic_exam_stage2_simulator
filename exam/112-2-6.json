@@ -711,7 +711,7 @@
       "D": "由平滑肌細胞和纖維母細胞（fibroblasts）分泌的生長因子，蛋白質或多肽（polypeptides），主要通過增加細胞外基質（extracellular matrix）來刺激肌瘤生長"
     },
     "answer": "A",
-    "explanation": "子宮肌瘤（uterine leiomyoma或fibroid）是女性最常見的骨盆腔良性腫瘤。<br>(A) 錯誤，這是最不適當的敘述。子宮肌瘤「不會」惡性轉化（malignant transformation）成平滑肌肉瘤（leiomyosarcoma）。這是一個重要的觀念更正：過去認為肌瘤會癌化，但現代研究顯示leiomyosarcoma是獨立起源的惡性腫瘤，而非由良性肌瘤轉變而來。兩者在分子病理學上完全不同，如肌瘤常有MED12基因突變，而肉瘤則有TP53、RB1等腫瘤抑制基因突變。Leiomyosarcoma的發生率極低（<0.1%），與既存肌瘤無關<br>(B) 正確，子宮肌瘤是單株性腫瘤（monoclonal tumor），由單一平滑肌細胞異常增生而來。約40-50%的肌瘤有染色體異常，常見的包括t(12;14)轉位、7號染色體缺失等<br>(C) 正確，雌激素（estrogen）和黃體素（progesterone）都會促進肌瘤生長。肌瘤組織有高表現的雌激素受體和黃體素受體，這也是為何肌瘤在停經後會縮小，懷孕時會增大，使用GnRH agonist可縮小肌瘤<br>(D) 正確，肌瘤生長不僅來自平滑肌細胞增生，更重要的是細胞外基質（ECM）的大量累積。平滑肌細胞和纖維母細胞分泌生長因子（如TGF-β、PDGF、IGF）和細胞外基質成分（膠原蛋白、蛋白多醣），ECM可佔肌瘤體積的50%以上",
+    "explanation": "子宮肌瘤（uterine leiomyoma或fibroid）是女性最常見的骨盆腔良性腫瘤。<br>(A) 錯誤，這是最不適當的敘述。子宮肌瘤不會惡性轉化（malignant transformation）成平滑肌肉瘤（leiomyosarcoma）；平滑肌肉瘤是獨立起源的惡性腫瘤，而非由良性肌瘤轉變而來，兩者分子特徵也不同，肌瘤常有MED12基因突變，肉瘤則多有TP53、RB1等腫瘤抑制基因異常<br>(B) 正確，子宮肌瘤是單株性腫瘤（monoclonal tumor），由單一平滑肌細胞異常增生而來，約40%有染色體異常，常見如t(12;14)轉位、7號染色體長臂缺失<br>(C) 正確，雌激素（estrogen）和黃體素（progesterone）都會促進肌瘤生長，肌瘤組織高度表現兩者的受體，因此肌瘤停經後會縮小，使用GnRH agonist也可使肌瘤縮小<br>(D) 正確，肌瘤增大除平滑肌細胞增生外，更主要來自細胞外基質（ECM）堆積；平滑肌細胞與纖維母細胞分泌的生長因子（如TGF-β、PDGF、IGF）會刺激膠原蛋白、蛋白多醣等ECM成分產生",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -831,7 +831,7 @@
       "D": "type II通常分化較差"
     },
     "answer": "C",
-    "explanation": "子宮內膜癌依據病理機轉、組織型態和預後分為兩大類型。<br>(A) 正確，Type I子宮內膜癌主要為子宮內膜樣癌（endometrioid adenocarcinoma），約佔80-85%的子宮內膜癌。組織學上類似正常子宮內膜腺體<br>(B) 正確，Type I子宮內膜癌預後較好，通常分化良好（well-differentiated）、早期診斷、對荷爾蒙治療反應佳，5年存活率較高<br>(C) 錯誤，Type II子宮內膜癌「沒有」明確的癌前病變（precursor lesion）。Type II通常在萎縮性內膜（atrophic endometrium）背景下突然出現，可能的前驅病變是子宮內膜上皮內癌（endometrial intraepithelial carcinoma, EIC）或漿液性上皮內癌（serous EIC），但不是atypical hyperplasia。相反地，Type I的癌前病變才是非典型增生（atypical hyperplasia或endometrial intraepithelial neoplasia）<br>(D) 正確，Type II子宮內膜癌通常分化較差（poorly differentiated），包括漿液性癌（serous carcinoma）、透明細胞癌（clear cell carcinoma）、癌肉瘤（carcinosarcoma）等高惡性度組織型態<br>Type I vs Type II對照：<br>· Type I：雌激素相關、年輕、肥胖、endometrioid、atypical hyperplasia前驅、預後佳<br>· Type II：非雌激素相關、年長、萎縮內膜、serous/clear cell、無明確前驅、預後差",
+    "explanation": "子宮內膜癌依病理機轉、組織型態和預後分為兩型：Type I與雌激素相關，多為子宮內膜樣癌，由非典型增生演變而來，預後較好；Type II與雌激素較無關，多發生在萎縮內膜背景的年長女性，包括漿液性癌、透明細胞癌等，預後較差。<br>(A) 正確，Type I子宮內膜癌主要為子宮內膜樣癌（endometrioid adenocarcinoma），約佔子宮內膜癌的80-85%<br>(B) 正確，Type I子宮內膜癌通常分化良好（well-differentiated）、較早被診斷、對荷爾蒙治療反應佳，預後較好<br>(C) 錯誤，Type II的前驅病變是漿液性子宮內膜上皮內癌（serous endometrial intraepithelial carcinoma, SEIC），不是非典型增生；非典型增生（atypical hyperplasia，又稱endometrial intraepithelial neoplasia, EIN）是Type I的前驅病變<br>(D) 正確，Type II子宮內膜癌通常分化較差（poorly differentiated），包括漿液性癌（serous carcinoma）、透明細胞癌（clear cell carcinoma）、癌肉瘤（carcinosarcoma）等高惡性度組織型態",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -865,7 +865,7 @@
       "D": "bladder invasion"
     },
     "answer": "B",
-    "explanation": "2008年FIGO修訂子宮內膜癌分期，改為手術分期系統，並移除了某些因子的影響。<br>(A) 錯誤，這「會」影響期別。肌層侵犯深度（myometrial invasion）是分期的重要依據：<br>· 無侵犯或侵犯<1/2肌層：Stage IA<br>· 侵犯≥1/2肌層：Stage IB<br>(B) 正確，這「不會」影響期別。腹腔細胞學檢查陽性（positive peritoneal cytology）在2008年FIGO分期中已「移除」，不再影響分期。研究顯示單純腹水細胞學陽性（無其他轉移證據）對預後影響有限，因此不再列入分期考量。但仍建議記錄細胞學結果<br>(C) 錯誤，這「會」影響期別。骨盆腔淋巴結轉移（positive pelvic lymph nodes）屬於Stage IIIC1<br>(D) 錯誤，這「會」影響期別。膀胱侵犯（bladder invasion）屬於Stage IVA（侵犯膀胱和/或腸黏膜）<br>2008年FIGO子宮內膜癌分期重點：<br>· Stage I：侷限子宮（IA：<1/2肌層，IB：≥1/2肌層）<br>· Stage II：侵犯子宮頸間質<br>· Stage III：局部/區域擴散（IIIA：漿膜/附件，IIIB：陰道/子宮旁，IIIC：淋巴結）<br>· Stage IV：遠端轉移（IVA：膀胱/腸，IVB：遠端/腹腔外）",
+    "explanation": "2008年FIGO將子宮內膜癌改為手術分期，並把腹腔細胞學從分期因子中移除（現行2023年版也沿用這一點）。<br>(A) 錯誤，肌層侵犯深度（myometrial invasion）會影響期別，無侵犯或侵犯未達一半肌層為IA期，侵犯達一半以上肌層為IB期<br>(B) 正確，腹腔細胞學檢查陽性（positive peritoneal cytology）已不列入分期，不會改變期別，但仍應記錄<br>(C) 錯誤，骨盆腔淋巴結轉移（positive pelvic lymph nodes）屬於IIIC1期，會影響期別<br>(D) 錯誤，膀胱侵犯（bladder invasion）屬於IVA期（侵犯膀胱或腸黏膜），會影響期別",
     "tags": [
       "112-2-6",
       "婦產科"
