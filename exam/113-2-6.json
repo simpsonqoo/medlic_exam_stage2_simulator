@@ -939,7 +939,7 @@
       "D": "卵巢部分切除可以改善部分多囊性卵巢婦女的排卵功能"
     },
     "answer": "A",
-    "explanation": "多囊性卵巢症候群（PCOS）的藥物治療。<br>PCOS治療目標：<br>· 調整月經週期<br>· 治療多毛症和痤瘡<br>· 改善代謝異常<br>· 促進排卵（若需要懷孕）<br>(A) 錯誤，單獨使用口服避孕藥對多毛症的改善效果有限，成功率遠低於80%。OCP可以：<br>· 抑制卵巢雄性素產生<br>· 增加SHBG（性荷爾蒙結合球蛋白），降低游離睪固酮<br>但對已存在的毛髮生長影響有限，通常需要6-12個月才見效，且效果中等。更有效的治療需要合併抗雄性素藥物（如spironolactone、cyproterone acetate）或局部治療（如eflornithine cream）、電解或雷射除毛<br>(B) 正確，Cyproterone acetate（CPA）是強效抗雄性素，可以：<br>· 阻斷雄性素受體<br>· 抑制雄性素合成<br>· 改善多毛症和痤瘡<br>但有肝毒性風險，需監測肝功能，長期使用可能增加肝腺瘤風險<br>(C) 正確，GnRH agonist和dexamethasone都可改善多毛症和痤瘡：<br>· GnRH agonist：抑制卵巢功能，降低卵巢雄性素產生<br>· Dexamethasone：抑制腎上腺雄性素產生（DHEA-S）<br>但因副作用較大，通常不作為第一線治療<br>(D) 正確，卵巢部分切除術或卵巢楔形切除術（ovarian wedge resection）可以暫時改善部分PCOS患者的排卵功能，降低雄性素水平。但因為手術風險、沾黏形成可能，現已被腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）取代，僅在藥物治療失敗時考慮",
+    "explanation": "多囊性卵巢症候群（PCOS）的藥物治療目標包括調整月經週期、治療多毛症和痤瘡、改善代謝異常，以及有懷孕需求時促進排卵。<br>(A) 錯誤，單獨使用口服避孕藥（OCP）可抑制卵巢雄性素產生，並增加SHBG（性荷爾蒙結合球蛋白）、降低游離睪固酮，但對已存在的毛髮生長影響有限，通常需要6-12個月才見效，且效果中等，成功率遠低於80%；Endocrine Society 2018 多毛症指引建議任何藥物至少使用6個月再評估，口服避孕藥單獨效果不足時再加上抗雄性素，研究中口服避孕藥單獨治療約51%自覺改善，合併spironolactone約90%。更有效的治療需要合併抗雄性素藥物（如spironolactone、cyproterone acetate）或局部治療（如eflornithine cream）、電解或雷射除毛<br>(B) 正確，cyproterone acetate（CPA）是強效抗雄性素，可阻斷雄性素受體、抑制雄性素合成，改善多毛症和痤瘡，但有肝毒性風險，需監測肝功能，長期使用可能增加肝腫瘤風險<br>(C) 正確，GnRH agonist可抑制卵巢功能、降低卵巢雄性素產生，dexamethasone可抑制腎上腺雄性素（DHEA-S）產生，兩者都可改善多毛症和痤瘡，但因副作用較大，通常不作為第一線治療<br>(D) 正確，卵巢部分切除術或卵巢楔形切除術（ovarian wedge resection）可以暫時改善部分PCOS患者的排卵功能，降低雄性素濃度，但因手術風險與術後沾黏，現已被腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）取代，僅在藥物治療失敗時考慮",
     "tags": [
       "113-2-6",
       "婦產科"
