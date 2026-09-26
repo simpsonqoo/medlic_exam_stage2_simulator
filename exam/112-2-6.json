@@ -916,7 +916,7 @@
       "D": "從注射hCG當天開始，給與cabergoline每天0.5 mg，連續8天"
     },
     "answer": "C",
-    "explanation": "卵巢過度刺激症候群是試管嬰兒療程中潛在嚴重的併發症，需要多種策略預防。<br>(A) 錯誤，這「是」預防方法。減少促性腺激素（gonadotropin，如FSH、hMG）的起始劑量和總劑量，可降低卵巢過度反應和OHSS風險，特別是對於高危險群（年輕、瘦、多囊性卵巢症候群患者）<br>(B) 錯誤，這「是」預防方法。使用GnRH拮抗劑療程（antagonist protocol）時，可用GnRH促效劑（GnRH agonist）作為破卵針（trigger），而非傳統的hCG。GnRH agonist trigger誘發的黃體素上升較短暫，可顯著降低OHSS風險。這是目前最有效的預防策略之一<br>(C) 正確，這「不是」預防方法，反而可能「增加」風險。植入多個胚胎（特別是新鮮週期）會增加懷孕率，而懷孕會分泌內源性hCG，可能使OHSS惡化或延長病程（late OHSS）。預防策略應該是：<br>· 減少植入胚胎數（單一胚胎植入）<br>· 或採用「全胚冷凍」（freeze-all strategy），延後植入，避免新鮮週期懷孕加重OHSS<br>(D) 錯誤，這「是」預防方法。Cabergoline（多巴胺促效劑）0.5 mg每日一次，連續8天，從施打hCG當天開始，可透過降低血管內皮生長因子（VEGF）受體活性，減少血管通透性，降低中重度OHSS發生率",
+    "explanation": "OHSS是試管嬰兒療程的嚴重併發症，需要多種預防策略。<br>(A) 錯誤，減少促性腺激素（gonadotropin）注射劑量可以降低卵巢過度反應的風險，尤其對於高危險群（如多囊性卵巢症候群患者、年輕女性）應使用較低劑量<br>(B) 錯誤，在GnRH拮抗劑療程中，破卵針使用GnRH促效劑（GnRH agonist）取代hCG可以顯著降低OHSS風險。GnRH agonist誘發的LH surge持續時間較短，減少血管內皮生長因子（VEGF）的持續刺激<br>(C) 正確，植入兩個胚胎不能預防OHSS，反而可能因為懷孕產生的hCG加重OHSS症狀。預防OHSS的策略包括：減少胚胎植入數量、全部胚胎冷凍（freeze-all）延後植入、或取消週期<br>(D) 錯誤，Cabergoline（多巴胺促效劑）每天0.5mg連續8天可以抑制血管內皮生長因子（VEGF）受體，降低血管通透性，預防或減輕OHSS，建議從注射hCG當天開始使用",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -967,7 +967,7 @@
       "D": "膀胱下垂的程度（stage）是以C點決定"
     },
     "answer": "A",
-    "explanation": "POP-Q是骨盆器官脫垂的標準化客觀評估系統，於1996年由International Continence Society制定。<br>(A) 正確，POP-Q系統包含9個測量點：<br>· 6個陰道點：Aa、Ba（前陰道壁）、Ap、Bp（後陰道壁）、C（子宮頸或陰道穹窿）、D（後穹窿，僅有子宮時測量）<br>· 3個其他測量：genital hiatus（生殖裂孔）、perineal body（會陰體）、total vaginal length（總陰道長度）<br>所有測量都以處女膜（hymen）為參考點（0點）<br>(B) 錯誤，測量系統相反：突出處女膜「外」的點記錄為「正值（+）」，在處女膜「內」的點記錄為「負值（-）」，與處女膜齊平記錄為0<br>(C) 錯誤，子宮頸或陰道頂端（apex）下垂的程度以「C點」決定，而非Aa點。Aa點是用於評估前陰道壁（膀胱）脫垂的點，位於距處女膜3公分的前陰道壁中線<br>(D) 錯誤，膀胱下垂（cystocele）的程度以「Ba點」決定，而非C點。Ba點是前陰道壁最下垂的點（從Aa點到前穹窿之間）。C點代表子宮頸或陰道頂端<br>POP-Q分期（stage）：<br>· Stage 0：無脫垂<br>· Stage I：最下垂點在處女膜上方>1 cm（-1 cm以上）<br>· Stage II：最下垂點在處女膜上下1 cm內（-1至+1 cm）<br>· Stage III：最下垂點超出處女膜>1 cm但<總陰道長度-2 cm<br>· Stage IV：完全脫垂（最下垂點≥總陰道長度-2 cm）",
+    "explanation": "POP-Q是骨盆器官脫垂的標準化客觀評估系統，於1996年由International Continence Society制定。<br>(A) 正確，POP-Q系統包含9個測量點：6個陰道點為Aa、Ba（前陰道壁）、Ap、Bp（後陰道壁）、C（子宮頸或陰道穹窿）、D（後穹窿，僅有子宮時測量），另3個測量為genital hiatus（生殖裂孔）、perineal body（會陰體）、total vaginal length（總陰道長度）；所有測量都以處女膜（hymen）為參考點（0點）<br>(B) 錯誤，測量系統相反：突出處女膜「外」的點記錄為「正值（+）」，在處女膜「內」的點記錄為「負值（-）」，與處女膜齊平記錄為0<br>(C) 錯誤，子宮頸或陰道頂端（apex）下垂的程度以「C點」決定，而非Aa點。Aa點是用於評估前陰道壁（膀胱）脫垂的點，位於距處女膜3公分的前陰道壁中線<br>(D) 錯誤，膀胱下垂（cystocele）的程度以「Ba點」決定，而非C點。Ba點是前陰道壁最下垂的點（從Aa點到前穹窿之間）。C點代表子宮頸或陰道頂端<br>POP-Q分期（stage）以最下垂點決定：Stage 0 無脫垂；Stage I 最下垂點在處女膜上方超過1 cm（<-1 cm）；Stage II 最下垂點在處女膜上下1 cm內（-1至+1 cm）；Stage III 最下垂點超出處女膜>1 cm但<總陰道長度-2 cm；Stage IV 完全脫垂（最下垂點≥總陰道長度-2 cm）",
     "tags": [
       "112-2-6",
       "婦產科"
