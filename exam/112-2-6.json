@@ -111,7 +111,7 @@
       "D": "完成硬脊膜外導管（epidural catheter）置放後，可先給予test dose，以確認導管沒有移位至脊髓腔內"
     },
     "answer": "B",
-    "explanation": "硬脊膜外止痛是產痛控制的有效方法，現代證據已更新許多傳統觀念。<br>(A) 正確，第一產程（宮縮期）的疼痛主要來自子宮收縮和子宮頸擴張，痛覺經T10-L1神經節傳導，因此epidural analgesia需涵蓋T10-L1節段<br>(B) 錯誤，過去認為過早施打epidural會延長產程或增加剖腹產率，但現代研究顯示產婦可在任何時候要求epidural analgesia，不需等到子宮頸口開至特定程度（如3 cm）。美國婦產科醫學會（ACOG）和美國麻醉醫學會（ASA）均指出，epidural analgesia不會顯著增加剖腹產率，且不應延遲施打<br>(C) 正確，持續使用epidural analgesia至第二產程（用力期）可能延長第二產程，因為會減弱產婦用力的感覺和骨盆底肌肉的反射，但不會增加器械助產（如真空吸引、產鉗）的需求<br>(D) 正確，置放epidural catheter後應給予test dose（通常是3 mL含有1:200,000 epinephrine的局部麻醉劑），以確認導管未誤入脊髓腔（intrathecal）或血管內（intravascular）。誤入脊髓腔會導致全脊髓麻醉（total spinal），誤入血管會出現心跳加速或中樞神經系統毒性症狀",
+    "explanation": "硬脊膜外止痛是產痛控制的有效方法，現代證據已更新許多傳統觀念。<br>(A) 正確，第一產程（宮縮期）的疼痛主要來自子宮收縮和子宮頸擴張，痛覺經T10-L1神經節傳導，因此epidural analgesia需涵蓋T10-L1節段<br>(B) 錯誤，過去認為過早施打epidural會延長產程或增加剖腹產率，但現代研究顯示產婦可在任何時候要求epidural analgesia，不需等到子宮頸口開至特定程度（如3 cm）。美國婦產科醫學會（ACOG）和美國麻醉醫學會（ASA）均指出，epidural analgesia不會顯著增加剖腹產率，且不應延遲施打<br>(C) 正確，持續使用epidural analgesia至第二產程（用力期）可能延長第二產程，因為會減弱產婦用力的感覺和骨盆底肌肉的反射，也可能增加器械助產（如真空吸引、產鉗）的機會，但不增加剖腹產率<br>(D) 正確，置放epidural catheter後應給予test dose（通常是3 mL含有1:200,000 epinephrine的局部麻醉劑），以確認導管未誤入脊髓腔（intrathecal）或血管內（intravascular）。誤入脊髓腔會導致全脊髓麻醉（total spinal），誤入血管會出現心跳加速或中樞神經系統毒性症狀",
     "tags": [
       "112-2-6",
       "麻醉科"
