@@ -128,7 +128,7 @@
       "D": "心肌水腫時在MRI的T1訊號會增加，與LGE分別代表不同的組織變化，此與疾病的不同時期有關"
     },
     "answer": "D",
-    "explanation": "此題考查心臟磁振造影延遲顯影的判讀。心肌水腫在MRI的T2訊號會增加（非T1訊號），與顯影劑延遲增強（LGE）代表不同的組織變化。<br>(A) 正確，LGE位於心壁中外層（mid myocardial, epicardial region）是浸潤型疾病如肉瘤病（sarcoidosis）的特徵，切片可增加診斷率<br>(B) 正確，擴大型心肌病變的LGE多位於心壁中間（midwall），呈現斑塊（patchy）或細線狀（linear），常見於基底中隔（basal septum）<br>(C) 正確，心肌梗塞的LGE代表結疤處，從心內膜開始（subendocardial region），其多寡與預後相關<br>(D) 錯誤，心肌水腫時在MRI的T2訊號會增加（非T1訊號），與LGE分別代表不同組織變化及疾病不同時期",
+    "explanation": "本題考的是心臟磁振造影（Cardiac MRI）中延遲顯影增強（Late Gadolinium Enhancement, LGE）的分布模式與不同心臟疾病的對應關係，核心在於區分缺血性與非缺血性心肌病的LGE分布特徵，以及MRI評估心肌水腫的正確序列。<br>(A) 正確，圖中LGE位於左心室下壁及下外側壁的中外層（mid-myocardial to epicardial region），為非缺血性心肌病如肉瘤病（sarcoidosis）的典型表現；在LGE陽性區域進行心肌切片檢查（endomyocardial biopsy）可提高診斷陽性率<br>(B) 正確，擴張型心肌病（dilated cardiomyopathy, DCM）的LGE典型位於心壁中層（midwall），呈斑塊狀（patchy）或細線狀（linear），最常見於基底部中隔（basal septum）<br>(C) 正確，心肌梗塞的LGE代表心肌疤痕或纖維化（scar/fibrosis），缺血損傷從心內膜下區域（subendocardial region）開始向外延伸，LGE範圍與心臟功能及預後相關<br>(D) 錯誤，心肌水腫（myocardial edema）在MRI上的特徵是T2訊號增加，而非T1訊號增加，T2加權影像（T2-weighted imaging）是評估急性心肌水腫的經典序列；LGE則代表心肌纖維化，兩者反映疾病的不同時期（急性水腫與慢性纖維化）",
     "tags": [
       "114-1-3(三)",
       "心臟內科"
