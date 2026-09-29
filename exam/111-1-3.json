@@ -145,7 +145,7 @@
       "D": "class IV antiarrhythmic drugs"
     },
     "answer": "A",
-    "explanation": "此題考查抗心律不整藥物的副作用。第1C類抗心律不整藥物可能造成Brugada症候群樣的心電圖變化，出現ST節段升高。<br>(A) 正確，第1C類抗心律不整藥物(如flecainide、propafenone)可能誘發或加重Brugada症候群，造成ST節段升高<br>(B) 錯誤，第II類藥物(β阻斷劑)不會造成ST節段升高<br>(C) 錯誤，第III類藥物(如amiodarone)主要副作用是QT間期延長<br>(D) 錯誤，第IV類藥物(鈣離子通道阻斷劑)不會造成ST節段升高",
+    "explanation": "此題考查抗心律不整藥物的心電圖副作用。第 IC 類藥物（flecainide、propafenone）為強效鈉離子通道阻斷劑，可誘發或加重 Brugada 症候群，使右胸導程（V1-V3）出現穹窿型（coved-type）ST 節段升高，臨床上也用於藥物激發試驗診斷隱性 Brugada 症候群。<br>(A) 正確，第 IC 類藥物阻斷鈉離子通道，可誘發 Brugada 型 ST 節段升高<br>(B) 錯誤，第 II 類藥物（乙型交感神經阻斷劑）主要降低心跳速率與心肌收縮力，不會造成 ST 節段升高<br>(C) 錯誤，第 III 類藥物（鉀離子通道阻斷劑，如 amiodarone）主要延長動作電位時間與 QT 間期，而非造成 ST 節段升高<br>(D) 錯誤，第 IV 類藥物（non-DHP 鈣離子通道阻斷劑）主要減慢房室結傳導與心跳，不會造成 ST 節段升高",
     "tags": [
       "111-1-3(三)",
       "心臟內科"
