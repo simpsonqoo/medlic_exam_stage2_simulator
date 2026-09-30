@@ -764,7 +764,7 @@
       "D": "serumalpha-1antitrypsinlevel"
     },
     "answer": "C",
-    "explanation": "此題考查慢性阻塞性肺病（COPD）的診斷。支氣管擴張試驗（bronchodilator test）搭配肺功能檢查是診斷COPD的必要檢查。<br>(A) 錯誤，胸部電腦斷層有助於評估肺氣腫程度，但不是診斷COPD的必要檢查<br>(B) 錯誤，支氣管鏡檢查不是診斷COPD的必要檢查，主要用於排除其他疾病<br>(C) 正確，支氣管擴張試驗搭配肺功能檢查（spirometry）是診斷COPD的必要檢查，使用支氣管擴張劑後FEV1/FVC<0.7即可診斷<br>(D) 錯誤，血清α-1抗胰蛋白酶濃度（serum alpha-1 antitrypsin level）僅用於懷疑α-1抗胰蛋白酶缺乏症時，不是常規必要檢查",
+    "explanation": "此題考查慢性阻塞性肺病（COPD）的診斷。支氣管擴張試驗（bronchodilator test）搭配肺功能檢查是診斷COPD的必要檢查。<br>(A) 錯誤，胸部電腦斷層有助於評估肺氣腫程度，但不是診斷COPD的必要檢查<br>(B) 錯誤，支氣管鏡檢查不是診斷COPD的必要檢查，主要用於排除其他疾病<br>(C) 正確，支氣管擴張試驗搭配肺功能檢查（spirometry）是診斷COPD的必要檢查，使用支氣管擴張劑後FEV1/FVC &lt; 0.7即可診斷。GOLD不建議以可逆性程度作為區分氣喘與COPD的常規方法<br>(D) 錯誤，血清α-1抗胰蛋白酶濃度（serum alpha-1 antitrypsin level）僅用於懷疑α-1抗胰蛋白酶缺乏症時，不是常規必要檢查",
     "tags": [
       "112-2-3(三)",
       "胸腔內科"
@@ -781,7 +781,7 @@
       "D": "add-on inhaled corticosteroid"
     },
     "answer": "D",
-    "explanation": "此題考查COPD的階梯式治療。嗜酸性球比例≥2%且症狀不穩定時，應考慮加上吸入型類固醇（inhaled corticosteroid）。<br>(A) 錯誤，茶鹼（theophylline）可作為輔助治療，但不是此病人的最佳選擇<br>(B) 錯誤，巨環類抗生素（macrolide）主要用於頻繁急性惡化的病人，此病人嗜酸性球比例5%，更適合使用吸入型類固醇<br>(C) 錯誤，白三烯調節劑（leukotriene modifier）主要用於氣喘，不是COPD的標準治療<br>(D) 正確，此病人嗜酸性球比例5%（≥2%），使用長效型支氣管擴張劑後症狀仍不穩定，應加上吸入型類固醇治療",
+    "explanation": "此題考查COPD的追蹤治療。使用長效支氣管擴張劑後仍不穩定時，GOLD以血中嗜酸性球絕對數決定是否加上吸入型類固醇（inhaled corticosteroid）。此病人嗜酸性球約9,500 × 5% = 475 cells/μL（≥ 300），加上ICS的效益最明顯。<br>(A) 錯誤，茶鹼（theophylline）可作為輔助治療，但不是此病人的最佳選擇<br>(B) 錯誤，GOLD建議巨環類抗生素（azithromycin）用於LABA＋LAMA後仍惡化且嗜酸性球 &lt; 100 cells/μL者，此病人嗜酸性球高，更適合使用吸入型類固醇<br>(C) 錯誤，白三烯調節劑（leukotriene modifier）主要用於氣喘，不是COPD的標準治療<br>(D) 正確，此病人嗜酸性球約475 cells/μL（≥ 300），使用長效型支氣管擴張劑後症狀仍不穩定，應加上吸入型類固醇治療",
     "tags": [
       "112-2-3(三)",
       "胸腔內科"

@@ -709,7 +709,7 @@
       "D": "支氣管激發試驗(bronehoprovocation test)"
     },
     "answer": "B",
-    "explanation": "此題考查慢性阻塞性肺病（COPD）的肺功能檢查。長期吸菸、運動性呼吸困難、胸部X光顯示肺野透亮提示COPD。<br>(A) 正確但不夠完整，篩檢肺功能（screening spirometry）包括用力肺活量（FVC）、第一秒用力呼氣容積（FEV1）、FEV1/FVC比值，但不含肺容積測量<br>(B) 正確，標準肺功能檢查（standard spirometry）包括FVC、FEV1、FEV1/FVC及肺容積測量，最適合診斷和評估COPD嚴重度<br>(C) 錯誤，一氧化碳肺瀰散量檢查（CO diffusing capacity test）主要用於評估肺氣腫程度或間質性肺病，非初步診斷COPD的必要檢查<br>(D) 錯誤，支氣管激發試驗（bronchoprovocation test）主要用於診斷氣喘，非COPD的常規檢查",
+    "explanation": "此題考查慢性阻塞性肺病（COPD）的肺功能檢查。長期吸菸、運動性呼吸困難、胸部X光顯示肺野透亮提示COPD。<br>(A) 正確但不夠完整，篩檢肺功能（screening spirometry）包括用力肺活量（FVC）、第一秒用力呼氣容積（FEV1）、FEV1/FVC比值，但不含肺容積測量<br>(B) 正確，標準肺功能檢查（standard spirometry）包括FVC、FEV1、FEV1/FVC及肺容積測量（TLC、RV需以體積描記法或氣體稀釋法測量），可證實肺過度充氣與空氣滯留，最適合診斷和評估COPD嚴重度<br>(C) 錯誤，一氧化碳肺瀰散量檢查（CO diffusing capacity test）主要用於評估肺氣腫程度或間質性肺病，非初步診斷COPD的必要檢查<br>(D) 錯誤，支氣管激發試驗（bronchoprovocation test）主要用於診斷氣喘，非COPD的常規檢查",
     "tags": [
       "110-2-3(三)",
       "胸腔內科"
