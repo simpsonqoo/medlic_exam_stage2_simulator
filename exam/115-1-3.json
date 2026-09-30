@@ -128,7 +128,7 @@
       "D": "外傷（trauma）"
     },
     "answer": "C,D",
-    "explanation": "靜脈血栓栓塞症（venous thromboembolism，VTE）停用抗凝血藥物後的再發風險，取決於初始血栓的誘發因子是否可逆或持續存在。<br>(A) 錯誤，活動性癌症（active cancer）屬於持續性強烈危險因子，停藥後再發風險極高，通常需要長期甚至無限期抗凝治療<br>(B) 錯誤，長途飛行（long-haul flight）雖然是暫時性的誘發因子，但屬於可重複發生的輕度誘發因素，停藥後仍有一定再發風險<br>(C) 錯誤，無可確認誘發因子（unprovoked VTE）的病人停藥後再發風險反而高於有明確誘發因子者，需考慮長期抗凝治療<br>(D) 正確，外傷（trauma）是明確的暫時性強誘發因子，危險因子去除後再發風險最低，完成療程後通常可安全停藥",
+    "explanation": "靜脈血栓栓塞症（venous thromboembolism，VTE）停用抗凝血藥物後的再發風險，取決於初始血栓的誘發因子是否可逆或持續存在。<br>(A) 錯誤，活動性癌症（active cancer）屬於持續性強烈危險因子，屬高風險（再發 > 8%/年），癌症活動期間需持續抗凝<br>(B) 錯誤，長途飛行（long-haul flight）雖然是暫時性的誘發因子，但屬輕微暫時因子，停藥後再發風險為中度（3~8%/年）<br>(C) 公告答案給分，但依 ESC 2019，無可確認誘發因子（unprovoked VTE）屬中風險（3~8%/年），高於重大暫時可逆因子，需考慮延長抗凝治療<br>(D) 正確，外傷（trauma）是明確的暫時性強誘發因子，屬重大暫時可逆因子（尤其合併骨折），再發風險最低（< 3%/年），完成 3 個月療程後通常可停藥",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -145,7 +145,7 @@
       "D": "肺動脈栓塞症"
     },
     "answer": "D",
-    "explanation": "此題需整合病史（肥胖、長期心悸）、生命徵象（心跳141次、呼吸28次）、抽血（D-dimer極高達20 mg/L FEU、NT Pro-BNP升高、輕度Troponin T上升）來找出最符合的診斷。<br>(A) 錯誤，急性心肌炎（acute myocarditis）可有心搏過速與Troponin升高，但D-dimer如此顯著升高不符合典型表現，且心肌炎較少以長期心悸病史為前驅<br>(B) 錯誤，高血壓心臟病（hypertensive heart disease）血壓應明顯升高，但此病人血壓為126/72 mmHg，不支持此診斷<br>(C) 錯誤，肥厚性心肌病（hypertrophic cardiomyopathy）雖可有心悸，但D-dimer極度升高無法以此疾病解釋<br>(D) 正確，肥胖（BMI 41）、長期心悸（可能為慢性心房顫動）、D-dimer顯著升高（20 mg/L）、NT Pro-BNP升高、呼吸困難及輕微下肢水腫，最符合肺動脈栓塞症（pulmonary embolism）的臨床表現，其中D-dimer是關鍵線索",
+    "explanation": "此題需整合病史（肥胖、長期心悸）、生命徵象（心跳141次、呼吸28次）、抽血（D-dimer極高達20 mg/L FEU、NT Pro-BNP升高、輕度Troponin T上升）來找出最符合的診斷。<br>(A) 錯誤，急性心肌炎（acute myocarditis）可有心搏過速與Troponin升高，但D-dimer如此顯著升高不符合典型表現，且心肌炎較少以長期心悸病史為前驅<br>(B) 錯誤，高血壓心臟病（hypertensive heart disease）血壓應明顯升高，但此病人血壓為126/72 mmHg，不支持此診斷<br>(C) 錯誤，肥厚性心肌病（hypertrophic cardiomyopathy）雖可有心悸，但D-dimer極度升高無法以此疾病解釋<br>(D) 正確，肥胖（BMI 41）、長期心悸（可能為慢性心房顫動）、D-dimer顯著升高（20 mg/L）、NT Pro-BNP升高、呼吸困難及輕微下肢水腫，最符合肺動脈栓塞症（pulmonary embolism）的臨床表現。附圖心電圖為竇性心搏過速，電腦斷層可見肺動脈內充填缺損，為診斷依據，NT Pro-BNP 與 Troponin T 升高代表右心室受損",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -715,7 +715,7 @@
       "D": "在確診肺癌之後，戒菸對病患則無幫助"
     },
     "answer": "A",
-    "explanation": "肺癌的組織型別與吸菸的關聯性、各型別的流行病學特性是考試重點，需正確辨識各型別的危險因子分布。<br>(A) 正確，在四種主要肺癌組織型中，鱗狀上皮細胞癌（squamous cell carcinoma）與小細胞癌（small cell carcinoma）與重度吸菸（heavy smoking）的相關性最強，兩者均高度與吸菸相關<br>(B) 錯誤，女性及年輕（小於60歲）的肺癌患者最常見的組織型為腺癌（adenocarcinoma），而非大細胞癌（large cell carcinoma）；腺癌在不吸菸者與女性中比例較高<br>(C) 錯誤，第四期非小細胞肺癌（non-small cell lung cancer，NSCLC）進一步區分組織型仍具重要臨床意義，腺癌（adenocarcinoma）患者需檢測EGFR、ALK、ROS1等基因突變以決定是否適合標靶治療（targeted therapy）或免疫治療（immunotherapy），鱗狀上皮細胞癌的治療策略亦有所不同<br>(D) 錯誤，確診肺癌後戒菸仍有明確益處，包含改善治療反應、減少併發症、延長存活期，戒菸對肺癌病人並非無幫助",
+    "explanation": "肺癌的組織型別與吸菸的關聯性、各型別的流行病學特性是考試重點，需正確辨識各型別的危險因子分布。<br>(A) 正確，在四種主要肺癌組織型中，鱗狀上皮細胞癌（squamous cell carcinoma）與小細胞癌（small cell carcinoma）與重度吸菸（heavy smoking）的相關性最強，兩者均高度與吸菸相關<br>(B) 錯誤，女性及年輕（小於60歲）的肺癌患者最常見的組織型為腺癌（adenocarcinoma），而非大細胞癌（large cell carcinoma），腺癌在不吸菸者與女性中比例較高<br>(C) 錯誤，第四期非小細胞肺癌（non-small cell lung cancer，NSCLC）進一步區分組織型仍具重要臨床意義，腺癌（adenocarcinoma）患者需檢測EGFR、ALK、ROS1等基因突變以決定是否適合標靶治療（targeted therapy）或免疫治療（immunotherapy），鱗狀上皮細胞癌的治療策略亦有所不同<br>(D) 錯誤，確診肺癌後戒菸仍有明確益處，包含改善治療反應、減少併發症、延長存活期，戒菸對肺癌病人並非無幫助",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -766,7 +766,7 @@
       "D": "continuous positive airway pressure（CPAP）是目前最有證據的標準治療"
     },
     "answer": "B",
-    "explanation": "阻塞性睡眠呼吸中止症（obstructive sleep apnea，OSA）的診斷標準需精確掌握，尤其是呼吸中止低通氣指數（apnea-hypopnea index，AHI）的診斷切點不應與嚴重度分級混淆。<br>(A) 正確，呼吸中止（apnea）定義為氣流完全停止（airflow cessation）持續≧10秒<br>(B) 錯誤，OSA的診斷標準為AHI≧5 events/hour（合併相關症狀）或AHI≧15 events/hour（即使無症狀）；AHI＞15 events/hour是無症狀患者的獨立診斷標準之一，但不是OSA診斷的必要條件，AHI≧5且有症狀即可診斷，選項描述「必須＞15」是錯誤的<br>(C) 正確，整夜多項睡眠生理監測（overnight polysomnography，PSG）是診斷OSA的黃金標準，實驗室PSG陰性通常可排除OSA診斷<br>(D) 正確，持續正壓呼吸器（continuous positive airway pressure，CPAP）是目前具有最強臨床證據的OSA標準治療",
+    "explanation": "阻塞性睡眠呼吸中止症（obstructive sleep apnea，OSA）的診斷標準需精確掌握，尤其是呼吸中止低通氣指數（apnea-hypopnea index，AHI）的診斷切點不應與嚴重度分級混淆。<br>(A) 正確，呼吸中止（apnea）定義為氣流完全停止（airflow cessation）持續≧10秒<br>(B) 錯誤，OSA的診斷標準為AHI≧5 events/hour（合併相關症狀）或AHI≧15 events/hour（即使無症狀）。AHI≧15 events/hour是無症狀患者的獨立診斷標準之一，但不是OSA診斷的必要條件，AHI≧5且有症狀即可診斷，選項描述「必須＞15」是錯誤的<br>(C) 正確，整夜多項睡眠生理監測（overnight polysomnography，PSG）是診斷OSA的黃金標準，實驗室PSG陰性通常可排除OSA診斷<br>(D) 正確，持續正壓呼吸器（continuous positive airway pressure，CPAP）是目前具有最強臨床證據的OSA標準治療",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -868,7 +868,7 @@
       "D": "肺高壓（pulmonary hypertension）"
     },
     "answer": "B",
-    "explanation": "慢性呼吸困難（chronic dyspnea）的主要病因涵蓋心肺、神經肌肉及血管等多系統疾病，良性局部腫瘤不在其主要病因之列。<br>(A) 錯誤，重度脊柱後側彎（severe kyphoscoliosis）可嚴重限制胸廓活動與肺部擴張，導致限制型肺疾病（restrictive lung disease）與慢性呼吸困難<br>(B) 正確，肺部良性腫瘤如錯構瘤（hamartoma）通常位於周邊，體積小且生長緩慢，幾乎不造成氣道阻塞或通氣障礙，不是慢性呼吸困難的主要原因<br>(C) 錯誤，運動神經元疾病（motor neuron disease）如肌萎縮性側索硬化症（amyotrophic lateral sclerosis，ALS）會導致呼吸肌進行性無力，是慢性呼吸困難的重要病因<br>(D) 錯誤，肺高壓（pulmonary hypertension）增加右心室後負荷，導致運動性及靜息性呼吸困難，是慢性呼吸困難的重要病因",
+    "explanation": "慢性呼吸困難（chronic dyspnea）的主要病因涵蓋心肺、神經肌肉及血管等多系統疾病，良性局部腫瘤不在其主要病因之列。<br>(A) 錯誤，重度脊柱後側彎（severe kyphoscoliosis）可嚴重限制胸廓活動與肺部擴張，導致限制型肺疾病（restrictive lung disease）與慢性呼吸困難<br>(B) 正確，肺部良性腫瘤如錯構瘤（hamartoma）通常位於周邊，體積小且生長緩慢，較少造成氣道阻塞或通氣障礙，不是慢性呼吸困難的主要原因<br>(C) 錯誤，運動神經元疾病（motor neuron disease）如肌萎縮性側索硬化症（amyotrophic lateral sclerosis，ALS）會導致呼吸肌進行性無力，是慢性呼吸困難的重要病因<br>(D) 錯誤，肺高壓（pulmonary hypertension）增加右心室後負荷，導致運動性及靜息性呼吸困難，是慢性呼吸困難的重要病因",
     "tags": [
       "115-1-3",
       "胸腔內科"

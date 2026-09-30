@@ -658,7 +658,7 @@
       "D": "肺功能檢查FEV1大於1公升"
     },
     "answer": "A",
-    "explanation": "此題考查非小細胞肺癌（non-small cell lung cancer）治癒性切除的禁忌症。上腔靜脈症候群通常代表腫瘤侵犯重要血管結構。<br>(A) 正確，上腔靜脈症候群（superior vena cava syndrome）通常代表腫瘤嚴重侵犯縱膈腔或上腔靜脈，是治癒性切除的禁忌症<br>(B) 錯誤，同側肺門淋巴結轉移（ipsilateral hilar lymph node metastasis）屬於N1期，仍可考慮手術切除<br>(C) 錯誤，穩定性心絞痛（stable angina pectoris）若經過適當治療穩定，不是手術的絕對禁忌症<br>(D) 錯誤，肺功能檢查FEV1大於1公升通常足以耐受肺葉切除手術，不是禁忌症",
+    "explanation": "此題考查非小細胞肺癌（non-small cell lung cancer）治癒性切除的禁忌症。上腔靜脈症候群通常代表腫瘤侵犯重要血管結構。<br>(A) 正確，上腔靜脈症候群（superior vena cava syndrome）通常代表腫瘤嚴重侵犯縱膈腔或上腔靜脈，是治癒性切除的禁忌症<br>(B) 錯誤，同側肺門淋巴結轉移（ipsilateral hilar lymph node metastasis）屬於N1期，仍可考慮手術切除<br>(C) 錯誤，穩定性心絞痛（stable angina pectoris）若經過適當治療穩定，不是手術的絕對禁忌症<br>(D) 錯誤，FEV1大於1公升本身不是治癒性切除的禁忌，能否耐受手術需再以預估術後FEV1、DLCO及運動測試評估",
     "tags": [
       "111-1-3(三)",
       "胸腔內科"
@@ -794,7 +794,7 @@
       "D": "肺炎"
     },
     "answer": "B",
-    "explanation": "此題考查單頻喘鳴聲（monophonic wheeze）的臨床意義。單頻喘鳴聲提示局部氣道阻塞，最常見於肺癌。<br>(A) 錯誤，心衰竭通常表現為兩側瀰漫性囉音（crackles），而非單頻喘鳴聲<br>(B) 正確，單頻喘鳴聲（monophonic wheeze）提示局部氣道阻塞，肺癌是最常見的原因<br>(C) 錯誤，肺纖維化主要表現為吸氣性囉音（inspiratory crackles），而非喘鳴聲<br>(D) 錯誤，肺炎通常表現為囉音和支氣管呼吸音，較少出現單頻喘鳴聲",
+    "explanation": "此題考查單頻喘鳴聲（monophonic wheeze）的臨床意義。單頻喘鳴聲提示局部氣道阻塞，可見於支氣管內腫瘤（如肺癌）、異物或支氣管狹窄。<br>(A) 錯誤，心衰竭通常表現為兩側瀰漫性囉音（crackles），而非單頻喘鳴聲<br>(B) 正確，單頻喘鳴聲（monophonic wheeze）提示局部氣道阻塞，選項中以支氣管內腫瘤（肺癌）最符合<br>(C) 錯誤，肺纖維化主要表現為吸氣性囉音（inspiratory crackles），而非喘鳴聲<br>(D) 錯誤，肺炎通常表現為囉音和支氣管呼吸音，較少出現單頻喘鳴聲",
     "tags": [
       "111-1-3(三)",
       "胸腔內科"
