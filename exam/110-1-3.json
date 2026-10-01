@@ -267,7 +267,7 @@
       "D": "僅①④"
     },
     "answer": "D",
-    "explanation": "此題考查食道靜脈瘤出血的緊急處理。患者有酒精性肝硬化病史，出現吐血、低血壓、心搏過速、意識不清且躁動，屬於出血性休克合併意識改變。<br>(A) 錯誤，②給予propranolol不適合用於急性出血的緊急處理。乙型阻斷劑用於預防再出血或一級預防，急性期使用會加重低血壓及心搏過緩<br>(B) 錯誤，②給予propranolol不適合急性處理<br>(C) 錯誤，③大腸鏡檢查不適合，應進行上消化道內視鏡檢查<br>(D) 正確，①建立靜脈通路以利大量輸液輸血是休克處理基本原則;④氣管插管保護呼吸道可預防嘔血引起的吸入性肺炎，對意識不清且躁動的患者特別重要",
+    "explanation": "病患處於休克狀態（血壓低、心跳快）且意識不清、躁動，雖然補充體液很重要，但針對「食道靜脈瘤出血」的病患，過度大量的輸液會導致門靜脈壓力上升而加劇出血。同時，病患意識不清且正在吐血，最大的立即致死風險之一是呼吸道阻塞或吸入性肺炎，因此保護呼吸道（Airway Protection）在躁動且持續嘔血的病患中是首要且正確的處置。<br>① 正確，病患血壓 90/50 mmHg、心跳 148/min，已處於嚴重的低血容性休克（Hypovolemic Shock），必須立即建立大口徑的周邊靜脈導管（Large-bore IV lines）或中心靜脈導管（Central Venous Catheter），以利進行液體復甦或啟動大量輸血協定（Massive Transfusion Protocol）來維持器官灌流。<br>② 錯誤，Propranolol（Non-selective β-blocker）是用於「預防」出血，在急性出血期且休克時使用會抑制心跳代償並惡化低血壓。急性期應給予血管收縮劑如 Terlipressin、Somatostatin 或 Octreotide 來降低內臟血流。<br>③ 錯誤，病患吐血提示為上消化道出血（Upper GI Bleeding），應安排上消化道內視鏡/胃鏡（Panendoscopy / EGD）進行止血，而非檢查下消化道的大腸鏡（Colonoscopy）。<br>④ 正確，病患意識不清（Conscious Disturbance）且有吐血（Hematemesis），極易發生嘔吐物嗆入肺部，應優先進行氣管內管插管（Endotracheal Intubation）以保護呼吸道，防止吸入性肺炎（Aspiration Pneumonia），並便於後續鎮靜與內視鏡檢查。",
     "tags": [
       "110-1-3(三)",
       "肝膽內科"

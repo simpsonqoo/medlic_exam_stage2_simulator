@@ -321,7 +321,7 @@
       "D": "十至十四日療程之bismuth quadruple therapy（proton pump inhibitor, bismuth, tetracycline, metronidazole）"
     },
     "answer": "A",
-    "explanation": "此題考查幽門螺旋桿菌除菌療法。在clarithromycin抗藥比例小於15%的地區，七日療程不推薦使用。<br>(A) 正確，七日療程的clarithromycin triple therapy因除菌率較低，即使在clarithromycin抗藥比例小於15%的地區也不推薦使用<br>(B) 錯誤，十四日療程的clarithromycin triple therapy在clarithromycin抗藥比例小於15%的地區是可以使用的<br>(C) 錯誤，十至十四日療程的concomitant therapy是推薦的治療方式之一<br>(D) 錯誤，十至十四日療程的bismuth quadruple therapy是推薦的治療方式之一",
+    "explanation": "此題考查幽門螺旋桿菌除菌療法。題目設定為 clarithromycin 抗藥比例小於 15% 的地區，七日療程的 clarithromycin triple therapy 不推薦。依最新的 ACG 2024 指引，各除菌處方的建議療程為 14 天。<br>(A) 正確，七日療程的 clarithromycin triple therapy 療程不足，不被推薦<br>(B) 錯誤，公告答案視為可使用的方案。但依 ACG 2024，未做藥敏試驗時不建議經驗性使用含 clarithromycin 的處方，確認對 clarithromycin 感受性後才可使用十四日療程的 triple therapy<br>(C) 錯誤，公告答案視為推薦的方案之一。但 concomitant therapy 含 clarithromycin，依 ACG 2024 同樣不建議經驗性使用，需確認藥敏<br>(D) 錯誤，bismuth quadruple therapy 是推薦的方案，ACG 2024 列為未做藥敏試驗者的首選，建議療程 14 天",
     "tags": [
       "113-2-3(三)",
       "腸胃內科"
