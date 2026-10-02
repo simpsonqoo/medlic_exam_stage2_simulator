@@ -369,7 +369,7 @@
       "D": "mmarkers of severity during hospitalization 包括有 elevated C-reactive protein（CRP）及 elevated blood sugar"
     },
     "answer": "C",
-    "explanation": "此題考查急性胰臟炎 (acute pancreatitis) 嚴重度的評估指標。選項 (C) 描述了全身性發炎反應症候群 (Systemic Inflammatory Response Syndrome， SIRS) 的部分標準，是入院時評估嚴重度的重要標記。<br>(A) 錯誤， 嚴重程度相關的因子包括 BMI > 30 kg/m2 (肥胖)，而不是 < 30 kg/m2。<br>(B) 錯誤， 入院時的嚴重度標記包括血液濃縮 (hemoconcentration) (如此處題幹未顯示的 hematocrit > 44%)，而不是血液稀釋 (hemodilution)。<br>(C) 正確， 體溫 < 36°C 或 > 38°C、心率 > 90次/分鐘，這些是 SIRS 的標準，用於評估入院時的嚴重度。<br>(D) 錯誤， 住院期間的嚴重度標記主要是 C-反應蛋白 (CRP) 升高；血糖升高 (elevated blood sugar) 通常是入院時的評估指標之一。",
+    "explanation": "此題考查急性胰臟炎 (acute pancreatitis) 嚴重度的評估指標。選項 (C) 描述了全身性發炎反應症候群 (Systemic Inflammatory Response Syndrome， SIRS) 的部分標準，是入院時評估嚴重度的重要標記。<br>(A) 錯誤， 嚴重程度相關的因子包括 BMI &gt; 30 kg/m2 (肥胖)，而不是 &lt; 30 kg/m2。<br>(B) 錯誤， 入院時的嚴重度標記包括血液濃縮 (hemoconcentration) (如此處題幹未顯示的 hematocrit &gt; 44%)，而不是血液稀釋 (hemodilution)。<br>(C) 正確， 體溫 &lt; 36°C 或 &gt; 38°C、心率 &gt; 90次/分鐘，這些是 SIRS 的標準，用於評估入院時的嚴重度。<br>(D) 錯誤， 住院期間的嚴重度標記是持續性器官衰竭 (&gt; 48 小時) 與胰臟壞死，CRP 與血糖不屬於這一類。",
     "tags": [
       "110-2-3(三)",
       "腸胃內科"
