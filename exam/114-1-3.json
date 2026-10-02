@@ -267,7 +267,7 @@
       "D": "②④"
     },
     "answer": "C",
-    "explanation": "此題考查Wilson's disease（威爾森氏症）的臨床表現。患者可能出現角膜的Kayser-Fleischer ring和肝臟的hepato-lenticular degeneration。<br>(A) 錯誤，Wilson's disease發生急性猛爆性肝炎時，血清及膽汁內的銅離子濃度是增加的（非減少），因為肝細胞壞死釋放出銅離子<br>(B) 錯誤，口服zinc和trientine是Wilson's disease的治療藥物，可用於懷孕期<br>(C) 正確，Kayser-Fleischer ring是角膜周邊的銅沉積環，hepato-lenticular degeneration是Wilson's disease的病理特徵<br>(D) 正確，肝臟病理切片呈現hepato-lenticular degeneration",
+    "explanation": "此題考查Wilson's disease（威爾森氏症）的臨床表現，③④正確，答案為(C)。<br>①錯誤，Wilson's disease發生急性猛爆性肝炎時，肝細胞壞死釋出大量銅，血清游離銅與尿銅明顯上升（非減少），膽汁排銅則因ATP7B缺陷而減少。<br>②錯誤，口服zinc與trientine是Wilson's disease的治療藥物，懷孕期間應繼續治療（trientine於第二、三孕期減量，zinc可持續使用）。<br>③正確，Kayser-Fleischer ring是銅沉積於角膜Descemet's membrane形成的環。<br>④正確，hepato-lenticular degeneration（肝豆狀核變性）是Wilson's disease的別名，指肝臟與腦部豆狀核同時受銅沉積破壞。",
     "tags": [
       "114-1-3(三)",
       "肝膽內科"
@@ -1308,7 +1308,7 @@
       "D": "檢查acetaminophen血中濃度"
     },
     "answer": "B",
-    "explanation": "此題考查acetaminophen中毒的處理。服藥4小時後使用活性碳洗胃效果不佳，且可能影響N-acetylcysteine的口服給藥。<br>(A) 正確，N-acetylcysteine是acetaminophen中毒的解毒劑<br>(B) 錯誤，服藥4小時後使用活性碳（activated charcoal）洗胃效果不佳，因為藥物已大部分吸收。活性碳最有效的時間是服藥後1-2小時內<br>(C) 正確，應檢查肝功能指數評估肝損傷程度<br>(D) 正確，應檢查acetaminophen血中濃度並參考Rumack-Matthew nomogram評估毒性",
+    "explanation": "此題考查acetaminophen中毒的處理。患者服用10 g（約167 mg/kg），已達需評估的劑量，應檢查血中濃度與肝功能並給予N-acetylcysteine，不應洗胃。<br>(A) 正確，N-acetylcysteine是acetaminophen中毒的解毒劑<br>(B) 錯誤，acetaminophen中毒不建議洗胃，活性碳應以口服給予。依2023年美加共識，攝入後4小時內仍可考慮口服活性碳，本選項不適當的主因是洗胃<br>(C) 正確，應檢查肝功能指數評估肝損傷程度<br>(D) 正確，應檢查acetaminophen血中濃度並參考Rumack-Matthew nomogram評估毒性",
     "tags": [
       "114-1-3(三)",
       "家醫科"
