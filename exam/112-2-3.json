@@ -475,7 +475,7 @@
       "D": "建議病人限制低鹽（＜5g/day）飲食"
     },
     "answer": "A",
-    "explanation": "此題考查自體顯性多囊性腎臟病的治療。第一線應使用ACE抑制劑或ARB，非鈣離子阻斷劑。<br>(A) 錯誤，自體顯性多囊性腎臟病（ADPKD）病人血壓控制的第一線用藥應為ACE抑制劑或ARB，而非鈣離子阻斷劑；且目標血壓應為110/75 mmHg，但不建議收縮壓控制過低（小於110 mmHg可能有害）<br>(B) 正確，囊泡感染時使用脂溶性抗生素（如trimethoprim-sulfamethoxazole、quinolones、chloramphenicol）因囊泡穿透性佳，療效較好<br>(C) 正確，使用vasopressin antagonist（tolvaptan）可減緩囊泡形成及腎功能惡化<br>(D) 正確，建議限制低鹽飲食（<5g/day）",
+    "explanation": "此題考查自體顯性多囊性腎臟病的治療。第一線應使用ACE抑制劑或ARB，非鈣離子阻斷劑。<br>(A) 錯誤，自體顯性多囊性腎臟病（ADPKD）病人血壓控制的第一線用藥應為ACE抑制劑或ARB，而非鈣離子阻斷劑。KDIGO 2025 建議 18~49 歲、CKD G1~G2 且血壓 &gt;130/85 mmHg 者目標血壓 ≤110/75 mmHg（居家血壓），50 歲以上或 CKD G3~G5 者目標收縮壓 &lt;120 mmHg，並非 140/90 mmHg<br>(B) 正確，囊泡感染時使用脂溶性抗生素（如trimethoprim-sulfamethoxazole、quinolones、chloramphenicol）因囊泡穿透性佳，療效較好，KDIGO 2025 建議療程 4~6 週<br>(C) 正確，使用vasopressin antagonist（tolvaptan）可減緩囊泡形成及腎功能惡化<br>(D) 正確，建議限制低鹽飲食（&lt;5g/day）",
     "tags": [
       "112-2-3(三)",
       "腎臟內科"
