@@ -923,7 +923,7 @@
       "D": "Lugol's solution"
     },
     "answer": "A,B,C,D",
-    "explanation": "此題考查甲狀腺危象的藥物治療。四種藥物在甲狀腺危象時均會使用。<br>(A) 正確，心得安（propranolol）在甲狀腺危象時用於控制心跳加速、顫抖等交感神經亢進症狀，且高劑量propranolol可抑制T4轉換為T3<br>(B) 正確，丙基硫氧嘧啶（propylthiouracil，PTU）在甲狀腺危象時優先使用，因其可抑制甲狀腺素合成及阻斷T4轉換為T3<br>(C) 正確，卡比馬唑（carbimazole）可抑制甲狀腺素合成，是甲狀腺危象的治療選項<br>(D) 正確，盧戈氏溶液（Lugol's solution）可快速抑制甲狀腺素釋放（Wolff-Chaikoff effect），是甲狀腺危象特有的治療，應在PTU/carbimazole給予後1小時再使用",
+    "explanation": "此題考查甲狀腺危象（thyroid storm）的藥物治療。公告答案為(A)(B)(C)(D)皆給分，四種藥物在甲狀腺危象時都會使用，治療原則為抑制新荷爾蒙合成、抑制已合成荷爾蒙釋放、阻斷周邊作用與T4轉換為T3，並合併糖皮質素與支持療法。題目問「通常在危象時才會使用」，四者中以Lugol's solution最符合（一般甲狀腺機能亢進僅用於術前準備），但公告四個選項皆給分。<br>(A) 正確，propranolol在甲狀腺危象時用於控制心搏過速、顫抖等交感神經亢進症狀，高劑量可抑制T4轉換為T3，一般甲狀腺機能亢進也常用於症狀控制<br>(B) 正確，丙基硫氧嘧啶（propylthiouracil，PTU）抑制甲狀腺過氧化酶減少荷爾蒙合成，並可阻斷周邊T4轉換為T3，甲狀腺危象時常優先使用<br>(C) 正確，卡比馬唑（carbimazole）為methimazole的前驅藥，於體內轉為methimazole抑制荷爾蒙合成，可用於甲狀腺危象<br>(D) 正確，盧戈氏溶液（Lugol's solution）以無機碘經Wolff-Chaikoff效應快速抑制甲狀腺荷爾蒙釋放，應在給予PTU或methimazole至少1小時後才使用，以免碘成為合成新荷爾蒙的原料",
     "tags": [
       "114-2-3(三)",
       "新陳代謝科"
