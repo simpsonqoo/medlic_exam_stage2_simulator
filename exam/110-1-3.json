@@ -851,7 +851,7 @@
       "D": "腎上腺電腦斷層"
     },
     "answer": "B",
-    "explanation": "此題考查外源性庫欣氏症候群的診斷。病人有庫欣氏症體態但ACTH和cortisol皆低，應考慮外源性類固醇使用。<br>(A) 錯誤，dexamethasone suppression test用於診斷內源性庫欣氏症候群，但此病人ACTH和cortisol已經很低，不適用<br>(B) 正確，24小時尿液游離皮質醇可協助確認是否有外源性類固醇暴露，這是下一步最佳檢查<br>(C) 錯誤，ACTH已經很低，不需要腦部核磁共振檢查腦下垂體<br>(D) 錯誤，ACTH和cortisol都低，不是腎上腺腫瘤造成",
+    "explanation": "此題考查庫欣氏症體態但 ACTH 與 cortisol 皆低的處置。ACTH 與 cortisol 都受抑制，代表不是內源性 cortisol 過多，最常見的原因是外源性糖皮質激素，來源可能是口服、注射、吸入、外用或中藥偏方。<br>(A) 錯誤，dexamethasone suppression test 用於內源性庫欣氏症候群的篩檢，病人的 cortisol 已低於 1 μg/dL，沒有可被抑制的空間<br>(B) 公告答案為正確，外源性糖皮質激素抑制 HPA 軸，內源性 cortisol 分泌下降，24 小時尿液游離皮質醇偏低，是這四個選項中最接近的下一步。依 Endocrine Society 指引，評估庫欣氏症候群前須先排除外源性糖皮質激素，詳問用藥史比 UFC 更優先<br>(C) 錯誤，ACTH 已經很低，不需要用腦部核磁共振找腦下垂體腫瘤<br>(D) 錯誤，cortisol 與 ACTH 都低，不是腎上腺腫瘤自主分泌造成，不需要腎上腺電腦斷層",
     "tags": [
       "110-1-3(三)",
       "新陳代謝科"
