@@ -437,7 +437,7 @@
       "D": "ergocalcitriol"
     },
     "answer": "C",
-    "explanation": "此題考查慢性腎臟病 (CKD) 礦物質與骨骼異常 (MBD) 的處置。病患 eGFR 20 (CKD G4)，腎臟無法活化維生素D，導致 25(OH)D 缺乏、低血鈣、高血磷及續發性副甲狀腺亢進 (secondary hyperparathyroidism)。<br>(A) 錯誤， Cinacalcet 是一種擬鈣劑 (calcimimetic)，用於治療高血鈣及高血磷的副甲狀腺亢進，此病患血鈣偏低，不適用。<br>(B) 錯誤， Cholecalciferol (維生素D3) 是營養性維生素D，需經由衰竭的腎臟活化，效果不佳。<br>(C) 正確， Calcitriol (骨化三醇) 是活性維生素D (active vitamin D)，不需腎臟活化，可直接抑制 PTH 分泌並改善低血鈣，是此類病患的首選。<br>(D) 錯誤， Ergocalciferol (維生素D2) 同樣是營養性維生素D，需經腎臟活化。",
+    "explanation": "此題考查慢性腎臟病 (CKD) 礦物質與骨骼異常 (MBD) 的處置。病患 eGFR 20 (CKD G4)，25(OH)D 10 ng/mL (缺乏)，血鈣 2.05 mmol/L (約 8.2 mg/dL，偏低)，iPTH 255 pg/mL，為續發性副甲狀腺亢進 (secondary hyperparathyroidism)。<br>(A) 錯誤， Cinacalcet 是一種擬鈣劑 (calcimimetic)，適用於透析病人的續發性副甲狀腺亢進，未透析的 CKD 因低血鈣風險不核准使用，此病患血鈣偏低也不應起始。<br>(B) 錯誤， Cholecalciferol (維生素D3) 是營養性維生素D，需經肝臟 25-羥化與腎臟 1α-羥化才具活性。CKD G4 時腎臟活化能力下降，對已有低血鈣與 PTH 明顯上升的病人，矯正低血鈣與抑制 PTH 的效果不如活性維生素D。25(OH)D 缺乏仍應依一般族群的策略補充，但不是本題最優先的處置。<br>(C) 正確， Calcitriol (骨化三醇) 是活性維生素D (active vitamin D)，不需腎臟活化，可直接抑制 PTH 分泌並改善低血鈣，此病人為 CKD G4 合併低血鈣與明顯上升的 PTH，故為最優先。KDIGO 2017 對未透析的 CKD 不常規使用 calcitriol，保留給 G4~G5 嚴重且進行性的續發性副甲狀腺亢進，使用時從低劑量開始並避免高血鈣。<br>(D) 錯誤， Ergocalciferol (維生素D2) 同樣是營養性維生素D，需經肝臟與腎臟兩次羥化才具活性，CKD G4 時效果有限，理由同 (B)。",
     "tags": [
       "110-2-3(三)",
       "腎臟內科"

@@ -409,7 +409,7 @@
       "D": "貧血"
     },
     "answer": "A",
-    "explanation": "慢性腎臟病（chronic kidney disease，CKD）因腎臟調節功能喪失，會導致多種電解質與代謝異常，但鈉離子的調節有其特殊性。<br>(A) 正確，高血鈉（hypernatremia）在慢性腎臟病中非常少見，因為只要患者有正常口渴感並能自由飲水，腎臟即使功能受損仍能維持血鈉平衡；CKD反而較常見低血鈉（hyponatremia）<br>(B) 錯誤，腎臟排磷能力下降導致高血磷（hyperphosphatemia）是CKD常見的代謝異常<br>(C) 錯誤，高血磷刺激副甲狀腺素（parathyroid hormone）分泌，加上活性維生素D不足，導致次發性副甲狀腺機能亢進（secondary hyperparathyroidism）<br>(D) 錯誤，腎臟合成紅血球生成素（erythropoietin）不足導致腎性貧血（renal anemia）是CKD極常見的併發症",
+    "explanation": "慢性腎臟病（chronic kidney disease，CKD）因腎臟調節功能喪失，會導致多種電解質與代謝異常，但鈉離子的調節有其特殊性。<br>(A) 正確，高血鈉（hypernatremia）在慢性腎臟病中非常少見，因為只要患者有正常口渴感並能自由飲水，腎臟即使功能受損仍能維持血鈉平衡，CKD反而較常見低血鈉（hyponatremia）<br>(B) 錯誤，腎臟排磷能力下降導致高血磷（hyperphosphatemia）是CKD常見的代謝異常<br>(C) 錯誤，高血磷刺激副甲狀腺素（parathyroid hormone）分泌，加上活性維生素D不足，導致次發性副甲狀腺機能亢進（secondary hyperparathyroidism）<br>(D) 錯誤，腎臟合成紅血球生成素（erythropoietin）不足導致腎性貧血（renal anemia）是CKD極常見的併發症",
     "tags": [
       "115-1-3",
       "腎臟內科"
@@ -494,7 +494,7 @@
       "D": "為改善腎性貧血病患之死亡率，應將病患之血色素值矯正至正常人標準值（≧13 g/dL）"
     },
     "answer": "D",
-    "explanation": "腎性貧血（renal anemia）的治療目標需根據臨床試驗結果設定，過度矯正血色素反而有害。<br>(A) 正確，腎性貧血的紅血球型態典型為正常血球大小（normocytic）且正常色素性（normochromic），因主要病因為紅血球生成素不足而非缺鐵<br>(B) 正確，腎性貧血可導致虛弱、運動耐受力不良（exercise intolerance）、心臟衰竭（heart failure）與認知功能異常（cognitive dysfunction）<br>(C) 正確，腎性貧血最主要的病因為腎臟合成紅血球生成素（erythropoietin，EPO）不足<br>(D) 錯誤，大型臨床試驗（如CHOIR、TREAT研究）顯示將慢性腎臟病腎性貧血患者血色素矯正至正常標準（≧13 g/dL）反而增加心血管事件與死亡風險，目前建議血色素目標值為10至12 g/dL，不應矯正至正常人標準",
+    "explanation": "腎性貧血（renal anemia）的治療目標需根據臨床試驗結果設定，過度矯正血色素反而有害。<br>(A) 正確，腎性貧血的紅血球型態典型為正常血球大小（normocytic）且正常色素性（normochromic），因主要病因為紅血球生成素不足而非缺鐵<br>(B) 正確，腎性貧血可導致虛弱、運動耐受力不良（exercise intolerance）、心臟衰竭（heart failure）與認知功能異常（cognitive dysfunction）<br>(C) 正確，腎性貧血最主要的病因為腎臟合成紅血球生成素（erythropoietin，EPO）不足<br>(D) 錯誤，大型臨床試驗（如CHOIR、TREAT研究）顯示將慢性腎臟病腎性貧血患者血色素矯正至正常標準（≧13 g/dL）反而增加心血管事件與死亡風險，KDIGO指引建議使用紅血球生成素時不將血色素維持在11.5 g/dL以上，不應矯正至正常人標準",
     "tags": [
       "115-1-3",
       "腎臟內科"

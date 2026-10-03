@@ -471,7 +471,7 @@
       "D": "血液透析無法清除gadolinium"
     },
     "answer": "D",
-    "explanation": "此題考查腎因性全身纖維化（nephrogenic systemic fibrosis）的特性。血液透析可以清除gadolinium。<br>(A) 正確，此症與使用gadolinium顯影劑有關，病症類似scleromyxedema<br>(B) 正確，CKD第3期以後應避免使用gadolinium，若必須使用應減量<br>(C) 正確，肝臟疾病是罹患此症的危險因子之一<br>(D) 錯誤，血液透析可以清除gadolinium，建議使用gadolinium後立即透析以減少風險",
+    "explanation": "此題考查腎因性全身纖維化（nephrogenic systemic fibrosis）的特性。血液透析可以清除gadolinium。<br>(A) 正確，此症與使用gadolinium顯影劑有關，病症類似scleromyxedema<br>(B) 正確，NSF的高風險族群為eGFR &lt; 30（CKD第4~5期）、透析或急性腎損傷病人，CKD第3期可使用gadolinium，宜選用Group II顯影劑並使用最低有效劑量<br>(C) 正確，肝臟疾病是罹患此症的危險因子之一<br>(D) 錯誤，血液透析可以清除gadolinium，透析病人顯影後可儘快安排血液透析，但預防NSF的效益尚未證實",
     "tags": [
       "110-1-3(三)",
       "腎臟內科"

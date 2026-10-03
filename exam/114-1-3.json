@@ -489,7 +489,7 @@
       "D": "低蛋白飲食可以改善尿毒症狀，但可能會增加營養不良的風險"
     },
     "answer": "A",
-    "explanation": "此題考查慢性腎臟病的流行病學。糖尿病（非高血壓）是目前台灣新發生長期透析病患最主要的原發病因。<br>(A) 錯誤，糖尿病（非高血壓）才是目前台灣新發生長期透析（incident dialysis）病患最主要的原發病因<br>(B) 正確，慢性腎臟病患合併糖尿病，血壓應控制在130/80 mmHg以下<br>(C) 正確，心血管疾病是最常造成慢性腎臟病患死亡的原因<br>(D) 正確，低蛋白飲食可改善尿毒症狀，但可能增加營養不良風險",
+    "explanation": "此題考查慢性腎臟病的流行病學。糖尿病（非高血壓）是目前台灣新發生長期透析病患最主要的原發病因。<br>(A) 錯誤，糖尿病（非高血壓）才是目前台灣新發生長期透析（incident dialysis）病患最主要的原發病因<br>(B) 正確，慢性腎臟病患合併糖尿病，血壓應控制在130/80 mmHg以下（KDIGO 2021建議可耐受時收縮壓控制在120 mmHg以下）<br>(C) 正確，心血管疾病是最常造成慢性腎臟病患死亡的原因<br>(D) 正確，低蛋白飲食可改善尿毒症狀，但可能增加營養不良風險",
     "tags": [
       "114-1-3(三)",
       "腎臟內科"
@@ -1220,7 +1220,7 @@
       "D": "不應繼續使用metformin"
     },
     "answer": "D",
-    "explanation": "此題考查慢性腎臟病患者使用metformin的適應症。eGFR 56 mL/min/1.73 m²時可以繼續使用metformin，但需調整劑量。<br>(A) 正確，eGFR 56且UACR 380 mg/g的腎病變風險高於eGFR 40且UACR 28 mg/g的病人<br>(B) 正確，eGFR 56 mL/min/1.73 m²屬於慢性腎臟病stage 3a（eGFR 45-59）<br>(C) 正確，長期服用非類固醇止痛消炎藥（NSAIDs）會惡化慢性腎臟病<br>(D) 錯誤，eGFR 56 mL/min/1.73 m²時可以繼續使用metformin，但需調整劑量。僅當eGFR＜30 mL/min/1.73 m²時才建議停用metformin",
+    "explanation": "此題考查慢性腎臟病患者使用metformin的原則。eGFR 56 mL/min/1.73 m²時可以繼續使用metformin，劑量不需調整，但需定期追蹤腎功能。<br>(A) 正確，eGFR 56且UACR 380 mg/g的腎病變風險高於eGFR 40且UACR 28 mg/g的病人<br>(B) 正確，eGFR 56 mL/min/1.73 m²屬於慢性腎臟病stage 3a（eGFR 45-59）<br>(C) 正確，長期服用非類固醇止痛消炎藥（NSAIDs）會惡化慢性腎臟病<br>(D) 錯誤，eGFR 56 mL/min/1.73 m²時可以繼續使用metformin，eGFR 30~44時需減量，eGFR＜30 mL/min/1.73 m²時才停用",
     "tags": [
       "114-1-3(三)",
       "家醫科"
