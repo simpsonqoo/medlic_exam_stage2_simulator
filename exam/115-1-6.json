@@ -811,6 +811,9 @@
     "images": [
       "./exam/image/115-1-6-47.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/115-1-6-47e.jpg"
+    ],
     "group_id": "group_1151646"
   },
   {
