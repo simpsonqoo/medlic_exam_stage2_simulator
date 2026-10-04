@@ -1053,7 +1053,7 @@
       "D": "發生這些併發症的病人，超過80%帶有HLA-B27表現型（phenotype）"
     },
     "answer": "A",
-    "explanation": "此題考查反應性關節炎(reactive arthritis)的診斷。病人是典型的反應性關節炎表現，不是感染性心內膜炎或化膿性關節炎。<br>(A) 錯誤，病人發生的是反應性關節炎(reactive arthritis)，而非金黃色葡萄球菌感染性心內膜炎(staphylococcal infective endocarditis)和化膿性關節炎(septic arthritis)<br>(B) 正確，病人確實發生反應性關節炎<br>(C) 正確，非淋球菌性尿道炎及後續併發症最可能與披衣菌(Chlamydia trachomatis)感染相關<br>(D) 正確，超過80%的反應性關節炎病人帶有HLA-B27表現型",
+    "explanation": "此題考查反應性關節炎(reactive arthritis)的診斷。病人是典型的反應性關節炎表現，不是感染性心內膜炎或化膿性關節炎。<br>(A) 錯誤，病人發生的是反應性關節炎(reactive arthritis)，而非金黃色葡萄球菌感染性心內膜炎(staphylococcal infective endocarditis)和化膿性關節炎(septic arthritis)<br>(B) 正確，病人確實發生反應性關節炎<br>(C) 正確，非淋球菌性尿道炎及後續併發症最可能與披衣菌(Chlamydia trachomatis)感染相關<br>(D) 公告未視為錯誤選項。反應性關節炎帶有 HLA-B27 的比例，教科書多寫約 50~80%（各研究差異大），選項的「超過 80%」落在這個範圍的上緣，不影響答案",
     "tags": [
       "112-2-3(三)",
       "風濕免疫科"
@@ -1311,7 +1311,7 @@
       "D": "Salmonella typhi菌株對於fluoroquinolone類抗生素沒有抗藥性的產生"
     },
     "answer": "B",
-    "explanation": "此題考查傷寒的臨床表現。白血球下降、肝功能異常及脾腫大是典型表現。<br>(A) 錯誤，傷寒常見的表現是持續性發燒，腹瀉並非主要症狀，而且通常不會有血便<br>(B) 正確，傷寒病人可能有白血球下降、肝功能異常及脾腫大的表現<br>(C) 錯誤，使用抗生素後，最容易培養出細菌的方法是血液培養，而非糞便培養<br>(D) 錯誤，傷寒沙門氏菌(Salmonella typhi)對fluoroquinolone類抗生素已產生抗藥性問題",
+    "explanation": "此題考查傷寒的臨床表現。白血球下降、肝功能異常及脾腫大是典型表現。<br>(A) 錯誤，傷寒常見的表現是持續性發燒，腹瀉並非主要症狀，而且通常不會有血便<br>(B) 正確，傷寒病人可能有白血球下降、肝功能異常及脾腫大的表現<br>(C) 錯誤，使用抗生素後，骨髓培養受影響最小、仍常陽性，是最容易培養出細菌的方法，而非糞便培養<br>(D) 錯誤，傷寒沙門氏菌(Salmonella typhi)對fluoroquinolone類抗生素已產生抗藥性問題",
     "tags": [
       "112-2-3(三)",
       "感染科"
