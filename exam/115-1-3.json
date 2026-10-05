@@ -1316,7 +1316,7 @@
       "D": "退燒的藥物只能使用 acetaminophen 不能用非類固醇抗發炎藥（nonsteroidal anti-inflammatory drugs）"
     },
     "answer": "D",
-    "explanation": "登革熱（dengue fever）的臨床表現、登革出血熱（dengue hemorrhagic fever，DHF）的診斷標準及退燒藥物的選擇需正確掌握。<br>(A) 錯誤，登革熱的典型症狀包含突發高燒、嚴重頭痛、後眼窩痛（retro-orbital pain）、肌肉關節痠痛（myalgia/arthralgia）及皮疹，淋巴腺腫大（lymphadenopathy）並非登革熱的典型特徵<br>(B) 錯誤，登革出血熱（DHF）的診斷標準包含發燒、出血傾向、血小板低下（≦100,000/mm³）及血漿滲漏的證據；血漿滲漏的表現為血比容（hematocrit）「升高」（而非降低）≧20%，或出現肋膜積液（pleural effusion）及腹水（ascites）；選項中「血比容降低」的描述錯誤<br>(C) 錯誤，登革出血熱的惡化風險在「再次感染不同血清型」時顯著上升，與抗體依賴性增強（antibody-dependent enhancement，ADE）機轉有關；在流行地區，兒童因較早接觸不同血清型，DHF發生率可能高於成人，選項中「成人比小兒更多機會惡化」的描述不正確<br>(D) 正確，登革熱退燒藥物只能使用乙醯胺酚（acetaminophen），嚴禁使用非類固醇抗發炎藥（NSAIDs）及阿斯匹靈（aspirin），因後者會抑制血小板功能並增加出血風險",
+    "explanation": "登革熱（dengue fever）的臨床表現、登革出血熱（dengue hemorrhagic fever，DHF）的診斷標準及退燒藥物的選擇需正確掌握。<br>(A) 依 WHO 登革熱資料，症狀包含突發高燒、嚴重頭痛、後眼窩痛（retro-orbital pain）、肌肉關節痠痛（myalgia/arthralgia）、淋巴腺腫大（swollen glands）及皮疹，此敘述本身與指引相符，公告答案為 (D)，因 (D) 是本題最明確且最具臨床重要性的正確敘述<br>(B) 錯誤，登革出血熱（DHF）的診斷標準包含發燒、出血傾向、血小板低下（≦100,000/mm³）及血漿滲漏的證據。血漿滲漏的表現為血比容（hematocrit）「升高」（而非降低）≧20%，或出現肋膜積液（pleural effusion）及腹水（ascites），選項中「血比容降低」的描述錯誤<br>(C) 錯誤，登革出血熱的惡化風險在「再次感染不同血清型」時顯著上升，與抗體依賴性增強（antibody-dependent enhancement，ADE）機轉有關。在流行地區，兒童因較早接觸不同血清型，DHF發生率可能高於成人，選項中「成人比小兒更多機會惡化」的描述不正確<br>(D) 正確，登革熱退燒藥物只能使用乙醯胺酚（acetaminophen），嚴禁使用非類固醇抗發炎藥（NSAIDs）及阿斯匹靈（aspirin），因後者會抑制血小板功能並增加出血風險",
     "tags": [
       "115-1-3",
       "感染科"

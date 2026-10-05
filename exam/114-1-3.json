@@ -1016,7 +1016,7 @@
       "D": "如果對cefepime產生抗藥性，常見是因為AmpC加上另一個抗藥機轉，如porin diffusion通道減少"
     },
     "answer": "B",
-    "explanation": "此題考查β-lactamase抗藥性機制。K. pneumoniae染色體上的β-lactamase（SHV-1）比較傾向於水解penicillins而非cephalosporins。<br>(A) 正確，AmpC抗藥性基因常存在於Enterobacter spp.染色體上<br>(B) 錯誤，存在於K. pneumoniae染色體上的β-lactamase基因（SHV-1）比較傾向於水解penicillins（非cephalosporins）<br>(C) 正確，cefoxitin及cefepime對AmpC酶較穩定，不容易被水解<br>(D) 正確，對cefepime產生抗藥性常因AmpC加上其他抗藥機轉，如porin通道減少",
+    "explanation": "此題考查β-lactamase抗藥性機制。K. pneumoniae染色體上的β-lactamase（SHV-1）比較傾向於水解penicillins而非cephalosporins。<br>(A) 正確，AmpC抗藥性基因常存在於Enterobacter spp.染色體上<br>(B) 錯誤，存在於K. pneumoniae染色體上的β-lactamase基因（SHV-1）比較傾向於水解penicillins（非cephalosporins）<br>(C) 公告為正確敘述，但依教科書與 IDSA 2024 指引，cefepime 對 AmpC 較穩定、不易被水解，cefoxitin 屬 cephamycin，會被 AmpC 水解，此選項前半與教科書不符<br>(D) 正確，對cefepime產生抗藥性常因AmpC加上其他抗藥機轉，如porin通道減少",
     "tags": [
       "114-1-3(三)",
       "感染科"
