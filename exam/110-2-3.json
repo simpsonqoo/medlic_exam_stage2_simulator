@@ -624,7 +624,7 @@
       "D": "VDRL梅毒檢驗可能呈陽性反應"
     },
     "answer": "B",
-    "explanation": "此題考查狼瘡抗凝血因子 (lupus anticoagulant， LA) 的實驗室特性。LA 是一種抑制物 (inhibitor)，在混合試驗中，它會抑制正常血漿中的凝血因子，導致 aPTT 仍無法被矯正。<br>(A) 正確， 雖然 LA 會在體外 (in vitro) 延長 aPTT，但在體內 (in vivo) 它是一種促血栓 (pro-thrombotic) 因子，病人傾向血栓而非出血。<br>(B) 錯誤， 在混合正常血漿的試驗 (mixing test) 中，因為 LA 是一種抑制物，aPTT 仍會保持延長 (fail to correct)；如果變為正常，則表示是凝血因子缺乏 (factor deficiency)。<br>(C) 正確， LA 可出現在 SLE 患者中，也可單獨出現於原發性抗磷脂症候群 (primary antiphospholipid syndrome) 患者。<br>(D) 正確， LA 會與 VDRL 梅毒檢驗 (VDRL test) 使用的磷脂質 (cardiolipin) 反應，造成生物偽陽性 (biologic false positive) 反應。",
+    "explanation": "此題考查狼瘡抗凝血因子 (lupus anticoagulant， LA) 的實驗室特性。LA 是一種抑制物 (inhibitor)，在混合試驗中，它會抑制正常血漿中的凝血因子，導致 aPTT 仍無法被矯正。<br>(A) 正確， 雖然 LA 會在體外 (in vitro) 延長 aPTT，但在體內 (in vivo) 它是一種促血栓 (pro-thrombotic) 因子，病人傾向血栓而非出血。<br>(B) 錯誤， 在混合正常血漿的試驗 (mixing test) 中，因為 LA 是一種抑制物，aPTT 仍會保持延長 (fail to correct)。如果變為正常，則表示是凝血因子缺乏 (factor deficiency)。<br>(C) 正確， LA 可出現在 SLE 患者中，也可單獨出現於原發性抗磷脂症候群 (primary antiphospholipid syndrome) 患者。<br>(D) 正確， LA 會與 VDRL 梅毒檢驗 (VDRL test) 使用的磷脂質 (cardiolipin) 反應，造成生物偽陽性 (biologic false positive) 反應。",
     "tags": [
       "110-2-3(三)",
       "風濕免疫科"
