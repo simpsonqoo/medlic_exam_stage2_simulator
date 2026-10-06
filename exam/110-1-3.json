@@ -624,7 +624,7 @@
       "D": "BRAF突變"
     },
     "answer": "B",
-    "explanation": "此題考查非小細胞肺癌的基因檢測。亞裔不吸菸女性的肺腺癌常有EGFR突變，檢測此基因可指引標靶治療。<br>(A) 錯誤，K-ras突變在西方人較常見，且目前缺乏有效標靶藥物<br>(B) 正確，亞裔不吸菸女性的肺腺癌有高達50-60%有EGFR突變，檢測EGFR突變對選擇標靶治療（如gefitinib、erlotinib、afatinib）最重要<br>(C) 錯誤，VEGF receptor突變不是常規檢測項目<br>(D) 錯誤，BRAF突變在肺癌較少見",
+    "explanation": "此題考查非小細胞肺癌的基因檢測。亞裔不吸菸女性的肺腺癌常有EGFR突變，檢測此基因可指引標靶治療。<br>(A) 錯誤，K-ras突變在西方人與吸菸者較常見，亞裔不吸菸者較少見。KRAS G12C突變雖已有標靶藥物（sotorasib、adagrasib），但用於已接受至少一線全身性治療後，對此病人第一線治療選擇的重要性不如EGFR突變<br>(B) 正確，亞裔不吸菸女性的肺腺癌有高達50-60%有EGFR突變，檢測EGFR突變對選擇標靶治療（如gefitinib、erlotinib、afatinib、osimertinib）最重要<br>(C) 錯誤，VEGF receptor突變不是常規檢測項目<br>(D) 錯誤，BRAF突變在肺癌較少見",
     "tags": [
       "110-1-3(三)",
       "腫瘤科"
