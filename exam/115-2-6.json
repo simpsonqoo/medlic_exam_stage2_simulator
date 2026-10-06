@@ -710,6 +710,9 @@
     "group_id": "group_1152640",
     "images": [
       "./exam/image/115-2-6-41.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-41e.jpg"
     ]
   },
   {
