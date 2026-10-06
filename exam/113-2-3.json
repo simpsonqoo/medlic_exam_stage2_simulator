@@ -665,7 +665,7 @@
       "D": "免疫治療的pembrolizumab"
     },
     "answer": "D",
-    "explanation": "此題考查去勢抵抗性攝護腺癌（castration-resistant prostate cancer）的治療選擇。免疫檢查點抑制劑pembrolizumab在此適應症尚無明確療效證據。<br>(A) 正確，醋酸阿比特龍（abiraterone acetate）加上潑尼松（prednisone）已證實有效<br>(B) 正確，恩雜魯胺（enzalutamide）已證實有效<br>(C) 正確，化學治療藥物多西他賽（docetaxel）已證實有效<br>(D) 錯誤，免疫治療藥物派姆單抗（pembrolizumab）目前在去勢抵抗性攝護腺癌尚無明確有效的證據",
+    "explanation": "此題考查去勢抵抗性攝護腺癌（castration-resistant prostate cancer）的治療選擇。去勢濃度為血清睪固酮 &lt;50 ng/dL，題幹的 ng/mL 為單位誤植。免疫檢查點抑制劑pembrolizumab在此適應症尚無明確療效證據。<br>(A) 正確，醋酸阿比特龍（abiraterone acetate）加上潑尼松（prednisone）已證實有效<br>(B) 正確，恩雜魯胺（enzalutamide）已證實有效<br>(C) 正確，化學治療藥物多西他賽（docetaxel）已證實有效<br>(D) 錯誤，免疫治療藥物派姆單抗（pembrolizumab）目前在去勢抵抗性攝護腺癌尚無明確有效的證據",
     "tags": [
       "113-2-3(三)",
       "腫瘤科"
