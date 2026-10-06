@@ -679,7 +679,7 @@
       "D": "acute myeloid leukemia"
     },
     "answer": "B",
-    "explanation": "此題考查血液學異常的診斷。白血球和血小板同時升高提示慢性骨髓性白血病。<br>(A) 錯誤，原發性血小板增多症（essential thrombocytosis）主要表現為血小板升高，白血球通常不會升高到78,500/μL<br>(B) 正確，慢性骨髓性白血病（chronic myeloid leukemia）典型表現為白血球顯著升高、血小板升高，血液抹片可見不同成熟階段的骨髓細胞<br>(C) 錯誤，類白血病反應（leukemoid reaction）通常有明確的感染或發炎原因，且血小板不會升高<br>(D) 錯誤，急性骨髓性白血病（acute myeloid leukemia）通常伴隨貧血和血小板減少",
+    "explanation": "此題考查血液學異常的診斷。白血球和血小板同時升高提示慢性骨髓性白血病。<br>(A) 錯誤，原發性血小板增多症（essential thrombocytosis）主要表現為血小板升高，白血球通常不會升高到78,500/μL<br>(B) 正確，慢性骨髓性白血病（chronic myeloid leukemia）典型表現為白血球顯著升高、血小板升高，血液抹片可見不同成熟階段的骨髓細胞<br>(C) 錯誤，類白血病反應（leukemoid reaction）通常有明確的感染或發炎原因，白血球鹼性磷酸酶（LAP score）升高，且無BCR-ABL1<br>(D) 錯誤，急性骨髓性白血病（acute myeloid leukemia）通常伴隨貧血和血小板減少",
     "tags": [
       "114-2-3(三)",
       "血液科"
