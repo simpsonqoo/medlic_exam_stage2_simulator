@@ -546,7 +546,7 @@
       "D": "septic arthritis"
     },
     "answer": "A",
-    "explanation": "此題考查關節炎的診斷。關節液呈現黏稠且白血球數少、以單核球為主，提示退化性關節炎。<br>(A) 正確，退化性關節炎（osteoarthritis）的關節液通常呈現黏稠狀，白血球數少於200/μL，以單核球（mononuclear cell）為主<br>(B) 錯誤，反應性關節炎（reactive arthritis）的關節液白血球數通常為2,000-50,000/μL，以多形核白血球為主<br>(C) 錯誤，類風濕性關節炎（rheumatoid arthritis）的關節液白血球數通常為2,000-75,000/μL<br>(D) 錯誤，化膿性關節炎（septic arthritis）的關節液白血球數通常大於50,000/μL，以多形核白血球為主",
+    "explanation": "此題考查關節炎的診斷。關節液呈現黏稠且白血球數少、以單核球為主，提示退化性關節炎。<br>(A) 正確，退化性關節炎（osteoarthritis）的關節液通常呈現黏稠狀，白血球數少於2,000/μL，以單核球（mononuclear cell）為主<br>(B) 錯誤，反應性關節炎（reactive arthritis）的關節液白血球數通常為2,000~50,000/μL，以多形核白血球為主<br>(C) 錯誤，類風濕性關節炎（rheumatoid arthritis）的關節液白血球數通常為2,000~75,000/μL<br>(D) 錯誤，化膿性關節炎（septic arthritis）的關節液白血球數通常大於50,000/μL，以多形核白血球為主",
     "tags": [
       "113-2-3(三)",
       "風濕免疫科"

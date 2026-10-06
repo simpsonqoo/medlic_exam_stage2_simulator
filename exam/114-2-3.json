@@ -43,7 +43,7 @@
       "D": "allopurinol"
     },
     "answer": "D",
-    "explanation": "此題考查急性痛風性關節炎的藥物治療。別嘌呤醇用於降低尿酸，不適用於急性發作期。<br>(A) 正確，非類固醇抗發炎藥物（nonsteroidal anti-inflammatory drugs, NSAIDs）是急性痛風的第一線治療<br>(B) 正確，秋水仙素（colchicine）可有效治療急性痛風發作<br>(C) 正確，糖皮質激素（glucocorticoids）可用於不能使用NSAIDs或秋水仙素的病人<br>(D) 錯誤，別嘌呤醇（allopurinol）是降尿酸藥物，用於預防痛風復發，不適用於急性發作期，且急性期使用可能加重症狀",
+    "explanation": "此題考查急性痛風性關節炎的藥物治療。別嘌呤醇是降尿酸藥物，作用是長期降低血清尿酸，本身不具抗發炎作用，不是急性發作的治療藥物。<br>(A) 正確，非類固醇抗發炎藥物（nonsteroidal anti-inflammatory drugs, NSAIDs）是急性痛風的第一線治療<br>(B) 正確，秋水仙素（colchicine）可有效治療急性痛風發作<br>(C) 正確，糖皮質激素（glucocorticoids）與 NSAIDs、秋水仙素同為第一線選擇，無法使用 NSAIDs 或秋水仙素（如腎功能不全）時尤其適合<br>(D) 錯誤，別嘌呤醇（allopurinol）是降尿酸藥物，用於長期降低尿酸、預防痛風復發，本身不具抗發炎作用，不是急性發作的治療藥物。依 2020 ACR 痛風指引，已在使用者發作時應繼續使用，發作期間也可開始（條件建議），但仍須併用抗發炎藥物控制發作，單靠 allopurinol 處理急性發作最不恰當",
     "tags": [
       "114-2-3(三)",
       "風濕免疫科"
