@@ -680,7 +680,7 @@
       "D": "diffuse large B-cell lymphoma可能是原生型（de novo），也可能是mucosa-associated lymphoid tissue subtype轉變而來，原生型多為BCL-2及CD10陽性"
     },
     "answer": "B,C",
-    "explanation": "本題依考選部更正答案，作答B、C或BC均給分。胃原發淋巴瘤以MALT lymphoma與DLBCL為主，而t(11;18)的融合基因名稱是本題另一關鍵。<br>(A) 正確，胃MALT lymphoma常由H. pylori造成慢性抗原刺激；早期、侷限且無特定抗藥性分子異常者可先根除H. pylori<br>(B) 可接受為錯誤，MALT與DLBCL的相對比例會受分類及病例族群影響，題述固定為70％：30％且稱MALT遠多於DLBCL並不恰當<br>(C) 可接受為錯誤，t(11;18)(q21;q21)形成的是API2-MALT1融合蛋白，現行基因名稱亦作BIRC3-MALT1，不是API1-MALT1<br>(D) 正確，胃DLBCL可de novo發生，也可由MALT lymphoma大細胞轉化而來；兩類在生物標記與臨床行為上可有差異",
+    "explanation": "本題依考選部更正答案，作答B、C或BC均給分。胃原發淋巴瘤以MALT lymphoma與DLBCL為主，而t(11;18)的融合基因名稱是本題另一關鍵。<br>(A) 正確，胃MALT lymphoma常由H. pylori造成慢性抗原刺激，早期、侷限且無特定抗藥性分子異常者可先根除H. pylori<br>(B) 可接受為錯誤，MALT與DLBCL的相對比例會受分類及病例族群影響，題述固定為70％：30％且稱MALT遠多於DLBCL並不恰當<br>(C) 可接受為錯誤，t(11;18)(q21;q21)形成的是API2-MALT1融合蛋白，現行基因名稱亦作BIRC3-MALT1，不是API1-MALT1<br>(D) 公告為正確，胃DLBCL可de novo發生，也可由MALT lymphoma大細胞轉化而來。但題述「原發型多為BCL-2及CD10陽性」與文獻不完全相符：原發型較常表現生發中心標記CD10與BCL6，BCL-2的表現則與MALT成分較相關",
     "tags": [
       "115-2-3",
       "血液科"
