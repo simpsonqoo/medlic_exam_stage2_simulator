@@ -349,7 +349,7 @@
       "D": "黴菌（mold）"
     },
     "answer": "B",
-    "explanation": "在台灣，過敏性鼻炎的主要過敏原分布有明顯的地域特性，與氣候環境密切相關。<br>(A) 錯誤，動物皮毛（animal dander）在台灣雖然也是過敏原之一，但不如塵蟎常見，除非病人有飼養寵物史<br>(B) 正確，塵蟎（dust mite）是台灣最常見的過敏原，佔過敏性鼻炎患者的80%以上。台灣氣候溫暖潮濕，非常適合塵蟎生長，特別是屋塵蟎（Dermatophagoides pteronyssinus）和粉塵蟎（Dermatophagoides farinae）。每天起床時症狀特別明顯，正是塵蟎過敏的典型表現，因為床上用品是塵蟎主要棲息地<br>(C) 錯誤，蟑螂（cockroach）雖然在都市地區是重要過敏原，但整體盛行率仍低於塵蟎<br>(D) 錯誤，黴菌（mold）在潮濕環境中確實存在，但作為主要過敏原的比例不如塵蟎高",
+    "explanation": "在台灣，過敏性鼻炎的主要過敏原分布有明顯的地域特性，與氣候環境密切相關。<br>(A) 錯誤，動物皮毛（animal dander）在台灣雖然也是過敏原之一，但不如塵蟎常見，除非病人有飼養寵物史<br>(B) 正確，塵蟎（dust mite）是台灣最常見的過敏原。台灣氣候溫暖潮濕，非常適合塵蟎生長，特別是屋塵蟎（Dermatophagoides pteronyssinus）和粉塵蟎（Dermatophagoides farinae）。每天起床時症狀特別明顯，正是塵蟎過敏的典型表現，因為床上用品是塵蟎主要棲息地<br>(C) 錯誤，蟑螂（cockroach）雖然在都市地區是重要過敏原，但整體盛行率仍低於塵蟎<br>(D) 錯誤，黴菌（mold）在潮濕環境中確實存在，但作為主要過敏原的比例不如塵蟎高",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
@@ -366,7 +366,7 @@
       "D": "IL-13"
     },
     "answer": "C",
-    "explanation": "過敏性鼻炎是第二型過敏反應（Type II hypersensitivity），由Th2細胞主導的發炎反應。<br>(A) 錯誤，IL-4會增加。IL-4是Th2細胞分泌的主要細胞激素，促進B細胞產生IgE抗體，並促進Th2細胞分化，是過敏反應的關鍵介白素<br>(B) 錯誤，IL-5會增加。IL-5促進嗜酸性白血球（eosinophil）的分化、活化和存活，是過敏性鼻炎鼻黏膜中嗜酸性白血球浸潤的主要原因<br>(C) 正確，IL-10最不可能增加。IL-10是抗發炎細胞激素（anti-inflammatory cytokine），主要由調節性T細胞（regulatory T cells, Treg）分泌，功能是抑制Th1和Th2反應，降低發炎反應。在過敏性鼻炎的急性發作期，IL-10通常是降低的，Th2反應占主導地位<br>(D) 錯誤，IL-13會增加。IL-13與IL-4功能相似，促進IgE產生、黏液分泌增加、杯狀細胞增生，是過敏性鼻炎病理變化的重要介白素",
+    "explanation": "過敏性鼻炎是 IgE 媒介的第一型過敏反應（Type I hypersensitivity），由 Th2 細胞主導發炎反應。<br>(A) 錯誤，IL-4會增加。IL-4是Th2細胞分泌的主要細胞激素，促進B細胞產生IgE抗體，並促進Th2細胞分化，是過敏反應的關鍵介白素<br>(B) 錯誤，IL-5會增加。IL-5促進嗜酸性白血球（eosinophil）的分化、活化和存活，是過敏性鼻炎鼻黏膜中嗜酸性白血球浸潤的主要原因<br>(C) 正確，IL-10最不可能增加。IL-10是抗發炎細胞激素（anti-inflammatory cytokine），主要由調節性T細胞（regulatory T cells, Treg）分泌，功能是抑制Th1和Th2反應，降低發炎反應。在過敏性鼻炎的急性發作期，IL-10通常是降低的，Th2反應占主導地位<br>(D) 錯誤，IL-13會增加。IL-13與IL-4功能相似，促進IgE產生、黏液分泌增加、杯狀細胞增生，是過敏性鼻炎病理變化的重要介白素",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
@@ -383,7 +383,7 @@
       "D": "antihistamine"
     },
     "answer": "A",
-    "explanation": "過敏性鼻炎的治療包括避免過敏原、藥物治療和免疫治療，需根據嚴重度選擇適當治療。<br>(A) 正確，Anti-IgE抗體（omalizumab）目前主要適應症是中重度持續性氣喘和慢性自發性蕁麻疹，雖然對過敏性鼻炎有效，但因價格昂貴且需注射，並非過敏性鼻炎的常規治療建議。只有在嚴重、難治性過敏性鼻炎且合併氣喘時才考慮使用<br>(B) 錯誤，Leukotriene modifier（如montelukast）是過敏性鼻炎的治療選項之一，特別適合合併氣喘的患者，可以減少白三烯（leukotrienes）引起的發炎反應<br>(C) 錯誤，Topical intranasal corticosteroid（鼻用類固醇噴劑如fluticasone、mometasone）是過敏性鼻炎的第一線治療，可以有效控制鼻塞、流鼻水、打噴嚏等症狀，且局部使用全身副作用少<br>(D) 錯誤，Antihistamine（抗組織胺如cetirizine、loratadine）是過敏性鼻炎的基本治療藥物，可以快速緩解鼻癢、打噴嚏、流鼻水等症狀，第二代抗組織胺較少嗜睡副作用",
+    "explanation": "過敏性鼻炎的治療包括避免過敏原、藥物治療和免疫治療，需根據嚴重度選擇適當治療。<br>(A) 正確，Anti-IgE抗體（omalizumab）核准適應症包括過敏性氣喘、慢性鼻竇炎合併鼻息肉、IgE 媒介的食物過敏與慢性自發性蕁麻疹，並未核准用於過敏性鼻炎。雖然對過敏性鼻炎有效，但因價格昂貴且需注射，並非過敏性鼻炎的常規治療建議。只有在嚴重、難治性過敏性鼻炎且合併氣喘時才考慮使用<br>(B) 錯誤，Leukotriene modifier（如montelukast）是過敏性鼻炎的治療選項之一，特別適合合併氣喘的患者，可以減少白三烯（leukotrienes）引起的發炎反應。ARIA 列為選項之一，AAO-HNSF 2015 則不建議作為初始治療<br>(C) 錯誤，Topical intranasal corticosteroid（鼻用類固醇噴劑如fluticasone、mometasone）是過敏性鼻炎的第一線治療，可以有效控制鼻塞、流鼻水、打噴嚏等症狀，且局部使用全身副作用少<br>(D) 錯誤，Antihistamine（抗組織胺如cetirizine、loratadine）是過敏性鼻炎的基本治療藥物，可以快速緩解鼻癢、打噴嚏、流鼻水等症狀，第二代抗組織胺較少嗜睡副作用",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
