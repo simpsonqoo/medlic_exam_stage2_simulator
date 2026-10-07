@@ -9,7 +9,7 @@
       "D": "Strawbridge 等人 1994 年設計的 Frailty Measure，problem/difficulties in≧2 domains 即為衰弱"
     },
     "answer": "A,C",
-    "explanation": "衰弱（frailty）的評估工具各有不同的判斷標準，Linda Fried的Physical Frailty Index（表型評估）門檻設定是關鍵考點。<br>(A) 錯誤，Linda Fried的Physical Frailty Index共有5項指標（體重下降、疲憊感、握力低下、步行速度慢、低活動量），符合≧3項才定義為衰弱（frailty），符合1～2項為衰弱前期（pre-frailty），≧1分即為衰弱的說法是錯誤的<br>(B) 正確，Kenneth Rockwood的累積缺損衰弱指數（Cumulative Deficit Frailty Index）以「有缺損的面向數／評估的面向總數」計算，得到0到1之間的分數，評估面向涵蓋廣泛<br>(C) 正確，老年人評估問卷（Vulnerable Elders Survey-13，VES-13）以≧3分作為衰弱的切點<br>(D) 正確，Strawbridge等人1998年設計的Frailty Measure以≧2個領域出現問題或困難作為衰弱的判斷標準",
+    "explanation": "本題公告答案 A、C 均給分。衰弱（frailty）的評估工具各有不同的判斷標準，Linda Fried的Physical Frailty Index（表型評估）門檻設定是關鍵考點。<br>(A) 錯誤，Linda Fried的Physical Frailty Index共有5項指標（體重下降、疲憊感、握力低下、步行速度慢、低活動量），符合≧3項才定義為衰弱（frailty），符合1～2項為衰弱前期（pre-frailty），≧1分即為衰弱的說法是錯誤的<br>(B) 正確，Kenneth Rockwood的累積缺損衰弱指數（Cumulative Deficit Frailty Index）以「有缺損的面向數／評估的面向總數」計算，得到0到1之間的分數，評估面向涵蓋廣泛<br>(C) 公告給分，易損老人調查問卷（Vulnerable Elders Survey-13，VES-13，題目誤拼為 Venerable）以≧3分定義易損（vulnerable）老人，是篩檢 2 年內功能下降或死亡高風險者的工具，並非衰弱的診斷切點，因此「≧3分即為衰弱」的敘述不精確<br>(D) 正確，Strawbridge等人1998年設計的Frailty Measure以≧2個領域出現問題或困難作為衰弱的判斷標準（題目寫 1994 年，原始文獻為 1998 年）",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -43,7 +43,7 @@
       "D": "延後止痛藥物調整，先以抗焦慮藥物處理情緒與失眠"
     },
     "answer": "B",
-    "explanation": "安寧病房中病人無法口服藥物時，疼痛控制需維持有效的鎮痛效果，同時進行劑型與給藥途徑的等效轉換（equianalgesic conversion）。<br>(A) 錯誤，NSAIDs貼片的止痛強度不足以取代已有效控制的口服長效嗎啡（oral long-acting morphine），對骨轉移的中重度疼痛不適合作為首選替代<br>(B) 正確，應將口服嗎啡轉換為靜脈（intravenous）或皮下（subcutaneous）持續輸注，並依照等效劑量換算（口服：靜脈約3:1），是最適當的疼痛處理策略<br>(C) 錯誤，病人已無法吞嚥，改開口服短效嗎啡並透過鼻胃管給藥的方式在臨床上不符合安寧照護的實務標準，且短效製劑無法提供穩定的血中濃度<br>(D) 錯誤，以抗焦慮藥物取代止痛藥物是不適當的，疼痛本身必須優先處理，延後調整止痛藥物會造成不必要的痛苦",
+    "explanation": "安寧病房中病人無法口服藥物時，疼痛控制需維持有效的鎮痛效果，同時進行劑型與給藥途徑的等效轉換（equianalgesic conversion）。<br>(A) 錯誤，NSAIDs貼片的止痛強度不足以取代已有效控制的口服長效嗎啡（oral long-acting morphine），對骨轉移的中重度疼痛不適合作為首選替代<br>(B) 正確，應將口服嗎啡轉換為靜脈（intravenous）或皮下（subcutaneous）持續輸注，並依照等效劑量換算（口服：靜脈約3:1），是最適當的疼痛處理策略<br>(C) 錯誤，液態短效嗎啡雖可經鼻胃管給藥，但病人目前疼痛嚴重未獲控制，嚴重疼痛需要立即緩解時，應以皮下或靜脈 opioid 滴定，持續輸注也能維持穩定的血中濃度。囑咐家屬於灌食時給藥，不符合定時給藥（by the clock）的原則，也無法即時依疼痛調整劑量<br>(D) 錯誤，以抗焦慮藥物取代止痛藥物是不適當的，疼痛本身必須優先處理，延後調整止痛藥物會造成不必要的痛苦",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -1245,7 +1245,7 @@
       "D": "在植入 ICDs 裝置的部位，放置一塊約 ICDs 大小的磁鐵，可以使 ICDs 暫時失效無法電擊"
     },
     "answer": "A",
-    "explanation": "心臟末期病人的裝置（心律調節器與植入式心臟去顫器）管理是安寧緩和照護的重要議題，各裝置的功能特性需正確理解。<br>(A) 錯誤，心律調節器（pacemaker）主要用於治療心跳過慢，對於依賴心律調節器的末期病人，停用可能導致心跳停止，確實可能延長死亡過程；但說心律調節器「被認為可能延長生命的終點」並不精確，更正確的說法是：對於並非完全依賴心律調節器的末期病人，停用心律調節器的影響因人而異，並非必然延長死亡過程；此選項過度簡化且敘述不夠精準，為最不適當的選項<br>(B) 正確，對於依賴心律調節器的病人，停用後可能出現心跳減慢、心絞痛（angina）或呼吸困難（dyspnea）等症狀，需做好症狀緩解準備<br>(C) 正確，植入式心臟去顫器（implantable cardioverter-defibrillator，ICD）放電時會引起類似電擊的疼痛感，對末期病人是無謂的痛苦，去活化ICD是安寧照護的重要討論議題<br>(D) 正確，在ICD植入部位放置適當大小的磁鐵可暫時抑制ICD的電擊功能（但不影響心律調節功能），是緊急或暫時性去活化ICD的方法",
+    "explanation": "心臟末期病人的裝置（心律調節器與植入式心臟去顫器）管理是安寧緩和照護的重要議題，各裝置的功能特性需正確理解。<br>(A) 錯誤，多數末期病人並非完全依賴心律調節器（pacemaker），停用後不會立即死亡，心律調節器一般不被認為會延長臨終過程，此選項為最不適當的選項<br>(B) 正確，對於依賴心律調節器的病人，停用後可能出現心跳減慢、心絞痛（angina）或呼吸困難（dyspnea）等症狀，需做好症狀緩解準備<br>(C) 正確，植入式心臟去顫器（implantable cardioverter-defibrillator，ICD）放電時會引起類似電擊的疼痛感，對末期病人是無謂的痛苦，去活化ICD是安寧照護的重要討論議題<br>(D) 正確，在ICD植入部位放置適當大小的磁鐵可暫時抑制ICD的電擊功能（但不影響心律調節功能），是緊急或暫時性去活化ICD的方法",
     "tags": [
       "115-1-3",
       "家醫科"
