@@ -332,7 +332,7 @@
       "D": "polymyxin B"
     },
     "answer": "A",
-    "explanation": "慢性中耳炎（chronic otitis media）常合併鼓膜穿孔和耳漏，選擇耳滴劑時需考慮抗菌效果和耳毒性。<br>(A) 正確，Quinolone類抗生素（如ciprofloxacin、ofloxacin耳滴劑）是治療慢性中耳炎的首選，因為抗菌譜廣，對Pseudomonas、Staphylococcus等常見致病菌有效，穿透力好，對biofilm也有效；且無耳毒性（non-ototoxic），即使在鼓膜穿孔時使用也安全，不會損傷內耳的毛細胞或前庭功能<br>(B) 錯誤，Aminoglycoside類（如gentamicin、neomycin、tobramycin）雖然抗菌效果好，但具有耳毒性（ototoxicity），可能損傷內耳毛細胞造成聽力喪失或前庭功能異常，在鼓膜穿孔時不應使用<br>(C) 錯誤，Chloramphenicol雖然曾廣泛使用，但抗菌效果不如quinolones，且對Pseudomonas效果較差，目前較少作為第一線選擇<br>(D) 錯誤，Polymyxin B雖然對革蘭氏陰性菌有效，但通常需要與其他抗生素合併使用（如neomycin-polymyxin B），且單獨使用抗菌譜較窄，不如quinolones全面",
+    "explanation": "慢性中耳炎（chronic otitis media）常合併鼓膜穿孔和耳漏，選擇耳滴劑時需考慮抗菌效果和耳毒性。<br>(A) 正確，Quinolone類抗生素（如ciprofloxacin、ofloxacin耳滴劑）是治療慢性中耳炎的首選，因為抗菌譜廣，對Pseudomonas、Staphylococcus等常見致病菌有效，穿透力好，對biofilm也有效，且無耳毒性（non-ototoxic），即使在鼓膜穿孔時使用也安全，不會損傷內耳的毛細胞或前庭功能<br>(B) 錯誤，Aminoglycoside類（如gentamicin、neomycin、tobramycin）雖然抗菌效果好，但具有耳毒性（ototoxicity），可能損傷內耳毛細胞造成聽力喪失或前庭功能異常，在鼓膜穿孔時不應使用<br>(C) 錯誤，Chloramphenicol雖然曾廣泛使用，但抗菌效果不如quinolones，且對Pseudomonas效果較差，目前較少作為第一線選擇<br>(D) 錯誤，Polymyxin B雖然對革蘭氏陰性菌有效，但通常需要與其他抗生素合併使用（如neomycin-polymyxin B），且單獨使用抗菌譜較窄，不如quinolones全面",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
@@ -371,7 +371,7 @@
       "114-1-6",
       "耳鼻喉科"
     ],
-    "group_id": "group_11101"
+    "group_id": "group_11100"
   },
   {
     "id": 1141623,
@@ -388,7 +388,7 @@
       "114-1-6",
       "耳鼻喉科"
     ],
-    "group_id": "group_11102"
+    "group_id": "group_11100"
   },
   {
     "id": 1141624,
