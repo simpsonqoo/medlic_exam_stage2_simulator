@@ -406,7 +406,7 @@
       "D": "對於判斷是否有腭咽閉鎖不全（velopharyngeal incompetence）較為準確"
     },
     "answer": "B",
-    "explanation": "MBS和FEES是評估吞嚥功能的兩種主要工具，各有優缺點。<br>(A) 正確為FEES優點，FEES無放射線暴露（no radiation exposure），可在病房、加護病房等隨處執行，不需要特殊的放射科設備，對於無法移動的病人特別有用<br>(B) 錯誤，測試各種不同黏稠度的食物是MBS的優勢而非FEES。MBS可以使用不同稠度的鋇劑模擬各種食物質地（液體、糊狀、固體），並在螢光透視下觀察整個吞嚥過程。FEES雖然也可測試不同食物，但因為內視鏡位於咽喉部，在吞嚥瞬間（white-out period）會暫時看不到影像，限制了評估能力<br>(C) 正確為FEES優點，FEES可以合併感覺測試（sensory testing），如使用氣流脈衝（air pulse）測試喉咽感覺閾值，評估喉咽敏感度，這是MBS無法做到的<br>(D) 正確為FEES優點，FEES可以直接觀察軟腭運動和腭咽閉鎖（velopharyngeal closure）功能，對於判斷腭咽閉鎖不全（velopharyngeal incompetence, VPI）較MBS準確",
+    "explanation": "MBS 和 FEES 是評估吞嚥功能的兩種主要工具，兩者互相補足，各有優缺點。<br>(A) 正確為 FEES 優點，FEES 無放射線暴露（no radiation exposure），可在病房、加護病房等隨處執行，不需要特殊的放射科設備，對於無法移動的病人特別有用<br>(B) 不是 FEES 優於 MBS 的特點，是正確答案。測試各種不同黏稠度的食物是兩種檢查都能做到的：MBS 在螢光透視下吞食不同稠度的鋇劑（液體、糊狀、固體），FEES 則吞食以食用色素染色的各種稠度食物（可用真實食物），所以這項並非 FEES 相對於 MBS 的優勢。FEES 在吞嚥瞬間因咽部收縮會出現 white-out 而看不到影像，這是它的限制<br>(C) 正確為 FEES 優點，FEES 可以合併感覺測試（sensory testing），如使用氣流脈衝（air pulse）測試喉咽感覺閾值，評估喉咽敏感度，這是 MBS 無法做到的<br>(D) 正確為 FEES 優點，FEES 可以直接觀察軟腭運動和腭咽閉鎖（velopharyngeal closure）功能，對於判斷腭咽閉鎖不全（velopharyngeal incompetence, VPI）較 MBS 準確",
     "tags": [
       "113-2-6",
       "耳鼻喉科"
@@ -423,7 +423,7 @@
       "D": "藥物反應不佳時，可安排外科手術切除，復發率低"
     },
     "answer": "B",
-    "explanation": "雖然無法看到圖片，但根據病史：全身麻醉後1個月出現咽喉症狀，最可能是氣管插管相關併發症。<br>(A) 錯誤，氣管插管最常造成的傷害部位是杓狀軟骨（arytenoid cartilage）及其周圍結構、聲帶（vocal cords），而非環狀軟骨（cricoid cartilage）。環狀軟骨位置較低，較少受到插管直接傷害<br>(B) 正確，氣管內插管造成的傷害包括：杓狀軟骨脫位（arytenoid dislocation）、聲帶肉芽腫（vocal cord granuloma）、聲門下狹窄（subglottic stenosis）、聲帶麻痺等。症狀包括聲音沙啞、咽喉疼痛、異物感，通常在拔管後數週內出現<br>(C) 錯誤，插管後肉芽腫或發炎性病變的第一線治療通常是質子幫浦抑制劑（PPI）控制胃食道逆流，加上語言治療（speech therapy）減少聲帶刺激，而非抗生素。抗生素僅用於明確的細菌感染<br>(D) 錯誤，插管後聲帶肉芽腫若需手術切除，復發率相當高（可達50-90%），因為手術本身又造成新的黏膜創傷。因此通常優先採取保守治療，僅在嚴重影響呼吸或保守治療失敗時才考慮手術",
+    "explanation": "病史為全身麻醉後 1 個月出現咽喉疼痛、異物感與發聲不適，咽喉內視鏡影像可見後聲門（杓狀軟骨聲帶突）處雙側圓形的肉芽腫狀隆起，最符合氣管內插管造成的插管後肉芽腫。<br>(A) 錯誤，病灶位於後聲門的杓狀軟骨聲帶突（vocal process of arytenoid）處，不在環狀軟骨（cricoid cartilage）。環狀軟骨位置較低，是聲門下的完整環，插管損傷好發於後聲門與聲門下<br>(B) 正確，氣管內管插管造成的傷害包括杓狀軟骨脫位、聲帶肉芽腫、聲門下狹窄與聲帶麻痺等，症狀有聲音沙啞、咽喉疼痛與異物感，通常在拔管後數週內出現<br>(C) 錯誤，插管後肉芽腫的第一線治療是保守治療，包括質子幫浦抑制劑（PPI）控制逆流，加上聲音治療（speech therapy）減少聲帶刺激，抗生素只用於明確的細菌感染<br>(D) 錯誤，插管後肉芽腫手術切除後仍會復發（系統性回顧中手術組復發約 25%，藥物治療組約 14%），因此通常優先採取保守治療，僅在氣道阻塞、保守治療失敗或懷疑惡性時才考慮手術",
     "tags": [
       "113-2-6",
       "耳鼻喉科"
@@ -443,7 +443,7 @@
       "D": "甲狀腺髓質癌（medullary thyroid cancer）手術至少應包括全甲狀腺切除與中央淋巴結群廓清術"
     },
     "answer": "B",
-    "explanation": "MEN是一組遺傳性內分泌腫瘤症候群。<br>MEN 1（Wermer syndrome）：<br>· 副甲狀腺腫瘤（95%）<br>· 腸胰腺腫瘤（50-70%）：胃泌素瘤、胰島素瘤等<br>· 腦下腺腫瘤（30-40%）<br>MEN 2A（Sipple syndrome）：<br>· 甲狀腺髓質癌（95%）<br>· 嗜鉻細胞瘤（50%）<br>· 副甲狀腺增生（20-30%）<br>MEN 2B：<br>· 甲狀腺髓質癌（100%）<br>· 嗜鉻細胞瘤（50%）<br>· 黏膜神經瘤（mucosal neuromas）<br>· 腸道神經節瘤症（intestinal ganglioneuromatosis）<br>· 馬凡氏體型（marfanoid habitus）<br>(A) 正確，MEN 1包含副甲狀腺腫瘤、腸胰腺腫瘤（包括胰島素瘤）、腦下腺腫瘤，稱為\"3P\"：Parathyroid, Pancreatic, Pituitary<br>(B) 錯誤，MEN 2A和MEN 2B的共同特徵是甲狀腺髓質癌和嗜鉻細胞瘤，而非副甲狀腺瘤。副甲狀腺增生僅見於MEN 2A（約20-30%），MEN 2B不會有副甲狀腺病變<br>(C) 正確，MEN 2A和MEN 2B都是RET原癌基因（RET proto-oncogene）突變所致，是體染色體顯性遺傳（autosomal dominant）。不同的突變位點對應不同的表現型<br>(D) 正確，甲狀腺髓質癌手術標準治療至少應包括全甲狀腺切除（total thyroidectomy）和中央淋巴結群廓清術（central lymph node dissection），因為髓質癌容易早期淋巴轉移且為多發性",
+    "explanation": "MEN 是一組遺傳性內分泌腫瘤症候群。MEN 1（Wermer 症候群）包括副甲狀腺腫瘤（約 95%）、腸胰神經內分泌腫瘤（約 30~70%，如胃泌素瘤、胰島素瘤）與腦下腺腫瘤（約 30~40%）。MEN 2A（Sipple 症候群）包括甲狀腺髓質癌（約 95% 以上）、嗜鉻細胞瘤（約 50%）與副甲狀腺亢進（約 20~30%）。MEN 2B 包括甲狀腺髓質癌（接近 100%）、嗜鉻細胞瘤（約 50%）、黏膜神經瘤、腸道神經節瘤症與馬凡氏體型。<br>(A) 正確，MEN 1 為「3P」：副甲狀腺（Parathyroid）、胰腺（Pancreatic，含胰島素瘤）、腦下腺（Pituitary）。<br>(B) 錯誤，MEN 2A 與 MEN 2B 的共同特徵是甲狀腺髓質癌與嗜鉻細胞瘤，而非副甲狀腺瘤。副甲狀腺亢進見於 MEN 2A（約 20~30%），不屬於 MEN 2B 的組成。<br>(C) 正確，MEN 2A 與 MEN 2B 都是 RET 原癌基因（RET proto-oncogene）活化突變所致，為體染色體顯性遺傳，不同突變位點對應不同表現型。<br>(D) 正確，甲狀腺髓質癌的手術至少應包括全甲狀腺切除與中央區淋巴結廓清，因為髓質癌容易早期淋巴轉移，且遺傳型常為雙側多灶。",
     "tags": [
       "113-2-6",
       "耳鼻喉科"
@@ -460,7 +460,7 @@
       "D": "第四（superior parathyroid gland）；第三（inferior parathyroid gland）咽囊"
     },
     "answer": "D",
-    "explanation": "副甲狀腺的胚胎發育和位置關係容易混淆，需要記住其發育來源和遷移路徑。<br>胚胎發育：<br>· 上副甲狀腺（superior parathyroid gland）：源自第四咽囊（4th pharyngeal pouch）<br>· 下副甲狀腺（inferior parathyroid gland）：源自第三咽囊（3rd pharyngeal pouch）<br>這看似矛盾（來源較晚的反而位置較上），是因為遷移路徑不同：<br>· 第四咽囊衍生的上副甲狀腺遷移路徑短，位置穩定，通常位於甲狀腺上極後方<br>· 第三咽囊衍生的下副甲狀腺與胸腺一起向下遷移，路徑長，位置變異大，可能位於甲狀腺下極、胸腺內、縱隔等處<br>(A) 錯誤，第一咽囊形成中耳和耳咽管<br>(B) 錯誤，第二咽囊形成扁桃腺隱窩<br>(C) 錯誤，順序相反<br>(D) 正確，上副甲狀腺來自第四咽囊，下副甲狀腺來自第三咽囊",
+    "explanation": "副甲狀腺的胚胎發育和位置關係容易混淆，需要記住其發育來源和遷移路徑。上副甲狀腺（superior parathyroid gland）源自第四咽囊（4th pharyngeal pouch），下副甲狀腺（inferior parathyroid gland）源自第三咽囊（3rd pharyngeal pouch）。這看似矛盾，來源較晚的反而位置較上，是因為遷移路徑不同。第四咽囊衍生的上副甲狀腺遷移路徑短，位置穩定，通常位於甲狀腺上極後方。第三咽囊衍生的下副甲狀腺與胸腺一起向下遷移，路徑長，位置變異大，可能位於甲狀腺下極、胸腺內、縱隔等處。<br>(A) 錯誤，第一咽囊形成中耳和耳咽管<br>(B) 錯誤，第二咽囊形成扁桃腺隱窩<br>(C) 錯誤，順序相反<br>(D) 正確，上副甲狀腺來自第四咽囊，下副甲狀腺來自第三咽囊",
     "tags": [
       "113-2-6",
       "耳鼻喉科"

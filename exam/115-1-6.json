@@ -420,7 +420,7 @@
       "D": "可用肉毒桿菌素注射於兩側的甲杓肌（thyroarytenoid muscle）治療"
     },
     "answer": "A",
-    "explanation": "反常性聲帶運動障礙（paradoxical vocal fold movement disorder，PVFMD）是指聲帶在吸氣時不正常地內收（adduction），造成上呼吸道阻塞，需了解其典型發作時機。<br>(A) 錯誤，PVFMD 常發生於清醒活動時（如運動、情緒激動、接觸刺激物），而非剛睡醒或剛入睡時；睡眠相關的上呼吸道阻塞更應考慮睡眠呼吸中止症（sleep apnea）<br>(B) 正確，PVFMD 因吸氣時聲門異常閉合，會出現典型的吸氣相喘鳴聲（inspiratory stridor）<br>(C) 正確，梅格氏症候群（Meige syndrome）是一種局部型肌張力不全（focal dystonia），可累及喉部肌肉，PVFMD 可為其表現之一<br>(D) 正確，肉毒桿菌素（botulinum toxin）注射於兩側甲杓肌（thyroarytenoid muscle）可減弱聲帶內收力量，是 PVFMD 的治療選項之一",
+    "explanation": "反常性聲帶運動障礙（paradoxical vocal fold movement disorder，PVFMD）是指聲帶在吸氣時不正常地內收（adduction），造成上呼吸道阻塞，需了解其典型發作時機。<br>(A) 錯誤，PVFMD 常發生於清醒活動時（如運動、情緒激動、接觸刺激物），而非剛睡醒或剛入睡時，睡眠相關的上呼吸道阻塞更應考慮睡眠呼吸中止症（sleep apnea）<br>(B) 正確，PVFMD 因吸氣時聲門異常閉合，會出現典型的吸氣相喘鳴聲（inspiratory stridor）<br>(C) 正確，梅格氏症候群（Meige syndrome）是一種局部型肌張力不全（focal dystonia），可累及喉部肌肉，PVFMD 可為其表現之一<br>(D) 正確，肉毒桿菌素（botulinum toxin）注射於兩側甲杓肌（thyroarytenoid muscle）可減弱聲帶內收力量，是 PVFMD 的治療選項之一",
     "tags": [
       "115-1-6",
       "耳鼻喉科"
@@ -454,7 +454,7 @@
       "D": "凸眼（exophthalmos）症狀在甲狀腺手術後仍無法有效改善"
     },
     "answer": "A,B",
-    "explanation": "Graves disease 的手術適應症及切除範圍在學界有所演進，目前建議術式是解題關鍵。<br>(A) 正確，Graves disease 的致病機轉主要是 T 淋巴球及 B 淋巴球產生甲促素受器抗體（TSH receptor antibody，TRAb），持續刺激甲狀腺過度分泌<br>(B) 錯誤，Graves disease 建議的手術方式為近全甲狀腺切除（near-total thyroidectomy），保留極少量甲狀腺組織以降低喉返神經及副甲狀腺（parathyroid gland）損傷風險，全甲狀腺切除（total thyroidectomy）雖也可選擇但需視情況而定，直接說「建議全切」過於絕對<br>(C) 正確，術前給予抗甲狀腺藥物（antithyroid drugs）及 Lugol's iodine 可使甲狀腺縮小、血流減少，降低術中出血風險<br>(D) 正確，Graves 凸眼（exophthalmos）是由眼窩後組織的自體免疫炎症所致，與甲狀腺本身關係有限，甲狀腺手術後凸眼症狀通常無法有效改善",
+    "explanation": "Graves disease 的手術適應症及切除範圍在學界有所演進，目前建議術式是解題關鍵。本題公告答案為 (A)(B) 皆給分。<br>(A) 公告給分。Graves disease 是 TSH 受體的自體免疫疾病，T 淋巴球與 B 淋巴球浸潤甲狀腺，產生甲促素受器抗體（TSH receptor antibody，TRAb）的是 B 淋巴球分化的漿細胞，T 輔助細胞只協助調控，嚴格而言抗體不是 T 淋巴球所產生，故此敘述不夠精確。<br>(B) 公告給分。依 ATA 2016 指引，選擇手術治療 Graves disease 時建議近全或全甲狀腺切除（near-total or total thyroidectomy），目標是移除所有甲狀腺組織以避免復發，兩者並列，因此「全甲狀腺切除是建議的手術方式」與指引一致，並非依指引的錯誤敘述，公告給分。次全切除因復發率較高已不建議。<br>(C) 正確，術前給予抗甲狀腺藥物（antithyroid drugs）使甲狀腺功能恢復正常，並在手術前即刻給予 Lugol's iodine，可抑制甲狀腺素釋放、降低甲狀腺血流與血管密度，減少術中出血風險。<br>(D) 正確，Graves 凸眼（exophthalmos）是由眼窩後組織的自體免疫發炎、脂肪增生與眼外肌腫大所致，嚴重度與甲狀腺功能不直接相關。甲狀腺手術治療的是甲狀腺功能亢進，不是眼病變的治療，凸眼須依活動度與嚴重度另外處置。",
     "tags": [
       "115-1-6",
       "耳鼻喉科"

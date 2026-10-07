@@ -417,7 +417,7 @@
       "D": "氣管（trachea）"
     },
     "answer": "A",
-    "explanation": "雖然題目沒有提供實際影像，但根據呼吸道異物的典型X光表現和解剖特性可以推論。<br>呼吸道異物的影像學特徵包括單側肺部過度充氣（hyperinflation）或肺塌陷（atelectasis）、縱膈移位（mediastinal shift），以及吸氣和呼氣相X光片的差異。<br>(A) 正確，右側主支氣管是最常見的異物位置，因為右主支氣管較粗、較短、較垂直（與氣管的角度約25度），左主支氣管則較細、較長、較水平（與氣管的角度約45度），異物較容易掉入右側；X光可能顯示右肺過度充氣（部分阻塞造成ball-valve effect）或右肺塌陷（完全阻塞）<br>(B) 錯誤，左側主支氣管因角度較大且較細，異物較不易進入，發生率約為右側的1/3<br>(C) 錯誤，聲門下（subglottis）的異物通常會造成嚴重的呼吸困難和喘鳴（stridor），且兩側肺部X光變化應該對稱<br>(D) 錯誤，氣管（trachea）內的異物較少見，且通常會在呼吸時移動，造成特殊的聽診發現，X光上兩側肺部應該對稱",
+    "explanation": "圖中為同一病童的吸氣相與吐氣相胸部 X 光。吸氣相雙側肺大致對稱，吐氣相右肺仍維持透亮、肋間隙較寬，左肺因正常排氣而變白，縱膈偏向左側，是右側空氣滯留（air trapping）的表現，代表右側支氣管被異物以球瓣機制（ball-valve effect）部分阻塞。<br>(A) 正確，右主支氣管較短、較粗，與氣管的夾角較小，是兒童氣道異物最常見的位置，約占 50~65%，與圖中右肺空氣滯留的表現相符<br>(B) 錯誤，左主支氣管較細、較長，與氣管的夾角較大，異物較不易進入，兒童約占 25%。若異物在左側，應是左肺在吐氣相仍維持透亮<br>(C) 錯誤，聲門下異物多造成吸氣性喘鳴與嚴重呼吸困難，X 光上不會呈現單側肺的空氣滯留<br>(D) 錯誤，氣管異物較少見，常造成喘鳴與咳嗽，影像上多為雙側對稱的變化，不會呈現單側肺的空氣滯留",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
@@ -438,7 +438,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "唾液腺的副交感神經支配是複雜的解剖路徑，涉及多條腦神經。<br>正確答案應該是：透過顏面神經（facial nerve, CN VII）的分支，經由鼓索神經（chorda tympani）加入舌神經（lingual nerve，屬於三叉神經V3分支），最後經由頷下神經節（submandibular ganglion）支配頷下腺和舌下腺。<br>選項分析：舌下神經（hypoglossal nerve, CN XII）是運動神經，不支配唾液分泌；舌咽神經（glossopharyngeal nerve, CN IX）支配腮腺（parotid gland）的副交感神經，而非頷下腺和舌下腺；三叉神經（trigeminal nerve, CN V）的舌神經雖然參與路徑，但副交感纖維來自顏面神經；迷走神經（vagus nerve, CN X）主要支配胸腹腔臟器。<br>由於選項中沒有正確答案（應該是facial nerve或chorda tympani），因此一律給分",
+    "explanation": "唾液腺的副交感神經支配是複雜的解剖路徑，涉及多條腦神經。<br>正確答案應該是：透過顏面神經（facial nerve, CN VII）的分支，經由鼓索神經（chorda tympani）加入舌神經（lingual nerve，屬於三叉神經 V3 分支），最後經由頷下神經節（submandibular ganglion）支配頷下腺和舌下腺。<br>選項分析：舌下神經（hypoglossal nerve, CN XII）是運動神經，不支配唾液分泌。舌咽神經（glossopharyngeal nerve, CN IX）的副交感纖維經耳神經節支配腮腺（parotid gland），而非頷下腺和舌下腺。三叉神經（trigeminal nerve, CN V）的舌神經雖然參與路徑，但副交感纖維來自顏面神經。迷走神經（vagus nerve, CN X）主要支配胸腹腔臟器。<br>由於選項中沒有正確答案（應該是 facial nerve 或 chorda tympani），因此公告為一律給分。",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
@@ -455,7 +455,7 @@
       "D": "約10%"
     },
     "answer": "B,C",
-    "explanation": "甲狀腺手術後低血鈣症（hypocalcemia）主要因副甲狀腺功能低下（hypoparathyroidism），可能是副甲狀腺被切除、血液供應受損或暫時性功能抑制。<br>術中副甲狀腺素（parathyroid hormone, PTH）監測可以預測術後低血鈣風險：以手術前或甲狀腺切除前測量的PTH為基準值，於甲狀腺切除後10-20分鐘再測量，PTH下降程度與術後低血鈣風險相關。<br>根據文獻，PTH下降 > 50%代表有術後低血鈣風險，> 75%為高風險，> 80%幾乎必然發生術後低血鈣。<br>因此選項(B) 50%和(C) 75%都是有文獻支持的閾值，不同研究使用不同的cut-off值，故兩者都給分。<br>術後低血鈣的處理包括監測血鈣和PTH、預防性或治療性補充鈣片和維生素D；症狀性低血鈣（手足抽搐、Chvostek's sign、Trousseau's sign）需靜脈注射鈣劑。",
+    "explanation": "甲狀腺手術後低血鈣症（hypocalcemia）主要因副甲狀腺功能低下（hypoparathyroidism），可能是副甲狀腺被切除、血液供應受損或暫時性功能抑制。<br>術中副甲狀腺素（parathyroid hormone, PTH）監測可以預測術後低血鈣風險。以手術前或甲狀腺切除前測量的 PTH 為基準值，於甲狀腺切除後 10~20 分鐘再測量，PTH 下降程度與術後低血鈣風險相關。<br>根據文獻，PTH 下降 &gt; 50% 代表有術後低血鈣風險，&gt; 75% 為高風險，&gt; 80% 幾乎必然發生術後低血鈣。因此選項 (B) 50% 和 (C) 75% 都是有文獻支持的閾值，不同研究使用不同的 cut-off 值，故公告兩者都給分。<br>術後低血鈣的處理包括監測血鈣和 PTH，預防性或治療性補充鈣片和維生素 D。症狀性低血鈣（手足抽搐、Chvostek's sign、Trousseau's sign）需靜脈注射鈣劑。",
     "tags": [
       "114-1-6",
       "耳鼻喉科"
