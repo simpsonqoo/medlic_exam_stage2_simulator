@@ -605,6 +605,9 @@
     "group_id": "group_1152634",
     "images": [
       "./exam/image/115-2-6-35.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-35e.jpg"
     ]
   },
   {

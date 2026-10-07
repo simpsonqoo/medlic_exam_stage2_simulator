@@ -43,7 +43,7 @@
       "D": "4種"
     },
     "answer": "C",
-    "explanation": "此題詢問有幾種量表將「年齡」納入評分項目。由於題目未提供量表資訊，無法具體分析。<br>答案為3種量表包含年齡因子。",
+    "explanation": "此題承上題的四種量表，甲生為 APACHE II，乙生為 BODE index，丙生為 IPI，丁生為 TIMI risk score。APACHE II 的評分包含急性生理分數、年齡分數與慢性健康狀態分數，有納入年齡。BODE index 只包含 BMI、FEV1、mMRC 呼吸困難分級與 6 分鐘步行距離，沒有納入年齡。IPI 的五項為年齡 &gt; 60 歲、LDH、ECOG 體能狀態、Ann Arbor 分期與結外侵犯處數，有納入年齡。TIMI risk score 的七項包含年齡 ≥ 65 歲，有納入年齡。因此共有 3 種量表將年齡納入評分，答案為 (C)。<br>(A) 1 種：錯誤，APACHE II、IPI 與 TIMI risk score 都含年齡，不只 1 種。<br>(B) 2 種：錯誤，含年齡的量表有 APACHE II、IPI 與 TIMI risk score 共 3 種。<br>(C) 3 種：正確，APACHE II、IPI 與 TIMI risk score 含年齡。<br>(D) 4 種：錯誤，BODE index 不含年齡。",
     "tags": [
       "113-1-3(三)",
       "家醫科"
@@ -1191,7 +1191,7 @@
       "D": "跨理論模式運用在體重管理已證實具有長期的效果"
     },
     "answer": "C",
-    "explanation": "此題考查肥胖症的評估與治療。身體質量指數（BMI）33.2 kg/m²符合藥物治療適應症。<br>(A) 錯誤，病人由先生陪同主動來到門診諮詢，顯示已進入準備期（preparation）或行動期（action），而非僅止於認知期（contemplation）<br>(B) 錯誤，尚未評估病人的改變動機和準備度，不應立即開始認知行為治療<br>(C) 正確，BMI ≥ 27.5 kg/m²的亞洲人或BMI ≥ 30 kg/m²者符合衛生福利部規範的減重藥物治療適應症，此個案BMI 33.2 kg/m²符合標準<br>(D) 錯誤，跨理論模式（transtheoretical model）應用於體重管理的長期效果證據尚不足",
+    "explanation": "此題考查肥胖症的評估與治療。身體質量指數（BMI）33.2 kg/m²符合藥物治療適應症。<br>(A) 錯誤，病人由先生陪同主動來到門診諮詢，顯示已進入準備期（preparation）或行動期（action），而非僅止於認知期（contemplation）<br>(B) 錯誤，尚未評估病人的改變動機和準備度，不應立即開始認知行為治療<br>(C) 正確，衛生福利部核准的減重藥物適用於BMI ≥ 30 kg/m²，或BMI ≥ 27 kg/m²且合併高血壓、糖尿病、血脂異常等肥胖相關共病者，此個案BMI 33.2 kg/m²符合標準<br>(D) 錯誤，跨理論模式（transtheoretical model）應用於體重管理的長期效果證據尚不足",
     "tags": [
       "113-1-3(三)",
       "家醫科"
@@ -1293,7 +1293,7 @@
       "D": "5,500 mL"
     },
     "answer": "A",
-    "explanation": "此題考查燒燙傷液體復甦的Parkland公式計算。前8小時給予總量的一半。<br>Parkland公式：前24小時輸液量 = 4 mL × 體重(kg) × 燒燙傷面積(%)<br>本例：二度和三度燒燙傷需計算 = 20% + 5% = 25%<br>前24小時總量 = 4 × 50 × 25 = 5,000 mL<br>前8小時給予一半 = 2,500 mL<br>(A) 正確，依Parkland公式計算，前8小時應給予2,500 mL林格氏液（lactated Ringer's solution）<br>(B) 錯誤，3,500 mL超過計算所需的前8小時輸液量<br>(C) 錯誤，4,500 mL超過計算所需的前8小時輸液量<br>(D) 錯誤，5,500 mL是24小時總量還多，前8小時應為2,500 mL",
+    "explanation": "此題考查燒燙傷液體復甦的Parkland公式計算。前8小時給予總量的一半。<br>Parkland公式：前24小時輸液量 = 4 mL × 體重(kg) × 燒燙傷面積(%)<br>本例：二度和三度燒燙傷需計算 = 20% + 5% = 25%<br>前24小時總量 = 4 × 50 × 25 = 5,000 mL<br>前8小時給予一半 = 2,500 mL<br>本題公告答案依經典Parkland公式（4 mL）計算，現行ABA／ABLS建議成人起始輸液量為2 mL × 體重(kg) × 燒燙傷面積(%)，之後依尿量調整<br>(A) 正確，依Parkland公式計算，前8小時應給予2,500 mL林格氏液（lactated Ringer's solution）<br>(B) 錯誤，3,500 mL超過計算所需的前8小時輸液量<br>(C) 錯誤，4,500 mL超過計算所需的前8小時輸液量<br>(D) 錯誤，5,500 mL是24小時總量還多，前8小時應為2,500 mL",
     "tags": [
       "113-1-3(三)",
       "家醫科"
