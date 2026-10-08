@@ -1229,7 +1229,7 @@
       "D": "脊髓的主要血液供應來自一條anterior spinal artery和一對posterior spinal arteries"
     },
     "answer": "C",
-    "explanation": "本題的解題關鍵在於辨識胸椎軸位磁振造影（axial MRI）中脊髓前角對稱的高訊號，此為經典的「貓頭鷹眼徵象」（owl's eye sign），並結合急性神經學症狀來診斷脊髓梗塞（spinal cord infarction）。<br> (A) 正確，病人的急性四肢無力與大小便失禁表現，搭配影像上脊髓前角的雙側病變，非常符合脊髓梗塞（spinal cord infarction）的特徵。<br> (B) 正確，脊髓梗塞（spinal cord infarction）在磁振造影（magnetic resonance imaging）的軸位 T2 加權影像（T2-weighted imaging）中，因雙側前角細胞缺血水腫，確實可能見到貓頭鷹眼表現（owl's eye sign）。<br> (C) 錯誤，脊髓梗塞（spinal cord infarction）最常受影響的血管是脊髓前動脈（anterior spinal artery），其負責供應脊髓前方三分之二的血液；而脊髓後動脈（posterior spinal artery）主要供應後方三分之一的區域且臨床上較少受影響。<br> (D) 正確，脊髓（spinal cord）的血管解剖構造中，主要血液供應確實是由一條位於前中線的脊髓前動脈（anterior spinal artery）與一對位於後外側的脊髓後動脈（posterior spinal arteries）所組成。",
+    "explanation": "本題的解題關鍵在於辨識胸椎軸位磁振造影（axial MRI）中脊髓前角對稱的高訊號，此為經典的「貓頭鷹眼徵象」（owl's eye sign），並結合急性神經學症狀來診斷脊髓梗塞（spinal cord infarction）。<br> (A) 正確，病人的急性四肢無力與大小便失禁表現，搭配影像上脊髓前角的雙側病變，非常符合脊髓梗塞（spinal cord infarction）的特徵。<br> (B) 正確，脊髓梗塞（spinal cord infarction）在磁振造影（magnetic resonance imaging）的軸位 T2 加權影像（T2-weighted imaging）中，因雙側前角細胞缺血水腫，確實可能見到貓頭鷹眼表現（owl's eye sign）。<br> (C) 錯誤，脊髓梗塞（spinal cord infarction）最常受影響的血管是脊髓前動脈（anterior spinal artery），其負責供應脊髓前方三分之二的血液，而脊髓後動脈（posterior spinal artery）主要供應後方三分之一的區域且臨床上較少受影響。<br> (D) 正確，脊髓（spinal cord）的血管解剖構造中，主要血液供應確實是由一條位於前中線的脊髓前動脈（anterior spinal artery）與一對位於後外側的脊髓後動脈（posterior spinal arteries）所組成。",
     "tags": [
       "114-1-6",
       "復健科"
@@ -1272,7 +1272,7 @@
       "D": "腦波檢查（EEG）"
     },
     "answer": "D",
-    "explanation": "70歲長期抽菸和高血壓病人出現反覆性短暫神經學症狀，高度懷疑暫時性腦缺血發作（transient ischemic attack, TIA）。<br>病史分析：三次短暫性右側肢體無力（持續30分鐘後恢復）、有腦血管疾病危險因子（抽菸、高血壓、70歲），強烈提示TIA，需要緊急評估以預防腦中風。<br>(A) 需要，頸動脈超音波（carotid ultrasound）可以評估頸動脈狹窄程度和斑塊特性，是TIA評估的重要檢查，因為頸動脈狹窄 > 50%可能需要介入治療<br>(B) 需要，頭頸部電腦斷層血管影像（CTA）可以評估顱內外血管狹窄、動脈瘤、剝離等病變，幫助確定TIA的血管病因<br>(C) 需要，頸部聽診（carotid auscultation）可以聽到頸動脈雜音（bruit），提示頸動脈狹窄的可能，是簡單且重要的理學檢查<br>(D) 正確，腦波檢查（EEG）對於TIA的診斷和治療決策最不迫切。TIA是血管性問題而非癲癇，腦波檢查主要用於診斷癲癇或腦病變。雖然短暫性神經症狀需要與癲癇鑑別，但此病人的症狀（單側肢體無力持續30分鐘）更符合TIA而非癲癇發作，加上有明確的腦血管危險因子，EEG的診斷價值有限",
+    "explanation": "70歲長期抽菸和高血壓病人出現反覆性短暫神經學症狀，高度懷疑暫時性腦缺血發作（transient ischemic attack, TIA）。<br>病史分析：三次短暫性右側肢體無力（持續30分鐘後恢復）、有腦血管疾病危險因子（抽菸、高血壓、70歲），強烈提示TIA，需要緊急評估以預防腦中風。<br>(A) 需要，頸動脈超音波（carotid ultrasound）可以評估頸動脈狹窄程度和斑塊特性，是TIA評估的重要檢查，因為頸動脈狹窄 &gt; 50%可能需要介入治療<br>(B) 需要，頭頸部電腦斷層血管影像（CTA）可以評估顱內外血管狹窄、動脈瘤、剝離等病變，幫助確定TIA的血管病因<br>(C) 需要，頸部聽診（carotid auscultation）可以聽到頸動脈雜音（bruit），提示頸動脈狹窄的可能，是簡單且重要的理學檢查<br>(D) 正確，腦波檢查（EEG）對於TIA的診斷和治療決策最不迫切。TIA是血管性問題而非癲癇，腦波檢查主要用於診斷癲癇或腦病變。雖然短暫性神經症狀需要與癲癇鑑別，但此病人的症狀（單側肢體無力持續30分鐘）更符合TIA而非癲癇發作，加上有明確的腦血管危險因子，EEG的診斷價值有限",
     "tags": [
       "114-1-6",
       "復健科"

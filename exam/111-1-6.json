@@ -992,7 +992,7 @@
       "D": "工作導向動作訓練（task-oriented motor training）"
     },
     "answer": "B",
-    "explanation": "中風復健的治療理論隨時代演進，各有不同的理論基礎和方法。<br>(A) 錯誤，Brunnstrom動作治療介入強調利用病人的痙攣和協同動作模式（synergy patterns），而非抑制它們。Brunnstrom認為中風恢復遵循固定階段（從無自主運動→協同動作→分離動作），治療從利用協同模式開始逐步進展<br>(B) 正確，神經發展技術（neurodevelopmental technique, NDT或Bobath approach）由Bobath夫婦發展，核心概念包括：<br>· 抑制異常姿勢反射和痙攣<br>· 促進正常動作模式<br>· 誘發獨立的肌肉控制（isolated muscle control），而非依賴協同動作<br>· 強調姿勢控制和選擇性動作<br>· 使用關鍵點控制（key points of control）和處理技巧（handling techniques）<br>(C) 錯誤，本體神經誘發技術（sensorimotor approach或proprioceptive neuromuscular facilitation, PNF）強調使用本體感覺刺激（如伸展、阻力、觸覺）來促進動作反應，利用對角線和螺旋動作模式，不是主要抑制異常動作<br>(D) 錯誤，工作導向動作訓練（task-oriented motor training）強調功能性任務練習和問題解決，重視實際活動的重複練習，而非特別強調抑制異常姿勢或誘發獨立肌肉控制",
+    "explanation": "中風復健的治療理論隨時代演進，各有不同的理論基礎和方法。<br>(A) 錯誤，Brunnstrom動作治療介入強調利用病人的痙攣和協同動作模式（synergy patterns），而非抑制它們。Brunnstrom認為中風恢復遵循固定階段（從無自主運動→協同動作→分離動作），治療從利用協同模式開始逐步進展<br>(B) 正確，神經發展技術（neurodevelopmental technique, NDT或Bobath approach）由Bobath夫婦發展，核心概念是抑制異常姿勢反射和痙攣、促進正常動作模式，並誘發獨立的肌肉控制（isolated muscle control）而非依賴協同動作，強調姿勢控制和選擇性動作，使用關鍵點控制（key points of control）和處理技巧（handling techniques）<br>(C) 錯誤，本體神經誘發技術（sensorimotor approach或proprioceptive neuromuscular facilitation, PNF）強調使用本體感覺刺激（如伸展、阻力、觸覺）來促進動作反應，利用對角線和螺旋動作模式，不是主要抑制異常動作<br>(D) 錯誤，工作導向動作訓練（task-oriented motor training）強調功能性任務練習和問題解決，重視實際活動的重複練習，而非特別強調抑制異常姿勢或誘發獨立肌肉控制",
     "tags": [
       "111-1-6(六)",
       "復健科"
@@ -1043,7 +1043,7 @@
       "D": "小腦（cerebellum）"
     },
     "answer": "C",
-    "explanation": "腦中風的定位診斷需要根據神經學症狀的組合，特別注意交叉性症狀（crossed signs）的意義。<br>關鍵症狀分析：<br>· 右側上下肢無力（右側偏癱）<br>· 左側顏面神經麻痺<br>· 這是典型的「交叉性麻痺」（alternating hemiplegia）<br>(A) 錯誤，基底核（basal nuclei）病變通常造成對側肢體運動障礙、錐體外症狀（如帕金森症狀、舞蹈症），但不會造成同側顏面神經麻痺的交叉症狀<br>(B) 錯誤，視丘（thalamus）病變主要造成對側感覺障礙、視丘痛、意識障礙，不會特別造成顏面神經麻痺<br>(C) 正確，橋腦（pons）病變可造成典型的交叉性症狀：<br>· 病灶側（左側）：顏面神經核或纖維受損→左側周邊型顏面神經麻痺（整個左臉無力，包括額頭）<br>· 病灶對側（右側）：皮質脊髓束受損→右側上下肢無力<br>· 這種「同側顏面神經麻痺＋對側肢體偏癱」是橋腦病變的特徵性表現<br>· 可能診斷為Millard-Gubler syndrome或類似的橋腦症候群<br>(D) 錯誤，小腦（cerebellum）病變主要造成同側協調障礙、步態不穩、眼震、構音障礙，不會造成對側肢體無力或顏面神經麻痺<br>腦幹症候群的特點：病灶側腦神經症狀＋對側長徑路症狀（運動或感覺），這是定位腦幹病變的重要線索",
+    "explanation": "腦中風的定位診斷需要根據神經學症狀的組合，特別注意交叉性症狀（crossed signs）的意義。<br>本題右側上下肢無力（右側偏癱）合併左側顏面神經麻痺，是典型的「交叉性麻痺」（alternating hemiplegia）。<br>(A) 錯誤，基底核（basal nuclei）病變通常造成對側肢體運動障礙、錐體外症狀（如帕金森症狀、舞蹈症），但不會造成同側顏面神經麻痺的交叉症狀<br>(B) 錯誤，視丘（thalamus）病變主要造成對側感覺障礙、視丘痛、意識障礙，不會特別造成顏面神經麻痺<br>(C) 正確，橋腦（pons）病變可造成典型的交叉性症狀。病灶側（左側）顏面神經核或纖維受損，造成左側周邊型顏面神經麻痺（整個左臉無力，包括額頭），病灶對側（右側）皮質脊髓束受損，造成右側上下肢無力。這種「同側顏面神經麻痺＋對側肢體偏癱」是橋腦病變的特徵性表現，可能診斷為Millard-Gubler syndrome或類似的橋腦症候群<br>(D) 錯誤，小腦（cerebellum）病變主要造成同側協調障礙、步態不穩、眼震、構音障礙，不會造成對側肢體無力或顏面神經麻痺<br>腦幹症候群的特點：病灶側腦神經症狀＋對側長徑路症狀（運動或感覺），這是定位腦幹病變的重要線索",
     "tags": [
       "111-1-6(六)",
       "復健科"
@@ -1179,7 +1179,7 @@
       "D": "舌骨（hyoid bone）往上往後拉"
     },
     "answer": "D",
-    "explanation": "吞嚥是複雜的協調動作，喉部的保護機制防止吸入（aspiration），理解正確的生理機制很重要。<br>吞嚥時喉部保護機制：<br>(A) 正確，吞嚥時呼吸暫停（apnea），通常在呼氣期進行吞嚥，這是吞嚥-呼吸協調（swallow-respiratory coordination）的重要機制，防止食物進入氣道<br>(B) 正確，聲帶（vocal cords）閉合是喉部第二層保護，真聲帶和假聲帶都會內收閉合，形成氣道屏障<br>(C) 正確，會厭軟骨（epiglottis）向後傾斜下壓（posterior tilting），覆蓋喉入口（laryngeal inlet），將食團導向梨狀窩（pyriform sinuses）流入食道，這是第一層保護<br>(D) 錯誤，舌骨（hyoid bone）在吞嚥時是「往上往前」拉（elevates and moves anteriorly），而非往上往後。舌骨往上往前的功能包括：<br>· 打開食道上括約肌（upper esophageal sphincter, UES）<br>· 擴大咽部空間<br>· 拉起喉部整體結構<br>· 協助會厭後傾<br>· 舌骨肌群（suprahyoid muscles）收縮產生此動作<br>吞嚥期程：<br>· 口腔期（voluntary）：食團形成、舌頭推送<br>· 咽部期（involuntary）：軟顎上升、喉上提前移、會厭後傾、聲帶閉合、食道括約肌開放<br>· 食道期（involuntary）：蠕動波推送食團",
+    "explanation": "吞嚥是複雜的協調動作，喉部的保護機制防止吸入（aspiration），理解正確的生理機制很重要。<br>吞嚥時喉部保護機制：<br>(A) 正確，吞嚥時呼吸暫停（apnea），通常在呼氣期進行吞嚥，這是吞嚥-呼吸協調（swallow-respiratory coordination）的重要機制，防止食物進入氣道<br>(B) 正確，聲帶（vocal cords）閉合是氣道保護最先發生的一層，真聲帶和假聲帶都會內收閉合，形成氣道屏障<br>(C) 正確，會厭軟骨（epiglottis）向後傾斜下壓（posterior tilting），覆蓋喉入口（laryngeal inlet），將食團導向梨狀窩（pyriform sinuses）流入食道，是氣道關閉順序中的最後一層<br>(D) 錯誤，舌骨（hyoid bone）在吞嚥時是「往上往前」拉（elevates and moves anteriorly），而非往上往後。舌骨往上往前可打開食道上括約肌（upper esophageal sphincter, UES）、擴大咽部空間、拉起喉部整體結構並協助會厭後傾，由舌骨上肌群（suprahyoid muscles）收縮產生此動作。<br>吞嚥期程中，口腔期（voluntary）為食團形成與舌頭推送，咽部期（involuntary）包括軟顎上升、喉上提前移、會厭後傾、聲帶閉合與食道括約肌開放，食道期（involuntary）為蠕動波推送食團",
     "tags": [
       "111-1-6(六)",
       "復健科"
@@ -1216,7 +1216,7 @@
       "D": "常因聽覺認知受損所造成"
     },
     "answer": "D",
-    "explanation": "失用症（apraxia）是一種高階運動障礙，患者無法執行有目的、習得的動作，但肌力、感覺、協調功能正常。<br>(A) 正確，失用症是指原先已會的功能（learned skilled movements）變得異常或喪失，而非從未學會。這是後天性腦損傷（如中風、失智症）造成的動作計畫和執行障礙<br>(B) 正確，失用症大多發生在左大腦半球（dominant hemisphere）病變的病人，特別是：<br>· 左頂葉（parietal lobe）<br>· 左額葉（frontal lobe）<br>· 胼胝體（corpus callosum）<br>左半球主導動作的計畫和程式化<br>(C) 正確，失用症常見症狀包括動作順序失常（sequencing errors），例如：<br>· 無法按正確順序完成多步驟任務<br>· 動作步驟錯置或遺漏<br>· 空間和時間順序混亂<br>(D) 錯誤，失用症主要是運動計畫和執行（motor programming and execution）的障礙，而非感覺或認知輸入的問題。雖然理解指令能力完整，聽覺和語言理解正常，但無法將指令轉換為正確動作。失用症與以下區域病變有關：<br>· 左頂葉下緣（inferior parietal lobule）<br>· 前運動區（premotor cortex）<br>· 輔助運動區（supplementary motor area）<br>失用症分類：<br>· 意念性失用症（ideomotor apraxia）：無法執行指令動作，但自發性動作可能正常<br>· 意念失用症（ideational apraxia）：無法進行多步驟動作序列<br>· 肢體運動失用症（limb-kinetic apraxia）：精細動作笨拙<br>· 建構性失用症（constructional apraxia）：無法建構或複製圖形",
+    "explanation": "失用症（apraxia）是一種高階運動障礙，患者無法執行有目的、習得的動作，但肌力、感覺、協調功能正常。<br>(A) 正確，失用症是指原先已會的功能（learned skilled movements）變得異常或喪失，而非從未學會。這是後天性腦損傷（如中風、失智症）造成的動作計畫和執行障礙<br>(B) 正確，失用症大多發生在左大腦半球（dominant hemisphere）病變的病人，特別是左頂葉（parietal lobe）、左額葉（frontal lobe）及胼胝體（corpus callosum），左半球主導動作的計畫和程式化<br>(C) 正確，失用症常見症狀包括動作順序失常（sequencing errors），例如無法按正確順序完成多步驟任務、動作步驟錯置或遺漏、空間和時間順序混亂<br>(D) 錯誤，失用症主要是運動計畫和執行（motor programming and execution）的障礙，而非感覺或認知輸入的問題。雖然理解指令能力完整，聽覺和語言理解正常，但無法將指令轉換為正確動作。失用症與左頂葉下緣（inferior parietal lobule）、前運動區（premotor cortex）及輔助運動區（supplementary motor area）病變有關。<br>失用症分類包括意念運動性失用症（ideomotor apraxia，無法依指令執行動作，但自發性動作可能正常）、意念性失用症（ideational apraxia，無法進行多步驟動作序列）、肢體運動失用症（limb-kinetic apraxia，精細動作笨拙）與建構性失用症（constructional apraxia，無法建構或複製圖形）",
     "tags": [
       "111-1-6(六)",
       "復健科"

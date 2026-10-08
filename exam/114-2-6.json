@@ -1002,7 +1002,7 @@
       "D": "受傷部位以下（below level）的疼痛醫學上稱為幻肢痛（phantom pain）"
     },
     "answer": "D",
-    "explanation": "脊髓損傷後神經性疼痛依部位分為「損傷部位疼痛（at-level pain）」與「損傷部位以下疼痛（below-level pain）」，需與截肢後的幻肢痛明確區分。<br>(A) 正確，脊髓損傷後神經性疼痛可表現為異態痛感（allodynia），即對正常無害的刺激（如輕觸）產生疼痛反應。<br>(B) 正確，損傷部位（at-level）的神經痛可能源自受損脊髓節段的脊髓壓迫（cord compression）或神經根損傷，屬於局部神經損傷機制。<br>(C) 正確，損傷部位以下（below-level）的神經痛與中樞神經系統的痛覺重塑（central sensitization and reorganization）有關，大腦對缺乏正常感覺輸入的區域產生異常疼痛訊號。<br>(D) 錯誤，脊髓損傷後損傷部位以下的疼痛應稱為中樞性疼痛（central neuropathic pain）或below-level neuropathic pain，而非幻肢痛（phantom pain）；幻肢痛是截肢後對已不存在肢體產生的疼痛感，兩者機制雖有相似之處但名稱與情境不同，不應混用。",
+    "explanation": "脊髓損傷後神經性疼痛依部位分為「損傷部位疼痛（at-level pain）」與「損傷部位以下疼痛（below-level pain）」，需與截肢後的幻肢痛明確區分。<br>(A) 正確，脊髓損傷後神經性疼痛可表現為異態痛感（allodynia），即對正常無害的刺激（如輕觸）產生疼痛反應。<br>(B) 正確，損傷部位（at-level）的神經痛可能源自受損脊髓節段的脊髓壓迫（cord compression）或神經根損傷，屬於局部神經損傷機制。<br>(C) 正確，損傷部位以下（below-level）的神經痛與中樞神經系統的痛覺重塑（central sensitization and reorganization）有關，大腦對缺乏正常感覺輸入的區域產生異常疼痛訊號。<br>(D) 錯誤，脊髓損傷後損傷部位以下的疼痛應稱為中樞性疼痛（central neuropathic pain）或below-level neuropathic pain，而非幻肢痛（phantom pain）。幻肢痛是截肢後對已不存在肢體產生的疼痛感，兩者機制雖有相似之處但名稱與情境不同，不應混用。",
     "tags": [
       "114-2-6",
       "復健科"
@@ -1036,7 +1036,7 @@
       "D": "V"
     },
     "answer": "D",
-    "explanation": "布朗斯壯分期（Brunnstrom stage）將中風後上肢動作恢復分為六個階段，需熟記各期的動作能力特徵，重點在於分辨協同運動（synergy pattern）與分離動作（isolated movement）的出現程度。<br>(A) 錯誤，Brunnstrom II期僅出現輕微的協同運動模式或痙攣，無法做出任何功能性動作。<br>(B) 錯誤，Brunnstrom III期可做出完整的協同運動（flexion/extension synergy），但無法脫離協同模式做出分離動作，無法舉手過頭或旋前旋後。<br>(C) 錯誤，Brunnstrom IV期可出現部分脫離協同模式的動作，如手可放到腰後、手肘伸直時手可前舉90度，但尚未能完全舉手過頭或流暢旋前旋後。<br>(D) 正確，Brunnstrom V期的特徵是大部分脫離協同模式，可執行：手舉過頭（shoulder flexion > 90°）、手從側面舉至水平（shoulder abduction to 90°）、手肘伸直時做旋前旋後，符合題目描述；拇指碰到食指指節則代表手部精細動作尚未完全恢復（VI期才能做到各手指獨立動作）。",
+    "explanation": "布朗斯壯分期（Brunnstrom stage）將中風後上肢動作恢復分為六個階段，需熟記各期的動作能力特徵，重點在於分辨協同運動（synergy pattern）與分離動作（isolated movement）的出現程度。<br>(A) 錯誤，Brunnstrom II期僅出現輕微的協同運動模式或痙攣，無法做出任何功能性動作。<br>(B) 錯誤，Brunnstrom III期可做出完整的協同運動（flexion/extension synergy），但無法脫離協同模式做出分離動作，無法舉手過頭或旋前旋後。<br>(C) 錯誤，Brunnstrom IV期可出現部分脫離協同模式的動作，如手可放到腰後、手肘伸直時手可前舉90度，但尚未能完全舉手過頭或流暢旋前旋後。<br>(D) 正確，Brunnstrom V期的特徵是大部分脫離協同模式，可執行：手舉過頭（shoulder flexion &gt; 90°）、手從側面舉至水平（shoulder abduction to 90°）、手肘伸直時做旋前旋後，符合題目描述。拇指碰到食指指節則代表手部精細動作尚未完全恢復（VI期才能做到各手指獨立動作）。",
     "tags": [
       "114-2-6",
       "復健科"
@@ -1224,7 +1224,7 @@
       "D": "血管內栓塞術是治療腦動脈瘤的方式之一"
     },
     "answer": "C",
-    "explanation": "腦動脈瘤的診斷需了解血管攝影（angiography）的限制，單次陰性結果不代表可完全排除動脈瘤。<br>(A) 正確，前交通動脈（anterior communicating artery，ACoA）是腦囊狀動脈瘤最常見的發生位置之一，其他常見位置還有後交通動脈（PCoA）及大腦中動脈（MCA）分叉處。<br>(B) 正確，巨大腦動脈瘤（giant aneurysm，直徑 > 25 mm）的瘤壁可能因反覆出血修復形成鈣化（calcification），在電腦斷層（CT）上可見環狀或蛋殼狀鈣化。<br>(C) 錯誤，蜘蛛網膜下腔出血（SAH）患者接受腦血管攝影（cerebral angiography）若第一次陰性，不能直接排除動脈瘤破裂；原因包括：動脈瘤因血塊填塞暫時未顯影、技術性因素或血管痙攣遮蔽，建議在7–14天後重複血管攝影，部分病例才能發現動脈瘤。<br>(D) 正確，血管內栓塞術（endovascular coiling）是治療腦動脈瘤的微創方式，適用於手術風險高或位置深的動脈瘤，與開顱夾閉術（surgical clipping）並列為主要治療選項。",
+    "explanation": "腦動脈瘤的診斷需了解血管攝影（angiography）的限制，單次陰性結果不代表可完全排除動脈瘤。<br>(A) 正確，前交通動脈（anterior communicating artery，ACoA）是腦囊狀動脈瘤最常見的發生位置之一，其他常見位置還有後交通動脈（PCoA）及大腦中動脈（MCA）分叉處。<br>(B) 正確，巨大腦動脈瘤（giant aneurysm，直徑 &gt; 25 mm）的瘤壁可能因反覆出血修復形成鈣化（calcification），在電腦斷層（CT）上可見環狀或蛋殼狀鈣化。<br>(C) 錯誤，蜘蛛網膜下腔出血（SAH）患者接受腦血管攝影（cerebral angiography）若第一次陰性，不能直接排除動脈瘤破裂，原因包括動脈瘤因血塊填塞暫時未顯影、技術性因素或血管痙攣遮蔽，建議在7~14天後重複血管攝影，部分病例才能發現動脈瘤。<br>(D) 正確，血管內栓塞術（endovascular coiling）是治療腦動脈瘤的微創方式，適用於手術風險高或位置深的動脈瘤，與開顱夾閉術（surgical clipping）並列為主要治療選項。",
     "tags": [
       "114-2-6",
       "麻醉科"
