@@ -1025,7 +1025,7 @@
       "D": "評估神經損傷的預後"
     },
     "answer": "B",
-    "explanation": "肌電圖（electromyography, EMG）和神經傳導檢查（nerve conduction study, NCS）是評估周邊神經和肌肉功能的重要工具。<br>(A) 正確，EMG和NCS可以定位神經損傷部位，區分是神經根病變（radiculopathy）、神經叢病變（plexopathy）、周邊神經病變（peripheral neuropathy）或局部神經壓迫（如腕隧道症候群）<br>(B) 錯誤，EMG和NCS最不可能確診上運動神經元（upper motor neuron, UMN）病變。上運動神經元病變（如中風、脊髓病變）的診斷主要依賴臨床表現（痙攣、反射亢進、Babinski徵象陽性）和影像檢查（MRI）。EMG在UMN病變早期可能完全正常，因為下運動神經元、神經肌肉接合處和肌肉本身功能正常。只有在慢性UMN病變導致續發性肌肉萎縮時，EMG才可能出現異常，但這是間接證據而非確診依據<br>(C) 正確，NCS可以定量評估軸突損傷（axonal injury）的程度。複合肌肉動作電位（compound muscle action potential, CMAP）的振幅反映存活的軸突數量，振幅下降程度可以估計軸突損傷的嚴重度<br>(D) 正確，EMG和NCS可以評估神經損傷的預後，區分神經失用（neurapraxia，預後好）、軸突斷裂（axonotmesis，預後中等）和神經斷裂（neurotmesis，預後差），並追蹤神經再生和功能恢復的情況",
+    "explanation": "肌電圖（electromyography, EMG）和神經傳導檢查（nerve conduction study, NCS）是評估周邊神經和肌肉功能的重要工具。<br>(A) 正確，EMG和NCS可以定位神經損傷部位，區分是神經根病變（radiculopathy）、神經叢病變（plexopathy）、周邊神經病變（peripheral neuropathy）或局部神經壓迫（如腕隧道症候群）<br>(B) 錯誤，EMG和NCS最不可能確診上運動神經元（upper motor neuron, UMN）病變。上運動神經元病變（如中風、脊髓病變）的診斷主要依賴臨床表現（痙攣、反射亢進、Babinski徵象陽性）和影像檢查（MRI）。上運動神經元病變時，下運動神經元、神經肌肉接合處和肌肉本身功能正常，神經傳導與針極肌電圖通常正常，不能用來確診<br>(C) 正確，NCS可以定量評估軸突損傷（axonal injury）的程度。複合肌肉動作電位（compound muscle action potential, CMAP）的振幅反映存活的軸突數量，振幅下降程度可以估計軸突損傷的嚴重度<br>(D) 正確，EMG和NCS可以評估神經損傷的預後，區分神經失用（neurapraxia，預後好）、軸突斷裂（axonotmesis，預後中等）和神經斷裂（neurotmesis，預後差），並追蹤神經再生和功能恢復的情況",
     "tags": [
       "114-1-6",
       "復健科"
@@ -1042,7 +1042,7 @@
       "D": "上肩胛（suprascapular）神經"
     },
     "answer": "D",
-    "explanation": "肩部神經損傷的診斷需要根據疼痛位置、肌肉萎縮分布和功能障礙來判斷。<br>(A) 錯誤，長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受傷會導致肩胛骨翼狀（scapular winging），而非肩胛脊上方肌肉萎縮<br>(B) 錯誤，腋下神經（axillary nerve）支配三角肌（deltoid）和小圓肌（teres minor），受傷會導致三角肌萎縮和肩外展無力，萎縮部位在肩外側而非肩胛脊上方<br>(C) 錯誤，背肩胛神經（dorsal scapular nerve）支配提肩胛肌（levator scapulae）和菱形肌（rhomboid muscles），受傷較少見且萎縮位置不在肩胛脊上方<br>(D) 正確，上肩胛神經（suprascapular nerve）支配棘上肌（supraspinatus）和棘下肌（infraspinatus）。此神經容易在排球等過肩運動中受傷，因為反覆的肩上舉動作可能在肩胛切跡（suprascapular notch）或棘突下方（spinoglenoid notch）處壓迫神經。受傷表現包括肩部深層疼痛（特別是肩胛上方）、棘上肌和棘下肌萎縮（肩胛脊上方和下方的凹陷）、肩外展（前15-90度）和外旋無力",
+    "explanation": "肩部神經損傷的診斷需要根據疼痛位置、肌肉萎縮分布和功能障礙來判斷。<br>(A) 錯誤，長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受傷會導致肩胛骨翼狀（scapular winging），而非肩胛脊上方肌肉萎縮<br>(B) 錯誤，腋下神經（axillary nerve）支配三角肌（deltoid）和小圓肌（teres minor），受傷會導致三角肌萎縮和肩外展無力，萎縮部位在肩外側而非肩胛脊上方<br>(C) 錯誤，背肩胛神經（dorsal scapular nerve）支配提肩胛肌（levator scapulae）和菱形肌（rhomboid muscles），受傷較少見且萎縮位置不在肩胛脊上方<br>(D) 正確，上肩胛神經（suprascapular nerve）支配棘上肌（supraspinatus）和棘下肌（infraspinatus）。此神經容易在排球等過肩運動中受傷，因為反覆的肩上舉動作可能在肩胛上切跡（suprascapular notch）或棘盂切跡（spinoglenoid notch）處壓迫神經。受傷表現包括肩部深層疼痛（特別是肩胛上方）、棘上肌和棘下肌萎縮（肩胛脊上方和下方的凹陷）、肩外展起始（約前 15 度）和外旋無力。肩胛上切跡受壓時兩肌皆萎縮，棘盂切跡受壓時只有棘下肌萎縮",
     "tags": [
       "114-1-6",
       "復健科"
@@ -1127,7 +1127,7 @@
       "D": "會用湯匙吃飯"
     },
     "answer": "A",
-    "explanation": "兒童發展里程碑有大致的時間順序，了解正常發展順序有助於早期發現發展遲緩。<br>(A) 正確，翻身（rolling over）通常在4-6個月大時達到，是最早出現的里程碑。嬰兒通常先會從俯臥翻到仰臥（4個月），稍後才會從仰臥翻到俯臥（6個月）<br>(B) 錯誤，有意義地叫爸爸媽媽（meaningful \"mama\" or \"dada\"）通常在9-12個月大時出現，是語言發展的里程碑<br>(C) 錯誤，自己上下樓梯（walking up and down stairs independently）通常在24個月（2歲）左右才能獨立完成，是較晚期的粗動作發展<br>(D) 錯誤，用湯匙吃飯（using spoon to eat）通常在15-18個月開始學習，但要到24個月左右才能較熟練，屬於精細動作和自理能力發展",
+    "explanation": "兒童發展里程碑有大致的時間順序，了解正常發展順序有助於早期發現發展遲緩。<br>(A) 正確，翻身（rolling over）通常在4~6個月大時達到，是最早出現的里程碑。嬰兒通常先會從俯臥翻到仰臥（4個月），稍後才會從仰臥翻到俯臥（6個月）<br>(B) 錯誤，有意義地叫爸爸媽媽（meaningful \"mama\" or \"dada\"）通常在 12 個月左右出現，是語言發展的里程碑<br>(C) 錯誤，自己上下樓梯（walking up and down stairs independently）通常在24個月（2歲）左右才能獨立完成，是較晚期的粗動作發展<br>(D) 錯誤，用湯匙吃飯（using spoon to eat）通常在15~18個月開始學習，但要到24個月左右才能較熟練，屬於精細動作和自理能力發展",
     "tags": [
       "114-1-6",
       "復健科"
@@ -1144,7 +1144,7 @@
       "D": "中腰椎（mid-lumbar spine L3-L4）"
     },
     "answer": "A",
-    "explanation": "脊髓脊膜膨出症是脊柱閉合不全導致脊髓和脊膜突出的先天性異常，神經功能損傷程度取決於病灶位置。<br>(A) 正確，頸椎到上胸椎的myelomeningocele實際上影響程度最嚴重而非最小。這個位置的病變會影響上肢、呼吸肌（膈肌和肋間肌）和整個下半身功能，通常與生命相容性差，實際上非常罕見，因為這樣的缺損通常不相容於生存或在產前即診斷出來<br>(B) 錯誤，下胸椎（T11-T12）的病變會影響下肢和膀胱直腸功能，但腰椎神經仍受損，導致下肢癱瘓<br>(C) 錯誤，上腰椎（L1-L2）病變會影響髖屈肌和股四頭肌，病人可能有部分行走能力但需要輔具<br>(D) 錯誤，中腰椎（L3-L4）病變影響較下腰椎輕，但仍有下肢無力和感覺喪失<br>註：此題答案標示為(A)但從臨床實際來看有疑問。Myelomeningocele最常發生在腰薦椎（lumbosacral），病灶位置越低（越接近薦椎），影響的神經根越少，功能損傷越小。因此薦椎病變（如果選項有的話）應該是影響最小的。頸椎和上胸椎病變實際上影響最大",
+    "explanation": "脊髓脊膜膨出症是脊柱閉合不全導致脊髓和脊膜突出的先天性異常，神經功能損傷程度取決於病灶位置，腰薦部病灶越高，下肢保留的肌力越少。<br>(A) 正確，頸椎到上胸椎的病灶罕見，多為皮膚覆蓋的囊狀病變（如脊膜膨出、脊髓囊狀膨出），神經症狀通常不如腰薦部脊髓脊膜膨出明顯，預後較好<br>(B) 錯誤，下胸椎（T11~T12）病灶的下肢無自主運動，呈弛緩性癱瘓，並伴有膀胱與腸道功能障礙，以輪椅為主<br>(C) 錯誤，上腰椎（L1~L2）病灶僅保留髖屈曲與髖內收，行走功能有限，需 KAFO 或 RGO 加拐杖，多以輪椅代步<br>(D) 錯誤，中腰椎（L3~L4）病灶保留股四頭肌，可用 KAFO 或 AFO 加拐杖行走，但踝以下仍有無力與感覺喪失，並有膀胱與腸道功能障礙<br>註：公告答案以「頸椎與上胸椎病灶多為皮膚覆蓋的囊狀病變、神經症狀較輕」為依據。若同為開放性脊髓脊膜膨出、依脊髓節段比較，一般原則是病灶越高越嚴重，此時 (A) 不一定最輕，本題答案有爭議。",
     "tags": [
       "114-1-6",
       "復健科"

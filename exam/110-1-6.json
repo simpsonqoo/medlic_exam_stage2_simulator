@@ -987,7 +987,7 @@
       "D": "閉孔神經（obturator nerve）"
     },
     "answer": "A",
-    "explanation": "股外側皮神經痛（meralgia paresthetica）是一種特定的感覺神經壓迫症候群，需熟悉其解剖位置與疝氣手術的關聯。<br>(A) 正確，股外側皮神經（lateral femoral cutaneous nerve，L2-L3）通過腹股溝韌帶（inguinal ligament）下方或穿過後進入大腿，疝氣手術操作於腹股溝區時易壓迫或傷及此神經，導致大腿外側的感覺麻木、灼熱或刺痛，即股外側皮神經痛（meralgia paresthetica）<br>(B) 錯誤，隱神經（saphenous nerve）是股神經（femoral nerve）的感覺分支，支配小腿及足部內側，與大腿外側感覺麻痛無關<br>(C) 錯誤，下臀神經（inferior gluteal nerve）支配臀大肌（gluteus maximus），為運動神經，與大腿外側感覺異常無關<br>(D) 錯誤，閉孔神經（obturator nerve）支配大腿內側（adductor區域）的感覺，並非大腿外側",
+    "explanation": "股外側皮神經痛（meralgia paresthetica）是一種特定的感覺神經壓迫症候群，需熟悉其解剖位置與疝氣手術的關聯。<br>(A) 正確，股外側皮神經（lateral femoral cutaneous nerve，L2~L3）通過腹股溝韌帶（inguinal ligament）下方或穿過後進入大腿，疝氣手術操作於腹股溝區時易壓迫或傷及此神經，導致大腿外側的感覺麻木、灼熱或刺痛，即股外側皮神經痛（meralgia paresthetica）<br>(B) 錯誤，隱神經（saphenous nerve）是股神經（femoral nerve）的感覺分支，支配小腿及足部內側，與大腿外側感覺麻痛無關<br>(C) 錯誤，下臀神經（inferior gluteal nerve）支配臀大肌（gluteus maximus），為運動神經，與大腿外側感覺異常無關<br>(D) 錯誤，閉孔神經（obturator nerve）支配大腿內收肌群，感覺分布於大腿內側，並非大腿外側",
     "tags": [
       "110-1-6",
       "復健科"
@@ -1038,7 +1038,7 @@
       "D": "運動單元電位波（motor unit action potential）的多相波（polyphasic wave）比率增加"
     },
     "answer": "B",
-    "explanation": "慢性髓鞘病變（chronic demyelination）主要破壞神經纖維的髓鞘（myelin sheath），導致傳導速度減慢，而非軸突本身損傷，需了解髓鞘病變在神經傳導檢查（nerve conduction study, NCS）與肌電圖（electromyography, EMG）上的特徵性表現，並找出「最不常出現」的結果。<br>(A) 錯誤，髓鞘破壞使神經衝動傳導減慢，遠端潛期（distal latency）明顯延長是髓鞘病變的典型神經傳導檢查表現<br>(B) 正確，複合肌肉動作電位（compound muscle action potential, CMAP）振幅反映的是有功能的運動軸突數目，髓鞘病變初期軸突完整，CMAP振幅通常正常或因傳導阻滯（conduction block）而降低，不會增加；振幅增加並不是髓鞘病變的預期表現<br>(C) 錯誤，髓鞘破壞使感覺神經傳導速度（sensory nerve conduction velocity, SNCV）明顯減慢，是髓鞘病變的核心電生理特徵<br>(D) 錯誤，慢性髓鞘病變若繼發軸突損傷或有神經再生，肌電圖可見運動單元電位（motor unit action potential, MUAP）多相波（polyphasic wave）比率增加，是慢性神經病變常見的再生現象",
+    "explanation": "慢性髓鞘病變（chronic demyelination）主要破壞神經纖維的髓鞘（myelin sheath），導致傳導速度減慢，而非軸突本身損傷，需了解髓鞘病變在神經傳導檢查（nerve conduction study, NCS）與肌電圖（electromyography, EMG）上的特徵性表現，並找出「最不常出現」的結果。<br>(A) 錯誤，髓鞘破壞使神經衝動傳導減慢，遠端潛期（distal latency）明顯延長是髓鞘病變的典型神經傳導檢查表現<br>(B) 正確，複合肌肉動作電位（compound muscle action potential, CMAP）振幅反映的是有功能的運動軸突數目，髓鞘病變初期軸突完整，CMAP 振幅通常正常或因傳導阻滯（conduction block）而降低，不會增加，振幅增加並不是髓鞘病變的預期表現<br>(C) 錯誤，髓鞘破壞使感覺神經傳導速度（sensory nerve conduction velocity, SNCV）明顯減慢，是髓鞘病變的核心電生理特徵<br>(D) 錯誤，慢性髓鞘病變若繼發軸突損傷或有神經再生，肌電圖可見運動單元電位（motor unit action potential, MUAP）多相波（polyphasic wave）比率增加，是慢性神經病變常見的再生現象",
     "tags": [
       "110-1-6",
       "復健科"
@@ -1174,7 +1174,7 @@
       "D": "肌肉失養症（muscular dystrophy）"
     },
     "answer": "A",
-    "explanation": "水腦症（hydrocephalus）的成因包含腦脊髓液（cerebrospinal fluid, CSF）循環阻塞或吸收障礙，需辨認哪種兒童疾病與水腦症的合併率最高。<br>(A) 正確，脊髓脊膜膨出症（myelomeningocele）是最嚴重的脊柱裂（spina bifida）類型，約80至90%的患者合併阿諾德-奇亞里二型畸形（Arnold-Chiari malformation type II），後腦扁桃體及腦幹向下移位阻塞腦脊髓液循環，導致水腦症，是兒童疾病中合併水腦症比率最高者<br>(B) 錯誤，腦性麻痺（cerebral palsy）是因腦部發育異常或損傷所致的運動功能障礙，雖可合併腦部結構異常，但並非最常合併水腦症的疾病<br>(C) 錯誤，脊髓性肌肉萎縮症（spinal muscular atrophy, SMA）是下運動神經元退化疾病，病變主要在脊髓前角細胞，與水腦症無直接關聯<br>(D) 錯誤，肌肉失養症（muscular dystrophy）為肌肉本身的遺傳性退化疾病，不涉及腦脊髓液循環異常，與水腦症無關",
+    "explanation": "水腦症（hydrocephalus）的成因包含腦脊髓液（cerebrospinal fluid, CSF）循環阻塞或吸收障礙，需辨認哪種兒童疾病與水腦症的合併率最高。<br>(A) 正確，脊髓脊膜膨出症（myelomeningocele）是最嚴重的脊柱裂（spina bifida）類型，幾乎全部（約 95%）合併阿諾德-奇亞里二型畸形（Arnold-Chiari malformation type II），後腦扁桃體及腦幹向下移位阻塞腦脊髓液循環，約 80%~90% 發生水腦症需要分流，是兒童疾病中合併水腦症比率最高者<br>(B) 錯誤，腦性麻痺（cerebral palsy）是因腦部發育異常或損傷所致的運動功能障礙，雖可合併腦部結構異常，但並非最常合併水腦症的疾病<br>(C) 錯誤，脊髓性肌肉萎縮症（spinal muscular atrophy, SMA）是下運動神經元退化疾病，病變主要在脊髓前角細胞，與水腦症無直接關聯<br>(D) 錯誤，肌肉失養症（muscular dystrophy）為肌肉本身的遺傳性退化疾病，不涉及腦脊髓液循環異常，與水腦症無關",
     "tags": [
       "110-1-6",
       "復健科"
