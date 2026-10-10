@@ -1132,7 +1132,7 @@
       "D": "下肢在仰臥時膝蓋彎曲"
     },
     "answer": "A",
-    "explanation": "慢性阻塞性肺病（chronic obstructive pulmonary disease，COPD）患者的放鬆訓練與省力擺位，目標是減少呼吸輔助肌的不必要張力，降低氧氣消耗。<br>(A) 錯誤，COPD 患者的放鬆擺位原則是讓上肢有所支撐，使輔助呼吸肌（accessory respiratory muscles）放鬆；上肢懸空（unsupported）會使斜方肌、胸鎖乳突肌等持續緊張，增加呼吸做功，是最不適當的擺位<br>(B) 正確，側臥時上肢保持彎曲並有支撐，可減少肩帶肌群的張力<br>(C) 正確，側臥時下肢保持彎曲，可使腰背部肌肉放鬆，有助整體放鬆<br>(D) 正確，仰臥時膝蓋彎曲可放鬆腰大肌（psoas major），降低腰背張力，有助於放鬆呼吸",
+    "explanation": "慢性阻塞性肺病（chronic obstructive pulmonary disease，COPD）患者的放鬆訓練與省力擺位，目標是減少呼吸輔助肌的不必要張力，降低氧氣消耗。<br>(A) 錯誤，COPD 患者的放鬆擺位原則是讓上肢有所支撐，使輔助呼吸肌（accessory respiratory muscles）放鬆。上肢懸空（unsupported）會使斜方肌、胸鎖乳突肌等持續緊張，增加呼吸做功，是最不適當的擺位<br>(B) 正確，側臥時上肢保持彎曲並有支撐，可減少肩帶肌群的張力<br>(C) 正確，側臥時下肢保持彎曲，可使腰背部肌肉放鬆，有助整體放鬆<br>(D) 正確，仰臥時膝蓋彎曲可放鬆腰大肌（psoas major），降低腰背張力，有助於放鬆呼吸",
     "tags": [
       "115-1-6",
       "復健科"
@@ -1183,7 +1183,7 @@
       "D": "巴氏量表評估的項目包含基本日常生活活動（basic ADLs）與工具性日常生活活動（instrumental ADLs）"
     },
     "answer": "D",
-    "explanation": "巴氏量表（Barthel Index）是最常用的日常生活功能評估工具之一，需了解其評估項目的範疇。<br>(A) 正確，日常生活活動功能（activities of daily living，ADLs）分為基本日常生活活動（basic ADLs）及工具性日常生活活動（instrumental ADLs）兩大類<br>(B) 正確，基本 ADLs 包括進食、穿衣、如廁、洗澡、大小便控制、移位及行走等自我照顧項目<br>(C) 正確，工具性 ADLs（instrumental ADLs，IADLs）包括烹飪、購物、開車、打電話、財務管理、園藝等需使用工具或較高認知功能的活動<br>(D) 錯誤，巴氏量表（Barthel Index）僅評估基本 ADLs，包含進食、洗澡、穿衣、如廁、大小便控制、移位、行走及上下樓梯等 10 個項目，不包含工具性 ADLs；工具性 ADLs 需另以 Lawton-Brody Scale 等工具評估",
+    "explanation": "巴氏量表（Barthel Index）是最常用的日常生活功能評估工具之一，需了解其評估項目的範疇。<br>(A) 正確，日常生活活動功能（activities of daily living，ADLs）分為基本日常生活活動（basic ADLs）及工具性日常生活活動（instrumental ADLs）兩大類<br>(B) 正確，基本 ADLs 包括進食、穿衣、如廁、洗澡、大小便控制、移位及行走等自我照顧項目<br>(C) 正確，工具性 ADLs（instrumental ADLs，IADLs）包括烹飪、購物、開車、打電話、財務管理、園藝等需使用工具或較高認知功能的活動<br>(D) 錯誤，巴氏量表（Barthel Index）僅評估基本 ADLs，包含進食、洗澡、穿衣、如廁、大小便控制、移位、行走及上下樓梯等 10 個項目，不包含工具性 ADLs。工具性 ADLs 需另以 Lawton-Brody Scale 等工具評估",
     "tags": [
       "115-1-6",
       "復健科"
