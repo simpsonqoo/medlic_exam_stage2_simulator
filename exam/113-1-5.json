@@ -77,7 +77,7 @@
       "D": "沒有肝外轉移病灶"
     },
     "answer": "A",
-    "explanation": "米蘭準則（Milan criteria）是肝細胞癌（hepatocellular carcinoma）肝移植的經典選擇標準。<br>正確的米蘭準則為：<br>· 單一腫瘤，直徑≤5公分，或<br>· 2-3顆腫瘤，每顆直徑≤3公分<br>· 無大血管侵犯<br>· 無肝外轉移<br>(A) 錯誤，單一腫瘤的標準是直徑≤5公分，而非6.5公分。6.5公分是UCSF準則（加州大學舊金山分校準則）的標準<br>(B) 正確，符合米蘭準則<br>(C) 正確，不能有肝內大血管侵犯（vascular invasion）<br>(D) 正確，不能有肝外轉移（extrahepatic metastasis）",
+    "explanation": "米蘭準則（Milan criteria）是肝細胞癌（hepatocellular carcinoma）肝移植的經典選擇標準。其條件為單一腫瘤直徑不大於 5 公分，或 2~3 顆腫瘤且每顆直徑皆不大於 3 公分，同時沒有大血管侵犯，也沒有肝外轉移。<br>(A) 錯誤，單一腫瘤的標準是直徑不大於 5 公分，而非 6.5 公分。6.5 公分是 UCSF 準則（加州大學舊金山分校準則）的標準<br>(B) 正確，符合米蘭準則<br>(C) 正確，不能有肝內大血管侵犯（vascular invasion）<br>(D) 正確，不能有肝外轉移（extrahepatic metastasis）",
     "tags": [
       "113-1-5",
       "肝膽胰外科"
@@ -94,7 +94,7 @@
       "D": "胰臟移植後最常見的長期死亡原因為糖尿病復發"
     },
     "answer": "C",
-    "explanation": "胰臟移植主要用於治療第一型糖尿病，常與腎臟移植合併進行。<br>(A) 錯誤，胰臟移植主要就是用來治療第一型糖尿病（type 1 diabetes mellitus），特別是合併腎衰竭需要腎移植的病人<br>(B) 錯誤，目前以腸道引流（enteric drainage）較為普遍。膀胱引流（bladder drainage）雖然可透過尿液澱粉酶監測排斥，但併發症較多（如代謝性酸中毒、血尿、尿道炎），已較少使用<br>(C) 正確，血管栓塞（vascular thrombosis）是胰臟移植最常見且嚴重的手術併發症，發生率約5-10%，可能導致移植物失功能<br>(D) 錯誤，胰臟移植後長期死亡原因主要是心血管疾病（cardiovascular disease）和感染，而非糖尿病復發",
+    "explanation": "胰臟移植主要用於治療第一型糖尿病，常與腎臟移植合併進行。<br>(A) 錯誤，胰臟移植主要就是用來治療第一型糖尿病（type 1 diabetes mellitus），特別是合併末期腎病變需要腎臟移植的病人<br>(B) 錯誤，目前以腸道引流（enteric drainage）為主流。膀胱引流（bladder drainage）雖可由尿液澱粉酶變化監測排斥，但有代謝性酸中毒、脫水、泌尿道感染與膀胱炎等併發症，已較少使用<br>(C) 正確，血管栓塞（vascular thrombosis）是胰臟移植最常見的早期技術性失敗原因，發生率約 5~10%，常導致移植物失功能，因此術後常給予抗凝或抗血小板藥物預防<br>(D) 錯誤，胰臟移植後死亡的主要原因為心血管疾病與感染，而非糖尿病復發",
     "tags": [
       "113-1-5",
       "肝膽胰外科"

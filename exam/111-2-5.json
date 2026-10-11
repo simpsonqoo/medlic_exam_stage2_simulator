@@ -94,7 +94,7 @@
       "D": "移植後淋巴增生性病變（posttransplantation lymphoproliferative disorder）的成因，與人類乳突病毒（human papillomavirus）活化有關"
     },
     "answer": "D",
-    "explanation": "關鍵在於正確配對感染性疾病與其病原體。<br>(A) 正確，預防性使用 acyclovir 或 valgancyclovir 可降低巨細胞病毒感染：<br>· 巨細胞病毒（cytomegalovirus, CMV）是移植後最常見的病毒感染<br>· 預防性抗病毒藥物可顯著降低 CMV 感染及相關併發症<br>(B) 正確，多瘤病毒相關性腎病會導致移植腎功能喪失：<br>· BK 病毒（BK virus）是多瘤病毒（polyomavirus）的一種<br>· 免疫抑制導致 BK 病毒活化，造成移植腎病變<br>· 可導致移植腎功能惡化甚至喪失<br>(C) 正確，長期使用免疫抑制劑會增加癌症發生率：<br>· 免疫監控能力下降，無法有效清除癌細胞<br>· 某些病毒（如 EBV、HPV）活化也增加相關癌症風險<br>· 常見癌症包括皮膚癌、淋巴瘤等<br>(D) 錯誤，移植後淋巴增生性病變（PTLD）的成因與 EB 病毒（Epstein-Barr virus, EBV）活化有關，而非人類乳突病毒（HPV）：<br>· PTLD 主要由 EBV 活化引起<br>· 免疫抑制導致 EBV 感染的 B 細胞失控增生<br>· HPV 則與子宮頸癌、肛門癌、口咽癌等相關，但與 PTLD 無關",
+    "explanation": "這題的關鍵在於正確配對病毒與疾病。CMV 預防以 valganciclovir 為主，BK 病毒是多瘤病毒，會造成移植腎病變，免疫抑制使癌症發生率上升，移植後淋巴增生性疾病（PTLD）則與 EB 病毒（EBV）有關。<br>(A) 正確，valganciclovir 是預防 CMV 感染的首選藥物之一，acyclovir 主要預防 HSV 與 VZV，對 CMV 的作用較弱，依現行指引僅有高劑量 valacyclovir 可作為 CMV 預防的替代，本題公告答案仍視 (A) 為正確敘述<br>(B) 正確，BK 病毒是多瘤病毒（polyomavirus）的一種，免疫抑制下再活化會造成多瘤病毒相關性腎病，導致移植腎功能惡化甚至喪失<br>(C) 正確，長期使用免疫抑制劑使免疫監視能力下降，致癌病毒（如 EBV、HPV、HHV-8）再活化，癌症發生率因此升高，常見癌症包括皮膚癌與淋巴瘤<br>(D) 錯誤，移植後淋巴增生性疾病（PTLD）的成因與 EB 病毒（Epstein-Barr virus, EBV）有關，免疫抑制使被 EBV 感染的 B 細胞失控增生。人類乳突病毒（HPV）則與子宮頸癌、肛門癌、口咽癌等有關，與 PTLD 無關",
     "tags": [
       "111-2-5",
       "外科概論"

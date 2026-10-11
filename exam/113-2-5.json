@@ -43,7 +43,7 @@
       "D": "使用TPN之病人若發燒時，若無其他原因，應考慮拔除導管並作細菌培養"
     },
     "answer": "B",
-    "explanation": "中心靜脈導管相關感染（catheter-related bloodstream infection, CRBSI）是TPN使用的重要併發症，但預防感染的重點在於無菌技術和適當照護，而非常規更換導管。<br>(A) 正確，置放於股靜脈（femoral vein）的導管因接近會陰部，污染機會較高，感染率確實較鎖骨下靜脈（subclavian vein）或內頸靜脈（internal jugular vein）高<br>(B) 錯誤，中心靜脈導管不需要常規定期更換，因為更換導管本身就有感染風險，且研究顯示定期更換並不能降低感染率。應該只在有感染跡象、導管功能不良或不再需要時才移除或更換<br>(C) 正確，導管相關感染最常見的致病菌是葡萄球菌（Staphylococcus），包括凝固酶陰性葡萄球菌（coagulase-negative staphylococci）和金黃色葡萄球菌（Staphylococcus aureus）<br>(D) 正確，使用TPN的病人若發燒且找不到其他明確感染源時，應考慮導管相關感染，需要拔除導管並進行導管尖端（catheter tip）和血液的細菌培養",
+    "explanation": "中心靜脈導管相關血流感染(catheter-related bloodstream infection, CRBSI)是 TPN 使用的重要併發症，預防重點在於置入時的無菌技術與日常照護，而非常規更換導管。<br>(A) 正確，股靜脈導管因接近會陰部而較易污染，隨機試驗顯示股靜脈導管的感染併發症（定植加感染）多於鎖骨下靜脈，CDC 2011 與 SHEA/IDSA/APIC 2022 建議成人以鎖骨下靜脈為優先、避免股靜脈<br>(B) 錯誤，CDC 2011 與 SHEA/IDSA/APIC 2022 都不建議為預防感染而常規更換中心靜脈導管（包含以導引鋼絲更換），定期更換並不能降低感染率，更換本身還有穿刺併發症與感染風險。只在有感染跡象、導管功能不良或不再需要時才拔除或更換<br>(C) 正確，導管相關感染最常見的致病菌是葡萄球菌，包括凝固酶陰性葡萄球菌(coagulase-negative staphylococci)和金黃色葡萄球菌(Staphylococcus aureus)<br>(D) 正確，TPN 病人發燒且找不到其他明確感染源時，應考慮導管相關感染，同時抽導管與周邊血液培養，並依臨床判斷拔除導管，拔除後可送導管尖端(catheter tip)培養。IDSA 2009 指出單憑發燒不須常規拔管，但敗血性休克、S. aureus 或念珠菌血流感染等情形必須拔除導管",
     "tags": [
       "113-2-5",
       "外科概論"
@@ -77,7 +77,7 @@
       "D": "穿孔性闌尾炎術後，抗生素須施打10天"
     },
     "answer": "C",
-    "explanation": "腹內感染的抗生素使用期間應根據感染的嚴重程度、污染程度和手術控制情況來決定。關鍵在於區分預防性使用和治療性使用。<br>(A) 錯誤，外傷性腸穿孔若在12小時內接受手術修補，屬於預防性抗生素使用範疇，建議使用不超過24小時即可，不需要3天<br>(B) 錯誤，未穿孔的急性闌尾炎（acute appendicitis without perforation）接受闌尾切除後，屬於預防性使用，術後不需要繼續施打抗生素，或最多給予單一劑量即可<br>(C) 正確，未穿孔的腸壞死（bowel necrosis without perforation）經完整切除後，腹腔污染程度有限，屬於預防性使用，抗生素不需超過24小時<br>(D) 錯誤，穿孔性闌尾炎（perforated appendicitis）術後需要治療性抗生素，但通常4-7天即可，不需要10天。治療期間應根據臨床症狀改善情況調整，而非固定天數",
+    "explanation": "腹內感染的抗生素使用期間要先區分預防性與治療性使用。尚未發生感染、只是預防術後感染的情境，術後不超過 24 小時。已經發生感染的腹內感染，在感染源已適當控制後，療程以 4 天為原則（STOP-IT 試驗，SIS 指引），複雜性闌尾炎在闌尾切除後，SIS 2024 建議術後 24~48 小時即可。<br>(A) 錯誤，外傷性腸穿孔於 12 小時內手術修補，屬預防性抗生素使用，術後不超過 24 小時，不需要 3 天<br>(B) 錯誤，未穿孔的急性闌尾炎接受闌尾切除後屬預防性使用，術後不需延長，不超過 24 小時，不需要連續 3 天<br>(C) 正確，未穿孔的腸壞死經切除腸道後，腹腔污染程度有限，屬預防性使用，抗生素不超過 24 小時<br>(D) 錯誤，穿孔性闌尾炎屬已發生的腹內感染，需要治療性抗生素，但闌尾切除後感染源已適當控制時，SIS 2024 建議術後抗生素限於 24~48 小時，一般複雜性腹內感染也只需 4 天（STOP-IT 試驗），不需要 10 天。感染源控制不完全時才依臨床反應延長並重新評估感染源",
     "tags": [
       "113-2-5",
       "外科概論"
@@ -94,7 +94,7 @@
       "D": "tacrolimus比cyclosporine有較高的移植後糖尿病發生率"
     },
     "answer": "B",
-    "explanation": "Tacrolimus和cyclosporine都是器官移植常用的免疫抑制劑，屬於calcineurin inhibitors，但兩者的副作用表現有所不同。<br>(A) 正確，tacrolimus較cyclosporine更容易導致禿髮（alopecia）<br>(B) 錯誤，牙齦肥厚（gingival hyperplasia）是cyclosporine的典型副作用，tacrolimus較少引起此問題。所以應該是cyclosporine比tacrolimus更容易導致牙齦肥厚<br>(C) 正確，tacrolimus比cyclosporine有較高的神經毒性（neurotoxicity），包括震顫（tremor）、頭痛等症狀<br>(D) 正確，tacrolimus比cyclosporine有較高的移植後糖尿病（post-transplant diabetes mellitus, PTDM）發生率",
+    "explanation": "Tacrolimus 與 cyclosporine 同屬鈣調磷酸酶抑制劑（calcineurin inhibitors, CNI），但副作用各有側重。Cyclosporine 較常引起牙齦增生、多毛、高血壓與血脂異常，tacrolimus 較常引起禿髮、神經毒性（震顫、頭痛）與移植後糖尿病。<br>(A) 正確，tacrolimus 較 cyclosporine 容易導致禿髮（alopecia）<br>(B) 錯誤，牙齦增生（gingival hyperplasia）與多毛是 cyclosporine 的典型副作用，tacrolimus 較少引起，所以應該是 cyclosporine 比 tacrolimus 更容易導致牙齦肥厚<br>(C) 正確，tacrolimus 的神經毒性（neurotoxicity）較高，包括震顫（tremor）、頭痛等症狀<br>(D) 正確，tacrolimus 的移植後糖尿病（post-transplant diabetes mellitus, PTDM）發生率較高",
     "tags": [
       "113-2-5",
       "外科概論"

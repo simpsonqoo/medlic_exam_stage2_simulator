@@ -43,7 +43,7 @@
       "D": "腹瀉會導致電解質及水分的不平衡，需補充水分及電解質"
     },
     "answer": "C",
-    "explanation": "困難梭狀芽孢桿菌感染（CDI）是使用抗生素後腸道菌叢失衡，讓產毒素的困難梭狀桿菌過度增生所致。<br>(A) 正確，症狀包括水瀉（watery diarrhea）、血便（bloody stool）、發燒（fever），嚴重時可能進展為偽膜性結腸炎（pseudomembranous colitis）<br>(B) 正確，診斷可透過糞便毒素檢測（如glutamate dehydrogenase加上toxin A/B檢測或PCR）或大腸鏡檢查發現偽膜並進行切片確認<br>(C) 錯誤，治療應停止原本使用的廣效性抗生素（如果臨床允許），並使用針對困難梭狀桿菌的抗生素如vancomycin或fidaxomicin（口服），而非廣效性抗革蘭氏陰性菌抗生素，因為後者可能加重腸道菌叢失衡<br>(D) 正確，嚴重腹瀉會導致脫水、電解質不平衡（特別是低鉀血症），需要積極補充水分和電解質",
+    "explanation": "困難梭狀芽孢桿菌感染(CDI)是使用抗生素後腸道菌叢失衡，讓產毒素的困難梭狀桿菌過度增生所致。<br>(A) 正確，典型症狀為水瀉(watery diarrhea)、腹痛與發燒，常伴白血球增多，嚴重時可進展為偽膜性結腸炎(pseudomembranous colitis)。糞便通常不帶明顯血液，血便較少見，但偶可出現，此選項視為正確敘述<br>(B) 正確，診斷依臨床表現（新發 ≥3 次未成形便）加上糞便檢驗，如 glutamate dehydrogenase(GDH)加 toxin A/B 檢測，結果不一致時以核酸擴增檢測(NAAT)仲裁，或 NAAT 加毒素檢測。大腸鏡可見偽膜，切片可見火山口狀病變，但不是必要檢查<br>(C) 錯誤，治療應盡可能停用誘發的抗生素，並口服 fidaxomicin（IDSA/SHEA 2021 首選）或 vancomycin 針對 C. difficile，而不是使用廣效性抗革蘭氏陰性菌抗生素，因為後者會進一步破壞腸道菌叢<br>(D) 正確，嚴重腹瀉會導致脫水、電解質不平衡（特別是低鉀血症），需要積極補充水分和電解質",
     "tags": [
       "112-2-5",
       "外科概論"
@@ -77,7 +77,7 @@
       "D": "82歲女性，接受經腹腔鏡部分胃切除手術，腹部傷口正常，然而於術後第6天出現劇烈腹痛與發燒，電腦斷層發現腸胃道吻合處有膿瘍形成"
     },
     "answer": "A",
-    "explanation": "手術部位感染（SSI）的定義有時間和位置的限制。<br>(A) 正確（不符合SSI定義），此為呼吸器相關肺炎（ventilator-associated pneumonia, VAP），屬於醫療照護相關感染（healthcare-associated infection），不是手術部位感染<br>(B) 錯誤（符合SSI定義），疝氣修補術後28天內發生傷口感染屬於淺層切口SSI（superficial incisional SSI），未置入人工網膜的手術30天內發生感染符合SSI定義<br>(C) 錯誤（符合SSI定義），膝關節置換術有置入人工植入物，因此SSI定義延長至術後一年內，11個月後發生感染仍符合深部器官/腔室SSI定義<br>(D) 錯誤（符合SSI定義），術後6天發生腹腔內膿瘍屬於器官/腔室SSI（organ/space SSI），符合30天內定義",
+    "explanation": "手術部位感染（SSI）限於手術切口或手術中處理過的器官與腔室，依深度分為淺層切口、深層切口、器官與腔室三類，並且要發生在術後監測期間內。依 CDC/NHSN 現行定義，淺層切口 SSI 的監測期間為術後 30 天，深層切口與器官與腔室 SSI 依術式為術後 30 天或 90 天（膝關節置換術為 90 天）。舊版 NHSN（2013 年以前）規定有植入物者監測 1 年，現行版本已改為依術式分 30 天或 90 天，與是否有植入物無關。<br>(A) 正確（不符合 SSI 定義），術後第 21 天的肺炎與敗血症屬呼吸器相關肺炎（ventilator-associated pneumonia, VAP），是醫療照護相關感染，感染部位不在手術切口或手術處理過的器官與腔室，不是 SSI<br>(B) 錯誤（符合 SSI 定義），疝氣修補術後 28 天癒合不良產生分泌物與膿瘍，屬淺層切口 SSI，在術後 30 天監測期間內<br>(C) 錯誤（公告答案視為符合 SSI 定義），依舊版 NHSN 有植入物者監測 1 年，術後 11 個月仍在期間內。依現行 NHSN，膝關節置換術的監測期間為 90 天，術後 11 個月已超過監測期間，依現行定義不符合 SSI。本題公告答案為 (A)，答案不變<br>(D) 錯誤（符合 SSI 定義），術後第 6 天電腦斷層發現吻合處膿瘍，屬器官與腔室 SSI（organ/space SSI），在監測期間內",
     "tags": [
       "112-2-5",
       "外科概論"
@@ -94,7 +94,7 @@
       "D": "凝血酶原時間國際標準化比值（international normalized ratio, INR）"
     },
     "answer": "B",
-    "explanation": "MELD score用於評估末期肝病嚴重度和預測三個月死亡率。<br>(A) 錯誤，血清總膽紅素（total bilirubin）是MELD score的三大參數之一，反映肝臟代謝功能<br>(B) 正確，白血球計數不是MELD score的計算參數，雖然可能反映感染狀況，但不直接評估肝功能<br>(C) 錯誤，血清肌酐酸（creatinine）是MELD score參數之一，反映腎功能，因為肝腎症候群（hepatorenal syndrome）是末期肝病常見併發症<br>(D) 錯誤，凝血酶原時間國際標準化比值（INR）是MELD score的重要參數，反映肝臟合成凝血因子的能力<br>MELD score = 3.78×ln[總膽紅素(mg/dL)] + 11.2×ln[INR] + 9.57×ln[肌酐酸(mg/dL)] + 6.43",
+    "explanation": "MELD score用於評估末期肝病嚴重度和預測三個月死亡率。<br>(A) 錯誤，血清總膽紅素（total bilirubin）是MELD score的三大參數之一，反映肝臟代謝功能<br>(B) 正確，白血球計數不是MELD score的計算參數，雖然可能反映感染狀況，但不直接評估肝功能。MELD-Na 另加血清鈉，MELD 3.0 另加血清鈉、白蛋白與性別，也都不含白血球計數<br>(C) 錯誤，血清肌酐酸（creatinine）是MELD score參數之一，反映腎功能，因為肝腎症候群（hepatorenal syndrome）是末期肝病常見併發症<br>(D) 錯誤，凝血酶原時間國際標準化比值（INR）是MELD score的重要參數，反映肝臟合成凝血因子的能力<br>MELD score = 3.78×ln[總膽紅素(mg/dL)] + 11.2×ln[INR] + 9.57×ln[肌酐酸(mg/dL)] + 6.43。",
     "tags": [
       "112-2-5",
       "肝膽胰外科"
@@ -1214,7 +1214,7 @@
       "D": "全身性紅斑性狼瘡（systemic lupus erythematosus）在腎臟移植後不會復發，此類病人腎臟移植預後較佳"
     },
     "answer": "D",
-    "explanation": "腎臟移植前需評估原發疾病在移植腎的復發風險。<br>(A) 正確，原發性草酸鹽沉著症（primary hyperoxaluria type I）是代謝疾病，肝臟酶缺陷導致草酸過度產生和腎結石：<br>· 單獨腎臟移植會復發，移植腎會再次沉積草酸<br>· 需要合併肝腎移植（combined liver-kidney transplant）才能根治<br>· 肝臟移植提供正常酶，糾正代謝缺陷<br>(B) 正確，多囊腎（autosomal dominant polycystic kidney disease, ADPKD）：<br>· 是遺傳性疾病，但不是免疫介導<br>· 移植腎來自正常基因型，不會發生多囊腎<br>· 原本的多囊腎仍在（除非切除），但移植腎不受影響<br>· ADPKD是腎移植常見適應症，預後良好<br>(C) 正確，局部節段型腎絲球硬化（focal segmental glomerulosclerosis, FSGS）：<br>· 原發性FSGS移植後復發率約30-50%<br>· 復發可能很快（數天到數週）<br>· 復發病患移植腎預後較差，可能導致移植腎失功能<br>· 特別是兒童、快速進展型、對類固醇敏感型復發率更高<br>(D) 錯誤（最不恰當），全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）：<br>· SLE腎炎（lupus nephritis）移植後會復發，復發率約2-10%<br>· 雖然復發率相對較低，但確實會復發<br>· 移植前應控制SLE活性至少6個月<br>· 整體而言SLE病患腎移植預後比某些疾病好（如FSGS），但不能說「不會復發」或「預後較佳」<br>· 需持續免疫抑制和監測SLE活性<br>其他易復發疾病：IgA腎病變（20-60%）、膜性增生性腎絲球腎炎、抗腎絲球基底膜抗體疾病（若抗體陰性）。",
+    "explanation": "腎臟移植前需評估原發疾病在移植腎的復發風險。<br>(A) 正確，原發性草酸鹽沉著症（primary hyperoxaluria type 1）因肝臟酵素缺陷使草酸過度產生，單獨腎臟移植會再度沉積草酸而常早期失去移植腎，需合併肝腎移植（combined liver-kidney transplant）才能根治，因為肝臟移植可提供正常的酵素<br>(B) 正確，多囊腎（autosomal dominant polycystic kidney disease, ADPKD）是遺傳性疾病，移植腎來自沒有此突變的捐贈者，不會發生多囊腎。原本的多囊腎仍在（除非切除），但不影響移植腎，ADPKD 是腎移植常見適應症，預後良好<br>(C) 正確，原發性局部節段型腎絲球硬化（focal segmental glomerulosclerosis, FSGS）移植後復發率約 30%，多發生在移植後早期，復發者移植腎失功能的風險明顯增加，預後較差<br>(D) 錯誤（最不恰當），全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）的狼瘡腎炎（lupus nephritis）移植後仍可復發，復發率約 2~11%，復發是移植腎失功能的危險因子，因此不能說「不會復發」<br>其他可在移植腎復發的疾病還有 IgA 腎病變、膜性腎病變、膜增生性腎絲球腎炎（MPGN）、C3 腎絲球病變與非典型溶血性尿毒症候群（aHUS）。",
     "tags": [
       "112-2-5",
       "泌尿外科"

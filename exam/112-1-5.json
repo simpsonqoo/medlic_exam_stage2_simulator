@@ -94,7 +94,7 @@
       "D": "大腸癌接受治療後，超過五年無復發的末期腎衰竭病人"
     },
     "answer": "A",
-    "explanation": "腎移植後需長期使用免疫抑制劑，因此活動性感染是絕對禁忌症。<br>(A) 正確，開放性肺結核（active pulmonary tuberculosis）是腎臟移植的絕對禁忌症。使用免疫抑制劑會使結核病惡化，造成致命的播散性感染。必須先完成結核病治療並確認治癒後才能考慮移植<br>(B) 錯誤，HIV感染者若病情穩定、病毒量控制良好且CD4計數適當，已不再是絕對禁忌症。在嚴格選擇和監測下可進行腎移植<br>(C) 錯誤，年齡超過70歲是相對禁忌症而非絕對禁忌症。需個別評估病人的整體健康狀況、預期壽命和併發症風險<br>(D) 錯誤，惡性腫瘤治療後無復發超過5年通常被認為已治癒，可考慮腎移植。大腸癌治療後5年無復發的復發風險很低",
+    "explanation": "腎臟移植後需長期使用免疫抑制劑，因此活動性感染必須先治療完成才能移植。依 KDIGO 2020，HIV、HBV、HCV 感染本身不應排除移植，年齡不單獨作為排除條件，惡性腫瘤治療後的等待時間則依癌種與分期而定。<br>(A) 正確，開放性肺結核（active pulmonary tuberculosis）屬活動性感染，免疫抑制劑會使結核病惡化甚至造成播散性感染，必須先完成治療並確認治癒才能考慮移植<br>(B) 錯誤，依 KDIGO 2020，HIV 感染本身不應排除移植，病情穩定、病毒量與 CD4 計數控制良好者，可在嚴格選擇與監測下進行腎移植<br>(C) 錯誤，KDIGO 2020 建議不要單以年齡排除移植，需綜合評估共病與衰弱（frailty），年齡超過 70 歲不是絕對禁忌症<br>(D) 錯誤，惡性腫瘤治療後的等待時間依癌種與分期而定，大腸癌治療後超過 5 年無復發，已超過 AST 2021 共識建議的等待時間（第 1~3 期結腸癌約 1~5 年），可考慮移植",
     "tags": [
       "112-1-5",
       "泌尿外科"
@@ -525,7 +525,7 @@
       "D": "40歲男性，B型肝炎患者，CTP score=5，單顆腫瘤2.0 cm位於segment II，無肝外轉移及大血管侵犯"
     },
     "answer": "D",
-    "explanation": "肝臟移植的適應症主要依循Milan criteria或UCSF criteria評估。<br>(A) 錯誤，此病人符合Milan criteria（單顆腫瘤≤5 cm或≤3顆腫瘤且每顆≤3 cm，無血管侵犯或肝外轉移）。兩顆腫瘤分別為2.0 cm和2.5 cm，CTP score=8顯示肝功能Child-Pugh B級，適合肝移植<br>(B) 錯誤，此病人符合Milan criteria（單顆4.5 cm<5 cm），CTP score=10為Child-Pugh C級，肝功能很差，肝移植是最佳選擇<br>(C) 錯誤，此病人符合Milan criteria（3顆腫瘤且每顆≤3 cm），CTP score=7為Child-Pugh B級，適合肝移植<br>(D) 正確，此病人雖然腫瘤條件完全符合Milan criteria（單顆2.0 cm），但CTP score=5為Child-Pugh A級，肝功能良好，這種情況下應優先考慮肝切除手術而非肝移植。因為肝切除的風險較低且可保留自己的肝臟，不需要終生免疫抑制劑。肝移植應保留給肝功能較差無法接受肝切除的病人，以有效利用珍貴的移植器官",
+    "explanation": "肝臟移植的適應症主要依循 Milan criteria 或 UCSF criteria 評估，同時要考慮肝功能與手術切除的可行性。<br>(A) 錯誤，此病人符合 Milan criteria（單顆腫瘤不大於 5 cm，或 2~3 顆腫瘤且每顆不大於 3 cm，無血管侵犯或肝外轉移）。兩顆腫瘤分別為 2.0 cm 和 2.5 cm，CTP score=8 為 Child-Pugh B 級，肝功能受損，適合考慮肝移植<br>(B) 錯誤，此病人符合 Milan criteria（單顆 4.5 cm 不大於 5 cm），CTP score=10 為 Child-Pugh C 級，肝功能很差，適合考慮肝移植<br>(C) 錯誤，此病人符合 Milan criteria（3 顆腫瘤且每顆不大於 3 cm），CTP score=7 為 Child-Pugh B 級，適合考慮肝移植<br>(D) 正確，此病人腫瘤條件雖符合 Milan criteria（單顆 2.0 cm），但 CTP score=5 為 Child-Pugh A 級，肝功能良好，這種情況下應優先考慮肝切除手術或消融，單一 2 cm 以下的肝癌切除與消融的存活相當。肝切除可保留自己的肝臟，不需要終生免疫抑制劑，肝移植則保留給肝功能較差或合併臨床顯著門脈高壓而無法接受肝切除的病人，以有效利用珍貴的移植器官",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -559,7 +559,7 @@
       "D": "糖尿病患者合併腎衰竭尿毒症先接受胰臟移植（pancreas before kidney transplant, PBK）之後再等待腎臟移植"
     },
     "answer": "A",
-    "explanation": "胰臟移植有三種主要類型，各有不同的適應症和預後。<br>(A) 正確，SPK（simultaneous pancreas and kidney transplant）是最常見的胰臟移植類型，約佔所有胰臟移植的80%以上。預後也最好，原因包括：<br>· 同時移植兩個器官，只需一次手術<br>· 腎臟功能可作為胰臟排斥的監測指標（血清肌酐酸上升提示排斥）<br>· 免疫抑制方案較容易調整<br>· 1年胰臟存活率約85-90%，腎臟存活率約95%<br>· 病人5年存活率約90%<br>(B) 錯誤，PAK（pancreas after kidney transplant）約佔10-15%，預後較SPK稍差，因為已經使用免疫抑制劑，增加了致敏風險<br>(C) 錯誤，PTA（pancreas transplant alone）最少見，約佔5%以下，適用於血糖極難控制但腎功能尚可的病人。預後相對較差，且缺乏腎功能作為排斥監測指標<br>(D) 錯誤，PBK（pancreas before kidney transplant）極為少見，幾乎不施行，因為沒有優於SPK的理由",
+    "explanation": "胰臟移植依受贈者的腎臟狀況分為 SPK、PAK、PTA 等類型，各有不同的適應症和預後。<br>(A) 正確，SPK（simultaneous pancreas and kidney transplant）是最常見的胰臟移植類型，美國 2022 年 918 例胰臟移植中 SPK 占 810 例（約 88%）。預後也最好，2022 年移植者的胰臟移植物 1 年存活率為 90.8%，同時移植的腎臟 1 年存活率為 96.2%，且腎臟功能（血清肌酐酸上升）可作為胰臟排斥的監測指標<br>(B) 錯誤，PAK（pancreas after kidney transplant）2022 年僅 46 例（約 5%），1 年胰臟移植物存活率為 84.4%，是三類中最低<br>(C) 錯誤，PTA（pancreas transplant alone）2022 年為 62 例（約 7%），1 年胰臟移植物存活率為 87.5%，適用於血糖極難控制但腎功能尚可的病人，沒有腎臟移植物可作為排斥監測的指標<br>(D) 錯誤，PBK（pancreas before kidney transplant）是糖尿病合併末期腎病變、無法同時移植兩個器官時，先移植胰臟再等待腎臟的替代作法，施行極少，不是主要類別",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -1197,7 +1197,7 @@
       "D": "先前輸血導致的人類白血球抗原（human leukocyte antigen, HLA）抗體升高"
     },
     "answer": "C",
-    "explanation": "腎臟移植的免疫風險評估決定是否使用抗體誘導療法。<br>(A) 錯誤，全身性紅斑狼瘡（systemic lupus erythematosus, SLE）是免疫危險因子：<br>· 自體免疫疾病，免疫系統過度活化<br>· 可能有預存抗體（preformed antibodies）<br>· 排斥風險較高<br>· 需要較強的免疫抑制<br>(B) 錯誤，ABO血型不相容是重要的免疫危險因子：<br>· 接受者有針對捐贈者ABO抗原的抗體<br>· 需要特殊處理：血漿置換、抗體誘導療法<br>· 超急性排斥風險高<br>· 屬於高免疫風險移植<br>(C) 正確（不是免疫危險因素），嗜伊紅白血球（eosinophil）過高：<br>· 通常與過敏、寄生蟲感染或某些血液疾病有關<br>· 不是移植排斥的危險因子<br>· 不影響是否使用抗體誘導療法的決定<br>· 與移植免疫學無直接關係<br>(D) 錯誤，先前輸血導致的HLA抗體升高是免疫危險因子：<br>· Panel reactive antibody（PRA）升高<br>· 表示接受者已致敏（sensitized）<br>· 有預存的抗HLA抗體<br>· 排斥風險顯著增加<br>· 需要抗體誘導療法和更強的免疫抑制",
+    "explanation": "腎臟移植前的免疫風險評估用來決定是否給予抗體誘導療法，高免疫風險因子包括致敏（輸血、懷孕、先前移植造成 PRA 升高與 HLA 抗體）、DSA、ABO 血型不相容、再次移植與 HLA 錯配多。<br>(A) 錯誤，全身性紅斑狼瘡（systemic lupus erythematosus, SLE）為自體免疫疾病，病人較常有 PRA 偏高的致敏情形，屬於免疫危險因子之一<br>(B) 錯誤，ABO 血型不相容是重要的免疫危險因子，受贈者體內有針對捐贈者 ABO 抗原的抗體，需要去敏感處理（如血漿置換）與誘導療法，屬於高免疫風險的移植<br>(C) 正確（不是免疫危險因素），嗜伊紅白血球（eosinophil）過高多與過敏、寄生蟲感染或某些血液疾病有關，不屬於移植免疫風險評估的項目，也不影響抗體誘導療法的選擇<br>(D) 錯誤，先前輸血會使受贈者產生抗 HLA 抗體（致敏），使 PRA 升高，排斥風險增加，是免疫危險因子，高免疫風險者需要抗體誘導療法與較強的免疫抑制",
     "tags": [
       "112-1-5",
       "泌尿外科"
@@ -1214,7 +1214,7 @@
       "D": "高血壓但可以藥物控制"
     },
     "answer": "D",
-    "explanation": "腎移植前切除原有腎臟（native nephrectomy）有特定適應症。<br>(A) 錯誤，腎腫瘤需要移植前切除：<br>· 排除惡性腫瘤<br>· 避免移植後免疫抑制導致腫瘤擴散<br>· 移植後監測較困難<br>· 應在移植前或移植時切除<br>(B) 錯誤，有症狀的多囊腎（symptomatic polycystic kidneys）需要切除：<br>· 巨大多囊腎佔據空間，影響移植腎臟放置<br>· 反覆感染、出血、疼痛<br>· 可能壓迫移植腎臟影響功能<br>· 可在移植前、移植時或移植後切除<br>(C) 錯誤，反覆腎盂腎炎（recurrent pyelonephritis）需要切除：<br>· 特別是結石引起的反覆感染<br>· 移植後使用免疫抑制劑，感染更難控制<br>· 可能成為慢性感染源<br>· 影響移植腎臟和病人整體健康<br>(D) 正確（不需切除），高血壓但可以藥物控制：<br>· 單純高血壓不是native nephrectomy的適應症<br>· 移植腎臟功能恢復後，高血壓通常改善<br>· 可用藥物控制的高血壓不需要手術<br>· 大多數末期腎病病人都有高血壓<br>· 只有當高血壓是由腎素分泌過多引起且藥物無法控制時才考慮切除",
+    "explanation": "腎移植前切除原本的腎臟（native nephrectomy）有特定適應症，包括腎腫瘤、有症狀的多囊腎、反覆腎盂腎炎與感染性結石、藥物無法控制的高血壓與大量蛋白尿。<br>(A) 錯誤，腎腫瘤或疑似惡性者需要切除，以排除惡性腫瘤，避免免疫抑制後腫瘤進展，且移植後監測較困難，可在移植前或移植時切除<br>(B) 錯誤，有症狀的多囊腎（疼痛、反覆感染、出血）或巨大到使移植腎沒有放置空間者需要切除，可在移植前、移植時或移植後切除<br>(C) 錯誤，反覆腎盂腎炎需要切除，特別是結石造成的反覆感染，移植後使用免疫抑制劑會使感染更難控制，且原腎可能成為慢性感染源<br>(D) 正確（不需切除），高血壓可以藥物控制時不是原腎切除的適應症，末期腎病病人多合併高血壓，只有藥物與透析仍無法控制的高血壓才考慮切除",
     "tags": [
       "112-1-5",
       "泌尿外科"
@@ -1291,7 +1291,7 @@
       "D": "狗咬傷：amoxicillin-clavulanate"
     },
     "answer": "B",
-    "explanation": "不同動物咬傷的致病菌不同，抗生素選擇需要涵蓋相應的病原體。<br>(A) 正確，貓咬傷的抗生素選擇：<br>· Amoxicillin-clavulanate是首選<br>· 貓咬傷常見病原：Pasteurella multocida（最常見）、Staphylococcus、Streptococcus、厭氧菌<br>· 貓咬傷感染率高（30-50%）<br>· 傷口深且容易形成膿瘍<br>· Amoxicillin-clavulanate涵蓋需氧菌和厭氧菌<br>(B) 錯誤（最不適當），猴子咬傷：<br>· 與人咬傷類似，常見病原包括口腔菌群<br>· Herpes B virus（猴疱疹病毒）是特殊風險，特別是獼猴<br>· 首選抗生素應該是amoxicillin-clavulanate<br>· Fluoroquinolone對厭氧菌涵蓋不足<br>· 猴子咬傷還需考慮抗病毒治療（acyclovir或valacyclovir）<br>(C) 正確，海水魚咬傷：<br>· 常見病原：Vibrio species、Aeromonas、Mycobacterium marinum<br>· Fluoroquinolone（如ciprofloxacin）或doxycycline是首選<br>· 這些抗生素對海洋細菌有效<br>· 淡水魚咬傷也可用類似抗生素<br>(D) 正確，狗咬傷的抗生素選擇：<br>· Amoxicillin-clavulanate是首選<br>· 常見病原：Pasteurella、Staphylococcus、Streptococcus、Capnocytophaga、厭氧菌<br>· 感染率約5-15%（低於貓咬傷）<br>· 需涵蓋需氧菌和厭氧菌",
+    "explanation": "不同動物咬傷的致病菌不同，抗生素選擇需要涵蓋相應的病原體。<br>(A) 正確，貓咬傷首選 amoxicillin-clavulanate。常見病原為 Pasteurella multocida（最常見）、Staphylococcus、Streptococcus 與厭氧菌，貓牙細長容易造成深穿刺傷，感染率約 10~40%，高於狗咬傷。Amoxicillin-clavulanate 可涵蓋需氧菌與厭氧菌<br>(B) 錯誤（最不適當），猴子咬傷的口腔菌群感染以 amoxicillin-clavulanate 涵蓋，另外要考慮獼猴帶有的 herpes B virus（猴疱疹病毒），暴露後預防須加用 valacyclovir 或 acyclovir 等抗病毒藥物。Fluoroquinolone 對厭氧菌涵蓋不足，不是猴子咬傷的第一線用藥<br>(C) 正確，海水魚咬傷或海水接觸的傷口，常見病原為 Vibrio species，可選用 fluoroquinolone（如 ciprofloxacin），或 doxycycline（常合併 ceftriaxone）。淡水魚咬傷則以 Aeromonas 為主，也可用 fluoroquinolone<br>(D) 正確，狗咬傷首選 amoxicillin-clavulanate。常見病原為 Pasteurella、Staphylococcus、Streptococcus、Capnocytophaga 與厭氧菌，感染率約 6~16%，低於貓咬傷",
     "tags": [
       "112-1-5",
       "外科概論"
