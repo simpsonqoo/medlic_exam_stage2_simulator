@@ -43,7 +43,7 @@
       "D": "治療 renal cell carcinoma 可針對 vascular endothelial growth factor（VEGF）"
     },
     "answer": "A",
-    "explanation": "關鍵在於正確配對癌症類型與其相對應的標靶基因。<br>(A) 錯誤，治療 myeloma（骨髓瘤）不針對 Bcr-Abl 基因：<br>· Bcr-Abl 融合基因是慢性骨髓性白血病（chronic myeloid leukemia, CML）的標靶<br>· 使用酪胺酸激酶抑制劑（tyrosine kinase inhibitor）如 imatinib<br>· 骨髓瘤（multiple myeloma）的標靶治療包括蛋白酶體抑制劑（proteasome inhibitors）如 bortezomib、免疫調節劑（immunomodulatory drugs）等<br>(B) 正確，大腸癌（colorectal cancer）可針對 EGFR：<br>· 使用單株抗體如 cetuximab、panitumumab<br>· 適用於 KRAS、NRAS 野生型的轉移性大腸癌<br>(C) 正確，乳癌（breast cancer）可針對 HER2：<br>· HER2 陽性乳癌約佔 15-20%<br>· 使用 trastuzumab（Herceptin）、pertuzumab 等標靶藥物<br>(D) 正確，腎細胞癌（renal cell carcinoma）可針對 VEGF：<br>· 使用 bevacizumab、sunitinib、pazopanib 等抗血管新生藥物<br>· VEGF 抑制劑可減少腫瘤血管新生",
+    "explanation": "關鍵在於正確配對癌症類型與其相對應的標靶。<br>(A) 錯誤，Bcr-Abl 融合基因（費城染色體）是慢性骨髓性白血病（chronic myeloid leukemia, CML）的標靶，使用酪胺酸激酶抑制劑如 imatinib、dasatinib、nilotinib。多發性骨髓瘤（multiple myeloma）的標靶治療包括蛋白酶體抑制劑 bortezomib、carfilzomib，以及抗 CD38 單株抗體 daratumumab，常合併免疫調節劑 lenalidomide 與 dexamethasone<br>(B) 正確，大腸直腸癌可針對 EGFR，使用單株抗體 cetuximab、panitumumab，適用於 RAS（KRAS、NRAS）野生型的轉移性大腸直腸癌<br>(C) 正確，HER2 過度表現約占乳癌的 15~20%，可使用 trastuzumab、pertuzumab 等 HER2 標靶藥物<br>(D) 正確，腎細胞癌可針對 VEGF 路徑，使用 VEGFR 多激酶抑制劑如 sunitinib、pazopanib、axitinib、cabozantinib 等抗血管新生藥物，bevacizumab 合併 interferon alfa 亦為核可的適應症。現行轉移性腎細胞癌的第一線治療多以免疫檢查點抑制劑合併 VEGFR 多激酶抑制劑，或兩種免疫檢查點抑制劑併用為主",
     "tags": [
       "111-2-5",
       "外科概論"
@@ -970,7 +970,7 @@
       "D": "應立即放置導尿管（Foley catheter)，確保並有效監控靜脈輸液量及電解質平衡"
     },
     "answer": "D",
-    "explanation": "關鍵在於尿道口有血跡提示尿道損傷禁止立即放置導尿管。<br>(A) 正確，應確保呼吸道通暢並建立靜脈通路。ATLS 初級評估為 ABCDE 包括 A 確保呼吸道通暢考慮頸椎保護、B 給氧評估呼吸、C 控制出血建立靜脈通路。低血壓 90/50 心跳加速 110 提示失血性休克，建立兩條大管徑靜脈導管 14 至 16 gauge 快速輸液復甦使用晶體溶液如生理食鹽水或 Ringer's lactate、準備輸血使用大量輸血協定<br>(B) 正確，應排除氣血胸和腹腔內出血。呼吸急促可能有氣胸、血胸、肺挫傷，腹部鼓脹可能有腹腔內出血如肝、脾、腸繫膜損傷。檢查包括胸部 X 光評估氣血胸、FAST 快速評估腹腔、心包膜積液、Diagnostic peritoneal lavage 若無超音波可用、腹部 CT 若血流動力學穩定。若腹腔內大量出血且血壓不穩需緊急剖腹探查<br>(C) 正確，應懷疑骨盆骨折並早期使用骨盆加壓帶。雙側下肢不等長提示骨盆骨折或髖關節脫臼，骨盆骨折常見於高能量外傷如被輾壓。可能導致大量後腹腔出血如靜脈叢、骨折面滲血，骨盆加壓帶應早期使用在黃金一小時內位置在大轉子高度。作用是穩定骨盆、減少出血、止痛，是暫時措施之後可能需要外固定或手術。其他處理包括血管攝影栓塞若持續出血、外固定器<br>(D) 錯誤，尿道口有血跡時不應立即放置導尿管。尿道口有血跡是尿道損傷的重要徵象，其他尿道損傷徵象包括會陰血腫、前列腺上移、無法解尿。骨盆骨折容易合併尿道損傷，禁忌盲目放置導尿管會加重尿道損傷造成尿道完全斷裂導致尿道狹窄、陽痿等併發症。正確處理是先做逆行性尿道攝影確認尿道完整性，若尿道損傷放置恥骨上膀胱造口管、延遲性尿道修補數月後。監測尿量可用其他方法觀察自發解尿、恥骨上導管",
+    "explanation": "關鍵在於尿道口有血跡提示尿道損傷，不可立即放置導尿管。<br>(A) 正確，應確保呼吸道通暢並建立靜脈通路。ATLS 初級評估依 xABCDE 進行，A 確保呼吸道通暢並保護頸椎，B 給氧並評估呼吸，C 控制出血並建立靜脈通路。血壓 90/50 mmHg、心跳 110 次/分提示失血性休克，應建立兩條大管徑靜脈導管，盡早輸血，必要時啟動大量輸血協定。目前 ATLS 強調盡早使用血品並減少晶質液<br>(B) 正確，應排除氣血胸與腹腔內出血。呼吸急促可能為氣胸、血胸或肺挫傷，腹部鼓脹可能為肝、脾或腸繫膜損傷造成的腹腔內出血。檢查包括以胸部 X 光評估氣血胸，以 FAST 評估腹腔與心包膜積液。FAST 無法使用或結果不明時可做 DPL，合併骨盆骨折時 DPL 採臍上開放式切口，以避開骨盆後腹腔血腫。血流動力學穩定時可做腹部 CT，腹腔內大量出血且血壓不穩時需緊急剖腹探查<br>(C) 正確，應懷疑骨盆骨折並早期使用骨盆固定帶。雙側下肢不等長提示骨盆骨折或髖關節脫臼，骨盆骨折常見於被輾壓等高能量外傷，可造成靜脈叢與骨折面的大量後腹腔出血。骨盆固定帶綁在大轉子高度，可穩定骨盆、縮小骨盆容積、減少出血並止痛，屬暫時措施。持續出血時再考慮血管攝影栓塞、腹膜前骨盆填塞或外固定<br>(D) 錯誤，尿道口有血跡時不應立即放置導尿管。尿道口出血是尿道損傷的重要徵象，其他徵象包括會陰血腫、無法排尿及肛門指診攝護腺位置高。骨盆骨折容易合併尿道損傷，盲目放置導尿管可能使部分斷裂變成完全斷裂，造成尿道狹窄、陽痿等併發症。正確處理是先做逆行性尿道攝影確認尿道完整性，尿道斷裂時放置恥骨上膀胱造口，延遲 8~12 週後再做尿道重建。尿量可由恥骨上導管監測",
     "tags": [
       "111-2-5",
       "骨科"

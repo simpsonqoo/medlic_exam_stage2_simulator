@@ -26,7 +26,7 @@
       "D": "在做disability及exposure，要評估病患的Glasgow Coma Scale（GCS）及可能存在的hypothermia"
     },
     "answer": "B",
-    "explanation": "創傷初期評估（ATLS primary survey）強調的是「先治療再診斷」，尤其對於立即危及生命的狀況必須即時介入，不可因等待影像確診而延誤處置。<br>(A) 正確，Primary survey第一步確認呼吸道（airway）暢通，並須同時保護頸椎（cervical spine protection）<br>(B) 錯誤，懷疑張力性氣胸（tension pneumothorax）時，不應等待X光確認，應立即進行針刺減壓（needle decompression）或插胸管（chest tube），延誤處置可能致死；氣管偏向健側、患側呼吸音消失等臨床徵象即為診斷依據<br>(C) 正確，循環（circulation）評估時可使用超音波（FAST, focused assessment with sonography in trauma）快速偵測腹腔內出血<br>(D) 正確，disability評估格拉斯哥昏迷量表（Glasgow Coma Scale, GCS）、瞳孔反應；exposure評估時需注意低體溫（hypothermia）",
+    "explanation": "創傷初期評估（ATLS primary survey）強調先治療再診斷，立即危及生命的狀況必須即時處置，不可因等待影像確診而延誤。ATLS 第 11 版的初級評估順序為 xABCDE，x 為致命性外出血，其後依序為呼吸道、呼吸、循環、神經學評估與暴露。<br>(A) 正確，初級評估確認呼吸道是否暢通，並同時以頸圈與徒手固定保護頸椎。第 11 版在呼吸道之前加入致命性外出血的控制，但本題公告視為正確<br>(B) 錯誤，懷疑張力性氣胸（tension pneumothorax）屬臨床診斷，不應等待胸部 X 光確認。氣管偏向健側、患側呼吸音消失、頸靜脈怒張與低血壓即為診斷依據，應立即針刺減壓（成人於第 4~5 肋間腋前線至腋中線）或手指胸廓造口術，再放置胸管，延誤處置可能致死<br>(C) 正確，循環（circulation）評估時可使用 FAST（focused assessment with sonography in trauma）快速偵測腹腔內出血<br>(D) 正確，disability 評估格拉斯哥昏迷量表（Glasgow Coma Scale, GCS）與瞳孔反應，exposure 需脫除衣物完整檢查並預防低體溫（hypothermia）",
     "tags": [
       "110-2-5",
       "外科概論"
@@ -112,7 +112,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "本題答案為「一律給分」，表示各選項之間存在爭議或原始出題有誤，以下仍就各選項做說明。<br>(A) 第一級（Grade I）的定義為包膜下血腫（subcapsular hematoma）面積小於10%，及/或裂傷（laceration）深度小於1 cm，敘述大致正確<br>(B) 第三級（Grade III）為裂傷深度超過3 cm（或穿透肝實質），敘述正確<br>(C) 第五級（Grade V）為肝靜脈或下腔靜脈之血管損傷，並非「整個肝葉包膜下血腫」；整個肝葉血腫較接近Grade III～IV的範疇，敘述有誤<br>(D) AAST肝臟創傷分級共六級（Grade I～VI），並非五級，第六級為肝臟剝離（hepatic avulsion），敘述錯誤",
+    "explanation": "本題公告答案為一律給分。以下依 2018 修訂版 AAST 肝臟損傷分級（Kozar 等）說明各選項。<br>(A) 第 I 級為包膜下血腫小於 10% 表面積，及/或包膜撕裂且實質深度小於 1 cm，敘述正確<br>(B) 實質裂傷深度大於 3 cm 為第 III 級，敘述正確<br>(C) 包膜下血腫大於 50% 表面積為第 III 級。第 V 級為實質破壞大於 75% 肝葉，或肝旁靜脈損傷（肝後下腔靜脈、中央主要肝靜脈），整個肝葉被包膜下血腫覆蓋不屬於第 V 級，敘述有誤，依此版為唯一的錯誤敘述，與公告一律給分不同<br>(D) 正確，2018 修訂版 AAST 肝臟損傷分級為 I~V 級，共五級",
     "tags": [
       "110-2-5",
       "肝膽胰外科"
@@ -1317,7 +1317,7 @@
       "D": "十二指腸"
     },
     "answer": "D",
-    "explanation": "Chance骨折（Chance fracture）是安全帶損傷的典型骨折，了解此骨折機轉與腹腔臟器的解剖位置關係，可預測最可能合併受傷的臟器。<br>Chance骨折為腰椎屈曲牽張型骨折（flexion-distraction injury），常發生於安全帶外傷，腹壁帶狀瘀青（seat belt sign）合併此骨折時，高度懷疑腹腔臟器損傷，尤其是腹膜後的固定臟器。<br>(A) 錯誤，胃（stomach）位置較高（上腹部），且有一定活動度，安全帶外傷較少直接傷及胃部<br>(B) 錯誤，脾臟（spleen）位於左上腹，外傷受傷機轉通常為左側直接撞擊，不是Chance骨折最典型的合併傷<br>(C) 錯誤，橫結腸（transverse colon）雖位於腹部中央，但相較於十二指腸，受Chance骨折合併傷的機率較低<br>(D) 正確，十二指腸（duodenum）第二、三段固定於腹膜後（retroperitoneal），位於L1～L2椎體前方，安全帶的屈曲壓迫力直接作用於脊椎前方的腹膜後臟器，十二指腸是Chance骨折最常合併受傷的臟器，其次為空腸近端及胰臟",
+    "explanation": "Chance 骨折（Chance fracture）是安全帶損傷的典型骨折，為腰椎屈曲牽張型骨折（flexion-distraction injury）。腹壁出現帶狀瘀青（seat belt sign）合併此骨折時，高度懷疑腹內損傷，常見的合併傷有腸繫膜撕裂、小腸或結腸破裂，以及十二指腸與胰臟等後腹膜固定臟器的損傷。<br>(A) 錯誤，胃位於上腹部且活動度較大，不是安全帶損傷的典型合併傷<br>(B) 錯誤，脾臟位於左上腹，外傷多為左側直接撞擊造成，不是安全帶損傷的典型合併傷<br>(C) 錯誤，橫結腸活動度較大，安全帶損傷可造成腸破裂或腸繫膜撕裂，但選項中十二指腸固定於後腹膜，屈曲牽張時直接被壓向脊椎，較符合題意<br>(D) 正確，十二指腸第二至第三段固定於後腹膜，位於約 L1~L3 椎體前方，安全帶的屈曲壓迫力使它被壓向脊椎而受傷，常與胰臟損傷並存。後腹膜氣體與血清澱粉酶升高為診斷線索",
     "tags": [
       "110-2-5",
       "消化外科"
