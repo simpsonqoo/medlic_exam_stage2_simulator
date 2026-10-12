@@ -502,7 +502,7 @@
       "D": "Meckel's diverticulum"
     },
     "answer": "B",
-    "explanation": "小腸出血的診斷和治療具有挑戰性，因為小腸位置深且傳統內視鏡難以到達。<br>(A) 錯誤，小腸腫瘤（如腺癌、類癌、淋巴瘤）可引起出血，但相對少見<br>(B) 正確，血管發育不良（angiodysplasias）是成人小腸出血最常見的原因，特別是老年人。這是黏膜下層異常擴張的血管，容易破裂出血。常見於右側結腸和小腸，與年齡、主動脈瓣狹窄、慢性腎病等有關<br>(C) 錯誤，克隆氏症（Crohn's disease）可引起小腸出血，但通常不是大量出血，較常表現為慢性貧血<br>(D) 錯誤，梅克爾憩室（Meckel's diverticulum）是小兒和年輕成人小腸出血的重要原因，但在所有年齡層中不是最常見的",
+    "explanation": "小腸出血的診斷和治療具有挑戰性，因為小腸位置深且傳統內視鏡難以到達。<br>(A) 錯誤，小腸腫瘤（如腺癌、類癌、GIST、淋巴瘤）是 40 歲以上小腸出血的原因之一，但發生率不及血管發育不良<br>(B) 正確，血管發育不良（angiodysplasia）是小腸出血最常見的原因，特別是老年人。這是黏膜下層異常擴張的血管，容易破裂出血。與年齡、主動脈瓣狹窄、慢性腎病、von Willebrand 疾病等有關<br>(C) 錯誤，克隆氏症（Crohn's disease）是 40 歲以下小腸出血的重要原因，但整體而言不是最常見<br>(D) 錯誤，梅克爾憩室（Meckel's diverticulum）是小兒和年輕成人小腸出血的重要原因，但在所有年齡層中不是最常見的",
     "tags": [
       "113-1-5",
       "消化外科"
@@ -868,7 +868,7 @@
       "D": "gluteus maximus muscle"
     },
     "answer": "D",
-    "explanation": "骨盆底肌肉（提肛肌levator ani muscle group）支撐骨盆內器官。<br>骨盆底肌肉（提肛肌）組成：<br>· Puborectalis muscle（恥骨直腸肌）<br>· Pubococcygeus muscle（恥骨尾骨肌）<br>· Iliococcygeus muscle（髂骨尾骨肌）<br>(A)(B)(C) 正確，這三條肌肉都是提肛肌的組成部分<br>(D) 錯誤，臀大肌（gluteus maximus）是臀部肌肉，負責髖關節伸展和外旋，不屬於骨盆底肌肉群",
+    "explanation": "骨盆底肌肉（提肛肌levator ani muscle group）支撐骨盆內器官，由恥骨直腸肌（puborectalis）、恥骨尾骨肌（pubococcygeus）與髂骨尾骨肌（iliococcygeus）組成。<br>(A)(B)(C) 正確，這三條肌肉都是提肛肌的組成部分<br>(D) 錯誤，臀大肌（gluteus maximus）是臀部肌肉，負責髖關節伸展和外旋，不屬於骨盆底肌肉群",
     "tags": [
       "113-1-5",
       "大腸直腸外科"

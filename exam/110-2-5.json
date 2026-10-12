@@ -832,7 +832,7 @@
       "D": "sigmoid colon wall比descending colon薄，所以sigmoid colon較常發生perforation"
     },
     "answer": "D",
-    "explanation": "大腸各段的解剖特性及好發穿孔部位需正確理解，乙狀結腸穿孔常見有其特殊的解剖與功能原因。<br>(A) 正確，闌尾基部（base of appendix）位於盲腸三條結腸帶（taeniae coli）的聚合處，手術中可以此定位闌尾<br>(B) 正確，特雷夫斯皺褶（fold of Treves），即迴盲皺褶（ileocecal fold），是手術中尋找闌尾的重要解剖標誌<br>(C) 正確，直腸（rectum）沒有結腸帶（taeniae coli）也沒有腸脂垂（epiploic appendices），這是直腸與結腸的重要解剖區別<br>(D) 錯誤，乙狀結腸較常發生穿孔的原因並非腸壁較薄，而是因為乙狀結腸管腔較窄、糞便在此段固化且壓力較高（依Laplace定律，管徑越小腔內壓越高），容易在憩室（diverticulum）或腫瘤阻塞處發生穿孔，與腸壁厚度無直接關係",
+    "explanation": "大腸各段的解剖特性及好發穿孔部位需正確理解。<br>(A) 正確，闌尾基部（base of appendix）位於盲腸三條結腸帶（taeniae coli）的聚合處，手術中可以此定位闌尾<br>(B) 正確，特雷夫斯皺褶（fold of Treves），即迴盲皺褶（ileocecal fold），是手術中尋找闌尾的重要解剖標誌<br>(C) 正確，直腸（rectum）沒有結腸帶（taeniae coli）也沒有腸脂垂（epiploic appendices），這是直腸與結腸的重要解剖區別<br>(D) 錯誤，大腸管徑最大、腸壁最薄的部位是盲腸，依 Laplace 定律管徑愈大壁張力愈高，遠端阻塞時盲腸最易穿孔。乙狀結腸是大腸管徑最窄的部位，其穿孔多與憩室炎或腫瘤有關",
     "tags": [
       "110-2-5",
       "大腸直腸外科"
@@ -849,7 +849,7 @@
       "D": "抽菸不會增加克隆氏症復發的機率"
     },
     "answer": "B",
-    "explanation": "發炎性腸道疾病（inflammatory bowel disease, IBD）兩大類型的臨床特徵、病灶分布及腸道外表徵各有差異，是考試常見比較題型。<br>(A) 錯誤，潰瘍性結腸炎（UC）病灶僅限於大腸（結腸及直腸），不會有小腸病灶（除非是回腸末端逆行性發炎，即backwash ileitis，屬輕微例外）；反而是克隆氏症（CD）可侵犯從口腔到肛門的任何腸道節段，包含小腸，兩者敘述完全相反<br>(B) 正確，克隆氏症（CD）因其全層性（transmural）發炎特性，容易形成瘻管（fistula），包括肛門廔管（perianal fistula）、腸腸廔管（entero-enteric fistula）及腸皮廔管（enterocutaneous fistula），是CD的典型特徵<br>(C) 錯誤，原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）是潰瘍性結腸炎（UC）最常見且最具特異性的腸道外表徵，而非克隆氏症<br>(D) 錯誤，抽菸（smoking）會增加克隆氏症的復發率及惡化風險；有趣的是，抽菸對潰瘍性結腸炎有某種程度的保護效果，兩者關係相反",
+    "explanation": "發炎性腸道疾病（inflammatory bowel disease, IBD）兩大類型的臨床特徵、病灶分布及腸道外表徵各有差異，是考試常見比較題型。<br>(A) 錯誤，潰瘍性結腸炎（UC）病灶僅限於大腸（結腸及直腸），不會有小腸病灶（除非是回腸末端逆行性發炎，即backwash ileitis，屬輕微例外）。反而是克隆氏症（CD）可侵犯從口腔到肛門的任何腸道節段，包含小腸，兩者敘述完全相反<br>(B) 正確，克隆氏症（CD）因其全層性（transmural）發炎特性，容易形成瘻管（fistula），包括肛門廔管（perianal fistula）、腸腸廔管（entero-enteric fistula）及腸皮廔管（enterocutaneous fistula），是CD的典型特徵<br>(C) 錯誤，原發性硬化性膽管炎（primary sclerosing cholangitis, PSC）是潰瘍性結腸炎（UC）最常見且最具特異性的腸道外表徵，而非克隆氏症<br>(D) 錯誤，抽菸（smoking）會增加克隆氏症的復發率及惡化風險，而抽菸對潰瘍性結腸炎有某種程度的保護效果，兩者關係相反",
     "tags": [
       "110-2-5",
       "大腸直腸外科"

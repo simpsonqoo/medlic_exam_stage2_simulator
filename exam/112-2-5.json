@@ -851,7 +851,7 @@
       "D": "空腸腸繫膜膿瘍（jejunal mesenteric abscess）"
     },
     "answer": "C",
-    "explanation": "此病患有大腸憩室炎病史，現在出現急性左下腹痛、發燒、白血球和發炎指數升高。<br>(A) 錯誤，缺血性腸壞死（ischemic bowel）通常表現為突發性劇烈腹痛、血便、腹部柔軟（early stage），較少有局部性硬塊，且通常發生在血管分布的分水嶺區域（splenic flexure、sigmoid-rectal junction）<br>(B) 錯誤，乙狀結腸扭轉（sigmoid volvulus）表現為急性腸阻塞症狀（腹脹、無排氣排便、絞痛），X光可見「咖啡豆徵」（coffee bean sign），較少有發燒和局部性腹膜炎<br>(C) 正確，此病患符合急性憩室炎併發症的表現：<br>· 左下腹痛（sigmoid colon位於左下腹）<br>· 發燒38.5℃<br>· 白血球升高（19,310）和CRP顯著升高（196，正常＜10）<br>· 左下腹可觸摸硬塊（膿瘍）<br>· 局部性腹膜炎<br>· 有憩室炎病史<br>· 憩室炎依Hinchey分類，有膿瘍形成屬於Hinchey stage II-III<br>(D) 錯誤，空腸腸繫膜膿瘍（jejunal mesenteric abscess）位於上腹部或中腹部，不會在左下腹<br>Hinchey分類：I（pericolic abscess）、II（pelvic/distant abscess）、III（purulent peritonitis）、IV（fecal peritonitis）。<br>治療：抗生素治療，若膿瘍＞3-4 cm考慮引流，嚴重時需手術。",
+    "explanation": "此病患有大腸憩室炎病史，現在出現急性左下腹痛、發燒、白血球和發炎指數升高，左下腹摸到硬塊並有局部性腹膜炎，CT 可見乙狀結腸周圍發炎腫塊。<br>(A) 錯誤，缺血性腸壞死（ischemic bowel）通常表現為突發性劇烈腹痛、血便、腹部柔軟（early stage），較少有局部性硬塊，且通常發生在血管分布的分水嶺區域（splenic flexure、sigmoid-rectal junction）<br>(B) 錯誤，乙狀結腸扭轉（sigmoid volvulus）表現為急性腸阻塞症狀（腹脹、無排氣排便、絞痛），X光可見「咖啡豆徵」（coffee bean sign），較少有發燒和局部性腹膜炎<br>(C) 正確，此病患符合急性憩室炎併發膿瘍的表現。左下腹痛（乙狀結腸位於左下腹）、發燒 38.5℃、白血球升高（19,310/mm3）、CRP 顯著升高（196，正常 &lt; 10 mg/L）、左下腹可摸到硬塊（膿瘍）及局部性腹膜炎，加上有憩室炎病史。依 Hinchey 分類，局限於結腸旁的膿瘍屬 Stage I，延伸到骨盆腔或遠處的膿瘍屬 Stage II，Stage III 才是廣泛性化膿性腹膜炎<br>(D) 錯誤，空腸腸繫膜膿瘍（jejunal mesenteric abscess）位於上腹部或中腹部，不會在左下腹<br>Hinchey 分類：I（pericolic abscess）、II（pelvic/distant abscess）、III（purulent peritonitis）、IV（fecal peritonitis）。<br>治療：有膿瘍時以抗生素搭配影像導引經皮引流（膿瘍約 &gt; 4 cm 考慮引流），有腹膜炎、引流失敗或惡化時需手術。",
     "tags": [
       "112-2-5",
       "大腸直腸外科"
@@ -871,7 +871,7 @@
       "D": "middle rectal artery"
     },
     "answer": "D",
-    "explanation": "下腸繫膜動脈（inferior mesenteric artery, IMA）供應左側結腸、乙狀結腸和上段直腸。<br>(A) 錯誤，左結腸動脈（left colic artery）是IMA的第一條分支，供應降結腸（descending colon）和左側橫結腸<br>(B) 錯誤，乙狀結腸動脈（sigmoid artery）是IMA的分支，通常有2-3條，供應乙狀結腸<br>(C) 錯誤，上直腸動脈（superior rectal artery）是IMA的終末分支，供應上段和中段直腸<br>(D) 正確，中直腸動脈（middle rectal artery）起源於內髂動脈（internal iliac artery）的前幹，供應中段直腸<br>腸道血液供應：<br>· 上腸繫膜動脈（SMA）：小腸、盲腸、升結腸、橫結腸右2/3<br>· 下腸繫膜動脈（IMA）：橫結腸左1/3、降結腸、乙狀結腸、上段直腸<br>· 內髂動脈：中段和下段直腸（middle and inferior rectal arteries）",
+    "explanation": "下腸繫膜動脈（inferior mesenteric artery, IMA）供應左側結腸、乙狀結腸和上段直腸。<br>(A) 錯誤，左結腸動脈（left colic artery）是IMA的第一條分支，供應降結腸（descending colon）和橫結腸遠端1/3<br>(B) 錯誤，乙狀結腸動脈（sigmoid artery）是IMA的分支，通常有2~3條，供應乙狀結腸<br>(C) 錯誤，上直腸動脈（superior rectal artery）是IMA的終末分支，供應上段和中段直腸<br>(D) 正確，中直腸動脈（middle rectal artery）起源於內髂動脈（internal iliac artery）的前幹，供應中段直腸<br>腸道血液供應：上腸繫膜動脈（SMA）供應小腸、盲腸、升結腸與橫結腸近端2/3，下腸繫膜動脈（IMA）供應橫結腸遠端1/3、降結腸、乙狀結腸與上段直腸，內髂動脈的分支（中直腸動脈）與內陰部動脈的分支（下直腸動脈）供應中段和下段直腸。",
     "tags": [
       "112-2-5",
       "大腸直腸外科"

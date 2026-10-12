@@ -857,7 +857,7 @@
       "D": "克隆氏症（Crohn's disease）引起之腸皮瘻管（enterocutaneous fistula）可以接受手術治療"
     },
     "answer": "C",
-    "explanation": "潰瘍性結腸炎和克隆氏症的治療策略有重要差異。<br>(A) 正確，潰瘍性結腸炎（ulcerative colitis, UC）如藥物治療效果不佳的手術適應症包括：<br>· 急性嚴重發作對藥物無反應<br>· 慢性活動性疾病影響生活品質<br>· 發育不良（dysplasia）或癌症<br>· 藥物副作用無法耐受<br>(B) 正確，UC的手術選擇包括：<br>· Total proctocolectomy with end ileostomy：切除全部結腸和直腸，做永久性迴腸造口<br>· Total proctocolectomy with ileal pouch-anal anastomosis（IPAA）：保留肛門，重建儲存袋<br>· 手術可根治UC（因為只侵犯結腸）<br>(C) 錯誤，克隆氏症的治療原則：<br>· 以藥物治療為主（免疫調節劑、生物製劑）<br>· 手術不是主要治療，僅用於併發症<br>· 手術適應症：腸阻塞、瘻管、膿瘍、藥物無效的嚴重症狀<br>· 切除發炎腸段無法根治，因為Crohn's disease可侵犯整個消化道<br>· 術後復發率高（50-70%在10年內）<br>· 手術原則是盡量保留腸道長度，只切除必要的部分<br>(D) 正確，Crohn's disease引起的腸皮瘻管可接受手術治療，特別是：<br>· 高輸出量瘻管<br>· 保守治療失敗<br>· 合併膿瘍<br>· 嚴重影響生活品質<br>· 手術包括瘻管切除和腸段切除",
+    "explanation": "潰瘍性結腸炎和克隆氏症的治療策略有重要差異。<br>(A) 正確，潰瘍性結腸炎（ulcerative colitis, UC）藥物治療無效時可安排手術，適應症包括急性嚴重發作對藥物無反應，慢性活動性疾病藥物難治（含類固醇依賴或藥物副作用無法耐受），發育不良（dysplasia）或癌症，兒童還包括生長遲滯<br>(B) 正確，UC 的手術包括全大腸直腸切除合併永久迴腸造口（total proctocolectomy with end ileostomy），以及全大腸直腸切除合併迴腸儲袋肛門吻合（IPAA，可保留肛門）。因為病灶只侵犯大腸與直腸，手術可根治 UC 的腸道疾病<br>(C) 錯誤，克隆氏症的治療以藥物為主（免疫調節劑、生物製劑），手術只用於併發症，例如腸阻塞、瘻管、膿瘍、穿孔、癌，以及藥物無效的嚴重症狀。切除發炎腸段無法根治，因為病灶可侵犯整個消化道，術後復發率高。手術原則是盡量保留腸道長度，只切除必要的部分<br>(D) 正確，克隆氏症引起的腸皮瘻管可接受手術治療，例如高輸出量瘻管、保守治療失敗、合併膿瘍或嚴重影響生活品質者，手術方式為切除瘻管所在的腸段",
     "tags": [
       "112-1-5",
       "大腸直腸外科"
@@ -891,7 +891,7 @@
       "D": "sciatic nerve"
     },
     "answer": "C",
-    "explanation": "肛管的神經支配對於手術和疼痛管理很重要。<br>(A) 錯誤，obturator nerve（閉孔神經）支配大腿內收肌群和大腿內側皮膚感覺，不支配肛管<br>(B) 錯誤，femoral nerve（股神經）支配大腿前側肌肉和皮膚感覺，不支配肛管<br>(C) 正確，pudendal nerve（陰部神經）提供肛管的感覺神經支配：<br>· 起源於S2-S4神經根<br>· 經Alcock's canal進入會陰部<br>· 分支包括inferior rectal nerve（下直腸神經）支配肛管下半部<br>· 提供齒狀線（dentate line）以下的感覺<br>· 齒狀線以上由自律神經支配，無痛覺<br>· 這解釋了為何內痔不痛但外痔會痛<br>(D) 錯誤，sciatic nerve（坐骨神經）支配大腿後側和小腿，不直接支配肛管",
+    "explanation": "肛管的神經支配對於手術和疼痛管理很重要。<br>(A) 錯誤，obturator nerve（閉孔神經）支配大腿內收肌群和大腿內側皮膚感覺，不支配肛管<br>(B) 錯誤，femoral nerve（股神經）支配大腿前側肌肉和皮膚感覺，不支配肛管<br>(C) 正確，pudendal nerve（陰部神經）起源於S2~S4神經根，經Alcock's canal進入會陰部，其分支inferior rectal nerve（下直腸神經）提供齒狀線（dentate line）以下肛管的感覺。齒狀線以上由自律神經支配而無痛覺，這解釋了為何內痔不痛而外痔會痛<br>(D) 錯誤，sciatic nerve（坐骨神經）支配大腿後側和小腿，不直接支配肛管",
     "tags": [
       "112-1-5",
       "大腸直腸外科"
