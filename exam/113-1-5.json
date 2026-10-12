@@ -111,7 +111,7 @@
       "D": "鎂（Mg）"
     },
     "answer": "C",
-    "explanation": "Billroth II手術是胃遠端切除後將殘胃與空腸吻合，繞過十二指腸。<br>(C) 正確，Billroth II手術繞過十二指腸（duodenum），而十二指腸是鈣質吸收的主要部位。胃切除後胃酸分泌減少也會影響鈣的吸收，容易導致低血鈣（hypocalcemia）和骨質疏鬆，需要補充鈣質和維生素D<br>(A)(B)(D) 錯誤，雖然可能有電解質不平衡，但不是特別需要補充的",
+    "explanation": "Billroth II手術是胃遠端切除後將殘胃與空腸吻合，繞過十二指腸。<br>(C) 正確，Billroth II 手術繞過十二指腸（duodenum），而十二指腸是鈣吸收的主要部位，胃酸減少也使鈣吸收下降，維生素 D 的吸收同樣減少，長期可造成骨質疏鬆與骨軟化，需要補充鈣與維生素 D<br>(A)(B)(D) 錯誤，雖然可能有電解質不平衡，但不是特別需要補充的",
     "tags": [
       "113-1-5",
       "消化外科"
@@ -519,7 +519,7 @@
       "D": "內視鏡胃內水球置放術（BIB）"
     },
     "answer": "B",
-    "explanation": "減重手術可分為：侷限型（restriction，減少胃容量）、吸收不良型（malabsorption，繞過小腸）、或兩者混合型。<br>(A) 錯誤，調節式胃束帶（adjustable gastric banding, AGB）純粹是侷限型手術，用束帶限制胃的入口，減少食量<br>(B) 正確，Roux-en-Y胃繞道手術（RYGB）同時具有：<br>· 侷限作用：製造小胃囊（約30 mL）<br>· 吸收不良作用：繞過部分十二指腸和近端空腸，減少營養吸收<br>因此是混合型手術<br>(C) 錯誤，垂直束帶胃成形術（vertical banded gastroplasty）主要是侷限型手術<br>(D) 錯誤，胃內水球（balloon）是暫時性的侷限型裝置，通常放置6個月後需移除",
+    "explanation": "減重手術可分為：侷限型（restriction，減少胃容量）、吸收不良型（malabsorption，繞過小腸）、或兩者混合型。<br>(A) 錯誤，調節式胃束帶（adjustable gastric banding, AGB）純粹是侷限型手術，用束帶限制胃的入口，減少食量<br>(B) 正確，Roux-en-Y 胃繞道手術（RYGB）同時具有侷限作用（製造約 30 mL 的小胃囊）與吸收不良作用（繞過十二指腸和近端空腸），因此是混合型手術<br>(C) 錯誤，垂直束帶胃成形術（vertical banded gastroplasty）主要是侷限型手術<br>(D) 錯誤，胃內水球（balloon）是暫時性的侷限型裝置，通常放置6個月後需移除",
     "tags": [
       "113-1-5",
       "消化外科"
@@ -570,7 +570,7 @@
       "D": "type III 胃神經內分泌腫瘤預後最差"
     },
     "answer": "A",
-    "explanation": "胃神經內分泌腫瘤（gastric NET）依據病因和病理分為三型。<br>(A) 錯誤，胃神經內分泌腫瘤是由腸嗜鉻細胞（enterochromaffin-like cells, ECL cells）增生形成的，而非Cajal間質細胞（interstitial cells of Cajal）。Cajal間質細胞是腸道的節律細胞（pacemaker），其異常增生形成的是胃腸道間質瘤（GIST）<br>(B) 正確，Type II胃NET與多發性內分泌腫瘤第一型（MEN-I）和Zollinger-Ellison症候群有關<br>(C) 正確，局部的胃NET（特別是Type I和II，通常<1-2 cm）治療以完全切除為主，可使用內視鏡切除<br>(D) 正確，Type III胃NET是散發性的神經內分泌癌，惡性度高、容易轉移，預後最差<br>分類：<br>· Type I：與萎縮性胃炎、惡性貧血有關，最常見（70-80%），預後最好<br>· Type II：與MEN-I、Zollinger-Ellison症候群有關（5-10%）<br>· Type III：散發性，惡性度高（15-20%），預後最差",
+    "explanation": "胃神經內分泌腫瘤（gastric NET）依病因分為三型，起源皆為腸嗜鉻樣細胞（enterochromaffin-like cell, ECL cell）。<br>(A) 錯誤，胃神經內分泌腫瘤由 ECL 細胞增生形成，而非 Cajal 間質細胞（interstitial cell of Cajal）。Cajal 間質細胞是腸道的節律細胞（pacemaker），其異常增生形成的是胃腸道間質瘤（GIST）<br>(B) 正確，Type II 胃 NET 與 Zollinger-Ellison 症候群及多發性內分泌腫瘤第一型（MEN1）有關<br>(C) 正確，局限的胃 NET 以完整切除為主，Type I 的小病灶可用內視鏡切除，Type III 則依腫瘤大小與浸潤深度選擇內視鏡切除或手術<br>(D) 正確，Type III 胃 NET 為散發性，不伴高胃泌素血症，轉移率最高（可達 50%），預後最差<br>Type I：與慢性萎縮性胃炎有關，最常見（70~80%），轉移率低於 5%，預後最好。<br>Type II：與 Zollinger-Ellison 症候群及 MEN1 有關（5~10%），轉移率 10~30%。<br>Type III：散發性，胃泌素正常（15~20%），預後最差。",
     "tags": [
       "113-1-5",
       "消化外科"
