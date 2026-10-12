@@ -60,7 +60,7 @@
       "D": "十二指腸壺腹處"
     },
     "answer": "A",
-    "explanation": "Klatskin tumor是膽道癌（cholangiocarcinoma）的一個特定類型，以其好發位置命名。<br>(A) 正確，Klatskin tumor特指發生在左右肝管匯合處（hepatic duct confluence）或肝門部（hepatic hilum）的膽道癌，也稱為肝門部膽管癌（hilar cholangiocarcinoma）或Bismuth-Corlette type II以上的腫瘤<br>(B) 錯誤，發生於總膽管（common bile duct）的是遠端膽管癌（distal cholangiocarcinoma），不是Klatskin tumor<br>(C) 錯誤，膽囊管（cystic duct）的腫瘤較少見，不屬於Klatskin tumor的定義範圍<br>(D) 錯誤，十二指腸壺腹處（ampulla of Vater）的腫瘤稱為壺腹癌（ampullary carcinoma），是另一種疾病",
+    "explanation": "Klatskin tumor 是膽管癌的一個特定類型，以好發位置命名。<br>(A) 正確，Klatskin tumor 發生在左右肝管匯合處（hepatic duct confluence）或肝門部，又稱肝門部膽管癌（perihilar cholangiocarcinoma），以 Bismuth-Corlette 分型分為 I 到 IV 型<br>(B) 錯誤，發生於總膽管（遠端）的是遠端膽管癌（distal cholangiocarcinoma）<br>(C) 錯誤，膽囊管腫瘤不屬於 Klatskin tumor 的定義範圍<br>(D) 錯誤，十二指腸壺腹處的腫瘤稱為壺腹癌（ampullary carcinoma），是另一種疾病",
     "tags": [
       "113-2-5",
       "肝膽胰外科"
@@ -519,7 +519,7 @@
       "D": "Borrmann classification是用來描述胃癌腫瘤的型態，有4種類型"
     },
     "answer": "C",
-    "explanation": "這題考察外科專有名詞的分類系統。<br>(A) 錯誤，Whipple operation（或稱Whipple procedure）確實是胰十二指腸切除手術的統稱，主要用於胰頭癌、壺腹癌、遠端膽管癌等<br>(B) 錯誤，Klatskin tumor確實是指肝門部膽管癌（hilar cholangiocarcinoma），Bismuth-Corlette分類將其分為4型（I-IV型）<br>(C) 正確（錯誤），Bismuth-Corlette classification是用來分類Klatskin tumor（肝門部膽管癌）的，不是choledochal cyst。Choledochal cyst（膽道囊腫）是用Todani classification分為5型（I-V型）<br>(D) 錯誤，Borrmann classification確實用來描述胃癌的巨觀型態，分為4型：<br>· Type I：息肉型（polypoid）<br>· Type II：潰瘍型（ulcerative）<br>· Type III：潰瘍浸潤型（ulcero-infiltrative）<br>· Type IV：瀰漫浸潤型（diffuse infiltrative，如皮革胃linitis plastica）",
+    "explanation": "這題考察外科專有名詞的分類系統。<br>(A) 正確，Whipple operation 是胰十二指腸切除手術（pancreaticoduodenectomy）的統稱，用於胰頭癌、壺腹癌、遠端膽管癌等<br>(B) 正確，Klatskin tumor 是發生於肝門部的膽管癌，Bismuth-Corlette 分類將其分為 I 到 IV 型共 4 型<br>(C) 錯誤，Bismuth-Corlette 分類用於肝門部膽管癌（Klatskin tumor）。膽道囊腫（choledochal cyst）使用 Todani 分類，分為 5 型<br>(D) 正確，Borrmann 分類描述進展期胃癌的巨觀型態，分為 4 型。I 型為息肉型，II 型為潰瘍型，III 型為潰瘍浸潤型，IV 型為瀰漫浸潤型（皮革胃）",
     "tags": [
       "113-2-5",
       "外科概論"
@@ -553,7 +553,7 @@
       "D": "膽道留置導管患者發生無黃疸性膽管炎之危險性比較高"
     },
     "answer": "C",
-    "explanation": "急性膽管炎是膽道系統的細菌感染，常因膽道阻塞引起。<br>(A) 錯誤，膽道污染細菌但沒有阻塞時，膽汁流動可將細菌沖走，通常不會發展成膽管炎。膽管炎需要同時有細菌污染和膽道阻塞<br>(B) 錯誤，膽結石引起的膽管炎確實好發於年紀大的女性，符合膽結石的危險因子（4F：Female, Fat, Forty, Fertile）<br>(C) 正確（錯誤），發燒、右上腹痛、黃疸是Charcot's triad，不是Reynold's triad。Reynolds' pentad是指Charcot's triad加上意識改變（confusion）和低血壓（hypotension），代表嚴重的急性膽管炎（急性阻塞性化膿性膽管炎）<br>(D) 錯誤，膽道留置導管的病人確實較容易發生無黃疸性膽管炎，因為：<br>· 導管本身可能造成膽道污染<br>· 可能有部分膽汁引流，不會完全阻塞<br>· 因此可能有發燒、腹痛但黃疸不明顯",
+    "explanation": "急性膽管炎是膽道系統的細菌感染，致病條件為膽道阻塞加上細菌感染。<br>(A) 敘述正確，膽道有細菌但沒有阻塞時，膽汁流動可將細菌沖走，通常不會發展成膽管炎<br>(B) 敘述正確，結石是膽管炎最常見的病因，病人以年長者為主<br>(C) 敘述錯誤（本題答案），發燒、右上腹痛、黃疸是 Charcot triad，Reynolds pentad 則是 Charcot triad 再加上休克（低血壓）與意識改變，代表嚴重的急性阻塞性化膿性膽管炎<br>(D) 敘述正確，膽道留置導管或支架的病人，膽汁可部分經導管引流，因此可能有發燒、腹痛，但黃疸不明顯",
     "tags": [
       "113-2-5",
       "肝膽胰外科"
@@ -621,7 +621,7 @@
       "D": "位置在胰臟體部或尾部"
     },
     "answer": "A",
-    "explanation": "漿液性囊腺瘤是胰臟良性囊狀腫瘤，惡性潛能極低（<1%）。<br>(A) 正確，漿液性囊腺瘤手術適應症主要是有症狀，例如：<br>· 腹痛<br>· 壓迫症狀（如胃出口阻塞、膽道阻塞）<br>· 無法排除惡性可能<br>· 快速增大<br>· 無症狀且影像典型者可觀察追蹤<br>(B) 錯誤，大小超過2公分不是手術指標。漿液性囊腺瘤可能長到很大（>10 cm）仍為良性，僅大小不是手術理由<br>(C) 錯誤，主胰管擴張>0.5 cm是黏液性囊狀腫瘤（mucinous cystic neoplasm）或主胰管型IPMN的手術適應症，不是漿液性囊腺瘤的考量<br>(D) 錯誤，位於胰臟體部或尾部較易手術（可做遠端胰臟切除），但位置本身不是手術適應症，仍需考慮症狀和惡性風險",
+    "explanation": "胰臟漿液性囊腺瘤（serous cystadenoma）幾乎都是良性，惡性潛能極低（&lt;1%）。無症狀且影像典型者可追蹤，有症狀或無法排除其他診斷時才考慮手術。<br>(A) 正確，手術適應症主要是有症狀，例如腹痛，或腫瘤壓迫造成胃出口阻塞、膽道阻塞，另外在無法排除其他診斷（如黏液性囊腫瘤或惡性腫瘤）時也會考慮手術<br>(B) 錯誤，腫瘤大小超過 2 公分不是手術指標，漿液性囊腺瘤可長到很大（&gt;10 cm）仍為良性<br>(C) 錯誤，主胰管擴張是 IPMN 的特徵，主胰管 ≥10 mm 為 IPMN 的高風險特徵（Kyoto 2024），與漿液性囊腺瘤的處置無關<br>(D) 錯誤，位於胰體部或尾部較容易做遠端胰臟切除，但位置本身不是手術適應症",
     "tags": [
       "113-2-5",
       "肝膽胰外科"

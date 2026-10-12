@@ -621,7 +621,7 @@
       "D": "enhancing mural nodule larger than 5 mm within cyst"
     },
     "answer": "B",
-    "explanation": "胰管內乳頭狀黏液性腫瘤（IPMN）分為主胰管型（main duct）和分支胰管型（branch duct）。高危險特徵（high-risk features）提示惡性變化，需要手術切除。<br>BD-IPMN的高危險特徵包括：<br>· 阻塞性黃疸（obstructive jaundice）<br>· 囊腫內增強的壁結節（enhancing mural nodule）>5 mm<br>· 主胰管擴張≥10 mm<br>· 囊腫快速增大<br>· CA 19-9升高<br>(A) 正確，黃疸（jaundice）是高危險特徵，提示主胰管受侵犯或惡性變化壓迫總膽管<br>(B) 錯誤，發燒（fever）不是IPMN的高危險特徵。發燒通常提示感染（如急性胰臟炎、膽管炎），而非惡性變化<br>(C) 正確，主胰管擴張>10 mm是高危險特徵<br>(D) 正確，囊腫內增強的壁結節>5 mm是高危險特徵，提示可能有惡性成分",
+    "explanation": "胰管內乳頭狀黏液性腫瘤（IPMN）分為主胰管型、分支胰管型與混合型。依 2024 年國際京都指引，高風險特徵（high-risk stigmata）包括位於胰頭部囊性病灶併阻塞性黃疸、增強的壁結節 ≥5 mm 或實質成分、主胰管 ≥10 mm，以及 EUS 細胞學可疑或陽性，出現任一項時，臨床上適合者考慮手術切除。<br>(A) 正確，阻塞性黃疸是高風險特徵之一，表示胰頭部病灶壓迫或侵犯膽管<br>(B) 錯誤，發燒不在高風險特徵或令人擔憂特徵（worrisome features）的清單中。發燒通常提示感染，例如膽管炎<br>(C) 正確，主胰管 ≥10 mm 是高風險特徵<br>(D) 正確，囊腫內增強的壁結節 ≥5 mm 是高風險特徵，提示可能有惡性成分。囊腫快速增大與 CA 19-9 升高屬於令人擔憂的特徵",
     "tags": [
       "113-1-5",
       "肝膽胰外科"
