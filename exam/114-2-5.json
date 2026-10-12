@@ -540,7 +540,7 @@
       "D": "對於連續出血不止的病患，可以使用血管攝影栓塞術進行止血"
     },
     "answer": "D",
-    "explanation": "食道靜脈曲張出血是肝硬化患者的嚴重併發症，需要多層次的治療策略。<br>(A) 正確，治療首要是維持生命徵象（vital signs），包括輸液復甦、輸血、維持呼吸道通暢等<br>(B) 正確，可以給與octreotide（抑制生長激素）或vasopressin（加壓素）收縮內臟血管，降低門脈壓力以控制出血<br>(C) 正確，對於大量出血且藥物及內視鏡治療失敗的病患，可以考慮外科分流手術（如TIPS：transjugular intrahepatic portosystemic shunt，經頸靜脈肝內門靜脈分流術）來降低門脈壓力止血<br>(D) 錯誤，血管攝影栓塞術（angiographic embolization）並非食道靜脈曲張出血的標準治療方式。因為食道靜脈曲張是由於門脈高壓導致的側支循環，栓塞單一血管無法有效止血，且可能造成食道缺血。標準治療包括：內視鏡結紮術（EVL）或硬化劑注射、藥物治療、氣囊壓迫（Sengstaken-Blakemore tube）、TIPS等",
+    "explanation": "食道靜脈曲張出血是肝硬化門脈高壓的嚴重併發症，需要多層次的治療策略。<br>(A) 正確，治療首要是維持生命徵象（vital signs），包括復甦、限制性輸血與保護呼吸道<br>(B) 正確，octreotide（somatostatin 類似物）或 vasopressin 類（如 terlipressin）可收縮內臟血管，降低門脈血流與壓力以控制出血，應盡早使用<br>(C) 正確，大量出血且藥物與內視鏡治療失敗時，可考慮 TIPS（經頸靜脈肝內門體靜脈支架分流術）或外科分流手術降低門脈壓力以止血<br>(D) 錯誤，血管攝影栓塞術並不在食道靜脈曲張出血的標準處置之列。標準處置包括血管活性藥物、預防性抗生素、內視鏡結紮術（EVL），失敗時以氣球填塞（Sengstaken-Blakemore tube）或食道覆膜金屬支架橋接，並施行救援性 TIPS",
     "tags": [
       "114-2-5",
       "肝膽胰外科"
@@ -591,7 +591,7 @@
       "D": "腫瘤大於5公分"
     },
     "answer": "D",
-    "explanation": "肝臟血管瘤（hepatic hemangioma）是最常見的良性肝臟腫瘤，多數不需要手術治療。<br>(A) 正確，發生Kasabach-Merritt syndrome（血小板減少、消耗性凝血病變）是需要開刀的原因，因為此症候群可能危及生命<br>(B) 正確，腫瘤破裂導致腹內出血是需要緊急手術的適應症<br>(C) 正確，腫瘤明顯變大，特別是短期內快速增大，可能需要手術切除以避免併發症或確認診斷<br>(D) 錯誤，單純腫瘤大於5公分並非手術的絕對適應症。大多數肝臟血管瘤即使較大（5-10公分甚至更大）但無症狀者，可以觀察追蹤。手術適應症包括：有症狀（如腹痛、壓迫症狀）、快速增大、診斷不確定、發生併發症（如破裂、Kasabach-Merritt syndrome）等",
+    "explanation": "肝臟血管瘤（hepatic hemangioma）是最常見的良性肝臟腫瘤，多數不需要手術治療，無症狀者可觀察追蹤。<br>(A) 正確，發生 Kasabach-Merritt syndrome（血小板低下、消耗性凝血病變）是需要治療的原因，因為此症候群可能危及生命<br>(B) 正確，腫瘤破裂導致腹內出血需要緊急處置<br>(C) 正確，腫瘤短期內明顯變大是轉介評估與手術切除的原因之一<br>(D) 錯誤，腫瘤大小本身並非手術適應症，無症狀者即使腫瘤大於 5 公分甚至更大，仍可觀察追蹤，不建議預防性手術。手術適應症包括有症狀（腹痛、壓迫症狀）、快速增大、無法排除惡性、發生併發症（破裂、Kasabach-Merritt syndrome）等",
     "tags": [
       "114-2-5",
       "肝膽胰外科"
@@ -608,7 +608,7 @@
       "D": "與原發的大腸癌同時發現的肝臟轉移腫瘤（synchronous liver metastasis）"
     },
     "answer": "C",
-    "explanation": "大腸癌肝轉移切除術後的預後因素已有明確研究。<br>(A) 正確，CEA血中濃度大於200 ng/mL是影響預後的不良因素，顯示腫瘤負荷量大<br>(B) 正確，肝轉移腫瘤的大小大於5公分是預後不良因素，與腫瘤侵犯性及微小轉移風險相關<br>(C) 錯誤，原發腫瘤的位置在直腸（rectum）或結腸（colon）並非影響肝轉移切除術後存活的主要因素。影響預後的主要因素包括：肝轉移腫瘤的數目、大小、CEA濃度、是否為同時性轉移（synchronous）、切除邊緣是否乾淨（R0 resection）、肝外轉移等<br>(D) 正確，與原發的大腸癌同時發現的肝臟轉移腫瘤（synchronous liver metastasis）相較於異時性轉移（metachronous），通常預後較差，是影響存活的因素之一",
+    "explanation": "大腸癌肝轉移切除術後的預後因素已有明確研究，Fong臨床風險分數包含五項，每項1分：原發腫瘤淋巴結陽性、無病間隔（disease-free interval）&lt; 12個月、肝轉移病灶數目&gt; 1個、最大病灶&gt; 5 cm、CEA &gt; 200 ng/mL。<br>(A) 正確，CEA血中濃度大於200 ng/mL是影響預後的不良因素，顯示腫瘤負荷量大<br>(B) 正確，肝轉移腫瘤的大小大於5公分是預後不良因素，與腫瘤侵犯性及微小轉移風險相關<br>(C) 錯誤，原發腫瘤的位置在直腸（rectum）或結腸（colon）不在Fong臨床風險分數的項目內，並非影響肝轉移切除術後存活的主要因素<br>(D) 正確，與原發的大腸癌同時發現的肝臟轉移腫瘤（synchronous liver metastasis）無病間隔為0，屬無病間隔&lt; 12個月的不良預後因素，預後較異時性轉移（metachronous）差",
     "tags": [
       "114-2-5",
       "肝膽胰外科"
@@ -625,7 +625,7 @@
       "D": "①②④⑤"
     },
     "answer": "D",
-    "explanation": "本題的解題關鍵在於區分肝臟的「外觀解剖學分界」與「內部功能性分段（Couinaud classification）」，並熟悉膽囊周邊三角區域及韌帶內含的血管與膽道構造。<br> ① 正確，左肝（left liver）和右肝（right liver）在功能上的分界線正是中肝靜脈（middle hepatic vein）走行的平面，此平面亦稱為康德黎線（Cantlie’s line）。<br> ② 正確，在「外科解剖學」的實務應用中，肝左葉（left lobe）與右葉（right lobe）常等同於功能性的分界，因此同樣是以康德黎線（Cantlie’s line）來作為區分。<br> ③ 錯誤，Calot 三角（Calot's triangle）的邊界應為膽囊管（cystic duct）、肝總管（common hepatic duct）與肝臟下緣（inferior border of liver）；總膽管（common bile duct）是由肝總管與膽囊管匯合後的產物，並非邊界，且上方邊界應為肝臟下緣而非肝腹側表面（ventral surface of liver）。<br> ④ 正確，肝十二指腸韌帶（hepatoduodenal ligament）內包含了重要的門脈三合體（portal triad），也就是門靜脈（portal vein）、固有肝動脈（proper hepatic artery）與總膽管（common bile duct）。<br> ⑤ 正確，功能性分段中的左側肝（left lateral segment）及左中肝（left medial segment）正是以左肝靜脈（left hepatic vein）走行的臍裂與鐮狀韌帶（falciform ligament）附著處來作為分界。",
+    "explanation": "本題的解題關鍵在於區分肝臟的「外觀解剖學分界」與「內部功能性分段（Couinaud classification）」，並熟悉膽囊周邊三角區域及韌帶內含的血管與膽道構造。<br>① 正確，左肝（left liver）和右肝（right liver）在功能上的分界為中肝靜脈（middle hepatic vein）所在的平面。<br>② 公告答案視為正確，功能上的右葉與左葉（右半肝與左半肝）以康德黎線（Cantlie’s line，由膽囊窩連到下腔靜脈，沿中肝靜脈走行）為界。傳統形態學以鐮狀韌帶劃分外觀的左右葉，Brisbane 2000 命名則改用半肝（hemiliver）取代 lobe 一詞。<br>③ 錯誤，Calot 三角（Calot's triangle）的邊界為膽囊管（cystic duct）、總肝管（common hepatic duct）與肝臟下緣（inferior border of liver）。總膽管（common bile duct）是由總肝管與膽囊管匯合後形成，並非邊界，上界也是肝臟下緣而非肝腹側表面（ventral surface of liver）。<br>④ 正確，肝十二指腸韌帶（hepatoduodenal ligament）內包含了重要的門脈三合體（portal triad），也就是門靜脈（portal vein）、固有肝動脈（proper hepatic artery）與總膽管（common bile duct）。<br>⑤ 正確，左外側區（segments II、III）與左內側區（segment IV）以鐮狀韌帶（falciform ligament）附著處的臍裂（umbilical fissure）為界，左肝靜脈位於臍裂外側，通常用來分隔 II 與 III 節段。",
     "tags": [
       "114-2-5",
       "肝膽胰外科"

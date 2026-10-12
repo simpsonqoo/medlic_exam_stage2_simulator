@@ -60,7 +60,7 @@
       "D": "對於BCLC stage C的晚期患者來說，可以考慮使用標靶藥物如sorafenib"
     },
     "answer": "C",
-    "explanation": "BCLC分期系統整合腫瘤狀態、肝功能和病人體能狀態來指引治療策略。<br>(A) 正確，BCLC分期包括：<br>· Stage 0：very early stage<br>· Stage A：early stage<br>· Stage B：intermediate stage<br>· Stage C：advanced stage<br>· Stage D：terminal stage<br>(B) 正確，BCLC分期考慮多項因素：<br>· 腫瘤大小、數目和血管侵犯<br>· Child-Pugh分數（肝功能）<br>· Performance status（體能狀態）<br>· 腫瘤相關症狀<br>(C) 錯誤，化學栓塞（transarterial chemoembolization, TACE）是一種姑息性治療（palliative treatment），而非根治性治療（curative treatment）。TACE主要用於BCLC stage B（intermediate stage）的病人，無法完全治癒癌症，但可延長生存期。根治性治療包括手術切除、肝移植和射頻消融<br>(D) 正確，BCLC stage C（advanced stage）患者可考慮使用標靶藥物如sorafenib、lenvatinib等，這些是一線系統性治療選擇",
+    "explanation": "BCLC分期系統整合腫瘤負荷、肝功能和病人體能狀態來指引治療策略。<br>(A) 正確，BCLC分期分為stage 0（very early stage）、stage A（early stage）、stage B（intermediate stage）、stage C（advanced stage）、stage D（end-stage）<br>(B) 正確，BCLC分期依據腫瘤負荷（大小、數目、血管侵犯與肝外轉移）、肝功能（Child-Pugh分數）和體能狀態（performance status）<br>(C) 錯誤，化學栓塞（transarterial chemoembolization, TACE）是非根治性的局部治療，而非根治性治療（curative treatment）。TACE主要用於BCLC stage B（intermediate stage）的病人，無法完全治癒癌症，但可延長生存期。根治性治療包括手術切除、肝移植和消融<br>(D) 正確，BCLC stage C（advanced stage）以全身性治療為主。依BCLC 2022與2026版，第一線為免疫治療組合（atezolizumab合併bevacizumab，或durvalumab合併tremelimumab），sorafenib、lenvatinib等標靶藥物為替代選擇",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -542,7 +542,7 @@
       "D": "多發性的大腸直腸癌肝臟轉移，既使接受手術治療預後也不好，只能以化學藥物治療"
     },
     "answer": "D",
-    "explanation": "大腸直腸癌肝轉移的治療策略已有長足進步。<br>(A) 正確，最常見的轉移性肝臟腫瘤來自大腸直腸癌（colorectal cancer），因為大腸靜脈血經門靜脈系統首先流經肝臟<br>(B) 正確，約50-60%的大腸直腸癌患者在其病程中會出現肝臟轉移，包括診斷時即有轉移（同時性轉移）或術後追蹤發現（異時性轉移）<br>(C) 正確，基於化學藥物治療（如FOLFOX, FOLFIRI加上標靶藥物）的發展及肝臟手術技術的精進，肝臟切除已成為大腸直腸癌肝轉移的標準治療之一，可顯著延長存活期<br>(D) 錯誤，多發性大腸直腸癌肝轉移並非手術禁忌症。隨著手術技術進步和周術期化療的發展，即使多發性轉移，只要能完全切除（R0 resection）且保留足夠的功能性肝實質（通常需要殘餘肝體積>30%），仍可獲得良好預後。可考慮分階段切除、門靜脈栓塞誘導肝臟再生、合併消融治療等策略。5年存活率可達30-50%",
+    "explanation": "大腸直腸癌肝轉移的治療策略已有長足進步。<br>(A) 正確，最常見的轉移性肝臟腫瘤來自大腸直腸癌（colorectal cancer），因為大腸靜脈血經門靜脈系統首先流經肝臟<br>(B) 正確，約50%的大腸直腸癌患者在其病程中會出現肝臟轉移，包括診斷時即有轉移（同時性轉移，約15~25%）或術後追蹤發現（異時性轉移）<br>(C) 正確，基於化學藥物治療（如FOLFOX, FOLFIRI加上標靶藥物）的發展及肝臟手術技術的精進，肝臟切除已成為大腸直腸癌肝轉移的標準治療之一，可顯著延長存活期<br>(D) 錯誤，多發性大腸直腸癌肝轉移並非手術禁忌症。病灶數目多（Fong臨床風險分數的危險因子之一）預後較差，但只要能完全切除（R0 resection）並保留足夠的功能性肝實質，仍可獲得長期存活。可考慮轉化性化學治療、分階段肝切除、門靜脈栓塞誘導肝臟再生、切除合併消融治療等策略。切除後5年存活率約40~58%",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
