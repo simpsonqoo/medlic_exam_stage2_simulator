@@ -301,7 +301,7 @@
       "D": "acute mastitis"
     },
     "answer": "B",
-    "explanation": "這題的解題關鍵在於辨識照片中乳頭及乳暈處呈現濕疹樣（eczematous）、結痂且脫屑的表皮病灶。這種典型外觀是乳房柏哲德氏症（Paget's disease of the breast）的特徵，通常暗示底層可能伴隨潛在的乳腺癌（breast cancer）。<br> (A) 錯誤，蒙多氏症（Mondor's disease）是乳房淺層靜脈的血栓性靜脈炎（superficial thrombophlebitis），臨床表現為胸壁或乳房出現條索狀的疼痛硬塊，而非照片中表面脫屑的濕疹樣病灶。<br> (B) 正確，柏哲德氏症（Paget's disease）的典型臨床特徵正是乳頭及周圍乳暈出現類似慢性濕疹的脫屑、結痂、潰瘍及紅斑樣病灶。<br> (C) 錯誤，乳腺管擴張（duct ectasia）主要表現為乳頭分泌物（nipple discharge）、乳頭凹陷或乳暈下腫塊，並不會產生這種大面積且帶有厚重痂皮的表皮皮膚病灶。<br> (D) 錯誤，急性乳腺炎（acute mastitis）主要是乳房組織的感染發炎，通常表現為乳房局部的紅、腫、熱、痛，皮膚會呈現片狀的紅斑與腫脹，不會是照片中侷限於乳暈且呈現粗糙結痂的外觀。",
+    "explanation": "這題的解題關鍵在於辨識照片中乳頭及乳暈處呈現濕疹樣（eczematous）、結痂且脫屑的表皮病灶。這種典型外觀是乳房柏哲德氏症（Paget's disease of the breast）的特徵，為乳頭乳暈複合體表皮內的腺癌細胞浸潤，超過 90% 伴有潛在乳腺惡性腫瘤（導管原位癌或浸潤性癌）。<br>(A) 錯誤，蒙多氏症（Mondor's disease）是乳房淺層靜脈的血栓性靜脈炎（superficial thrombophlebitis），臨床表現為胸壁或乳房出現條索狀的疼痛硬塊，而非照片中表面脫屑的濕疹樣病灶。<br>(B) 正確，柏哲德氏症（Paget's disease）的典型臨床特徵正是乳頭及周圍乳暈出現類似慢性濕疹的脫屑、結痂、潰瘍及紅斑樣病灶，確診靠全層皮膚切片。<br>(C) 錯誤，乳腺管擴張（duct ectasia）主要表現為乳頭分泌物（nipple discharge）、乳頭凹陷或乳暈下腫塊，並不會產生這種大面積且帶有厚重痂皮的表皮皮膚病灶。<br>(D) 錯誤，急性乳腺炎（acute mastitis）主要是乳房組織的感染發炎，通常表現為乳房局部的紅、腫、熱、痛，皮膚會呈現片狀的紅斑與腫脹，不會是照片中侷限於乳暈且呈現粗糙結痂的外觀。",
     "tags": [
       "112-1-5",
       "乳房外科"
@@ -712,7 +712,7 @@
       "D": "圖(b)在超音波若看不到，即可不必安排mammography-guided biopsy"
     },
     "answer": "D",
-    "explanation": "這題的解題關鍵在於辨識乳房攝影（mammography）中不同型態的鈣化特徵，並結合乳房影像報告與資料分析系統（BI-RADS）的分類來決定後續處置。判斷原則為：典型良性的粗大鈣化無需後續處置，而具高度惡性嫌疑的微小鈣化若無法透過超音波定位，則必須依賴乳房攝影導引來完成切片化驗。<br> (A) 正確，圖(a)呈現如同爆米花般的粗大鈣化（coarse calcification），通常為退化中的良性纖維腺瘤表現，屬於良性發現的乳房影像報告與資料分析系統第2級（BI-RADS category 2）。<br> (B) 正確，圖(b)顯示出細小、分支的線狀微小鈣化（linear microcalcifications），這類鈣化具有高度原位癌等惡性腫瘤的嫌疑，屬於需要進行組織化驗的乳房影像報告與資料分析系統第4級（BI-RADS category 4）或第5級。<br> (C) 正確，因為圖(a)是明確的良性粗大鈣化（coarse calcification），不具備惡性風險，所以無論超音波（ultrasound）是否能看見對應病灶，原本就不必安排任何乳房攝影導引切片（mammography-guided biopsy）。<br> (D) 錯誤，圖(b)的線狀微小鈣化（linear microcalcifications）為高度懷疑惡性的病灶，若在超音波（ultrasound）下看不到，反而必須安排乳房攝影導引切片（mammography-guided biopsy）或立體定位切片（stereotactic biopsy）以取得組織排除惡性腫瘤；只有在超音波能清楚看到對應腫塊時，才可以改安排超音波導引切片。",
+    "explanation": "這題的解題關鍵在於辨識乳房攝影中不同型態的鈣化，並依 BI-RADS 分類決定後續處置。粗大鈣化屬典型良性，不需後續處置。細線狀微鈣化為可疑惡性型態，超音波看不到時必須以乳房攝影導引（立體定位）切片取得組織。<br>(A) 正確，圖(a)為單一粗大的爆米花狀鈣化（coarse calcification），常見於退化中的纖維腺瘤，屬良性發現，為 BI-RADS category 2。<br>(B) 正確，圖(b)為細小的線狀或分支狀微鈣化（linear microcalcifications），為可疑惡性型態，常見於導管原位癌。細線狀或細線分支狀鈣化一般歸為 BI-RADS category 4C，需切片取得組織診斷。<br>(C) 正確，圖(a)為典型良性的粗大鈣化，不具惡性風險，不論超音波能否看到對應病灶，都不必安排乳房攝影導引切片（mammography-guided biopsy）。<br>(D) 錯誤，圖(b)的線狀微鈣化為可疑惡性病灶，超音波常看不到微鈣化，超音波陰性不能排除惡性，必須安排乳房攝影導引切片（立體定位切片，stereotactic biopsy）取得組織。只有超音波能清楚看到對應病灶時，才可改用超音波導引切片。",
     "tags": [
       "112-1-5",
       "乳房外科"
@@ -732,7 +732,7 @@
       "D": "invasive carcinoma做乳房全切除，發現1顆metastatic sentinel lymph node，應做axillary lymph node dissection（ALND）"
     },
     "answer": "B",
-    "explanation": "此題考核乳癌前哨淋巴結切片（sentinel lymph node biopsy, SLNB）與腋下淋巴結廓清術（axillary lymph node dissection, ALND）的最新臨床適應症，需了解 DCIS 全切除的特殊考量與 Z0011 試驗的臨床意義。<br>(A) 正確，若手術後最終病理報告確認為純 DCIS（無侵犯性成分），則不需 SLNB，因為 DCIS 的淋巴轉移風險極低，不必常規進行腋下分期。<br>(B) 錯誤，術前診斷為 DCIS 但計畫進行全乳房切除（total mastectomy）者，應在手術同時進行 SLNB。原因是全乳房切除後若最終病理顯示有侵犯性癌（invasive cancer）成分（術前粗針切片有一定的取樣誤差），屆時將無法再執行 SLNB（因為前哨淋巴結的識別路徑已被破壞）。因此，為保留未來腋下分期的機會，「術前 DCIS 計畫全乳切除者，應同時做 SLNB」才是正確的臨床指引，「不應做 SLNB」的說法是錯誤的。<br>(C) 正確，根據 ACOSOG Z0011 試驗的結論，早期侵犯性乳癌（臨床 T1-T2）進行乳房保留手術併術後放射線治療與全身性治療者，若 SLNB 發現 1–2 顆陽性前哨淋巴結，可以不必進行 ALND，而不影響整體存活率，此已為目前臨床指引採納。<br>(D) 正確，進行全乳房切除的侵犯性乳癌病患，若 SLNB 發現 1 顆陽性前哨淋巴結，因為無法像保留手術一樣接受全乳放射線治療來覆蓋腋下區域，目前建議仍應進行 ALND 以完成完整的腋下分期與治療。",
+    "explanation": "此題考核乳癌前哨淋巴結切片（sentinel lymph node biopsy, SLNB）與腋下淋巴結廓清術（axillary lymph node dissection, ALND）的最新臨床適應症，需了解 DCIS 全切除的特殊考量與 Z0011 試驗的臨床意義。<br>(A) 正確，若手術後最終病理報告確認為純 DCIS（無侵犯性成分），則不需 SLNB，因為 DCIS 的淋巴轉移風險極低，不必常規進行腋下分期。<br>(B) 錯誤，術前診斷為 DCIS 但計畫進行全乳房切除（total mastectomy）者，應在手術同時進行 SLNB。原因是全乳房切除後若最終病理顯示有侵犯性癌（invasive cancer）成分（術前粗針切片有一定的取樣誤差），屆時將無法再執行 SLNB（因為前哨淋巴結的識別路徑已被破壞）。因此，為保留未來腋下分期的機會，「術前 DCIS 計畫全乳切除者，應同時做 SLNB」才是正確的臨床指引，「不應做 SLNB」的說法是錯誤的。<br>(C) 正確，根據 ACOSOG Z0011 試驗的結論，早期侵犯性乳癌（臨床 T1-T2）進行乳房保留手術併術後放射線治療與全身性治療者，若 SLNB 發現 1~2 顆陽性前哨淋巴結，可以不必進行 ALND，而不影響整體存活率，此已為目前臨床指引採納。<br>(D) 正確，進行全乳房切除的侵犯性乳癌病患，若 SLNB 發現 1 顆陽性前哨淋巴結，因為無法像保留手術一樣接受全乳放射線治療來覆蓋腋下區域，目前建議仍應進行 ALND 以完成完整的腋下分期與治療。公告視此敘述為正確，但依 NCCN（AMAROS 試驗），全乳切除後 1~2 顆前哨淋巴結轉移者也可用胸壁與區域淋巴結放療取代 ALND。",
     "tags": [
       "112-1-5",
       "乳房外科"
@@ -749,7 +749,7 @@
       "D": "若小美接受紫杉醇後第10天測得嗜中性白血球（absolute neutrophil count, ANC）降至900/mm3，即使無症狀 仍建議施打白血球生長素（granulocyte colony stimulating factor, G-CSF）"
     },
     "answer": "B",
-    "explanation": "化療藥物的副作用需要清楚了解以便適當監測和處理。<br>(A) 錯誤，心毒性（cardiotoxicity）是小紅莓類（anthracycline）藥物如doxorubicin的主要副作用，而非紫杉醇類。小紅莓會造成劑量累積性的心肌病變，使用前應評估心臟功能（如LVEF），累積劑量超過450-550 mg/m²風險顯著增加<br>(B) 正確，小紅莓類藥物會造成骨髓抑制，特別是白血球低下（leukopenia）。白血球低點（nadir）通常出現在化療後第10-14天，之後逐漸恢復。這是化療常見且需要密切監測的副作用<br>(C) 錯誤，手腳刺麻（周邊神經病變，peripheral neuropathy）和下肢水腫是紫杉醇類藥物（如paclitaxel, docetaxel）的典型副作用，而非小紅莓。紫杉醇類藥物會造成感覺神經病變，表現為手腳麻木刺痛。Docetaxel特別容易造成下肢水腫和體液滯留<br>(D) 錯誤，ANC 900/mm³雖然偏低但不一定需要立即施打G-CSF。通常建議：<br>· ANC <500/mm³或有發燒（febrile neutropenia）才建議使用G-CSF<br>· 或依據化療週期調整，若下次化療前ANC仍低才考慮使用<br>· 單純ANC 900/mm³且無症狀可觀察",
+    "explanation": "化療藥物的副作用需要清楚了解以便適當監測和處理。<br>(A) 錯誤，心毒性（cardiotoxicity）是小紅莓類（anthracycline）藥物如 doxorubicin 的主要副作用，而非紫杉醇類。小紅莓會造成劑量累積性的心肌病變，使用前應評估心臟功能（如 LVEF），doxorubicin 累積劑量 400 mg/m² 時心肌病變風險約 3~5%，450 mg/m² 約 5~8%，500 mg/m² 約 6~20%<br>(B) 正確，小紅莓類藥物會造成骨髓抑制，特別是白血球低下（leukopenia）。白血球最低點（nadir）通常出現在用藥後第 10~14 天，約第 21 天回復。這是化療常見且需要密切監測的副作用<br>(C) 錯誤，手腳刺麻（周邊神經病變，peripheral neuropathy）和下肢水腫是紫杉醇類藥物（paclitaxel、docetaxel）的典型副作用，而非小紅莓。Paclitaxel 以感覺神經病變為主，docetaxel 特別容易造成下肢水腫和體液滯留。手足皮膚紅腫則見於 capecitabine 的手足症候群<br>(D) 錯誤，依 ASCO 2026 指引，無發燒的嗜中性球低下不常規使用 G-CSF。G-CSF 用於發燒性嗜中性球低下風險約 20% 以上處方的初級預防，以及前一週期發生嗜中性球低下併發症者的次級預防。ANC 900/mm³ 且無症狀，應繼續觀察",
     "tags": [
       "112-1-5",
       "乳房外科"

@@ -689,7 +689,7 @@
       "D": "malignant phyllodes tumor術後應加做輔助化學治療"
     },
     "answer": "A",
-    "explanation": "纖維囊腫變化（fibrocystic change）是乳房的生理性變化而非疾病，通常不需要手術治療，只需追蹤即可。<br>(A) 正確，纖維囊腫變化（fibrocystic change）是乳房組織對荷爾蒙變化的正常生理反應，不是疾病，通常只需臨床追蹤，不需手術切除<br>(B) 錯誤，核心切片（core biopsy）發現非典型導管增生（atypical ductal hyperplasia, ADH）時，因有10～20%的機率升級為原位癌或侵襲癌，應該手術切除病灶而非僅追蹤<br>(C) 錯誤，纖維腺瘤（fibroadenoma）是良性腫瘤，惡性潛能（malignant potential）很低（＜1%），小於2～3公分且影像學確認為良性者可追蹤，不一定要手術切除<br>(D) 錯誤，惡性葉狀腫瘤（malignant phyllodes tumor）術後通常不需要輔助化學治療，因化療效果不佳，主要治療是廣泛切除手術確保足夠切緣",
+    "explanation": "纖維囊性變化（fibrocystic change）是乳腺對荷爾蒙的正常發育與退化變異，屬生理性變化而非疾病，通常只需衛教、症狀治療與追蹤，不需要手術。<br>(A) 正確，纖維囊性變化是乳房組織對荷爾蒙變化的生理反應，不是疾病，不需手術切除。<br>(B) 錯誤，核心切片（core biopsy）發現非典型導管增生（atypical ductal hyperplasia, ADH）時，後續乳癌相對風險約 4 倍，且手術切除後有一定比例升級為原位癌或侵襲癌，因此建議手術切除而非僅追蹤。<br>(C) 錯誤，纖維腺瘤（fibroadenoma）是良性腫瘤，單純型惡性轉化率極低，粗針切片確診且影像一致者不建議常規手術切除。<br>(D) 錯誤，惡性葉狀腫瘤（malignant phyllodes tumor）的主要治療是廣泛局部切除達足夠切緣，輔助化學治療沒有證實的效益。",
     "tags": [
       "114-1-5",
       "乳房外科"
@@ -706,7 +706,7 @@
       "D": "肋間臂神經（intercostobrachial nerve）"
     },
     "answer": "B",
-    "explanation": "胸背神經（thoracodorsal nerve）支配闊背肌（latissimus dorsi），在腋下淋巴結廓清時若受損會導致闊背肌無力。<br>(A) 錯誤，外側胸神經（lateral pectoral nerve）支配胸大肌（pectoralis major），受損會影響胸大肌而非闊背肌<br>(B) 正確，胸背神經（thoracodorsal nerve）支配闊背肌（latissimus dorsi），在腋下淋巴結廓清時若受損會導致闊背肌無力，影響肩關節內收和內旋功能<br>(C) 錯誤，長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受損會導致翼狀肩胛（winged scapula）<br>(D) 錯誤，肋間臂神經（intercostobrachial nerve）是感覺神經，支配上臂內側和腋下皮膚感覺，受損會造成感覺異常而非肌肉無力",
+    "explanation": "胸背神經（thoracodorsal nerve）支配闊背肌（latissimus dorsi），沿胸背血管走行於腋窩外側壁，腋下淋巴結廓清時若受損會導致闊背肌無力。<br>(A) 錯誤，外側胸神經（lateral pectoral nerve）支配胸大肌（pectoralis major），受損會影響胸大肌而非闊背肌<br>(B) 正確，胸背神經（thoracodorsal nerve）支配闊背肌（latissimus dorsi），受損會導致肩關節內收、後伸與內旋無力<br>(C) 錯誤，長胸神經（long thoracic nerve）支配前鋸肌（serratus anterior），受損會導致翼狀肩胛（winged scapula）<br>(D) 錯誤，肋間臂神經（intercostobrachial nerve）是感覺神經，支配上臂內側和腋下皮膚感覺，受損會造成感覺異常而非肌肉無力",
     "tags": [
       "114-1-5",
       "乳房外科"
