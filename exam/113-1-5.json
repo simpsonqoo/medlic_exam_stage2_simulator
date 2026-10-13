@@ -230,7 +230,7 @@
       "D": "type V"
     },
     "answer": "D",
-    "explanation": "Mathes and Nahai分類將肌肉皮瓣依血管供應分為五型：<br>· Type I：單一血管蒂（如tensor fascia lata）<br>· Type II：一條主要血管蒂+次要血管蒂（如gracilis、trapezius）<br>· Type III：兩條主要血管蒂（如gluteus maximus、rectus abdominis）<br>· Type IV：多條分段血管蒂（如sartorius、tibialis anterior）<br>· Type V：一條主要血管蒂+多條次要分段血管蒂（如latissimus dorsi、pectoralis major）<br>(D) 正確，闊背肌（latissimus dorsi）主要由胸背動脈（thoracodorsal artery）供應，加上多條次要分段血管，屬於Type V",
+    "explanation": "Mathes and Nahai分類將肌肉皮瓣依血管供應分為五型：<br>Type I：單一血管蒂（如tensor fascia lata）<br>Type II：一條主要血管蒂+次要血管蒂（如gracilis、trapezius）<br>Type III：兩條主要血管蒂（如gluteus maximus、rectus abdominis）<br>Type IV：多條分段血管蒂（如sartorius、tibialis anterior）<br>Type V：一條主要血管蒂+多條次要分段血管蒂（如latissimus dorsi、pectoralis major）<br>(D) 正確，闊背肌（latissimus dorsi）主要由胸背動脈（thoracodorsal artery）供應，加上多條次要分段血管，屬於Type V",
     "tags": [
       "113-1-5",
       "重建整形外科"
@@ -298,7 +298,7 @@
       "D": "義乳乳房重建（implant-based reconstruction）導致的巨大細胞淋巴瘤（BIA-ALCL）西方人比東方人少見"
     },
     "answer": "B",
-    "explanation": "乳房重建可分為義乳重建和自體組織重建兩大類。<br>(A) 錯誤，雖然DIEP flap（deep inferior epigastric perforator flap）確實能提供自然的乳房外觀和觸感，但最常使用的乳房重建方法仍是義乳重建（implant-based），因為手術時間較短、恢復較快<br>(B) 正確，義乳重建的併發症包括：外觀不自然、莢膜攣縮（capsular contracture）、義乳破裂或滲漏、感染、義乳位移等<br>(C) 錯誤，游離皮瓣重建時，受區血管（recipient vessel）最常選擇內乳動脈（internal mammary vessels）或胸背動脈（thoracodorsal vessels），選擇取決於缺損位置和血管狀況<br>(D) 錯誤，BIA-ALCL（breast implant-associated anaplastic large cell lymphoma）在西方人中較常見，東方人較少見",
+    "explanation": "乳房重建可分為義乳重建和自體組織重建兩大類。<br>(A) 錯誤，雖然DIEP flap（deep inferior epigastric perforator flap）確實能提供自然的乳房外觀和觸感，但最常使用的乳房重建方法仍是義乳重建（implant-based），因為手術時間較短、恢復較快。<br>(B) 正確，義乳重建的併發症包括：外觀不自然、莢膜攣縮（capsular contracture）、義乳破裂或滲漏、感染、義乳位移等。<br>(C) 錯誤，自體游離皮瓣重建時，受區血管（recipient vessel）以內乳血管（internal mammary vessels）為首選，胸背血管（thoracodorsal vessels）為常用的替代選擇，並非最好選擇胸背動脈。<br>(D) 錯誤，BIA-ALCL（breast implant-associated anaplastic large cell lymphoma）與粗面（textured）植入物相關，報告病例以西方國家較多，亞洲報告較少，因此西方人並非比東方人少見。",
     "tags": [
       "113-1-5",
       "重建整形外科"

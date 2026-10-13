@@ -247,7 +247,7 @@
       "D": "第D類"
     },
     "answer": "B",
-    "explanation": "Nahai-Mathes classification將筋膜皮瓣根據血液供應方式分類，了解這個分類有助於選擇合適的皮瓣。<br>(A) 錯誤，Type A是指有多個穿通動脈（perforator）供血但沒有主要的命名動脈沿著皮瓣走行<br>(B) 正確，橈動脈前臂皮瓣屬於Type B，特徵是有一條命名的動脈（橈動脈，radial artery）沿著皮瓣的長軸走行，並發出多個穿通支供應皮膚和筋膜<br>(C) 錯誤，Type C是指有一條命名動脈但沿著皮瓣的一側走行，發出穿通支<br>(D) 錯誤，Type D的分類通常不用於筋膜皮瓣，此分類主要用於肌肉皮瓣",
+    "explanation": "Mathes-Nahai 將筋膜皮瓣依血液供應到達皮膚的路徑分為 A、B、C 三型。Type A 為直接皮動脈（direct cutaneous），Type B 為肌間隔皮動脈（septocutaneous），Type C 為肌皮穿通枝（musculocutaneous perforator），穿過肌肉到達皮膚。<br>(A) 錯誤，Type A 是直接皮動脈供血，代表皮瓣如腹股溝皮瓣（groin flap）<br>(B) 正確，橈動脈前臂皮瓣（radial forearm flap）屬於 Type B，由橈動脈發出的穿通枝經肌間隔（septocutaneous）到達皮膚與筋膜<br>(C) 錯誤，Type C 是穿過肌肉的肌皮穿通枝供血，代表皮瓣如前外側大腿皮瓣（anterolateral thigh flap）<br>(D) 錯誤，Mathes-Nahai 的筋膜皮瓣分類只有 A、B、C 三型，沒有第 D 類。Cormack-Lamberty 分類才有 Type D（含肌肉或骨頭的複合皮瓣），且該分類中橈動脈前臂皮瓣屬於 Type C，代號與 Mathes-Nahai 不同",
     "tags": [
       "113-2-5",
       "重建整形外科"
@@ -298,7 +298,7 @@
       "D": "Stage V；清創後顯微皮瓣重建術"
     },
     "answer": "C",
-    "explanation": "壓瘡的分期和治療方式需要根據傷口深度和組織受損程度來決定。<br>壓瘡分期：<br>· Stage I：皮膚完整但有持續性發紅<br>· Stage II：部分皮層缺損<br>· Stage III：全層皮膚缺損，但未達骨骼<br>· Stage IV：全層組織缺損，深及肌肉、肌腱或骨骼<br>(A) 錯誤，Stage II是部分皮層缺損，不會深及骨頭。且此程度傷口不需要手術，保守治療即可<br>(B) 錯誤，Stage III是全層皮膚缺損但未達骨骼。植皮（skin graft）不適合深層壓瘡，因為缺乏良好的血液供應且無法提供足夠的軟組織填充<br>(C) 正確，傷口深及骨頭屬於Stage IV。治療需要徹底清創壞死組織和受感染的骨頭，然後使用局部肌皮瓣（如臀大肌皮瓣，gluteus maximus flap）重建，提供良好的血液供應和軟組織填充<br>(D) 錯誤，壓瘡分期沒有Stage V。且顯微皮瓣（free flap）並非壓瘡重建的首選，局部皮瓣通常已足夠且手術時間較短",
+    "explanation": "壓瘡（壓力性損傷）依 NPIAP 2016 分為 Stage 1 至 Stage 4、無法分期與深部組織壓力性損傷，沒有 Stage 5。Stage 1 為皮膚完整但有按壓不退色的紅斑，Stage 2 為部分皮層缺損並暴露真皮，Stage 3 為全層皮膚缺損可見脂肪，但看不到筋膜、肌肉、肌腱、韌帶、軟骨與骨頭，Stage 4 為全層皮膚與組織缺損，並暴露或可直接摸到筋膜、肌肉、肌腱、韌帶、軟骨或骨頭。<br>(A) 錯誤，Stage 2 是部分皮層缺損，不會深及骨頭，通常以保守治療處理，不需要手術。<br>(B) 錯誤，Stage 3 看不到骨頭。深層壓瘡血流不佳且需要軟組織填充，單純植皮不適合。<br>(C) 正確，傷口深及骨頭屬於 Stage 4。治療為徹底清創壞死組織與受感染的骨頭，再用局部肌皮瓣重建，薦骨處常用臀大肌皮瓣，可提供血流與軟組織填充。<br>(D) 錯誤，壓瘡分期沒有 Stage 5。顯微游離皮瓣不是壓瘡重建的首選，局部皮瓣通常已足夠，手術時間也較短。",
     "tags": [
       "113-2-5",
       "重建整形外科"
