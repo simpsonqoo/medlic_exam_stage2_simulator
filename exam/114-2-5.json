@@ -574,7 +574,7 @@
       "D": "Vasoactive intestinal peptide-secreting tumor"
     },
     "answer": "B",
-    "explanation": "Zollinger-Ellison syndrome是由特定的神經內分泌腫瘤引起的症候群。<br>(A) 錯誤，Insulinoma（胰島素瘤）會分泌過量胰島素，導致低血糖症狀（Whipple's triad），而非Zollinger-Ellison syndrome<br>(B) 正確，Zollinger-Ellison syndrome是由Gastrinoma（胃泌素瘤）所導致。Gastrinoma分泌過量胃泌素（gastrin），刺激胃酸過度分泌，導致頑固性消化性潰瘍（特別是十二指腸多發性潰瘍或空腸潰瘍）、腹瀉等症狀。約60%的gastrinoma位於胰臟，40%位於十二指腸<br>(C) 錯誤，Glucagonoma（升糖素瘤）會分泌過量升糖素，導致糖尿病、壞死性遊走性紅斑（necrolytic migratory erythema）、體重減輕等，而非Zollinger-Ellison syndrome<br>(D) 錯誤，血管活性腸肽分泌腫瘤（VIPoma）會導致Verner-Morrison syndrome（或稱WDHA syndrome：watery diarrhea, hypokalemia, achlorhydria），表現為大量水瀉、低血鉀、胃酸缺乏，而非Zollinger-Ellison syndrome",
+    "explanation": "Zollinger-Ellison syndrome 是由特定的神經內分泌腫瘤引起的症候群。<br>(A) 錯誤，Insulinoma（胰島素瘤）會分泌過量胰島素，導致低血糖症狀（Whipple 三合一），而非 Zollinger-Ellison syndrome。<br>(B) 正確，Zollinger-Ellison syndrome 是由 Gastrinoma（胃泌素瘤）所導致。Gastrinoma 分泌過量胃泌素（gastrin），刺激胃酸過度分泌，導致頑固性消化性潰瘍（可出現在十二指腸球部以遠，包括遠端十二指腸與空腸）、腹瀉等症狀。Gastrinoma 多位於胰臟或十二指腸壁，目前以十二指腸為最常見位置。<br>(C) 錯誤，Glucagonoma（升糖素瘤）會分泌過量升糖素，導致糖尿病、壞死性遊走性紅斑（necrolytic migratory erythema）、體重減輕等，而非 Zollinger-Ellison syndrome。<br>(D) 錯誤，血管活性腸肽分泌腫瘤（VIPoma）會導致 Verner-Morrison syndrome（又稱 WDHA syndrome：watery diarrhea, hypokalemia, achlorhydria），表現為大量水瀉、低血鉀、胃酸缺乏，而非 Zollinger-Ellison syndrome。",
     "tags": [
       "114-2-5",
       "肝膽胰外科"
@@ -659,7 +659,7 @@
       "D": "經常為multi-focal，故手術須將甲狀腺切除乾淨"
     },
     "answer": "D",
-    "explanation": "濾泡性甲狀腺癌（follicular thyroid carcinoma）的特性與乳突性甲狀腺癌不同。<br>(A) 正確，發生率有下降的趨勢，可能與食鹽加碘（減少碘缺乏導致的甲狀腺病變）及病理組織分類的進步（將部分病例重新分類為濾泡變異型乳突癌）有關<br>(B) 正確，手術前無法經由細針抽吸細胞學檢查（fine needle aspiration cytology, FNAC）診斷是濾泡腺瘤（follicular adenoma）或是濾泡癌（follicular carcinoma），因為兩者的細胞學表現相似，需要組織病理學檢查確認是否有血管或包膜侵犯才能確診<br>(C) 正確，濾泡性甲狀腺癌的頸部淋巴結轉移發生率（約10-15%）較低，遠低於乳突性甲狀腺癌（30-40%）。濾泡癌較常經由血行轉移至肺、骨骼等遠處器官<br>(D) 錯誤，濾泡性甲狀腺癌通常為單一病灶（unifocal），並非經常為多發性（multi-focal）。多發性病灶較常見於乳突性甲狀腺癌。因此濾泡癌的手術範圍需視腫瘤大小及侵犯程度而定，不一定需要全甲狀腺切除",
+    "explanation": "濾泡癌（follicular thyroid carcinoma）的特性與乳突癌不同。<br>(A) 正確，濾泡癌的發生率有下降趨勢，可能與食鹽加碘（減少碘缺乏相關的甲狀腺病變）及病理分類進步（部分病例重新歸類為濾泡變異型乳突癌）有關。<br>(B) 正確，濾泡腺瘤與濾泡癌的細胞學表現相似，細針穿刺細胞學無法區分，需要切除後的組織病理確認有無被膜或血管侵犯。<br>(C) 正確，濾泡癌的頸部淋巴結轉移較少，約 10%，低於乳突癌。濾泡癌較常經血行轉移到肺與骨骼。<br>(D) 錯誤，濾泡癌通常為單發、有被膜的病灶，多灶性是乳突癌的特徵。濾泡型腫瘤先做腺葉切除，確診為癌後再依風險決定是否補全甲狀腺切除，並非一律全甲狀腺切除。",
     "tags": [
       "114-2-5",
       "內分泌外科"
@@ -676,7 +676,7 @@
       "D": "對於parathyroid adenoma的定位檢查，sestamibi scan的敏感度（sensitivity）大於80%"
     },
     "answer": "D",
-    "explanation": "原發性副甲狀腺功能亢進症（primary hyperparathyroidism）的診斷及治療有其特定原則。<br>(A) 錯誤，約80%的原發性副甲狀腺功能亢進症是由單一副甲狀腺腺瘤（solitary parathyroid adenoma）引起的散發性病例，僅約5-10%的病人合併有多發性內分泌腫瘤症候群（MEN 1或MEN 2A，注意不是MEN 2B）<br>(B) 錯誤，大多數人有四顆副甲狀腺（約80-85%），少數人可能有三顆或五顆以上。原發性副甲狀腺功能亢進症病人的副甲狀腺數量通常與正常人相同，並非多於四顆以上<br>(C) 錯誤，若病因為solitary parathyroid tumor，副甲狀腺腺瘤（parathyroid adenoma）與副甲狀腺癌（parathyroid carcinoma）的比例約為100：1或更高，腺瘤遠多於癌症，並非1：3<br>(D) 正確，對於副甲狀腺腺瘤的定位檢查，Tc-99m sestamibi scan（核醫鍺掃描）的敏感度大於80%（約80-90%），是常用的術前定位工具，可幫助外科醫師規劃手術方式",
+    "explanation": "原發性副甲狀腺功能亢進症（primary hyperparathyroidism）約 80~85% 由單一腺瘤引起，其餘多為多腺病變，副甲狀腺癌約占 1% 或更低。<br>(A) 錯誤，遺傳性原發性副甲狀腺功能亢進（MEN1、MEN2A、MEN4、HPT-JT 等）合計約 5~10%，並非 80%，且 MEN2 中與副甲狀腺相關者為 MEN2A，不是 MEN2B。<br>(B) 錯誤，多數人有 4 顆副甲狀腺（約 84%），超過 4 顆者約 13%，原發性副甲狀腺功能亢進病人的腺體數目與一般人相同，並非通常多於 4 顆。<br>(C) 錯誤，單一腫瘤引起的原發性副甲狀腺功能亢進，腺瘤與癌的比例約 100：1 或更高，並非 1：3。<br>(D) 正確，Tc-99m sestamibi 掃描對單一副甲狀腺腺瘤的敏感度約 80~90%，是常用的術前定位工具之一。",
     "tags": [
       "114-2-5",
       "內分泌外科"
@@ -693,7 +693,7 @@
       "D": "Pemberton sign"
     },
     "answer": "D",
-    "explanation": "不同的理學檢查徵象可以提示特定的病理狀況。<br>(A) 錯誤，Carnett sign用於區分腹痛是腹壁來源還是腹腔內來源，當患者收縮腹肌時疼痛加劇表示陽性，提示腹壁疼痛<br>(B) 錯誤，Kehr sign是指左肩疼痛，提示橫膈下刺激（如脾臟破裂導致的血液刺激橫膈），與頸部甲狀腺腫無關<br>(C) 錯誤，Phalen sign用於診斷腕隧道症候群（carpal tunnel syndrome），讓患者雙手腕屈曲60秒後出現手指麻木表示陽性<br>(D) 正確，Pemberton sign用於檢測胸內甲狀腺腫（intrathoracic goiter）或縱隔腔腫瘤導致的上腔靜脈壓迫。檢查方法是讓患者將雙手高舉過頭維持1-2分鐘，若出現面部潮紅、頸靜脈怒張、呼吸困難或頭暈等症狀，表示Pemberton sign陽性，提示胸廓入口被腫塊阻塞導致靜脈回流受阻",
+    "explanation": "不同的理學檢查徵象可以提示特定的病理狀況。<br>(A) 錯誤，Carnett sign用於區分腹痛是腹壁來源還是腹腔內來源，當患者收縮腹肌時疼痛加劇表示陽性，提示腹壁疼痛<br>(B) 錯誤，Kehr sign是指左肩疼痛，提示橫膈下刺激（如脾臟破裂導致的血液刺激橫膈），與頸部甲狀腺腫無關<br>(C) 錯誤，Phalen sign用於診斷腕隧道症候群（carpal tunnel syndrome），讓患者雙手腕屈曲60秒後出現手指麻木表示陽性<br>(D) 正確，Pemberton sign用於檢測胸內甲狀腺腫（intrathoracic goiter）或縱隔腔腫瘤導致的上腔靜脈壓迫。檢查方法是讓患者將雙手高舉過頭維持1~2分鐘，若出現面部潮紅、頸靜脈怒張、呼吸困難或頭暈等症狀，表示Pemberton sign陽性，提示胸廓入口被腫塊阻塞導致靜脈回流受阻",
     "tags": [
       "114-2-5",
       "內分泌外科"
@@ -1105,7 +1105,7 @@
       "D": "腎上腺瘤大部分為影像檢查時意外發現"
     },
     "answer": "A",
-    "explanation": "腎上腺瘤的處理需根據大小及功能性決定。<br>(A) 錯誤，大於6公分的腎上腺瘤即使無功能（non-functioning），仍建議手術切除，因為腫瘤越大惡性的機率越高。一般建議：＜4公分可追蹤，4-6公分需個別評估（考慮影像特徵、成長速度等），＞6公分建議手術切除<br>(B) 正確，目前最佳的腎上腺切除方法為利用腹腔鏡手術進行（laparoscopic adrenalectomy），包括經腹腔或經後腹腔途徑，相較於傳統開腹手術有傷口小、恢復快、疼痛少等優點<br>(C) 正確，小於4公分且有功能的腎上腺瘤（如aldosteronoma、cortisol-secreting adenoma、pheochromocytoma等），建議手術切除治療以控制內分泌症狀及併發症<br>(D) 正確，腎上腺瘤大部分（約70-80%）為影像檢查時意外發現（adrenal incidentaloma），隨著CT及MRI的廣泛使用，發現率逐漸增加",
+    "explanation": "腎上腺瘤的處理依功能與影像特徵決定。<br>(A) 錯誤，大於 6 公分的腎上腺瘤即使無功能，教科書仍建議手術切除，因為腫瘤越大惡性機率越高，不是只做密集追蹤。教科書的傳統切點為小於 4 公分可追蹤，4 至 6 公分依影像特徵與成長速度個別評估，大於 6 公分建議手術。ESE/ENSAT 2023 指引則以影像為主，大於等於 4 公分且影像不均質或未顯影 HU 大於 20 者有相當的惡性風險，通常建議手術，均質且 HU 小於等於 10 的良性病灶不論大小都不需手術。<br>(B) 正確，微創腎上腺切除（腹腔鏡，經腹腔或經後腹腔）為首選術式，AAES 2022 與 ESE/ENSAT 2023 都建議，傷口小、恢復快。<br>(C) 正確，單側且有臨床意義賀爾蒙過量的腫瘤（醛固酮瘤、分泌皮質醇的腺瘤、嗜鉻細胞瘤等），標準治療是腎上腺切除，不論腫瘤大小。<br>(D) 正確，腎上腺偶發瘤是因其他原因做影像檢查時意外發現的腎上腺腫瘤，盛行率約 2~3%，隨年齡上升。",
     "tags": [
       "114-2-5",
       "泌尿外科"

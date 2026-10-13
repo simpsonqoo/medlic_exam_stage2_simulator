@@ -576,7 +576,7 @@
       "D": "90%的insulinoma是sporadic，而10% 的insulinoma與multiple endocrine neoplasia type I（MEN I）syndrome相關"
     },
     "answer": "B",
-    "explanation": "胰臟內分泌瘤包括多種類型，各有特定的臨床表現和分布位置。<br>(A) 正確，insulinoma是最常見的胰臟內分泌瘤，主要症狀為Whipple triad：<br>· 禁食時出現低血糖症狀（symptomatic fasting hypoglycemia）<br>· 血糖值<50 mg/dL<br>· 補充葡萄糖後症狀緩解<br>(B) 錯誤，此處描述的是gastrinoma的好發位置（gastrinoma triangle），而非insulinoma。Passaro's triangle（又稱gastrinoma triangle）範圍由膽囊管與總膽管交界處、十二指腸第二及第三部分、胰臟頸部和體部所組成的三角區域，70-90%的gastrinoma發生於此。而insulinoma約90%發生在胰臟實質內，分布相對均勻於胰頭、體、尾<br>(C) 正確，Zollinger-Ellison syndrome是由gastrinoma引起，過度分泌gastrin造成胃酸過多，主要症狀包括腹痛（abdominal pain）、消化性潰瘍（peptic ulcer disease）和嚴重食道炎（severe esophagitis）<br>(D) 正確，約90%的insulinoma是偶發性的（sporadic），10%與multiple endocrine neoplasia type I（MEN I）syndrome相關。MEN I患者的insulinoma通常是多發性的",
+    "explanation": "胰臟內分泌瘤包括多種類型，各有特定的臨床表現和分布位置。<br>(A) 正確，insulinoma 是最常見的功能性胰臟內分泌瘤，主要表現為 Whipple 三合一：空腹時出現低血糖症狀、血糖偏低（傳統寫 &lt; 50 mg/dL，Endocrine Society 2009 為 &lt; 55 mg/dL）、補充葡萄糖後症狀緩解。<br>(B) 錯誤，此處描述的是 gastrinoma 的好發位置（gastrinoma triangle）。Passaro's triangle 的範圍由膽囊管與總膽管交會處、十二指腸第二及第三部交界、胰臟頸部與體部交界所組成，約 80% 的 gastrinoma 發生於此。insulinoma 則在胰頭、體、尾大致平均分布。<br>(C) 正確，Zollinger-Ellison syndrome 是由 gastrinoma 引起，過度分泌 gastrin 造成胃酸過多，主要症狀包括腹痛、消化性潰瘍（peptic ulcer disease）和嚴重食道炎（severe esophagitis）。<br>(D) 正確，約 90% 的 insulinoma 是散發性，約 5~10% 與 MEN1 相關。MEN1 患者的 insulinoma 較常為多發性。",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -661,7 +661,7 @@
       "D": "無法切除的轉移進展性insulinoma，可考慮everolimus治療"
     },
     "answer": "A",
-    "explanation": "此題考核 insulinoma 的診斷特徵，解題關鍵在於區分內源性高胰島素血症（insulinoma）與外源性胰島素注射（factitious hypoglycemia）的實驗室差異。<br>(A) 錯誤（最不適當），insulinoma 由胰島 β 細胞自主分泌過多胰島素，胰島素與 C-peptide 均由同一胰島素前驅物（proinsulin）裂解而來，兩者必定同時升高。若出現「insulin 升高但 C-peptide 極低」，反而代表病人自行注射外源性胰島素（exogenous insulin），因為外源性胰島素不含 C-peptide，會抑制內源性胰島素分泌而使 C-peptide 降低。因此此選項的描述不符合 insulinoma 的特徵，是錯誤敘述。<br>(B) 正確，insulinoma 雖然造成明顯的低血糖症狀，但腫瘤平均大小通常小於 2 公分（約 1–2 cm），因為即使是小腫瘤也能分泌足量胰島素引發症狀。這也是為何術前定位（如腹部超音波、CT、EUS）有時困難。<br>(C) 正確，與 multiple endocrine neoplasia type 1（MEN I）相關的 insulinoma 惡性機率較散發性（sporadic）insulinoma 高，且常為多發性病灶，處理上更為複雜。散發性 insulinoma 約 90% 為良性，而 MEN I 相關者惡性比例更高。<br>(D) 正確，對於無法手術切除的轉移性或進展性 insulinoma，everolimus（mTOR 抑制劑）是經 FDA 核准的治療選項，可用於控制腫瘤生長並減少胰島素過度分泌所造成的低血糖症狀。",
+    "explanation": "此題考核 insulinoma 的診斷特徵，解題關鍵在於區分內源性高胰島素血症（insulinoma）與外源性胰島素注射的實驗室差異。<br>(A) 錯誤（最不適當），insulinoma 由胰島 β 細胞自主分泌過多胰島素，胰島素與 C-peptide 均由同一個 proinsulin 裂解而來，兩者會同時升高。若出現 insulin 升高但 C-peptide 極低，反而代表病人注射了外源性胰島素，因為外源性胰島素不含 C-peptide，還會抑制內生性胰島素分泌。<br>(B) 正確，insulinoma 的腫瘤多小於 2 cm，即使是小腫瘤也能分泌足量胰島素引發症狀，所以術前定位（CT、MRI、EUS）有時困難。<br>(C) 公告視為正確的敘述，但查無支持。Brandi 2025 指出 MEN1 相關 insulinoma 多為良性單發，最多約三分之一病人為多發。小型研究中 MEN1 相關者診斷時已擴散的比例較高，但腫瘤大小、Ki-67 與預後和散發性沒有差異，「惡性機會較高」未被證實。散發性 insulinoma 約 90% 為良性。<br>(D) 正確，無法切除的轉移性或進展性胰臟神經內分泌腫瘤可使用 everolimus（mTOR 抑制劑），也是轉移性 insulinoma 的全身治療選項。",
     "tags": [
       "112-1-5",
       "肝膽胰外科"
@@ -678,7 +678,7 @@
       "D": "stage IV"
     },
     "answer": "B",
-    "explanation": "此題考核 AJCC TNM 第八版（2018 年起使用）對分化型甲狀腺癌（differentiated thyroid cancer，包含乳突癌）的分期原則。第八版最重要的改變是：年齡切點由 45 歲改為 55 歲，且 55 歲以下的病患不論腫瘤大小、淋巴結狀態，均最高只能分到 Stage II。<br><br>AJCC 第八版分化型甲狀腺癌分期（年齡 &lt; 55 歲）：<br>· Stage I：Any T, Any N, M0（無遠端轉移）<br>· Stage II：Any T, Any N, M1（有遠端轉移）<br>（55 歲以下不存在 Stage III 或 Stage IV）<br><br>(A) 錯誤，此病人有肺部轉移（M1），因此不符合 Stage I（需 M0）。<br>(B) 正確，此病人為 30 歲（&lt; 55 歲），合併肺部遠端轉移（M1），依第八版分期為 Stage II。Level IV 淋巴結轉移（N1b）在 55 歲以下不影響分期，仍維持 Stage II。<br>(C) 錯誤，Stage III 在第八版中僅適用於 55 歲以上患者，55 歲以下不存在 Stage III。<br>(D) 錯誤，Stage IV 同樣僅適用於 55 歲以上患者，且需符合特定的 T 或 M 標準；55 歲以下患者即使有遠端轉移也只到 Stage II，不會到 Stage IV。",
+    "explanation": "此題考核 AJCC 第八版（2018 年起使用）分化型甲狀腺癌（包含乳突癌）的分期。第八版最重要的改變是年齡切點由 45 歲改為 55 歲，且 55 歲以下病人不論腫瘤大小與淋巴結狀態，最高只到 II 期。55 歲以下無遠端轉移（M0）為 I 期，有遠端轉移（M1）為 II 期，不存在 III 期與 IV 期。<br>(A) 錯誤，此病人有肺部轉移（M1），不符合 I 期（需 M0）。<br>(B) 正確，此病人 30 歲（&lt; 55 歲）且有肺部遠端轉移（M1），分期為 II 期。第 IV 區淋巴結轉移（N1b）在 55 歲以下不影響分期。<br>(C) 錯誤，III 期只適用於 55 歲以上且為 T4a 的病人。<br>(D) 錯誤，IV 期只適用於 55 歲以上的病人（T4b 為 IVA，有遠端轉移為 IVB），55 歲以下即使有遠端轉移也只到 II 期。",
     "tags": [
       "112-1-5",
       "內分泌外科"
@@ -695,7 +695,7 @@
       "D": "術後百分之九十血壓恢復正常，不需再服用任何高血壓藥物"
     },
     "answer": "D",
-    "explanation": "此題為原發性醛固酮增多症（primary aldosteronism, Conn's syndrome）的典型案例，解題關鍵在於整合實驗室數據（低鉀血症、低 renin、高 aldosterone）、影像學（單側腎上腺腺瘤）以及手術方式與術後預後的正確認知。<br>· 低血鉀（K⁺ 2.2 mEq/L）、高 aldosterone（32.2 ng/dL）、極低 plasma renin activity（0.20 ng/mL/hr）→ 符合原發性醛固酮增多症<br>· CT 顯示右腎上腺單側腺瘤 → 手術切除為首選治療<br>· 術後血壓改善但完全正常化的比例有限，需了解預後現實<br>(A) 正確，經腹腔（transperitoneal）腹腔鏡腎上腺切除術是治療單側腎上腺腺瘤的標準手術方式之一，為可接受的選項。<br>(B) 正確，經後腹腔（retroperitoneal）腹腔鏡腎上腺切除術同樣是被廣泛接受的手術途徑，尤其適合右側腎上腺，可避免干擾腹腔臟器，兩種入路均屬臨床常規。<br>(C) 正確，若術後血壓仍高，spironolactone 作為礦物皮質素受體拮抗劑（mineralocorticoid receptor antagonist）是適當的藥物選擇，可針對殘餘的醛固酮效應進行控制。<br>(D) 錯誤，研究顯示單側腎上腺腺瘤切除術後，完全治癒（血壓完全恢復正常且不需任何降壓藥）的比例約為 30%–60%，而非「百分之九十」。許多病患術後仍需繼續服用降壓藥物控制血壓，原因包括長期高血壓已造成血管結構改變、合併有原發性高血壓（essential hypertension）等。因此「術後九成血壓恢復正常且不需任何藥物」的說法過於樂觀，是錯誤的描述。",
+    "explanation": "此題為原發性醛固酮增多症的典型案例，低血鉀、醛固酮升高、血漿腎素活性受抑制，CT 顯示右腎上腺單側腺瘤，治療首選單側腎上腺切除。<br>(A) 正確，腹腔鏡腎上腺切除術是單側腺瘤的標準術式，經腹腔途徑是常規做法之一。<br>(B) 正確，經後腹腔途徑同樣是被廣泛接受的腹腔鏡途徑，兩種入路皆屬臨床常規。<br>(C) 正確，術後血壓仍高時可使用礦物皮質素受體拮抗劑 spironolactone，並可搭配其他降壓藥。<br>(D) 錯誤，PASO 共識（2017）整理單側腎上腺切除後的結果，臨床完全緩解（血壓正常且不需降壓藥）約 37%，部分緩解（血壓改善或降壓藥減少）約 47%，生化完全緩解（血鉀與醛固酮腎素比值恢復）約 94%。因此「術後九成血壓恢復正常且不需任何降壓藥」的說法過於樂觀。未完全緩解的常見原因是合併本態性高血壓，以及長期高血壓造成的血管與腎臟變化。",
     "tags": [
       "112-1-5",
       "內分泌外科"

@@ -916,12 +916,12 @@
       "D": "97～99%"
     },
     "answer": "B",
-    "explanation": "貝塞斯達系統（Bethesda system for reporting thyroid cytopathology）將甲狀腺細針穿刺結果分為六類，需記憶各類別對應的惡性機率。<br>(A) 錯誤，5～15%的惡性機率對應的是貝塞斯達第三類：意義不明確的濾泡型病灶（AUS/FLUS, atypia of undetermined significance/follicular lesion of undetermined significance）<br>(B) 正確，濾泡型腫瘤（follicular neoplasm）屬於貝塞斯達第四類（Bethesda IV），其惡性風險為15～30%，需要進一步手術（通常為診斷性半切除）確認是否為濾泡癌（follicular carcinoma）或濾泡腺瘤（follicular adenoma），因細胞學無法區分兩者，須靠組織學確認有無血管/包膜侵犯<br>(C) 錯誤，60～75%對應的是貝塞斯達第五類：疑似惡性（suspicious for malignancy）<br>(D) 錯誤，97～99%對應的是貝塞斯達第六類：惡性（malignant）",
+    "explanation": "貝塞斯達系統（Bethesda system for reporting thyroid cytopathology）將甲狀腺細針穿刺結果分為六類，需記憶各類別對應的惡性機率。題目指定 2009 年版，數字與 2023 年第三版不同（2023 版第三類約 22%，第四類約 30%，第五類約 74%，第六類約 97%）。<br>(A) 錯誤，5~15%的惡性機率對應 2009 版貝塞斯達第三類：意義不明確的非典型細胞或濾泡型病灶（AUS/FLUS, atypia of undetermined significance/follicular lesion of undetermined significance）<br>(B) 正確，濾泡型腫瘤（follicular neoplasm）屬於貝塞斯達第四類（Bethesda IV），2009 版惡性風險為15~30%（2023 版約 30%），需要進一步手術（通常為診斷性腺葉切除）確認是否為濾泡癌（follicular carcinoma）或濾泡腺瘤（follicular adenoma），因細胞學無法區分兩者，須靠組織學確認有無血管或包膜侵犯<br>(C) 錯誤，60~75%對應 2009 版貝塞斯達第五類：疑似惡性（suspicious for malignancy）<br>(D) 錯誤，97~99%對應 2009 版貝塞斯達第六類：惡性（malignant）",
     "tags": [
       "110-1-5",
       "內分泌外科"
     ],
-    "group_id": "group_9773"
+    "group_id": "group_9772"
   },
   {
     "id": 1101555,
@@ -933,12 +933,12 @@
       "D": "腫瘤大小"
     },
     "answer": "B",
-    "explanation": "甲狀腺癌（thyroid cancer）的TNM分期系統有其特殊性，年齡是重要的分期因子，需辨別哪些因素影響分期、哪些不影響。<br>(A) 錯誤，年齡（age）在甲狀腺分化癌的TNM分期中是關鍵因子，以55歲為切割點（2017年第八版AJCC更新為55歲）：55歲以下即使有轉移也僅為Stage II，55歲以上才有Stage III和IV的分類<br>(B) 正確，性別（sex）並不是甲狀腺癌TNM分期的考量因素，分期系統中沒有依性別調整的項目<br>(C) 錯誤，腫瘤侵犯甲狀腺旁肌肉（strap muscles）屬於腫瘤的T分期範疇（T3b：侵犯甲狀腺外周軟組織），直接影響T stage<br>(D) 錯誤，腫瘤大小（tumor size）是T分期的主要依據：T1（≤2 cm）、T2（2～4 cm）、T3a（>4 cm且限於甲狀腺內），腫瘤大小直接決定T stage",
+    "explanation": "甲狀腺癌的 TNM 分期有其特殊性，年齡是重要的分期因子，需辨別哪些因素影響分期。<br>(A) 錯誤，年齡是分化型甲狀腺癌分期的關鍵因子，AJCC 第八版以 55 歲為切點，55 歲以下即使有遠端轉移也只到 II 期，55 歲以上才有 III 與 IV 期。<br>(B) 正確，性別不是分期項目，分期系統中沒有依性別調整的項目。<br>(C) 錯誤，腫瘤肉眼可見侵犯頸前肌（strap muscles）屬 T3b，直接影響 T 分期。<br>(D) 錯誤，腫瘤大小是 T 分期的主要依據：T1 為 ≤ 2 cm，T2 為 &gt; 2~4 cm，T3a 為 &gt; 4 cm 且限於甲狀腺內。",
     "tags": [
       "110-1-5",
       "內分泌外科"
     ],
-    "group_id": "group_9774"
+    "group_id": "group_9772"
   },
   {
     "id": 1101556,
@@ -950,7 +950,7 @@
       "D": "副甲狀腺機能亢進導致骨吸收（bone resorption）增強，可能導致骨骼出現褐色瘤（brown tumor）"
     },
     "answer": "A",
-    "explanation": "腎性骨病變（renal osteodystrophy）的病生理機轉是環環相扣的連鎖反應，需掌握腎衰竭如何導致磷鈣代謝異常。<br>(A) 錯誤，腎絲球濾過率（GFR）下降時，腎臟排磷能力下降，造成血磷滯留（高磷血症，hyperphosphatemia），而非血磷值過低；高磷血症是腎性骨病變的起始觸發因子<br>(B) 正確，腎臟是活性維生素D（1,25-dihydroxyvitamin D₃，骨化三醇 calcitriol）合成的場所，腎衰竭時合成減少，導致腸道鈣吸收下降<br>(C) 正確，高磷血症與活性維生素D不足共同導致低鈣血症（hypocalcemia），進而刺激副甲狀腺（parathyroid glands）分泌更多副甲狀腺素（PTH），形成次發性副甲狀腺機能亢進（secondary hyperparathyroidism）<br>(D) 正確，長期過度分泌PTH加速骨吸收（bone resorption），嚴重時形成棕色瘤（brown tumor），是纖維性骨炎（osteitis fibrosa cystica）的病理表現",
+    "explanation": "腎性骨病變（renal osteodystrophy）的病生理機轉環環相扣，需掌握腎衰竭如何導致磷鈣代謝異常。<br>(A) 錯誤，腎絲球濾過率（GFR）下降時，腎臟排磷能力下降，造成血磷滯留（高磷血症，hyperphosphatemia），而非血磷值過低。高磷血症是腎性骨病變的起始因子之一。<br>(B) 正確，腎臟是活性維生素 D（1,25-dihydroxyvitamin D₃，骨化三醇 calcitriol）合成的場所，腎衰竭時合成減少，導致腸道鈣吸收下降。<br>(C) 正確，高磷血症與活性維生素 D 不足共同導致低鈣血症（hypocalcemia），進而刺激副甲狀腺分泌更多副甲狀腺素（PTH），形成次發性副甲狀腺機能亢進（secondary hyperparathyroidism）。<br>(D) 正確，長期過度分泌 PTH 加速骨吸收（bone resorption），嚴重時形成褐色瘤（brown tumor），是纖維囊性骨炎（osteitis fibrosa cystica）的病理表現。",
     "tags": [
       "110-1-5",
       "骨科"
@@ -1103,7 +1103,7 @@
       "D": "Cushing's syndrome常有高血壓及肥胖"
     },
     "answer": "B",
-    "explanation": "雙側腎上腺切除後的內分泌補充是攸關病人生命安全的重要知識，需了解腎上腺皮質功能喪失的後果。<br>(A) 正確，庫欣氏症候群（Cushing's syndrome）與腎上腺皮質過量分泌皮質醇（cortisol）相關，大多數（約65～70%）病例源自垂體腺瘤分泌過量ACTH（稱為庫欣氏病, Cushing's disease），導致雙側腎上腺皮質增生（bilateral adrenocortical hyperplasia）<br>(B) 錯誤，雙側腎上腺切除後，病人永久喪失腎上腺皮質功能，必須終身補充糖皮質素（glucocorticoid，如氫化可體松 hydrocortisone）及礦物性皮質素（mineralocorticoid，如氟氫可體松 fludrocortisone），否則將發生腎上腺危象（adrenal crisis），危及生命<br>(C) 正確，米托坦（mitotane）是一種腎上腺皮質毒性藥物（adrenocorticolytic agent），可用於治療腎上腺皮質癌（adrenocortical carcinoma），抑制腎上腺類固醇合成並具有腫瘤毒殺作用<br>(D) 正確，庫欣氏症候群的典型臨床表現包括高血壓（hypertension）、中央性肥胖（central obesity）、月亮臉（moon face）、水牛肩（buffalo hump）、紫色妊娠紋等",
+    "explanation": "雙側腎上腺切除後的內分泌補充，攸關病人生命安全。<br>(A) 正確，以內源性庫欣氏症候群而言，約 80~85% 為 ACTH 依賴性，其中庫欣氏病（垂體 ACTH 腺瘤）占大宗，使雙側腎上腺皮質增生。若計入外源性（醫源性）則類固醇用藥是最常見的原因。<br>(B) 錯誤，雙側腎上腺切除後病人永久喪失腎上腺皮質功能，必須終身補充糖皮質素（如 hydrocortisone）及礦物性皮質素（如 fludrocortisone），否則會發生腎上腺危象。<br>(C) 正確，mitotane 是腎上腺皮質毒性藥物，用於腎上腺皮質癌，包括高復發風險的術後輔助治療與晚期疾病。<br>(D) 正確，庫欣氏症候群的典型表現包括高血壓、中央性肥胖、月亮臉、水牛肩、紫色皮膚紋與容易瘀青等。",
     "tags": [
       "110-1-5",
       "泌尿外科"

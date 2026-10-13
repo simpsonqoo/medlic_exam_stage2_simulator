@@ -505,7 +505,7 @@
       "D": "有將近60%的gastrinoma為惡性的，且常合併淋巴結、肝臟或其他遠端轉移"
     },
     "answer": "B",
-    "explanation": "Zollinger-Ellison syndrome（ZES）是胃泌素瘤（gastrinoma）過度分泌胃泌素導致的症候群。<br>(A) 正確，ZES由神經內分泌瘤gastrinoma異常分泌胃泌素（gastrin）造成，導致胃酸過度分泌、難治性消化性潰瘍、腹瀉<br>(B) 錯誤，約20-30%的gastrinoma病患合併的是multiple endocrine neoplasia type I（MEN I），而非MEN II。MEN I包括副甲狀腺、胰臟、腦下垂體腫瘤（3P's）。MEN I相關的gastrinoma通常是多發性、較難完全切除治癒<br>(C) 正確，約80%的gastrinoma位於胃泌素瘤三角（gastrinoma triangle）內，三角界線為膽囊管、胰臟頸部/體部交界、十二指腸第二和第三部交界。但腫瘤通常很小（＜1 cm），術前定位困難<br>(D) 正確，約60%的gastrinoma是惡性的，常見淋巴結轉移（約50%）、肝轉移（5-10%）或遠端轉移<br>MEN I（3P's）：副甲狀腺、胰臟、腦下垂體。MEN II（2P+M）：副甲狀腺、嗜鉻細胞瘤、甲狀腺髓質癌。",
+    "explanation": "Zollinger-Ellison syndrome（ZES）是胃泌素瘤（gastrinoma）過度分泌胃泌素導致的症候群。<br>(A) 正確，ZES 由神經內分泌瘤 gastrinoma 異常分泌胃泌素（gastrin）造成，導致胃酸過度分泌、難治性消化性潰瘍、腹瀉。<br>(B) 錯誤，約 20~25% 的 gastrinoma 病患合併的是 MEN1（multiple endocrine neoplasia type I），而非 MEN2。MEN1 包括副甲狀腺、胰臟、腦下垂體腫瘤（3P's）。MEN1 相關的 gastrinoma 通常是多發性，較難以手術完全治癒。<br>(C) 正確，約 80% 的 gastrinoma 位於胃泌素瘤三角（gastrinoma triangle）內，三角由膽囊管與總膽管交會處、十二指腸第二與第三部交界、胰臟頸部與體部交界所組成。腫瘤通常很小（&lt; 1 cm），術前定位困難。<br>(D) 正確，約 60% 的 gastrinoma 是惡性的，常見局部淋巴結與肝臟轉移。<br>MEN1（3P's）：副甲狀腺、胰臟、腦下垂體。MEN2（2P+M）：副甲狀腺、嗜鉻細胞瘤、甲狀腺髓質癌。",
     "tags": [
       "112-2-5",
       "肝膽胰外科"
@@ -573,7 +573,7 @@
       "D": "大多數為偶發性（sporadic）而與遺傳無關，但合併第一型多發性內分泌腺瘤（multiple endocrine neoplasia type 1, MEN-1）的病患較多單發性但復發率較高"
     },
     "answer": "B",
-    "explanation": "胰島素瘤是最常見的功能性胰臟神經內分泌腫瘤。<br>(A) 錯誤，胰島素瘤的診斷三聯症稱為Whipple's triad（不是Charcot's triad）：症狀性低血糖、有記載的血糖值＜55 mg/dL（不是50 mg/mL，單位錯誤）、補充葡萄糖後症狀緩解。Charcot's triad是膽管炎的發燒、黃疸、右上腹痛<br>(B) 正確，C-peptide是內生性胰島素分泌的標記。胰島素瘤會同時分泌胰島素和C-peptide，因此C-peptide升高。外來胰島素注射或口服降血糖藥導致的低血糖，C-peptide會被抑制（外來胰島素）或正常（降血糖藥刺激內生性胰島素）<br>(C) 錯誤，胰島素瘤與其他胰臟神經內分泌腫瘤不同，約90%為單發性且良性，只有約10%是多發性或惡性<br>(D) 錯誤，大多數胰島素瘤（90%）是偶發性（sporadic）。約5-10%與MEN-1相關，MEN-1相關的胰島素瘤較常是多發性，且復發率較高<br>診斷：72小時禁食試驗，測量血糖、胰島素、C-peptide、proinsulin。定位：CT、MRI、內視鏡超音波。",
+    "explanation": "胰島素瘤是最常見的功能性胰臟神經內分泌腫瘤。<br>(A) 錯誤，胰島素瘤的診斷三合一稱為 Whipple 三合一（不是 Charcot 三合一）：症狀性低血糖、有記載的血糖值 &lt; 55 mg/dL（選項寫 50 mg/mL，單位也錯）、補充葡萄糖後症狀緩解。Charcot 三合一是膽管炎的發燒、黃疸與右上腹痛。<br>(B) 正確，C-peptide 是內生性胰島素分泌的標記。胰島素瘤同時分泌胰島素與 C-peptide，所以兩者都升高。外來胰島素會抑制內生性分泌，使 C-peptide 偏低。磺醯脲類則刺激內生性分泌，C-peptide 同樣升高，需靠藥物篩檢區分。<br>(C) 錯誤，胰島素瘤與其他胰臟神經內分泌腫瘤不同，約 90% 為單發且良性，只有約 10% 為多發或惡性。<br>(D) 錯誤（公告），大多數胰島素瘤（約 90%）是散發性，約 5~10% 與 MEN1 相關。教科書多寫 MEN1 相關胰島素瘤較常為多發性。Brandi 2025 指出 MEN1 相關胰島素瘤多為良性單發，最多約三分之一病人有多發腫瘤，多發比例仍高於散發性。本題公告答案為 (B)。<br>診斷：72 小時飢餓試驗，測量血糖、胰島素、C-peptide、proinsulin。定位：CT、MRI、內視鏡超音波。",
     "tags": [
       "112-2-5",
       "肝膽胰外科"
@@ -641,7 +641,7 @@
       "D": "6個月後超音波追蹤檢查"
     },
     "answer": "A",
-    "explanation": "Bethesda系統將甲狀腺細胞學分為六類。<br>(A) 正確，Bethesda category I（nondiagnostic/unsatisfactory）表示檢體細胞量不足或品質不佳，無法做出診斷。建議的處置是在超音波導引下重做細針穿刺（fine needle aspiration, FNA），最好間隔3個月後重做，讓之前穿刺造成的發炎反應消退<br>(B) 錯誤，放射性碘治療用於已確診的分化型甲狀腺癌術後輔助治療，或功能性甲狀腺結節（如毒性腺瘤），不適用於診斷不明的實心結節<br>(C) 錯誤，在未確定診斷前不建議直接手術，應先重做FNA確認細胞學診斷<br>(D) 錯誤，對於2公分的實心結節，不應只追蹤，因為有惡性可能，應重做FNA確認診斷<br>Bethesda分類：I（nondiagnostic）、II（benign）、III（AUS/FLUS）、IV（follicular neoplasm）、V（suspicious for malignancy）、VI（malignant）。",
+    "explanation": "Bethesda系統將甲狀腺細胞學分為六類。<br>(A) 正確，Bethesda category I（nondiagnostic/unsatisfactory）表示檢體細胞量不足或品質不佳，無法做出診斷。建議的處置是在超音波導引下重做細針穿刺（fine needle aspiration, FNA）。實心結節若持續無法診斷，惡性風險不低（2023 版約 13%），需進一步評估<br>(B) 錯誤，放射性碘治療用於已確診的分化型甲狀腺癌術後輔助治療，或功能性甲狀腺結節（如毒性腺瘤），不適用於診斷不明的實心結節<br>(C) 錯誤，在未確定診斷前不建議直接手術，應先重做FNA確認細胞學診斷<br>(D) 錯誤，對於2公分的實心結節，不應只追蹤，因為有惡性可能，應重做FNA確認診斷<br>Bethesda分類：I（nondiagnostic）、II（benign）、III（AUS）、IV（follicular neoplasm）、V（suspicious for malignancy）、VI（malignant）。",
     "tags": [
       "112-2-5",
       "內分泌外科"
@@ -658,7 +658,7 @@
       "D": "定時檢驗尿中VMA及腹部電腦斷層以排除腎上腺嗜鉻細胞瘤再復發"
     },
     "answer": "C",
-    "explanation": "此題考核第二型多發性內分泌瘤（multiple endocrine neoplasia type 2, MEN 2）的追蹤策略，解題關鍵在於掌握甲狀腺髓質癌（medullary thyroid carcinoma, MTC）的細胞來源，進而判斷放射碘掃描是否有效。<br>· MEN 2 包含：甲狀腺髓質癌、嗜鉻細胞瘤、原發性副甲狀腺亢進（MEN 2A），均與 RET 原癌基因突變相關<br>· 甲狀腺髓質癌起源於濾泡旁 C 細胞（parafollicular C cells），不是濾泡細胞，是整道題的核心概念<br>(A) 正確，MEN 2A 常合併原發性副甲狀腺亢進（primary hyperparathyroidism），定期監測血鈣、血磷與副甲狀腺素（parathyroid hormone, PTH）是適當的追蹤項目。<br>(B) 正確，癌胚抗原（carcinoembryonic antigen, CEA）與降鈣素（calcitonin）是甲狀腺髓質癌的腫瘤標記，定期追蹤兩者有助於早期偵測復發，為標準追蹤項目。<br>(C) 錯誤，全身放射碘掃描（¹³¹I whole body scan）僅適用於能攝取碘的甲狀腺濾泡細胞來源腫瘤，例如甲狀腺乳突癌（papillary thyroid carcinoma）或濾泡癌（follicular thyroid carcinoma）術後追蹤。甲狀腺髓質癌起源於濾泡旁 C 細胞，不具攝碘能力，因此放射碘掃描對定位 MTC 復發完全無效。若 CEA 或 calcitonin 升高懷疑復發，應安排 MIBG 掃描、PET 掃描、頸部超音波、CT 或 MRI 等影像工具進行定位。<br>(D) 正確，定期監測尿液 VMA（vanillylmandelic acid）及腹部電腦斷層是追蹤嗜鉻細胞瘤（pheochromocytoma）復發的適當方式，因為嗜鉻細胞瘤有約 10% 為惡性，且 MEN 2 患者對側腎上腺也有發生的風險。",
+    "explanation": "此題考核第二型多發性內分泌腫瘤（MEN 2）的追蹤策略，關鍵在於甲狀腺髓質癌起源於濾泡旁 C 細胞，不是濾泡細胞，因此放射碘掃描無效。MEN 2 包含甲狀腺髓質癌、嗜鉻細胞瘤與原發性副甲狀腺亢進（MEN 2A），均與 RET 原癌基因突變相關。<br>(A) 正確，MEN 2A 常合併原發性副甲狀腺亢進，定期監測血鈣、血磷與副甲狀腺素是適當的追蹤項目。<br>(B) 正確，calcitonin 與 CEA 是甲狀腺髓質癌的腫瘤標記，術後 3 個月起定期追蹤兩者，有助於偵測復發。<br>(C) 錯誤，全身放射碘掃描只適用於能攝取碘的濾泡細胞來源腫瘤，例如乳突癌與濾泡癌。髓質癌起源於濾泡旁 C 細胞，不攝取碘，放射碘掃描與放射碘治療皆不適用。若 calcitonin 或 CEA 升高懷疑復發，依 ATA 2015 應以頸部超音波、胸部 CT、肝臟 MRI 或三相 CT、骨掃描與骨盆及軸骨 MRI 定位，FDG-PET 與 F-DOPA PET 的偵測力優於傳統影像，MIBG 掃描的敏感度低。<br>(D) 正確，嗜鉻細胞瘤在 MEN 2 常為雙側，可同時或異時發生，因此需定期以血漿游離或尿液 metanephrines（過去常用尿 VMA）搭配腹部影像追蹤復發或對側腫瘤。",
     "tags": [
       "112-2-5",
       "內分泌外科"
@@ -1129,7 +1129,7 @@
       "D": "可測量尿液中catecholamine輔助診斷"
     },
     "answer": "B",
-    "explanation": "嗜鉻細胞瘤是源自嗜鉻細胞的神經內分泌腫瘤，分泌兒茶酚胺。<br>傳統「10%法則」（現代研究發現比例略有不同）：<br>· 10%為雙側腎上腺<br>· 10%為腎上腺外（extra-adrenal，稱為副神經節瘤paraganglioma）<br>· 10%為惡性<br>· 10%為遺傳性<br>· 10%為兒童<br>(A) 正確，約10%的嗜鉻細胞瘤與遺傳症候群相關，包括：<br>· MEN 2A和2B（約5%）<br>· Von Hippel-Lindau disease（VHL）<br>· Neurofibromatosis type 1（NF1）<br>· 遺傳性副神經節瘤症候群（SDH基因突變）<br>(B) 錯誤，約90%的嗜鉻細胞瘤發生在腎上腺（adrenal），而非10%。10%是指發生在腎上腺外的副神經節瘤（extra-adrenal paraganglioma），常見位置包括Zuckerkandl器官、膀胱、縱膈<br>(C) 正確，約10%為雙側腎上腺嗜鉻細胞瘤，特別在遺傳性病例中比例更高（如MEN 2可達50%雙側）<br>(D) 正確，診斷可測量尿液或血漿中的兒茶酚胺（catecholamine）及其代謝產物：<br>· 24小時尿液：metanephrine、normetanephrine、VMA（vanillylmandelic acid）<br>· 血漿游離metanephrine（plasma-free metanephrines）- 敏感度最高<br>症狀：高血壓（持續性或陣發性）、頭痛、心悸、出汗（classic triad），焦慮、面色蒼白。",
+    "explanation": "嗜鉻細胞瘤是源自腎上腺髓質嗜鉻細胞的神經內分泌腫瘤，分泌 catecholamine。傳統「10% 法則」為約 10% 兩側、10% 腎上腺外、10% 惡性、10% 遺傳性、10% 兒童。現行資料略有不同，腎上腺外的副神經節瘤約 15~20%，遺傳性約 30~40%，兩側約 10%。<br>(A) 正確，以傳統記法，約 10% 與遺傳症候群有關，包括 MEN2A、2B，另有 VHL、NF1 與 SDHx 突變。<br>(B) 錯誤，約 80~85% 的嗜鉻細胞瘤位於腎上腺，約 10% 是傳統記法中腎上腺外的比例（現行資料約 15~20%），常見位置包括 Zuckerkandl 器官、膀胱與縱膈。<br>(C) 正確，約 10% 為兩側腎上腺，遺傳性病例（MEN2、VHL）更常為兩側。<br>(D) 正確，可測量尿液或血漿的 catecholamine 及其代謝物 metanephrines 輔助診斷，其中血漿游離 metanephrines 敏感度最高，尿 VMA 敏感度較低。<br>臨床表現為持續性或陣發性高血壓，常伴頭痛、心悸、出汗的三合一症狀，以及焦慮、面色蒼白。",
     "tags": [
       "112-2-5",
       "泌尿外科"
