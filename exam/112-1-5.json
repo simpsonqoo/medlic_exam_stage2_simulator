@@ -321,7 +321,7 @@
       "D": "當心臟停跳，血液循環完全依靠體外循環時，呼吸器即可完全暫停"
     },
     "answer": "B",
-    "explanation": "體外循環（CPB）暫時取代心肺功能，需注意灌流參數和併發症。<br>(A) 正確，動脈管路（arterial cannulation）常見位置：<br>· 升主動脈（ascending aorta）：最常用<br>· 無名動脈（innominate artery）<br>· 腋動脈（axillary artery）：特別在主動脈手術<br>· 股動脈（femoral artery）：緊急或重做手術<br>(B) 錯誤，體外循環流量需求與體溫相關：<br>· 正常體溫（37℃）：2.4-2.8 L/min/m²<br>· 中度低溫（28-32℃）：1.5-2.0 L/min/m²<br>· 深度低溫（20℃）：可降至更低甚至短暫完全停止循環（deep hypothermic circulatory arrest）<br>體溫20℃時代謝率大幅下降，不需要2.4 L/min/m²的高流量<br>(C) 正確，CPB的負面影響包括：<br>· 全身性發炎反應（SIRS）：接觸人工表面<br>· 栓塞：空氣栓塞、微小血栓<br>· 凝血功能異常：稀釋、血小板功能障礙<br>· 器官功能不全：腎、腦、肺損傷<br>(D) 正確，心臟停跳且完全依靠CPB時，肺臟沒有血流，不需要換氣功能，呼吸器可暫停。但通常會維持低頻率通氣以避免肺塌陷",
+    "explanation": "體外循環（CPB）暫時取代心肺功能，灌流參數需配合體溫調整。<br>(A) 正確，動脈灌注管最常置於升主動脈，主動脈病變、再次手術或緊急時可改用無名動脈、腋動脈或股動脈。<br>(B) 錯誤，常溫時流量約 2.2~2.5 L/min/m²，體溫降低使代謝率下降（Q10 約 2），所需流量可隨之降低。降到 20℃ 屬深低溫，流量可大幅降低，甚至在深低溫循環停止時完全停止循環，不需要 2.4 L/min/m² 的流量。<br>(C) 正確，CPB 的負面影響包括全身性發炎反應（血液接觸人工表面）、栓塞（空氣與微小血栓）、凝血異常（血液稀釋與血小板功能障礙）及腎、肺、腦等器官功能不全。<br>(D) 正確，心臟停跳且完全依靠 CPB 時，肺臟沒有血流，呼吸器可暫停。",
     "tags": [
       "112-1-5",
       "心臟血管外科"
@@ -338,7 +338,7 @@
       "D": "慢性肺栓塞合併肺高壓"
     },
     "answer": "A",
-    "explanation": "IVC filter的目的是預防肺栓塞，適應症需謹慎評估。<br>(A) 正確，慢性下腔靜脈完全阻塞（chronic IVC occlusion）：<br>· IVC已經完全阻塞，血栓無法經由IVC到達肺動脈<br>· 血流已經建立側支循環<br>· 放置filter無意義且技術上困難<br>· 這不是filter的適應症<br>(B) 錯誤，有抗凝血劑絕對禁忌症（如活動性出血、近期腦出血、嚴重血小板低下）但有DVT/PE風險時，需要放置IVC filter作為替代保護<br>(C) 錯誤，在足夠抗凝治療下仍復發DVT或PE，表示抗凝治療失敗，需要放置IVC filter提供機械性保護<br>(D) 錯誤，慢性肺栓塞合併肺高壓（chronic thromboembolic pulmonary hypertension, CTEPH）的病人無法承受新的肺栓塞，即使很小的栓塞都可能致命。在某些情況下（如需手術或抗凝禁忌）可考慮放置IVC filter<br>IVC filter的主要適應症：<br>· 抗凝治療的絕對禁忌症<br>· 抗凝治療失敗（復發性PE/DVT）<br>· 嚴重心肺功能不全無法承受PE<br>· 自由漂浮的大型血栓（free-floating thrombus）",
+    "explanation": "IVC filter 的目的是預防肺栓塞，主要用於無法抗凝的急性近端 DVT 或 PE。<br>(A) 正確，慢性下腔靜脈完全阻塞時，IVC 已經閉塞，血流靠側枝循環回流，血栓無法經 IVC 到達肺動脈，濾器也無法放置在不通暢的 IVC，不是適應症。<br>(B) 錯誤，急性近端 DVT 或 PE 合併抗凝絕對禁忌（如活動性出血、近期腦出血、血小板低於 50,000/μL）是濾器最明確的適應症，CHEST 2021 強力建議使用，並在可以抗凝後盡早取出可回收式濾器。<br>(C) 錯誤，教科書將足量抗凝下仍復發 DVT 或 PE 列為濾器適應症。不過 CHEST 2021 沒有把它列為建議，只建議抗凝治療的同時不加放濾器，SIR 2020 則要求復發經客觀確認，且已排除用藥不順從與藥物交互作用等可修正因素才考慮。公告答案以 (A) 為正解，故本選項仍視為適應症。<br>(D) 錯誤，慢性血栓栓塞性肺高壓的病人心肺儲備差，再發的小栓塞也可能致命，教科書列為濾器的相對適應症。<br>濾器適應症還包括抗凝出現出血併發症、心肺儲備差無法承受 PE，以及自由漂浮的大型血栓。",
     "tags": [
       "112-1-5",
       "心臟血管外科"
@@ -355,7 +355,7 @@
       "D": "claudication為stage IV"
     },
     "answer": "C",
-    "explanation": "Fontaine分類是周邊動脈阻塞疾病（peripheral arterial disease, PAD）的經典分期系統，依症狀嚴重程度分為四期。<br>(A) 錯誤，組織喪失（tissue loss）包括潰瘍或壞疽，屬於最嚴重的stage IV，而非stage I<br>(B) 錯誤，壞疽（gangrene）是最嚴重的表現，屬於stage IV，而非stage II<br>(C) 正確，Fontaine分類：<br>· Stage I：無症狀（asymptomatic）<br>· Stage II：間歇性跛行（intermittent claudication）<br>· Stage IIa：跛行距離>200公尺<br>· Stage IIb：跛行距離<200公尺<br>· Stage III：休息時缺血性疼痛（ischemic rest pain）<br>· Stage IV：組織壞死（ulceration or gangrene）<br>(D) 錯誤，間歇性跛行（claudication）是stage II的表現，而非stage IV",
+    "explanation": "Fontaine 分類是周邊動脈阻塞疾病（peripheral arterial disease, PAD）的經典分期系統，依症狀嚴重程度分為四期。<br>(A) 錯誤，組織喪失（tissue loss）包括潰瘍或壞疽，屬於最嚴重的 stage IV，stage I 為無症狀<br>(B) 錯誤，壞疽（gangrene）屬於 stage IV，stage II 為間歇性跛行<br>(C) 正確，ischemic rest pain 為 stage III。Fontaine 分類如下：<br>stage I：無症狀（asymptomatic）<br>stage IIa：間歇性跛行，跛行距離大於 200 公尺<br>stage IIb：間歇性跛行，跛行距離小於 200 公尺<br>stage III：休息時缺血性疼痛（ischemic rest pain）<br>stage IV：組織壞死（潰瘍或壞疽）<br>(D) 錯誤，間歇性跛行（claudication）是 stage II 的表現，stage IV 為潰瘍或壞疽",
     "tags": [
       "112-1-5",
       "心臟血管外科"

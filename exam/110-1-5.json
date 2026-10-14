@@ -281,7 +281,7 @@
       "D": "對於急性史丹佛A型（Stanford type A）之主動脈剝離合併有器官供血不足的病患，與無器官供血不足者， 兩者之預後相同"
     },
     "answer": "D",
-    "explanation": "主動脈剝離的預後受多種因素影響，其中器官灌注不足（malperfusion）是決定預後的重要因子。<br>(A) 正確，在確診或高度懷疑主動脈剝離時，應立即給予乙型阻斷劑（beta-blocker）降低心跳和血壓，以減少主動脈壁的剪切力，防止剝離擴展<br>(B) 正確，急性史丹佛A型（Stanford type A）主動脈剝離影響升主動脈，屬外科急症，需緊急手術；A型主動脈剝離的死亡率每小時增加約1-2%<br>(C) 正確，急性史丹佛B型（Stanford type B）如合併器官供血不足（如腸道缺血、腎臟缺血、肢體缺血），是血管內主動脈支架（TEVAR）的適應症<br>(D) 錯誤，急性Stanford A型主動脈剝離合併器官供血不足（malperfusion）者，其死亡率和預後明顯更差，兩者預後並不相同；有器官供血不足的病人手術風險和術後死亡率均顯著更高",
+    "explanation": "主動脈剝離的預後受多種因素影響，其中器官灌注不足（malperfusion）是決定預後的重要因子。<br>(A) 正確，在確診或高度懷疑主動脈剝離時，應立即給予乙型阻斷劑（beta-blocker）降低心跳和血壓，以減少主動脈壁的剪切力，防止剝離擴展。<br>(B) 正確，急性史丹佛 A 型（Stanford type A）主動脈剝離影響升主動脈，屬外科急症，需緊急手術。未手術者早期死亡率每小時約 1~2%（Hirst 1958），近年世代約為 0.5%/小時（Harris 2022）。<br>(C) 正確，急性史丹佛 B 型（Stanford type B）如合併器官供血不足（如腸道缺血、腎臟缺血、肢體缺血），屬複雜性 B 型，是血管內主動脈支架（TEVAR）的適應症。<br>(D) 錯誤，急性 Stanford A 型主動脈剝離合併器官供血不足（malperfusion）者，死亡率與預後明顯較差，兩者預後並不相同。Penn 分類的院內死亡率，無缺血者約 3.1%，局部缺血約 25.6%，全身性缺血約 17.6%，兩者合併約 40.0%（Augoustides 2009）。",
     "tags": [
       "110-1-5",
       "心臟血管外科"
@@ -298,7 +298,7 @@
       "D": "不會引發全身發炎反應症候群（systemic inflammatory response syndrome, SIRS）"
     },
     "answer": "D",
-    "explanation": "人工心肺機（cardiopulmonary bypass, CPB）的功能與副作用是心臟外科的基礎知識，重點在於辨別其確實存在的已知副作用。<br>(A) 正確，人工心肺機可透過熱交換器（heat exchanger）進行升溫或降溫，低溫可降低代謝需求，保護重要器官<br>(B) 正確，配合心臟麻痺液（cardioplegia）灌注，可讓心臟在手術期間完全靜止，提供無血的手術視野<br>(C) 正確，氧合器（oxygenator）可在體外進行氣體交換（充氧、排CO₂），暫時取代肺臟的功能<br>(D) 錯誤，人工心肺機確實會引發全身發炎反應症候群（SIRS）；血液與體外迴路的異物接觸，會激活補體系統和發炎級聯反應，導致白血球活化、細胞激素（cytokine）釋放，是CPB已知的重要副作用",
+    "explanation": "人工心肺機（cardiopulmonary bypass, CPB）的功能與副作用是心臟外科的基礎知識，重點在於辨別其確實存在的已知副作用。<br>(A) 正確，人工心肺機可透過熱交換器（heat exchanger）升溫或降溫，低溫可降低代謝需求，保護重要器官。<br>(B) 正確，配合心臟麻痺液（cardioplegia）灌注，可讓心臟在手術期間完全靜止，提供無血的手術視野。<br>(C) 正確，氧合器（oxygenator）可在體外進行氣體交換（充氧、排除 CO₂），暫時取代肺臟的功能。<br>(D) 錯誤，人工心肺機會引發全身發炎反應症候群（SIRS）。血液與體外迴路的人工表面接觸，會活化補體系統與發炎級聯反應，使白血球活化並釋放細胞激素（cytokine），是 CPB 已知的重要副作用。",
     "tags": [
       "110-1-5",
       "心臟血管外科"
@@ -763,7 +763,7 @@
       "D": "缺血性腸炎（ischemic colitis）"
     },
     "answer": "D",
-    "explanation": "腹主動脈手術後出現血便的時間點和症狀組合，高度提示特定的術後併發症，需鑑別其與其他腸道疾病的差異。<br>(A) 錯誤，偽膜性腸炎（pseudomembranous colitis）由困難梭菌（Clostridioides difficile）感染引起，通常與近期抗生素使用相關，表現為水樣腹瀉而非血便，較少局限於左下腹<br>(B) 錯誤，潰瘍性腸炎（ulcerative colitis）是慢性發炎性腸道疾病，不會因手術後3天急性發作，時間關聯性不符<br>(C) 錯誤，結腸憩室炎（diverticulitis）雖也可出現左下腹痛，但與腹主動脈手術的直接關聯性低，且通常不以血便為主要表現<br>(D) 正確，腹主動脈瘤修補術中需處理腸繫膜下動脈（inferior mesenteric artery, IMA），若未能建立足夠側支循環，術後可造成乙狀結腸或左側結腸缺血；術後3天出現左下腹痛合併血便，是缺血性腸炎（ischemic colitis）的典型表現，是腹主動脈手術的已知嚴重併發症",
+    "explanation": "腹主動脈手術後出現血便的時間點和症狀組合，高度提示特定的術後併發症，需鑑別其與其他腸道疾病的差異。<br>(A) 錯誤，偽膜性腸炎（pseudomembranous colitis）由困難梭菌（Clostridioides difficile）感染引起，通常與近期抗生素使用相關，表現為水樣腹瀉而非血便，較少局限於左下腹。<br>(B) 錯誤，潰瘍性腸炎（ulcerative colitis）是慢性發炎性腸道疾病，不會因手術後 3 天急性發作，時間關聯性不符。<br>(C) 錯誤，結腸憩室炎（diverticulitis）雖也可出現左下腹痛，但與腹主動脈手術的直接關聯性低，且通常不以血便為主要表現。<br>(D) 正確，腹主動脈瘤修補術中結紮腸繫膜下動脈（inferior mesenteric artery, IMA）後，若側支循環不足，術後可造成乙狀結腸或左側結腸缺血。擇期開放手術的結腸缺血發生率約 1~6%，乙狀結腸最常見。術後早期出現左下腹痛合併血便，是缺血性腸炎（ischemic colitis）的典型表現。",
     "tags": [
       "110-1-5",
       "大腸直腸外科"
@@ -1242,7 +1242,7 @@
       "D": "DeBakey第三型主動脈剝離（DeBakey Type III aortic dissection）"
     },
     "answer": "A",
-    "explanation": "主動脈內皮血腫（intramural hematoma, IMH）與主動脈剝離（aortic dissection）的影像學鑑別需掌握，關鍵在於有無內膜瓣（intimal flap）及Stanford分型的解剖依據。<br>(A) 正確，主動脈內皮血腫（IMH）的特徵是主動脈壁內出血但無明顯內膜裂口或假腔（false lumen）；Stanford A型是指病灶累及升主動脈（ascending aorta），無論遠端延伸範圍，均屬A型，需緊急手術，預後與A型剝離類似<br>(B) 錯誤，Stanford B型主動脈內皮血腫是指病灶僅累及降主動脈（不涉及升主動脈），與A型的解剖位置定義不符<br>(C) 錯誤，主動脈剝離（aortic dissection）的影像特徵是可見內膜瓣（intimal flap）將管腔分為真腔（true lumen）與假腔（false lumen），與IMH的壁內血腫型態不同<br>(D) 錯誤，DeBakey分類第三型（DeBakey Type III）是指剝離起源於降主動脈（左鎖骨下動脈遠端），對應Stanford B型，與本題升主動脈受累的影像不符",
+    "explanation": "主動脈內皮血腫（intramural hematoma, IMH）與主動脈剝離（aortic dissection）的影像學鑑別，關鍵在於有無內膜瓣（intimal flap）及 Stanford 分型的解剖依據。<br>本題圖左為非顯影 CT 橫切面，升主動脈壁呈新月形增厚且為高密度，右為顯影 CT 矢狀切面，升主動脈到主動脈弓的管壁增厚，管腔內沒有內膜瓣與假腔，符合侵犯升主動脈的壁內血腫。<br>(A) 正確，IMH 的特徵是主動脈壁內出血，沒有內膜瓣與假腔（false lumen）。Stanford A 型是指病灶累及升主動脈，無論遠端延伸範圍，均屬 A 型，ACC/AHA 2022 建議無併發症的 A 型 IMH 也應儘早手術，處置原則與 A 型剝離相似。<br>(B) 錯誤，Stanford B 型主動脈內皮血腫是指病灶僅累及降主動脈（不涉及升主動脈），與本圖升主動脈受累不符。<br>(C) 錯誤，主動脈剝離的影像特徵是可見內膜瓣將管腔分為真腔（true lumen）與假腔，本圖沒有內膜瓣，且病灶累及升主動脈，不是 B 型。<br>(D) 錯誤，DeBakey 第三型是指剝離起源於左鎖骨下動脈遠端的降主動脈，對應 Stanford B 型，與本圖升主動脈受累不符，且本圖不是典型剝離。",
     "tags": [
       "110-1-5",
       "心臟血管外科"

@@ -336,7 +336,7 @@
       "D": "腹主動脈（abdominal aorta）"
     },
     "answer": "D",
-    "explanation": "DeBakey分類中type III的次分類是根據剝離延伸的範圍來區分。<br>(A) 錯誤，升主動脈（ascending aorta）的侵犯與否是區分type I和type II的關鍵，而非IIIa和IIIb<br>(B) 錯誤，主動脈弓（aortic arch）的侵犯與否並非區分IIIa和IIIb的標準<br>(C) 錯誤，降主動脈（descending aorta）是type III的起始部位，IIIa和IIIb都涉及降主動脈<br>(D) 正確，DeBakey type IIIa是指剝離局限在胸降主動脈（thoracic descending aorta），未延伸到橫膈膜以下；而type IIIb是指剝離從胸降主動脈延伸至腹主動脈（abdominal aorta），甚至可能到達髂動脈。因此腹主動脈是否受侵犯是IIIa與IIIb間最大的區別",
+    "explanation": "DeBakey 分類依剝離的起始位置與延伸範圍分型，type III 起於左鎖骨下動脈以遠的降主動脈，次分類依延伸範圍區分。<br>(A) 錯誤，升主動脈（ascending aorta）是 type I 與 type II 的起始部位，兩者的差別在於剝離是否延伸到主動脈弓以遠，與 IIIa 和 IIIb 無關。<br>(B) 錯誤，主動脈弓（aortic arch）的侵犯與否並非區分 IIIa 和 IIIb 的標準。<br>(C) 錯誤，降主動脈（descending aorta）是 type III 的起始部位，IIIa 和 IIIb 都涉及降主動脈。<br>(D) 正確，DeBakey type IIIa 是剝離局限在胸降主動脈，未延伸到橫膈膜以下，type IIIb 是剝離延伸到橫膈膜以下的腹主動脈（abdominal aorta），甚至可到達髂動脈。因此腹主動脈是否受侵犯是 IIIa 與 IIIb 間最大的區別。",
     "tags": [
       "114-2-5",
       "心臟血管外科"
@@ -353,7 +353,7 @@
       "D": "若缺血時間越久，則下肢動脈血管打通後下肢腫脹得越厲害"
     },
     "answer": "C",
-    "explanation": "心房顫動合併二尖瓣狹窄容易形成左心房血栓，導致周邊動脈栓塞。急性肢體缺血再灌流時會產生多種代謝異常。<br>(A) 正確，患者有二尖瓣嚴重狹窄、左心房擴大及心房顫動，容易在左心房形成血栓，導致下肢動脈血管急性血栓栓塞（arterial embolism），出現急性肢體缺血的5P症狀：疼痛（pain）、無脈（pulselessness）、蒼白（pallor）、感覺異常（paresthesia）、麻痺（paralysis）<br>(B) 正確，緊急下肢動脈血管打通後，缺血組織再灌流會釋放大量鉀離子至血液循環中，可能導致高血鉀症（hyperkalemia）<br>(C) 錯誤，若有骨骼肌溶解現象（rhabdomyolysis），下肢動脈血管打通後會發生再灌流損傷（reperfusion injury），大量肌紅蛋白（myoglobin）釋放到血液中，肌蛋白尿（myoglobinuria）狀況不會立即緩解，反而會加重，可能導致急性腎衰竭<br>(D) 正確，若缺血時間越久，組織損傷越嚴重，下肢動脈血管打通後因再灌流損傷及發炎反應，下肢腫脹會越厲害，嚴重時可能發生腔室症候群（compartment syndrome）",
+    "explanation": "心房顫動合併二尖瓣狹窄容易形成左心房血栓，導致周邊動脈栓塞。急性肢體缺血再灌流時會產生多種代謝異常。<br>(A) 正確，患者有二尖瓣嚴重狹窄、左心房擴大及心房顫動，容易在左心房形成血栓，導致下肢動脈急性栓塞（arterial embolism），出現急性肢體缺血的 6P 表現：疼痛（pain）、蒼白（pallor）、無脈（pulselessness）、感覺異常（paresthesia）、麻痺（paralysis）、冰冷（poikilothermia）<br>(B) 正確，緊急下肢動脈打通後，缺血組織再灌流會釋放大量鉀離子至血液循環中，可能導致高血鉀症（hyperkalemia）<br>(C) 錯誤，若有骨骼肌溶解現象（rhabdomyolysis），下肢動脈打通後會發生再灌流損傷，大量肌紅蛋白（myoglobin）釋放到血液中，肌蛋白尿（myoglobinuria）不會立即緩解，反而增加，可能導致急性腎損傷<br>(D) 正確，缺血時間越久，組織損傷越嚴重，下肢動脈打通後因再灌流損傷及發炎反應，下肢腫脹會越厲害，嚴重時可能發生腔室症候群（compartment syndrome）",
     "tags": [
       "114-2-5",
       "心臟血管外科"
@@ -387,7 +387,7 @@
       "D": "血管內支架術式（endovascular stenting）已成為治療升主動脈瘤之主流，一般以DeBakey分類來 評估是否適合放置支架及有無影響腦部血流的風險"
     },
     "answer": "D",
-    "explanation": "胸主動脈瘤的治療方式依據動脈瘤位置及大小而有不同選擇。<br>(A) 正確，先天性雙主動脈瓣（congenital bicuspid aortic valve）患者有較高機率發展為升主動脈瘤，可視為高危險群<br>(B) 正確，女性患者的主動脈瘤最大直徑為7公分時，已達到手術適應症（一般建議女性≥5.5公分、男性≥6公分即可考慮手術）<br>(C) 正確，升主動脈瘤最大直徑為6公分且無主動脈逆流時，可以考慮行瓣膜保留術式（valve-sparing procedure）如David procedure或Yacoub procedure，不一定非進行主動脈根部置換術（aortic root replacement）<br>(D) 錯誤，血管內支架術式（endovascular stenting, TEVAR）主要用於降主動脈瘤，並非升主動脈瘤的主流治療。升主動脈瘤因涉及主動脈瓣、冠狀動脈開口及主動脈弓分支血管，仍以傳統開胸手術為主要治療方式",
+    "explanation": "胸主動脈瘤的治療方式依動脈瘤位置及大小而有不同選擇。<br>(A) 正確，先天性雙主動脈瓣（congenital bicuspid aortic valve）患者有較高機率發展為升主動脈瘤，可視為高危險群。<br>(B) 正確，ACC/AHA 2022 建議零星升主動脈瘤與根部瘤在最大直徑達 5.5 公分、有症狀或快速成長時手術，並未依性別訂定不同切點，女性患者的主動脈瘤最大直徑為 7 公分已達手術適應症。<br>(C) 正確，升主動脈瘤最大直徑為 6 公分且無主動脈逆流、瓣葉正常時，可以考慮行瓣膜保留術式（valve-sparing procedure）如 David procedure 或 Yacoub procedure，不一定非進行主動脈根部置換術（aortic root replacement）。<br>(D) 錯誤，血管內支架術式（endovascular stenting, TEVAR）主要用於降主動脈瘤，並非升主動脈瘤的主流治療。升主動脈瘤因涉及主動脈瓣、冠狀動脈開口及主動脈弓分支血管，仍以開放手術為主要治療方式。DeBakey 分類是主動脈剝離的分類，評估能否放置支架看的是近端與遠端是否有足夠的健康主動脈作為錨定區。",
     "tags": [
       "114-2-5",
       "心臟血管外科"
@@ -404,7 +404,7 @@
       "D": "手術時，下腸繫膜動脈（inferior mesenteric artery）一定要重新再吻合，以減少腸缺血 （ischemic bowel）之合併症"
     },
     "answer": "C",
-    "explanation": "腹主動脈瘤的治療方式包括傳統開腹手術及血管內支架治療，各有其優缺點。<br>(A) 錯誤，腹主動脈瘤的手術適應症一般為最大直徑≥5.5公分（或女性≥5公分），或每年增長速度＞0.5公分，或有症狀性動脈瘤。4公分尚未達到手術建議標準<br>(B) 錯誤，血管支架治療（EVAR）比起傳統開腹主動脈置換手術，再次介入（re-intervention）比率較高，因為可能發生內漏（endoleak）、支架移位等併發症需要再次處理<br>(C) 正確，以住院的手術存活率（perioperative mortality）而言，傳統開腹主動脈置換手術的死亡率約3-5%，高於血管支架治療的1-2%。血管支架治療因侵入性較低，短期存活率較佳<br>(D) 錯誤，下腸繫膜動脈（inferior mesenteric artery, IMA）並非一定要重新吻合。若側支循環良好（如經由Riolan arch或marginal artery of Drummond），可以結紮IMA。重建IMA的指徵包括：IMA血流量大、側支循環不足、左結腸缺血徵象等",
+    "explanation": "腹主動脈瘤的治療方式包括傳統開腹手術及血管內支架治療（EVAR），各有其優缺點。<br>(A) 錯誤，無症狀且未破裂者，男性≥5.5 cm、女性≥5.0 cm 才建議修補，4 cm 尚未達到手術建議標準，應定期超音波追蹤。<br>(B) 錯誤，EVAR 比傳統開腹手術的再介入率高，因為可能發生內漏、支架移位或肢體阻塞等需要再次處理（EVAR-1 校正後風險比約 2.9）。<br>(C) 正確，以住院（30 天）手術死亡率而言，開腹手術高於 EVAR（DREAM 為 4.6% 對 1.2%，EVAR-1、DREAM、OVER 的個別病患資料合併分析 EVAR 的勝算比為 0.40）。兩者的長期存活約在 3 年後趨於相近。<br>(D) 錯誤，下腸繫膜動脈（IMA）不需常規重植。若側支循環良好（如經由 Riolan 弓或 Drummond 邊緣動脈）可以結紮，側支不足時才考慮重植，例如 IMA 回血不良（背壓低）、內髂動脈阻塞或腸繫膜上動脈狹窄。",
     "tags": [
       "114-2-5",
       "心臟血管外科"

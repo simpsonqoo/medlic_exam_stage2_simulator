@@ -349,7 +349,7 @@
       "D": "0.2～0.4"
     },
     "answer": "C",
-    "explanation": "間歇性跛行（intermittent claudication）代表中度周邊動脈疾病，ABI值介於0.5～0.7之間，反映下肢動脈有明顯狹窄但尚未到重度缺血。<br>(A) 錯誤，ABI＞1.0屬於正常範圍（0.9～1.3），不會出現間歇性跛行<br>(B) 錯誤，ABI 0.8～1.0屬於輕度周邊動脈疾病，通常無症狀或症狀輕微<br>(C) 正確，間歇性跛行病人的ABI大多為0.5～0.7，代表中度周邊動脈疾病（moderate peripheral arterial disease）<br>(D) 錯誤，ABI 0.2～0.4代表嚴重周邊動脈疾病，通常會出現靜止痛（rest pain）或組織缺血（critical limb ischemia），而非僅是間歇性跛行",
+    "explanation": "間歇性跛行（intermittent claudication）代表中度周邊動脈疾病，ABI 多介於 0.5~0.7，反映下肢動脈有明顯狹窄但尚未到重度缺血。<br>(A) 錯誤，ABI 1.0~1.4 屬正常，不會因動脈狹窄出現間歇性跛行（ABI 大於 1.4 為血管鈣化不可壓縮，數值不可靠）<br>(B) 錯誤，ABI 0.7~0.9 屬輕度周邊動脈疾病，通常無症狀或症狀輕微<br>(C) 正確，間歇性跛行病人的 ABI 大多為 0.5~0.7，代表中度周邊動脈疾病（moderate peripheral arterial disease）<br>(D) 錯誤，ABI 小於 0.5 屬重度周邊動脈疾病，通常會出現靜止痛（rest pain）或組織喪失（慢性肢體威脅性缺血），而非僅是間歇性跛行",
     "tags": [
       "114-1-5",
       "心臟血管外科"
@@ -400,7 +400,7 @@
       "D": "長效型之心室輔助器（durable ventricular assist device）不但可以用來過渡到心臟移植（bridge to transplant），也被允許做為終極治療（destination therapy）"
     },
     "answer": "A",
-    "explanation": "IABP-SHOCK II試驗顯示，主動脈幫浦（IABP）對心因性休克病患並未改善存活率，這是該試驗的重要發現。<br>(A) 錯誤，根據IABP-SHOCK II trial報告，主動脈幫浦（IABP）對心因性休克病患並未提供比最佳藥物治療更好的存活率，這改變了臨床實務指引<br>(B) 正確，REMATCH trial證實植入型左心室輔助器（durable LVAD）可以對第四級心衰竭病人提供比最佳藥物治療更好的存活率<br>(C) 正確，葉克膜（ECMO）是唯一可以同時支持心肺功能的機械循環輔助裝置<br>(D) 正確，長效型心室輔助器（durable VAD）可用於過渡到心臟移植（bridge to transplant），也被核准作為無法移植病人的終極治療（destination therapy）",
+    "explanation": "IABP-SHOCK II 試驗顯示，主動脈內氣球幫浦（IABP）對急性心肌梗塞合併心因性休克的病人未改善存活率，現行指引不建議常規使用。<br>(A) 錯誤，IABP-SHOCK II 顯示 IABP 組與最佳藥物治療組的 30 天死亡率相近，並未提供更好的存活率。ACC/AHA 2025 ACS 指引將常規使用 IABP 列為 Class 3（無益）。<br>(B) 正確，REMATCH 試驗證實植入型左心室輔助器（durable LVAD）對第四級心衰竭、不適合移植的病人，存活優於最佳藥物治療。<br>(C) 正確，葉克膜（ECMO，VA-ECMO）可同時支持心臟與肺臟。<br>(D) 正確，長效型心室輔助器可用於過渡到心臟移植（bridge to transplant），也被核准作為無法移植病人的終極治療（destination therapy）。",
     "tags": [
       "114-1-5",
       "心臟血管外科"
