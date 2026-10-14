@@ -214,7 +214,7 @@
       "D": "對於完全型併指(complete syndactyly)之指蹼(webspace)的重建,背側苜蓿葉型皮瓣(dorsal clover leaf flap),是一種實用的選擇"
     },
     "answer": "B",
-    "explanation": "手部併指症（syndactyly）中，各手指間的發生頻率不同，需記住最常見的組合。<br>(A) 正確，併指症可單獨發生（isolated form），也可合併在症候群中，如Poland症候群（Poland syndrome）<br>(B) 錯誤，手部先天性併指症最常發生在中指與無名指之間（third web space，即第三指蹼），而非拇指與食指之間<br>(C) 正確，手指分離在胚胎發育中牽涉細胞凋亡（apoptosis）及骨形成蛋白-4（BMP-4, bone morphogenetic protein-4）調控<br>(D) 正確，完全型併指（complete syndactyly）的指蹼重建，背側苜蓿葉型皮瓣（dorsal cloverleaf flap）是實用的重建選擇",
+    "explanation": "手部併指症（syndactyly）各指蹼的發生頻率不同，第三指蹼（中指與無名指之間）最常見，約占一半。<br>(A) 正確，併指症可單獨發生，也可合併症候群，如 Poland 症候群與 Apert 症候群。<br>(B) 錯誤，手部先天性併指症最常發生在第三指蹼，第一指蹼（拇指與食指之間）最少見。<br>(C) 正確，手指分離牽涉胚胎時期指間組織的細胞凋亡（apoptosis），受 BMP-4 等骨形成蛋白調控，凋亡失敗造成併指。<br>(D) 正確，完全型併指的指蹼重建以近端為基部的背側皮瓣為主。",
     "tags": [
       "110-2-5",
       "重建整形外科"
@@ -747,7 +747,7 @@
       "D": "2,700"
     },
     "answer": "C",
-    "explanation": "小兒每日維持輸液量（maintenance fluid）計算使用Holliday-Segar公式：前10公斤給100 mL/kg/day，第11～20公斤給50 mL/kg/day，20公斤以上給20 mL/kg/day。13.5公斤幼兒的計算如下：<br>· 前10 kg：10 × 100 = 1,000 mL<br>· 剩餘3.5 kg：3.5 × 50 = 175 mL<br>· 合計：1,000 + 175 = 1,175 mL/day<br>(A) 錯誤，900 mL相當於9公斤體重的維持量，低估了幼兒的需求<br>(B) 錯誤，1,050 mL相當於前10 kg給1,000加上1 kg的50 mL，計算時只加了1公斤而非3.5公斤<br>(C) 正確，按Holliday-Segar公式計算，13.5 kg幼兒每日最低維持輸液量為1,175 mL<br>(D) 錯誤，2,700 mL遠超過維持量，此數值無對應的標準計算依據",
+    "explanation": "小兒每日維持輸液量依 Holliday-Segar 公式計算：前 10 kg 給 100 mL/kg/day，第 11~20 kg 給 50 mL/kg/day，超過 20 kg 給 20 mL/kg/day。13.5 kg 幼兒的前 10 kg 為 10 × 100 = 1,000 mL，其餘 3.5 kg 為 3.5 × 50 = 175 mL，合計 1,175 mL/day。<br>(A) 錯誤，900 mL 相當於 9 kg 體重的維持量，低估需求。<br>(B) 錯誤，1,050 mL 相當於前 10 kg 的 1,000 mL 只加了 1 kg 的 50 mL，漏算 2.5 kg。<br>(C) 正確，依 Holliday-Segar 公式，13.5 kg 幼兒每日維持輸液量為 1,175 mL。<br>(D) 錯誤，2,700 mL 遠超過維持量，沒有對應的標準算法。",
     "tags": [
       "110-2-5",
       "小兒外科"

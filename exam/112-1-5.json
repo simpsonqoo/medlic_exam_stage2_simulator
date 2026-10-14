@@ -233,7 +233,7 @@
       "D": "①②③④"
     },
     "answer": "D",
-    "explanation": "先天性黑色素細胞痣依大小分類，癌變風險和處理方式不同。<br>① 正確，CMN依最大直徑分類（成年後預計大小）：<br>· 小型（small）：<1.5 cm<br>· 中型（medium）：1.5-19.9 cm<br>· 大型（large）：20-49.9 cm<br>· 巨大型（giant）：≥50 cm<br>（部分分類標準將≥20 cm統稱為large/giant）<br>② 正確，黑色素瘤（melanoma）風險：<br>· 小型CMN：終生風險<1%<br>· 大型和巨大型CMN：終生風險4.5-10%<br>· 風險隨CMN大小增加而上升<br>· 大型/巨大型CMN的黑色素瘤常在兒童早期發生<br>③ 正確，神經皮膚黑色素沉著症（neurocutaneous melanosis）：<br>· 大型/巨大型CMN有5-25%機會合併<br>· 黑色素細胞在腦膜和中樞神經系統異常增生<br>· 可用MRI診斷<br>· 可能造成神經症狀、發展遲緩、癲癇<br>④ 正確，小型CMN若發展成黑色素瘤：<br>· 通常發生在青春期後或成年期<br>· 大型/巨大型CMN的黑色素瘤反而常在10歲前發生<br>· 需終生監測ABCDE變化",
+    "explanation": "先天性黑色素細胞痣依成年後預估的最大直徑分類，大小不同，黑色素瘤風險與處理方式也不同。<br>① 正確，CMN 依成年後預估最大直徑分類，小型 &lt; 1.5 cm，中型 1.5~19.9 cm，≥ 20 cm 為大型或巨大型，各分類對巨大型的切點不同（Krengel 2013 分類以 20~40 cm 為大型，&gt; 40 cm 為巨大型）。<br>② 正確，小型與中型 CMN 的黑色素瘤終生風險遠低於 1%，巨大型 CMN 終生風險約 5~10%，風險隨痣的大小增加而上升，巨大型 CMN 的黑色素瘤約七成在 10 歲前診斷。<br>③ 正確，大型與巨大型 CMN，尤其合併多發衛星痣或位於中軸（脊椎旁）者，較常合併神經皮膚黑色素沉著症（軟腦膜與中樞神經系統黑色素細胞異常增生），約 10~33%，可用 MRI 診斷，可能造成顱內壓上升、癲癇、腦積水與發展遲緩。<br>④ 正確，小型 CMN 若發展成黑色素瘤，通常發生在青春期後或成年期，與大型和巨大型 CMN 好發於兒童早期不同。",
     "tags": [
       "112-1-5",
       "重建整形外科"
@@ -284,7 +284,7 @@
       "D": "黏液表皮樣癌（mucoepidermoid carcinoma）為最常見之唾液腺惡性腫瘤，high grade多為epidermoid type； low grade多為mucinous type"
     },
     "answer": "C",
-    "explanation": "唾液腺腫瘤相對少見，但有特定的流行病學和病理特徵。<br>(A) 正確，唾液腺腫瘤在頭頸部癌症中占比很小，約<2%。大多數是良性腫瘤<br>(B) 正確，唾液腺腫瘤分布：<br>· 80%發生在腮腺（parotid gland）<br>· 腮腺腫瘤中75-80%為良性<br>· 最常見的良性腫瘤是多形性腺瘤（pleomorphic adenoma），占腮腺腫瘤的60-70%<br>(C) 錯誤，腺樣囊狀癌（adenoid cystic carcinoma, ACC）的病理型態與預後關係：<br>· Cribriform pattern：最常見，預後中等<br>· Tubular pattern：預後最好<br>· Solid pattern：預後最差<br>因此tubular pattern預後較好，而非較差<br>(D) 正確，黏液表皮樣癌（mucoepidermoid carcinoma）：<br>· 是最常見的唾液腺惡性腫瘤<br>· High grade：以epidermoid cells為主，預後較差<br>· Low grade：以mucinous cells為主，預後較好",
+    "explanation": "唾液腺腫瘤相對少見，且多數為良性。<br>(A) 正確，唾液腺腫瘤在頭頸部腫瘤中占比很小，各統計約為 3~10%，題目寫的 &lt;2% 與常見統計略有出入，但屬相對少見的描述，並非本題的錯誤選項。<br>(B) 正確，約 80% 發生在腮腺，腮腺腫瘤約 80% 為良性，最常見的良性腫瘤是多形性腺瘤（pleomorphic adenoma），約占腮腺腫瘤的 60~70%。<br>(C) 錯誤，腺樣囊狀癌（adenoid cystic carcinoma）依病理型態分為篩狀型（cribriform pattern，最常見，預後中等）、管狀型（tubular pattern，預後最好）與實心型（solid pattern，預後最差），因此 tubular pattern 預後較好，而非較差。<br>(D) 正確，黏液表皮樣癌（mucoepidermoid carcinoma）是最常見的唾液腺惡性腫瘤。高度（high grade）以表皮樣細胞（epidermoid cells）為主，預後較差。低度（low grade）以黏液細胞（mucinous cells）為主，預後較好。",
     "tags": [
       "112-1-5",
       "重建整形外科"
