@@ -740,7 +740,7 @@
       "D": "胎便性腸阻塞（meconium ileus）"
     },
     "answer": "C",
-    "explanation": "新生兒腹部手術中發現腸道壞死、充氣、變色的外觀，最可能是壞死性腸炎（NEC），這是新生兒特別是早產兒常見的腸道急症。<br>(A) 錯誤，腸扭結（intestinal volvulus）通常表現為腸道扭轉和缺血，但外觀與壞死性腸炎不同<br>(B) 錯誤，胎便性腹膜炎（meconium peritonitis）是產前腸道穿孔導致的腹膜炎，通常會有鈣化<br>(C) 正確，根據題目描述的術中腸道外觀，壞死性腸炎（necrotizing enterocolitis, NEC）最可能，典型表現為腸壁壞死、充氣（pneumatosis intestinalis）、變色<br>(D) 錯誤，胎便性腸阻塞（meconium ileus）是因濃稠胎便阻塞迴腸，與囊狀纖維化（cystic fibrosis）相關，但腸道外觀通常不會呈現壞死",
+    "explanation": "新生兒腹部手術中發現小腸呈片狀暗紅至黑色壞死，腸壁變薄並有局部積氣，最可能是壞死性腸炎（NEC），這是新生兒特別是早產兒常見的腸道急症。<br>(A) 錯誤，腸扭結（intestinal volvulus）表現為腸道扭轉和缺血，整段腸管連續變色，外觀與壞死性腸炎片狀分布並有腸壁積氣的表現不同<br>(B) 錯誤，胎便性腹膜炎（meconium peritonitis）是產前腸道穿孔導致的腹膜炎，通常會有鈣化<br>(C) 正確，根據題目描述的術中腸道外觀，壞死性腸炎（necrotizing enterocolitis, NEC）最可能，典型表現為片狀腸壁壞死、充氣（pneumatosis intestinalis）、變色<br>(D) 錯誤，胎便性腸阻塞（meconium ileus）是因濃稠胎便阻塞迴腸，與囊狀纖維化（cystic fibrosis）相關，但腸道外觀通常不會呈現壞死",
     "tags": [
       "114-1-5",
       "小兒外科"
@@ -811,7 +811,7 @@
       "D": "發生原因與腸繫膜血管的發育有關"
     },
     "answer": "B",
-    "explanation": "蘋果皮異常（apple peel deformity）是第IIIb型小腸閉鎖的特徵，而非蘋果樹異常（apple tree）。此型態因遠端小腸像蘋果皮螺旋狀纏繞而得名。<br>(A) 正確，先天性小腸閉鎖（jejunoileal atresia）的產前超音波羊水量可能正常，特別是近端閉鎖，但也可能出現羊水過多<br>(B) 錯誤，第IIIb型小腸閉鎖形狀呈現蘋果皮異常（apple peel deformity）或稱聖誕樹異常（Christmas tree deformity），而非蘋果樹異常（apple tree），特徵是遠端小腸像蘋果皮螺旋狀纏繞在單一供應血管周圍<br>(C) 正確，新生兒可能無法解出胎便或只解出少量胎便，因為腸道阻塞<br>(D) 正確，小腸閉鎖的發生原因與胎兒期腸繫膜血管事件（vascular accident）導致腸道缺血壞死有關",
+    "explanation": "蘋果皮異常（apple peel deformity）是第 IIIb 型小腸閉鎖的特徵，而非蘋果樹異常（apple tree）。此型態因遠端小腸像蘋果皮螺旋狀纏繞而得名。<br>(A) 正確，先天性小腸閉鎖（jejunoileal atresia）的產前超音波常見羊水過多，且閉鎖位置越近端（空腸）越明顯。遠端（迴腸）閉鎖的羊水量可以正常或僅輕度增加。<br>(B) 錯誤，第 IIIb 型小腸閉鎖形狀呈現蘋果皮異常（apple peel deformity）或稱聖誕樹異常（Christmas tree deformity），而非蘋果樹異常（apple tree），特徵是遠端小腸像蘋果皮螺旋狀纏繞在單一供應血管周圍。<br>(C) 正確，新生兒可能無法解出胎便或只解出少量胎便，因為腸道阻塞。<br>(D) 正確，小腸閉鎖的發生原因與胎兒期腸繫膜血管事件（vascular accident）導致腸道缺血壞死有關。",
     "tags": [
       "114-1-5",
       "小兒外科"
@@ -828,7 +828,7 @@
       "D": "先天性肺部呼吸道畸形（congenital pulmonary airway malformation）"
     },
     "answer": "C",
-    "explanation": "游離肺（pulmonary sequestration）是非功能性肺組織，有異常血液供應但不與氣管相通，因此不容易發生氣胸。<br>(A) 錯誤，先天性肺葉氣腫（congenital lobar emphysema）因肺泡過度膨脹，容易發生自發性氣胸<br>(B) 錯誤，支氣管源性囊腫（bronchogenic cyst）如與氣管相通，可能發生氣胸<br>(C) 正確，游離肺（pulmonary sequestration）是非功能性肺組織，由異常體循環血管（通常來自主動脈）供應血流，且不與正常支氣管樹相通，因此最不容易出現自發性氣胸<br>(D) 錯誤，先天性肺部呼吸道畸形（congenital pulmonary airway malformation, CPAM，原稱CCAM）含有囊腫，可能發生氣胸",
+    "explanation": "游離肺（pulmonary sequestration）是非功能性肺組織，不與氣管支氣管樹相通，因此最不容易出現自發性氣胸。<br>(A) 錯誤，先天性肺葉氣腫（congenital lobar emphysema）因支氣管活瓣效應造成肺葉過度充氣，含氣空間可破裂而發生氣胸<br>(B) 錯誤，支氣管源性囊腫（bronchogenic cyst）如與氣道相通，可能含氣而發生氣胸<br>(C) 正確，游離肺（pulmonary sequestration）是非功能性肺組織，由異常體循環動脈（通常來自主動脈）供應血流，且不與正常支氣管樹相通，因此最不容易出現自發性氣胸<br>(D) 錯誤，先天性肺部呼吸道畸形（congenital pulmonary airway malformation, CPAM，原稱 CCAM）與支氣管樹相通且含有囊腫，可能發生氣胸",
     "tags": [
       "114-1-5",
       "小兒外科"

@@ -760,7 +760,7 @@
       "D": "肺部狀況"
     },
     "answer": "C",
-    "explanation": "食道閉鎖併氣管食道瘻管（esophageal atresia with tracheoesophageal fistula, EA/TEF）的預後評估系統包括Waterston分類和Spitz分類。<br>(A) 錯誤，出生體重是重要預後因子，Spitz分類將出生體重＜1500 g列為高風險因子<br>(B) 錯誤，有無重大先天異常（major congenital anomalies）特別是心臟問題是最重要的預後因子。約50%的EA/TEF病患合併其他異常，常見的有VACTERL association（Vertebral, Anorectal, Cardiac, Tracheoesophageal, Renal, Limb anomalies）<br>(C) 正確，手術時機與預後較無直接相關。現代處理原則是先穩定病患（處理呼吸、循環問題），手術通常在診斷後24-48小時內進行，但延遲幾天手術並不會顯著影響預後。重要的是病患的整體狀況，而非手術的絕對時間<br>(D) 錯誤，肺部狀況（如肺炎、肺發育不全）會影響術後呼吸併發症和整體預後<br>Spitz分類：Group I（出生體重＞1500 g且無重大心臟異常）、Group II（出生體重＜1500 g或有重大心臟異常）、Group III（兩者皆有）。",
+    "explanation": "食道閉鎖併氣管食道瘻管（esophageal atresia with tracheoesophageal fistula, EA/TEF）常用 Waterston 與 Spitz 分類評估預後，因子為出生體重、肺炎（肺部狀況）與合併先天異常。<br>(A) 錯誤，出生體重是 Waterston 與 Spitz 分類的共同因子，Spitz 分類以 1500 g 為切點。<br>(B) 錯誤，約 50% 的 EA/TEF 合併其他先天異常（如 VACTERL association），其中重大心臟異常最影響預後，也是 Spitz 分類的因子。<br>(C) 正確，手術時機不是分類系統的預後因子。現代處理原則是先穩定病人的呼吸與循環，再於出生後 24~48 小時左右手術。<br>(D) 錯誤，Waterston 分類含肺炎嚴重度，肺部狀況會影響術後呼吸併發症與整體預後。<br>Spitz 分類：Group I 為出生體重 &gt; 1500 g 且無重大心臟異常，Group II 為出生體重 &lt; 1500 g 或有重大心臟異常，Group III 為兩者皆有。",
     "tags": [
       "112-2-5",
       "小兒外科"
@@ -777,7 +777,7 @@
       "D": "雙側膀胱輸尿管逆流（bilateral vesicoureteral reflux），grade V"
     },
     "answer": "D",
-    "explanation": "膀胱輸尿管逆流（vesicoureteral reflux, VUR）是兒童泌尿道感染的重要危險因子，依嚴重度分為五級。<br>雖然沒有圖片，但根據題目描述：2個月大嬰兒、泌尿道感染合併菌血症和腦膜炎（表示嚴重感染）、兩側水腎，可推論為高度VUR。<br>VUR國際分級系統：<br>· Grade I：逆流僅到輸尿管，不到腎盂<br>· Grade II：逆流到腎盂和腎盞，但無擴張<br>· Grade III：輕度到中度輸尿管、腎盂、腎盞擴張，腎盹輕度鈍化<br>· Grade IV：中度到重度輸尿管、腎盂、腎盞擴張和扭曲，腎盹中度鈍化<br>· Grade V：嚴重輸尿管、腎盂、腎盞擴張和扭曲，輸尿管扭曲，腎盹消失，腎乳頭印痕消失<br>(A) 錯誤，Grade II不會造成雙側水腎和如此嚴重的感染<br>(B) 錯誤，Grade III為輕中度擴張，與題目描述的雙側水腎不符<br>(C) 錯誤，Grade IV為中重度，但題目提示應為最嚴重等級<br>(D) 正確，雙側水腎加上嚴重泌尿道感染合併菌血症和腦膜炎，最可能是Grade V VUR<br>治療：低度VUR（I-III）通常保守治療加預防性抗生素；高度VUR（IV-V）可能需要手術矯正。",
+    "explanation": "膀胱輸尿管逆流（vesicoureteral reflux, VUR）是兒童泌尿道感染的重要危險因子，依國際逆流分級分為五級。<br>本題圖為排尿性膀胱尿道攝影（VCUG），雙側輸尿管、腎盂與腎盞嚴重擴張彎曲，腎盞變鈍，乳頭印痕消失，符合 grade V。2 個月大嬰兒發燒、泌尿道感染合併菌血症與腦膜炎，超音波兩側水腎，也符合高等級逆流。<br>VUR 國際分級系統：<br>Grade I：逆流僅到輸尿管，不到腎盂。<br>Grade II：逆流到腎盂和腎盞，但無擴張。<br>Grade III：輸尿管、腎盂、腎盞輕到中度擴張，腎盞穹窿輕微鈍化。<br>Grade IV：輸尿管、腎盂、腎盞中度擴張，輸尿管彎曲，穹窿銳角消失，但多數乳頭印痕仍保留。<br>Grade V：輸尿管、腎盂、腎盞嚴重擴張，輸尿管彎曲，多數乳頭印痕消失。<br>(A) 錯誤，Grade II 無擴張，與圖中嚴重擴張彎曲不符。<br>(B) 錯誤，Grade III 為輕到中度擴張，圖中擴張更嚴重。<br>(C) 錯誤，Grade IV 為中度擴張，乳頭印痕仍保留，圖中乳頭印痕已消失。<br>(D) 正確，雙側輸尿管、腎盂與腎盞嚴重擴張彎曲且乳頭印痕消失，為 Grade V。<br>治療：先處理排尿與排便功能異常，視風險給予預防性抗生素。持續高等級逆流、預防下仍反覆發燒性泌尿道感染或腎皮質異常時，考慮輸尿管再植入術，較低等級可考慮內視鏡注射（EAU/ESPU 2023）。",
     "tags": [
       "112-2-5",
       "小兒外科"
@@ -814,7 +814,7 @@
       "D": "乙醯膽鹼酶染色（acetylcholinesterase immunostaining）"
     },
     "answer": "A",
-    "explanation": "Hirschsprung's disease（巨腸症）是因為腸道神經節細胞缺失，導致該段腸道無法蠕動。<br>(A) 正確（最不適用），PAS染色（periodic acid-Schiff staining）主要用於檢測多醣類、黏液、真菌等，不適用於診斷Hirschsprung's disease，因為它無法顯示神經節細胞或神經纖維<br>(B) 錯誤，蘇木素-伊紅染色（H&E staining）是基本組織染色，可以直接觀察黏膜下層和肌間神經叢（myenteric plexus）是否有神經節細胞（ganglion cells）存在，是診斷的基本方法<br>(C) 錯誤，鈣視網膜蛋白染色（calretinin immunostaining）是較新的免疫組織化學染色，正常腸道的神經節細胞和神經纖維會呈陽性，Hirschsprung's disease的無神經節段會呈陰性，敏感度和特異度都很高<br>(D) 錯誤，乙醯膽鹼酯酶染色（acetylcholinesterase immunostaining）可顯示無神經節段的副交感神經纖維增生（hypertrophied nerve fibers），在黏膜固有層和肌層可見增粗的神經纖維，是診斷Hirschsprung's disease的重要染色<br>診斷金標準：直腸切片（full-thickness或suction biopsy）顯示無神經節細胞（aganglionosis）。",
+    "explanation": "Hirschsprung's disease（巨腸症）是腸道神經節細胞缺失，使該段腸道無法正常蠕動，診斷靠直腸切片證明無神經節細胞。<br>(A) 正確（最不適用），PAS 染色主要用於檢測多醣類、黏液與真菌等，無法顯示神經節細胞或神經纖維，不用於診斷巨腸症。<br>(B) 錯誤，H&E 染色可直接觀察黏膜下層是否有神經節細胞，以及神經幹是否肥大，是診斷的基本方法。<br>(C) 錯誤，calretinin 免疫染色在正常腸壁的神經節細胞與神經纖維呈陽性，無神經節段呈陰性，敏感度和特異度都高。<br>(D) 錯誤，乙醯膽鹼酯酶(AChE)實際上是組織化學染色（選項寫成 immunostaining），無神經節段的黏膜固有層與黏膜肌層可見增生的膽鹼性神經纖維，是診斷的重要染色。<br>診斷金標準：直腸切片（抽吸切片或全層切片）顯示無神經節細胞(aganglionosis)。",
     "tags": [
       "112-2-5",
       "小兒外科"
@@ -831,7 +831,7 @@
       "D": "Sistrunk procedure"
     },
     "answer": "A,B",
-    "explanation": "Hirschsprung's disease有多種手術方式，都是切除無神經節腸段，將有神經節腸段拉下與肛門吻合。<br>(A) 正確，Swenson procedure是最早的標準術式，將無神經節腸段切除，有神經節的腸段從後方拉出，在肛門外與肛門做端對端吻合後再推回<br>(B) 正確，Soave procedure（endorectal pull-through）是經肛門黏膜下拉出術，保留無神經節腸段的肌肉層作為套筒（muscular cuff），將有神經節腸段從黏膜下層拉出，與肛門黏膜吻合<br>(C) 錯誤，Duhamel procedure是後矢狀拉出術，將有神經節腸段拉到直腸後方，與保留的前壁直腸形成側側吻合，創造一個共同腔<br>(D) 錯誤，Sistrunk procedure是用於甲狀舌管囊腫的手術，不是治療Hirschsprung's disease<br>根據題目描述「將有神經節腸段拉下與遠端肛門口做端對端接合」，Swenson和Soave都符合，因此答案為A和B都正確。<br>現代趨勢：傾向使用經肛門拉出術（transanal pull-through），創傷小、恢復快。",
+    "explanation": "Hirschsprung's disease 有多種拉下(pull-through)手術，都是切除或繞過無神經節的腸段，將有神經節的腸段拉下與肛門吻合。<br>圖：經肛門拉出術(transanal endorectal pull-through)，以擴張器撐開肛門，拉出的腸段由肛門外露。<br>題幹描述切除無神經節腸段後，將有神經節腸段拉下與遠端肛門口做端對端接合，Swenson 與 Soave 都符合，故公告答案 A、B 都給分。<br>(A) 正確，Swenson procedure 是最早的標準術式，全層切除無神經節的直腸，有神經節的腸段拉下後與肛管做斜向端端吻合（原術式將直腸翻出肛門外，在肛門外吻合後再推回）。<br>(B) 正確，Soave procedure（endorectal pull-through）在直腸黏膜下剝離，保留肌層袖套(muscular cuff)，有神經節的腸段由袖套內拉下，與肛門做端端吻合。<br>(C) 錯誤，Duhamel procedure 將有神經節的腸段由直腸後方(retrorectal)拉下，保留無神經節的直腸，兩者做側側吻合形成共同腔，不是端端吻合。<br>(D) 錯誤，Sistrunk procedure 是用於甲狀舌管囊腫的手術，不是治療 Hirschsprung's disease。<br>現代趨勢：傾向使用經肛門拉出術，創傷小、恢復快。",
     "tags": [
       "112-2-5",
       "小兒外科"
