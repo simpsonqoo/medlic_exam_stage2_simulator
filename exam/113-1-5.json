@@ -417,7 +417,7 @@
       "D": "頸部食道淋巴引流，很短距離就可穿出肌肉層至局部淋巴結"
     },
     "answer": "A",
-    "explanation": "食道淋巴系統的特殊性影響食道癌的轉移模式和手術範圍。<br>(A) 錯誤，食道淋巴回流的特點是縱向引流（longitudinal）比橫向引流（transverse）更發達，淋巴可以在黏膜下層長距離縱向流動，因此即使是早期食道癌也可能有遠處淋巴結轉移（skip metastasis），而非只有局部轉移<br>(B) 正確，食道的淋巴引流網絡確實比動脈血液供應網絡更豐富，這解釋了食道癌容易早期淋巴轉移<br>(C) 正確，食道淋巴管主要分布在黏膜下層（submucosal layer），形成豐富的淋巴叢（lymphatic plexus）<br>(D) 正確，頸段食道的淋巴管很短距離就穿出肌肉層到達頸部淋巴結，因此頸段食道癌容易早期局部淋巴轉移",
+    "explanation": "食道淋巴系統的特殊性影響食道癌的轉移模式和手術範圍。<br>(A) 錯誤，食道淋巴引流以縱向為主，縱向引流約為橫向引流的 6 倍，淋巴液可沿黏膜下層長距離縱向流動，因此腫瘤容易出現遠離原發部位的跳躍式淋巴結轉移（skip metastasis），而不是只有局部淋巴轉移。<br>(B) 正確，食道淋巴管的數量比血液毛細血管豐富，這解釋了食道癌容易早期出現淋巴轉移。<br>(C) 正確，食道淋巴管主要分布在黏膜下層（submucosal layer），形成豐富的淋巴網絡。<br>(D) 正確，頸段食道的淋巴管短距離就穿出肌肉層，引流至氣管旁與深頸淋巴結，因此頸段食道癌容易早期出現局部淋巴結轉移。",
     "tags": [
       "113-1-5",
       "胸腔外科"
@@ -434,7 +434,7 @@
       "D": "經過 20 年以上可能會有惡性變化，常見惡性腫瘤為腺癌（adenocarcinoma）"
     },
     "answer": "D",
-    "explanation": "食道弛緩症是食道下括約肌（lower esophageal sphincter）無法正常放鬆，合併食道體部蠕動喪失的疾病。<br>(A) 正確，食道蠕動壓力測量（esophageal manometry）是診斷achalasia的金標準，可測量到：下食道括約肌壓力升高、鬆弛不全，以及食道體部蠕動消失<br>(B) 正確，某些感染（如Chagas disease，由Trypanosoma cruzi寄生蟲引起）會破壞食道肌肉層的神經節細胞，導致繼發性achalasia<br>(C) 正確，第四期（end-stage）achalasia的食道會極度擴張形成巨大食道（megaesophagus），功能完全喪失，常需要食道切除（esophagectomy）和重建<br>(D) 錯誤，achalasia病人確實有較高的食道癌風險（比一般人高約10-30倍），但最常見的是鱗狀細胞癌（squamous cell carcinoma），而非腺癌（adenocarcinoma）。腺癌通常與胃食道逆流和Barrett's esophagus有關",
+    "explanation": "食道弛緩症是食道下括約肌（lower esophageal sphincter）無法正常放鬆，合併食道體部蠕動喪失的疾病。<br>(A) 正確，高解析度食道測壓（esophageal manometry）是診斷 achalasia 的標準檢查，可見食道胃接合處的鬆弛壓力（IRP）升高與食道體部蠕動消失，並依 Chicago 分類分為三型。<br>(B) 正確，Chagas disease（由 Trypanosoma cruzi 感染引起）會破壞食道肌間神經叢的神經節細胞，造成續發性 achalasia。<br>(C) 正確，末期（end-stage）achalasia 的食道極度擴張，呈乙狀或巨大食道（megaesophagus），其他治療失敗且可接受手術的病人建議食道切除與重建。<br>(D) 錯誤，achalasia 病人的食道癌風險增加（鱗狀細胞癌的 hazard ratio 約 28），癌化以鱗狀細胞癌為主，統合分析的發生率約每 10 萬人年 312 例，腺癌約每 10 萬人年 21 例。腺癌通常與胃食道逆流和 Barrett 食道有關。",
     "tags": [
       "113-1-5",
       "胸腔外科"

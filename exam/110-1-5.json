@@ -349,7 +349,7 @@
       "D": "胸腺瘤分期是根據Masaoka staging，第4a期是指有淋巴轉移"
     },
     "answer": "A",
-    "explanation": "胸腺瘤（thymoma）的治療以手術完整切除為核心，需了解各敘述的正確性。<br>(A) 正確，胸腺瘤的治療首選是完整手術切除（complete resection），即使需要合併切除並重建上腔靜脈（superior vena cava），仍能獲得較佳預後，完整切除是最重要的預後因子<br>(B) 錯誤，重症肌無力（myasthenia gravis）患者中約10～15%會發現胸腺瘤，而非題目所說的10～50%；反過來說，約30～50%的胸腺瘤患者合併重症肌無力<br>(C) 錯誤，胸腺瘤雖然不等同於胸腺癌，但進展期或惡性胸腺瘤確實可侵犯或壓迫上腔靜脈，造成上腔靜脈症候群（superior vena cava syndrome, SVC syndrome）<br>(D) 錯誤，胸腺瘤的分期依據馬薩卡分期（Masaoka staging），第4a期是指肋膜或心包膜的播散性轉移（pleural or pericardial dissemination），而非淋巴結轉移；淋巴轉移屬第4b期",
+    "explanation": "胸腺瘤（thymoma）的治療以手術完整切除為核心，需了解各敘述的正確性。<br>(A) 正確，胸腺瘤的治療首選是完整手術切除（complete resection），即使需要合併切除並重建上腔靜脈（superior vena cava），仍能獲得較佳預後，完整切除是最重要的預後因子<br>(B) 錯誤，重症肌無力（myasthenia gravis）患者中約10~15%會發現胸腺瘤，而非題目所說的10~50%。反過來說，約30~50%的胸腺瘤患者合併重症肌無力<br>(C) 錯誤，胸腺瘤雖然不等同於胸腺癌，但進展期或惡性胸腺瘤確實可侵犯或壓迫上腔靜脈，造成上腔靜脈症候群（superior vena cava syndrome, SVC syndrome）<br>(D) 錯誤，胸腺瘤的分期依據馬薩卡分期（Masaoka staging），第4a期是指肋膜或心包膜的播散性轉移（pleural or pericardial dissemination），而非淋巴結轉移。淋巴轉移屬第4b期",
     "tags": [
       "110-1-5",
       "胸腔外科"
@@ -383,7 +383,7 @@
       "D": "小顆的胸腺瘤合併有重症肌無力時，應盡早手術切除"
     },
     "answer": "A",
-    "explanation": "縱膈腔生殖細胞瘤（mediastinal germ cell tumor）需區分精原性（seminomatous）與非精原性（non-seminomatous）的腫瘤標記差異。<br>(A) 錯誤，精原性生殖細胞瘤（seminomatous germ cell tumor）通常不分泌或僅輕微分泌β-hCG，且幾乎不分泌甲胎蛋白（AFP）；AFP升高強烈提示非精原性生殖細胞瘤（non-seminomatous germ cell tumor）；精原性確實對放療敏感（radiosensitive），但腫瘤標記的描述有誤<br>(B) 正確，成人縱膈腔腫瘤以胸腺瘤、淋巴瘤為主，而兒童則以神經性腫瘤（neurogenic tumor）最常見，通常位於後縱膈<br>(C) 正確，對於可切除的縱膈腔腫瘤，先手術切除再輔助治療的效果通常優於直接對巨大腫瘤（bulky disease）進行化放療<br>(D) 正確，合併重症肌無力（myasthenia gravis）的胸腺瘤，即使腫瘤體積小，仍應盡早安排手術切除，以改善肌無力症狀並防止腫瘤進展",
+    "explanation": "縱膈腔生殖細胞瘤（mediastinal germ cell tumor）需區分精原性（seminomatous）與非精原性（non-seminomatous）的腫瘤標記差異。<br>(A) 錯誤，精原性生殖細胞瘤（seminomatous germ cell tumor）通常不分泌或僅輕微分泌β-hCG，且幾乎不分泌甲胎蛋白（AFP）。AFP升高強烈提示非精原性生殖細胞瘤（non-seminomatous germ cell tumor）。精原性確實對放療敏感（radiosensitive），但腫瘤標記的描述有誤<br>(B) 正確，成人縱膈腔腫瘤以胸腺瘤最常見，兒童則以神經性腫瘤（neurogenic tumor）最常見，通常位於後縱膈<br>(C) 正確，可切除的縱膈腔腫瘤（如胸腺瘤）以手術完整切除為主要治療，術後視病理與分期再給予輔助治療，完整切除是最重要的預後因子<br>(D) 正確，胸腺瘤不論大小都應手術完整切除。合併重症肌無力（myasthenia gravis）時，術前先把肌無力症狀控制穩定，以降低術後肌無力危象的風險",
     "tags": [
       "110-1-5",
       "胸腔外科"
@@ -400,7 +400,7 @@
       "D": "以後變成squamous cell carcinoma之機率是一般人的40倍"
     },
     "answer": "D",
-    "explanation": "巴瑞特食道（Barrett esophagus）是胃食道逆流的嚴重併發症，關鍵在於其癌變類型與癌化風險倍數。<br>(A) 正確，巴瑞特食道是一種腸化生（intestinal metaplasia），正常食道鱗狀上皮被柱狀上皮（特化的腸型上皮）所取代<br>(B) 正確，巴瑞特食道依長度分類，超過3公分稱為長段型（long segment Barrett esophagus，LSBE），3公分以下稱為短段型（short segment）<br>(C) 正確，診斷巴瑞特食道需以內視鏡切片（biopsy）確認腸化生（intestinal metaplasia）的組織病理學特徵<br>(D) 錯誤，巴瑞特食道會大幅提升食道腺癌（esophageal adenocarcinoma）的風險，而非鱗狀細胞癌（squamous cell carcinoma）；鱗狀細胞癌與吸菸、飲酒相關，巴瑞特食道癌化的類型是腺癌，風險約為一般人的30～40倍",
+    "explanation": "Barrett 食道是胃食道逆流的併發症，關鍵在於其癌變類型與癌化風險倍數。<br>(A) 正確，Barrett 食道是一種腸化生（intestinal metaplasia），遠端食道的鱗狀上皮被含杯狀細胞的柱狀上皮取代。<br>(B) 正確，Barrett 食道依長度分類，≥ 3 公分稱為長段型（long segment），&lt; 3 公分稱為短段型（short segment）。<br>(C) 正確，診斷 Barrett 食道需在內視鏡下看到柱狀黏膜，並以切片確認含杯狀細胞的腸化生。<br>(D) 錯誤，Barrett 食道增加的是食道腺癌（esophageal adenocarcinoma）的風險，不是鱗狀細胞癌（squamous cell carcinoma）。罹患食道腺癌的風險約為一般人的 11 倍（Hvid-Jensen 2011），無分化不良者每年進展為腺癌的風險約 0.2~0.5%。鱗狀細胞癌與抽菸、飲酒相關。",
     "tags": [
       "110-1-5",
       "胸腔外科"
@@ -417,7 +417,7 @@
       "D": "Nissen fundoplication 是partial fundoplication的一種"
     },
     "answer": "D",
-    "explanation": "胃食道逆流（gastroesophageal reflux disease, GERD）的外科術式分類需要精確記憶，關鍵在於辨別全包覆與部分包覆的差異。<br>(A) 正確，生活型態調整（lifestyle modification）合併質子幫浦抑制劑（proton pump inhibitor, PPI）確實是胃食道逆流的第一線治療<br>(B) 正確，當內科治療已達極限但症狀持續，且有客觀逆流證據，外科手術（胃底折疊術）是合理的介入選擇<br>(C) 正確，長期使用PPI確實有引起胃類癌（gastric carcinoid tumor）的理論風險，因長期抑制胃酸導致高胃泌素血症（hypergastrinemia），刺激腸嗜鉻細胞（enterochromaffin-like cell）增生<br>(D) 錯誤，尼森胃底折疊術（Nissen fundoplication）是360度的全包覆手術（total fundoplication），而非部分包覆（partial fundoplication）；部分包覆的術式包括Toupet（270度後包覆）和Dor（前包覆）等",
+    "explanation": "胃食道逆流（GERD）的外科術式分類需要精確記憶，關鍵在於辨別全包覆與部分包覆的差異。<br>(A) 適當，生活型態調整（lifestyle modification）合併質子幫浦抑制劑（PPI）是 GERD 的第一線治療。<br>(B) 適當，內科治療已達極限但症狀持續，且有客觀逆流證據時，外科手術（胃底折疊術）是合理的選擇。<br>(C) 適當，長期使用 PPI 抑制胃酸會造成高胃泌素血症，刺激腸嗜鉻樣細胞（enterochromaffin-like cell, ECL）增生，因此有胃類癌（carcinoid tumor）的理論風險，這是藥理機轉與動物實驗的推論。<br>(D) 較不適當，Nissen fundoplication 是 360 度的全包覆手術（total fundoplication），不是部分包覆（partial fundoplication）。部分包覆的術式包括 Toupet（270 度後方包覆）與 Dor（前方包覆）等。",
     "tags": [
       "110-1-5",
       "胸腔外科"
