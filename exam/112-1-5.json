@@ -389,7 +389,7 @@
       "D": "心導管（cardiac catheterization）之檢查已經是非必要之檢查"
     },
     "answer": "A",
-    "explanation": "TAPVC是先天性心臟病，所有肺靜脈未正常連接至左心房。<br>(A) 錯誤，手術治療TAPVC時，垂直靜脈（vertical vein）是異常的引流通道，手術目標是將肺靜脈重新連接至左心房，應該結紮或切斷垂直靜脈，避免術後仍有異常分流。若保留垂直靜脈會造成持續的異常血流<br>(B) 正確，TAPVC無論是否有阻塞都應該手術矯正。有阻塞者需在新生兒期緊急手術，無阻塞者在嬰兒期擇期手術。不手術會導致心衰竭、肺高壓<br>(C) 正確，無縫修復法（sutureless repair）適用於術後肺靜脈再狹窄的病人，使用自體心包膜或其他材料擴大吻合口，減少縫合造成的張力和狹窄<br>(D) 正確，現代影像學進步使得心導管檢查不再是必要的診斷工具。心臟超音波可清楚診斷TAPVC型態，CT或MRI可提供額外資訊。心導管主要用於複雜病例或評估肺動脈壓力",
+    "explanation": "TAPVC 是四條肺靜脈都沒有接入左心房，而經異常路徑回到右心房系統，必須合併 ASD 或 PFO 才能存活。<br>(A) 錯誤，手術時將共同肺靜脈腔與左心房後壁吻合，關閉 ASD，異常的垂直靜脈（vertical vein）通常予以結紮，避免術後殘留左向右分流。<br>(B) 正確，無論是否阻塞都需手術矯正，阻塞型在新生兒期緊急手術，無阻塞者於嬰兒期擇期手術。<br>(C) 正確，無縫合修復法（sutureless repair）將共同肺靜脈腔的切口延伸到各條肺靜脈，再把左心房後壁與周圍心包縫合，不縫肺靜脈管壁與內膜，用於術後肺靜脈再狹窄的病人，也可用於高風險的初次修補。<br>(D) 正確，心臟超音波可清楚診斷 TAPVC 的型態，CT 或 MRI 提供額外資訊，心導管多已非必要。",
     "tags": [
       "112-1-5",
       "心臟血管外科"
@@ -406,7 +406,7 @@
       "D": "muscular type"
     },
     "answer": "C",
-    "explanation": "心室中隔缺損（ventricular septal defect, VSD）依位置分類，各有不同併發症。<br>(A) 錯誤，小的perimembranous VSD（<3 mm）通常不會造成明顯的主動脈瓣問題，可能自行閉合<br>(B) 錯誤，大的perimembranous VSD（>5 mm）主要問題是左向右分流造成的心衰竭和肺高壓，較少造成主動脈瓣脫垂<br>(C) 正確，Subarterial VSD（又稱supracristal VSD或doubly committed subarterial VSD）位於主動脈瓣和肺動脈瓣下方，缺乏肌肉或纖維組織支撐，主動脈瓣（特別是右冠瓣）容易因缺乏支撐而脫垂進入VSD。約25-50%會發生主動脈瓣脫垂和逆流，常見於亞洲人（約佔VSD的30%）。即使VSD很小也建議手術，因為主動脈瓣問題會進行性惡化<br>(D) 錯誤，Muscular VSD周圍有肌肉組織包圍，提供良好支撐，不易造成主動脈瓣脫垂",
+    "explanation": "心室中隔缺損（ventricular septal defect, VSD）依位置分類，各有不同併發症。<br>(A) 錯誤，小的perimembranous VSD（&lt;3 mm）通常不會造成明顯的主動脈瓣問題，可能自行閉合<br>(B) 錯誤，大的perimembranous VSD（&gt;5 mm）主要問題是左向右分流造成的心衰竭和肺高壓，較少造成主動脈瓣脫垂<br>(C) 正確，Subarterial VSD（又稱supracristal VSD或doubly committed subarterial VSD）位於主動脈瓣和肺動脈瓣下方，缺乏肌肉或纖維組織支撐，主動脈瓣（特別是右冠瓣）容易因缺乏支撐而脫垂進入VSD。約25~50%會發生主動脈瓣脫垂和逆流，常見於亞洲人（約佔VSD的30%）。即使VSD很小也建議手術，因為主動脈瓣問題會進行性惡化<br>(D) 錯誤，Muscular VSD周圍有肌肉組織包圍，提供良好支撐，不易造成主動脈瓣脫垂",
     "tags": [
       "112-1-5",
       "心臟血管外科"

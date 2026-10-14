@@ -315,7 +315,7 @@
       "D": "針對心臟收縮功能低下的病人，加上 digoxin 有足夠證據顯示助於降低死亡率"
     },
     "answer": "D",
-    "explanation": "冠狀動脈阻塞疾病（coronary artery disease）的治療包括危險因子控制和藥物治療。<br>(A) 正確，AHA/ACC指引中，戒菸是class I recommendation（強烈建議），對預防冠狀動脈疾病極為重要<br>(B) 正確，β-blocker在冠狀動脈繞道手術（CABG）後能降低心肌梗塞和死亡率，除非有禁忌症（如嚴重心衰竭、心搏過緩），應儘早使用<br>(C) 正確，急性冠狀動脈症候群（acute coronary syndrome）主要由斑塊破裂（plaque rupture）和血栓形成（thrombus formation）引起<br>(D) 錯誤，Digoxin可改善心衰竭症狀，但多項研究（如DIG trial）顯示它不能降低死亡率，僅能減少住院次數",
+    "explanation": "冠狀動脈阻塞疾病（coronary artery disease）的治療包括危險因子控制和藥物治療。<br>(A) 正確，AHA/ACC 指引中，戒菸是 class I recommendation（強烈建議），對預防冠狀動脈疾病極為重要。<br>(B) 正確，冠狀動脈繞道手術（CABG）後若無禁忌症（如嚴重心搏過緩、decompensated 心衰竭），建議儘早使用 β-blocker，以預防術後心房顫動。心肌梗塞後或 LVEF 低下者應長期使用。<br>(C) 正確，急性冠狀動脈症候群（acute coronary syndrome）主要由斑塊破裂（plaque rupture）和血栓形成（thrombus formation）引起。<br>(D) 錯誤，Digoxin 可改善心衰竭症狀並減少住院，但 DIG 試驗顯示它不能降低死亡率。",
     "tags": [
       "113-1-5",
       "心臟血管外科"
@@ -383,7 +383,7 @@
       "D": "雖然新型的抗凝血劑（novel oral anticoagulant, NOAC）問世，如 dabigatran、rivaroxaban，仍不建議使用於機械性瓣膜病患"
     },
     "answer": "C",
-    "explanation": "心臟瓣膜置換可選擇機械瓣膜或生物瓣膜，各有優缺點。<br>(A) 正確，生物瓣膜（bioprosthetic valve）不需要長期抗凝血，但耐久性較差。一般建議主動脈瓣置換≥65歲、二尖瓣置換≥70歲選擇生物瓣膜<br>(B) 正確，機械瓣膜需要終生使用warfarin抗凝血治療，需監測PT/INR值，通常維持INR在2.5-3.5之間<br>(C) 錯誤，Ross手術（Ross procedure）是將病人自己的肺動脈瓣（pulmonary valve）移至主動脈位置，再用同種異體移植物（homograft）重建肺動脈。此手術特別適合年輕病人（兒童和青少年），而非年老病人，因為年輕病人需要長期耐久性且避免終生抗凝血<br>(D) 正確，新型抗凝血劑（NOAC）如dabigatran、rivaroxaban等，目前仍不建議用於機械瓣膜病患，因為研究顯示增加血栓和出血風險。機械瓣膜病患仍應使用warfarin",
+    "explanation": "心臟瓣膜置換可選擇機械瓣膜或生物瓣膜，各有優缺點。<br>(A) 正確，生物瓣膜（bioprosthetic valve）不需要長期抗凝血，但耐久性較差，因此年紀越大越偏向選擇生物瓣膜。ACC/AHA 2020 與 ESC/EACTS 2025 都建議主動脈瓣置換大於 65 歲選擇生物瓣膜，二尖瓣置換的年齡切點各指引略有不同，約 65~70 歲。<br>(B) 正確，機械瓣膜需要終生使用 warfarin 抗凝血治療，並以 PT/INR 監測。依 ACC/AHA 2020，INR 目標值視瓣膜位置與危險因子而定：機械主動脈瓣沒有血栓栓塞危險因子者為 2.5，機械二尖瓣或主動脈瓣合併危險因子（如心房顫動、血栓栓塞病史、左心室功能不全、高凝狀態）者為 3.0，On-X 主動脈瓣於術後 3 個月後可降至 1.5~2.0 並加上 aspirin。<br>(C) 錯誤，Ross 手術（Ross procedure）是將病人自己的肺動脈瓣（pulmonary valve）移至主動脈位置，再用同種異體移植物（homograft）重建右心室流出道。此手術適合兒童與年輕成人，因為自體瓣可隨生長、不需抗凝血，不適合年長病人。<br>(D) 正確，新型抗凝血劑（NOAC）如 dabigatran、rivaroxaban 等不建議用於機械瓣膜病患，因為 RE-ALIGN 顯示 dabigatran 增加血栓和出血風險，PROACT Xa 顯示 apixaban 在 On-X 主動脈瓣的血栓事件高於 warfarin。機械瓣膜病患仍應使用 warfarin。",
     "tags": [
       "113-1-5",
       "心臟血管外科"
@@ -400,7 +400,7 @@
       "D": "可考慮送導管室進行心房中隔氣球擴張術"
     },
     "answer": "B",
-    "explanation": "大動脈轉位（transposition of great arteries, TGA）是主動脈從右心室發出、肺動脈從左心室發出，導致體循環和肺循環分離，是新生兒發紺型先天性心臟病的急症。<br>(A) 正確，發紺嚴重的新生兒需要插管給氧、維持血流動力學穩定<br>(B) 錯誤，這是最不合醫療常規的處置。PGE1是救命藥物，它維持動脈導管（ductus arteriosus）開放，讓體循環和肺循環的血液能混合，改善氧合。絕對不能停止PGE1，否則動脈導管關閉會導致嚴重缺氧、死亡<br>(C) 正確，arterial switch operation是治療TGA的首選手術，應在出生後1-2週內進行（趁左心室還能承受體循環壓力）<br>(D) 正確，若氧合狀況危急，可考慮心房中隔氣球擴張術（balloon atrial septostomy, Rashkind procedure）增加心房間的血液混合，作為暫時性措施",
+    "explanation": "大動脈轉位（transposition of great arteries, TGA）是主動脈出自右心室、肺動脈出自左心室，體循環與肺循環平行，須靠心房、心室或動脈導管層次的混合才能存活，是新生兒發紺型先天性心臟病的急症。<br>(A) 正確，發紺嚴重的新生兒需要插管、輸液以維持呼吸與血流動力學穩定。<br>(B) 錯誤，這是最不合醫療常規的處置。PGE1 維持動脈導管開放，讓體循環與肺循環的血液得以混合，在手術前不應停用，否則導管關閉會造成嚴重缺氧。手術也不應拖到 2 週以後，動脈轉位手術通常在出生後 1~2 週內進行。<br>(C) 正確，動脈轉位手術（arterial switch operation）為首選的根治手術，應趁左心室仍能承受體循環壓力時施行。<br>(D) 正確，氧合危急或心房中隔過小時，可考慮心房中隔氣球擴張術（Rashkind procedure）增加心房間混合，作為手術前的暫時措施。",
     "tags": [
       "113-1-5",
       "心臟血管外科"

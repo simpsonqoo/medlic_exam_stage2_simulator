@@ -386,7 +386,7 @@
       "D": "在青春期前的女性，不適合使用右前側開胸術（anterolateral thoracotomy）來修補"
     },
     "answer": "C",
-    "explanation": "心房中隔缺損（ASD）是常見的先天性心臟病，依位置分為不同類型。<br>(A) 正確，年齡大於40歲的ASD病患建議進行心導管檢查，評估肺血管阻力和肺動脈壓力，因為長期左向右分流可能導致肺動脈高壓<br>(B) 正確，若肺血管阻力固定且過高（＞12 Wood units）或肺體血流比（Qp/Qs）＜1.5：1，表示已發生Eisenmenger syndrome，此時關閉缺損會增加右心負擔，反而有害<br>(C) 錯誤，靜脈竇型ASD（sinus venosus type）常位於上腔靜脈或下腔靜脈入口處，常合併部分肺靜脈異位引流（partial anomalous pulmonary venous return, PAPVR）。二尖瓣逆流較常見於原發孔型ASD（primum ASD，屬於房室中隔缺損的一部分）而非靜脈竇型<br>(D) 正確，青春期前女性不適合使用右前側開胸術（anterolateral thoracotomy），因為會在乳房發育前留下明顯疤痕，影響美觀，應選擇正中胸骨切開術（median sternotomy）<br>ASD類型：secundum type（最常見，70%）、primum type、sinus venosus type、冠狀靜脈竇型。",
+    "explanation": "心房中隔缺損（ASD）依位置分為 secundum（最常見，約 70%）、primum、sinus venosus 與冠狀靜脈竇型。<br>(A) 正確，年齡大於 40 歲的 ASD 病人術前建議做心導管檢查，評估肺血管阻力與肺動脈壓，並以冠狀動脈攝影篩檢冠心症。<br>(B) 正確，肺血管阻力固定升高（Eisenmenger 症候群）時關閉缺損會增加右心負擔而有害。ACC/AHA 2025 ACHD 指引依肺血管阻力分層：PVR ≤ 2 Wood units 且 Qp:Qs ≥ 1.5 並有右心擴大者建議關閉，2~5 Wood units 的病人若有顯著左向右分流，多數可關閉，5~8 Wood units 須先用肺高壓藥物降到 &lt; 5 Wood units 才考慮關閉，Eisenmenger 症候群與淨右向左分流為禁忌，因此 PVR 固定且大於 12 Wood units 者不可關閉。<br>(C) 錯誤，靜脈竇型 ASD（sinus venosus type）位於上腔靜脈或下腔靜脈入口處，常合併部分肺靜脈異位回流（PAPVR）。二尖瓣裂與二尖瓣逆流見於原發孔型 ASD（primum ASD，屬於部分型房室中隔缺損）。<br>(D) 正確，青春期前女性的右前側開胸（乳房下切口）可能影響乳房發育與胸壁，應選擇正中胸骨切開術或經導管關閉。",
     "tags": [
       "112-2-5",
       "心臟血管外科"

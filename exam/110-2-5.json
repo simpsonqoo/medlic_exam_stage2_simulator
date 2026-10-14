@@ -302,7 +302,7 @@
       "D": "無症狀之慢性嚴重主動脈瓣閉鎖不全(chronic severe aortic insufficiency),且有左心室功能不全,左心室射出率低於50%"
     },
     "answer": "C",
-    "explanation": "主動脈瓣閉鎖不全（aortic insufficiency, AI）的手術時機根據指引（AHA/ACC）有明確標準，重點在左心室功能及腔室大小的閾值。<br>(A) 錯誤，急性嚴重主動脈瓣閉鎖不全合併休克（cardiogenic shock）是緊急手術適應症<br>(B) 錯誤，有症狀（呼吸困難、心絞痛等）之慢性嚴重主動脈瓣閉鎖不全無論左心室功能如何均應手術<br>(C) 正確（不是適應症），無症狀且LVESD僅30 mm屬正常範圍，手術閾值為LVESD≥50 mm（或LVESD＞25 mm/m²BSA），30 mm遠低於手術適應症的閾值，不符合手術指徵<br>(D) 錯誤，無症狀但有左心室功能不全（LVEF＜50%）是手術適應症，因為左心室功能已開始惡化，應及早介入",
+    "explanation": "主動脈瓣閉鎖不全（aortic insufficiency, AI）的手術時機根據指引（ACC/AHA 2020、ESC/EACTS 2025）有明確標準，重點在症狀、左心室功能及腔室大小的閾值。<br>(A) 是手術適應症，急性嚴重主動脈瓣閉鎖不全合併休克是緊急手術適應症。<br>(B) 是手術適應症，有症狀（呼吸困難、心絞痛等）的慢性嚴重主動脈瓣閉鎖不全，無論左心室功能如何均應手術。<br>(C) 不是手術適應症，無症狀且 LVESD 僅 30 mm 屬正常範圍。手術閾值為 LVESD &gt; 50 mm（或 LVESDi &gt; 25 mm/m²，ACC/AHA 2020 為 Class 2a，ESC/EACTS 2025 為 Class I），30 mm 遠低於閾值，不符合手術指徵。<br>(D) 是手術適應症，無症狀但有左心室功能不全是手術適應症，因為左心室功能已開始惡化，應及早介入。切點為 LVEF ≤ 55%（ACC/AHA 2020）或 ≤ 50%（ESC/EACTS 2025），題目的 LVEF 低於 50% 符合兩者。",
     "tags": [
       "110-2-5",
       "心臟血管外科"
@@ -339,7 +339,7 @@
       "D": "Norwood術式是單一心室之第一階段術式,可以採用心室到肺動脈之分流來取代主動脈到肺動脈之分流"
     },
     "answer": "C",
-    "explanation": "單心室（single ventricle）的分期手術策略（Norwood → Glenn → Fontan）中，各階段目標與血流動力學調整是關鍵，需了解保留分流的利弊。<br>(A) 正確，左心室發育不全症候群（hypoplastic left heart syndrome, HLHS）和三尖瓣閉鎖（tricuspid atresia）均適合最終的方田手術（Fontan procedure）<br>(B) 正確，雙向葛連分流術（bidirectional Glenn shunt）通常建議在第一階段手術後4～6個月施行，此時肺血管阻力已下降至可接受被動血流的程度<br>(C) 錯誤，進行雙向葛連分流術時，應結紮（關閉）原有的主動脈到肺動脈分流（如B-T shunt）；若保留額外分流，會造成心室容積負荷過重（volume overload）、肺動脈壓升高，反而降低長期存活率，並不能提高長期存活率<br>(D) 正確，諾伍德手術（Norwood procedure）是HLHS的第一階段手術，可採用心室到肺動脈分流（RV-PA conduit/Sano shunt）取代主動脈到肺動脈分流（Blalock-Taussig shunt），兩種方式各有優缺點",
+    "explanation": "單心室（single ventricle）的分期手術依序為 Norwood、Glenn、Fontan，各階段的目標是在降低單心室容積負荷的同時建立穩定的肺血流。<br>(A) 正確，左心室發育不全症候群（hypoplastic left heart syndrome, HLHS）和三尖瓣閉鎖（tricuspid atresia）最終都走 Fontan 路徑。<br>(B) 正確，雙向葛連分流術（bidirectional Glenn shunt）通常在第一階段手術後 3~6 個月施行，此時肺血管阻力已下降到可接受被動肺血流的程度。<br>(C) 錯誤，進行雙向葛連分流術時，通常同時拆除原本的體肺分流（如 B-T shunt），以降低單心室的容積負荷。若保留額外分流，會使心室容積負荷過重、肺動脈壓升高，不利長期存活。<br>(D) 正確，Norwood 手術是 HLHS 的第一階段手術，可採用右心室到肺動脈導管（Sano shunt）取代 modified B-T shunt。",
     "tags": [
       "110-2-5",
       "心臟血管外科"
