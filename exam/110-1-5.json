@@ -111,7 +111,7 @@
       "D": "肢體顫抖（tremor）"
     },
     "answer": "D",
-    "explanation": "常壓性水腦（normal pressure hydrocephalus, NPH）有固定的三聯症，記憶口訣為「Wet, Wobbly, Wacky」，即尿失禁、步態不穩、失智。<br>(A) 錯誤，失智（dementia）是常壓性水腦三聯症的組成之一<br>(B) 錯誤，步態不穩（gait ataxia）是常壓性水腦最早出現且最具特徵的症狀<br>(C) 錯誤，尿失禁（urinary incontinence）是常壓性水腦三聯症的組成之一<br>(D) 正確，肢體顫抖（tremor）不屬於常壓性水腦的典型三聯症，顫抖更常見於帕金森氏症（Parkinson's disease），需注意兩者的鑑別診斷",
+    "explanation": "常壓性水腦（normal pressure hydrocephalus, NPH）有固定的三聯徵（Hakim triad），包括步態障礙、認知障礙（失智）與尿失禁。<br>(A) 錯誤，失智（dementia）是三聯徵之一，屬皮質下型，以注意力、執行功能與精神運動遲緩為主。<br>(B) 錯誤，步態障礙是三聯徵之一，也是最早出現且最常見的症狀。典型為磁性步態或步態失用（寬基、小步、拖行、轉身困難），選項的 gait ataxia 是步態障礙的一般說法。<br>(C) 錯誤，尿失禁（urinary incontinence）是三聯徵之一，通常較晚出現，先有尿急。<br>(D) 正確，肢體顫抖（tremor）不屬於常壓性水腦的三聯徵，靜止顫抖是巴金森氏症的表現。",
     "tags": [
       "110-1-5",
       "腦神經外科"
@@ -145,7 +145,7 @@
       "D": "前脈絡膜動脈（anterior choroidal artery）"
     },
     "answer": "C",
-    "explanation": "三叉神經痛（trigeminal neuralgia）的病因以神經血管衝突（neurovascular conflict）為主，需記憶最常責任血管。<br>(A) 錯誤，前小腦下動脈（anterior inferior cerebellar artery, AICA）較常與第七、八對腦神經相關的症狀（如半側面部痙攣）有關，較少是三叉神經痛的主要原因<br>(B) 錯誤，後小腦下動脈（posterior inferior cerebellar artery, PICA）位置更低，主要與第九、十對腦神經區域相關<br>(C) 正確，小腦上動脈（superior cerebellar artery, SCA）是造成三叉神經根入腦幹區（root entry zone）壓迫的最常見血管，是三叉神經痛神經血管減壓手術（microvascular decompression）中最常發現的責任血管<br>(D) 錯誤，前脈絡膜動脈（anterior choroidal artery）位於大腦半球深部，並非三叉神經痛的相關責任血管",
+    "explanation": "三叉神經痛（trigeminal neuralgia）最常見的病因是神經血管壓迫（neurovascular compression），血管壓迫三叉神經進入腦幹處（root entry zone），造成局部去髓鞘與異位放電。<br>(A) 錯誤，前小腦下動脈（anterior inferior cerebellar artery, AICA）是半側顏面痙攣（顏面神經）最常見的責任血管，在三叉神經痛是次於小腦上動脈的第二常見動脈。<br>(B) 錯誤，後小腦下動脈（posterior inferior cerebellar artery, PICA）是舌咽神經痛最常見的責任血管，在三叉神經痛較少見。<br>(C) 正確，小腦上動脈（superior cerebellar artery, SCA）是三叉神經痛微血管減壓術（microvascular decompression）中最常發現的責任血管，約占 80~88%（含合併其他血管者）。<br>(D) 錯誤，前脈絡膜動脈（anterior choroidal artery）起自頸內動脈，行經視徑旁，不在小腦橋腦角，與三叉神經痛無關。",
     "tags": [
       "110-1-5",
       "腦神經外科"
@@ -162,7 +162,7 @@
       "D": "踝反射降低所代表的通常是S1神經根壓迫"
     },
     "answer": "A",
-    "explanation": "腰椎椎間盤突出有其好發節段，需熟記最常見的位置及其對應神經根。<br>(A) 錯誤，腰椎椎間盤突出（lumbar disc herniation）最常發生的位置是L4-5及L5-S1，而非L3-4或L4-5；其中L5-S1是最常見的單一節段<br>(B) 正確，腰椎退化性椎管狹窄（degenerative lumbar spinal stenosis）的機轉包括小面關節（facet joint）肥厚、黃韌帶（ligamentum flavum）增厚、骨刺形成等，導致神經通道狹窄<br>(C) 正確，神經源性間歇性跛行（neurogenic intermittent claudication）的特徵是坐下或向前彎腰（脊椎屈曲）可緩解症狀，因為此姿勢可增加椎管空間，需與血管源性跛行鑑別<br>(D) 正確，踝反射（ankle reflex）由S1神經根支配，踝反射降低或消失代表S1神經根受到壓迫，常見於L5-S1椎間盤突出",
+    "explanation": "腰椎椎間盤突出有其好發節段，需熟記最常見的位置及其對應神經根。<br>(A) 錯誤，腰椎椎間盤突出最常發生在 L4~5 及 L5~S1，合計約 90~95%，L3~4 少見，而非 L3~4 或 L4~5。<br>(B) 正確，退化性腰椎管狹窄的成因包括小面關節肥厚、黃韌帶增厚、椎間盤膨出與退化性滑脫，使椎管、側隱窩與神經孔變窄而壓迫神經。<br>(C) 正確，神經性間歇性跛行（neurogenic claudication）在坐下或向前彎腰（腰椎屈曲）時可緩解，因為此姿勢使椎管空間增加，需與血管性跛行鑑別。<br>(D) 正確，踝反射（ankle reflex）由 S1 神經根支配，踝反射降低或消失代表 S1 神經根受壓，常見於 L5~S1 椎間盤突出。",
     "tags": [
       "110-1-5",
       "腦神經外科"
@@ -865,7 +865,7 @@
       "D": "對於脊髓損傷核磁共振檢查優於電腦斷層檢查"
     },
     "answer": "D",
-    "explanation": "本題的臨床表現為左側運動障礙合併右側溫痛覺缺損，呈現典型的脊髓半切症候群（Brown-Séquard syndrome），需在此背景下評估各選項。<br>(A) 錯誤，脊椎損傷最常見的位置是頸椎（cervical spine），其次為胸腰交界（thoracolumbar junction），腰椎並非最常見的好發部位<br>(B) 錯誤，C6損傷並不會造成立即的呼吸衰竭；呼吸肌（橫膈膜）主要由C3-C5的膈神經（phrenic nerve）支配，C6以下損傷通常不直接影響橫膈功能<br>(C) 錯誤，中央脊髓症候群（central cord syndrome）的特徵是上肢功能障礙遠大於下肢，而非相反；這是因為脊髓內管理上肢的皮質脊髓束（corticospinal tract）位於較中央的位置<br>(D) 正確，核磁共振（MRI）對於脊髓實質（spinal cord parenchyma）、韌帶損傷、椎間盤突出及脊髓內出血的評估遠優於電腦斷層（CT）；CT雖然對骨折的顯示較佳，但評估脊髓神經損傷以MRI為首選",
+    "explanation": "本題的臨床表現為左側運動障礙合併右側溫痛覺缺損，呈現典型的脊髓半切症候群（Brown-Séquard syndrome），需在此背景下評估各選項。<br>(A) 錯誤，脊椎損傷最常見的位置是頸椎（cervical spine），其次為胸腰交界（thoracolumbar junction），腰椎並非最常見的好發部位<br>(B) 錯誤，呼吸肌（橫膈膜）主要由 C3~C5 的膈神經（phrenic nerve）支配，C6 損傷時膈神經與橫膈仍保留，肋間肌與腹肌麻痺使肺活量下降、咳嗽力量差，但不是一定造成立即的呼吸衰竭<br>(C) 錯誤，中央脊髓症候群（central cord syndrome）的特徵是上肢功能障礙大於下肢，而非相反<br>(D) 正確，核磁共振（MRI）對於脊髓實質（spinal cord parenchyma）、韌帶損傷、椎間盤突出及硬膜外血腫的評估優於電腦斷層（CT）。CT 對骨折的顯示較佳，是成人鈍傷頸椎評估的首選影像，但評估脊髓神經損傷以 MRI 為首選",
     "tags": [
       "110-1-5",
       "腦神經外科"
@@ -1069,7 +1069,7 @@
       "D": "大部分無法單純靠止痛消炎藥物及復健治療改善症狀"
     },
     "answer": "C",
-    "explanation": "本題的疼痛特徵（頸部延伸至三角肌、頭部後仰加重、手臂外展減輕）是辨識頸椎神經根病變（cervical radiculopathy）與肩部疾病的關鍵。<br>(A) 錯誤，題目明確指出步態穩定，且症狀局限於感覺/疼痛而無下肢功能障礙，並無上運動神經元徵象（如反射亢進、巴賓斯基徵象、脊髓病變步態）的描述，不支持脊髓病變（myelopathy）<br>(B) 錯誤，旋轉肌袖（rotator cuff）或三角肌肌腱問題引起的疼痛，通常因肩部活動而加重，且頭頸部後仰轉向不會直接誘發症狀；本題疼痛由頸部活動（後仰加轉向同側）所引發，並非肩部問題的典型表現<br>(C) 正確，頸椎神經根壓迫（cervical radiculopathy）的典型表現包括：頸部疼痛放射至手臂特定皮節（此案為C5神經根，分布於三角肌區域）、頭部後仰及轉向患側誘發疼痛（椎間孔壓迫加重，即斯珀林測試 Spurling's test 陽性）、手臂外展舉高可減輕疼痛（放鬆神經根張力，即外展緩解徵象），三者均符合<br>(D) 錯誤，頸椎神經根壓迫大多數（約80～90%）可透過保守治療改善，包括止痛消炎藥（NSAIDs）、物理復健及頸椎牽引，並非大部分無法靠保守治療改善",
+    "explanation": "本題的疼痛特徵（頸部延伸至三角肌、頭部後仰轉向患側加重、手臂外展舉高減輕）是辨識頸椎神經根病變（cervical radiculopathy）的關鍵。<br>(A) 錯誤，題目指出步態穩定，且症狀局限於頸部與手臂疼痛，沒有反射亢進、Babinski 徵象或痙攣步態等上運動神經元徵象的描述，不支持脊髓病變（myelopathy）<br>(B) 錯誤，旋轉肌袖（rotator cuff）或三角肌肌腱問題引起的疼痛通常因肩部活動而加重，頭頸部後仰轉向不會誘發症狀。本題疼痛由頸部後仰並轉向患側誘發，不是肩部疾病的典型表現<br>(C) 正確，頸椎神經根壓迫的典型表現包括頸部疼痛放射至手臂特定皮節（本例為 C5 神經根，分布於三角肌區域）、頭部後仰並轉向患側誘發疼痛（神經孔變窄，即 Spurling 測試陽性）、手臂外展舉高可減輕疼痛（放鬆神經根張力，即肩外展緩解徵象），三者均符合<br>(D) 錯誤，頸椎神經根病變多數（約 75~90%）經保守治療（止痛消炎藥、物理復健等）可改善，並非大部分無法靠保守治療改善",
     "tags": [
       "110-1-5",
       "骨科"

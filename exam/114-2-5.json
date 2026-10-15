@@ -182,7 +182,7 @@
       "D": "通常下肢的肌力會比上肢的肌力早回復"
     },
     "answer": "B",
-    "explanation": "中央脊髓症候群有其特定的受傷機轉和臨床表現特徵。<br>(A) 正確，中央脊髓症候群（central cord syndrome）的特徵是上肢的運動功能缺損大於下肢，因為脊髓中央區域主要支配上肢的神經纖維<br>(B) 錯誤，central cord syndrome常導因於急性頸椎過度伸展損傷（acute cervical hyperextension injury），而非過度屈曲（hyperflexion）。常見於老年人跌倒後仰或車禍時頭部後仰撞擊<br>(C) 正確，可能伴隨有括約肌功能障礙（sphincter dysfunction），通常造成尿滯留（urinary retention）<br>(D) 正確，通常下肢的肌力會比上肢的肌力早回復，且恢復程度較好",
+    "explanation": "中央脊髓症候群（central cord syndrome）是最常見的不完全脊髓損傷症候群，好發於頸椎退化、椎管狹窄的老年人，在跌倒等造成頸椎過度伸展時發生。<br>(A) 正確，中央脊髓症候群的特徵是上肢的運動功能缺損大於下肢，手部最嚴重<br>(B) 錯誤，central cord syndrome 常導因於急性頸椎過度伸展損傷（acute cervical hyperextension injury），而非過度屈曲（hyperflexion）。常見於老年人跌倒後仰或車禍時頭部後仰撞擊<br>(C) 正確，可能伴隨括約肌功能障礙（sphincter dysfunction），通常造成尿滯留（urinary retention）<br>(D) 正確，恢復順序通常是下肢先恢復，接著是膀胱功能，上肢近端次之，手部最後恢復且常遺留笨拙",
     "tags": [
       "114-2-5",
       "腦神經外科"
@@ -199,7 +199,7 @@
       "D": "最好發的部位是胸椎"
     },
     "answer": "A",
-    "explanation": "脊椎腫瘤依據位置不同有不同的組織學特性和好發部位。<br>(A) 錯誤，硬膜外（extradural）腫瘤以惡性居多，最常見的是轉移性腫瘤，約佔脊椎腫瘤的70%<br>(B) 正確，硬膜內、髓膜外（intradural extramedullary）的腫瘤，以腦膜瘤（meningioma）及神經鞘瘤（schwannoma）最常見，這兩者都是良性腫瘤<br>(C) 正確，髓膜內（intramedullary）腫瘤以星形細胞瘤（astrocytoma）及室管膜瘤（ependymoma）最常見<br>(D) 正確，脊椎腫瘤最好發的部位是胸椎，約佔50-60%",
+    "explanation": "脊椎腫瘤依據位置不同有不同的組織學特性和好發部位。<br>(A) 錯誤，硬膜外（extradural）腫瘤約占脊椎腫瘤的 55%，以惡性居多，最常見的是轉移性腫瘤。<br>(B) 正確，硬膜內、髓膜外（intradural extramedullary）的腫瘤，以腦膜瘤（meningioma）及神經鞘瘤（schwannoma）最常見，這兩者都是良性腫瘤。<br>(C) 正確，髓膜內（intramedullary）腫瘤以星形細胞瘤（astrocytoma）及室管膜瘤（ependymoma）最常見，成人以室管膜瘤居多，兒童以星形細胞瘤居多。<br>(D) 正確，脊椎腫瘤最好發的部位是胸椎，脊椎轉移約七成位於胸椎。",
     "tags": [
       "114-2-5",
       "腦神經外科"
@@ -251,7 +251,7 @@
       "E": "送分"
     },
     "answer": "E",
-    "explanation": "神經失用症（neurapraxia）是周邊神經損傷最輕微的類型，恢復時間相對較短。<br>根據題目標示答案為(E)送分，表示此題可能有爭議或標準答案不明確。一般而言，neurapraxia的恢復時間通常在數天到數週之間，約2-12週，因個案而異。Neurapraxia是指神經傳導暫時中斷但軸突（axon）完整，只有髓鞘受損，因此恢復較快且完全。",
+    "explanation": "神經失用症（neurapraxia）是 Seddon 分類中最輕微的周邊神經損傷，只有局部髓鞘受損、軸突完整，沒有 Wallerian 退化，相當於 Sunderland I 度。傳導阻斷通常在數天至數週內完全恢復，多在 12 週內。<br>本題四個選項（一星期、一個月、六星期、三個月）的時間都落在可能的恢復範圍內，沒有單一標準答案，因此公告答案為 (E) 送分。",
     "tags": [
       "114-2-5",
       "重建整形外科"
@@ -1054,7 +1054,7 @@
       "D": "腹部反射（abdominal reflex）通常是正常的，並可藉此與肌萎縮性脊髓側索硬化症 （amyotrophic lateral sclerosis）鑑別診斷"
     },
     "answer": "C",
-    "explanation": "頸椎脊髓病變有其特定的神經學表現模式。<br>(A) 正確，頸椎脊髓病變（cervical spondylotic myelopathy）通常會有感覺異常（paresthesia，如手部麻木、刺痛）和運動困難（dyskinesia，如手部精細動作障礙、步態不穩）等症狀<br>(B) 正確，脊髓病變（myelopathy）嚴重時會有Lhermitte sign陽性，即頸部前屈時出現電擊樣感覺從頸部向下傳至背部或四肢，提示脊髓受到刺激<br>(C) 錯誤，頸椎脊髓病變的深層肌腱反射（deep tendon reflex）表現通常是上肢反射正常或減弱（因神經根或前角細胞受損），下肢反射增強（因錐體束受損導致上運動神經元病變）。陣攣（clonus）可能出現但不一定是明顯的對稱性，且上下肢反射表現通常不同<br>(D) 正確，腹部反射（abdominal reflex）在頸椎脊髓病變時通常是正常的（因腹部反射由胸髓控制），這可以與肌萎縮性脊髓側索硬化症（amyotrophic lateral sclerosis, ALS）鑑別診斷，ALS時腹部反射通常消失",
+    "explanation": "頸椎脊髓病變的神經學表現依壓迫節段而異。<br>(A) 正確，頸椎脊髓病變通常有感覺異常（paresthesia，如手部麻木、刺痛）和運動困難（dyskinesia，如手部精細動作障礙、步態不穩）等症狀<br>(B) 正確，嚴重的頸髓病變可有 Lhermitte 徵象，即頸部前屈時出現電擊樣感覺由頸部向下傳至背部或四肢<br>(C) 錯誤，壓迫節段的上肢反射可減弱或消失（可見倒轉橈骨反射），壓迫節段以下的反射才亢進（Hoffmann 徵象、下肢反射亢進、陣攣、Babinski 徵象），並非上下肢深層肌腱反射皆增強，陣攣也不一定明顯對稱<br>(D) 正確（依公告答案），頸椎脊髓病變與肌萎縮性脊髓側索硬化症（ALS）的鑑別，各教科書的重點是：ALS 沒有感覺障礙，常有延髓症狀與舌肌萎縮束顫，頸椎脊髓病變則常見感覺症狀、頸肩痛與膀胱症狀。原詳解所寫「ALS 時腹部反射通常消失」查無教科書出處，不採用",
     "tags": [
       "114-2-5",
       "骨科"
