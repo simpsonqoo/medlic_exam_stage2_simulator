@@ -366,7 +366,7 @@
       "D": "DLCO小於50%應加測運動心肺功能檢查，因為運動心肺功能檢查較準確"
     },
     "answer": "D",
-    "explanation": "術前肺功能評估是胸腔外科的重要基礎，需掌握各項肺功能指標的切割值及臨床意義。<br>(A) 錯誤，術前評估最常用的指標是第一秒用力呼氣量（FEV1），進行肺葉切除的最低標準通常要求FEV1大於60%預測值（或預期術後FEV1 ppo-FEV1大於40%），而非「大於40%才能做」<br>(B) 錯誤，預期術後FEV1（predicted postoperative FEV1, ppo-FEV1）的安全標準一般要求大於40%，而非20～30%；低於40%手術風險顯著增加<br>(C) 錯誤，一氧化碳擴散量（diffusing capacity of the lung for carbon monoxide, DLCO）小於80%並不是增加手術風險的標準切割值，通常DLCO小於40%才被認為是高風險指標<br>(D) 正確，當DLCO小於40～50%，提示肺部氣體交換功能嚴重受損，此時應進一步安排運動心肺功能檢查（cardiopulmonary exercise testing, CPET），以最大耗氧量（VO₂max）評估病人對手術的耐受能力，是目前術前評估的重要補充工具",
+    "explanation": "術前肺功能評估先測 FEV1 與 DLCO，再依預測術後值（ppoFEV1、ppoDLCO）分層，必要時加做運動心肺功能檢查（CPET）。<br>(A) 錯誤，術前評估以預測術後值（ppo 值）為主，不是單看術前 FEV1。ppo 值 &gt; 40% 是傳統認定可接受的風險，現行 ACCP 2013 以 60% 與 30% 分層。術前 FEV1 的傳統絕對值切點是 1.5 L（肺葉切除）與 2 L（全肺切除）<br>(B) 錯誤，ppoFEV1 或 ppoDLCO &lt; 30% 屬高風險，需做 CPET，20~30% 不能視為可以安全手術<br>(C) 依 ERS/ESTS（2009 與 2025 版），術前 DLCO &lt; 80% 預測值提示術後死亡與併發症風險較高，DLCO 是術後肺部併發症與死亡率的獨立預測因子，DLCO 偏低確實增加手術風險。公告答案為 (D)，但依指引 (C) 的敘述也成立<br>(D) 正確，DLCO &lt; 50% 屬 ERS/ESTS 2025 的中度風險（40~59%），肺功能下降者應進一步做運動測試，低技術運動測試表現不佳時做 CPET。CPET 直接測量運動時的最大耗氧量（VO2max），比靜態肺功能更能反映心肺儲備與術後風險。ACCP 2013 以 VO2max &gt; 20 mL/kg/min 為低風險，10~20 為中度風險，&lt; 10 mL/kg/min 為高風險，ERS/ESTS 2025 以 VO2peak &lt; 12 mL/kg/min 提示高風險",
     "tags": [
       "110-1-5",
       "胸腔外科"
@@ -434,7 +434,7 @@
       "D": "手術治療常以結紮橫膈膜上乳糜管（thoracic duct）為主"
     },
     "answer": "B",
-    "explanation": "乳糜胸（chylothorax）的手術治療需了解胸導管（thoracic duct）的解剖走向，這決定了手術進路的選擇。<br>(A) 正確，頸部或鎖骨上淋巴結廓清（supraclavicular lymph node dissection）可能傷及胸導管末端，是醫源性乳糜胸的原因之一<br>(B) 錯誤，胸導管（thoracic duct）在進入胸腔後，約在第5胸椎水平從右側跨越至左側，並在左頸部匯入靜脈角（左鎖骨下靜脈與左頸內靜脈交會處）；手術結紮胸導管通常由右側開胸進行，在胸導管尚未跨越至左側前進行結紮，效果最佳，而非從左側進行<br>(C) 正確，保守治療包括禁食或低脂飲食（搭配中鏈三酸甘油酯，MCT）、胸腔引流，通常需要1至2週觀察是否改善<br>(D) 正確，手術治療的主要方式是結紮膈肌上方的胸導管（supradiaphragmatic thoracic duct ligation），以阻斷乳糜液的來源",
+    "explanation": "乳糜胸（chylothorax）的手術治療需了解胸導管（thoracic duct）的解剖走向，這決定了手術進路的選擇。<br>(A) 正確，頸部或鎖骨上淋巴結廓清（supraclavicular lymph node dissection）可能傷及胸導管末端，是醫源性乳糜胸的原因之一<br>(B) 錯誤，胸導管（thoracic duct）在進入胸腔後沿脊椎右前方上行，約在第 4~6 胸椎水平從右側跨越至左側，並在左頸部匯入靜脈角（左鎖骨下靜脈與左頸內靜脈交會處）。手術結紮胸導管通常由右側進入，在胸導管尚未跨越至左側前進行結紮，效果最佳，而非從左側進行<br>(C) 正確，保守治療包括禁食或低脂飲食（搭配中鏈三酸甘油酯，MCT）、胸腔引流，通常需要1至2週觀察是否改善<br>(D) 正確，手術治療的主要方式是結紮膈肌上方的胸導管（supradiaphragmatic thoracic duct ligation），以阻斷乳糜液的來源",
     "tags": [
       "110-1-5",
       "胸腔外科"
