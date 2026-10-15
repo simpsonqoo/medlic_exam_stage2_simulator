@@ -1106,7 +1106,7 @@
       "D": "腎臟功能不好，施行膀胱根除手術時應作原位膀胱（orthotopic neobladder）重建"
     },
     "answer": "C",
-    "explanation": "肌肉侵犯型膀胱癌（muscle-invasive bladder cancer, MIBC）的治療與預後需掌握標準術式及預後因子，水腎代表腫瘤已侵犯輸尿管口或造成阻塞，預後確實較差。<br>(A) 錯誤，約50%接受膀胱根除術（radical cystectomy）的患者術後會發生轉移，而非僅10%；應修正為：約半數肌肉侵犯型膀胱癌患者在膀胱根除術後仍可能發生遠端轉移。<br>(B) 錯誤，目前標準治療是新輔助化學治療（neoadjuvant chemotherapy）合併膀胱根除手術，而非直接手術；應修正為：肌肉侵犯型膀胱癌的標準治療為新輔助含鉑金類化學治療後再行膀胱根除術。<br>(C) 正確，合併水腎（hydronephrosis）代表腫瘤局部侵犯程度較深，是預後不良的獨立預測因子。<br>(D) 錯誤，腎臟功能不良（renal insufficiency）反而是原位新膀胱（orthotopic neobladder）的禁忌症，因為尿液在腸道新膀胱中重吸收會加重腎功能負擔；應修正為：腎功能不良患者應考慮迴腸導管術（ileal conduit）而非原位新膀胱重建。",
+    "explanation": "肌肉侵犯型膀胱癌（muscle-invasive bladder cancer, MIBC）的治療與預後需掌握標準術式及預後因子，水腎代表腫瘤已侵犯輸尿管口或造成阻塞，預後確實較差。<br>(A) 錯誤，約50%接受根治性膀胱切除術（radical cystectomy）的患者術後會發生轉移，而非僅10%。<br>(B) 錯誤，標準治療是根治性膀胱切除合併骨盆淋巴廓清，並搭配圍手術期系統性治療，而非直接手術。依 EAU 2026，適合 cisplatin 者可選 cisplatin 為主的新輔助化療，或 cisplatin/gemcitabine 加 durvalumab（NIAGARA），不適合 cisplatin 者為圍手術期 enfortumab vedotin 加 pembrolizumab。<br>(C) 正確，合併水腎（hydronephrosis）代表腫瘤局部侵犯程度較深，是預後不良的獨立預測因子。<br>(D) 錯誤，嚴重腎功能不良（renal insufficiency）是原位新膀胱（orthotopic neobladder）的禁忌症（EAU 2026 未訂腎功能切點），因為尿液在腸道新膀胱中會被重吸收，加重代謝與腎臟負擔。腎功能不良的患者應考慮迴腸導管術（ileal conduit）。",
     "tags": [
       "111-1-5",
       "泌尿外科"

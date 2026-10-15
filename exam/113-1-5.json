@@ -1089,7 +1089,7 @@
       "D": "尿液鹼化（alkalinization of urine）"
     },
     "answer": "C",
-    "explanation": "鹿角結石是充滿腎盂和多個腎盞的大型結石，形狀像鹿角。<br>(A) 錯誤，體外震波碎石術（ESWL）對鹿角結石效果不佳，因為結石體積大、密度高，碎石後碎片排出困難，可能導致steinstrasse（石街，碎片堵塞輸尿管），清除率低（<50%）<br>(B) 錯誤，輸尿管鏡碎石術主要用於輸尿管結石或較小的腎結石，對於大型鹿角結石無法有效處理<br>(C) 正確，經皮腎臟碎石取石手術（PCNL）是完全性鹿角結石的首選治療，可直接在超音波或X光導引下經皮穿刺進入腎盂，使用內視鏡和碎石設備將結石擊碎並取出，清除率可達80-90%<br>(D) 錯誤，尿液鹼化適用於尿酸結石的溶解治療，對於大部分鹿角結石（通常是磷酸鎂銨結石，與感染相關）無效",
+    "explanation": "鹿角結石是充滿腎盂和多個腎盞的大型結石，形狀像鹿角。<br>(A) 錯誤，體外震波碎石術（ESWL）對鹿角結石效果不佳，因為結石體積大、密度高，碎石後碎片排出困難，可能導致steinstrasse（石街，碎片堵塞輸尿管）<br>(B) 錯誤，輸尿管鏡碎石術主要用於輸尿管結石或較小的腎結石，對於大型鹿角結石無法有效處理<br>(C) 正確，經皮腎臟碎石取石手術（PCNL）是完全性鹿角結石的首選治療，可直接在超音波或X光導引下經皮穿刺進入腎盂，使用內視鏡和碎石設備將結石擊碎並取出<br>(D) 錯誤，尿液鹼化適用於尿酸結石的溶解治療，對於大部分鹿角結石（通常是磷酸鎂銨結石，與感染相關）無效",
     "tags": [
       "113-1-5",
       "泌尿外科"
@@ -1123,7 +1123,7 @@
       "D": "血清鈣濃度（serum calcium level）"
     },
     "answer": "B",
-    "explanation": "IMDC（International Metastatic Renal Cell Carcinoma Database Consortium）預後評分系統用於評估轉移性腎細胞癌病人的預後。<br>IMDC criteria包括六個危險因子：<br>· 體能狀態差（Karnofsky performance status <80%）<br>· 診斷到治療時間<1年<br>· 血紅素低於正常值（anemia）<br>· 血鈣高於正常值（hypercalcemia）<br>· 嗜中性球高於正常值（neutrophilia）<br>· 血小板高於正常值（thrombocytosis）<br>(A) 正確，體能狀態（performance status）是IMDC重要項目<br>(B) 錯誤，LDH（lactate dehydrogenase）不是IMDC的項目，但LDH是MSKCC（Memorial Sloan Kettering Cancer Center）預後分類系統的項目之一<br>(C) 正確，血色素（hemoglobin）低於正常值是IMDC項目<br>(D) 正確，血清鈣濃度（serum calcium）高於正常值是IMDC項目",
+    "explanation": "IMDC（International Metastatic Renal Cell Carcinoma Database Consortium）預後評分系統用於評估轉移性腎細胞癌病人的預後。六個危險因子為：Karnofsky 體能狀態低於 80%、診斷到開始全身治療小於 1 年、血紅素低於正常值下限、校正血鈣高於正常值上限、嗜中性球高於正常值上限、血小板高於正常值上限。0 項為良好風險，1~2 項為中等風險，3 項以上為不良風險。<br>(A) 正確，體能狀態（performance status）是 IMDC 項目<br>(B) 錯誤，LDH（lactate dehydrogenase）不是 IMDC 的項目，而是 MSKCC（Memorial Sloan Kettering Cancer Center，Motzer）預後模型的項目之一（LDH 高於正常上限 1.5 倍）<br>(C) 正確，血色素（hemoglobin）低於正常值是 IMDC 項目<br>(D) 正確，血清鈣濃度（serum calcium）高於正常值是 IMDC 項目",
     "tags": [
       "113-1-5",
       "泌尿外科"
@@ -1209,7 +1209,7 @@
       "D": "直接進行膀胱擴大手術"
     },
     "answer": "C",
-    "explanation": "排尿障礙（voiding dysfunction）合併VUR的孩童，治療優先順序很重要。<br>排尿障礙是指膀胱排空功能異常，可能因為神經性膀胱、膀胱協調不良、尿道括約肌功能異常等原因，導致膀胱高壓和殘尿，進而造成或加重VUR。<br>治療原則是先處理根本原因（排尿障礙），改善膀胱功能和降低膀胱內壓。在許多情況下，當排尿功能改善後，VUR可能自然消失，不需要手術。<br>(A) 錯誤，直接手術過於激進，應先處理排尿功能<br>(B) 錯誤，輸尿管開口注射治療也是侵入性處置，不是首選<br>(C) 正確，清潔間歇性導尿（clean intermittent catheterization, CIC）可以：確保膀胱定期排空、降低膀胱內壓、減少殘尿、給予膀胱休息和恢復的機會。配合藥物治療（如抗膽鹼藥物）可能更有效<br>(D) 錯誤，膀胱擴大手術是最後手段，僅用於保守治療失敗的嚴重神經性膀胱",
+    "explanation": "排尿障礙（voiding dysfunction）合併 VUR 的孩童，治療優先順序很重要。<br>排尿障礙是指膀胱排空功能異常，可能因為神經性膀胱、膀胱協調不良、尿道括約肌功能異常等原因，導致膀胱高壓和殘尿，進而造成或加重 VUR。治療原則是先處理根本原因（排尿障礙），改善膀胱功能和降低膀胱內壓。在許多情況下，當排尿功能改善後，VUR 可能自然消失，不需要手術。非神經性的排尿功能異常先做行為治療，殘尿多或神經性膀胱才用清潔間歇導尿。<br>(A) 錯誤，直接手術過於激進，應先處理排尿功能。<br>(B) 錯誤，輸尿管開口注射治療也是侵入性處置，不是首選。<br>(C) 正確，清潔間歇性導尿（clean intermittent catheterization, CIC）可以確保膀胱定期排空、降低膀胱內壓、減少殘尿，並讓膀胱有休息和恢復的機會。配合藥物治療（如抗膽鹼藥物）可能更有效。<br>(D) 錯誤，膀胱擴大手術是最後手段，僅用於保守治療失敗的嚴重神經性膀胱。",
     "tags": [
       "113-1-5",
       "泌尿外科"

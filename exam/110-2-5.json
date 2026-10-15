@@ -1087,7 +1087,7 @@
       "D": "腎盂截石術(pyelolithotomy)"
     },
     "answer": "B",
-    "explanation": "腎臟結石的治療選擇需同時考量結石大小、位置及患者的全身狀況，尤其是正在服用抗血小板藥物（antiplatelet therapy）的患者，各治療方式的出血風險不同。<br>(A) 錯誤，體外震波碎石術（extracorporeal shock wave lithotripsy, ESWL）的適應症通常為結石小於1公分，1.5公分的結石效果較差，且震波可能誘發出血風險；服用抗凝血藥為相對禁忌症<br>(B) 正確，軟式輸尿管鏡碎石術（flexible ureteroscopic lithotripsy, f-URS）為內視鏡手術，出血風險最低，對於正在服用雙重抗血小板藥物（不宜停藥）的冠狀動脈支架患者是最安全的選擇；1.5公分結石以此方式處理效果良好<br>(C) 錯誤，經皮腎造廔截石術（percutaneous nephrolithotripsy, PCNL）適用於較大（>2公分）或複雜腎臟結石，需要腎臟穿刺，出血風險最高，對於無法停用抗凝血藥的患者風險過大<br>(D) 錯誤，腎盂截石術（pyelolithotomy）為開放性或腹腔鏡手術，在微創技術發達的現今已甚少使用，且手術出血風險高，對此患者更不適合",
+    "explanation": "腎臟結石的治療選擇需同時考量結石大小、位置與病人全身狀況，尤其是正在使用抗凝血藥或抗血小板藥的病人。EAU 2026 建議這類病人先與開藥醫師討論暫停或橋接，無法停藥但必須取石時，以軟式輸尿管鏡為首選。<br>(A) 錯誤，體外震波碎石術（ESWL）可能造成腎實質與腎周血腫，使用抗栓藥者出血風險高，需先暫停藥物。1.5 公分的結石也不是最佳適應。<br>(B) 正確，軟式輸尿管鏡碎石術（f-URS）不需穿刺腎臟，出血風險相對低，可在不停用抗栓藥下施行，1.5 公分的腎結石也在其適用範圍。<br>(C) 錯誤，經皮腎造廔截石術（PCNL）需要腎臟穿刺，出血風險高於輸尿管鏡，通常用於 2 公分以上或複雜結石。<br>(D) 錯誤，腎盂截石術（pyelolithotomy）為開放或腹腔鏡手術，EAU 2026 只在 ESWL、輸尿管鏡與 PCNL 都失敗或不可能成功時才考慮，出血風險也高。",
     "tags": [
       "110-2-5",
       "泌尿外科"
@@ -1104,7 +1104,7 @@
       "D": "一部分的膀胱癌會呈現膀胱刺激症狀"
     },
     "answer": "D",
-    "explanation": "膀胱癌的流行病學、病理類型及臨床表現是泌尿外科基本知識，需正確了解各病理類型的特性與好發部位。<br>(A) 錯誤，膀胱最常見的腫瘤是移行上皮細胞癌（transitional cell carcinoma，又稱尿路上皮癌, urothelial carcinoma），佔90%以上；腺癌（adenocarcinoma）僅佔約2%，非最常見<br>(B) 錯誤，鱗狀上皮細胞癌（squamous cell carcinoma）與慢性發炎（chronic inflammation）密切相關，如血吸蟲感染（Schistosoma haematobium）、長期導尿管使用、膀胱結石等慢性刺激，敘述與事實相反<br>(C) 錯誤，膀胱是泌尿上皮（urothelium）最常發生腫瘤的部位，而非最少；腎盂、輸尿管次之<br>(D) 正確，膀胱癌除了典型的無痛性血尿（painless hematuria）外，部分患者（尤其是原位癌, carcinoma in situ）會出現尿頻、尿急、排尿灼熱等膀胱刺激症狀（vesical irritability）",
+    "explanation": "膀胱癌的流行病學、病理類型及臨床表現是泌尿外科基本知識，需正確了解各病理類型的特性與好發部位。<br>(A) 錯誤，膀胱最常見的腫瘤是移行上皮細胞癌（transitional cell carcinoma，又稱尿路上皮癌, urothelial carcinoma），佔90%以上，腺癌（adenocarcinoma）僅佔約2%，非最常見<br>(B) 錯誤，鱗狀上皮細胞癌（squamous cell carcinoma）與慢性發炎（chronic inflammation）密切相關，如血吸蟲感染（Schistosoma haematobium）、長期導尿管使用、膀胱結石等慢性刺激，敘述與事實相反<br>(C) 錯誤，膀胱是泌尿上皮（urothelium）最常發生腫瘤的部位，而非最少，腎盂、輸尿管次之<br>(D) 正確，膀胱癌除了典型的無痛性血尿（painless hematuria）外，部分患者（尤其是原位癌, carcinoma in situ）會出現尿頻、尿急、排尿灼熱等膀胱刺激症狀（vesical irritability）",
     "tags": [
       "110-2-5",
       "泌尿外科"
@@ -1121,7 +1121,7 @@
       "D": "放射線治療"
     },
     "answer": "B",
-    "explanation": "上泌尿道尿路上皮癌（upper tract urothelial carcinoma, UTUC）的治療選擇需根據惡性程度、腎臟功能及轉移狀況決定，高惡性度腫瘤的治療原則與低惡性度不同。<br>(A) 錯誤，軟式輸尿管鏡雷射腫瘤切除屬保留腎臟手術（kidney-sparing surgery），適用於低惡性度（low grade）、單發、對側腎功能不足或孤立腎的情況；高惡性度腫瘤復發率高，不建議保守手術<br>(B) 正確，高惡性度腎盂尿路上皮癌的標準治療為根治性腎輸尿管全切除術合併膀胱袖口切除（radical nephroureterectomy with bladder cuff excision），需完整切除輸尿管至膀胱出口，以避免殘留輸尿管殘端復發；兩側腎功能正常，手術風險可接受<br>(C) 錯誤，經皮腎臟鏡腫瘤切除（percutaneous endoscopic resection）也屬保留腎臟手術，適應症同(A)，高惡性度腫瘤不建議<br>(D) 錯誤，放射線治療（radiation therapy）對尿路上皮癌效果有限，不是局限性腎盂尿路上皮癌的標準治療；手術切除才是根治性治療的基礎",
+    "explanation": "上泌尿道尿路上皮癌（upper tract urothelial carcinoma, UTUC）的治療依風險分層決定，低風險以保留腎臟手術為主，高風險以根治性手術為主。<br>(A) 錯誤，軟式輸尿管鏡雷射腫瘤切除屬保留腎臟手術（kidney-sparing surgery），EAU 指引建議低風險 UTUC 以此為首選，孤立腎或腎功能不佳者可個案考慮。本例為高惡性度腫瘤，屬高風險，不適合以保守手術作為標準治療<br>(B) 正確，高風險 UTUC 的標準治療為根治性腎輸尿管切除術合併膀胱袖口切除（radical nephroureterectomy with bladder cuff excision），整塊切除腎臟、輸尿管與輸尿管膀胱開口處，以避免輸尿管殘端與膀胱復發。兩側腎功能正常，可承受手術。無膀胱癌病史者，術後再給單劑膀胱內化療灌注（術後 2~10 天內）以降低膀胱復發<br>(C) 錯誤，經皮腎臟鏡腫瘤切除（percutaneous endoscopic resection）也屬保留腎臟手術，適應症同 (A)，高風險腫瘤不適用<br>(D) 錯誤，放射線治療（radiation therapy）不是局限性腎盂尿路上皮癌的標準治療，手術切除才是根治性治療的基礎",
     "tags": [
       "110-2-5",
       "泌尿外科"
