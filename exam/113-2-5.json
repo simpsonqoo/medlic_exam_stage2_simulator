@@ -1120,7 +1120,7 @@
       "D": "前晚食用高脂肪類食物"
     },
     "answer": "D",
-    "explanation": "PSA（prostate-specific antigen）是攝護腺癌篩檢和監測的重要工具，但許多因素會影響PSA數值。<br>會影響PSA數值的因素：<br>(A) 錯誤（會影響），導尿管置放（urethral catheterization）會刺激攝護腺和尿道，導致PSA暫時升高。建議拔除導尿管後至少48小時再抽血檢測PSA<br>(B) 錯誤（會影響），泌尿道感染（urinary tract infection）和攝護腺炎（prostatitis）會導致PSA明顯升高，有時可達正常值的數倍。應治療感染後4-6週再檢測PSA<br>(C) 錯誤（會影響），長期使用5α-reductase inhibitors（5-ARI，如finasteride、dutasteride）治療良性攝護腺肥大（BPH）或雄性禿，會使PSA值下降約50%。因此使用這類藥物的病人，PSA值需要乘以2來解讀<br>(D) 正確（不會影響），飲食（包括高脂肪食物）不會直接影響PSA數值。PSA主要受攝護腺組織的刺激、發炎、感染和某些醫療處置影響<br>其他會影響PSA的因素：<br>· 攝護腺按摩或直腸指診（DRE）：輕微影響，建議檢查後再抽血<br>· 攝護腺切片：顯著升高，需等待4-6週<br>· 射精：輕微升高，建議48小時內避免<br>· 騎腳踏車、劇烈運動：輕微影響<br>· 年齡：PSA隨年齡增加而上升",
+    "explanation": "PSA（prostate-specific antigen）是攝護腺上皮細胞分泌的絲胺酸蛋白酶，為器官特異而非癌症特異，許多攝護腺的刺激與疾病都會影響數值。<br>(A) 錯誤（會影響），導尿管置放等泌尿道器械操作會刺激攝護腺與尿道，使 PSA 暫時升高，影響程度通常輕微。<br>(B) 錯誤（會影響），泌尿道感染與攝護腺炎會使 PSA 明顯升高，治療感染後約 6 週再重驗。<br>(C) 錯誤（會影響），長期使用 5α-reductase inhibitor（如 finasteride、dutasteride）6~12 個月後會使 PSA 下降約 50%，解讀時需將 PSA 乘以 2。<br>(D) 正確（較不會影響），PSA 抽血前不需禁食或特殊飲食，高脂肪食物不影響數值。<br>其他會影響 PSA 的因素包括良性攝護腺增生、急性尿滯留、攝護腺切片與 TURP（明顯升高）、射精與肛門指診（輕微）、年齡（隨年齡上升），以及雄性素去除治療與肥胖（降低）。",
     "tags": [
       "113-2-5",
       "泌尿外科"
@@ -1154,7 +1154,7 @@
       "D": "陰莖段尿道→尿道外括約肌→膀胱頸→肥大的前列腺組織"
     },
     "answer": "A",
-    "explanation": "經尿道前列腺切除術（transurethral resection of prostate, TURP）是治療良性攝護腺肥大的標準手術，了解解剖順序很重要以避免併發症。<br>由尿道口經尿道鏡進入的順序：<br>· 陰莖段尿道（penile urethra）<br>· 球部尿道（bulbar urethra）<br>· 膜部尿道（membranous urethra）<br>· 尿道外括約肌（external urethral sphincter）：位於膜部尿道，是手術的重要界標，必須保留以維持尿控制能力<br>· 攝護腺部尿道（prostatic urethra）<br>· 精阜（verumontanum）：位於攝護腺部尿道後壁的突起，是射精管開口處，也是重要的解剖界標，切除時不應超過精阜遠端以保護外括約肌<br>· 肥大的攝護腺組織：主要是移行區（transition zone）的增生組織，這是手術切除的目標<br>· 膀胱頸（bladder neck）<br>(A) 正確，這個順序符合由遠端（尿道外括約肌）到近端（膀胱頸）的解剖排列<br>(B) 錯誤，順序不對，且尿道外括約肌應該在精阜之前遇到<br>(C) 錯誤，尿道內括約肌（internal urethral sphincter）位於膀胱頸，是平滑肌，主要功能是防止逆行性射精，而非尿控制<br>(D) 錯誤，順序錯誤，膀胱頸應該是最後才到達的結構",
+    "explanation": "經尿道攝護腺切除術（TURP）中，內視鏡由尿道口往內依序看到陰莖部尿道、球部尿道、膜部尿道（尿道外括約肌所在）、精阜（攝護腺部尿道後壁的突起，為切除遠端的界標）、增生的攝護腺側葉與中葉、膀胱頸，再進入膀胱。切除不超過精阜遠端，以保護尿道外括約肌。<br>(A) 正確，尿道外括約肌→精阜→肥大的攝護腺組織→膀胱頸，符合由遠端到近端的順序。<br>(B) 錯誤，尿道外括約肌在精阜之前遇到，且肥大的攝護腺組織在精阜之後。<br>(C) 錯誤，肥大的攝護腺組織應在尿道外括約肌之後才遇到。尿道內括約肌（平滑肌）位於膀胱頸，射精時收縮以防逆行性射精。<br>(D) 錯誤，尿道外括約肌在膜部尿道，膀胱頸是最後才到達的結構，肥大的攝護腺組織在兩者之間。",
     "tags": [
       "113-2-5",
       "泌尿外科"
@@ -1171,7 +1171,7 @@
       "D": "注射人類絨毛膜性促素（human chorionic gonadotropin）以提升血中睪固酮濃度"
     },
     "answer": "A",
-    "explanation": "男性不孕症合併低睪固酮血症的治療需要考慮對精子生成的影響。睪固酮的調控涉及下視丘-腦下垂體-性腺軸（hypothalamic-pituitary-gonadal axis）。<br>(A) 錯誤（最不建議），直接補充外源性睪固酮會通過負回饋抑制下視丘分泌GnRH和腦下垂體分泌LH、FSH，導致：<br>· 睪丸內睪固酮濃度下降（雖然血中濃度上升）<br>· 精子生成受到抑制<br>· 睪丸萎縮<br>雖然可以改善性功能和性慾，但會惡化不孕問題。因此對於仍希望生育的男性，直接補充睪固酮是禁忌<br>(B) 正確（建議），selective estrogen receptor modulators（SERMs，如clomiphene citrate）可以阻斷雌激素對下視丘和腦下垂體的負回饋，增加GnRH、LH和FSH的分泌，進而刺激睪丸產生更多睪固酮和精子。可以同時改善性功能和生育能力<br>(C) 正確（建議），芳香酶抑制劑（aromatase inhibitor，如anastrozole）可以抑制睪固酮轉化為雌二醇（estradiol），減少雌激素的負回饋作用，增加LH和FSH分泌，刺激睪丸功能。對於雌激素/睪固酮比例異常的病人特別有效<br>(D) 正確（建議），人類絨毛膜性促素（hCG）具有類似LH的作用，可以直接刺激睪丸間質細胞（Leydig cells）產生睪固酮，同時維持精子生成。常與FSH或HMG（human menopausal gonadotropin）合併使用治療低促性腺激素性性腺功能低下（hypogonadotropic hypogonadism）",
+    "explanation": "男性不孕合併低睪固酮血症的治療要考慮對精子生成的影響。睪固酮的調控涉及下視丘-腦下垂體-性腺軸（hypothalamic-pituitary-gonadal axis）。<br>(A) 錯誤（最不建議），外源性睪固酮經負回饋抑制下視丘 GnRH 與腦下垂體 LH、FSH，使睪丸內睪固酮濃度下降（血中濃度雖上升），精子生成受到抑制甚至無精症，睪丸也會萎縮。雖可改善性慾與勃起功能，卻會惡化不孕，想生育的男性不應使用<br>(B) 正確（建議），selective estrogen receptor modulators（SERMs，如 clomiphene citrate）阻斷雌激素對下視丘和腦下垂體的負回饋，增加 GnRH、LH 和 FSH 的分泌，刺激睪丸產生更多睪固酮和精子，可同時改善性功能和生育能力，屬仿單外使用（off-label）<br>(C) 正確（建議），芳香酶抑制劑（aromatase inhibitor，如 anastrozole、letrozole）抑制睪固酮轉化為雌二醇（estradiol），減少雌激素的負回饋，增加 LH 和 FSH 分泌，對睪固酮與雌二醇比值低的病人特別適合，屬仿單外使用<br>(D) 正確（建議），人類絨毛膜性促素（hCG）作用類似 LH，直接刺激睪丸間質細胞（Leydig cells）產生睪固酮，同時維持睪丸內睪固酮與精子生成。低促性腺激素性性腺功能低下（hypogonadotropic hypogonadism）常以 hCG 合併 FSH 或 hMG 誘導精子生成",
     "tags": [
       "113-2-5",
       "泌尿外科"
@@ -1205,7 +1205,7 @@
       "D": "會陰神經（pudendal nerve）"
     },
     "answer": "C",
-    "explanation": "勃起功能涉及複雜的神經血管機制，了解相關神經解剖對於神經保留手術很重要。<br>勃起的神經支配：<br>· 主要神經：陰莖海綿體神經（cavernosal nerve），是骨盆神經叢（pelvic plexus）的分支<br>· 起源：骨盆內臟神經（pelvic splanchnic nerves，S2-S4）和腹下神經（hypogastric nerve）形成骨盆神經叢<br>· 路徑：海綿體神經從骨盆神經叢發出後，沿著攝護腺的外側後方（neurovascular bundle）走行，最後進入陰莖海綿體<br>神經保留攝護腺根除手術（nerve-sparing radical prostatectomy）：<br>· 目的：在完整切除攝護腺癌的同時，保留雙側或至少一側的神經血管束<br>· 技術：仔細分離攝護腺與神經血管束，避免熱損傷和牽拉損傷<br>· 適應症：早期攝護腺癌（T1-T2），腫瘤未侵犯包膜，病人重視術後性功能<br>(A) 錯誤，閉孔神經（obturator nerve）主要支配大腿內收肌群，與勃起功能無關。但在骨盆淋巴結廓清時需要小心保護<br>(B) 錯誤，腹下神經（hypogastric nerve）是交感神經，主要參與射精和膀胱頸閉合，對勃起功能的貢獻較小<br>(C) 正確，陰莖海綿體神經（cavernosal nerve）是負責勃起的主要神經，神經保留手術的重點就是保留這條神經<br>(D) 錯誤，會陰神經（pudendal nerve）主要支配外生殖器的感覺和尿道外括約肌，對勃起功能的貢獻有限。主要參與射精的感覺和骨盆底肌肉收縮",
+    "explanation": "勃起由骨盆神經叢（pelvic plexus）發出的陰莖海綿體神經（cavernosal nerve）負責，副交感纖維來自 S2~S4 的骨盆內臟神經。海綿體神經走在攝護腺後外側的神經血管束內，神經保留攝護腺根除手術的目的就是保留一側或雙側的神經血管束，以保留術後勃起功能。<br>(A) 錯誤，閉孔神經（obturator nerve）支配大腿內收肌群，與勃起無關，在骨盆淋巴廓清時需小心保護。<br>(B) 錯誤，腹下神經（hypogastric nerve）為交感神經，與射精及膀胱頸閉合有關，不是勃起的主要神經。<br>(C) 正確，陰莖海綿體神經是負責勃起的主要神經。<br>(D) 錯誤，會陰神經（pudendal nerve）為體神經，支配外生殖器感覺、尿道外括約肌與球海綿體肌，不是神經保留手術保留的目標。",
     "tags": [
       "113-2-5",
       "泌尿外科"

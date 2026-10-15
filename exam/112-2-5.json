@@ -1146,7 +1146,7 @@
       "D": "因良性前列腺增生導致腎功能缺損"
     },
     "answer": "B",
-    "explanation": "良性前列腺增生（BPH）的治療包括觀察等待、藥物治療、微創治療和手術治療。<br>手術的絕對適應症（absolute indications）：<br>· 反覆性尿滯留（refractory urinary retention）<br>· 反覆性血尿（recurrent hematuria）<br>· 反覆性泌尿道感染（recurrent UTI）<br>· 膀胱結石（bladder stones）<br>· 腎功能損害（renal insufficiency）<br>· 膀胱憩室（bladder diverticulum）<br>(A) 正確，因BPH導致反覆性肉眼可見血尿（recurrent gross hematuria）是絕對手術適應症，需排除其他出血原因（如膀胱癌、結石）<br>(B) 正確（不是絕對適應症），前列腺體積大小和IPSS分數本身不是絕對手術適應症。手術決定應基於：<br>· 症狀對生活品質的影響<br>· 藥物治療失敗<br>· 病患意願<br>· 是否有絕對適應症<br>· 體積＞50 mL和IPSS ＞20分可能是相對適應症，但不是「絕對」適應症<br>(C) 正確，因BPH導致反覆性泌尿道感染是絕對手術適應症<br>(D) 正確，因BPH導致腎功能損害（如水腎、腎後性腎衰竭）是絕對手術適應症<br>IPSS（International Prostate Symptom Score）：0-7分輕度、8-19分中度、20-35分重度。",
+    "explanation": "良性攝護腺增生的治療包括觀察等待、藥物、微創治療與手術。手術的絕對適應症為 BPH 造成的腎功能不全或上泌尿道擴張、頑固性或反覆尿滯留、反覆泌尿道感染、膀胱結石或大的膀胱憩室，以及藥物無效的反覆肉眼血尿。<br>(A) 正確，BPH 造成反覆肉眼血尿（需先排除膀胱癌、結石等其他出血原因）是手術適應症。<br>(B) 正確（不是絕對適應症），攝護腺體積與 IPSS 分數本身不是絕對適應症。症狀困擾且藥物無效或病人不願服藥時，才依症狀與病人意願決定手術。<br>(C) 正確，BPH 造成反覆泌尿道感染是手術適應症。<br>(D) 正確，BPH 造成腎功能缺損（如水腎、腎後性腎衰竭）是手術適應症。<br>IPSS 0~7 分為輕度，8~19 分為中度，20~35 分為重度。",
     "tags": [
       "112-2-5",
       "泌尿外科"
@@ -1163,7 +1163,7 @@
       "D": "手術中可能出現經尿道切除手術症候群（TUR syndrome），病人會出現噁心、嘔吐、神智不清及心跳加速等症狀"
     },
     "answer": "A,D",
-    "explanation": "TURP是治療BPH的標準手術方式，被視為金標準。<br>(A) 正確，TURP相較於其他微創療法（如laser therapy、TUMT、TUNA）：<br>· 尿流速改善更顯著且持久<br>· 症狀緩解更好<br>· 再次手術率較低<br>· 長期效果更佳<br>· 被視為治療BPH的gold standard<br>(B) 錯誤，TURP住院時間（通常1-3天）比其他微創療法（多數當日或隔日出院）更長，這是微創療法的優勢之一<br>(C) 錯誤，TURP術後尿失禁（urinary incontinence）的發生率約1-5%，雖然現代技術已降低風險，但並非完全不會發生。永久性尿失禁少見但可能發生，特別是切除過深損傷外括約肌時<br>(D) 正確，TUR syndrome是TURP嚴重併發症，發生率約1-2%：<br>· 原因：大量低張性沖洗液（如glycine）經靜脈竇吸收，導致稀釋性低血鈉、體液過量<br>· 症狀：噁心、嘔吐、神智不清、視力模糊、心跳變化（可能心跳過慢或過速）、高血壓、肺水腫，嚴重可致癲癇、昏迷<br>· 預防：限制手術時間＜60分鐘、使用雙極電刀系統（可用生理食鹽水）、監測血清鈉<br>· 治療：停止手術、限制水分、矯正低血鈉（需緩慢，避免橋腦髓鞘溶解）、利尿劑<br>現代趨勢：雙極TURP、laser enucleation（如HoLEP）逐漸取代傳統單極TURP。",
+    "explanation": "經尿道攝護腺切除術（TURP）是治療 BPH 的標準手術。<br>(A) 正確，與微創治療相比，TURP 改善尿流速的幅度最大且最持久，再治療率較低。<br>(B) 錯誤，TURP 通常需住院數天，微創治療多為門診或當日出院，住院時間較短。<br>(C) 錯誤，TURP 後仍可能發生尿失禁，壓力性尿失禁約 1~2%，主要因尿道外括約肌受損。<br>(D) 正確（公告答案），TUR 症候群發生於單極 TURP 使用低張沖洗液（glycine、sorbitol、蒸餾水）時，沖洗液經切開的靜脈竇吸收，造成稀釋性低血鈉與體液過多，病人出現噁心、嘔吐、神智不清、視覺障礙。心血管表現早期多為高血壓合併心搏過緩，後期可出現低血壓與心律不整，選項寫的心跳加速依公告答案給分。發生率在單極 TURP 約 1% 以下。預防為縮短手術時間、使用生理食鹽水的雙極電刀。處置為停止手術、利尿劑，嚴重低血鈉用高張食鹽水且矯正不宜過快。<br>現代趨勢為雙極 TURP 與雷射剜除（如 HoLEP）逐漸取代單極 TURP。",
     "tags": [
       "112-2-5",
       "泌尿外科"
@@ -1180,7 +1180,7 @@
       "D": "尿道下裂"
     },
     "answer": "D",
-    "explanation": "尿路感染（urinary tract infection, UTI）的危險因子包括結構異常、功能異常、醫療器械等。<br>(A) 錯誤（是危險因子），尿路導管（urinary catheter）是最重要的醫療相關UTI危險因子：<br>· 導尿管相關UTI（CAUTI）占院內感染很大比例<br>· 導尿管破壞尿道黏膜屏障、提供細菌附著和生物膜形成的表面<br>· 導尿時間越長風險越高<br>(B) 錯誤（是危險因子），膀胱出口阻塞（bladder outlet obstruction）如BPH、尿道狹窄：<br>· 導致尿滯留、排空不全<br>· 殘餘尿液成為細菌培養基<br>· 增加UTI風險<br>(C) 錯誤（是危險因子），神經性膀胱（neurogenic bladder）如脊髓損傷、糖尿病神經病變：<br>· 排尿功能異常、殘餘尿增加<br>· 常需導尿或使用導尿管<br>· 高UTI風險<br>(D) 正確（最不是危險因子），尿道下裂（hypospadias）是先天性尿道開口異常（位於陰莖腹側而非龜頭頂端）：<br>· 主要是解剖異常和美觀問題<br>· 本身不直接增加UTI風險<br>· 除非合併其他異常（如VUR、尿道狹窄）或手術後併發症<br>其他UTI危險因子：<br>· 女性（尿道短）、性行為、懷孕<br>· VUR、腎結石<br>· 糖尿病、免疫抑制<br>· 老年、失禁",
+    "explanation": "尿路感染（urinary tract infection, UTI）的危險因子包括結構異常、功能異常與醫療器械。<br>(A) 錯誤（是危險因子），尿路導管（urinary catheter）是最重要的醫療相關 UTI 危險因子。導尿管相關 UTI（CAUTI）占院內感染很大比例，導尿管破壞尿道黏膜屏障並提供細菌附著與生物膜形成的表面，留置時間越長風險越高。<br>(B) 錯誤（是危險因子），膀胱出口阻塞（bladder outlet obstruction）如 BPH、尿道狹窄會造成尿滯留與排空不全，殘餘尿液成為細菌的培養基。<br>(C) 錯誤（是危險因子），神經性膀胱（neurogenic bladder）如脊髓損傷、糖尿病神經病變會造成排尿功能異常與殘餘尿增加，常需導尿或留置導尿管，UTI 風險高。<br>(D) 正確（最不是危險因子），尿道下裂（hypospadias）是先天性尿道開口異常（位於陰莖腹側而非龜頭頂端），主要是解剖與美觀問題，本身不直接增加 UTI 風險，除非合併其他異常（如 VUR、尿道狹窄）或手術後併發症。<br>其他 UTI 危險因子包括女性（尿道短）、性行為、懷孕、停經、VUR、腎結石、糖尿病、免疫抑制、老年與失禁。",
     "tags": [
       "112-2-5",
       "泌尿外科"
@@ -1197,7 +1197,7 @@
       "D": "膀胱頸收縮：胃下神經（hypogastric nerve）；體神經"
     },
     "answer": "C",
-    "explanation": "男性性功能的神經調控涉及自主神經系統和體神經系統。<br>(A) 錯誤，儲精囊收縮（seminal vesicle contraction）：<br>· 正確神經：下腹神經（hypogastric nerve）或骨盆神經叢<br>· 正確屬性：交感神經（sympathetic）<br>· 閉孔神經（obturator nerve）支配大腿內收肌，與性功能無關<br>(B) 錯誤，陰莖海綿體勃起（penile erection）：<br>· 正確神經：骨盆神經（pelvic nerve）或陰莖海綿體神經（cavernous nerve）<br>· 正確屬性：副交感神經（parasympathetic）- \"Point\"（指向）<br>· 陰莖背神經（dorsal penile nerve）是會陰神經分支，負責感覺，不負責勃起<br>(C) 正確，球海綿體肌收縮（bulbocavernosus muscle contraction）：<br>· 神經：會陰神經（pudendal nerve，S2-S4）<br>· 屬性：體神經（somatic nerve）<br>· 功能：射精時節律性收縮，推動精液排出<br>(D) 錯誤，膀胱頸收縮（bladder neck contraction）：<br>· 正確神經：下腹神經（hypogastric nerve）<br>· 正確屬性：交感神經（sympathetic）- 防止逆行性射精<br>· 不是體神經<br>性功能神經記憶口訣：<br>· Point（勃起）：Parasympathetic（副交感）<br>· Shoot（射精）：Sympathetic（交感）<br>· Squeeze（射精時肌肉收縮）：Somatic（體神經）",
+    "explanation": "男性性功能的神經調控涉及自主神經與體神經。勃起由骨盆內臟神經經骨盆神經叢與海綿體神經支配，屬副交感神經（S2~S4）。射精的泌精期（輸精管蠕動、儲精囊與攝護腺收縮、膀胱頸關閉）由下腹神經支配，屬交感神經（T10~L2）。射精的射出期由陰部神經（會陰神經，S2~S4）支配球海綿體肌與坐骨海綿體肌的節律性收縮，屬體神經。<br>(A) 錯誤，儲精囊收縮由下腹神經（hypogastric nerve）支配，屬交感神經。閉孔神經（obturator nerve）支配大腿內收肌，與性功能無關。<br>(B) 錯誤，陰莖海綿體勃起由骨盆神經與海綿體神經（cavernous nerve）支配，屬副交感神經。陰莖背神經（dorsal penile nerve）是陰部神經的分支，負責感覺，不負責勃起。<br>(C) 正確，球海綿體肌（bulbocavernosus muscle）收縮由陰部神經（會陰神經，S2~S4）支配，屬體神經，射精時節律性收縮以推動精液排出。<br>(D) 錯誤，膀胱頸收縮由下腹神經（選項寫「胃下神經」）支配，屬交感神經，作用是射精時關閉膀胱頸以防止逆行性射精，不是體神經。",
     "tags": [
       "112-2-5",
       "泌尿外科"
@@ -1251,7 +1251,7 @@
       "D": "Fournier's gangrene"
     },
     "answer": "D",
-    "explanation": "糖尿病病患會陰部紅腫脹痛合併白血球增加，高度懷疑壞死性筋膜炎。<br>(A) 錯誤，腹股溝疝氣（inguinal hernia）是腹腔內容物通過腹股溝管突出，不會造成急性感染症狀、白血球增加<br>(B) 錯誤，股疝氣（femoral hernia）是通過股環突出，也不會有感染表現<br>(C) 錯誤，閉孔疝氣（obturator hernia）是通過閉孔突出，罕見，主要表現為腸阻塞症狀，不是會陰部感染<br>(D) 正確，Fournier's gangrene（福尼爾壞疽）：<br>· 會陰部、生殖器、會陰的壞死性筋膜炎（necrotizing fasciitis）<br>· 好發於糖尿病患者、免疫抑制、酗酒、周邊血管疾病<br>· 臨床表現：會陰部紅腫脹痛、皮膚變色（紅→紫→黑）、捻髮音（crepitus）、惡臭、全身性症狀（發燒、白血球增加、敗血症）<br>· CT表現：皮下氣體（subcutaneous gas）、筋膜增厚、液體積聚<br>· 致病菌：多重細菌（polymicrobial）- 需氧菌和厭氧菌混合感染，包括E. coli、Klebsiella、Bacteroides、Streptococcus等<br>· 治療：緊急外科清創（surgical debridement）、廣效性抗生素、支持性治療、可能需要多次清創<br>· 死亡率高（20-40%）<br>診斷工具：LRINEC score（Laboratory Risk Indicator for Necrotizing Fasciitis）評估壞死性筋膜炎風險。",
+    "explanation": "糖尿病病患出現會陰部紅腫脹痛，合併白血球增加，高度懷疑壞死性筋膜炎。圖中箭號所指為骨盆冠狀切面 CT 上會陰與陰囊軟組織內成串的黑色氣體影像，周圍軟組織腫脹，沒有腸管經腹股溝、股管或閉孔突出，最符合 Fournier 壞疽。<br>(A) 錯誤，腹股溝疝氣（inguinal hernia）是腹腔內容物經腹股溝管突出，影像上為腸管或脂肪經腹股溝管突出的腫塊，不是軟組織內成串氣體。<br>(B) 錯誤，股疝氣（femoral hernia）是腹腔內容物經股環突出，影像上為腹股溝韌帶下方股管內的突出物，不是會陰與陰囊軟組織內的氣體。<br>(C) 錯誤，閉孔疝氣（obturator hernia）是腹腔內容物經閉孔突出，罕見，主要表現為腸阻塞，影像上為閉孔外肌與恥骨肌之間的腸管，不是會陰部感染。<br>(D) 正確，Fournier 壞疽（Fournier's gangrene）是會陰、外生殖器與肛門周圍的壞死性筋膜炎，為泌尿外科急症。好發於糖尿病（最常見）、酗酒、免疫抑制、肥胖、周邊血管疾病等患者。臨床表現為會陰與陰囊疼痛紅腫（疼痛程度與外觀不成比例）、皮膚變色（紅、紫、黑）、水泡、捻髮音、惡臭，以及發燒、白血球增加、敗血症等全身症狀。CT 可見皮下氣體、筋膜增厚、液體積聚。致病菌為多重細菌混合感染，包括需氧菌（E. coli、Klebsiella、Streptococcus、Staphylococcus）與厭氧菌（Bacteroides、Clostridium）。治療為緊急廣泛手術清創、廣效抗生素與支持療法，常需多次清創，死亡率約 20~40%。LRINEC 評分（Laboratory Risk Indicator for Necrotizing Fasciitis）可評估壞死性筋膜炎的風險。",
     "tags": [
       "112-2-5",
       "泌尿外科"
