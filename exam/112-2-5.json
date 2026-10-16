@@ -250,7 +250,7 @@
       "D": "頭頸部"
     },
     "answer": "C",
-    "explanation": "球狀血管瘤（glomus tumor）是來自血管球體（glomus body）的良性腫瘤。<br>(A) 錯誤，髖關節很少發生球狀血管瘤<br>(B) 錯誤，手肘不是好發部位<br>(C) 正確，球狀血管瘤最常見於手指，特別是指甲下（subungual），約占所有病例的75%。典型三聯症（triad）為劇烈疼痛（severe pain）、點狀壓痛（point tenderness）、冷敏感（cold sensitivity）<br>(D) 錯誤，雖然頭頸部也可能發生，但遠不如手指常見",
+    "explanation": "球狀血管瘤（glomus tumor）是來自血管球體（glomus body）的良性腫瘤。<br>(A) 錯誤，髖關節很少發生球狀血管瘤。<br>(B) 錯誤，手肘不是好發部位。<br>(C) 正確，球狀血管瘤最常見於手指，特別是指甲下（subungual），約 75% 的病例發生在手部。典型三聯症（triad）為劇烈疼痛（severe pain）、點狀壓痛（point tenderness）、冷敏感（cold sensitivity）。<br>(D) 錯誤，頭頸部也可能發生，但遠不如手指常見。",
     "tags": [
       "112-2-5",
       "重建整形外科"
@@ -990,7 +990,7 @@
       "D": "boxer's fracture"
     },
     "answer": "A",
-    "explanation": "大拇指掌骨基底骨折有幾種特定類型。<br>(A) 正確，Rolando骨折是大拇指掌骨基底的粉碎性關節內骨折（comminuted intra-articular fracture），呈現Y型或T型骨折，涉及掌骨基底與大多角骨（trapezium）的關節面，比Bennett骨折更嚴重且複雜<br>(B) 錯誤，Bennett骨折是大拇指掌骨基底的斜形關節內骨折（oblique intra-articular fracture），僅有一個小的尺側掌側骨片（small ulnar-volar fragment）附著在掌骨基底，是簡單的兩片骨折，不是粉碎性<br>(C) 錯誤，Jones骨折是第五蹠骨基部骨折（fracture of the base of the 5th metatarsal），位於足部，不是手部<br>(D) 錯誤，Boxer's fracture是第五掌骨頸部骨折（fracture of the 5th metacarpal neck），通常因為出拳打擊造成，不是大拇指也不是基底骨折<br>治療比較：<br>· Bennett骨折：通常可閉鎖復位加經皮鋼釘固定<br>· Rolando骨折：因粉碎性關節內骨折，預後較差，可能需要開放復位內固定或外固定，嚴重粉碎時甚至只能保守治療",
+    "explanation": "大拇指掌骨基底骨折有幾種特定類型。<br>(A) 正確，Rolando骨折是大拇指掌骨基底的粉碎性關節內骨折（comminuted intra-articular fracture），呈現Y型或T型骨折，涉及掌骨基底與大多角骨（trapezium）的關節面，比Bennett骨折更嚴重且複雜<br>(B) 錯誤，Bennett骨折是大拇指掌骨基底的斜形關節內骨折（oblique intra-articular fracture），僅有一個小的尺側掌側骨片（small ulnar-volar fragment）附著在掌骨基底，是簡單的兩片骨折，不是粉碎性<br>(C) 錯誤，Jones骨折是第五蹠骨基部骨折（fracture of the base of the 5th metatarsal），位於足部，不是手部<br>(D) 錯誤，Boxer's fracture是第五掌骨頸部骨折（fracture of the 5th metacarpal neck），通常因為出拳打擊造成，不是大拇指也不是基底骨折<br>治療方面，Bennett骨折通常可閉鎖復位加經皮鋼釘固定，Rolando骨折因粉碎性關節內骨折，預後較差，可能需要開放復位內固定或外固定，嚴重粉碎時甚至只能保守治療",
     "tags": [
       "112-2-5",
       "骨科"
@@ -1231,7 +1231,7 @@
       "D": "可明顯發現關節積液（joint effusion）"
     },
     "answer": "D",
-    "explanation": "本題解題關鍵在於觀察X光側面照中的骨皮質連續性、骨骼成熟度，以及關節周圍軟組織的變化。藉由排除明顯的骨折線與確認生長板已完全閉合，並觀察到關節處異常隆起的前後脂肪墊（稱為脂肪墊徵象），即可精準推斷出關節腔內有積水狀況。<br> (A) 錯誤，影像中肱骨 (humerus) 的骨皮質邊緣平滑連續，沒有看到明顯的骨折線或錯位，若有明顯骨折應可見骨頭輪廓斷裂。<br> (B) 錯誤，X光片中橈骨 (radius) 輪廓完整，未見明顯斷裂，雖然這類跌倒受傷常伴隨隱微的橈骨頭骨折，但在這張影像上「無法明顯發現」。<br> (C) 錯誤，影像中各個骨端的生長板皆已完全融合，屬於發育成熟的成人骨骼；若是生長板 (growth plate) 尚未癒合的兒童或青少年，骨端與骨幹之間會有一條明顯的軟骨透射線間隙。<br> (D) 正確，在肱骨 (humerus) 遠端的前方與後方，可以清楚觀察到被推高的黑色透射區（稱為脂肪墊徵象 fat pad sign 或帆船徵象 sail sign），後脂肪墊的出現明確代表有關節積液 (joint effusion) 的產生。",
+    "explanation": "<div>本題解題關鍵在於觀察X光側面照中的骨皮質連續性、骨骼成熟度，以及關節周圍軟組織的變化。藉由排除明顯的骨折線與確認生長板已完全閉合，並觀察到關節處異常隆起的前後脂肪墊（稱為脂肪墊徵象），即可精準推斷出關節腔內有積水狀況。</div><div>(A) 錯誤，影像中肱骨 (humerus) 的骨皮質邊緣平滑連續，沒有看到明顯的骨折線或錯位，若有明顯骨折應可見骨頭輪廓斷裂。</div><div>(B) 錯誤，X光片中橈骨 (radius) 輪廓完整，未見明顯斷裂，雖然這類跌倒受傷常伴隨隱微的橈骨頭骨折，但在這張影像上「無法明顯發現」。</div><div>(C) 錯誤，影像中各個骨端的生長板皆已完全融合，屬於發育成熟的成人骨骼。若是生長板 (growth plate) 尚未癒合的兒童或青少年，骨端與骨幹之間會有一條明顯的軟骨透射線間隙。</div><div>(D) 正確，在肱骨 (humerus) 遠端的前方與後方，可以清楚觀察到被推高的黑色透射區（稱為脂肪墊徵象 fat pad sign 或帆船徵象 sail sign），後脂肪墊的出現明確代表有關節積液 (joint effusion) 的產生。</div>",
     "tags": [
       "112-2-5",
       "骨科"

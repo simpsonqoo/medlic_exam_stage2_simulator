@@ -267,7 +267,7 @@
       "D": "opponens pollicis"
     },
     "answer": "B",
-    "explanation": "手部魚際肌群（thenar muscles）的神經支配需要清楚記憶。<br>(A) 錯誤，abductor pollicis brevis由正中神經的recurrent motor branch支配，是魚際肌群的一部分<br>(B) 正確，adductor pollicis由尺神經（ulnar nerve）的深支（deep branch）支配，不是正中神經。這是容易混淆的地方，因為其他魚際肌群多由正中神經支配<br>(C) 錯誤，flexor pollicis brevis有兩個頭：<br>· Superficial head：由正中神經支配<br>· Deep head：由尺神經支配<br>通常以正中神經支配為主<br>(D) 錯誤，opponens pollicis由正中神經的recurrent motor branch支配<br>記憶口訣：正中神經支配的魚際肌群包括「OAF」：<br>· Opponens pollicis<br>· Abductor pollicis brevis<br>· Flexor pollicis brevis（superficial head）<br>其餘手部內在肌多由尺神經支配",
+    "explanation": "手部魚際肌群與其他內在肌的神經支配需要清楚記憶。正中神經支配的內在肌有 abductor pollicis brevis、opponens pollicis、flexor pollicis brevis 淺頭，以及第 1、2 蚓狀肌，其中前三者由正中神經返支（recurrent motor branch）支配，其餘內在肌多由尺神經深支支配。<br>(A) 錯誤，abductor pollicis brevis 由正中神經返支支配，是魚際肌群的一部分。<br>(B) 正確，adductor pollicis 由尺神經深支（deep branch）支配，不是正中神經。它不屬於魚際隆起的肌肉，是容易混淆的地方。<br>(C) 錯誤，flexor pollicis brevis 有兩個頭，淺頭由正中神經支配，深頭由尺神經支配，通常視為以正中神經支配為主。<br>(D) 錯誤，opponens pollicis 由正中神經返支支配。",
     "tags": [
       "112-1-5",
       "重建整形外科"
@@ -993,7 +993,7 @@
       "D": "即使周邊脈搏還存在，仍無法排除其可能性"
     },
     "answer": "A",
-    "explanation": "本題考查前臂腔室症候群（compartment syndrome）的臨床特徵與後遺症，解題關鍵在於理解 Volkmann 缺血性攣縮的病理機制，以及各早期診斷徵象的出現順序與意義。<br> (A) 錯誤（最不適當），Volkmann 缺血性攣縮是前臂腔室症候群阻斷了前臂屈肌的微循環，導致其缺血壞死與攣縮。然而，尺動脈與橈動脈的主幹血流仍能抵抗前臂高壓，持續供應手部的淺掌與深掌動脈弓，因此手部內在肌仍能保有正常血供與功能。<br> (B) 正確，被動式伸展動作引發疼痛（pain on passive stretch）是腔室症候群最敏感的早期身體診察徵象；被動伸直手指時會牽拉腔室內已缺血的屈肌，誘發劇烈疼痛，此徵象出現的時間早於感覺消失、肌肉無力或脈搏消失等晚期表現，臨床上高度懷疑腔室症候群時應立即評估。<br> (C) 正確，神經組織對缺血的耐受性低於肌肉，當腔室壓力升高時，神經缺血的最早表現通常為感覺異常（paresthesia），包括刺痛感或麻木感，隨後才會出現肌肉無力甚至麻痺，因此感覺異常是腔室症候群重要的早期警訊。<br> (D) 正確，腔室症候群的病理機制主要是腔室內壓力升高壓迫微循環及靜脈回流，使組織灌流不足；而周邊大動脈壓力相對較高，在腔室壓力尚未超過收縮壓之前，脈搏可能仍然存在，因此脈搏消失屬於晚期表現，不應等到脈搏消失才確診，以免錯失緊急筋膜切開術（fasciotomy）的最佳時機。",
+    "explanation": "本題考查前臂腔室症候群（compartment syndrome）的臨床特徵與後遺症，解題關鍵在於理解 Volkmann 缺血性攣縮的受累範圍，以及各早期診斷徵象的意義。<br>(A) 錯誤（最不適當），Volkmann 缺血性攣縮是前臂腔室症候群阻斷前臂屈肌的血流，導致其缺血壞死與攣縮，最常受累的是深層屈肌（FDP、FPL）。依 Tsuge 分類，輕度型僅限深層屈肌，手部內在肌不受累而仍有正常功能，重度型才合併部分伸肌與內在肌受累。尺動脈與橈動脈主幹血流通常仍能供應手部的掌動脈弓，因此手部內在肌不一定喪失功能。<br>(B) 正確，被動式伸展動作引發疼痛（pain on passive stretch）是教科書強調的早期身體診察徵象，被動伸直手指時會牽拉腔室內已缺血的屈肌而誘發劇烈疼痛，出現時間早於感覺消失、肌肉無力或脈搏消失等晚期表現。<br>(C) 正確，神經組織對缺血的耐受性低於肌肉，腔室壓力升高時神經缺血的最早表現通常為感覺異常（paresthesia），包括刺痛感或麻木感，隨後才出現肌肉無力甚至麻痺，因此感覺異常是腔室症候群重要的早期警訊。<br>(D) 正確，腔室症候群的病理機制主要是腔室內壓力升高壓迫微循環及靜脈回流，使組織灌流不足。周邊大動脈壓力相對較高，在腔室壓力超過收縮壓之前脈搏可能仍然存在，因此脈搏消失屬於晚期表現，不應等到脈搏消失才確診，以免錯失緊急筋膜切開術（fasciotomy）的最佳時機。",
     "tags": [
       "112-1-5",
       "骨科"
@@ -1044,7 +1044,7 @@
       "D": "C1"
     },
     "answer": "A",
-    "explanation": "扳機指是常見的手部疾病，了解解剖位置對診斷和治療很重要。<br>(A) 正確，扳機指（trigger finger）是A1 pulley發生狹窄性腱鞘炎：<br>· A1 pulley位於掌指關節（metacarpophalangeal joint）掌側<br>· 屈指肌腱通過A1 pulley時受到卡壓<br>· 造成手指屈曲後無法順暢伸直，或伸直時有彈跳感（triggering）<br>· 可觸摸到掌指關節處有壓痛結節<br>· 治療包括類固醇注射或手術鬆解A1 pulley<br>(B) 錯誤，C2 pulley位於近端指骨，是較薄弱的環狀滑車，不是扳機指的主要病灶<br>(C) 錯誤，A2 pulley位於近端指骨掌側，是最重要的滑車之一。A2 pulley損傷會影響握力，但不是扳機指的原因<br>(D) 錯誤，C1 pulley位於近端指骨基部，同樣不是扳機指的病灶位置",
+    "explanation": "扳機指是常見的手部疾病，了解解剖位置對診斷和治療很重要。<br>(A) 正確，扳機指（trigger finger）是A1 pulley發生狹窄性腱鞘炎。A1 pulley位於掌指關節（metacarpophalangeal joint）掌側，屈指肌腱通過A1 pulley時受到卡壓，造成手指屈曲後無法順暢伸直，或伸直時有彈跳感（triggering），掌指關節處可摸到壓痛結節。治療包括類固醇注射或手術鬆解A1 pulley<br>(B) 錯誤，C2 pulley是位於A3與A4之間（中節指骨）的十字形（cruciate）滑車，薄而易塌陷，不是扳機指的病灶<br>(C) 錯誤，A2 pulley位於近端指骨掌側，是最重要的滑車之一。A2 pulley損傷會影響握力，但不是扳機指的原因<br>(D) 錯誤，C1 pulley是位於A2與A3之間（近端指間關節近端）的十字形滑車，同樣不是扳機指的病灶位置",
     "tags": [
       "112-1-5",
       "骨科"

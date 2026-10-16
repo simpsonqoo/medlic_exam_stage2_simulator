@@ -250,7 +250,7 @@
       "D": "①②③④"
     },
     "answer": "C",
-    "explanation": "關鍵在於掌握 Verdan 分區系統和肌腱癒合的生理機制。<br>① 正確，手部曲屈肌腱損傷可劃分為五區（Verdan 分區）：<br>· Zone I：指尖到淺屈肌腱止點（FDS insertion）<br>· Zone II：\"no man's land\"，FDS 止點到 A1 pulley<br>· Zone III：手掌，A1 pulley 到腕隧道遠端<br>· Zone IV：腕隧道內<br>· Zone V：腕隧道近端到肌肉肌腱交界<br>② 正確，第一、二、四區的肌腱有滑膜鞘（synovial sheath）包覆：<br>· Zone I、II：手指內有完整滑膜鞘（digital sheath）<br>· Zone IV：腕隧道內有滑膜鞘包覆<br>· Zone III、V：無滑膜鞘，有 paratendon 包覆<br>③ 錯誤，沒有 paratendon 的區域（即有滑膜鞘的區域）癒合速度較慢，不是較快：<br>· 有滑膜鞘的區域（Zone I、II、IV）：缺乏外在血液供應，癒合較慢<br>· 有 paratendon 的區域（Zone III、V）：血液供應豐富，癒合較快<br>· Zone II 被稱為 \"no man's land\"，手術效果較差，癒合困難<br>④ 正確，腕隧道（carpal tunnel）屬於第四區（Zone IV）：<br>· 包含 4 條 FDS 肌腱和 4 條 FDP 肌腱<br>· 正中神經（median nerve）通過<br>· 有滑膜鞘包覆<br>因此正確敘述為 ①②④。",
+    "explanation": "關鍵在於掌握 Verdan 分區系統和肌腱癒合的生理機制。<br>① 正確，手部屈肌腱損傷依 Verdan 分區可劃分為五區。Zone I 為 FDS 止點遠端到 FDP 止點，Zone II 為遠端掌橫紋（A1 滑車近端）到 FDS 止點，稱為 \"no man's land\"，Zone III 為手掌，從腕橫韌帶遠端到 A1 滑車，Zone IV 為腕隧道內，Zone V 為腕隧道近端到肌肉肌腱交界。<br>② 正確，Zone I、II 在手指的屈肌腱鞘內，Zone IV 在腕隧道內，三區的肌腱都有滑膜鞘包覆。Zone III、V 沒有滑膜鞘，由 paratenon 包覆。<br>③ 錯誤，沒有 paratenon 的區域（即有滑膜鞘的區域）癒合速度較慢，不是較快。Zone I、II、IV 缺乏外在血液供應，主要靠滑液擴散與 vincula 營養，癒合較慢。Zone III、V 有 paratenon，血液供應豐富，癒合較快。Zone II 被稱為 \"no man's land\"，修補後容易沾黏，預後較差。<br>④ 正確，腕隧道（carpal tunnel）屬於第四區（Zone IV），內有 4 條 FDS、4 條 FDP 與 1 條 FPL 肌腱，以及正中神經，肌腱外有滑膜鞘包覆。<br>因此正確敘述為 ①②④。",
     "tags": [
       "111-2-5",
       "重建整形外科"
@@ -1041,7 +1041,7 @@
       "D": "arcade of Frohse"
     },
     "answer": "B",
-    "explanation": "根據症狀包括無名指尺側和小指麻木、小指屈指深肌無力可判斷是尺神經壓迫，且壓迫位置在肘部近端。<br>(A) 錯誤，Guyon tunnel 壓迫的症狀表現不同。Guyon tunnel 位於手腕尺側尺神經在此分為深淺支，若壓迫深支僅有運動功能受損造成手內肌無力但無感覺異常，若壓迫淺支則僅有感覺異常無運動功能障礙。完全壓迫則運動加感覺障礙，但屈指深肌由前臂的尺神經分支支配，Guyon tunnel 壓迫不會影響屈指深肌<br>(B) 正確，arcade of Struthers 是最常見的肘部尺神經壓迫位置。Arcade of Struthers 位於肱骨內上髁近端約 8 公分處的筋膜弓位於內側頭的肱三頭肌，長時間肘部屈曲如講電話會加重壓迫。壓迫症狀包括無名指尺側和小指感覺異常、小指和無名指的屈指深肌無力、手內肌無力見於晚期。肘部尺神經壓迫即 cubital tunnel syndrome 的常見壓迫點包括 Arcade of Struthers 最近端、肱骨內上髁後方的尺神經溝、Osborne ligament 最常見、尺側屈腕肌兩頭之間<br>(C) 錯誤，carpal tunnel 是正中神經壓迫。Carpal tunnel 即腕隧道正中神經通過，腕隧道症候群症狀包括拇指、食指、中指、無名指橈側麻木、大魚際肌萎縮無力、夜間症狀加重。與題目描述的尺神經症狀不符<br>(D) 錯誤，arcade of Frohse 是橈神經壓迫。Arcade of Frohse 位於前臂近端旋後肌的纖維弓，橈神經深支即後骨間神經通過此處。壓迫導致後骨間神經症候群表現為手指伸直無力、手腕橈側偏移、無感覺異常因為是純運動神經。與題目症狀不符",
+    "explanation": "根據症狀包括無名指尺側和小指麻木、小指屈指深肌無力可判斷是尺神經壓迫，且壓迫位置在肘部（前臂肌支分出之前）。<br>(A) 錯誤，Guyon tunnel 壓迫的症狀表現不同。Guyon tunnel 位於手腕尺側，尺神經在此分為深淺支，若壓迫深支僅有運動功能受損造成手內肌無力但無感覺異常，若壓迫淺支則僅有感覺異常無運動功能障礙。完全壓迫則運動加感覺障礙，但屈指深肌由前臂的尺神經分支支配，Guyon tunnel 壓迫不會影響屈指深肌。<br>(B) 公告答案為正確，arcade of Struthers 是選項中唯一位於肘部的尺神經壓迫點。依教科書，肘部尺神經最常見的壓迫處是 cubital tunnel（Osborne 韌帶下方與尺側屈腕肌兩頭之間的腱膜），arcade of Struthers 是較近端的壓迫點。Arcade of Struthers 位於肱骨內上髁近端約 8 公分處，是肱三頭肌內側頭與內側肌間隔之間的筋膜弓，長時間肘部屈曲如講電話會加重壓迫。壓迫症狀包括無名指尺側和小指感覺異常、小指和無名指的屈指深肌無力，手內肌無力見於晚期。肘部尺神經壓迫即 cubital tunnel syndrome 的壓迫點由近到遠包括 arcade of Struthers、內側肌間隔、肱骨內上髁後方的尺神經溝、Osborne ligament、尺側屈腕肌兩頭之間的腱膜。<br>(C) 錯誤，carpal tunnel 是正中神經壓迫。Carpal tunnel 即腕隧道，正中神經通過其中，腕隧道症候群症狀包括拇指、食指、中指、無名指橈側麻木、大魚際肌萎縮無力、夜間症狀加重。與題目描述的尺神經症狀不符。<br>(D) 錯誤，arcade of Frohse 是橈神經壓迫。Arcade of Frohse 位於前臂近端旋後肌的纖維弓，橈神經深支即後骨間神經通過此處。壓迫導致後骨間神經症候群，表現為手指伸直無力、手腕橈側偏移，因為是純運動神經所以無感覺異常。與題目症狀不符。",
     "tags": [
       "111-2-5",
       "骨科"
