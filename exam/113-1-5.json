@@ -9,7 +9,7 @@
       "D": "應使用頸圈固定病人頸部"
     },
     "answer": "B",
-    "explanation": "嚴重頭部外傷（GCS≤8）需要積極處置保護腦部和維持生命徵象。類固醇在急性顱內壓升高的治療角色已被否定。<br>(A) 正確，GCS≤8表示意識嚴重障礙且無法保護呼吸道，應立即放置氣管內管（endotracheal tube）確保呼吸道通暢、避免吸入性肺炎、控制通氣<br>(B) 錯誤，大型隨機對照試驗（CRASH study）證實類固醇（corticosteroids）在急性頭部外傷不僅無益，反而增加死亡率。現在已不建議使用類固醇治療創傷性腦損傷<br>(C) 正確，低血壓（收縮壓<90 mmHg）會導致腦灌流不足、加重次發性腦損傷，需要積極輸液或升壓藥物維持血壓<br>(D) 正確，頭部外傷病人應假設同時有頸椎損傷，需使用頸圈（cervical collar）固定頸部直到排除頸椎骨折",
+    "explanation": "嚴重頭部外傷（GCS ≤ 8）的處置原則是保護呼吸道、維持氧合與血壓，避免次發性腦損傷。<br>(A) 正確，GCS ≤ 8 需要氣管插管來保護呼吸道、避免吸入並控制通氣。<br>(B) 錯誤，CRASH 試驗顯示高劑量 methylprednisolone 使傷後 2 週死亡率由 17.9% 增加為 21.1%，BTF 第 4 版（Level I）不建議使用類固醇來改善預後或降低顱內壓。<br>(C) 正確，低血壓（收縮壓 &lt; 90 mmHg）使死亡率明顯上升，BTF 第 4 版建議收縮壓維持在 50~69 歲 ≥ 100 mmHg，15~49 歲與 &gt; 70 歲 ≥ 110 mmHg，需要積極輸液或使用升壓藥。<br>(D) 正確，頭部外傷病人須先假設合併頸椎損傷，以頸圈與徒手固定頸椎，直到排除損傷。",
     "tags": [
       "113-1-5",
       "腦神經外科"
@@ -128,7 +128,7 @@
       "D": "不管復發或原發腫瘤，radiation therapy 都沒有治療的角色"
     },
     "answer": "B",
-    "explanation": "腦膜瘤是最常見的原發性腦腫瘤，通常為良性。<br>(A) 錯誤，腦膜瘤從蜘蛛膜（arachnoid）的顆粒細胞長出，但通常附著在硬腦膜（dura）上，所以MRI確實常描述為dural-based tumor，這個敘述基本正確但不夠精確<br>(B) 正確，Simpson grading scale（Grade I-V）是評估腦膜瘤手術切除程度的標準分類，與復發率相關。Grade I是完全切除包括受侵犯的硬腦膜和骨頭<br>(C) 錯誤，約5-10%的腦膜瘤是多發性（multiple），而非20%<br>(D) 錯誤，放射治療（radiation therapy）在復發性腦膜瘤和無法完全切除的腫瘤中有重要角色",
+    "explanation": "腦膜瘤是最常見的原發性顱內腫瘤，多為良性。<br>(A) 錯誤。腦膜瘤細胞源自蜘蛛膜帽細胞（arachnoid cap cells），腫瘤附著於硬腦膜，MRI 常見以硬膜為基底（dural-based）的軸外腫塊並有硬膜尾徵，但細胞起源不是硬腦膜。<br>(B) 正確。Simpson 分級（I~V 級）用來評估腦膜瘤的手術切除程度，並與復發率相關。I 級為完整切除並切除附著的硬腦膜與異常骨，V 級只做減壓或切片。<br>(C) 錯誤。多發性（multiple）腦膜瘤屬少數，一般文獻約 1~10%，NF2 患者較常見。新近納入異時性多發的單一研究可達較高比例，但仍不是教科書所稱的 20%。<br>(D) 錯誤。依 EANO 2021，立體定位放射手術用於小型、殘餘或復發的腦膜瘤，放射治療用於 3 級與未完全切除的 2 級腫瘤，以及復發腫瘤。",
     "tags": [
       "113-1-5",
       "腦神經外科"
@@ -145,7 +145,7 @@
       "D": "necrosis"
     },
     "answer": "C",
-    "explanation": "WHO膠質瘤（glioma）分級主要基於組織病理學特徵，反映腫瘤的惡性度。<br>分級依據的特徵包括：<br>· 細胞密度（cellularity）<br>· 細胞核異型性（nuclear atypia）<br>· 有絲分裂活性（mitotic activity）<br>· 微血管增生（microvascular proliferation）<br>· 壞死（necrosis）<br>(A) 正確，細胞密度（degree of cellularity）是分級標準之一<br>(B) 正確，細胞多形性（pleomorphism）即細胞核異型性是分級標準<br>(C) 錯誤，鈣化（calcification）不是WHO膠質瘤分級的標準。鈣化是某些腦腫瘤（如寡樹突膠質細胞瘤oligodendroglioma）的特徵，但不用於分級<br>(D) 正確，壞死（necrosis）是Grade IV（膠質母細胞瘤glioblastoma）的重要特徵",
+    "explanation": "WHO 膠質瘤（glioma）分級反映腫瘤的惡性度。光學顯微鏡下用於分級的組織學特徵包括細胞密度增加、細胞核異型性（多形性）、有絲分裂活性、微血管增生與壞死。<br>(A) 正確。細胞密度（degree of cellularity）增加是分級特徵之一。<br>(B) 正確。細胞多形性（pleomorphism）即細胞核異型性，是分級特徵，2 級已有核異型。<br>(C) 錯誤。鈣化（calcification）不是分級特徵。鈣化是寡樹突膠質細胞瘤（oligodendroglioma）常見的特徵，但不用於分級。<br>(D) 正確。壞死（necrosis）與微血管增生是 4 級的重要特徵，例如膠質母細胞瘤（glioblastoma）。",
     "tags": [
       "113-1-5",
       "腦神經外科"
@@ -162,7 +162,7 @@
       "D": "Glasgow Coma Scale 的分數與預後無關"
     },
     "answer": "C",
-    "explanation": "蜘蛛膜下腔出血（subarachnoid hemorrhage）的預後評估有多種量表。<br>(A) 錯誤，Hunt and Hess scale 沒有0分。分級從Grade I（無症狀或輕微頭痛）到Grade V（深度昏迷），分數越高預後越差<br>(B) 錯誤，Fisher grading是評估電腦斷層（CT）而非核磁共振（MRI）影像中蜘蛛膜下腔的出血量，用來預測腦血管痙攣（vasospasm）的風險<br>(C) 正確，WFNS（World Federation of Neurological Surgeons）分級從Grade I到Grade V，數字越小（如Grade I）表示神經學狀態越好、預後越佳<br>(D) 錯誤，Glasgow Coma Scale（GCS）分數與預後密切相關，GCS越低預後越差",
+    "explanation": "蜘蛛膜下腔出血（subarachnoid hemorrhage）的預後與風險評估有 Hunt and Hess、WFNS、Fisher 與 Glasgow Coma Scale 等量表。<br>(A) 錯誤，修訂版 Hunt and Hess 分級的 0 級代表未破裂的動脈瘤，不是影像上無法判斷有無動脈瘤。破裂病人為 I 級（無症狀或輕微頭痛）到 V 級（深度昏迷），級數越高預後越差。<br>(B) 錯誤，Fisher 分級依據的是電腦斷層（CT）而非磁振造影（MRI）上蜘蛛膜下腔與腦室內的出血量與分布，用來預測血管痙攣（vasospasm）的風險。<br>(C) 正確，WFNS（World Federation of Neurological Surgeons）依 GCS 與局部運動缺損分為 I 到 V 級，數字越小（如 I 級）代表神經學狀態越好，預後越佳。<br>(D) 錯誤，Glasgow Coma Scale 分數與預後相關，GCS 越低預後越差，也是 WFNS 分級的依據。",
     "tags": [
       "113-1-5",
       "腦神經外科"
@@ -196,7 +196,7 @@
       "D": "腦實質出血 30 c.c."
     },
     "answer": "B",
-    "explanation": "顱內壓（intracranial pressure, ICP）升高的原因包括腦實質腫脹、顱內血腫、腦脊髓液（CSF）循環阻塞等。<br>(A) 錯誤，蜘蛛膜下腔出血（subarachnoid hemorrhage）會導致腦部腫脹、發炎反應、腦脊髓液吸收障礙，造成腦壓升高<br>(B) 正確，降低血中二氧化碳濃度（hyperventilation導致hypocapnia）會引起腦血管收縮，減少腦血流量和腦血容積，是急性降低腦壓的方法之一<br>(C) 錯誤，阻塞性水腦症（obstructive hydrocephalus）因腦脊髓液循環受阻、積聚，導致腦壓升高<br>(D) 錯誤，30 c.c.的腦實質出血（intraparenchymal hemorrhage）會佔據空間、壓迫周圍腦組織，造成腦壓升高",
+    "explanation": "顱內壓（intracranial pressure, ICP）升高的原因包括腦實質腫脹、顱內血腫、腦脊髓液（CSF）循環阻塞或吸收障礙、腦血容積增加等。<br>(A) 錯誤，蜘蛛膜下腔出血（subarachnoid hemorrhage）會造成腦腫脹與腦脊髓液吸收障礙，使顱內壓升高。<br>(B) 正確，降低血中二氧化碳濃度（過度換氣造成 hypocapnia）使腦血管收縮，腦血流與腦血容積下降，顱內壓隨之下降，臨床上用於腦疝時的暫時降腦壓。<br>(C) 錯誤，阻塞性水腦症（obstructive hydrocephalus）使腦脊髓液循環受阻而積聚，顱內壓升高。<br>(D) 錯誤，30 c.c. 的腦實質出血（intraparenchymal hemorrhage）屬於占位病灶，佔據顱內空間並壓迫周圍腦組織，使顱內壓升高。",
     "tags": [
       "113-1-5",
       "腦神經外科"

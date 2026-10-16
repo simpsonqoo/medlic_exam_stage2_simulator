@@ -145,7 +145,7 @@
       "D": "重新量測生命徵象，必要時給與氣管內管插管，維持呼吸道通暢"
     },
     "answer": "D",
-    "explanation": "頭部外傷後意識快速惡化需要優先處理氣道、呼吸、循環（ABC原則），再進行進一步檢查。<br>(A) 錯誤，雖然需要安排brain CT，但在意識惡化至GCS 7（E2V1M4）時，首要處理是確保氣道通暢及生命徵象穩定，而非直接送去做CT<br>(B) 錯誤，FAST（Focused Assessment with Sonography for Trauma）主要用於評估腹內出血，但此病人主要問題是頭部外傷後意識惡化，應優先處理神經學問題<br>(C) 錯誤，電解質異常較不可能在30分鐘內造成如此快速的意識惡化，且不應延誤氣道保護<br>(D) 正確，GCS≤8（E2V1M4=7分）表示嚴重意識障礙，有失去氣道保護能力的風險。應立即重新評估生命徵象，必要時進行氣管內管插管以維持呼吸道通暢及充足氧合，穩定後再安排brain CT檢查",
+    "explanation": "頭部外傷後意識快速惡化，依 ATLS 先處理呼吸道、呼吸與循環，再做進一步檢查。<br>(A) 錯誤，需要安排頭部 CT，但意識已惡化至 GCS 7 分（E2V1M4），首要是重新評估生命徵象並確保呼吸道，穩定後才送 CT。<br>(B) 錯誤，FAST 用來評估腹內出血，屬於循環評估的輔助檢查，順序在呼吸道之後，而且此病人的主要問題是頭部外傷後意識惡化。<br>(C) 錯誤，電解質異常不太可能在 30 分鐘內造成這麼快速的意識惡化，也不應延誤呼吸道保護。<br>(D) 正確，GCS ≤ 8（E2V1M4 為 7 分）表示可能無法保護呼吸道，應重新評估生命徵象，必要時以快速序列插管建立氣管內管並固定頸椎，維持呼吸道通暢與充足氧合，穩定後再做頭部 CT。",
     "tags": [
       "114-2-5",
       "腦神經外科"
@@ -162,7 +162,7 @@
       "D": "若病人的瞳孔出現放大的情形，則建議進行開顱減壓手術"
     },
     "answer": "A",
-    "explanation": "顱內出血的類型與出血來源有明確的對應關係，需要正確區分。<br>(A) 錯誤，應該是右腦為epidural hematoma（硬腦膜外血腫），左腦為contused intracranial hematoma（挫傷性顱內血腫），題目將左右腦的診斷對調了<br>(B) 正確，但應修正為：左腦的出血來源多半為顱骨骨折造成中腦膜動脈（middle meningeal artery）破裂而產生epidural hematoma<br>(C) 正確，但應修正為：右腦的出血來源多半為大腦本身的血管破裂而產生contused intracranial hematoma<br>(D) 正確，若病人的瞳孔出現放大的情形，表示顱內壓上升造成腦疝脫（brain herniation），則建議進行開顱減壓手術",
+    "explanation": "題目為冠狀切面 CT，依放射學慣例影像左側為病人右側。影像左側（病人右側）顱骨內板下有雙凸透鏡狀的腦外血腫，為硬腦膜外血腫，影像右側（病人左側）顳葉內有多處高密度出血斑塊，為挫傷性腦內血腫。<br>(A) 錯誤，題目把左右對調。應為右腦硬腦膜外血腫（epidural hematoma），左腦挫傷性腦內血腫（contused intracranial hematoma）<br>(B) 正確，右腦為硬腦膜外血腫，出血來源多半為顱骨骨折（常見於顳骨）撕裂中腦膜動脈（middle meningeal artery）<br>(C) 正確，左腦為挫傷性腦內血腫，出血來自腦實質本身受撞擊後破裂的小血管<br>(D) 正確，瞳孔放大代表顱內壓上升造成腦疝（brain herniation），建議進行開顱手術移除血腫並減壓",
     "tags": [
       "114-2-5",
       "腦神經外科"
@@ -216,7 +216,7 @@
       "D": "神經管胚細胞瘤（medulloblastoma）"
     },
     "answer": "D",
-    "explanation": "不同類型的腦瘤有不同的年齡分布特徵。<br>(A) 錯誤，多形性神經膠質母細胞瘤（glioblastoma multiforme, GBM）主要見於成人，平均發病年齡約64歲<br>(B) 錯誤，腦膜瘤（meningioma）主要見於成人，尤其是中老年女性<br>(C) 錯誤，腦下垂體腺瘤（pituitary adenoma）主要見於成人<br>(D) 正確，神經管胚細胞瘤（medulloblastoma）是最常見的兒童惡性腦瘤，約75%發生於10歲以下孩童，在成人相對少見",
+    "explanation": "不同類型的腦瘤有不同的年齡分布。髓母細胞瘤（medulloblastoma）是最常見的兒童惡性腦瘤，約 70% 發生於 10 歲以下，高峰約 3~7 歲，成人相對少見。<br>(A) 錯誤。多形性神經膠質母細胞瘤（glioblastoma，GBM）主要見於成人，中位診斷年齡約 65 歲。<br>(B) 錯誤。腦膜瘤（meningioma）主要見於中老年成人，女性約為男性的 2~3 倍。<br>(C) 錯誤。腦下垂體腺瘤（pituitary adenoma）主要見於成人。<br>(D) 正確。神經管胚細胞瘤（medulloblastoma）是最常見的兒童惡性腦瘤，約 70% 發生於 10 歲以下，在成人相對少見。",
     "tags": [
       "114-2-5",
       "腦神經外科"
@@ -233,7 +233,7 @@
       "D": "小孩通常以缺血性腦病變表現"
     },
     "answer": "C",
-    "explanation": "毛毛樣血管疾病有其特定的血管侵犯模式和影像學特徵。<br>(A) 正確，亞洲人（特別是日本人、韓國人、中國人）較多罹患moyamoya disease<br>(B) 正確，moyamoya disease多發生在兩側血管，雖然初期可能單側，但最終多數會發展為雙側<br>(C) 錯誤，影像上最常見內頸動脈（internal carotid artery）末端、中大腦動脈（middle cerebral artery）及前大腦動脈（anterior cerebral artery）的狹窄萎縮，後大腦動脈（posterior cerebral artery）較少受影響<br>(D) 正確，小孩通常以缺血性腦病變表現（如短暫性腦缺血發作或腦中風），而成人較常以出血性腦病變表現",
+    "explanation": "毛毛樣血管疾病有其特定的血管侵犯模式與影像特徵。<br>(A) 正確。毛毛樣血管疾病在東亞（日本、韓國、中國、台灣）較多。<br>(B) 正確。毛毛樣血管疾病多為雙側病變，2021 日本診斷標準中單側病變亦可診斷。<br>(C) 錯誤。血管狹窄主要在內頸動脈（internal carotid artery）末端及前大腦動脈（anterior cerebral artery）、中大腦動脈（middle cerebral artery）近端，後大腦動脈（posterior cerebral artery）較少受侵犯。<br>(D) 正確。兒童多以缺血表現，如短暫性腦缺血發作或腦梗塞，成人則出血的比例高於兒童。",
     "tags": [
       "114-2-5",
       "腦神經外科"

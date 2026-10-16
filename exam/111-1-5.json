@@ -250,7 +250,7 @@
       "D": "可以用hemodynamic augmentation的方式治療腦血管痙攣"
     },
     "answer": "A",
-    "explanation": "蜘蛛膜下腔出血後的腦血管痙攣是重要併發症，有特定的時間進程和風險因子。<br>(A) 錯誤，腦血管痙攣通常好發於腦動脈瘤破裂出血後的4-14天，高峰期在7-10天，而非1-5天。早期（1-3天）主要擔心再出血，而非血管痙攣<br>(B) 正確，Hunt and Hess臨床分級越高（表示臨床狀況越差），發生腦血管痙攣的機會越高，且預後越差<br>(C) 正確，電腦斷層上基底腦池（basal cistern）的出血量越多（Fisher grade越高），發生腦血管痙攣的風險越高，因為血液分解產物會刺激血管收縮<br>(D) 正確，腦血管痙攣可以用血流動力學增強治療（hemodynamic augmentation），包括3H療法：高血容（hypervolemia）、高血壓（hypertension）、血液稀釋（hemodilution），目的是增加腦灌流",
+    "explanation": "血管痙攣是動脈瘤性蜘蛛膜下腔出血後的重要併發症，有特定的時間進程與風險因子。<br>(A) 錯誤（本題答案），血管痙攣好發於出血後第 3~14 天，高峰在第 7~10 天，不是 1~5 天。出血後最初 24 小時內主要擔心的是再出血。<br>(B) 正確，Hunt and Hess 臨床分級越高（臨床狀況越差），發生血管痙攣的機會越高，預後也越差。<br>(C) 正確，CT 上基底腦池等處的出血量越多（Fisher 分級越高），發生血管痙攣的風險越高。<br>(D) 正確，遲發性腦缺血可用血流動力學增強（hemodynamic augmentation）治療。目前做法是動脈瘤處理後以升壓劑誘發性高血壓（induced hypertension）。傳統 3H 療法中，預防性的高血容（hypervolemia）與血液稀釋（hemodilution）已不建議，AHA/ASA 2023 主張維持正常血容（euvolemia）。",
     "tags": [
       "111-1-5",
       "腦神經外科"
@@ -267,7 +267,7 @@
       "D": "如果癲癇持續5分鐘以上，則要考慮插管予以完全鎮靜"
     },
     "answer": "B",
-    "explanation": "癲癇持續狀態的處理需要迅速有效的抗癲癇藥物，有標準的治療階梯。<br>(A) 正確，右側硬腦膜下出血可能造成右側大腦皮質刺激，癲癇發作時雙眼可能偏向病灶側（右側），這是癲癇發作的常見表現<br>(B) 錯誤，癲癇持續狀態的第一線藥物是benzodiazepines（如lorazepam、diazepam、midazolam），而非propofol。Propofol是麻醉劑，通常用於難治性癲癇持續狀態或需要插管時，屬於第三線用藥<br>(C) 正確，如果給予第一線藥物（benzodiazepines）後1分鐘癲癇仍持續，應該立即給予第二線藥物（如phenytoin、fosphenytoin、valproic acid、levetiracetam）<br>(D) 正確，如果癲癇持續5分鐘以上且藥物治療無效，應考慮氣管插管並給予完全鎮靜（如使用propofol或midazolam），以保護呼吸道和控制癲癇",
+    "explanation": "癲癇重積狀態的處置依 AES 2016 指引，分為穩定期、第一線、第二線與難治性四個階段。<br>(A) 公告視為正確，癲癇發作時眼球與頭通常偏向發作起源病灶的對側，幕上破壞性病灶則偏向病灶同側，所以右側硬腦膜下出血的病人雙眼可能偏向右側，也可能偏向左側。<br>(B) 錯誤，第一線藥物是 benzodiazepine（IM midazolam、IV lorazepam、IV diazepam），propofol 是難治性癲癇重積使用的麻醉劑。<br>(C) 公告視為正確，但依 AES 2016，第二線藥物（fosphenytoin、valproate、levetiracetam）是在 benzodiazepine（可重複一次）給予後癲癇仍持續時使用，階段為發作後約 20~40 分鐘，不是第一線藥物給予 1 分鐘後。<br>(D) 公告視為正確，但依 AES 2016，癲癇持續 5 分鐘是開始治療的切點，氣管插管與麻醉劑量的 midazolam、propofol、pentobarbital 連續輸注，用於第一線與第二線藥物失敗的難治性癲癇重積，並需連續腦波監測。",
     "tags": [
       "111-1-5",
       "腦神經外科"
@@ -301,7 +301,7 @@
       "D": "85"
     },
     "answer": "D",
-    "explanation": "腦灌流壓的計算對於監測和治療顱內高壓病人非常重要。<br>計算公式：CPP = MAP - ICP<br>其中MAP（平均動脈壓）= 舒張壓 + (收縮壓 - 舒張壓)/3<br>或簡化公式：MAP ≈ (收縮壓 + 2×舒張壓)/3<br>步驟：<br>· 計算MAP：MAP = 90 + (150-90)/3 = 90 + 20 = 110 mmHg<br>· 計算CPP：CPP = MAP - ICP = 110 - 25 = 85 mmHg<br>(A) 錯誤，105 mmHg是錯誤計算的結果<br>(B) 錯誤，95 mmHg是錯誤計算的結果<br>(C) 錯誤，90 mmHg是錯誤計算的結果<br>(D) 正確，CPP = 85 mmHg。正常CPP應維持在60-70 mmHg以上，以確保足夠的腦部灌流",
+    "explanation": "腦灌流壓（CPP）的公式為 CPP = MAP - ICP，其中 MAP（平均動脈壓）= 舒張壓 + (收縮壓 - 舒張壓)/3，也可簡化為 (收縮壓 + 2×舒張壓)/3。<br>本題 MAP = 90 + (150~90)/3 = 90 + 20 = 110 mmHg，CPP = 110~25 = 85 mmHg。<br>(A) 錯誤，105 mmHg 與公式計算結果不符。<br>(B) 錯誤，95 mmHg 是把 MAP 誤用收縮壓與舒張壓的算術平均（120 mmHg）再減 ICP 的結果，MAP 並非兩者的算術平均。<br>(C) 錯誤，90 mmHg 與公式計算結果不符。<br>(D) 正確，CPP = 85 mmHg。依 Brain Trauma Foundation 嚴重頭部外傷指引第 4 版，CPP 目標為 60~70 mmHg，ICP &gt; 22 mmHg 時開始治療。",
     "tags": [
       "111-1-5",
       "腦神經外科"
@@ -318,7 +318,7 @@
       "D": "腦部靜脈異常（venous anomaly）"
     },
     "answer": "C",
-    "explanation": "腦血管異常可分為先天性和後天性，需要理解各種病變的發生機轉。<br>(A) 錯誤，動靜脈畸形（arteriovenous malformation）是先天性血管發育異常，在胚胎期形成<br>(B) 錯誤，毛細血管擴張（capillary telangiectasia）是先天性微血管異常，通常無症狀<br>(C) 正確，腦部漿果動脈瘤（cerebral berry aneurysm）雖然可能有先天性血管壁缺陷的傾向，但動脈瘤本身通常是後天形成的。在長期血流衝擊和血管壁退化下，動脈分叉處逐漸形成囊狀擴張，因此被認為是後天性疾病<br>(D) 錯誤，腦部靜脈異常（venous anomaly，又稱發育性靜脈異常developmental venous anomaly）是先天性靜脈引流異常",
+    "explanation": "腦血管異常可分為先天性與後天性，需要理解各種病變的發生機轉。<br>(A) 錯誤，動靜脈畸形（arteriovenous malformation）屬先天性血管發育異常，於胚胎期形成。<br>(B) 錯誤，毛細血管擴張（capillary telangiectasia）屬先天性微血管異常，通常無症狀。<br>(C) 正確，腦部漿果動脈瘤（cerebral berry aneurysm）多為後天形成，在動脈分叉處長期承受血流動力衝擊，加上內彈性層與中層缺損，使血管壁向外膨出。<br>(D) 錯誤，腦部靜脈異常（又稱發育性靜脈異常 developmental venous anomaly）屬先天性靜脈引流異常。",
     "tags": [
       "111-1-5",
       "腦神經外科"

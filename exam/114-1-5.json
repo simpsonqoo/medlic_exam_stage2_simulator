@@ -128,7 +128,7 @@
       "D": "雙側acoustic neuromas常與neurofibromatosis type 2有關"
     },
     "answer": "D",
-    "explanation": "聽神經瘤實際上源自前庭神經（vestibular nerve）而非聽神經，雙側發生是神經纖維瘤病第二型（neurofibromatosis type 2, NF2）的特徵性表現。<br>(A) 錯誤，聽神經瘤其實源自前庭神經（vestibular nerve）的許旺細胞（Schwann cells），而非聽神經（cochlear nerve），因此更準確的名稱是前庭神經鞘瘤（vestibular schwannoma）<br>(B) 錯誤，手術併發症最常見是第七對顏面神經（facial nerve）受傷導致顏面麻痺，而非第六對外展神經（abducens nerve）<br>(C) 錯誤，對於小型聽神經瘤，立體定位放射手術（radiosurgery）已成為重要的第一線治療選項之一，不只用於殘留腫瘤<br>(D) 正確，雙側聽神經瘤是神經纖維瘤病第二型（neurofibromatosis type 2, NF2）的診斷特徵",
+    "explanation": "聽神經瘤實際上源自前庭神經，現稱前庭神經鞘瘤（vestibular schwannoma）。雙側發生是神經纖維瘤病第二型的特徵。<br>(A) 錯誤。腫瘤源自前庭神經（vestibular nerve，上或下前庭神經）的許旺細胞，不是聽神經（cochlear nerve）。<br>(B) 錯誤。手術最重要的併發症是第七對顏面神經損傷造成顏面麻痺，其次是聽力喪失，第六對外展神經損傷不是典型併發症。<br>(C) 錯誤。依 EANO 2020，小型無症狀腫瘤可觀察，立體定位放射手術（如加馬刀）是小至中型腫瘤的第一線選擇之一，不是只用於手術後殘留腫瘤。大型腫瘤或壓迫腦幹者才以手術為主。<br>(D) 正確。雙側前庭神經鞘瘤是神經纖維瘤病第二型（NF2，2022 年起稱 NF2 相關神經鞘瘤病）的特徵，致病基因為第 22 號染色體的 NF2 基因。",
     "tags": [
       "114-1-5",
       "腦神經外科"
@@ -145,7 +145,7 @@
       "D": "阻塞以後大腦動脈為主"
     },
     "answer": "A",
-    "explanation": "毛毛樣血管疾病（moyamoya disease）是進行性腦血管狹窄疾病，好發於亞洲人，成人因側支循環形成能力較差，建議以血管繞道手術治療。<br>(A) 正確，成人毛毛樣血管疾病建議以血管繞道手術（revascularization surgery）治療，如STA-MCA bypass<br>(B) 錯誤，毛毛樣血管疾病較常發生在亞洲人，特別是日本和韓國，而非較少發生<br>(C) 錯誤，毛毛樣血管疾病通常影響雙側腦血管，單側病變較少見<br>(D) 錯誤，阻塞主要發生在內頸動脈（internal carotid artery）末端及其分支，包括前大腦動脈（anterior cerebral artery）和中大腦動脈（middle cerebral artery），而非後大腦動脈（posterior cerebral artery）",
+    "explanation": "毛毛樣血管疾病是進行性的腦血管狹窄疾病，好發於東亞。依 2021 日本指引，有缺血症狀者建議血管重建手術，成人單用間接繞道效果不足，以直接繞道或合併手術為主，出血型成人的 JAM 試驗顯示雙側直接繞道可降低再出血。<br>(A) 正確。成人毛毛樣血管疾病建議血管重建手術（revascularization surgery），例如 STA-MCA 繞道。<br>(B) 錯誤。毛毛樣血管疾病在東亞（特別是日本與韓國）較多。<br>(C) 錯誤。毛毛樣血管疾病多為雙側，單側病變較少見。<br>(D) 錯誤。阻塞主要發生在內頸動脈（internal carotid artery）末端與前大腦動脈（anterior cerebral artery）、中大腦動脈（middle cerebral artery）近端，後大腦動脈（posterior cerebral artery）較少受侵犯。",
     "tags": [
       "114-1-5",
       "腦神經外科"
@@ -162,7 +162,7 @@
       "D": "微血管樣血管擴張（capillary telangiectasia）"
     },
     "answer": "C",
-    "explanation": "頸動脈–海綿竇瘻管（carotid-cavernous fistula）常因頭部外傷導致頸動脈破裂進入海綿竇，是外傷相關的血管異常。<br>(A) 錯誤，毛毛樣血管病變（moyamoya disease）是一種原發性進行性腦血管狹窄疾病，與外傷無關<br>(B) 錯誤，海綿狀血管畸形（cavernous malformation）是先天性血管異常，與外傷無關<br>(C) 正確，頸動脈–海綿竇瘻管（carotid-cavernous fistula）常由頭部外傷造成，特別是顱底骨折導致頸動脈破裂進入海綿竇<br>(D) 錯誤，微血管樣血管擴張（capillary telangiectasia）是先天性血管異常，與外傷無關",
+    "explanation": "頸動脈海綿竇瘻管是外傷相關的血管異常，頭部鈍傷與顱底骨折造成內頸動脈海綿竇段撕裂，與海綿竇直接相通。<br>(A) 錯誤。毛毛樣血管病變是原因不明的進行性腦血管狹窄疾病，不是外傷造成。<br>(B) 錯誤。海綿狀血管畸形為先天或家族性血管異常，亦可見於放射治療後，不是外傷造成。<br>(C) 正確。頸動脈海綿竇瘻管最常見的原因是外傷，特別是顱底骨折造成內頸動脈海綿竇段撕裂。<br>(D) 錯誤。微血管擴張為先天性血管異常，不是外傷造成。",
     "tags": [
       "114-1-5",
       "腦神經外科"
@@ -213,7 +213,7 @@
       "D": "頭部穿刺傷"
     },
     "answer": "C",
-    "explanation": "頭部外傷後的暈眩如果沒有其他危險徵象，可以先觀察。其他選項都是需要立即影像檢查的警示症狀。<br>(A) 錯誤，不明原因噴射式嘔吐3次提示顱內壓升高，需要馬上做電腦斷層檢查<br>(B) 錯誤，單側肢體肌力減少1分提示可能有顱內出血或腦損傷，需要馬上做電腦斷層檢查<br>(C) 正確，單純暈眩在頭部外傷後很常見，如果沒有其他神經學異常或危險因子，可以先觀察而不一定要馬上做電腦斷層攝影<br>(D) 錯誤，頭部穿刺傷屬於穿透性顱腦外傷，需要馬上做電腦斷層評估傷口深度和顱內損傷",
+    "explanation": "輕度頭部外傷是否需要立即 CT，依 Canadian CT Head Rule 與 NICE NG232（2023）的危險因子決定。<br>(A) 錯誤，嘔吐 ≥ 2 次（NICE 為多於 1 次）是 CT 適應症，不明原因噴射式嘔吐 3 次需要馬上做 CT。<br>(B) 錯誤，局部神經學缺損（如單側肢體肌力下降）是 NICE 需在 1 小時內做 CT 的條件。<br>(C) 正確，暈眩是腦震盪的常見症狀，不在 CT 適應症內，沒有其他危險因子時可先觀察並給予頭部外傷衛教。<br>(D) 錯誤，穿刺傷屬於穿透性顱腦外傷，需要做 CT 評估傷道、異物與顱內損傷。",
     "tags": [
       "114-1-5",
       "腦神經外科"
@@ -1266,7 +1266,7 @@
       "D": "bilateral subacute subdural hematoma"
     },
     "answer": "D",
-    "explanation": "78歲老年女性步態不穩和頭痛，影像顯示雙側新月形病灶，最可能是雙側亞急性硬腦膜下血腫，常見於老年人輕微頭部外傷後。<br>(A) 錯誤，蜘蛛膜下腔出血（subarachnoid hemorrhage）在CT上呈高密度，分布在腦溝和腦池，與題目描述不符<br>(B) 錯誤，腦膜瘤（meningioma）通常為單側、有強化效果的腫塊，與硬腦膜下血腫影像不同<br>(C) 錯誤，硬腦膜外血腫（epidural hematoma）呈雙凸透鏡狀（biconvex），不會跨越顱骨縫合線<br>(D) 正確，78歲老年女性一週來步態不穩和頭痛，雙側新月形（crescent-shaped）病灶，最可能是雙側亞急性硬腦膜下血腫（bilateral subacute subdural hematoma）。亞急性期（3天～3週）血腫密度可能等密度或低密度，老年人常因腦萎縮和輕微外傷後發生",
+    "explanation": "78 歲女性一週來步態不穩與頭痛，未注射顯影劑的 CT 可見兩側大腦凸面對稱的新月形腦外積液，密度接近腦實質至略低，因左右對稱而沒有明顯中線偏移，最可能是雙側亞急性硬腦膜下血腫。老年人腦萎縮使橋靜脈拉長，輕微外傷即可出血。<br>(A) 錯誤，蜘蛛膜下腔出血（subarachnoid hemorrhage）在 CT 呈高密度，分布在腦溝與腦池，不是沿顱骨內板的新月形積液<br>(B) 錯誤，腦膜瘤（meningioma）是以硬腦膜為基底、注射顯影劑後明顯強化的腫塊，與未注射顯影劑 CT 上的新月形積液不同<br>(C) 錯誤，硬腦膜外血腫（epidural hematoma）呈雙凸透鏡狀（biconvex），不會跨越顱縫，與新月形不符<br>(D) 正確，硬腦膜下血腫依時間在 CT 的密度不同：急性（約 3 天內）為高密度，亞急性（約 3 天~3 週）為等密度，慢性（約 3 週後）為低密度。雙側等密度血腫沒有中線偏移，僅見腦溝消失與腦室變小，容易漏看",
     "tags": [
       "114-1-5",
       "腦神經外科"
