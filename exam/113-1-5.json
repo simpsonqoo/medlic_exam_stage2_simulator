@@ -953,7 +953,7 @@
       "D": "單純性骨囊腫（simple bone cyst）好發於成年人的肱骨遠端"
     },
     "answer": "B",
-    "explanation": "骨腫瘤的診斷需考慮年齡、位置和影像特徵。<br>(A) 錯誤，Ollier disease是多發性內生軟骨瘤（multiple enchondromas），不合併血管瘤。合併血管瘤的稱為Maffucci syndrome<br>(B) 正確，軟骨母細胞瘤（chondroblastoma）：<br>· 好發於10-25歲青少年<br>· 典型位置：長骨骨骺（epiphysis）<br>· 常見部位：股骨近端、脛骨近端、肱骨近端<br>· 影像：溶骨性病灶，可能有鈣化<br>(C) 錯誤，骨巨大細胞瘤（giant cell tumor）：<br>· 局部侵襲性強<br>· 復發率可達20-50%<br>· 治療常需要廣泛切除（extended curettage）加上輔助治療（如phenol、bone cement）<br>· 不是「復發率極低」<br>(D) 錯誤，單純性骨囊腫（simple bone cyst）：<br>· 好發於兒童和青少年（5-15歲），不是成年人<br>· 好發於肱骨近端和股骨近端，不是肱骨遠端",
+    "explanation": "骨腫瘤的診斷需考慮年齡、位置和影像特徵。<br>(A) 錯誤，Ollier disease 是多發性內生軟骨瘤（multiple enchondromas），不合併血管瘤。合併軟組織血管瘤的稱為 Maffucci syndrome。<br>(B) 正確，軟骨母細胞瘤（chondroblastoma）好發於10~25歲青少年，典型位置為長骨骨骺（epiphysis），常見於股骨近端、脛骨近端與肱骨近端，影像為溶骨性病灶，可有鈣化。<br>(C) 錯誤，骨巨大細胞瘤（giant cell tumor）局部侵襲性強，手術以病灶內刮除為主，單純刮除的復發率最高（文獻約30~60%），改採延伸刮除（extended curettage，即病灶內刮除合併高速磨鑽與 phenol、骨水泥等輔助劑）可降至約10~20%，因此並非復發率極低。<br>(D) 錯誤，單純性骨囊腫（simple bone cyst）好發於兒童和青少年而非成年人，位置以肱骨近端和股骨近端為主，不是肱骨遠端。",
     "tags": [
       "113-1-5",
       "骨科"
@@ -970,7 +970,7 @@
       "D": "常規使用 vancomycin 或 clindamycin 減少手術傷口感染"
     },
     "answer": "A",
-    "explanation": "手術部位感染（surgical site infection）的預防是人工關節手術的重要課題。<br>(A) 正確，預防性抗生素使用原則：<br>· 選擇對常見致病菌有效的抗生素（如cefazolin，涵蓋Staphylococcus）<br>· 若對β-lactam過敏，可用vancomycin或clindamycin<br>· 適當選擇抗生素可顯著降低感染率<br>(B) 錯誤，預防性抗生素應在切開皮膚前30-60分鐘內給藥（對vancomycin則是60-120分鐘），而非120分鐘：<br>· 目的是在切開時血液和組織中已有有效濃度<br>· 過早給藥可能血中濃度不足<br>(C) 錯誤，預防性抗生素應在手術結束後24小時內停止，而非72小時：<br>· 大部分建議術後停止或最多24小時<br>· 延長使用不會降低感染率<br>· 反而增加抗藥性和副作用風險<br>(D) 錯誤，不應常規使用vancomycin或clindamycin：<br>· 僅用於β-lactam過敏或已知MRSA高風險<br>· 過度使用會導致抗藥性<br>· Cefazolin等第一代頭孢菌素是首選",
+    "explanation": "手術部位感染（surgical site infection）的預防是人工關節手術的重要課題。<br>(A) 正確，預防性抗生素應選擇對常見致病菌有效的藥物（如cefazolin，涵蓋Staphylococcus），對β-lactam過敏者可改用vancomycin或clindamycin，適當選擇抗生素可顯著降低感染率。<br>(B) 錯誤，預防性抗生素應在切開皮膚前60分鐘內給藥（vancomycin則為120分鐘內），而非120分鐘，目的是讓切開時血液和組織中已有有效濃度，過早給藥可能使血中濃度不足。<br>(C) 錯誤，預防性抗生素應在手術結束後24小時內停止，而非72小時，延長使用不會降低感染率，反而增加抗藥性和副作用風險。<br>(D) 錯誤，不應常規使用vancomycin或clindamycin，這兩者僅用於β-lactam過敏或已知MRSA高風險者，過度使用會導致抗藥性，cefazolin等第一代頭孢菌素是首選。",
     "tags": [
       "113-1-5",
       "骨科"
@@ -1072,7 +1072,7 @@
       "D": "常見頸部較長與頭頸活動度受限"
     },
     "answer": "A",
-    "explanation": "Klippel-Feil症候群是先天性頸椎異常，特徵是兩個或多個頸椎融合。<br>(A) 正確，Klippel-Feil症候群的病因是胚胎發育第3至8週時頸椎分節失敗，導致頸椎骨化中心未能正常分離，形成先天性頸椎融合<br>(B) 錯誤，常合併多系統異常，包括泌尿系統異常（腎臟發育不全約30%）、神經系統異常（脊髓空洞症、Chiari畸形）、心肺系統異常（先天性心臟病、肺發育不全）、聽力障礙（約30%），而非「很少合併」<br>(C) 錯誤，常見的是後髮際線低，而非較高。。經典三聯症包括：短頸、後髮際線低（low posterior hairline）、頸部活動受限<br>(D) 錯誤，頸部較短（不是較長）且頭頸活動度受限是典型表現",
+    "explanation": "Klippel-Feil 症候群是先天性頸椎異常，特徵是兩個或多個頸椎融合。<br>(A) 正確，Klippel-Feil 症候群的病因是胚胎第 3 至 8 週頸椎體節分節失敗（failure of segmentation），導致頸椎先天性融合。<br>(B) 錯誤，常合併多系統異常，包括泌尿生殖系統異常、神經系統異常（如脊髓空洞症、Chiari 畸形）、心血管異常與耳部異常（聽力障礙），而不是「很少合併」。<br>(C) 錯誤，常見的是後髮際線低（low posterior hairline），而不是較高。經典三聯徵包括頸部短縮、後髮際線低與頸部活動受限。<br>(D) 錯誤，頸部短縮（不是較長）且頭頸活動度受限才是典型表現。",
     "tags": [
       "113-1-5",
       "骨科"

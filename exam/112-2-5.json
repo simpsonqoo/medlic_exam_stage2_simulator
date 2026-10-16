@@ -956,7 +956,7 @@
       "D": "多樣藥化療（multidrug chemotherapy）可提高原發性骨淋巴瘤（primary lymphoma of the bone）的5年生存率"
     },
     "answer": "A",
-    "explanation": "圓形細胞瘤（round cell tumor）是一群以小圓形藍色細胞為特徵的腫瘤。<br>(A) 錯誤（最不適當），Ewing氏肉瘤家族的染色體易位應為t(11;22)(q24;q12)，而非t(21:22)。這個易位導致EWS基因（位於22號染色體）和FLI-1基因（位於11號染色體）融合，形成EWS-FLI1嵌合基因，約占85%的病例。其他少見易位包括t(21;22)導致EWS-ERG融合<br>(B) 正確，Ewing氏肉瘤是放射線敏感性腫瘤（radiosensitive tumor），放射治療是重要的局部控制方法，特別用於手術切緣不乾淨（positive margin）或無法手術的病例<br>(C) 正確，單發性原發性骨淋巴瘤（primary lymphoma of bone）預後相對較好，最常見的組織學類型是大細胞型或混合型（large cell type or mixed small and large cell type），通常是瀰漫性大B細胞淋巴瘤（DLBCL）<br>(D) 正確，多藥物化療（multidrug chemotherapy）可顯著提高原發性骨淋巴瘤的5年存活率，從單獨放療的約40-50%提升到化療加放療的60-80%<br>圓形細胞瘤包括：Ewing肉瘤、淋巴瘤、神經母細胞瘤、橫紋肌肉瘤（alveolar type）、小細胞骨肉瘤。",
+    "explanation": "圓形細胞瘤（round cell tumor）是一群以小圓形藍色細胞為特徵的腫瘤。<br>(A) 錯誤（最不適當），Ewing氏肉瘤家族的染色體易位應為t(11;22)(q24;q12)，而非t(21:22)。這個易位導致EWS基因（位於22號染色體）和FLI-1基因（位於11號染色體）融合，形成EWS-FLI1嵌合基因，約占85%的病例。其他少見易位包括t(21;22)導致EWS-ERG融合。<br>(B) 正確，Ewing氏肉瘤是放射線敏感性腫瘤（radiosensitive tumor），局部控制在可切除時以手術為主，手術切緣不乾淨（positive margin）或無法手術的病例則使用放射治療。<br>(C) 正確，單發性原發性骨淋巴瘤（primary lymphoma of bone）預後相對較多發性好，最常見的組織學類型是大細胞型或混合型（large cell type or mixed small and large cell type），通常是瀰漫性大B細胞淋巴瘤（DLBCL）。<br>(D) 正確，多藥物化療（multidrug chemotherapy）可提高原發性骨淋巴瘤的存活率，化療（單獨或合併放療）的預後優於單獨放療，現行以R-CHOP合併放療為主，各研究的5年總存活率約57~88%。<br>圓形細胞瘤包括：Ewing肉瘤、淋巴瘤、神經母細胞瘤、橫紋肌肉瘤（alveolar type）、小細胞骨肉瘤。",
     "tags": [
       "112-2-5",
       "骨科"
@@ -1024,7 +1024,7 @@
       "D": "肱骨外髁骨折（lateral condylar fracture of the humerus）"
     },
     "answer": "B",
-    "explanation": "Salter-Harris分類用於描述兒童生長板（骨骺，physis）的損傷。<br>Salter-Harris分類（記憶口訣SALTR）：<br>· Type I：只通過生長板（Slip）<br>· Type II：通過生長板和部分幹骺端（Above，最常見，約75%）<br>· Type III：通過生長板和部分骨骺（Lower）<br>· Type IV：通過骨骺、生長板、幹骺端（Through）<br>· Type V：生長板壓碎傷（Ruined/Rammed）<br>(A) 錯誤，鎖骨骨折（clavicle fracture）在兒童很常見，但通常是骨幹骨折，很少涉及生長板，因為鎖骨的生長板位於內側端，骨折通常在中段<br>(B) 正確，近端肱骨骨折（proximal humeral fracture）在兒童最常見的是Salter-Harris type II骨折，因為該處生長板相對較弱，容易在外傷時通過生長板和幹骺端骨折。近端肱骨的生長板貢獻80%的肱骨生長，但塑形能力強，預後通常良好<br>(C) 錯誤，肱骨髁上骨折（supracondylar fracture of humerus）是兒童最常見的肘部骨折，但發生在肱骨遠端髁上區域，不涉及生長板，是骨幹骨折<br>(D) 錯誤，肱骨外髁骨折（lateral condylar fracture）雖然涉及生長板，但通常是Salter-Harris type IV（通過骨骺、生長板、幹骺端），而非type II<br>Type II預後最好，因為生長層（germinal layer）位於骨骺側，通常不受影響。",
+    "explanation": "Salter-Harris分類用於描述兒童生長板（physis）的損傷，記憶口訣SALTR。Type I 只通過生長板（Slip），Type II 通過生長板與部分幹骺端（Above，最常見，約75%），Type III 通過生長板與部分骨骺（Lower），Type IV 通過骨骺、生長板與幹骺端（Through），Type V 為生長板壓碎傷（Ruined/Rammed）。<br>(A) 錯誤，鎖骨骨折（clavicle fracture）在兒童很常見，但通常是骨幹骨折，很少涉及生長板，因為鎖骨的生長板位於內側端，骨折通常在中段<br>(B) 正確，近端肱骨骨折（proximal humeral fracture）涉及生長板時，青少年最常見的是Salter-Harris type II，骨折線通過生長板和幹骺端。近端肱骨的生長板貢獻約80%的肱骨生長，塑形能力強，預後通常良好<br>(C) 錯誤，肱骨髁上骨折（supracondylar fracture of humerus）是兒童最常見的肘部骨折，骨折線位於肱骨遠端的幹骺端（metaphysis），不經生長板，不是骨幹骨折<br>(D) 錯誤，肱骨外髁骨折（lateral condyle fracture）雖然涉及生長板，但通常是Salter-Harris type IV（通過骨骺、生長板、幹骺端），而非type II<br>Type I 與 Type II 預後佳，因為生長層（germinal layer）位於骨骺側，通常不受影響。Type V 預後最差。",
     "tags": [
       "112-2-5",
       "骨科"
@@ -1078,7 +1078,7 @@
       "D": "一定要拔除人工關節，否則治療不會成功"
     },
     "answer": "D",
-    "explanation": "人工關節感染（prosthetic joint infection, PJI）是嚴重併發症，診斷和治療都具挑戰性。<br>(A) 正確，竇道（sinus tract）直通關節腔是PJI的病理性診斷標準（pathognomonic），幾乎100%確診為感染<br>(B) 正確，某些病患（約10-20%）的CRP不會升高，特別是慢性低毒性感染（如Propionibacterium acnes）或免疫抑制病患，不能單憑CRP正常排除感染<br>(C) 正確，關節液檢查的白血球計數標準：<br>· 急性PJI（術後＜3個月）：WBC ＞10,000 cells/μL 或 PMN ＞90%<br>· 慢性PJI（術後＞3個月）：WBC ＞3,000 cells/μL 或 PMN ＞80%<br>· 僅WBC ＞3,000 cells/μL不足以確診，需配合其他檢查（細菌培養、組織病理、發炎指數等）<br>(D) 錯誤（最不適當），不是所有PJI都「一定」要拔除人工關節。治療選擇取決於多種因素：<br>· 早期感染（術後＜3週）且人工關節穩定：可嘗試清創保留人工關節（debridement, antibiotics, and implant retention, DAIR）<br>· 慢性感染但細菌毒性低、病患不適合多次手術：長期抗生素抑制治療（chronic suppression）<br>· 大多數慢性PJI：需要分階段手術（two-stage revision）- 移除人工關節、放置抗生素骨水泥、數週抗生素治療後重置新關節<br>· 嚴重感染或不適合再手術：永久移除人工關節或截肢<br>診斷標準（MSIS或ICM）：主要標準（竇道、兩次培養同菌）或次要標準組合（CRP、ESR、synovial fluid、組織病理等）。",
+    "explanation": "人工關節感染（PJI）的診斷依 ICM 2018，處置依 IDSA 2013。<br>(A) 正確，與關節腔相通的竇道是 ICM 2018 的主要標準之一，符合即可確診。<br>(B) 正確，低毒力菌（如 Cutibacterium acnes）造成的慢性感染，CRP 與 ESR 可不升高，不能單憑 CRP 正常排除感染。<br>(C) 正確，ICM 2018 次要標準中，關節液白血球 &gt; 3,000 cells/μL（或白血球酯酶 ++）只計 3 分，要合併血清 CRP 或 D-dimer、ESR、PMN、alpha-defensin 等項目，術前總分 ≥ 6 才確診。急性 PJI（術後 90 天內）的切點較高，關節液白血球 &gt; 10,000 cells/μL、PMN &gt; 90%、血清 CRP &gt; 100 mg/L，慢性則為 &gt; 3,000 cells/μL 與 PMN &gt; 80%。<br>(D) 錯誤（最不適當），不一定要拔除人工關節。依 IDSA 2013，假體穩固、無竇道，且植入後約 30 天內或症狀少於 3 週的急性感染，可做清創、抗生素與保留假體（DAIR）。無法或拒絕再手術者可長期口服抗生素抑制。慢性 PJI 的標準處置是一階段或二階段置換，無法承受者才考慮切除關節成形、關節融合或截肢。",
     "tags": [
       "112-2-5",
       "骨科"

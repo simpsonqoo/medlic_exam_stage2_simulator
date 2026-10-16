@@ -953,7 +953,7 @@
       "D": "惡性周圍神經鞘瘤（malignant peripheral nerve sheath tumor）源自多病灶的第1型多發性神經纖維瘤（neurofibromatosis type 1），比源自良性的單獨神經纖維瘤（solitary neurofibroma）來得多"
     },
     "answer": "C",
-    "explanation": "軟組織肉瘤的發生率排序是此題核心，最常見為多形性未分化肉瘤（undifferentiated pleomorphic sarcoma），第二常見為脂肪肉瘤（liposarcoma），滑膜肉瘤並不在前兩位。<br>(A) 正確，腹腔外硬纖維瘤（extraabdominal desmoid tumor）又稱侵襲性纖維瘤病（aggressive fibromatosis），描述正確。<br>(B) 正確，多發性神經纖維瘤病（neurofibromatosis type 1）即馮雷克林豪森氏病（von Recklinghausen disease），描述正確。<br>(C) 錯誤，軟組織肉瘤中第二常見的是脂肪肉瘤（liposarcoma），而非滑膜肉瘤；應修正為：滑膜肉瘤並非第二常見的軟組織肉瘤，脂肪肉瘤才是第二常見。<br>(D) 正確，惡性周圍神經鞘瘤（malignant peripheral nerve sheath tumor）多源自第一型多發性神經纖維瘤病（neurofibromatosis type 1）的多病灶病變，比源自單獨良性神經纖維瘤者更為常見。",
+    "explanation": "軟組織肉瘤的發生率排序是此題核心，最常見為多形性未分化肉瘤（undifferentiated pleomorphic sarcoma），第二常見為脂肪肉瘤（liposarcoma），滑膜肉瘤並不在前兩位。<br>(A) 正確，腹腔外硬纖維瘤（extraabdominal desmoid tumor）又稱侵襲性纖維瘤病（aggressive fibromatosis），描述正確。<br>(B) 正確，多發性神經纖維瘤病（neurofibromatosis type 1）即馮雷克林豪森氏病（von Recklinghausen disease），描述正確。<br>(C) 錯誤，軟組織肉瘤中第二常見的是脂肪肉瘤（liposarcoma），而非滑膜肉瘤。應修正為：滑膜肉瘤並非第二常見的軟組織肉瘤，脂肪肉瘤才是第二常見。<br>(D) 正確，惡性周圍神經鞘瘤（malignant peripheral nerve sheath tumor）多源自第一型多發性神經纖維瘤病（neurofibromatosis type 1）的多病灶病變，比源自單獨良性神經纖維瘤者更為常見。",
     "tags": [
       "111-1-5",
       "骨科"
@@ -1072,7 +1072,7 @@
       "D": "因病人尚有骨骼生長的空間，故在施行後方側彎矯正、內固定及後側骨融合術（posterior correction, instrumentation and posterior fusion）時，須同時施行前側椎體間骨融合（anterior interbody fusion）來預防曲軸現象（crankshaft phenomenon），以免術後角度惡化"
     },
     "answer": "C",
-    "explanation": "青少年特發性脊椎側彎（adolescent idiopathic scoliosis）的治療決策依賴Cobb角度及骨骼成熟度（Risser stage）：Cobb角大於40至45度且骨骼仍在生長（Risser stage低）者應手術，而Risser stage 2代表骨骼尚未成熟，仍有曲軸現象（crankshaft phenomenon）風險，須評估是否需加做前側融合。<br>(A) 錯誤，觀察追蹤適用於Cobb角小於25度的輕度側彎，45度已超過手術閾值，僅觀察不足夠。<br>(B) 錯誤，背架治療（brace treatment）適用於Cobb角25至40度之間且骨骼尚在生長者，45度已達手術適應症，背架無法有效控制。<br>(C) 正確，Cobb角45度已達手術適應症，後方矯正固定融合術為標準手術；Risser stage 2雖仍在生長，但初經已來（通常初經後骨骼生長減緩），曲軸現象風險相對降低，單獨後方手術通常已足夠。<br>(D) 錯誤，曲軸現象（crankshaft phenomenon）的高風險族群是Risser stage 0至1且初經未至的患者，此患者Risser stage 2且初經已來，前側融合（anterior interbody fusion）並非必要，過度手術反而增加風險。",
+    "explanation": "青少年特發性脊椎側彎（adolescent idiopathic scoliosis）的治療決策依賴Cobb角度及骨骼成熟度（Risser stage）：Cobb 角約 45~50° 以上且骨骼仍在生長者應手術，標準術式是後方矯正、內固定與融合。曲軸現象（crankshaft phenomenon）的高風險族群是骨骼很不成熟者（Risser 0、三放射軟骨未閉合、尚未過身高生長高峰，女孩多在初經前）。<br>(A) 錯誤，觀察追蹤適用於Cobb角小於25度的輕度側彎，45度已超過手術閾值，僅觀察不足夠。<br>(B) 錯誤，背架治療（brace treatment）適用於Cobb角25至40度之間且骨骼尚在生長者，45度已達手術適應症，背架無法有效控制。<br>(C) 正確，Cobb角45度已達手術適應症，後方矯正固定融合術為標準手術。Risser stage 2雖仍在生長，但初經已來（通常初經後骨骼生長減緩），曲軸現象風險相對降低，單獨後方手術通常已足夠。<br>(D) 錯誤，曲軸現象（crankshaft phenomenon）的高風險族群是Risser stage 0至1且初經未至的患者，此患者Risser stage 2且初經已來，前側融合（anterior interbody fusion）並非必要，過度手術反而增加風險。",
     "tags": [
       "111-1-5",
       "骨科"

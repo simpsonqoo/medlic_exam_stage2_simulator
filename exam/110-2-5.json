@@ -951,7 +951,7 @@
       "D": "骨旁骨肉瘤(parosteal osteosarcoma)為低度惡性,最適當的治療方法是手術切除"
     },
     "answer": "B",
-    "explanation": "骨肉瘤（osteosarcoma）有多種亞型，各亞型的影像特徵、惡性程度及好發族群各異，需正確對應每個亞型的典型特徵。<br>(A) 正確，接受大劑量放射線治療後確實可能誘發放射線誘發骨肉瘤（radiation-induced osteosarcoma），是已知的晚期放射線傷害之一<br>(B) 錯誤，stuck-on appearance（附著外觀）是骨旁骨肉瘤（parosteal osteosarcoma）的典型影像特徵，表現為骨皮質外表面「黏附」一個緻密鈣化腫塊；骨膜骨肉瘤（periosteal osteosarcoma）的影像特徵則是Codman三角（Codman's triangle）及日射狀骨針（sunburst pattern），兩者特徵張冠李戴<br>(C) 正確，動脈瘤性骨囊腫（aneurysmal bone cyst, ABC）與微血管擴張性骨肉瘤（telangiectatic osteosarcoma）在影像上均呈現液-液平面（fluid-fluid level），形態相似，容易混淆，需靠切片鑑別<br>(D) 正確，骨旁骨肉瘤（parosteal osteosarcoma）為低度惡性（low grade），預後較佳，標準治療為廣泛手術切除，不需常規化療",
+    "explanation": "骨肉瘤（osteosarcoma）有多種亞型，各亞型的影像特徵、惡性程度及好發族群各異，需正確對應每個亞型的典型特徵。<br>(A) 正確，接受大劑量放射線治療後確實可能誘發放射線誘發骨肉瘤（radiation-induced osteosarcoma），是已知的晚期放射線傷害之一。<br>(B) 錯誤，stuck-on appearance（附著外觀）是骨旁骨肉瘤（parosteal osteosarcoma）的典型影像特徵，表現為骨皮質外表面「黏附」一個緻密鈣化腫塊。骨膜骨肉瘤（periosteal osteosarcoma）則位於骨幹皮質表面，影像表現為皮質增厚與垂直於皮質的骨針（perpendicular spicules），兩者特徵張冠李戴。<br>(C) 正確，動脈瘤性骨囊腫（aneurysmal bone cyst, ABC）與微血管擴張性骨肉瘤（telangiectatic osteosarcoma）在影像上均可呈現液-液平面（fluid-fluid level），形態相似，容易混淆，需靠切片鑑別。<br>(D) 正確，骨旁骨肉瘤（parosteal osteosarcoma）為低度惡性（low grade），預後較佳，標準治療為廣泛手術切除，不需常規化療。",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1002,7 +1002,7 @@
       "D": "Kim test用來檢查posterior instability"
     },
     "answer": "D",
-    "explanation": "肩關節不穩定的理學檢查有多種，各針對不同方向的不穩定，需正確對應檢查名稱與其所評估的方向。<br>(A) 錯誤，Jankle test（Jahnke test）並非標準的肩關節不穩定檢查名稱；前方不穩定（anterior instability）的標準檢查為apprehension test（憂慮測試）及relocation test<br>(B) 錯誤，apprehension test（憂慮測試）是用來檢查前方不穩定（anterior instability），讓肩關節外展外旋時若患者出現不安感或疼痛即為陽性，而非後方不穩定<br>(C) 錯誤，溝槽測試（sulcus test）是用來檢查下方不穩定（inferior instability），向下牽引上肢若肩峰下出現凹溝即為陽性，而非前方不穩定<br>(D) 正確，金氏測試（Kim test）讓患者坐姿外展90度，施加後下方壓力與軸向負荷，若誘發後方疼痛或不穩定感即為陽性，是診斷後方不穩定（posterior instability）的有效檢查",
+    "explanation": "肩關節不穩定的理學檢查各針對不同方向，需正確對應檢查名稱與其評估的方向。<br>(A) 錯誤，前方不穩定（anterior instability）的檢查為 apprehension test（憂慮測試）、relocation test 與 anterior drawer test，查無 Jahnke test 是前方不穩定的標準檢查。<br>(B) 錯誤，apprehension test 檢查前方不穩定，肩關節外展 90° 後外旋，病人出現即將脫位的不安感即為陽性，而非後方不穩定。<br>(C) 錯誤，溝槽測試（sulcus test）檢查下方不穩定（inferior instability），向下牽引上肢，肩峰下出現凹溝即為陽性，而非前方不穩定。<br>(D) 正確，金氏測試（Kim test）讓病人坐姿，肩外展 90°，對肘部施以軸向負荷並將手臂上抬約 45°，同時對上臂施以後下方壓力，後方突發疼痛或不穩定感即為陽性，用來診斷後方（後下方）不穩定（posterior instability）。",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1019,7 +1019,7 @@
       "D": "後外側 (posterolateral)"
     },
     "answer": "B",
-    "explanation": "先天性脛骨假關節（congenital pseudarthrosis of the tibia, CPT）與第一型神經纖維瘤病（NF-1）高度相關，其彎曲方向是診斷與預後的重要特徵。<br>(A) 錯誤，前內側彎曲（anteromedial bowing）通常為良性，與腓骨發育不全（fibular hemimelia）相關，不易骨折，多數可自然改善<br>(B) 正確，前外側彎曲（anterolateral bowing）是先天性脛骨假關節最典型的彎曲方向，與NF-1高度相關，骨質異常脆弱，容易在輕微外力下發生骨折並導致假關節（骨折不癒合），是治療最困難的先天性骨骼疾病之一<br>(C) 錯誤，後內側彎曲（posteromedial bowing）通常與鈣缺失性骨骼發育不良（calcaneovalgus deformity）相關，預後良好，大多可自然矯正，不易造成假關節<br>(D) 錯誤，後外側彎曲（posterolateral bowing）不是先天性脛骨假關節的典型方向，臨床上較少見",
+    "explanation": "先天性脛骨假關節（congenital pseudarthrosis of the tibia, CPT）與第一型神經纖維瘤病（NF-1）高度相關，其彎曲方向是診斷與預後的重要特徵。<br>(A) 錯誤，前內側彎曲（anteromedial bowing）與腓骨缺損（fibular hemimelia）相關，常伴下肢不等長與足部畸形，不是假關節的型態<br>(B) 正確，前外側彎曲（anterolateral bowing）是先天性脛骨假關節最典型的彎曲方向，約半數合併NF-1，三型彎曲中預後最差，彎曲處骨質異常脆弱，容易發生病理性骨折並導致骨折不癒合，是治療最困難的先天性骨骼疾病之一<br>(C) 錯誤，後內側彎曲（posteromedial bowing）與跟骨外翻足（calcaneovalgus foot）相關，脛骨彎曲多於出生後3~4年內隨生長自行改善，但常留下下肢不等長，需要追蹤並以對側生長板抑制術等處理<br>(D) 錯誤，後外側彎曲（posterolateral bowing）不是教科書分類的先天性脛骨彎曲型態",
     "tags": [
       "110-2-5",
       "骨科"

@@ -953,7 +953,7 @@
       "D": "許多腫瘤的病理組織裡會出現巨大細胞（giant cells）"
     },
     "answer": "C",
-    "explanation": "骨巨大細胞瘤雖可能復發，但肺部轉移的機率約1～5%，遠低於80%。即使轉移，通常生長緩慢且可能自發性消退。<br>(A) 正確，單純性骨囊腫（simple bone cyst）約半數發生在肱骨近端，X光影像可見\"fallen leaf\"或\"fallen fragment\"徵象，是病理性骨折後骨碎片掉入囊腫內的表現<br>(B) 正確，骨巨大細胞瘤（giant cell tumor）與RANK/RANKL系統失衡有關，腫瘤細胞過度表達RANKL刺激破骨細胞形成<br>(C) 錯誤，骨巨大細胞瘤肺部轉移的機率約1～5%，遠低於80%。即使復發也不代表會轉移，復發率雖可達10～50%，但轉移仍相對少見<br>(D) 正確，許多骨腫瘤的病理組織都會出現巨大細胞（giant cells），包括骨巨大細胞瘤、動脈瘤樣骨囊腫、軟骨母細胞瘤等，需綜合臨床和影像學鑑別診斷",
+    "explanation": "骨巨大細胞瘤雖可能復發，但肺部轉移的機率約1~5%，遠低於80%。即使轉移，通常生長緩慢且可能自發性消退。<br>(A) 正確，單純性骨囊腫（simple bone cyst）約半數發生在肱骨近端，X光影像可見\"fallen leaf\"或\"fallen fragment\"徵象，是病理性骨折後骨碎片掉入囊腫內的表現<br>(B) 正確，骨巨大細胞瘤（giant cell tumor）與RANK/RANKL系統失衡有關，腫瘤細胞過度表達RANKL刺激破骨細胞形成<br>(C) 錯誤，骨巨大細胞瘤肺部轉移的機率約1~5%，遠低於80%。即使復發也不代表會轉移，單純刮除的局部復發率可達約30~60%，但轉移仍相對少見<br>(D) 正確，許多骨腫瘤的病理組織都會出現巨大細胞（giant cells），包括骨巨大細胞瘤、動脈瘤樣骨囊腫、軟骨母細胞瘤等，需綜合臨床和影像學鑑別診斷",
     "tags": [
       "114-1-5",
       "骨科"
@@ -1072,7 +1072,7 @@
       "D": "可能併發症是monomer或血栓導致，嚴重時會休克、心臟停止"
     },
     "answer": "D",
-    "explanation": "骨水泥使用時可能因單體（monomer）釋放、脂肪栓塞或血栓導致嚴重併發症，包括低血壓、休克甚至心臟停止，稱為骨水泥植入症候群。<br>(A) 錯誤，骨水泥不是像黏膠一樣將人工關節黏在骨頭上，而是填充骨與假體間隙，形成機械性固定（mechanical interlock）<br>(B) 錯誤，骨水泥一般分為粉劑（powder）和液劑（liquid），粉劑是預聚合的聚合物（polymer），液劑是單體（monomer），而非液劑是polymer。儲存時需避光的是液劑（單體）<br>(C) 錯誤，骨水泥的聚合反應（polymerization）是放熱反應（exothermic reaction）而非吸熱反應，可產生高達80～100°C的溫度<br>(D) 正確，骨水泥可能的併發症包括骨水泥植入症候群（bone cement implantation syndrome），由單體（monomer）毒性、脂肪栓塞或血栓導致，嚴重時可造成低血壓、休克、心律不整甚至心臟停止",
+    "explanation": "骨水泥（PMMA）使用時可能發生骨水泥植入症候群（bone cement implantation syndrome），表現為低血氧、低血壓、心律不整，嚴重時休克甚至心跳停止。機轉不只一種，包括 MMA 單體（monomer）的血管擴張與毒性，以及髓腔內壓上升造成骨髓脂肪等栓塞。<br>(A) 錯誤，骨水泥不是黏膠，而是填充骨與假體間隙，靠機械性嵌合（mechanical interlock）固定。<br>(B) 錯誤，骨水泥分為粉劑（powder）與液劑（liquid）。粉劑是預聚合的 PMMA（polymer），液劑是 MMA 單體（monomer），需避光保存的是液劑，並非液劑是 polymer。<br>(C) 錯誤，聚合反應（polymerization）是放熱反應（exothermic reaction），不是吸熱反應。<br>(D) 正確，骨水泥植入症候群與單體毒性及骨髓脂肪等栓塞有關，嚴重時可造成低血壓、休克、心律不整甚至心跳停止。",
     "tags": [
       "114-1-5",
       "骨科"
@@ -1246,7 +1246,7 @@
       "D": "骨折（fracture）"
     },
     "answer": "C",
-    "explanation": "本題解題關鍵在於辨識惡性骨腫瘤（如骨肉瘤）在X光影像下的典型特徵，根據  的影像，箭頭處顯示腫瘤突破皮質骨後刺激周圍骨膜，形成放射狀的新生骨與科德曼氏三角（Codman triangle），這正是侵襲性骨病變的標誌。<br> (A) 錯誤，遊動體（loose body）通常是游離在「關節腔」內的游離骨或軟骨碎片，而箭頭所指位置是在骨幹至幹骺端（diaphysis to metaphysis）的皮質骨（cortical bone）外緣，並非關節腔內。<br> (B) 錯誤，雖然骨肉瘤（osteosarcoma）會向外侵犯形成軟組織腫塊並伴隨骨化，但箭頭明確指向源自皮質骨表面的針狀/放射狀新生骨邊緣，在影像學定義上這屬於骨膜反應（periosteal reaction），而非單純的軟組織鈣化（soft tissue calcification）。<br> (C) 正確，箭頭所指的特徵是腫瘤生長並破壞皮質骨後，刺激骨膜產生新生骨的骨膜反應（periosteal reaction），常見如日光放射狀（sunburst appearance）及科德曼氏三角（Codman triangle）。<br> (D) 錯誤，骨折（fracture）在X光影像上通常會出現破壞骨骼連續性的透射線裂痕（radiolucent fracture line），而箭頭處顯示的是向外增生、不規則的反應性骨質，並未見到明顯的骨折線。",
+    "explanation": "本題解題關鍵在於辨識惡性骨腫瘤（如骨肉瘤）在X光影像下的典型特徵，根據附圖，箭頭處顯示腫瘤突破皮質骨後刺激周圍骨膜，形成放射狀的新生骨與科德曼氏三角（Codman triangle），這正是侵襲性骨病變的標誌。<br> (A) 錯誤，遊動體（loose body）通常是游離在「關節腔」內的游離骨或軟骨碎片，而箭頭所指位置是在骨幹至幹骺端（diaphysis to metaphysis）的皮質骨（cortical bone）外緣，並非關節腔內。<br> (B) 錯誤，雖然骨肉瘤（osteosarcoma）會向外侵犯形成軟組織腫塊並伴隨骨化，但箭頭明確指向源自皮質骨表面的針狀/放射狀新生骨邊緣，在影像學定義上這屬於骨膜反應（periosteal reaction），而非單純的軟組織鈣化（soft tissue calcification）。<br> (C) 正確，箭頭所指的特徵是腫瘤生長並破壞皮質骨後，刺激骨膜產生新生骨的骨膜反應（periosteal reaction），常見如日光放射狀（sunburst appearance）及科德曼氏三角（Codman triangle）。<br> (D) 錯誤，骨折（fracture）在X光影像上通常會出現破壞骨骼連續性的透射線裂痕（radiolucent fracture line），而箭頭處顯示的是向外增生、不規則的反應性骨質，並未見到明顯的骨折線。",
     "tags": [
       "114-1-5",
       "骨科"
