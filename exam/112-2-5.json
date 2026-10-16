@@ -199,7 +199,7 @@
       "D": "後縱走韌帶，椎莖，椎關節"
     },
     "answer": "B",
-    "explanation": "Denis的三柱理論（three-column model）用於評估脊椎穩定性。<br>· Anterior column（前柱）：前縱走韌帶（anterior longitudinal ligament）、前半部椎體、前部椎間盤<br>· Middle column（中柱）：後縱走韌帶（posterior longitudinal ligament）、後半部椎體、後部椎間盤<br>· Posterior column（後柱）：椎弓根（pedicle）、椎板（lamina）、椎關節（facet joint）、棘突（spinous process）、棘上韌帶和棘間韌帶<br>(A) 錯誤，椎體全部屬於前柱和中柱，中柱只包含後半部椎體<br>(B) 正確，中柱包含後半部椎體和後縱走韌帶<br>(C) 錯誤，椎弓根屬於後柱，不屬於中柱<br>(D) 錯誤，這些結構都屬於後柱<br>中柱受損表示脊椎可能不穩定，需要手術治療。",
+    "explanation": "Denis 的三柱理論（three-column model）用於評估脊椎穩定性。前柱（anterior column）包括前縱走韌帶（anterior longitudinal ligament）、前半部椎體與前部椎間盤。中柱（middle column）包括後縱走韌帶（posterior longitudinal ligament）、後半部椎體與後部椎間盤。後柱（posterior column）包括椎弓根（pedicle）、椎板（lamina）、椎關節（facet joint）、棘突（spinous process）、棘上韌帶和棘間韌帶。<br>(A) 錯誤，椎體全部屬於前柱和中柱，中柱只包含後半部椎體。<br>(B) 正確，中柱包含後半部椎體和後縱走韌帶。<br>(C) 錯誤，椎弓根屬於後柱，不屬於中柱。<br>(D) 錯誤，這些結構都屬於後柱。<br>Denis 認為中柱是判斷穩定性的關鍵，中柱合併前柱或後柱損傷時屬於不穩定骨折，需評估手術治療。",
     "tags": [
       "112-2-5",
       "腦神經外科"
@@ -973,7 +973,7 @@
       "D": "給與支持性治療，必要時可加上類固醇治療"
     },
     "answer": "C",
-    "explanation": "此病患表現為長骨骨折術後意識改變、皮膚點狀出血，高度懷疑脂肪栓塞症候群（fat embolism syndrome, FES）。<br>(A) 正確，脂肪栓塞症候群的胸部X光可能呈現「暴風雪外觀」（snowstorm appearance）或雙側瀰漫性肺浸潤，類似ARDS<br>(B) 正確，脂肪栓塞症候群的三聯症（triad）：<br>· 呼吸窘迫和低血氧（respiratory distress and hypoxemia）<br>· 神經學症狀（意識改變、躁動、昏迷）<br>· 皮膚點狀出血（petechiae），特別在上半身、結膜、口腔黏膜<br>· 血小板低下（thrombocytopenia）也常見<br>(C) 錯誤（最不適當），此病患瞳孔正常、雙側等大、對光有反應，不符合腦壓升高的表現（應有瞳孔不等大、對光反射遲鈍或消失）。意識改變是因為脂肪栓塞導致腦部微血管栓塞，而非頭部外傷或腦壓升高。不應貿然使用mannitol，應先確認診斷，給予支持性治療<br>(D) 正確，脂肪栓塞症候群的治療主要是支持性治療：<br>· 氧氣治療或機械通氣<br>· 體液復甦<br>· 血小板和凝血因子補充（如需要）<br>· 類固醇治療有爭議，但某些情況可考慮使用<br>脂肪栓塞症候群通常發生在長骨骨折（特別是股骨、脛骨）或骨髓內固定術後24-72小時內。",
+    "explanation": "此病患表現為長骨骨折術後意識改變、皮膚點狀出血，高度懷疑脂肪栓塞症候群（fat embolism syndrome, FES）。<br>(A) 正確，脂肪栓塞症候群的胸部X光典型為雙側瀰漫性浸潤，呈暴風雪外觀（snowstorm appearance），類似ARDS，早期也可能正常。<br>(B) 正確，脂肪栓塞症候群的典型三聯徵為呼吸窘迫與低血氧、神經學症狀（意識改變、躁動、昏迷）、上半身皮膚點狀出血（特別在上半身、結膜、口腔黏膜）。血小板低下也常見。<br>(C) 錯誤（最不適當），此病患瞳孔正常、雙側等大、對光有反應，不符合腦壓升高的表現（應有瞳孔不等大、對光反射遲鈍或消失）。意識改變是因為脂肪栓塞導致腦部微血管栓塞，而非頭部外傷或腦壓升高。不應貿然使用mannitol，應先確認診斷，給予支持性治療。<br>(D) 正確，脂肪栓塞症候群以支持性治療為主，包括氧氣治療或機械通氣、體液復甦、必要時補充血小板和凝血因子。類固醇預防性使用可降低發生率，但治療效果證據不足，不是常規治療，必要時可考慮使用。<br>脂肪栓塞症候群通常發生在長骨骨折（特別是股骨、脛骨）或骨髓內固定術後12~72小時內。",
     "tags": [
       "112-2-5",
       "骨科"
@@ -1007,7 +1007,7 @@
       "D": "髕骨韌帶斷裂（patellar tendon rupture）"
     },
     "answer": "C",
-    "explanation": "年輕運動員膝關節受傷後出現「卡住」（locked knee）的典型症狀。<br>(A) 錯誤，內側副韌帶斷裂（medial collateral ligament tear）表現為膝內側疼痛、腫脹，外翻壓力測試陽性（valgus stress test），不會造成膝關節鎖住無法伸直<br>(B) 錯誤，前十字韌帶拉傷（anterior cruciate ligament injury）表現為膝關節腫脹、不穩定感、前抽屜測試或Lachman test陽性，通常不會造成膝關節完全鎖住，患者仍可部分活動<br>(C) 正確，半月板破裂（meniscal tear）特別是桶柄型撕裂（bucket-handle tear）的典型表現：<br>· 扭轉受傷機轉（twist injury）<br>· 膝關節鎖住（locking），無法完全伸直或彎曲<br>· 卡住感（catching）<br>· 疼痛，通常在內側或外側關節線<br>· McMurray test陽性<br>· X光通常正常（因為半月板是軟骨，X光看不到）<br>· 需要MRI確診<br>(D) 錯誤，髕骨韌帶斷裂（patellar tendon rupture）表現為髕骨上移（patella alta）、膝前腫脹、無法主動伸膝（extensor lag），可觸摸到韌帶缺損，X光可見髕骨位置異常<br>桶柄型半月板撕裂是內側半月板最常見的撕裂型態，破裂的部分翻入關節內導致機械性鎖住。",
+    "explanation": "年輕運動員膝關節受傷後出現「卡住」且無法伸直（真性鎖住，locked knee）的典型症狀。<br>(A) 錯誤，內側副韌帶斷裂（medial collateral ligament tear）表現為膝內側疼痛、腫脹，外翻壓力測試陽性（valgus stress test），不會造成膝關節鎖住無法伸直。<br>(B) 錯誤，前十字韌帶拉傷（anterior cruciate ligament injury）表現為膝關節腫脹、不穩定感、前抽屜測試或Lachman test陽性，通常不會造成膝關節完全鎖住，患者仍可部分活動。<br>(C) 正確，半月板破裂（meniscal tear）特別是桶柄狀撕裂（bucket-handle tear）的典型表現為扭轉受傷機轉（twist injury），縱向撕裂的中央碎片移位並翻入髁間窩，造成膝關節真性鎖住而無法完全伸直，並伴有卡住感（catching）及內側或外側關節線疼痛，McMurray test可呈陽性。X光通常正常（因為半月板是軟骨，X光看不到），疑似桶柄狀撕裂的鎖住膝可用MRI確認。<br>(D) 錯誤，髕骨韌帶斷裂（patellar tendon rupture）表現為髕骨上移（patella alta）、膝前腫脹、無法主動伸膝（extensor lag），可觸摸到韌帶缺損，X光可見髕骨位置異常。<br>桶柄狀撕裂是縱向撕裂的一種，多見於內側半月板，破裂的部分翻入關節內導致機械性鎖住。",
     "tags": [
       "112-2-5",
       "骨科"

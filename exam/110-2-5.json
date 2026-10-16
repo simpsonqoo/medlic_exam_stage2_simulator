@@ -968,7 +968,7 @@
       "D": "腔室內壓力正常值應低於10毫米汞柱,若超過30毫米汞柱以上就要懷疑有腔室症候群"
     },
     "answer": "B",
-    "explanation": "橫紋肌溶解症（rhabdomyolysis）的治療核心是大量補液以維持腎臟灌流、預防急性腎衰竭，與限水的原則完全相反。<br>(A) 正確，臨床上有腔室症候群（compartment syndrome）徵象時，應立即進行筋膜切開術（fasciotomy），不需等腔室壓力測量結果，以免延誤造成不可逆肌肉壞死<br>(B) 錯誤，橫紋肌溶解症（rhabdomyolysis）時，肌紅素（myoglobin）大量釋放，沉積於腎小管可造成急性腎衰竭（acute kidney injury），治療原則是大量靜脈補液（aggressive IV fluid resuscitation）以維持足夠尿量（>200 mL/hr），絕對不應限制水分；限水反而會加重腎損傷<br>(C) 正確，腔室症候群的5P徵象為：<br>· Pain（疼痛，最早且最重要）<br>· Paresthesia（感覺異常）<br>· Paralysis（麻痺）<br>· Pallor（蒼白）<br>· Pulselessness（脈搏消失，為晚期表現）<br>(D) 正確，腔室內壓力正常值低於10 mmHg，超過30 mmHg需懷疑腔室症候群；當腔室壓力與舒張壓差距（delta pressure）小於30 mmHg時，更應積極手術",
+    "explanation": "橫紋肌溶解症（rhabdomyolysis）的治療核心是大量補液以維持腎臟灌流、預防急性腎衰竭，與限水的原則完全相反。<br>(A) 正確，臨床上有腔室症候群（compartment syndrome）徵象時，應立即進行筋膜切開術（fasciotomy），不需等腔室壓力測量結果，以免延誤造成不可逆肌肉壞死。<br>(B) 錯誤，橫紋肌溶解症時肌紅素（myoglobin）大量釋放，沉積於腎小管可造成急性腎損傷（acute kidney injury），治療原則是積極靜脈輸液（aggressive IV fluid resuscitation）以維持足夠尿量（約 1~3 mL/kg/hr），不應限制水分，限水反而會加重腎損傷。<br>(C) 正確，腔室症候群的 5P 為疼痛（pain，最早且最重要）、感覺異常（paresthesia）、麻痺（paralysis）、蒼白（pallor）與脈搏消失（pulselessness，晚期表現）。<br>(D) 正確，腔室內壓力正常值低於 10 mmHg，超過 30 mmHg 需懷疑腔室症候群。腔室壓力與舒張壓的差距（delta pressure）小於 30 mmHg 時，更應積極手術。",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1070,7 +1070,7 @@
       "D": "Apley test是用來檢查膝關節半月狀軟骨是否破裂"
     },
     "answer": "D",
-    "explanation": "下肢各關節的理學檢查名稱與其所評估的結構需正確對應，常見的錯誤是將不同關節或不同結構的檢查混淆。<br>(A) 錯誤，特倫德倫堡徵象（Trendelenburg sign）陽性是指病人用患側單腳站立時，對側骨盆下沉（因患側臀中肌無力），而非用健側站立時出現的徵象，敘述方向相反<br>(B) 錯誤，托馬斯測試（Thomas test）是用來評估髖關節屈曲攣縮（hip flexion contracture）；阿基里斯腱斷裂（Achilles tendon rupture）的診斷檢查是湯普森測試（Thompson test），兩個名稱容易混淆<br>(C) 錯誤，後垂徵象（posterior sagging sign）是用來檢查後十字韌帶（posterior cruciate ligament, PCL）是否斷裂，患者仰臥屈膝90度時脛骨向後方下垂；前十字韌帶（ACL）的檢查是前拉測試（anterior drawer test）及Lachman test<br>(D) 正確，阿普利測試（Apley test）讓患者俯臥屈膝90度，施加軸向壓力並旋轉脛骨，若誘發疼痛代表半月板（meniscus）受損，是診斷膝關節半月板破裂的標準理學檢查",
+    "explanation": "下肢各關節的理學檢查名稱與其所評估的結構需正確對應，常見的錯誤是將不同關節或不同結構的檢查混淆。<br>(A) 錯誤，特倫德倫堡徵象（Trendelenburg sign）陽性是指病人用患側單腳站立時，對側骨盆下沉（因患側臀中肌無力），而非用健側站立時出現的徵象，敘述方向相反。<br>(B) 錯誤，托馬斯測試（Thomas test）是用來評估髖關節屈曲攣縮（hip flexion contracture）。阿基里斯腱斷裂（Achilles tendon rupture）的診斷檢查是湯普森測試（Thompson test），兩個名稱容易混淆。<br>(C) 錯誤，後垂徵象（posterior sagging sign）是用來檢查後十字韌帶（posterior cruciate ligament, PCL）是否斷裂，患者仰臥屈髖屈膝90度時脛骨向後方下垂。前十字韌帶（ACL）的檢查是前抽屜測試（anterior drawer test）及Lachman test。<br>(D) 正確，阿普利測試（Apley test）讓患者俯臥屈膝90度，施加軸向壓力並旋轉脛骨，若誘發疼痛代表半月板（meniscus）受損，是診斷膝關節半月板破裂的理學檢查。",
     "tags": [
       "110-2-5",
       "骨科"
@@ -1283,7 +1283,7 @@
       "D": "pressure"
     },
     "answer": "A",
-    "explanation": "腔室症候群（compartment syndrome）的5個P是臨床診斷的重要記憶口訣，其中「疼痛（pain）」是最早且最重要的徵象，「painless（無痛）」完全相反，不在5P之列。<br>腔室症候群的5P為：<br>· Pain（疼痛）——最早出現，被動牽拉時加劇（pain with passive stretch）<br>· Paresthesia（感覺異常）——神經缺血的早期表現<br>· Paralysis（麻痺）——肌肉及神經功能喪失，為較晚期表現<br>· Pallor（蒼白）——組織灌流不足<br>· Pulselessness（脈搏消失）——最晚期徵象，代表嚴重缺血<br>(A) 正確（不包含），painless（無痛）與腔室症候群的核心症狀「疼痛」完全相反，不屬於5P<br>(B) 錯誤（是5P之一），paresthesia（感覺異常）是神經缺血的早期表現，屬於5P<br>(C) 錯誤（是5P之一），pulselessness（脈搏消失）是5P之一，代表晚期嚴重缺血<br>(D) 錯誤（是5P之一），pressure（壓力增加）有時也被列入5P，腔室壓力升高是診斷的客觀依據",
+    "explanation": "腔室症候群（compartment syndrome）的 5P 是臨床診斷的重要記憶口訣，其中「疼痛（pain）」是最早且最重要的徵象，「painless（無痛）」完全相反，不在 5P 之列。<br>傳統的 5P 為疼痛（pain，最早出現，被動牽拉時加劇）、感覺異常（paresthesia，神經缺血的早期表現）、麻痺（paralysis，較晚期表現）、蒼白（pallor，組織灌流不足）與脈搏消失（pulselessness，最晚期徵象，代表嚴重缺血）。另一版本把 pressure（腔室觸診緊繃）列入 5P。<br>(A) 正確（不包含），painless（無痛）與腔室症候群的核心症狀「疼痛」完全相反，不屬於 5P。<br>(B) 錯誤（是 5P 之一），paresthesia（感覺異常）是神經缺血的早期表現，屬於 5P。<br>(C) 錯誤（是 5P 之一），pulselessness（脈搏消失）是 5P 之一，代表晚期嚴重缺血。<br>(D) 錯誤（是 5P 之一），pressure（壓力增加）在另一版本的 5P 中列入，腔室觸診緊繃與腔室壓力升高是診斷的客觀依據。",
     "tags": [
       "110-2-5",
       "骨科"

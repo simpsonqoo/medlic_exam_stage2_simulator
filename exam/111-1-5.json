@@ -970,7 +970,7 @@
       "D": "不穩定的骨盆骨折治療後，病人可能會有下背痛的後遺症"
     },
     "answer": "C",
-    "explanation": "骨盆骨折的併發症以出血、神經損傷及泌尿道損傷為主，腔室症候群是筋膜間室壓力升高所致，通常發生於四肢（如小腿、前臂），骨盆本身不構成腔室症候群的解剖環境，且骨盆骨折通常不直接導致大腿腔室症候群。<br>(A) 正確，多數骨盆骨折為穩定型，保守治療可獲得良好預後。<br>(B) 正確，骨盆骨折可能合併薦神經叢（sacral plexus）或坐骨神經（sciatic nerve）損傷，導致神經功能障礙。<br>(C) 錯誤，骨盆骨折並非大腿腔室症候群的常見原因；腔室症候群好發於小腿骨折（如脛骨骨折）或前臂骨折，骨盆骨折與大腿腔室症候群無直接關聯；應修正為：骨盆骨折的主要出血風險來自骨盆靜脈叢及骼動脈損傷，腔室症候群並非其常見併發症。<br>(D) 正確，不穩定骨盆骨折治療後可能留有薦髂關節（sacroiliac joint）不穩定或神經損傷，導致慢性下背痛（chronic low back pain）。",
+    "explanation": "骨盆骨折的主要併發症是出血、神經損傷與泌尿生殖道損傷，大腿腔室症候群並不常見。<br>(A) 正確，多數骨盆骨折為穩定骨折（尤其老年人低能量的恥骨支骨折），以止痛與早期活動的保守治療為主。<br>(B) 正確，骨盆骨折可能合併腰薦神經叢與 L5、S1 神經根損傷，導致神經功能障礙。<br>(C) 錯誤，大腿腔室症候群並非骨盆骨折的常見併發症。腔室症候群好發於小腿與前臂骨折，骨盆骨折的主要風險是骨盆靜脈叢與髂內動脈分支出血。<br>(D) 正確，不穩定骨盆骨折的後環損傷或癒合不良，可能留下薦髂關節疼痛與慢性下背痛。",
     "tags": [
       "111-1-5",
       "骨科"
@@ -987,7 +987,7 @@
       "D": "股骨頸骨折的Garden 分類法是根據位移的程度；而 Pauwels 分類法則根據骨折線（fracture line）跟水平面的交角"
     },
     "answer": "C",
-    "explanation": "張力帶鋼絲術（tension band wiring）的力學原理是此題關鍵，其設計是將肌肉拉力造成的張力（tension force）轉換為骨折斷面的壓縮力（compressive force），以促進骨折癒合，選項中的描述完全相反。<br>(A) 正確，Lauge-Hansen分類中旋後-外旋型（supination-external rotation）是腳踝骨折最常見的受傷機轉。<br>(B) 正確，Schatzker第一型為脛骨平台（tibial plateau）外側純劈裂型骨折（pure cleavage fracture），多見於年輕人因骨質較硬。<br>(C) 錯誤，張力帶鋼絲術的原理恰恰相反，是將張力（tensile force）轉換為壓縮力（compressive force），使骨折端緊密接合促進癒合；應修正為：張力帶鋼絲術是將骨折處的張力轉換為壓縮力，以穩定骨折並促進癒合。<br>(D) 正確，股骨頸骨折（femoral neck fracture）的Garden分類依位移程度分級，Pauwels分類依骨折線與水平面夾角分級，描述正確。",
+    "explanation": "張力帶鋼絲術（tension band wiring）的力學原理是此題關鍵，其設計是將肌肉拉力造成的張力（tension force）轉換為骨折斷面的壓縮力（compressive force），以促進骨折癒合，選項中的描述完全相反。<br>(A) 正確，Lauge-Hansen分類中旋後-外旋型（supination-external rotation）是腳踝骨折最常見的受傷機轉。<br>(B) 正確，Schatzker第一型為脛骨平台（tibial plateau）外側純劈裂型骨折（pure cleavage fracture），多見於年輕人因骨質較硬。<br>(C) 錯誤，張力帶鋼絲術的原理恰恰相反，是將張力（tensile force）轉換為壓縮力（compressive force），使骨折端緊密接合促進癒合。應修正為：張力帶鋼絲術是將骨折處的張力轉換為壓縮力，以穩定骨折並促進癒合。<br>(D) 正確，股骨頸骨折（femoral neck fracture）的Garden分類依位移程度分級，Pauwels分類依骨折線與水平面夾角分級，描述正確。",
     "tags": [
       "111-1-5",
       "骨科"
@@ -1319,7 +1319,7 @@
       "D": "血清肌酸激酶濃度（CPK）＞1000 IU/L"
     },
     "answer": "A",
-    "explanation": "腔室症候群（compartment syndrome）的確定診斷依賴直接測量筋膜腔室內壓力（intracompartmental pressure），臨床症狀（5P：pain、pallor、pulselessness、paresthesia、paralysis）可提示診斷，但壓力測量才是確診標準。<br>(A) 正確，腔室內壓力大於30 mmHg（或距舒張壓差小於30 mmHg，即delta pressure < 30 mmHg）是診斷腔室症候群並決定是否進行筋膜切開術（fasciotomy）的確定標準。<br>(B) 錯誤，血清肌酸酐（serum creatinine）升高反映腎功能受損，可能是腔室症候群的後期併發症，但無法用於確定診斷。<br>(C) 錯誤，血清鉀離子升高（hyperkalemia）是肌肉壞死釋放的結果，同樣為後期表現，非確診標準。<br>(D) 錯誤，血清肌酸激酶（creatine phosphokinase, CPK）升高提示肌肉損傷（横紋肌溶解，rhabdomyolysis），可輔助判斷嚴重程度，但非確定診斷腔室症候群的標準。",
+    "explanation": "腔室症候群（compartment syndrome）的確定診斷依賴直接測量筋膜腔室內壓力（intracompartmental pressure），臨床症狀（5P：pain、pallor、pulselessness、paresthesia、paralysis）可提示診斷，但壓力測量才是確診標準。<br>(A) 正確，腔室內壓力大於30 mmHg（或距舒張壓差小於30 mmHg，即delta pressure &lt; 30 mmHg）是診斷腔室症候群並決定是否進行筋膜切開術（fasciotomy）的確定標準。<br>(B) 錯誤，血清肌酸酐（serum creatinine）升高反映腎功能受損，可能是腔室症候群的後期併發症，但無法用於確定診斷。<br>(C) 錯誤，血清鉀離子升高（hyperkalemia）是肌肉壞死釋放的結果，同樣為後期表現，非確診標準。<br>(D) 錯誤，血清肌酸激酶（creatine phosphokinase, CPK）升高提示肌肉損傷（橫紋肌溶解，rhabdomyolysis），可輔助判斷嚴重程度，但非確定診斷腔室症候群的標準。",
     "tags": [
       "111-1-5",
       "骨科"
