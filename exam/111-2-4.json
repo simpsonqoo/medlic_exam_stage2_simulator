@@ -9,7 +9,7 @@
       "D": "Oxacillin + Clindamycin"
     },
     "answer": "D",
-    "explanation": "臨床表現像蜂窩性組織炎（Cellulitis），尤其考慮壞死性筋膜炎（Necrotizing fasciitis），需覆蓋金黃色葡萄球菌（Staphylococcus aureus）與鏈球菌（Streptococcus），含抗毒素藥物 Clindamycin。<br>(A) 錯誤，Ampicillin 無法涵蓋 MRSA 與耐藥鏈球菌。<br>(B) 錯誤，Oxacillin 可涵蓋 MSSA，但單用不足。<br>(C) 錯誤，Ampicillin + Gentamicin 偏向新生兒敗血症。<br>(D) 正確，Oxacillin + Clindamycin 可涵蓋 Staph/Strep 並抑制毒素。",
+    "explanation": "8 歲女童突發高燒、嘔吐腹瀉、低血壓、軀幹瀰漫性紅疹，加上蚊叮抓破處的皮膚軟組織感染，腦脊髓液正常，符合毒性休克症候群（toxic shock syndrome）。葡萄球菌與鏈球菌 TSS 無法區分時，經驗性治療需涵蓋兩者，並加上 clindamycin 抑制毒素生成。<br>(A) 錯誤，ampicillin 無法涵蓋產 penicillinase 的金黃色葡萄球菌，也沒有抑制毒素的作用。<br>(B) 錯誤，oxacillin 可涵蓋 MSSA 與鏈球菌，但未加 clindamycin，無法抑制毒素生成。<br>(C) 錯誤，ampicillin + gentamicin 為新生兒敗血症的經驗性治療，不涵蓋金黃色葡萄球菌。<br>(D) 正確，oxacillin 涵蓋葡萄球菌與鏈球菌，加上 clindamycin 抑制毒素生成。",
     "tags": [
       "111-2(四)",
       "小兒科"

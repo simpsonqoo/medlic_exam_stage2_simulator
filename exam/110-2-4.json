@@ -152,7 +152,7 @@
       "D": "可給與 N-acetylcysteine 治療"
     },
     "answer": "D",
-    "explanation": "NAC 為乙醯胺酚中毒解毒劑，可補充 glutathione 減少肝損傷。<br>(A) 錯誤，低血容量需處理。<br>(B) 錯誤，補液應選等張液體。<br>(C) 錯誤，低血鈉不應維持。<br>(D) 正確，NAC 是標準治療。",
+    "explanation": "Acetaminophen 中毒的解毒劑為 N-acetylcysteine（NAC），可補充 glutathione 中和毒性代謝物，已進展到肝衰竭或肝性腦病變（昏迷）者仍須給予。其餘以支持療法為主。<br>(A) 錯誤，低血容量需以等張輸液矯正。<br>(B) 錯誤，0.45% 食鹽水為低張液，補充低血容量應使用等張液。<br>(C) 錯誤，低血鈉應矯正，不應維持。<br>(D) 正確，NAC 是標準治療。",
     "tags": [
       "110-2(四)",
       "小兒科"
