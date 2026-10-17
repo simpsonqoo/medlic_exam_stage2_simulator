@@ -98,7 +98,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "連續性雜音（continuous murmur）需有貫穿收縮期與舒張期的持續壓力差，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula，PAVF）兩端壓力差不顯著，不會產生連續性雜音。<br>(A) 錯誤，中央分流管（central shunt）造成主動脈與肺動脈間持續壓力差，會產生連續性雜音<br>(B) 錯誤，冠狀動脈竇破裂至右心室（ruptured sinus of Valsalva aneurysm to right ventricle）因兩側持續壓力差而產生連續性雜音<br>(C) 錯誤，大型主動脈至肺動脈側枝血管（major aortopulmonary collateral arteries，MAPCAs）因持續壓力差而產生連續性雜音<br>(D) 正確，肺動脈－肺靜脈瘻管（pulmonary arteriovenous fistula）兩端均為低壓系統，壓力差不足以維持連續性雜音，通常聽到的是收縮期雜音或無明顯雜音",
+    "explanation": "連續性雜音需要收縮期與舒張期都存在的壓力差。(A) central shunt 為主動脈與肺動脈間的人工分流管，持續由主動脈流向肺動脈，會產生連續性雜音。(B) Valsalva 竇瘤破入右心室，主動脈壓在整個心動週期都高於右心室壓，會產生連續性雜音。(C) MAPCAs 為降主動脈到肺動脈的側枝血管，主動脈壓高於肺動脈壓，會產生連續性雜音。(D) 肺動靜脈瘻管為肺動脈血直接流入肺靜脈，肺野或背部也可聽到連續性雜音，常見於遺傳性出血性微血管擴張症，臨床上曾被誤認為 PDA。四個選項都可能聽到連續性雜音，沒有「最不會」的選項，因此本題公告一律給分。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -115,7 +115,7 @@
       "D": "法洛氏四重症（tetralogy of Fallot）"
     },
     "answer": "D",
-    "explanation": "肺動脈高壓（pulmonary hypertension）主要由左向右分流（left-to-right shunt）引起，造成肺血流增加；法洛氏四重症（tetralogy of Fallot，TOF）本身為右向左分流，肺血流量減少，因此最不會發展出肺動脈高壓。<br>(A) 錯誤，心房中隔缺損（atrial septal defect，ASD）為左向右分流，長期可導致肺動脈高壓，但進展較慢<br>(B) 錯誤，開放性動脈導管（patent ductus arteriosus，PDA）為左向右分流，若未及時處理可導致肺動脈高壓<br>(C) 錯誤，大血管轉位（dextro-loop transposition of the great arteries，d-TGA）常伴有大量肺血流，可導致肺動脈高壓<br>(D) 正確，法洛氏四重症（tetralogy of Fallot，TOF）因肺動脈狹窄（pulmonary stenosis）導致右向左分流，肺血流量減少，最不會出現肺動脈高壓",
+    "explanation": "肺動脈高壓（pulmonary hypertension）主要由左向右分流（left-to-right shunt）引起，造成肺血流增加，法洛氏四重症（tetralogy of Fallot，TOF）本身為右向左分流，肺血流量減少，因此最不會發展出肺動脈高壓。<br>(A) 錯誤，心房中隔缺損（atrial septal defect，ASD）為左向右分流，長期可導致肺動脈高壓，但進展較慢<br>(B) 錯誤，開放性動脈導管（patent ductus arteriosus，PDA）為左向右分流，若未及時處理可導致肺動脈高壓<br>(C) 錯誤，大血管轉位（dextro-loop transposition of the great arteries，d-TGA）常伴有大量肺血流，可導致肺動脈高壓<br>(D) 正確，法洛氏四重症（tetralogy of Fallot，TOF）因肺動脈狹窄（pulmonary stenosis）導致右向左分流，肺血流量減少，最不會出現肺動脈高壓",
     "tags": [
       "115-1-4",
       "小兒科"
