@@ -26,7 +26,7 @@
       "D": "Bartonella quintana"
     },
     "answer": "A",
-    "explanation": "典型臨床為淋巴結腫大，病原為 Bartonella henselae。<br>(A) 正確，Bartonella henselae 為主要病原。<br>(B) 錯誤，Brucella canis 為布氏桿菌。<br>(C) 錯誤，Burkholderia cepacia 與囊腫性纖維化有關。<br>(D) 錯誤，Bartonella quintana 為流浪漢熱。",
+    "explanation": "貓抓病由 Bartonella henselae 引起，經貓（貓蚤帶菌）抓咬傳播，典型表現為抓咬處丘疹與局部淋巴結腫大。<br>(A) 正確，B. henselae 是貓抓病的病原。<br>(B) 錯誤，Brucella canis 為布氏桿菌，與犬類接觸有關。<br>(C) 錯誤，Burkholderia cepacia 為院內感染菌，常見於囊腫性纖維化與慢性肉芽腫病患者。<br>(D) 錯誤，Bartonella quintana 引起戰壕熱（trench fever），由人體蝨傳播。",
     "tags": [
       "111-2(四)",
       "小兒科"
@@ -43,7 +43,7 @@
       "D": "熱性痙攣（Febrile convulsion）是可能的併發症"
     },
     "answer": "B",
-    "explanation": "典型臨床為嬰兒玫瑰疹（Roseola infantum），主要病原是 HHV-6，有時是 HHV-7。不是 HHV-8。<br>(A) 正確，診斷為 Roseola infantum。<br>(B) 錯誤，病原應為 HHV-6/7。<br>(C) 正確，Nagayama spots 為典型表現。<br>(D) 正確，熱性痙攣為常見併發症。",
+    "explanation": "8 個月女嬰高燒 3 天後退燒、軀幹出疹，為嬰兒玫瑰疹，主要病原為 HHV-6（以 HHV-6B 為主），少數為 HHV-7。HHV-8 與卡波西氏肉瘤有關。<br>(A) 正確，高燒數天後退燒時或退燒後出疹為玫瑰疹的典型病程。<br>(B) 錯誤，主要病原為 HHV-6，不是 HHV-8。<br>(C) 正確，亞洲病童可在懸雍垂與齶舌交界處見到永山斑（Nagayama spots）。<br>(D) 正確，熱性痙攣是玫瑰疹最常見的神經併發症。",
     "tags": [
       "111-2(四)",
       "小兒科"
@@ -247,7 +247,7 @@
       "D": "頻繁的肌跳躍（Myoclonic jerks）是重症前兆"
     },
     "answer": "A",
-    "explanation": "重症腸病毒應避免過度輸液，以免腦水腫或肺水腫。<br>(A) 錯誤，輸液需謹慎。<br>(B) 正確，好發於 5 歲以下。<br>(C) 正確，EV71 常引起腦幹炎。<br>(D) 正確，頻繁肌跳為警訊。",
+    "explanation": "腸病毒重症好發於未滿 5 歲幼童，腸病毒 71 型是腦幹腦炎 (Rhombencephalitis) 的主要病原之一，頻繁的肌躍型抽搐屬重症前兆。疾管署臨床處置建議指出，重症時輸液要在維持基本血壓的前提下適度給予，自主神經失調期每日水分以基本維持量的 70% 為原則，不可短時間內快速大量輸液。<br>(A) 錯誤，重症不可大量輸液。重症病人雖可能因口腔潰瘍而進食不足，但快速大量輸液會加重腦水腫與肺水腫。<br>(B) 正確，腸病毒重症以未滿 5 歲兒童居多。<br>(C) 正確，腸病毒 71 型為腦幹腦炎的主要病原之一。<br>(D) 正確，頻繁的肌躍型抽搐是重症前兆病徵之一。",
     "tags": [
       "111-2(四)",
       "小兒科"

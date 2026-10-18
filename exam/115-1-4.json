@@ -166,7 +166,7 @@
       "D": "呼吸暫停"
     },
     "answer": "B",
-    "explanation": "呼吸作功增加（increased work of breathing）的臨床表徵為輔助呼吸肌使用及氣道阻力上升的代償表現，包括鼻翼搧動（nasal flaring）、胸骨上凹陷（suprasternal retraction）等。<br>(A) 錯誤，頸部僵硬（neck stiffness）是腦膜刺激徵象（meningeal sign），與呼吸作功無關<br>(B) 正確，鼻翼搧動（nasal flaring）是嬰兒呼吸窘迫（respiratory distress）、呼吸作功增加的典型表徵<br>(C) 錯誤，頭部轉動不屬於呼吸作功增加的表現<br>(D) 錯誤，呼吸暫停（apnea）是呼吸驅力（respiratory drive）下降或衰竭的表現，不代表呼吸作功增加",
+    "explanation": "呼吸作功增加是呼吸窘迫時的代償表現，包括呼吸過速、鼻翼搧動（nasal flaring）、胸凹、呻吟聲，嬰兒另有點頭呼吸與蹺蹺板呼吸。呼吸中止則屬於呼吸費力不足，表示接近呼吸衰竭。<br>(A) 錯誤，頸部僵硬是腦膜刺激徵象，與呼吸作功無關。<br>(B) 正確，鼻翼搧動是嬰兒呼吸作功增加的典型表現。<br>(C) 錯誤，頭部轉動不屬於呼吸作功增加的表現（點頭呼吸 head bobbing 才是，指吸氣時頭部隨輔助肌用力而上下點動）。<br>(D) 錯誤，呼吸暫停（apnea）是呼吸驅力下降或呼吸肌疲乏的表現，屬於呼吸費力不足，不是呼吸作功增加。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -472,7 +472,7 @@
       "D": "可併發痙攣，但日後再發生癲癇的機率不會比一般人高"
     },
     "answer": "B",
-    "explanation": "嬰兒玫瑰疹（roseola infantum）的典型特徵是高燒數天後退燒，退燒後才出現皮疹（rash after defervescence），皮疹與發燒不會同時出現。<br>(A) 錯誤，玫瑰疹由人類疱疹病毒第6型（human herpesvirus 6，HHV-6）及第7型（HHV-7）引起<br>(B) 正確，玫瑰疹的皮疹出現在退燒之後，而非與發燒同時出現；皮疹多分布於軀幹（trunk），通常在退燒後1至2天出現並於數天內消退<br>(C) 錯誤，永山斑（Nagayama spots）是在懸壅垂（uvula）兩側出現的紅色丘疹或潰瘍，為HHV-6感染的特徵，常見於亞洲病童<br>(D) 錯誤，玫瑰疹可誘發熱性痙攣（febrile seizure），但日後發生癲癇（epilepsy）的機率與一般人相當，不會增加",
+    "explanation": "玫瑰疹的典型表現是突發高燒約 3 至 5 天，燒退時或退燒後才出現軀幹為主的粉紅色斑丘疹，因此皮疹與發燒同時出現的敘述不適當，答案為 (B)。<br>(A) 適當，玫瑰疹由 HHV-6（以 HHV-6B 為主）及 HHV-7 引起。<br>(B) 不適當，皮疹出現在燒退時或退燒後，不會與高燒同時出現，皮疹多分布在軀幹，通常持續 1 至 3 天，有時僅數小時。<br>(C) 適當，永山斑（Nagayama spots）是懸雍垂與軟顎交界處的紅色丘疹或潰瘍，常見於亞洲病童。<br>(D) 適當，玫瑰疹的熱性痙攣多為單純型，日後癲癇風險僅略高於一般人群。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -541,7 +541,7 @@
       "D": "感染後常出現感染後腎小球腎炎"
     },
     "answer": "A",
-    "explanation": "發燒、化膿性扁桃腺炎（purulent tonsillitis）、脾臟腫大、雙眼皮浮腫是傳染性單核球增多症（infectious mononucleosis，IM）的典型表現，由愛潑斯坦－巴爾病毒（Epstein-Barr virus，EBV）引起，常合併肝臟腫大及雙側頸部淋巴結腫大。<br>(A) 正確，EBV感染引起的傳染性單核球增多症（infectious mononucleosis）幾乎必定伴隨雙側頸部淋巴結腫大（bilateral cervical lymphadenopathy）及肝臟腫大（hepatomegaly），是其典型三聯徵之一<br>(B) 錯誤，EBV感染的特徵是非典型淋巴球（atypical lymphocyte）及淋巴球增多（lymphocytosis），而非嗜中性白血球（neutrophil）增多；診斷標準檢驗為異嗜性抗體試驗（heterophile antibody test，Monospot test）及EBV特異性抗體，而非血液培養<br>(C) 錯誤，雖然使用ampicillin等青黴素類（aminopenicillin）抗生素確實可能引起皮疹，但EBV感染引起的傳染性單核球增多症本身不需要抗生素治療<br>(D) 錯誤，感染後腎小球腎炎（post-infectious glomerulonephritis）是A群鏈球菌（group A Streptococcus）感染後的併發症，不是EBV感染的常見後遺症",
+    "explanation": "發燒、化膿性扁桃腺炎、脾臟腫大、雙眼皮浮腫是傳染性單核球增多症的典型表現，由 EB 病毒引起。<br>(A) 正確，淋巴結腫大多為雙側，前頸與後頸皆可侵犯，且常合併肝臟腫大。<br>(B) 錯誤，EBV 感染呈現淋巴球增多與非典型淋巴球，而非嗜中性白血球增多。診斷依據為嗜異性抗體試驗與 EBV 特異性抗體（VCA IgM），不是血液培養。<br>(C) 錯誤，EBV 為病毒感染，以支持療法為主，不需抗生素。使用 ampicillin 或 amoxicillin 的確常引起皮疹，但這不是需要抗生素治療的理由。<br>(D) 錯誤，感染後腎絲球腎炎是 A 群鏈球菌感染的併發症，不是 EBV 感染的後遺症。",
     "tags": [
       "115-1-4",
       "小兒科"
