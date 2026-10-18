@@ -200,7 +200,7 @@
       "D": "臨床診斷標準為嬰兒每天哭鬧時間大於 3 小時，一星期發生 3 天以上"
     },
     "answer": "C",
-    "explanation": "嬰兒腸絞痛（infantile colic）是排除性診斷，其定義特徵是健康且生長良好的嬰兒反覆哭鬧，生長遲滯（failure to thrive）代表有其他器質性疾病，應排除腸絞痛的診斷。<br>(A) 錯誤，腸絞痛定義上發生在小於5個月的嬰兒<br>(B) 錯誤，照顧者（caregiver）主訴是診斷腸絞痛的重要依據之一<br>(C) 正確，生長遲滯（growth retardation/failure to thrive）不是腸絞痛的表現，反而是需要尋找器質性病因的警示徵象（red flag），若出現此情況應排除腸絞痛診斷<br>(D) 錯誤，Wessel準則定義腸絞痛為每天哭鬧超過3小時，一週發生3天以上，持續3週以上（即「三個三」法則）",
+    "explanation": "公告答案為 (C)。依 Rome IV 臨床診斷標準，嬰兒腸絞痛必須沒有生長遲滯、發燒或疾病的證據，生長遲滯代表可能有器質性疾病，與腸絞痛的診斷矛盾，此敘述最不適當。<br>(A) 敘述適當，Rome IV 要求症狀開始與結束時嬰兒皆小於 5 個月。<br>(B) 敘述適當，Rome IV 臨床標準以照顧者回報反覆且持續的哭鬧為診斷依據。<br>(D) 每日哭鬧大於 3 小時、每週 3 天以上源自 Wessel 準則（再加上持續 3 週）與 Rome IV 研究用標準，Rome IV 臨床標準本身已不設時數門檻。公告答案未將此選項列為最不適當，但依 Rome IV 臨床標準，時數門檻已不是臨床診斷條件。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -217,7 +217,7 @@
       "D": "先天巨腸症（congenital aganglionic megacolon）"
     },
     "answer": "A",
-    "explanation": "膽汁性嘔吐（bilious vomiting，嘔吐物呈綠色）合併腹脹在新生兒或小嬰兒是腸道旋轉不良（malrotation）合併中腸扭結（midgut volvulus）的緊急警訊，低血鈉及代謝性酸中毒（metabolic acidosis）反映腸道缺血造成的嚴重全身性影響。<br>(A) 正確，腸道旋轉不良（malrotation）併中腸扭結（midgut volvulus）表現為膽汁性嘔吐、腹脹，合併代謝性酸中毒和電解質異常，符合本題所有描述，屬外科急症<br>(B) 錯誤，肥厚性幽門狹窄（hypertrophic pyloric stenosis）嘔吐物為非膽汁性（non-bilious），且會出現低氯低鉀代謝性鹼中毒（hypochloremic hypokalemic metabolic alkalosis），與本題不符<br>(C) 錯誤，先天腎上腺增生（congenital adrenal hyperplasia，CAH）可出現低血鈉及代謝性酸中毒，但通常不以膽汁性嘔吐為主要表現<br>(D) 錯誤，先天巨腸症（Hirschsprung disease）主要表現為便秘及腹脹，嘔吐不是主要特徵，且本題嬰兒每天有排便",
+    "explanation": "三個月大嬰兒反覆嘔吐綠色嘔吐物（膽汁性）併腹脹，pH 7.15、HCO3⁻ 16.5 mmol/L、PaCO2 28 mmHg，為代謝性酸中毒（呼吸代償），BUN/creatinine 52/1.5 mg/dL 反映嚴重脫水造成的腎前性氮血症。膽汁性嘔吐加上腸缺血與脫水的全身表現，要想到腸旋轉不良併中腸扭轉，屬外科急症。<br>(A) 正確，腸旋轉不良併中腸扭轉表現為突發膽汁性嘔吐與腹脹，腸缺血與脫水造成代謝性酸中毒，符合本題所有描述。<br>(B) 錯誤，肥厚性幽門狹窄為非膽汁性噴射狀嘔吐，因吐出胃酸造成低氯低鉀代謝性鹼中毒，且多在出生後 3~6 週發病，與本題酸中毒及綠色嘔吐物不符。<br>(C) 錯誤，失鹽型先天腎上腺增生的嘔吐為非膽汁性，多在出生後數週內因低血鈉、高血鉀與脫水發病，本題嘔吐物為綠色且鉀離子僅 5.1 mEq/L，不符。<br>(D) 錯誤，先天性巨結腸症的主要表現是胎便延遲排出、便秘與腹脹，嘔吐不是主要特徵，本題嬰兒每天都有排便，不符合。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -234,7 +234,7 @@
       "D": "實驗室血液檢驗中，脂肪酶（lipase）的特異性（specificity）比澱粉酶（amylase）高"
     },
     "answer": "B",
-    "explanation": "兒童急性胰臟炎（acute pancreatitis）最常見的藥物誘因是valproic acid（丙戊酸），而非ibuprofen。<br>(A) 錯誤，外傷（trauma）、感染及膽道或胰管結構異常確實是兒童急性胰臟炎的主要病因<br>(B) 正確，引起兒童急性胰臟炎最常見的藥物是valproic acid，而非ibuprofen；其他藥物包括L-asparaginase、6-mercaptopurine等<br>(C) 錯誤，Cullen sign（臍周藍紫色瘀血）確實是嚴重急性胰臟炎的體徵，代表腹腔內出血滲入皮下<br>(D) 錯誤，脂肪酶（lipase）對急性胰臟炎的特異性（specificity）確實高於澱粉酶（amylase）",
+    "explanation": "本題問何者最不適當，答案為 (B)。兒童急性胰臟炎常見的致病藥物包括 L-asparaginase、valproic acid、類固醇、azathioprine、6-mercaptopurine 等，ibuprofen 不是最常見的藥物。<br>(A) 敘述適當，兒童急性胰臟炎的病因以外傷、感染、藥物、全身性疾病及膽道或胰管結構異常為主，與成人以酒精與膽結石為主不同。<br>(C) 敘述適當，嚴重（出血壞死性）胰臟炎時後腹腔出血滲至皮下，臍周可見藍紫色瘀斑（Cullen sign），側腹則為 Grey Turner sign。<br>(D) 敘述適當，lipase 對胰臟炎的特異性高於 amylase，因為 amylase 也會在唾液腺疾病、腎衰竭、腸穿孔或腸梗塞時升高。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -1265,7 +1265,7 @@
       "D": "空腸閉鎖症"
     },
     "answer": "A",
-    "explanation": "出生兩天的女嬰嘔吐不止，上消化道攝影（upper GI series）是診斷新生兒腸道旋轉不良（malrotation）的重要影像學工具，典型表現為十二指腸空腸交接處（duodenojejunal junction）位置異常，呈「螺旋狀」或「鳥嘴狀」。<br>(A) 正確，中腸旋轉不良（malrotation）在上消化道攝影中顯示十二指腸空腸交接處（Treitz韌帶，ligament of Treitz）位置異常，偏離正常左上腹位置，若合併中腸扭結（midgut volvulus）可見「螺旋形」（corkscrew appearance）表現，是新生兒早期嘔吐最需優先排除的急症<br>(B) 錯誤，肥厚性幽門狹窄（hypertrophic pyloric stenosis）通常在出生後2至6週發病，上消化道攝影或腹部超音波（abdominal ultrasound）可見幽門肌肥厚（pyloric muscle hypertrophy）及胃出口阻塞（gastric outlet obstruction），不符合出生兩天即發病<br>(C) 錯誤，胃食道逆流（gastroesophageal reflux，GER）在新生兒常見，但上消化道攝影不會顯示阻塞性病變，且通常不會在出生後兩天即造成嘔吐不止<br>(D) 錯誤，空腸閉鎖症（jejunal atresia）上消化道攝影可見「三氣泡徵象」（triple bubble sign）或空腸近端擴張，但通常為胎兒期血管損傷造成，臨床表現為出生後膽汁性嘔吐及腹脹，需與malrotation鑑別",
+    "explanation": "出生兩天的女嬰嘔吐不止，上消化道攝影（UGI）是疑似腸旋轉不良併中腸扭轉的首選影像檢查。正常十二指腸空腸交界（DJ junction）位於脊椎左側且高度與幽門相近，旋轉不良時位於脊椎右側或低於幽門水平，扭轉時十二指腸呈螺旋狀（corkscrew）或鳥嘴狀截斷。本圖胃內充滿顯影劑，十二指腸盤繞呈螺旋狀，小腸腸氣擴張，符合此判讀。<br>(A) 正確，中腸旋轉不良的 UGI 表現為 DJ junction 位置異常與十二指腸螺旋狀外觀，是新生兒早期嘔吐須優先排除的外科急症。<br>(B) 錯誤，肥厚性幽門狹窄多在出生後 3~6 週發病，為非膽汁性噴射狀嘔吐，以腹部超音波診斷，不會在出生兩天即發病。<br>(C) 錯誤，胃食道逆流沒有阻塞性病變，UGI 不會出現 DJ junction 異常與螺旋狀十二指腸。<br>(D) 錯誤，空腸閉鎖在腹部 X 光呈三泡徵（triple bubble sign），遠端腸道無氣，沒有 DJ junction 位置異常或螺旋狀十二指腸。",
     "tags": [
       "115-1-4",
       "小兒科"
