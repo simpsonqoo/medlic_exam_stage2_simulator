@@ -251,7 +251,7 @@
       "D": "吉特曼氏症候群（Gitelman syndrome）"
     },
     "answer": "C",
-    "explanation": "低血鉀、低血氯、代謝性鹼中毒（metabolic alkalosis）、高腎素（renin）、高醛固酮（aldosterone）合併高尿鈣症（hypercalciuria），以及早產兒合併生長遲緩，是巴特氏症候群（Bartter syndrome）的典型表現，機轉為Henle氏環升枝（thick ascending limb of loop of Henle）鈉鉀氯共同轉運體（NKCC2）或相關通道異常。<br>(A) 錯誤，腎小管酸血症（renal tubular acidosis，RTA）表現為代謝性酸中毒（metabolic acidosis），與本題的高pH值及高碳酸根不符<br>(B) 錯誤，慢性腹瀉（chronic diarrhea）也會造成代謝性酸中毒及低鉀，與本題代謝性鹼中毒不符<br>(C) 正確，巴特氏症候群（Bartter syndrome）完全符合本題：低血鉀、低血氯、代謝性鹼中毒、高腎素、高醛固酮、高尿鈣症，且常見於早產兒<br>(D) 錯誤，吉特曼氏症候群（Gitelman syndrome）類似巴特氏症候群，但特徵是低尿鈣症（hypocalciuria）及低血鎂，不是高尿鈣症；且多在青少年或成人發病",
+    "explanation": "低血鉀、低血氯、代謝性鹼中毒（metabolic alkalosis）、高腎素（renin）、高醛固酮（aldosterone）合併高尿鈣症（hypercalciuria），以及早產兒合併生長遲緩，是巴特氏症候群（Bartter syndrome）的典型表現，機轉為Henle氏環升枝（thick ascending limb of loop of Henle）鈉鉀氯共同轉運體（NKCC2）或相關通道異常。<br>(A) 錯誤，腎小管酸血症（renal tubular acidosis，RTA）表現為代謝性酸中毒（metabolic acidosis），與本題的高pH值及高碳酸根不符<br>(B) 錯誤，慢性腹瀉（chronic diarrhea）也會造成代謝性酸中毒及低鉀，與本題代謝性鹼中毒不符<br>(C) 正確，巴特氏症候群（Bartter syndrome）完全符合本題：低血鉀、低血氯、代謝性鹼中毒、高腎素、高醛固酮、高尿鈣症，且常見於早產兒<br>(D) 錯誤，吉特曼氏症候群（Gitelman syndrome）類似巴特氏症候群，但特徵是低尿鈣症（hypocalciuria）及低血鎂，不是高尿鈣症，且多在青少年或成人發病",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -268,7 +268,7 @@
       "D": "鈣、磷電解質失調與 CKD 病童的血管鈣化有關"
     },
     "answer": "B",
-    "explanation": "兒童慢性腎臟病（chronic kidney disease，CKD）的身材矮小（short stature）主因是生長激素（growth hormone，GH）抵抗（resistance）及胰島素樣生長因子1（insulin-like growth factor-1，IGF-1）訊號傳遞異常，而非GH或IGF-1本身缺乏。<br>(A) 錯誤，5歲以下兒童CKD主因確實為先天腎臟與尿路異常（congenital abnormalities of kidney and urinary tract，CAKUT）<br>(B) 正確，兒童CKD身材矮小的主因是生長激素抵抗（GH resistance）及IGF-1訊號傳遞障礙，而非GH或IGF-1缺乏（deficiency）；事實上GH濃度通常正常甚至偏高<br>(C) 錯誤，CKD病童高血壓的首選藥確實是血管張力素轉化酶抑制劑（angiotensin-converting enzyme inhibitor，ACEI）或血管張力素受體阻斷劑（angiotensin receptor blocker，ARB），兼具腎臟保護作用<br>(D) 錯誤，鈣磷代謝異常確實與CKD病童血管鈣化（vascular calcification）有關",
+    "explanation": "兒童 CKD 的身材矮小主因是 GH 阻抗與 IGF-1 的作用受抑制（IGFBP 增加使游離 IGF-1 生物活性下降），GH 與 IGF-1 本身並非缺乏，因此敘述缺乏導致者最不適當。<br>(A) 正確，小於 5 歲兒童的 CKD 以先天腎臟與尿路異常（CAKUT）為主，較大兒童才以腎絲球疾病與遺傳性腎病為主。<br>(B) 錯誤（為本題答案），身材矮小的主因是 GH 阻抗，不是 GH 與 IGF-1 缺乏。<br>(C) 正確，CKD 病童高血壓的首選藥為 ACEI 或 ARB，兼具減少蛋白尿與腎臟保護作用。<br>(D) 正確，CKD-MBD 的鈣磷失調與病童的血管鈣化有關。",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -285,7 +285,7 @@
       "D": "導致孩童夜尿的原因很多，包括生理、心理或遺傳等因素"
     },
     "answer": "B",
-    "explanation": "夜尿（nocturnal enuresis）的首選治療應依照不同情況選擇，行為療法中的尿床警報器（enuresis alarm）才是第一線治療選擇，desmopressin為藥物治療選項之一但非首選。<br>(A) 錯誤，臨床定義夜尿為大於5歲兒童在睡眠中發生不自主排尿<br>(B) 正確，desmopressin acetate（去氨加壓素）雖是有效的藥物治療，但並非夜尿的首選治療；尿床警報器（enuresis alarm）才是目前建議的第一線治療，具有較持久的療效<br>(C) 錯誤，詳細病史及排除糖尿病（diabetes mellitus）、尿崩症（diabetes insipidus）、CKD等器質性疾病是正確的診療步驟<br>(D) 錯誤，夜尿的病因確實包含生理、心理及遺傳等多重因素",
+    "explanation": "Desmopressin 起效快，但停藥後復發率高。ICCS 2020 把遺尿警報器與 desmopressin 並列為單一症狀性遺尿的一線選項，NICE 則以警報器為一線，desmopressin 用於需要短期快速乾燥或不適合警報器者。鼻噴劑型因嚴重低血鈉風險，已不建議用於遺尿，只用口服劑型，因此「口服或鼻噴 desmopressin 是首選」的敘述最不適當。<br>(A) 適當，臨床定義為 5 歲以上兒童睡眠中的不自主排尿。<br>(B) 最不適當，鼻噴劑型不建議用於遺尿，且 desmopressin 不是唯一首選。<br>(C) 適當，需以詳細病史、理學與實驗室檢查排除糖尿病、尿崩症、慢性腎臟病等器質性疾病。<br>(D) 適當，病因包括夜間多尿、膀胱容量小或過動、睡眠覺醒障礙、遺傳與心理社會因素。",
     "tags": [
       "115-1-4",
       "小兒科"

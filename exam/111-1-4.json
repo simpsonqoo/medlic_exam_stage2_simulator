@@ -338,7 +338,7 @@
       "D": "腦部血管栓塞（Cerebral venous sinus thrombosis）"
     },
     "answer": "A",
-    "explanation": "解題關鍵是腎病症候群（nephrotic syndrome）復發時常見的神經學併發症：低血鈉（hyponatremia）、高凝狀態造成腦靜脈竇血栓（cerebral venous sinus thrombosis, CVST），以及類固醇脈衝治療與高血壓相關的可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES）都可能誘發癲癇。相較之下，顱內出血並非此情境最典型的併發症。<br> (A) 錯誤，顱內出血（intracranial hemorrhage）是四個選項中最不可能的原因；腎病症候群主要形成的是高凝狀態（hypercoagulable state），較容易造成血栓，而非自發性顱內出血。<br> (B) 正確，低血鈉（Hyponatremia）可發生於腎病症候群，因白蛋白流失造成血管內容積不足，活化RAAS使ADH上升，導致水分滯留引發低血鈉，嚴重時可造成抽搐。<br> (C) 正確，可逆性後腦病變症候群（Posterior reversible encephalopathy syndrome, PRES）是小兒腎病症候群的少見併發症，造成局部腦血管水腫，特徵為頭痛、視力障礙、癲癇發作及意識改變。<br> (D) 正確，腦部靜脈竇栓塞（Cerebral venous sinus thrombosis）因腎病症候群導致血栓形成因子增加、抗凝血因子從尿液流失，使血栓風險上升，可引起抽搐。",
+    "explanation": "解題關鍵是腎病症候群（nephrotic syndrome）復發時常見的神經學併發症：低血鈉（hyponatremia）、高凝狀態造成腦靜脈竇血栓（cerebral venous sinus thrombosis, CVST），以及類固醇脈衝治療與高血壓相關的可逆性後腦病變症候群（posterior reversible encephalopathy syndrome, PRES）都可能誘發癲癇。相較之下，顱內出血並非此情境最典型的併發症。<br> (A) 錯誤，顱內出血（intracranial hemorrhage）是四個選項中最不可能的原因，腎病症候群主要形成的是高凝狀態（hypercoagulable state），較容易造成血栓，而非自發性顱內出血。<br> (B) 正確，低血鈉（Hyponatremia）可發生於腎病症候群，因白蛋白流失造成血管內容積不足，活化RAAS使ADH上升，導致水分滯留引發低血鈉，嚴重時可造成抽搐。<br> (C) 正確，可逆性後腦病變症候群（Posterior reversible encephalopathy syndrome, PRES）是小兒腎病症候群的少見併發症，造成局部腦血管水腫，特徵為頭痛、視力障礙、癲癇發作及意識改變。<br> (D) 正確，腦部靜脈竇栓塞（Cerebral venous sinus thrombosis）因腎病症候群導致血栓形成因子增加、抗凝血因子從尿液流失，使血栓風險上升，可引起抽搐。",
     "tags": [
       "111-1(四)",
       "小兒科"
@@ -355,7 +355,7 @@
       "D": "吉特曼症候群（Gitelman syndrome）"
     },
     "answer": "B",
-    "explanation": "Fanconi症候群為近端腎小管功能缺陷，導致葡萄糖、胺基酸、磷酸鹽及重碳酸根大量流失，造成尿糖、蛋白尿及代謝性酸中毒。<br>(A) 錯誤，第四型RTA（Renal tubular acidosis type IV）通常合併高血鉀，不符合題目。<br>(B) 正確，典型臨床表現符合Fanconi症候群。<br>(C) 錯誤，Bartter症候群（Bartter syndrome）主要表現為低鉀、代謝性鹼中毒。<br>(D) 錯誤，Gitelman症候群（Gitelman syndrome）表現與Bartter類似，亦以代謝性鹼中毒為主。",
+    "explanation": "化學治療（如 ifosfamide、cisplatin）可傷害近曲小管，造成 Fanconi 症候群：糖尿但血糖正常、腎小管性蛋白尿、低血鉀，以及 HCO3⁻ 流失造成的正常陰離子間隙代謝性酸中毒（本例 AG = 146 − 115 − 18 = 13）。<br>(A) 錯誤，第 4 型腎小管酸血症為醛固酮缺乏或抗性，血鉀偏高，本例血鉀 2.8 mmol/L，且無糖尿與蛋白尿。<br>(B) 正確，近端腎小管多種物質再吸收缺損，符合本例表現。<br>(C) 錯誤，Bartter 症候群為低血鉀合併代謝性鹼中毒，本例 pH 7.2、HCO3⁻ 18 為酸中毒。<br>(D) 錯誤，Gitelman 症候群同樣為低血鉀合併代謝性鹼中毒，本例為酸中毒且有糖尿。",
     "tags": [
       "111-1(四)",
       "小兒科"

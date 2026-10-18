@@ -196,7 +196,7 @@
       "D": "使用藥物cyclosporine（calcineurin inhibitor）"
     },
     "answer": "B",
-    "explanation": "利尿劑 furosemide 會造成低血鉀，其餘皆可造成高血鉀。<br>(A) 正確，腎衰竭可導致高血鉀。<br>(B) 錯誤，furosemide 造成低血鉀。<br>(C) 正確，橫紋肌溶解釋放鉀離子。<br>(D) 正確，cyclosporine 可引起高血鉀。",
+    "explanation": "Furosemide 是 loop 利尿劑，增加腎臟排鉀，造成低血鉀，不會引起高血鉀，所以 (B) 最不可能。(A) 腎衰竭使鉀排出減少。(C) 橫紋肌溶解症使細胞內的鉀大量釋出。(D) Cyclosporine 等 calcineurin inhibitor 會減少腎小管排鉀，可造成高血鉀。",
     "tags": [
       "113-1(四)",
       "小兒科"
@@ -213,7 +213,7 @@
       "D": "藥物治療上建議使用thiazide類的利尿劑"
     },
     "answer": "B",
-    "explanation": "最常見基因缺陷為 AVPR2（X-linked recessive），而非 AQP2。<br>(A) 正確，遺傳多為 X-linked recessive。<br>(B) 錯誤，AVPR2 突變為主。<br>(C) 正確，需限制鈉攝取。<br>(D) 正確，thiazide 可治療。",
+    "explanation": "先天性腎源性尿崩症約 90% 由 AVPR2 基因（位於 Xq28，編碼基側膜 ADH 受器）突變造成，屬 X 性聯隱性遺傳，AQP2 基因（編碼頂端膜水通道蛋白 2）突變只佔約 10%，為體染色體隱性或顯性遺傳。<br>(A) 正確，最常見的遺傳模式是 X 性聯隱性（X-linked recessive）。<br>(B) 錯誤，大多數由 AVPR2 基因突變造成，不是 AQP2。<br>(C) 正確，低鈉飲食可減少腎小管的溶質負荷，減少尿量。<br>(D) 正確，thiazide 造成輕度血容積不足，使近端腎小管增加鈉與水的再吸收，減少到達遠端腎小管的水量而減少尿量。",
     "tags": [
       "113-1(四)",
       "小兒科"
@@ -230,7 +230,7 @@
       "D": "應積極的補充碳酸氫鈉（NaHCO3），以維持重碳酸鹽（HCO3）在20～26 mEq/L的範圍"
     },
     "answer": "D",
-    "explanation": "補充 HCO3 僅在嚴重酸中毒使用，不應積極維持至正常範圍。<br>(A) 正確，高血鉀 ECG 表現。<br>(B) 正確，Ca gluconate 穩定心肌。<br>(C) 正確，對 furosemide 無反應即停用。<br>(D) 錯誤，NaHCO3 不應常規補充。",
+    "explanation": "本題問何者最不適當。碳酸氫鈉（NaHCO3）只在嚴重酸中毒時使用，目標不是把 HCO3 維持在 20~26 mEq/L，過度補充會造成體液過多、高血鈉與離子化鈣下降而低血鈣抽搐，所以 (D) 不適當。(A) 高血鉀的心電圖早期為高尖 T 波與 ST 節段下降，接著 PR 延長、QRS 變寬。(B) 葡萄糖酸鈣可在數分鐘內穩定心肌細胞膜，但不會降低血鉀，降鉀需靠 insulin 加 glucose、β2 agonist、loop 利尿劑、陽離子交換樹脂或透析。(C) 水分補足後對 furosemide 完全無反應，表示利尿劑無益，應停用並限水。",
     "tags": [
       "113-1(四)",
       "小兒科"

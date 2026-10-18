@@ -220,7 +220,7 @@
       "D": "伊凡斯症候群 （Evans syndrome）"
     },
     "answer": "C",
-    "explanation": "HUS 三徵：微血管溶血性貧血、血小板低下、急性腎衰竭。<br>(A) 錯誤，白血病會見骨髓病變。<br>(B) 錯誤，ITP 僅血小板低下。<br>(C) 正確，符合 HUS 三徵。<br>(D) 錯誤，Evans syndrome 為 AIHA + ITP，與腎衰竭無關。",
+    "explanation": "本題同時有微血管病變性溶血性貧血（血紅素 4.5 g/dL、抹片有許多破碎紅血球 schistocytes）、血小板低下（50,000/μL）與急性腎損傷（BUN 90 mg/dL、creatinine 7.8 mg/dL），三者合併是溶血性尿毒症候群（Hemolytic uremic syndrome, HUS）的三聯徵。本例發生在肺炎之後，要想到肺炎鏈球菌（S. pneumoniae）相關的非典型 HUS。<br>(A) 錯誤，急性白血病（Acute leukemia）是骨髓浸潤造成血球低下，抹片可見芽細胞（blast），不會以破碎紅血球合併急性腎衰竭表現。<br>(B) 錯誤，免疫性血小板低下紫斑症（ITP）只有單純血小板低下，沒有溶血性貧血與腎衰竭。<br>(C) 正確，溶血性貧血伴破碎紅血球、血小板低下與急性腎衰竭，符合 HUS 三聯徵。<br>(D) 錯誤，伊凡斯症候群（Evans syndrome）是自體免疫溶血性貧血合併免疫性血小板低下，溶血由抗體造成（直接抗球蛋白試驗陽性），不是微血管病變，也不會造成急性腎衰竭。",
     "tags": [
       "110-2(四)",
       "小兒科"
@@ -237,7 +237,7 @@
       "D": "Renal scintigraphy with technetium-labeled dimercaptosuccinic acid（DMSA）"
     },
     "answer": "A",
-    "explanation": "IVP 為舊方法，現臨床上多用 Ultrasound、VCUG、DMSA 來評估。<br>(A) 正確，IVP 已不常用。<br>(B) 錯誤，腎臟超音波能評估結構異常。<br>(C) 錯誤，VCUG 可檢測 VUR。<br>(D) 錯誤，DMSA 可偵測腎實質病變。",
+    "explanation": "腎臟超音波用於找結構異常，VCUG 用於診斷膀胱輸尿管逆流與下尿路異常，DMSA 用於偵測腎實質發炎與腎疤痕，三者都是兒童泌尿道感染的標準評估工具。靜脈腎盂攝影 (IVP) 已被這些檢查取代，對評估價值最低。<br>(A) 最不具價值，IVP 已不用於兒童泌尿道感染的評估。<br>(B) 有價值，腎臟超音波是首次泌尿道感染後的建議檢查。<br>(C) 有價值，VCUG 可診斷逆流，在超音波異常或反覆發燒性感染時使用。<br>(D) 有價值，DMSA 可偵測急性腎盂腎炎的皮質缺損與日後的腎疤痕。",
     "tags": [
       "110-2(四)",
       "小兒科"
@@ -255,7 +255,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "此題標註一律給分，可能是因為題目設計有爭議或答案不夠明確。從理論上分析：<br>(A) 急性腸胃炎引起脫水屬於腎前性急性腎衰竭，尿鈉濃度通常較低（<20 mEq/L）<br>(B) 急性腎絲球腎炎屬於腎性急性腎衰竭，尿鈉濃度通常較高（>40 mEq/L）<br>(C) 藥物引起急性腎小管壞死屬於腎性急性腎衰竭，尿鈉濃度通常較高（>40 mEq/L）<br>(D) 泌尿道阻塞屬於腎後性急性腎衰竭，尿鈉濃度可能變異較大",
+    "explanation": "本題要找尿鈉濃度與其他三者不同的疾病。(A) 腸胃炎脫水屬腎前性，尿鈉 &lt;20 mEq/L，FENa &lt;1%。(C) 藥物引起的急性腎小管壞死屬腎因性，腎小管無法再吸收鈉，尿鈉 &gt;40 mEq/L，FENa &gt;2%。(B) 急性腎絲球腎炎雖屬腎因性，但腎小管功能仍保留，尿鈉常偏低，FENa 可 &lt;1%，與腎前性相近。(D) 泌尿道阻塞早期尿鈉偏低，腎臟受損後轉高，兩種結果都可能。因此 (B)、(D) 的尿鈉表現不固定，無法只挑出一個與其他三者不同的選項，本題公告一律給分。",
     "tags": [
       "110-2(四)",
       "小兒科"
@@ -323,7 +323,7 @@
       "D": "Adrenal crisis"
     },
     "answer": "A",
-    "explanation": "解題關鍵是「下視丘－腦下垂體手術（hypothalamic-pituitary surgery）後約 1 週」加上「低血鈉、低血漿滲透壓、尿液卻濃縮，且血管內容積正常」。這正符合術後約第 5–10 天常見的抗利尿激素不適當分泌症候群（syndrome of inappropriate antidiuretic hormone secretion, SIADH）。<br> (A) 正確，抗利尿激素不適當分泌症候群（SIADH）會造成水分滯留，形成低滲透壓性低血鈉；典型表現為血漿滲透壓低、尿滲透壓不適當升高、尿鈉升高，且臨床上呈正常血容量（euvolemia）。<br> (B) 錯誤，腦性鹽分流失症候群（cerebral salt wasting, CSW）也會有低血鈉與高尿鈉，但因腎臟大量流失鈉與水，患者會呈現低血容量（hypovolemia），而非本題的正常血管內容積。 <br> (C) 錯誤，中樞性尿崩症（central diabetes insipidus）是抗利尿激素（ADH）不足，會造成大量稀尿、尿滲透壓低，若水分補充不足通常出現高血鈉與高血漿滲透壓，與本題相反。<br> (D) 錯誤，腎上腺危象（adrenal crisis）可造成低血鈉，但通常伴隨低血壓、血容量不足等表現；若為原發性腎上腺功能不全還常見高血鉀，而本題正常血容量及濃縮尿的組合更支持 SIADH。",
+    "explanation": "解題關鍵是「下視丘－腦下垂體手術（hypothalamic-pituitary surgery）後約 1 週」加上「低血鈉、低血漿滲透壓、尿液卻濃縮，且血管內容積正常」。這正符合術後約第 5~10 天常見的抗利尿激素不適當分泌症候群（syndrome of inappropriate antidiuretic hormone secretion, SIADH）。<br> (A) 正確，抗利尿激素不適當分泌症候群（SIADH）會造成水分滯留，形成低滲透壓性低血鈉，典型表現為血漿滲透壓低、尿滲透壓不適當升高、尿鈉升高，且臨床上呈正常血容量（euvolemia）。<br> (B) 錯誤，腦性鹽分流失症候群（cerebral salt wasting, CSW）也會有低血鈉與高尿鈉，但因腎臟大量流失鈉與水，患者會呈現低血容量（hypovolemia），而非本題的正常血管內容積。 <br> (C) 錯誤，中樞性尿崩症（central diabetes insipidus）是抗利尿激素（ADH）不足，會造成大量稀尿、尿滲透壓低，若水分補充不足通常出現高血鈉與高血漿滲透壓，與本題相反。<br> (D) 錯誤，腎上腺危象（adrenal crisis）可造成低血鈉，但通常伴隨低血壓、血容量不足等表現，若為原發性腎上腺功能不全還常見高血鉀，而本題正常血容量及濃縮尿的組合更支持 SIADH。",
     "tags": [
       "110-2(四)",
       "小兒科"
