@@ -250,7 +250,7 @@
       "D": "pathergy test陽性是指用細針刺皮膚後24～48小時後產生pustular reaction"
     },
     "answer": "C",
-    "explanation": "Behçet 常見前葡萄膜炎，後葡萄膜炎不是最常見。<br>(A) 正確，口腔潰瘍會癒合不留疤。<br>(B) 正確，生殖器潰瘍會留疤。<br>(C) 錯誤，最常見為前葡萄膜炎。<br>(D) 正確，pathergy test 陽性定義正確。",
+    "explanation": "Behçet 病的葡萄膜炎多為反覆性雙側非肉芽腫性，以全葡萄膜炎（panuveitis）最常見（約 60%），單純前葡萄膜炎約 11%，後節病變以視網膜血管炎為特徵、與失明有關，因此「後葡萄膜炎為最常見」不適當。(A) 正確，口腔阿弗他潰瘍約 1~2 週內癒合，不留疤。(B) 正確，生殖器潰瘍較深，癒合後留疤。(C) 錯誤，最常見的是全葡萄膜炎，而不是後葡萄膜炎。(D) 正確，pathergy test 是用無菌針刺皮膚，24~48 小時後出現丘疹或膿皰反應。",
     "tags": [
       "112-1(四)",
       "小兒科"
@@ -267,7 +267,7 @@
       "D": "定期輸注intravenous immunoglobulin（IVIG）是有效的治療方法"
     },
     "answer": "B",
-    "explanation": "此病為 X-linked recessive，幾乎僅影響男性。<br>(A) 正確，為 B 細胞免疫缺陷。<br>(B) 錯誤，為 X-linked recessive。<br>(C) 正確，6–9 個月開始症狀。<br>(D) 正確，IVIG 有效治療。",
+    "explanation": "Bruton 無丙種球蛋白血症為 BTK 基因缺陷的 X 性聯隱性遺傳，好發於男性，男女比例不是 1:1。(A) 正確，為 B 細胞發育停滯的先天性免疫缺陷。(B) 錯誤，為 X 性聯隱性而非體染色體隱性，幾乎只有男性發病。(C) 正確，母體 IgG 消退後（約 6~9 個月）開始出現症狀。(D) 正確，定期輸注 IVIG 為有效治療。",
     "tags": [
       "112-1(四)",
       "小兒科"
@@ -284,7 +284,7 @@
       "D": "肺總容量（total lung capacity, TLC）"
     },
     "answer": "D",
-    "explanation": "氣喘時 PEF、FEV1、FEV1/FVC 都會下降，但 TLC 常正常或增加。<br>(A) 正確，PEF 下降。<br>(B) 正確，FEV1 下降。<br>(C) 正確，FEV1/FVC 下降。<br>(D) 錯誤，TLC 不會下降。",
+    "explanation": "氣喘發作時氣道阻塞，PEF、FEV1 與 FEV1/FVC 都下降。空氣滯留造成過度充氣，RV、FRC 上升，TLC 正常或上升，因此最不可能降低的是 TLC。(A) 會降低，PEF 下降。(B) 會降低，FEV1 下降。(C) 會降低，FEV1/FVC 下降，呈阻塞性型態。(D) 最不可能降低，TLC 正常或上升。",
     "tags": [
       "112-1(四)",
       "小兒科"
