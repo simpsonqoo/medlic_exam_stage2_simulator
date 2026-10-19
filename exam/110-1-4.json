@@ -305,7 +305,7 @@
       "D": "抽搐後可以短暫意識混亂"
     },
     "answer": "B",
-    "explanation": "Simple febrile seizure 應為廣泛型（generalized），持續時間 <15 分鐘，24 小時不再發作。<br>(A) 正確，<15 分鐘。<br>(B) 錯誤，應為廣泛型。<br>(C) 正確，24 小時不會再復發。<br>(D) 正確，可有短暫意識混亂。",
+    "explanation": "單純型熱性痙攣（simple febrile seizure，AAP 2011）為全身性（generalized）發作，持續少於 15 分鐘，24 小時內不再發作。局部性發作、持續超過 15 分鐘或 24 小時內再發，三者任一項即屬複雜型。<br>(A) 正確，單純型持續少於 15 分鐘。<br>(B) 錯誤，單純型為全身性發作，局部性抽搐屬複雜型的特徵。<br>(C) 正確，單純型 24 小時內不會再復發。<br>(D) 正確，發作後可有短暫嗜睡或意識混亂，通常於 1 小時內恢復。",
     "tags": [
       "110-1(四)",
       "小兒科"
@@ -322,7 +322,7 @@
       "D": "Becker muscular dystrophy"
     },
     "answer": "D",
-    "explanation": "Duchenne 與 Becker muscular dystrophy 均因 Dystrophin 蛋白異常。Becker 為較輕型。<br>(A) 錯誤，Myotonic dystrophy 為 CTG repeat 異常。<br>(B) 錯誤，Central core disease 為肌肉結構異常。<br>(C) 錯誤，SMA 為前角細胞退化。<br>(D) 正確，Becker 與 Dystrophin 有關。",
+    "explanation": "Dystrophin 蛋白質或量的異常造成的肌肉疾病是 Duchenne 與 Becker 肌失養症，兩者都是 DMD 基因突變，DMD 為 dystrophin 完全缺乏，BMD 為 dystrophin 量少或功能異常，症狀較輕。<br>(A) 錯誤，強直性肌失養症是 DMPK 基因 CTG 三核苷酸重複擴增，與 dystrophin 無關。<br>(B) 錯誤，Central core disease 是 RYR1 基因突變造成的先天性肌病變，肌肉切片可見肌纖維中央缺乏氧化酵素活性的核心，與惡性高熱相關。<br>(C) 錯誤，脊髓性肌肉萎縮症是 SMN1 基因缺失造成脊髓前角細胞退化，屬於運動神經元疾病，不是肌肉本身的疾病。<br>(D) 正確，Becker 肌失養症是 DMD 基因突變使 dystrophin 量減少或功能異常。",
     "tags": [
       "110-1(四)",
       "小兒科"
@@ -544,7 +544,7 @@
       "D": "患者體液或尿液的味道有時可提供診斷的線索"
     },
     "answer": "A",
-    "explanation": "多數為常染色體隱性遺傳，而非性聯。<br>(A) 錯誤，實為常染色體隱性。<br>(B) 正確，新生兒篩檢可早期診斷。<br>(C) 正確，臨床症狀常不特異。<br>(D) 正確，體味有助診斷。",
+    "explanation": "大多數先天性代謝異常（inborn errors of metabolism）為體染色體隱性遺傳，X 連鎖僅見於少數疾病，例如 OTC 缺乏症、Fabry 病、Hunter 症候群，因此 (A) 的敘述錯誤。<br>(B) 正確，新生兒篩檢以串聯質譜儀篩檢多種胺基酸、有機酸與脂肪酸代謝異常，可在發病前早期診斷。<br>(C) 正確，新生兒急性發作時多為拒食、嘔吐、嗜睡、呼吸急促等非特異性表現，常與敗血症無法區分。<br>(D) 正確，異戊酸血症為汗腳味，楓漿尿症為楓糖味，苯酮尿症為霉味或鼠尿味，體味可作為診斷線索。",
     "tags": [
       "110-1(四)",
       "小兒科"
@@ -561,7 +561,7 @@
       "D": "先天性腎上腺增生症：Androgen"
     },
     "answer": "D",
-    "explanation": "CAH篩檢測定為17-hydroxyprogesterone，而非androgen。<br>(A) 正確，PKU測phenylalanine。<br>(B) 正確，高胱胺酸尿症測methionine。<br>(C) 正確，先天性甲低測TSH。<br>(D) 錯誤，應為17-OHP。",
+    "explanation": "新生兒篩檢先天性腎上腺增生症檢測的是 17-OHP（17-hydroxyprogesterone），不是 androgen，因此 (D) 錯誤。<br>(A) 正確，苯酮尿症測 phenylalanine。<br>(B) 正確，高胱胺酸尿症測 methionine。<br>(C) 正確，先天性甲狀腺低能症測 TSH。",
     "tags": [
       "110-1(四)",
       "小兒科"
