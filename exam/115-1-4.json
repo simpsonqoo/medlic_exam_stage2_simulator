@@ -336,7 +336,7 @@
       "D": "葉酸缺乏（folate deficiency）"
     },
     "answer": "B",
-    "explanation": "大球性貧血（macrocytic anemia）的特徵是平均紅血球容積（mean corpuscular volume，MCV）偏高；鉛中毒（lead poisoning）主要造成小球性或正球性（microcytic or normocytic）貧血，並影響血紅素合成，不屬於大球性貧血。<br>(A) 錯誤，硫胺素反應性貧血（thiamine-responsive megaloblastic anemia）屬於巨球性貧血（megaloblastic anemia），MCV偏高<br>(B) 正確，鉛中毒（lead poisoning）主要造成小球性或正球性貧血（因血基質合成受阻），並非大球性貧血，因此不屬於此類別<br>(C) 錯誤，范可尼貧血（Fanconi anemia）常伴隨大球性貧血及骨髓衰竭（bone marrow failure）<br>(D) 錯誤，葉酸缺乏（folate deficiency）是經典的巨球性大球性貧血病因",
+    "explanation": "大球性貧血（macrocytic anemia）的特徵是平均紅血球容積（mean corpuscular volume，MCV）偏高，鉛中毒（lead poisoning）主要造成小球性或正球性（microcytic or normocytic）貧血，並影響血紅素合成，不屬於大球性貧血。<br>(A) 錯誤，硫胺素反應性貧血（thiamine-responsive megaloblastic anemia）屬於巨球性貧血（megaloblastic anemia），MCV偏高<br>(B) 正確，鉛中毒（lead poisoning）主要造成小球性或正球性貧血（因血基質合成受阻），並非大球性貧血，因此不屬於此類別<br>(C) 錯誤，范可尼貧血（Fanconi anemia）常伴隨大球性貧血及骨髓衰竭（bone marrow failure）<br>(D) 錯誤，葉酸缺乏（folate deficiency）是經典的巨球性大球性貧血病因",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -353,7 +353,7 @@
       "D": "嗜鉻細胞瘤（pheochromocytoma）：陣發性高血壓（paroxysmal hypertension）、蒼白（pallor）、冒冷 汗（sweating）、高尿液游離後腎上腺髓素濃度（high urine metanephrine level）"
     },
     "answer": "B",
-    "explanation": "松果體母細胞腫瘤（pineoblastoma）位於松果體區（pineal region），壓迫鄰近結構，其臨床表現應與松果體及中腦導水管（cerebral aqueduct）周圍解剖相關，尿崩症、乳溢、甲狀腺機能亢進並非其典型表現。<br>(A) 錯誤，類卡波西血管內皮細胞瘤（Kaposiform hemangioendothelioma）可誘發Kasabach-Merritt現象，表現為血小板下降（thrombocytopenia）、瘀血紫斑及微血管病性溶血性貧血（microangiopathic hemolytic anemia）<br>(B) 正確，松果體母細胞腫瘤（pineoblastoma）的典型表現為腦積水（hydrocephalus）引起的頭痛嘔吐、Parinaud症候群（上視麻痺）及性早熟（precocious puberty）；尿崩症是下視丘或腦下垂體病變的表現，乳溢和甲狀腺機能亢進亦非松果體腫瘤的典型表現<br>(C) 錯誤，威爾姆氏腫瘤（Wilms tumor）可表現為血尿、腹腔腫塊，並可因腫瘤產生組織因子（tissue factor）導致凝血異常，包括部分凝血活酶時間（partial thromboplastin time，PTT）延長<br>(D) 錯誤，嗜鉻細胞瘤（pheochromocytoma）分泌大量兒茶酚胺（catecholamine），典型表現為陣發性高血壓、蒼白、冒冷汗，尿液游離後腎上腺髓素（metanephrine）升高為重要診斷依據",
+    "explanation": "松果體區腫瘤壓迫第三腦室後方與中腦導水管周圍結構，典型表現為阻塞性水腦與 Parinaud 症候群。尿崩症屬鞍上區（下視丘腦下垂體）生殖細胞瘤的表現，故 (B) 最不適當。<br>(A) 正確，類卡波西血管內皮細胞瘤（Kaposiform hemangioendothelioma）可併發 Kasabach-Merritt 現象，表現為血小板下降、瘀血紫斑與凝血病變，並可見微血管病性溶血性貧血。<br>(B) 錯誤，松果母細胞瘤（pineoblastoma）以水腦引起的頭痛嘔吐與 Parinaud 症候群（上視麻痺、光近反射分離）為主。尿崩症是鞍上區生殖細胞瘤侵犯下視丘與腦下垂體所致，性早熟見於分泌 β-hCG 的生殖細胞瘤（以男童為主），乳溢與甲狀腺機能亢進皆非松果體區腫瘤的典型表現。<br>(C) 正確，威爾姆氏腫瘤（Wilms tumor）可表現為腹部腫塊與血尿，約 4% 合併後天性 von Willebrand 病，使部分凝血活酶時間（aPTT）延長。<br>(D) 正確，嗜鉻細胞瘤（pheochromocytoma）分泌大量兒茶酚胺，典型表現為陣發性高血壓、蒼白與冒冷汗，尿液游離 metanephrine 升高是重要診斷依據。",
     "tags": [
       "115-1-4",
       "小兒科"

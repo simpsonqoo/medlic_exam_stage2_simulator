@@ -434,7 +434,7 @@
       "D": "Chronic myelogenous leukemia（CML）"
     },
     "answer": "C",
-    "explanation": "唐氏症兒童最常見 AML，特別是巨核細胞亞型（M7）。<br>(A) 錯誤，T-ALL 與唐氏症無關。<br>(B) 錯誤，B-ALL 雖常見，但唐氏症更高風險 AML。<br>(C) 正確，特別是 AML-M7。<br>(D) 錯誤，CML 與唐氏症無顯著關聯。",
+    "explanation": "唐氏症兒童 ALL 與 AML 風險都增加，以 AML 增加幅度最大：相較一般兒童，ALL 約增加 20~30 倍，5 歲前 AML 約 400 倍，5 歲前 AMKL 約 1500 倍（Marlow 2021），主要是與 GATA1 突變有關的急性巨核母細胞白血病（AMKL，M7）。公告答案 C 是依風險增加幅度與幼兒期的主要類型作答。若以病例總數計，唐氏症兒童的 ALL（多為 B 前驅細胞型）仍多於 AML（ALL：AML 約 1.7：1，Mateos 2015）。<br>(A) 錯誤，唐氏症相關 ALL 多為 B 前驅細胞型，不是 T 細胞型。<br>(B) 公告不給分。唐氏症兒童 B-ALL 風險約增加 20~30 倍，增加幅度不及 AML，但以病例總數計 B-ALL 多於 AML。<br>(C) 正確（公告答案），AML 風險增加最多，特別是 5 歲前的 AMKL（M7）。<br>(D) 錯誤，唐氏症兒童風險增加集中在急性白血病（ALL 與 AML），CML 不是其典型的白血病類型。",
     "tags": [
       "111-2(四)",
       "小兒科"
@@ -451,7 +451,7 @@
       "D": "如果病人有嚴重的口腔黏膜炎（Mucositis），且已使用 quinolone 類藥物做預防性抗生素，仍應給與 Vancomycin"
     },
     "answer": "A",
-    "explanation": "Vancomycin 必須緩慢輸注以避免紅人症（Red man syndrome），即使休克也不可快速推注。<br>(A) 錯誤，不能快速輸注。<br>(B) 正確，導管感染需用。<br>(C) 正確，MRSA 菌落史需考慮。<br>(D) 正確，嚴重黏膜炎合併 fluoroquinolone 預防也需加用。",
+    "explanation": "Vancomycin 輸注過快會使組織胺釋放，造成萬古黴素輸注反應（舊稱紅人症候群），每劑應至少 60 分鐘緩慢輸注，休克時也不能縮短到 10 分鐘內，所以 (A) 不恰當。依 IDSA 2010，發燒性嗜中性球低下的經驗性治療加 vancomycin 的適應症包括血行動力不穩或嚴重敗血症、X 光證實的肺炎、血液培養出現革蘭氏陽性菌尚未鑑定、臨床懷疑嚴重導管相關感染、皮膚或軟組織感染、MRSA／VRE／PRSP 菌落形成，以及嚴重黏膜炎且已使用 fluoroquinolone 預防並以 ceftazidime 為經驗性治療。兒科指引 Lehrnbecher 2023 較保守，只建議在臨床不穩、疑似抗藥菌感染或機構抗藥率高時加 glycopeptide。<br>(A) 不恰當，休克是加 vancomycin 的適應症，但仍需至少 60 分鐘輸注，不可快速給予。<br>(B) 恰當，臨床懷疑嚴重導管相關感染為適應症。<br>(C) 恰當，已知 MRSA 菌落形成為適應症。<br>(D) 恰當，嚴重黏膜炎合併 quinolone 預防為適應症。",
     "tags": [
       "111-2(四)",
       "小兒科"

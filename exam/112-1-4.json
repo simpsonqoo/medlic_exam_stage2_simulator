@@ -318,7 +318,7 @@
       "D": "開始鐵劑補充約莫2至3天後，抽血可見網狀紅血球增多（reticulocytosis）"
     },
     "answer": "C",
-    "explanation": "缺鐵性貧血應為低 ferritin、低 transferrin saturation，而非高。<br>(A) 正確，延遲斷臍可減少缺鐵。<br>(B) 正確，青春期女生常因月經失血。<br>(C) 錯誤，transferrin saturation 應低。<br>(D) 正確，補鐵後 2–3 天出現網紅增加。",
+    "explanation": "缺鐵性貧血應為低 ferritin、低 transferrin saturation，而非高。<br>(A) 正確，延遲斷臍可減少缺鐵。<br>(B) 正確，青春期女生常因月經失血。<br>(C) 錯誤，transferrin saturation 應低。<br>(D) 正確，補鐵後 2~3 天出現網紅增加。",
     "tags": [
       "112-1(四)",
       "小兒科"
@@ -335,7 +335,7 @@
       "D": "L-asparaginase：胰臟炎（pancreatitis）"
     },
     "answer": "B",
-    "explanation": "出血性膀胱炎為 cyclophosphamide/ifosfamide 的副作用；vincristine 常見神經毒性。<br>(A) 正確，doxorubicin → 心臟毒性。<br>(B) 錯誤，vincristine → 神經毒性，不是膀胱炎。<br>(C) 正確，bleomycin → 肺纖維化。<br>(D) 正確，L-asparaginase → 胰臟炎。",
+    "explanation": "出血性膀胱炎是 cyclophosphamide 與 ifosfamide 的毒性（代謝物 acrolein 所致，可用 mesna 預防），vincristine 的毒性是周邊神經病變，因此 (B) 的組合最不相關。<br>(A) 相關，doxorubicin 造成累積劑量相關的心臟毒性。<br>(B) 不相關，vincristine 的毒性是周邊神經病變與腸蠕動減少（ileus），不是出血性膀胱炎。<br>(C) 相關，bleomycin 造成肺纖維化。<br>(D) 相關，L-asparaginase 造成胰臟炎與凝血異常。",
     "tags": [
       "112-1(四)",
       "小兒科"

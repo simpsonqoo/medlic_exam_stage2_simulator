@@ -508,7 +508,7 @@
       "D": "鉛中毒（Lead poisoning）"
     },
     "answer": "B",
-    "explanation": "再生不良性貧血通常呈現正球性或大球性，並非小球性。<br>(A) 正確，缺鐵性貧血典型為小球性。<br>(B) 錯誤，再生不良性貧血不屬小球性。<br>(C) 正確，地中海型貧血常見小球性。<br>(D) 正確，鉛中毒可導致小球性貧血。",
+    "explanation": "缺鐵性貧血、地中海型貧血與鉛中毒的 MCV 皆可降低，屬小球性貧血。再生不良性貧血為骨髓造血衰竭，MCV 通常正常或輕度偏高，較不會表現為小球性。<br>(A) 正確，缺鐵性貧血因血紅素合成不足而呈小球性。<br>(B) 錯誤，再生不良性貧血為正球性或輕度大球性，並非小球性，為本題答案。<br>(C) 正確，地中海型貧血因珠蛋白鏈合成缺陷而呈小球性。<br>(D) 正確，鉛中毒抑制血基質合成，可呈小球性貧血，血液抹片可見嗜鹼性斑點。",
     "tags": [
       "111-1(四)",
       "小兒科"
@@ -1291,7 +1291,7 @@
       "D": "脾臟內"
     },
     "answer": "A",
-    "explanation": "影像判讀要先定位方向。橫斷面（axial）影像以病人右側在畫面左方、腹側（anterior）在上方；接著用肝臟分節解剖定位病灶。畫面中肝臟占據左側大半，腫瘤呈 T1 低訊號（hypointense）位於畫面中央偏右、且偏腹側的位置，此處正是跨過中線、位在胃前方的肝左外節（segment II/III）；再確認畫面最右後方的脾臟（spleen）訊號均勻、無病灶。<br> (A) 正確，腫瘤位於肝臟左外節（left lateral segment，即 Couinaud 分節的 segment II 與 III），此區位於鐮狀韌帶（falciform ligament）／左肝靜脈（left hepatic vein）之左外側，在影像上呈現為畫面右上、腹側的低訊號腫塊。以 5 歲男童合併腹部腫瘤來看，臨床上要優先考慮肝母細胞瘤（hepatoblastoma）。<br> (B) 錯誤，肝左內節（left medial segment，segment IV）位於鐮狀韌帶與中肝靜脈（middle hepatic vein）之間、也就是更靠近畫面中線偏左的位置；本例病灶落在鐮狀韌帶外側，屬左外節而非左內節。<br> (C) 錯誤，肝右前節（right anterior segment，segment V 與 VIII）位於中肝靜脈與右肝靜脈（right hepatic vein）之間，在影像上應是畫面左半部的肝實質；該處訊號均勻，並未見腫瘤。<br> (D) 錯誤，脾臟位於畫面最右側偏後方（病人左後方），本影像中脾臟輪廓完整、訊號均質而無腫塊；腫瘤所在的位置是肝臟左外節。",
+    "explanation": "影像判讀要先定位方向。橫斷面（axial）影像以病人右側在畫面左方、腹側（anterior）在上方，接著用肝臟分節解剖定位病灶。畫面中肝臟占據左側大半，腫瘤呈 T1 低訊號（hypointense）位於畫面中央偏右、且偏腹側的位置，此處正是跨過中線、位在胃前方的肝左外節（segment II/III），再確認畫面最右後方的脾臟（spleen）訊號均勻、無病灶。<br>(A) 正確，腫瘤位於肝臟左外節（left lateral segment，即 Couinaud 分節的 segment II 與 III），此區位於鐮狀韌帶（falciform ligament）／左肝靜脈（left hepatic vein）之左外側，在影像上呈現為畫面右上、腹側的低訊號腫塊。以 5 歲男童合併腹部腫瘤來看，臨床上要優先考慮肝母細胞瘤（hepatoblastoma）。<br>(B) 錯誤，肝左內節（left medial segment，segment IV）位於鐮狀韌帶與中肝靜脈（middle hepatic vein）之間、也就是更靠近畫面中線偏左的位置，本例病灶落在鐮狀韌帶外側，屬左外節而非左內節。<br>(C) 錯誤，肝右前節（right anterior segment，segment V 與 VIII）位於中肝靜脈與右肝靜脈（right hepatic vein）之間，在影像上應是畫面左半部的肝實質，該處訊號均勻，並未見腫瘤。<br>(D) 錯誤，脾臟位於畫面最右側偏後方（病人左後方），本影像中脾臟輪廓完整、訊號均質而無腫塊，腫瘤所在的位置是肝臟左外節。",
     "tags": [
       "111-1(四)",
       "小兒科"
