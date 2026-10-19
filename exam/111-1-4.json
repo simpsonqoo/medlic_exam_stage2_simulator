@@ -111,7 +111,7 @@
       "D": "Fluorescence in situ hybridization（FISH）"
     },
     "answer": "D",
-    "explanation": "FISH 常用於檢測染色體結構異常或大範圍缺失，不適合單基因突變；Linkage、DNA 序列、aCGH 皆可用於單基因疾病。<br>(A) 正確，可用於單基因連鎖分析。<br>(B) 正確，aCGH 可檢測拷貝數變異。<br>(C) 正確，DNA 序列檢查可直接找突變。<br>(D) 錯誤，FISH 不適合單基因突變分析。",
+    "explanation": "單基因疾病的分子診斷需要找到基因內的突變或其拷貝數變化。<br>(A) 正確，連鎖分析可在家族中追蹤與疾病共分離的標記，致病突變尚未確認時仍可用於單基因疾病。<br>(B) 正確，aCGH 可偵測拷貝數變異，包含單一基因的缺失或重複。<br>(C) 正確，DNA 序列分析（Sanger 或次世代定序）可直接找出基因內的突變，是單基因疾病最常用的分子診斷。<br>(D) 錯誤，FISH 只用特定位點的螢光探針檢測已知位置的微缺失、微重複或染色體數目，無法找出基因內的點突變，不適合單基因疾病的分子診斷。",
     "tags": [
       "111-1(四)",
       "小兒科"
@@ -128,7 +128,7 @@
       "D": "Spinal muscular atrophy"
     },
     "answer": "B",
-    "explanation": "Edwards syndrome（Trisomy 18）常見握拳畸形、指交叉、身體發育不良；Down syndrome 則是手掌橫紋；Marfan 為四肢修長；SMA 為肌無力。<br>(A) 錯誤，Down syndrome 手掌紋特徵不同。<br>(B) 正確，典型 Edwards syndrome。<br>(C) 錯誤，Marfan 為長肢體。<br>(D) 錯誤，SMA 表現為肌無力。",
+    "explanation": "Edwards syndrome（Trisomy 18）常見握拳畸形、指交叉、身體發育不良，Down syndrome 則是手掌橫紋，Marfan 為四肢修長，SMA 為肌無力。<br>(A) 錯誤，Down syndrome 手掌紋特徵不同。<br>(B) 正確，典型 Edwards syndrome。<br>(C) 錯誤，Marfan 為長肢體。<br>(D) 錯誤，SMA 表現為肌無力。",
     "tags": [
       "111-1(四)",
       "小兒科"
@@ -406,7 +406,7 @@
       "D": "應開始使用Methimazole治療"
     },
     "answer": "A",
-    "explanation": "甲亢病童通常食慾增加、代謝亢進，體重反而下降。<br>(A) 錯誤，食慾應增加而非減退。<br>(B) 正確，甲亢病童會有快速生長。<br>(C) 正確，實驗室檢查呈現T4、Free T4升高，TSH抑制。<br>(D) 正確，Methimazole是兒童甲亢一線治療藥物。",
+    "explanation": "甲亢病童常見食慾增加但體重減輕，並有線性生長加速與骨齡超前。實驗室呈現 T4 與 Free T4 升高、TSH 受抑制，兒童首選抗甲狀腺藥物為 methimazole，PTU 因肝毒性不建議用於兒童。<br>(A) 錯誤，甲亢病童食慾會增加，而不是減退。<br>(B) 正確，甲亢病童短期內會快速生長，骨齡超前。<br>(C) 正確，T4 與 Free T4 升高、TSH &lt;0.05 mIU/L 符合甲亢。<br>(D) 正確，methimazole 為兒童甲亢首選藥物。",
     "tags": [
       "111-1(四)",
       "小兒科"
@@ -423,7 +423,7 @@
       "D": "T1DM病童通常需要注射胰島素治療"
     },
     "answer": "C",
-    "explanation": "T1DM為自體免疫疾病，常合併橋本甲狀腺炎、乳糜瀉等。<br>(A) 正確，T1DM病童通常消瘦。<br>(B) 正確，初發時常見酮酸中毒。<br>(C) 錯誤，T1DM反而常合併其他自體免疫疾病。<br>(D) 正確，T1DM需要胰島素治療。",
+    "explanation": "T1DM 為自體免疫破壞 beta 細胞，常合併自體免疫甲狀腺炎（約 15~30%）、乳糜瀉（約 4~9%）與 Addison disease，因此診斷時要篩檢甲狀腺與乳糜瀉。<br>(A) 正確，T1DM 病童通常消瘦、無肥胖。<br>(B) 正確，T1DM 初發時較常以酮酸中毒表現。<br>(C) 錯誤，T1DM 反而常合併其他自體免疫疾病。<br>(D) 正確，T1DM 需終身胰島素治療。",
     "tags": [
       "111-1(四)",
       "小兒科"

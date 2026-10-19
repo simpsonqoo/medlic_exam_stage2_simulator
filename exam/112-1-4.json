@@ -301,7 +301,7 @@
       "D": "法布瑞氏症（Fabry disease）"
     },
     "answer": "B",
-    "explanation": "HS 為常染色體顯性；血友病 A、G6PD、Fabry disease 皆為 X-linked。<br>(A) 正確，血友病 A 為 X-linked。<br>(B) 錯誤，HS 為 autosomal dominant。<br>(C) 正確，G6PD 為 X-linked。<br>(D) 正確，Fabry 為 X-linked。",
+    "explanation": "性聯遺傳疾病包括 X 聯隱性的 A 型血友病、蠶豆症（G6PD 缺乏）與法布瑞氏症。遺傳性球形紅血球症（HS）約 75% 為體染色體顯性遺傳，其餘為體染色體隱性或新生突變，並非性聯遺傳。<br>(A) 正確，A 型血友病的 F8 基因位於 X 染色體，為 X 聯隱性。<br>(B) 錯誤，HS 多為體染色體顯性。<br>(C) 正確，G6PD 基因位於 X 染色體，男性發病為主。<br>(D) 正確，Fabry 病（GLA 基因）為 X 聯遺傳，男性較嚴重，帶因女性也可有症狀。",
     "tags": [
       "112-1(四)",
       "小兒科"
@@ -403,7 +403,7 @@
       "D": "高血鈣（hypercalcemia）"
     },
     "answer": "D",
-    "explanation": "高血鈣會造成腎性尿崩（nephrogenic DI），非中樞性。<br>(A) 正確，中樞性可因蘭格罕細胞組織球增生症侵犯下視丘。<br>(B) 正確，下視丘/腦下垂體手術後常見。<br>(C) 正確，Wolfram syndrome 可致中樞性尿崩症。<br>(D) 錯誤，高血鈣屬腎性尿崩。",
+    "explanation": "尿崩症分為中樞型（AVP-D，精胺酸血管加壓素缺乏）與腎性（AVP-R，腎小管對 ADH 抗性）。中樞型病因包括顱咽管瘤、生殖細胞瘤、蘭格罕細胞組織球增生症等浸潤性疾病、頭部外傷、下視丘或腦下垂體手術後、先天遺傳（如 Wolfram 症候群）與特發性。<br>(A) 正確，LCH 侵犯下視丘與腦下垂體柄可造成中樞型尿崩症。<br>(B) 正確，下視丘或腦下垂體手術後常見中樞型尿崩症。<br>(C) 正確，Wolfram 症候群（DIDMOAD）包含中樞型尿崩症。<br>(D) 錯誤，高血鈣使腎小管對 ADH 反應不良，屬腎性尿崩症。",
     "tags": [
       "112-1(四)",
       "小兒科"

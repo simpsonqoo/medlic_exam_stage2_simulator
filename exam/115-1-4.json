@@ -421,7 +421,7 @@
       "D": "血液陰離子間隙（anion gap）高於正常值"
     },
     "answer": "D",
-    "explanation": "嚴重糖尿病酮酸中毒（diabetic ketoacidosis，DKA）的病理生理包括高血糖、酮酸堆積及電解質紊亂，陰離子間隙（anion gap）升高是其特徵性代謝性酸中毒的直接反映。<br>(A) 錯誤，DKA因高血糖造成滲透壓升高，血液滲透壓（osmolality）通常升高；血鈉（sodium）因高血糖稀釋效應可能偏低，但滲透壓不會低於正常值<br>(B) 錯誤，DKA因脫水及腎臟灌流（renal perfusion）下降，血清尿素氮（blood urea nitrogen，BUN）及肌酸酐（creatinine）通常升高，而非低於正常值<br>(C) 錯誤，DKA為代謝性酸中毒，總二氧化碳（total CO₂）即碳酸氫根（bicarbonate）明顯下降，並非高於正常值；血氧可因過度換氣（hyperventilation）代償而稍高，但total CO₂絕對不會高於正常值<br>(D) 正確，DKA因酮酸（ketoacids，如β-羥基丁酸，β-hydroxybutyrate）堆積，造成高陰離子間隙代謝性酸中毒（high anion gap metabolic acidosis），陰離子間隙高於正常值是最具特徵性的實驗室表現",
+    "explanation": "嚴重糖尿病酮酸中毒（diabetic ketoacidosis，DKA）的病理生理包括高血糖、酮酸堆積及電解質紊亂，陰離子間隙（anion gap）升高是其特徵性代謝性酸中毒的直接反映。<br>(A) 錯誤，DKA因高血糖造成滲透壓升高，血液滲透壓（osmolality）通常升高，血鈉（sodium）因高血糖稀釋效應可能偏低，但滲透壓不會低於正常值<br>(B) 錯誤，DKA因脫水及腎臟灌流（renal perfusion）下降，血清尿素氮（blood urea nitrogen，BUN）及肌酸酐（creatinine）通常升高，而非低於正常值<br>(C) 錯誤，DKA為代謝性酸中毒，總二氧化碳（total CO₂）即碳酸氫根（bicarbonate）明顯下降，並非高於正常值，Kussmaul 呼吸的代償使 PaCO2 下降，total CO₂ 不會高於正常值<br>(D) 正確，DKA因酮酸（ketoacids，如β-羥基丁酸，β-hydroxybutyrate）堆積，造成高陰離子間隙代謝性酸中毒（high anion gap metabolic acidosis），陰離子間隙高於正常值是最具特徵性的實驗室表現",
     "tags": [
       "115-1-4",
       "小兒科"
@@ -558,7 +558,7 @@
       "D": "fragile X syndrome 的重複序列擴增來自父親"
     },
     "answer": "D",
-    "explanation": "脆性X症候群（fragile X syndrome）的CGG重複序列擴增（repeat expansion）主要發生在母親傳遞過程中，因為前突變（premutation）在女性減數分裂時不穩定而擴增為完全突變（full mutation），而非來自父親。<br>(A) 錯誤，兩者親代的前突變（premutation expansion）在傳遞給子代時，都有機會擴增為完全突變（full mutation）<br>(B) 錯誤，前突變等位基因（premutation alleles）的重複次數：韓亭頓舞蹈症（Huntington disease，HD）為29至35次，脆性X症候群（fragile X syndrome）為55至200次<br>(C) 錯誤，韓亭頓舞蹈症的重複序列為CAG，脆性X症候群的重複序列為CGG<br>(D) 正確，脆性X症候群（fragile X syndrome）的重複序列擴增主要來自母親（maternal transmission），父親的前突變傳給女兒時通常不會擴增為完全突變，故致病突變來自父親的說法是錯誤的",
+    "explanation": "脆折 X 症候群的前突變（55~200 次 CGG）只有在母親傳遞（卵子生成）時才會擴增為完全突變（&gt;200 次），父親的前突變傳給女兒不會擴增，Huntington 病的 CAG 擴增則以父親傳遞為主。<br>(A) 正確，兩者的前突變或中間等位基因傳給子代時，重複次數都可能增加。<br>(B) 正確，HD 中間等位基因現行定義為 27~35 次（題目寫 29~35 次，大致相符），脆折 X 前突變為 55~200 次。<br>(C) 正確，HD 為 CAG，脆折 X 為 CGG。<br>(D) 錯誤，脆折 X 的擴增來自母親，父親的前突變傳給女兒不會擴增。",
     "tags": [
       "115-1-4",
       "小兒科"

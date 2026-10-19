@@ -383,7 +383,7 @@
       "D": "普瑞德威利氏症候群（Prader-Willi syndrome）"
     },
     "answer": "A",
-    "explanation": "GH治療常用於Turner症候群、SHOX基因異常、Prader-Willi症候群，但不包括DiGeorge症候群。<br>(A) 正確，DiGeorge syndrome不在適應症內。<br>(B) 錯誤，Turner syndrome可使用GH治療。<br>(C) 錯誤，SHOX基因異常符合適應症。<br>(D) 錯誤，Prader-Willi syndrome也在適應症內。",
+    "explanation": "生長激素治療的 FDA 兒童適應症包括 GH 缺乏症、Turner 症候群、Prader-Willi 症候群、SGA、特發性身材矮小、SHOX 缺乏症、Noonan 症候群與慢性腎功能不全，臺灣健保給付限於 GH 缺乏症、Turner 症候群、Prader-Willi 症候群、SHOX 缺乏症與 Noonan 症候群。DiGeorge 症候群的主要問題是胸腺與副甲狀腺發育不全造成的免疫缺損與低血鈣，不是 GH 治療的適應症。<br>(A) 正確，DiGeorge 症候群不在適應症內。<br>(B) 錯誤，Turner 症候群可使用 GH 治療。<br>(C) 錯誤，SHOX 缺乏症符合適應症。<br>(D) 錯誤，Prader-Willi 症候群符合適應症。",
     "tags": [
       "113-1(四)",
       "小兒科"
@@ -400,7 +400,7 @@
       "D": "低血糖（hypoglycemia）"
     },
     "answer": "C",
-    "explanation": "失鹽型CAH由於鹽皮質素缺乏，會出現低血鈉、高血鉀、代謝性酸中毒與低血糖。<br>(A) 正確，會有代謝性酸中毒。<br>(B) 正確，會有低血鈉。<br>(C) 錯誤，典型是高血鉀，而非低血鉀。<br>(D) 正確，會有低血糖。",
+    "explanation": "失鹽型 CAH 因 aldosterone 與 cortisol 缺乏，腎臟排鈉留鉀失敗，急性發病時表現為低血鈉、高血鉀、代謝性酸中毒與低血糖，血漿腎素活性上升。<br>(A) 正確，會有代謝性酸中毒。<br>(B) 正確，aldosterone 缺乏造成鈉流失而低血鈉。<br>(C) 錯誤，aldosterone 缺乏造成的是高血鉀，而非低血鉀。<br>(D) 正確，cortisol 缺乏造成低血糖。",
     "tags": [
       "113-1(四)",
       "小兒科"
@@ -417,7 +417,7 @@
       "D": "acute（infectious）thyroiditis"
     },
     "answer": "B",
-    "explanation": "病理上出現甲狀腺與後眼窩組織浸潤，加上臨床眼病變，最符合Graves disease。<br>(A) 錯誤，Hashimoto thyroiditis是淋巴球浸潤，但不會造成眼病變。<br>(B) 正確，Graves disease與甲狀腺相關眼病變吻合。<br>(C) 錯誤，toxic multinodular goiter不屬於自體免疫疾病。<br>(D) 錯誤，急性甲狀腺炎通常是感染引起。",
+    "explanation": "甲狀腺與後眼窩組織皆有淋巴球及漿細胞浸潤，合併自體免疫甲狀腺疾病家族史，符合 Graves disease（TRAb 刺激甲狀腺，並形成甲狀腺相關眼病變）。<br>(A) 錯誤，橋本氏甲狀腺炎的浸潤局限於甲狀腺，不涉及後眼窩組織。<br>(B) 正確，甲狀腺與後眼窩組織浸潤為 Graves disease 的病理特徵。<br>(C) 錯誤，毒性多結節性甲狀腺腫為結節自主分泌甲狀腺素，並非自體免疫疾病，也無後眼窩浸潤，多見於老年人。<br>(D) 錯誤，急性甲狀腺炎多為細菌感染，表現為頸部疼痛、發燒。",
     "tags": [
       "113-1(四)",
       "小兒科"
@@ -553,7 +553,7 @@
       "D": "搖椅腳（rocker-bottom feet）"
     },
     "answer": "C",
-    "explanation": "Trisomy 18常見小頭、小下巴、搖椅腳，但扁平枕骨是唐氏症特徵。<br>(A) 正確，小頭常見。<br>(B) 正確，小下巴典型。<br>(C) 錯誤，扁平枕骨屬於Down syndrome。<br>(D) 正確，搖椅腳為特徵。",
+    "explanation": "Trisomy 18 的顱顏特徵為小頭、小下巴、小耳與後枕突出，足部為搖椅腳，手為握拳且手指交疊。扁平枕骨與短頭是唐氏症的特徵。<br>(A) 正確，小頭為常見表徵。<br>(B) 正確，小下巴為典型表徵。<br>(C) 錯誤，愛德華氏症為後枕突出，扁平枕骨屬於唐氏症。<br>(D) 正確，搖椅腳為典型表徵。",
     "tags": [
       "113-1(四)",
       "小兒科"
