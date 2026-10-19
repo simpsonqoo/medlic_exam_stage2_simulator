@@ -748,7 +748,7 @@
       "D": "所有腦中風病人在接受血栓溶解治療前，皆應該進行腦部影像學檢查（如電腦斷層或磁振造影）"
     },
     "answer": "A",
-    "explanation": "急性缺血性腦中風（acute ischemic stroke）的標準血栓溶解治療是經靜脈（intravenous）而非動脈內（intra-arterial）給予組織胞漿素原活化劑（tissue plasminogen activator，t-PA，即alteplase），動脈內治療是機械取栓（mechanical thrombectomy）或動脈內溶栓的選項，並非常規第一線。<br>(A) 正確，急性缺血性腦中風的標準血栓溶解治療是靜脈注射t-PA（intravenous t-PA），而非動脈內施打；動脈內治療（intra-arterial thrombolysis）非常規標準治療，且並不以減少藥物劑量或降低出血機率為其主要優勢論述<br>(B) 錯誤，靜脈血栓溶解治療（intravenous thrombolysis）確實可改善預後，但同時會顯著增加症狀性顱內出血（symptomatic intracranial hemorrhage）的風險<br>(C) 錯誤，t-PA半衰期短，須在快速輸注（bolus）後於60分鐘內完成剩餘劑量的連續輸注（continuous infusion）<br>(D) 錯誤，所有腦中風病人在接受血栓溶解治療前均應接受腦部影像學檢查（如非顯影劑電腦斷層，non-contrast CT）以排除出血性腦中風",
+    "explanation": "急性缺血性腦中風（acute ischemic stroke）的標準血栓溶解治療是經靜脈（intravenous）而非動脈內（intra-arterial）給予組織胞漿素原活化劑（tissue plasminogen activator，t-PA，即alteplase），動脈內治療是機械取栓（mechanical thrombectomy）或動脈內溶栓的選項，並非常規第一線。<br>(A) 正確，急性缺血性腦中風的標準血栓溶解治療是靜脈注射t-PA（intravenous t-PA），而非動脈內施打，動脈內治療（intra-arterial thrombolysis）非常規標準治療，且並不以減少藥物劑量或降低出血機率為其主要優勢論述<br>(B) 錯誤（此敘述正確），靜脈血栓溶解治療（intravenous thrombolysis）確實可改善預後，但同時會顯著增加症狀性顱內出血（symptomatic intracranial hemorrhage）的風險<br>(C) 錯誤（此敘述正確），t-PA半衰期短，須在快速輸注（bolus）後於60分鐘內完成剩餘劑量的連續輸注（continuous infusion）<br>(D) 錯誤（此敘述正確），所有腦中風病人在接受血栓溶解治療前均應接受腦部影像學檢查（如非顯影劑電腦斷層，non-contrast CT）以排除出血性腦中風",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -854,7 +854,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "意想運動性失用症（ideomotor apraxia）是指患者無法依命令或模仿執行已知的動作，但仍保有語言概念理解及描述動作步驟的能力，因為概念（ideation）與動作執行（motor execution）是分開的功能。<br>(A) 正確，形容如何寄一封信的步驟屬於語言描述（verbal description of ideation），不需要實際執行動作，意想運動性失用症（ideomotor apraxia）患者概念系統完整，可以口頭說明步驟<br>(B) 錯誤，示範刷牙時如何拿牙刷（pantomiming tool use）需要實際執行動作序列，意想運動性失用症患者無法完成此項測試<br>(C) 錯誤，模仿檢查者使用槌子（imitation of tool use）同樣需要執行動作，意想運動性失用症患者的模仿能力也受損<br>(D) 錯誤，用剪刀剪出一直線（actual tool use）屬於實際操作，意想運動性失用症患者執行實際工具使用時也可能有困難（雖然較輕微），且此選項需要雙手協調，非最適合的可執行項目",
+    "explanation": "意念運動性失用（ideomotor apraxia）的缺損在動作的執行，動作概念與步驟知識保留。患者可理解並口述動作步驟，但無法依口令或模仿做出動作，常以身體部位當工具，給予實物時表現較好。(A) 口述步驟與 (D) 實物操作皆屬患者可執行的測試，本題沒有唯一答案，公告為一律給分。<br>(A) 可執行，形容寄信的步驟屬口述動作概念，不需執行動作。<br>(B) 受損，依口令示範如何拿牙刷（pantomime）是意念運動性失用患者無法完成的測試。<br>(C) 受損，模仿檢查者使用槌子同樣無法完成。<br>(D) 可執行，用剪刀剪直線是實物操作，患者給予實物時表現通常較假裝使用為佳。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -1323,7 +1323,7 @@
       "D": "治療蜘蛛膜下腔出血時，使用 nimodipine 具有保護腦部的作用"
     },
     "answer": "B",
-    "explanation": "缺血性腦中風（ischemic stroke）使用血栓溶解劑（thrombolytic therapy）前，血壓需控制在185/110 mmHg以下，血壓190/116 mmHg超過此標準，在此血壓下不可使用血栓溶解劑。<br>(A) 錯誤，疑似腦中風病人在急診應儘速完成美國國家衛生院腦中風量表（National Institutes of Health Stroke Scale，NIHSS）評估，以協助決定是否施予血栓溶解治療<br>(B) 正確，缺血性腦中風使用血栓溶解劑（如t-PA）前，血壓須控制在185/110 mmHg以下；血壓190/116 mmHg超過此標準，在血壓未達標的情況下不應使用血栓溶解劑，以避免出血性轉化（hemorrhagic transformation）的風險<br>(C) 錯誤，NIHSS分數越高代表神經功能缺損越嚴重，分數範圍為0至42分<br>(D) 錯誤，nimodipine（鈣離子通道阻斷劑）用於蜘蛛膜下腔出血（subarachnoid hemorrhage）可預防腦血管痙攣（cerebral vasospasm），具有腦部保護作用",
+    "explanation": "缺血性腦中風（ischemic stroke）使用血栓溶解劑（thrombolytic therapy）前，血壓需控制在185/110 mmHg以下，血壓190/116 mmHg超過此標準，在此血壓下不可使用血栓溶解劑。<br>(A) 錯誤（此敘述正確），疑似腦中風病人在急診應儘速完成美國國家衛生院腦中風量表（National Institutes of Health Stroke Scale，NIHSS）評估，以協助決定是否施予血栓溶解治療<br>(B) 正確，缺血性腦中風使用血栓溶解劑（如t-PA）前，血壓須控制在185/110 mmHg以下，血壓190/116 mmHg超過此標準，在血壓未達標的情況下不應使用血栓溶解劑，以避免出血性轉化（hemorrhagic transformation）的風險<br>(C) 錯誤（此敘述正確），NIHSS分數越高代表神經功能缺損越嚴重，分數範圍為0至42分<br>(D) 錯誤（此敘述正確），nimodipine（鈣離子通道阻斷劑）用於蜘蛛膜下腔出血（subarachnoid hemorrhage）可預防腦血管痙攣（cerebral vasospasm），具有腦部保護作用",
     "tags": [
       "115-1-4",
       "神經內科"
