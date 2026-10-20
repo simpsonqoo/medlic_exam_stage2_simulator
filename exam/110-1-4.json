@@ -982,7 +982,7 @@
       "D": "③④"
     },
     "answer": "A",
-    "explanation": "血清梅毒螺旋體抗體陽性 + CSF VDRL陽性為最具診斷價值的組合。<br>(A) 正確<br>(B) 錯誤，EEG無診斷特異性<br>(C) 錯誤<br>(D) 錯誤",
+    "explanation": "神經梅毒的診斷要同時有梅毒感染與中樞神經受侵犯的證據。血清螺旋體試驗（如 MHA-TP、TPPA）陽性表示曾感染梅毒螺旋體，CSF-VDRL 特異度高但敏感度低，有神經學表現的病人 CSF-VDRL 呈反應性（無血液污染）即可診斷神經梅毒，所以 ①② 的組合最具診斷價值。<br>(A) 正確。<br>(B) 錯誤，週期性單側癲癇樣放電（PLEDs）見於單純疱疹腦炎等急性腦病變，不是神經梅毒的診斷依據。<br>(C) 錯誤，EEG 不具診斷特異性，且缺少 CSF 證據。<br>(D) 錯誤，CSF 螺旋體試驗（TPHA、FTA-ABS）敏感度高但特異度較低，主要以陰性排除神經梅毒，單獨陽性不足以確診，EEG 也無特異性。",
     "tags": [
       "110-1(四)",
       "神經內科"
@@ -999,7 +999,7 @@
       "D": "使用isoniazid治療時需併用pyridoxine以避免發生周邊神經炎（peripheral neuropathy）"
     },
     "answer": "A",
-    "explanation": "結核性腦膜炎治療需抗結核藥物並合併類固醇以減輕腦膜發炎。<br>(A) 錯誤，應使用corticosteroid<br>(B) 正確，高度懷疑需立即治療<br>(C) 正確，療程>6個月<br>(D) 正確，isoniazid需合併pyridoxine",
+    "explanation": "結核性腦膜炎高度懷疑時不等培養結果，立即開始抗結核藥物。強化期 INH、RIF、PZA、EMB 四藥 2 個月，之後 INH 加 RIF，總療程 9~12 個月，並一律合併 dexamethasone 或 prednisolone 於 6~8 週內遞減，以降低死亡與神經學後遺症。<br>(A) 錯誤，結核性腦膜炎應合併類固醇，ATS/CDC/IDSA 2016 與 WHO 都是強烈建議，不論病情嚴重度。<br>(B) 正確，高度懷疑時須儘早投藥，不必等培養結果。<br>(C) 正確，中樞神經結核療程 9~12 個月，比一般肺結核長。<br>(D) 正確，INH 可造成周邊神經病變，需併用 pyridoxine（維生素 B6）預防。",
     "tags": [
       "110-1(四)",
       "神經內科"

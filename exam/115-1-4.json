@@ -908,7 +908,7 @@
       "D": "中心脊髓症候群（central cord syndrome）肌肉無力的現象在上肢遠比下肢嚴重"
     },
     "answer": "A",
-    "explanation": "脊椎性休克（spinal shock）是指急性脊髓損傷後損傷節段以下暫時性神經功能完全喪失，肌腱反射（deep tendon reflex）在急性期是下降或消失的，而非升高。<br>(A) 正確，脊椎性休克（spinal shock）是指急性脊髓損傷後損傷節段以下的肌腱反射（tendon reflex）暫時性消失或下降（hyporeflexia/areflexia），而非升高；反射亢進（hyperreflexia）出現在脊椎性休克恢復之後，代表上運動神經元（upper motor neuron）損傷的慢性期表現<br>(B) 錯誤，Brown-Séquard症候群（脊髓半切症候群）表現為損傷同側肢體無力及本體感覺（proprioception）喪失（後柱受損），對側痛溫覺（pain/temperature sensation）喪失（脊髓丘腦徑受損）<br>(C) 錯誤，前方脊髓症候群（anterior cord syndrome）損傷脊髓前部，後柱（posterior column）功能保留，因此本體感覺（proprioception）及震動覺（vibration sense）可以保留<br>(D) 錯誤，中心脊髓症候群（central cord syndrome）因中心部位的皮質脊髓徑（corticospinal tract）支配上肢的纖維走於內側，較早受損，故上肢無力遠比下肢嚴重",
+    "explanation": "脊髓休克是急性脊髓損傷後損傷平面以下暫時性弛緩性麻痺與肌腱反射消失，反射亢進要到數天至數週後休克期結束才出現。<br>(A) 錯誤，急性期肌腱反射消失而不是上升。<br>(B) 正確，Brown-Séquard 症候群為損傷平面以下同側無力與本體覺喪失（後索），對側痛溫覺喪失。<br>(C) 正確，前脊髓症候群後索保留，所以本體覺與振動覺可以保留。<br>(D) 正確，中央脊髓症候群上肢無力遠比下肢嚴重。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -925,7 +925,7 @@
       "D": "後柱（posterior column）"
     },
     "answer": "A",
-    "explanation": "後方追撞造成的頸部過度伸展（hyperextension injury）會損傷頸椎中央部位，造成中心脊髓症候群（central cord syndrome），其中脊髓丘腦徑（spinothalamic tract）負責傳遞痛溫覺，在中央損傷時較早受影響，表現為雙側上肢麻木疼痛。<br>(A) 正確，後方追撞引起頸椎過度伸展（hyperextension）損傷，造成中心脊髓症候群，脊髓丘腦徑（spinothalamic tract）傳遞痛溫覺的纖維在頸髓中央部位交叉，此處受損導致雙側上肢麻木疼痛<br>(B) 錯誤，脊神經（spinal nerve）損傷通常為單側且有明確神經根分布（dermatomal distribution），不會造成雙側症狀<br>(C) 錯誤，椎體徑（pyramidal tract，即皮質脊髓徑）損傷主要造成運動功能缺損（肌肉無力），而非麻木疼痛等感覺症狀<br>(D) 錯誤，後柱（posterior column）損傷主要影響本體感覺（proprioception）及震動覺（vibration sense），而非痛覺及麻木感",
+    "explanation": "後方追撞造成頸部過度伸展，常在頸椎退化的病人引起中央脊髓症候群。頸髓中央受損時，在前白連合交叉的脊髓丘腦徑纖維先受影響，表現為雙上肢（披肩樣分布）的麻木疼痛與痛溫覺異常，運動上以上肢無力為主。<br>(A) 正確，脊髓丘腦徑傳導痛溫覺，交叉纖維位於中央，最先受損。<br>(B) 錯誤，脊神經損傷多為單側且依單一皮節分布，不會造成兩側上肢對稱的症狀。<br>(C) 錯誤，錐體徑（皮質脊髓徑）損傷主要造成肌肉無力，不是麻木疼痛。<br>(D) 錯誤，後柱傳導本體覺與振動覺，中央脊髓症候群時多保留。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -993,7 +993,7 @@
       "D": "疱疹病毒腦炎所侵犯的範圍，侷限在腦幹，尤其是延腦後半部"
     },
     "answer": "A",
-    "explanation": "疱疹病毒腦炎（herpes simplex encephalitis，HSE）最常見的致病病毒是第一型單純疱疹病毒（herpes simplex virus type 1，HSV-1），且HSV-1也是造成口唇疱疹（oral herpes/cold sore）的病毒，兩者確實相關。<br>(A) 正確，HSV-1是造成疱疹病毒腦炎（herpes simplex encephalitis）最主要的病原，同時也是造成口唇周圍疱疹（orolabial herpes）的病毒，兩者均由HSV-1引起<br>(B) 錯誤，帶狀疱疹病毒（varicella-zoster virus，VZV）主要造成感覺神經節（sensory ganglion）的感染及皮膚帶狀疱疹（shingles），並不像小兒麻痺病毒（poliovirus）一樣主要造成運動神經元（motor neuron）感染<br>(C) 錯誤，水痘（chickenpox）感染後VZV潛伏於背根神經節（dorsal root ganglion），成年後在免疫力下降時可再活化（reactivation）引起帶狀疱疹（herpes zoster），因此有過水痘感染的人成年後仍可能發生帶狀疱疹<br>(D) 錯誤，疱疹病毒腦炎（herpes simplex encephalitis）最常侵犯顳葉（temporal lobe）及邊緣系統（limbic system），而非侷限於腦幹延腦（brainstem/medulla）",
+    "explanation": "HSV-1 是成人單純疱疹腦炎最主要的病原（佔 90% 以上），潛伏於三叉神經節，也是口唇疱疹的病原。<br>(A) 正確。<br>(B) 錯誤，VZV 潛伏於背根與顱神經節的感覺神經元，病變以感覺神經節為主，小兒麻痺病毒才是侵犯脊髓前角運動神經元。<br>(C) 錯誤，水痘痊癒後 VZV 仍潛伏於神經節，免疫力下降或老化時可再活化為帶狀疱疹。<br>(D) 錯誤，疱疹病毒腦炎好發於內側顳葉、眼眶額葉與島葉等邊緣系統，不是侷限於腦幹延腦。",
     "tags": [
       "115-1-4",
       "神經內科"
