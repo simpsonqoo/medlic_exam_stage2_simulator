@@ -871,7 +871,7 @@
       "D": "手術後進步通常可以持續 5 年以上"
     },
     "answer": "A",
-    "explanation": "走路小碎步（magnetic gait）、認知功能下降（dementia）及尿失禁（urinary incontinence）三聯徵，加上腦室擴大的電腦斷層表現，是正常腦壓水腦症（normal pressure hydrocephalus，NPH）的典型表現，腦室腹腔分流術（ventriculoperitoneal shunt，VP shunt）後步態（gait）改善最為顯著且最快。<br>(A) 正確，正常腦壓水腦症（NPH）接受VP shunt後，步態（walking）改善效果最佳且最快出現，記憶力（memory）改善相對較慢且程度較小<br>(B) 錯誤，正常腦壓水腦症顧名思義腦壓（intracranial pressure，ICP）在正常範圍內，術前腦壓測量通常正常<br>(C) 錯誤，尿失禁（urinary incontinence）在VP shunt後可改善，但改善程度通常不如步態顯著<br>(D) 錯誤，VP shunt術後的改善效果通常不能持續5年以上，長期分流管可能發生阻塞（obstruction）或其他併發症，且病程本身仍可能進展",
+    "explanation": "病人有小碎步步態、認知退化與尿失禁，CT 見兩側側腦室擴大，符合常壓性水腦，治療為腦室腹腔分流術。統合分析中分流後的改善比例約為步態 72%、認知 55%、排尿 54%，以步態改善最多。<br>(A) 正確，走路比記憶力容易進步。<br>(B) 錯誤，常壓性水腦的腰椎穿刺開放壓在正常範圍內（日本指引 ≤ 200 mmH2O）。<br>(C) 錯誤，尿失禁可改善，但改善比例低於步態。<br>(D) 錯誤，分流後的改善會隨時間下降，約 2~3 年起認知、步態與排尿症狀可逐漸退步，需持續追蹤並視情況調整閥門或修復分流，不能保證 5 年以上都維持進步。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -891,7 +891,7 @@
       "D": "monoamine oxidase type B inhibitors"
     },
     "answer": "B",
-    "explanation": "巴金森氏病（Parkinson disease，PD）的主要病理為黑質紋狀體多巴胺（dopamine）神經元退化，認知功能正常的患者不需要使用膽鹼酯酶抑制劑（cholinesterase inhibitor），該藥物是用於巴金森氏病合併失智症（Parkinson disease dementia，PDD）或路易體失智症（Lewy body dementia，LBD）的治療。<br>(A) 錯誤，抗膽鹼藥物（anticholinergics）可用於改善顫抖（tremor）為主的年輕巴金森氏病患者，雖現在較少使用，仍屬可考慮選項<br>(B) 正確，膽鹼酯酶抑制劑（cholinesterase inhibitors，如rivastigmine、donepezil）適用於巴金森氏病合併失智症，對認知功能正常的患者使用是最不適當的，且可能加重運動症狀<br>(C) 錯誤，多巴胺受體促效劑（dopamine agonists，如pramipexole、ropinirole）是認知功能正常巴金森氏病患者的適當治療選項<br>(D) 錯誤，單胺氧化酶B型抑制劑（monoamine oxidase type B inhibitors，MAO-B inhibitors，如selegiline、rasagiline）是巴金森氏病的適當治療選項",
+    "explanation": "認知功能正常的巴金森病病人，藥物治療針對動作症狀，初始可選 levodopa、多巴胺促效劑或 MAO-B 抑制劑，年輕且以顫抖為主者可考慮抗膽鹼藥。乙醯膽鹼酯酶抑制劑（如 rivastigmine）用於巴金森病失智的認知症狀，不是動作症狀用藥，也可能加重顫抖，因此最不適當。<br>(A) 適當，抗膽鹼藥可用於年輕且以顫抖為主的病人，老年人與認知障礙者才應避免。<br>(B) 最不適當。<br>(C) 適當，多巴胺促效劑（如 pramipexole、ropinirole）是初始治療選項。<br>(D) 適當，MAO-B 抑制劑（如 selegiline、rasagiline）可用於早期輕症。",
     "tags": [
       "115-1-4",
       "神經內科"

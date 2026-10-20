@@ -874,7 +874,7 @@
       "D": "巴金森氏病（Parkinson disease）是運動障礙疾病，不會有非動作（non-motor）相關症狀"
     },
     "answer": "D",
-    "explanation": "(A) 正確，後天巴金森原因多元<br>(B) 正確，Parkinson-plus包含上述疾病<br>(C) 正確，運動四大典型症狀<br>(D) 錯誤，會有非動作症狀",
+    "explanation": "巴金森病除了顫抖、動作遲緩、僵硬與姿勢不穩等動作症狀，也有嗅覺減退、便秘、REM 睡眠行為障礙、憂鬱、姿勢性低血壓與認知障礙等非動作症狀，部分可早於動作症狀數年出現。<br>(A) 正確，後天巴金森症的病因包括藥物、水腦、缺氧性腦病變、腦炎後、一氧化碳中毒與腦中風。<br>(B) 正確，Parkinson-plus syndromes 包含 MSA、PSP 與 CBD，另有 DLB。<br>(C) 正確，巴金森病是最常見的神經退化性巴金森症候群，四大動作症狀如選項所述。<br>(D) 錯誤，巴金森病有非動作症狀。",
     "tags": [
       "113-2(四)",
       "神經內科"
@@ -891,7 +891,7 @@
       "D": "治療可用排銅藥物（如penicillamine）或抑制銅離子吸收（如zinc sulphate）"
     },
     "answer": "C",
-    "explanation": "(A) 正確，體隱性遺傳ATP7B<br>(B) 正確，常見神經學表現<br>(C) 錯誤，ceruloplasmin下降<br>(D) 正確，治療可用排銅或阻銅吸收藥物",
+    "explanation": "威爾森氏症病人的血清 ceruloplasmin 通常降低，因為 ATP7B 缺陷使銅無法併入 ceruloplasmin，不帶銅的 apoceruloplasmin 很快被代謝。<br>(A) 正確，為體染色體隱性遺傳，ATP7B 基因突變所致。<br>(B) 正確，神經表現包括構音障礙、吞嚥困難、肌張力不全、姿態性顫抖、巴金森症狀、步態異常與精神症狀。<br>(C) 錯誤，ceruloplasmin 是降低，不是升高。<br>(D) 正確，治療可用螯合劑 penicillamine、trientine 促進排銅，或用鋅鹽抑制腸道銅吸收。",
     "tags": [
       "113-2(四)",
       "神經內科"

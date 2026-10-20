@@ -857,7 +857,7 @@
       "D": "額顳葉失智症常見的亞型是行為亞型（behavioral variant）"
     },
     "answer": "B",
-    "explanation": "β-amyloid 斑塊需經 β- 與 γ-secretase 剪切，不是單一酵素。<br>(A) 正確，低教育程度是危險因子<br>(B) 錯誤，需多酵素<br>(C) 正確，唐氏症與 AD 類似病理<br>(D) 正確，bvFTD 是常見亞型",
+    "explanation": "類澱粉斑塊的 Aβ 由類澱粉前驅蛋白（APP）先經 β-secretase、再經 γ-secretase 兩種酵素先後切割而成，不是單一酵素。<br>(A) 正確，低教育程度是 Lancet Commission 2024 列出的可改變失智症危險因子之一。<br>(B) 錯誤。<br>(C) 正確，唐氏症第 21 號染色體上的 APP 基因多一套，腦部會出現與阿茲海默症類似的類澱粉斑塊與神經纖維糾結。<br>(D) 正確，額顳葉失智症最常見的亞型是行為變異型（bvFTD），其次為語意型與非流暢型原發性漸進性失語症。",
     "tags": [
       "114-2-4",
       "神經內科"
@@ -874,7 +874,7 @@
       "D": "路易氏體失智症（dementia with Lewy bodies）"
     },
     "answer": "C",
-    "explanation": "典型 PSP 特徵：垂直眼動障礙、姿勢不穩常後倒。<br>(A) 錯誤，PD 多為前傾<br>(B) 錯誤，MSA 有自主神經失調<br>(C) 正確，典型 PSP<br>(D) 錯誤，DLB 以失智與幻覺為主",
+    "explanation": "頭部後仰、眼球垂直轉動困難（無法向下看）與向後跌倒，為進行性上眼神經核麻痺症（PSP）的典型表現，MRI 常見中腦萎縮（蜂鳥徵）。<br>(A) 錯誤，巴金森病對 levodopa 反應良好，早期較少有垂直眼動障礙與向後跌倒。<br>(B) 錯誤，多重系統萎縮症以早期自主神經衰竭與小腦失調為主。<br>(C) 正確。<br>(D) 錯誤，路易氏體失智症以失智、認知波動與視幻覺為主。",
     "tags": [
       "114-2-4",
       "神經內科"
@@ -891,7 +891,7 @@
       "D": "在搬動肢體關節檢查時，方向突然改變，阻力會延後出現"
     },
     "answer": "A",
-    "explanation": "僵硬屬 extrapyramidal sign，與速度無關；spasticity 則 velocity-dependent。<br>(A) 正確，velocity-independent<br>(B) 錯誤，clasp-knife 是 spasticity<br>(C) 錯誤，影響不限於屈肌<br>(D) 錯誤，不符合 rigidity 特徵",
+    "explanation": "僵硬（rigidity）屬錐體外系統症狀，被動活動關節時的阻力與速度無關，在關節活動全程、兩個方向都持續存在，呈鉛管樣或齒輪樣，屈肌與伸肌都受影響。痙攣（spasticity）屬上運動神經元徵象，阻力依賴速度，呈折刀樣，以上肢屈肌與下肢伸肌為主。<br>(A) 正確。<br>(B) 錯誤，折刀樣阻力是痙攣。<br>(C) 錯誤，僵硬同時影響屈肌與伸肌。<br>(D) 錯誤，僵硬的阻力在兩個方向的活動全程持續存在，不會延後出現。",
     "tags": [
       "114-2-4",
       "神經內科"

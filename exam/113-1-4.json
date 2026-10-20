@@ -851,7 +851,7 @@
       "D": "多發性硬化症（multiple sclerosis）"
     },
     "answer": "B",
-    "explanation": "快速進行性失智合併小腦徵象與視幻覺，影像符合CJD。<br>(A) 錯誤，邊緣性腦炎多有發作性記憶缺失<br>(B) 正確，典型CJD表現<br>(C) 錯誤，血管性失智進展較慢<br>(D) 錯誤，多發性硬化為脫髓鞘病",
+    "explanation": "66 歲女性一個多月內出現記憶力減退、視幻覺、走路不穩（小腦失調），聽到鞭炮聲身體顫抖（驚嚇誘發的肌抽躍），為快速進展失智合併肌抽躍、視覺與小腦徵象，加上 DWI 顯示皮質沿腦回呈緞帶狀高訊號，診斷為庫賈氏病。<br>(A) 錯誤，邊緣性腦炎以亞急性記憶喪失、癲癇與精神症狀為主，影像多為內側顳葉 FLAIR 高訊號。<br>(B) 正確。<br>(C) 錯誤，血管性失智為階梯式惡化並有血管病灶，不會在一個月內快速惡化並伴肌抽躍。<br>(D) 錯誤，多發性硬化為中樞神經脫髓鞘疾病，影像為 T2 或 FLAIR 白質病灶，不是皮質緞帶徵。",
     "tags": [
       "113-1(四)",
       "神經內科"
@@ -871,7 +871,7 @@
       "D": "抑制β secretase"
     },
     "answer": "B",
-    "explanation": "Memantine為NMDA受體拮抗劑，可減少glutamate毒性。<br>(A) 錯誤，為donepezil機轉<br>(B) 正確，NMDA受體拮抗劑<br>(C) 錯誤，γ secretase抑制為研究藥物<br>(D) 錯誤，β secretase抑制亦非memantine",
+    "explanation": "memantine 是 NMDA（N-methyl-D-aspartate）受體的非競爭性拮抗劑，減少 glutamate 的興奮性毒性，適用於中至重度阿茲海默症，可與乙醯膽鹼酯酶抑制劑併用。<br>(A) 錯誤，乙醯膽鹼酯酶抑制劑是 donepezil、rivastigmine、galantamine。<br>(B) 正確。<br>(C) 錯誤，γ-secretase 抑制劑（如 semagacestat）是試驗藥物，臨床試驗失敗。<br>(D) 錯誤，β-secretase 抑制劑（如 verubecestat）同樣是試驗藥物，臨床試驗失敗。",
     "tags": [
       "113-1(四)",
       "神經內科"
@@ -990,7 +990,7 @@
       "D": "第三型小腦脊髓共濟失調症（spinocerebellar ataxia type 3）"
     },
     "answer": "C",
-    "explanation": "Wilson病為ATP7B基因突變，非三核苷酸重複。<br>(A) 正確，亨丁頓氏病為CAG重複<br>(B) 正確，SCA2為CAG重複<br>(C) 錯誤，Wilson病非repeat疾病<br>(D) 正確，SCA3亦為CAG重複",
+    "explanation": "威爾森氏症由 ATP7B 基因的點突變與小片段缺失或插入造成功能喪失，屬體染色體隱性的銅代謝疾病，不是三核苷酸重複擴增疾病。<br>(A) 屬重複疾病，亨丁頓舞蹈症為 HTT 基因 CAG 重複擴增。<br>(B) 屬重複疾病，SCA2 為 ATXN2 基因 CAG 重複擴增。<br>(C) 正確，不屬於三核苷酸重複疾病。<br>(D) 屬重複疾病，SCA3 為 ATXN3 基因 CAG 重複擴增。",
     "tags": [
       "113-1(四)",
       "神經內科"

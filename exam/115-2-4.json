@@ -860,7 +860,7 @@
       "D": "路易體失智症（dementia with Lewy bodies）"
     },
     "answer": "C",
-    "explanation": "步態與動作變慢、注意與執行功能下降、情緒低落，而早期記憶障礙不突出，合併MRI多發深部白質缺血，符合皮質下血管性／多發性腦梗塞失智症。<br>(A) 錯誤，Alzheimer disease通常以漸進性情節記憶障礙較突出<br>(B) 錯誤，額顳葉失智症較常早期出現人格、行為或語言改變，且發病年齡較早<br>(C) 正確，血管危險因子、步態障礙、執行功能受損及多發缺血病灶均支持此診斷<br>(D) 錯誤，DLB應見波動性認知、視幻覺、REM睡眠行為障礙或自發性巴金森症",
+    "explanation": "78 歲有高血壓與糖尿病，近半年步態變慢、注意力下降、情緒低落而記憶障礙不明顯，輕度下肢僵硬，MRI 見多發性深部白質缺血病灶，屬血管性失智症（皮質下缺血型）的典型表現，執行功能與步態障礙明顯而記憶較輕。選項中以多發性腦梗塞失智症最符合。<br>(A) 錯誤，阿茲海默症以漸進性情節記憶障礙為主。<br>(B) 錯誤，額顳葉失智症以早期人格、行為或語言改變為主，發病年齡較早。<br>(C) 正確，血管危險因子、步態障礙、執行功能受損與多發缺血病灶都支持。<br>(D) 錯誤，路易氏體失智症應有認知波動、反覆視幻覺、REM 睡眠行為障礙或自發性巴金森症狀。",
     "tags": [
       "115-2-4",
       "神經內科"
@@ -877,7 +877,7 @@
       "D": "阿茲海默病（Alzheimer disease）"
     },
     "answer": "A",
-    "explanation": "多重系統萎縮症的主要蛋白病理是神經膠細胞內α-synuclein沉積，屬synucleinopathy，不是tauopathy。<br>(A) 正確，MSA的特徵為少突膠細胞胞質內α-synuclein包涵體<br>(B) 錯誤，progressive supranuclear palsy是典型4-repeat tauopathy<br>(C) 錯誤，corticobasal degeneration也是4-repeat tauopathy<br>(D) 錯誤，Alzheimer disease同時有β-amyloid斑塊與過度磷酸化tau神經纖維纏結",
+    "explanation": "多重系統萎縮症的主要病理是寡樹突膠質細胞內的 α-synuclein 包涵體，屬突觸核蛋白病，不是 tau 蛋白病。<br>(A) 正確。<br>(B) 錯誤，進行性上眼神經核麻痺症為 4R tau 蛋白病。<br>(C) 錯誤，大腦皮質基底核退化症為 4R tau 蛋白病。<br>(D) 錯誤，阿茲海默症有 β-amyloid 斑塊與過度磷酸化 tau 構成的神經纖維糾結，屬 tau 蛋白病。",
     "tags": [
       "115-2-4",
       "神經內科"
@@ -894,7 +894,7 @@
       "D": "對於藥物治療反應差的病人，可考慮使用聚焦超音波燒灼術"
     },
     "answer": "A",
-    "explanation": "本態性顫抖主要是雙側上肢動作性或姿勢性顫抖，而非典型靜止性顫抖。<br>(A) 正確，對稱性resting tremor較提示Parkinsonism，不是本態性顫抖的典型描述<br>(B) 錯誤，診斷前須排除甲狀腺亢進、藥物與其他續發原因<br>(C) 錯誤，propranolol及primidone是常用一線藥物，部分患者可用benzodiazepine<br>(D) 錯誤，藥物難治且功能障礙明顯者可考慮丘腦深部腦刺激或MRI導引聚焦超音波治療",
+    "explanation": "本態性顫抖依 MDS 2018 定義為孤立性雙上肢動作性顫抖（姿勢性與動態性），病程至少 3 年，靜止性顫抖是巴金森病的典型表現。<br>(A) 最不適當，本態性顫抖是姿勢性與動態性顫抖，不是靜止性顫抖。<br>(B) 適當，診斷前須排除增強型生理性顫抖的原因，如甲狀腺機能亢進，以及 lithium、valproate 等引起顫抖的藥物。<br>(C) 適當，AAN 2011 指引以 propranolol 與 primidone 為第一線，alprazolam 等 benzodiazepine 為第二線。<br>(D) 適當，藥物反應差且功能受影響者可考慮 MR 導引聚焦超音波視丘切開術或視丘 VIM 深部腦刺激術。",
     "tags": [
       "115-2-4",
       "神經內科"

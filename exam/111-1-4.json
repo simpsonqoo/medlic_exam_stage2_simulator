@@ -863,7 +863,7 @@
       "D": "黑質（substantia nigra）"
     },
     "answer": "C",
-    "explanation": "(A) 錯誤，尾核非典型病灶<br>(B) 錯誤，殼部不是典型病灶<br>(C) 正確，蒼白球受損最典型<br>(D) 錯誤，黑質為原發性PD病灶",
+    "explanation": "一氧化碳中毒造成雙側蒼白球壞死，產生不可逆的巴金森症候群。<br>(A) 錯誤，尾核不是一氧化碳中毒的典型病灶。<br>(B) 錯誤，殼核不是典型病灶。<br>(C) 正確。<br>(D) 錯誤，黑質是原發性巴金森病與 MPTP 的病灶位置。",
     "tags": [
       "111-1(四)",
       "神經內科"
@@ -880,7 +880,7 @@
       "D": "動腦（mental tasks）時會加重顫抖"
     },
     "answer": "B",
-    "explanation": "(A) 正確，顫抖多為不對稱<br>(B) 錯誤，freezing屬晚期<br>(C) 正確，動作時顫抖會減輕<br>(D) 正確，認知任務會加重顫抖",
+    "explanation": "巴金森病的靜止性顫抖兩側不對稱，做動作時減輕，心算等認知任務與情緒壓力時加重。步態凍結（freezing of gait）屬病程較晚期的表現，發病早期就出現時要考慮非典型巴金森症候群，因此發病兩年內最不會出現。<br>(A) 會出現。<br>(B) 最不會出現。<br>(C) 會出現。<br>(D) 會出現。",
     "tags": [
       "111-1(四)",
       "神經內科"
@@ -897,7 +897,7 @@
       "D": "氟化去氧葡萄糖正子斷層造影（2-fluoro-2-deoxy-D-glucose positron emission tomography）發現顳葉及頂葉（temporoparietal lobes）代謝活性降低"
     },
     "answer": "A",
-    "explanation": "(A) 錯誤，應下降非增加<br>(B) 正確，MRI可見海馬萎縮<br>(C) 正確，amyloid PET陽性<br>(D) 正確，FDG-PET顯示顳頂葉代謝下降",
+    "explanation": "阿茲海默症病人的腦脊髓液 Aβ42 是下降而不是增加，因為 Aβ42 沉積在腦內斑塊。<br>(A) 最不像阿茲海默症。<br>(B) 像，海馬迴與內側顳葉萎縮是典型的 MRI 表現。<br>(C) 像，類澱粉 PET 陽性反映腦內 Aβ 斑塊。<br>(D) 像，FDG-PET 顳頂葉與後扣帶迴代謝下降是典型表現。",
     "tags": [
       "111-1(四)",
       "神經內科"
