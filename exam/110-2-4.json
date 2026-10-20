@@ -774,7 +774,7 @@
       "D": "可用來做急性偏頭痛發作時之治療"
     },
     "answer": "A",
-    "explanation": "Ergotamine為麥角生物鹼，作用於5-HT受體並造成血管收縮，用於急性偏頭痛。並非β-腎上腺素受體致效劑。<br>(A) 錯誤，非beta-adrenergic agonist<br>(B) 正確，會造成血管收縮<br>(C) 正確，有serotonin receptor親和力<br>(D) 正確，可用於急性偏頭痛",
+    "explanation": "ergotamine 為麥角生物鹼，作用於 5-HT1B/1D 受體，另有 α 腎上腺素受體與多巴胺受體活性，造成血管收縮，可用於急性偏頭痛發作。它不是 β 腎上腺素受體促效劑。<br>(A) 錯誤，ergotamine 作用於 α 腎上腺素受體，不是 β 腎上腺素受體促效劑。<br>(B) 正確，會造成血管收縮，因此缺血性心臟病與周邊血管疾病禁用。<br>(C) 正確，對 5-HT1B/1D 受體有親和力。<br>(D) 正確，可用於急性偏頭痛發作的治療。",
     "tags": [
       "110-2(四)",
       "神經內科"
@@ -842,7 +842,7 @@
       "D": "海綿竇（cavernous sinus）"
     },
     "answer": "A,C",
-    "explanation": "CVST最常累及上矢狀竇與橫竇，海綿竇及下矢狀竇少見。<br>(A) 正確，常見部位<br>(B) 錯誤，少見<br>(C) 正確，橫竇也是常見<br>(D) 錯誤，海綿竇栓塞多為感染引起",
+    "explanation": "腦靜脈竇栓塞最常發生於上矢狀竇與橫竇，其次為乙狀竇、直竇與皮質靜脈。ISCVT 中上矢狀竇約 62%，左、右橫竇各約 41~45%，兩者都是最常見的部位，公告 (A)(C) 皆給分。<br>(A) 正確，上矢狀竇是最常受累的靜脈竇之一。<br>(B) 錯誤，下矢狀竇少見。<br>(C) 正確，橫竇也是最常受累的靜脈竇之一。<br>(D) 錯誤，海綿竇栓塞少見，多由顏面、鼻竇或眼眶感染引起。",
     "tags": [
       "110-2(四)",
       "神經內科"
@@ -1288,7 +1288,7 @@
       "D": "靜脈竇栓塞（venous sinus thrombosis）"
     },
     "answer": "D",
-    "explanation": "顯影後可見靜脈竇充盈缺損，典型為靜脈竇栓塞。<br>(A) 錯誤，SDH 表現不同。<br>(B) 錯誤，SAH 為蛛網膜下腔出血。<br>(C) 錯誤，EDH 與動脈破裂相關。<br>(D) 正確，符合影像表現。",
+    "explanation": "先看未增強影像是否出現上矢狀竇（superior sagittal sinus）高密度，再對照增強後是否呈現周邊硬腦膜/竇壁增強而中央呈充盈缺損的「空三角徵（empty-delta sign）」，這是靜脈竇栓塞（venous sinus thrombosis）的典型表現。<br>(A) 錯誤，硬腦膜下血腫（subdural hematoma）呈新月形沿顱骨內板分布，可越縫不過中線，增強後不會形成竇腔內的中央充盈缺損。<br> (B) 錯誤，蜘蛛網膜下腔出血（subarachnoid hemorrhage）表現在腦溝與基底池的高密度血液，與靜脈竇內的增強模式無關。<br> (C) 錯誤，硬腦膜外血腫（epidural hematoma）多為雙凸透鏡狀、受顱縫限制，位置多在顱骨內板外側，非中線竇道，且增強後不會出現空三角徵。<br> (D) 正確，靜脈竇栓塞（venous sinus thrombosis）在未增強時可見「密三角徵（dense-triangle sign）」，增強後竇壁環形增強、中央不顯影即「空三角徵（empty-delta sign）」，與圖 B 的箭頭所示相符。<br><img src=\"paste-9a110c901919c45a850a74ff5d9811d1f6fd10e1.jpg\">",
     "tags": [
       "110-2(四)",
       "神經內科"

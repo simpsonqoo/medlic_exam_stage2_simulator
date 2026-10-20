@@ -829,7 +829,7 @@
       "D": "預防性用藥的選擇宜考慮病患是否有其他共病，如高血壓或躁鬱症"
     },
     "answer": "C",
-    "explanation": "(A) 正確，triptan禁用於心血管疾病<br>(B) 正確，頻繁發作可考慮預防用藥<br>(C) 錯誤，carbamazepine不是常用藥<br>(D) 正確，選藥需考慮共病",
+    "explanation": "carbamazepine 是三叉神經痛的首選藥，不是偏頭痛的預防藥。偏頭痛預防常用的抗癲癇藥是 topiramate 與 valproate。<br>(A) 恰當，triptan 會造成血管收縮，缺血性心臟病、腦血管疾病、周邊動脈疾病與未控制的高血壓禁用。<br>(B) 恰當，每月偏頭痛 4 天以上或有明顯失能時，可考慮預防性治療（AAN/AHS 2026）。<br>(C) 最不恰當，預防偏頭痛的抗癲癇藥是 topiramate 與 valproate，carbamazepine 不屬常用預防藥。<br>(D) 恰當，預防藥物依共病選擇，例如高血壓可選 β 阻斷劑，躁鬱症或癲癇可選 valproate。",
     "tags": [
       "111-1(四)",
       "神經內科"

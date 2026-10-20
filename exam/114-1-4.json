@@ -798,7 +798,7 @@
       "D": "小腦（cerebellum）"
     },
     "answer": "A",
-    "explanation": "高血壓最常造成基底核出血，特別是殼核。<br>(A) 正確，殼核為典型位置<br>(B) 錯誤，前額葉少見<br>(C) 錯誤，枕葉少見<br>(D) 錯誤，小腦出血較少與高血壓相關",
+    "explanation": "長期未治療的高血壓造成穿通小動脈脂質透明變性與微動脈瘤，高血壓性腦出血好發於深部，以殼核（基底核）最常見，其次為視丘、橋腦與小腦。殼核出血造成對側偏癱，符合本例的右側偏癱。<br>(A) 正確，殼核是高血壓性腦出血最常見的位置。<br>(B) 錯誤，前額葉屬腦葉出血，較常見於腦類澱粉血管病變、血管畸形或腫瘤出血。<br>(C) 錯誤，枕葉同屬腦葉出血，且主要表現為對側同向偏盲。<br>(D) 錯誤，小腦也是高血壓性出血的部位之一，但比殼核少見，且表現為眩暈與共濟失調，通常沒有偏癱。",
     "tags": [
       "114-1(四)",
       "神經內科"
@@ -815,7 +815,7 @@
       "D": "onabotulinum toxin type A"
     },
     "answer": "B",
-    "explanation": "偏頭痛預防常用 propranolol、topiramate、botulinum toxin A 等，carbamazepine 用於三叉神經痛。<br>(A) 正確，propranolol 可用<br>(B) 錯誤，carbamazepine 不適用<br>(C) 正確，topiramate 可用<br>(D) 正確，肉毒桿菌素可用",
+    "explanation": "偏頭痛的預防性藥物包括 β 阻斷劑（propranolol、metoprolol）、抗癲癇藥（topiramate、valproate）、amitriptyline、抗 CGRP 單株抗體、gepant，慢性偏頭痛可用 onabotulinumtoxinA。carbamazepine 是三叉神經痛的首選藥，不是偏頭痛的預防藥。<br>(A) 是預防藥物，propranolol 為 β 阻斷劑。<br>(B) 不是預防藥物，carbamazepine 用於三叉神經痛。<br>(C) 是預防藥物，topiramate 為抗癲癇藥。<br>(D) 是預防藥物，onabotulinumtoxinA 用於慢性偏頭痛的預防，每 12 週注射一次。",
     "tags": [
       "114-1(四)",
       "神經內科"
@@ -1274,7 +1274,7 @@
       "D": "腦下垂體腺瘤"
     },
     "answer": "D",
-    "explanation": "病程與影像最符合腦下垂體腺瘤，常見於中年女性。<br>(A) 錯誤，內頸動脈瘤多表現為蛛網膜下腔出血。<br>(B) 錯誤，腦膜瘤多見於腦表面。<br>(C) 錯誤，膠質母細胞瘤進展快且預後差。<br>(D) 正確，影像與臨床最相符。",
+    "explanation": "中年女性頭痛，MRI 冠狀面可見鞍內往鞍上延伸的腫塊，在蝶鞍隔處縮窄，視交叉被抬高，為腦下垂體巨腺瘤的典型表現。腦下垂體腺瘤是最常見的鞍區腫瘤。<br>(A) 錯誤，內頸動脈動脈瘤位於鞍旁，MRI 為血流空洞，破裂時以蜘蛛膜下腔出血表現。<br>(B) 錯誤，鞍結節腦膜瘤以硬腦膜為基底，呈寬基底與硬膜尾徵，蝶鞍不擴大。<br>(C) 錯誤，多形性膠質母細胞瘤是大腦半球白質的軸內腫瘤，呈環狀顯影合併中央壞死，不位於鞍區。<br>(D) 正確，腦下垂體腺瘤。",
     "tags": [
       "114-1(四)",
       "神經內科"
