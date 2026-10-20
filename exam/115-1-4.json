@@ -802,7 +802,7 @@
       "D": "若給與靜脈注射之抗癲癇藥物後仍未停止發作，需進行插管，開始給與 propofol、midazolam 或 phenobarbital 靜脈注射"
     },
     "answer": "A",
-    "explanation": "重積癲癇（status epilepticus）的定義已由傳統的30分鐘更新為持續超過5分鐘的持續性發作，或兩次發作間意識未恢復，30分鐘的定義已不再適用。<br>(A) 正確，重積癲癇（status epilepticus）的現行定義為痙攣持續超過5分鐘（而非30分鐘），或兩次以上發作之間意識未恢復；30分鐘為舊定義，已被更新<br>(B) 錯誤，lorazepam靜脈注射是重積癲癇的第一線治療，若5分鐘後癲癇未停止可重複給予一次<br>(C) 錯誤，若苯二氮平類（benzodiazepine）治療無效，應給予第二線靜脈注射抗癲癇藥物，包括phenytoin、valproic acid或levetiracetam<br>(D) 錯誤，若靜脈注射抗癲癇藥物仍無效（難治性重積癲癇，refractory status epilepticus），需插管並給予全身麻醉劑如propofol、midazolam或phenobarbital",
+    "explanation": "重積癲癇的臨床操作定義為全身痙攣發作持續 5 分鐘以上，或兩次以上發作之間意識未恢復。30 分鐘是 ILAE 的 t2（可能造成長期神經損傷的時間），不是診斷門檻。<br>(A) 錯誤，持續 5 分鐘以上即可診斷。<br>(B) 正確，第一線為 benzodiazepine，IV lorazepam 未停止時可重複一次。<br>(C) 正確，第二線可用 fosphenytoin（或 phenytoin）、valproate、levetiracetam。<br>(D) 正確，第二線無效即為難治性重積，需氣管插管並以麻醉劑量的 midazolam、propofol 或 barbiturate 類連續輸注，以連續腦波監測。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -836,7 +836,7 @@
       "D": "血鉀過低"
     },
     "answer": "B",
-    "explanation": "白日嗜睡、情緒觸發的猝倒發作（cataplexy，意識清醒下突發肌肉張力喪失）、睡眠麻痺（sleep paralysis）及入睡前幻覺（hypnagogic hallucination）四大特徵，是猝睡症（narcolepsy type 1）的典型表現，致病機轉為下視丘分泌素（hypocretin，又稱orexin）缺乏。<br>(A) 錯誤，腦部異常放電（epileptiform discharge）是癲癇（epilepsy）的致病機轉，猝倒發作時意識清醒、無記憶缺失，與癲癇不同<br>(B) 正確，猝睡症第一型（narcolepsy type 1）的致病機轉是下視丘分泌素（hypocretin/orexin）分泌神經元受自體免疫破壞，導致hypocretin缺乏，腦脊髓液（CSF）中hypocretin濃度極低是診斷依據之一<br>(C) 錯誤，神經肌肉交接傳遞異常（neuromuscular junction dysfunction）是重症肌無力（myasthenia gravis）的致病機轉，與本題描述不符<br>(D) 錯誤，低血鉀（hypokalemia）可造成週期性肢體無力（periodic paralysis），但不會解釋白日嗜睡、情緒觸發猝倒及睡眠麻痺等完整臨床表現",
+    "explanation": "21 歲女性有白天嗜睡、被玩笑誘發的眼瞼與頭部下垂及雙膝癱軟且意識清楚（猝倒），夜間有睡眠麻痺，符合第一型猝睡症。致病機轉是下視丘外側產生下視丘泌素（hypocretin，又稱 orexin）的神經元喪失，腦脊髓液 hypocretin-1 ≤ 110 pg/mL 是診斷依據之一。<br>(A) 錯誤，異常放電是癲癇的機轉，猝倒發作時意識清楚。<br>(B) 正確，hypocretin 缺乏。<br>(C) 錯誤，神經肌肉交接處傳遞異常是重症肌無力的機轉。<br>(D) 錯誤，低血鉀造成週期性麻痺，無法解釋白天嗜睡、情緒誘發的猝倒與睡眠麻痺。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -1306,7 +1306,7 @@
       "D": "靜脈注射抗癲癇藥物是必要的"
     },
     "answer": "A",
-    "explanation": "癲癇重積（status epilepticus，SE）的現行定義已更新為持續超過5分鐘的發作，或兩次以上發作之間意識未恢復，而非舊定義的10分鐘或30分鐘。<br>(A) 正確，癲癇重積（status epilepticus）的現行定義為單次抽搐持續超過5分鐘（而非10分鐘），或兩次以上發作間意識未恢復；10分鐘的定義不正確<br>(B) 錯誤，兩次或兩次以上抽搐之後意識沒有恢復，確實符合癲癇重積的診斷標準<br>(C) 錯誤，長時間癲癇重積確實可能造成神經元損傷（neuronal injury），包括海馬迴（hippocampus）的選擇性損傷<br>(D) 錯誤，靜脈注射抗癲癇藥物（如苯二氮平類、phenytoin、valproic acid）是處理癲癇重積的必要措施",
+    "explanation": "癲癇重積的臨床操作定義為單次痙攣持續 5 分鐘以上，或兩次以上發作之間意識未恢復，不是 10 分鐘。<br>(A) 錯誤，時間門檻為 5 分鐘。<br>(B) 正確，符合第二項定義。<br>(C) 正確，持續發作可造成神經元損傷（ILAE t2）。<br>(D) 正確，benzodiazepine 之後需靜脈注射第二線抗癲癇藥物。",
     "tags": [
       "115-1-4",
       "神經內科"

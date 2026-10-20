@@ -823,7 +823,7 @@
       "D": "顳葉癲癇（temporal lobe epilepsy）"
     },
     "answer": "C",
-    "explanation": "夜間叢發性短暫動作、意識清楚，典型為額葉癲癇。<br>(A) 錯誤，恐慌症不符合<br>(B) 錯誤，parasomnia不會如此 stereotyped<br>(C) 正確，典型額葉癲癇表現<br>(D) 錯誤，顳葉癲癇多較長、伴意識障礙",
+    "explanation": "夜間睡眠中反覆發作、臉部驚恐表情與四肢過度動作、每次表現刻板、只持續約 20 秒、一晚叢集多次、午睡也會發作、發作後意識清楚，符合額葉癲癇（睡眠相關過動癲癇）。<br>(A) 錯誤，恐慌發作多在清醒時，症狀持續數分鐘以上，不會每晚叢集且表現刻板。<br>(B) 錯誤，NREM 異睡症通常一晚一次、持續較久、每次表現不同，事後失憶，午睡少見。<br>(C) 正確，額葉癲癇。<br>(D) 錯誤，顳葉癲癇常有上腹上升感等預兆與口咽自動症，持續約 1~2 分鐘，發作後混亂。",
     "tags": [
       "114-2-4",
       "神經內科"
@@ -840,7 +840,7 @@
       "D": "phenytoin"
     },
     "answer": "C",
-    "explanation": "valproate 致畸胎性最高，lamotrigine 相對安全。<br>(A) 錯誤，valproate 致畸胎性高<br>(B) 錯誤，topiramate 有畸胎性<br>(C) 正確，lamotrigine 相對安全<br>(D) 錯誤，phenytoin 可致胎兒水腫",
+    "explanation": "抗癲癇藥物的重大先天畸形率以 valproate 最高（EURAP 約 10.3%），lamotrigine（約 2.9%）與 levetiracetam（約 2.8%）最低。AAN/AES/SMFM 2024 建議生育年齡女性優先考慮 lamotrigine、levetiracetam、oxcarbazepine，盡可能避免 valproate、phenobarbital、topiramate。<br>(A) 錯誤，valproate 畸形率最高，並與神經管缺陷及神經發展不良相關。<br>(B) 錯誤，topiramate 與唇顎裂相關，指引建議盡可能避免。<br>(C) 正確，lamotrigine 的畸形率最低，是優先考慮的藥物之一。<br>(D) 錯誤，phenytoin 畸形率約 6.4%，可造成胎兒乙內醯脲症候群。",
     "tags": [
       "114-2-4",
       "神經內科"

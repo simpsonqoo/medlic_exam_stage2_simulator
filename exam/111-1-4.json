@@ -812,7 +812,7 @@
       "D": "暈厥同時有短暫的肌肉強直仍不可確診為癲癇"
     },
     "answer": "D",
-    "explanation": "(A) 錯誤，正常MRI不能排除癲癇<br>(B) 錯誤，需臨床符合，單EEG不足<br>(C) 錯誤，熱痙攣不必然進展為癲癇<br>(D) 正確，暈厥合併短暫強直非癲癇確診依據",
+    "explanation": "暈厥時腦部短暫灌流不足，可出現短暫的肌陣攣或強直（抽搐性暈厥），不能因此確診癲癇。癲癇的診斷依據臨床病史，腦波與影像只是輔助。<br>(A) 錯誤，許多遺傳性全面癲癇的 MRI 正常，MRI 正常不能排除癲癇。<br>(B) 錯誤，沒有癲癇的人也可見癲癇樣放電，單憑腦波出現棘波不能確診，須對應臨床發作。<br>(C) 錯誤，單純型熱性痙攣後發展為癲癇的風險約 2%，只略高於一般人口的約 1%，多數不會發展為癲癇。<br>(D) 正確，暈厥合併短暫肌肉強直仍不可確診為癲癇。",
     "tags": [
       "111-1(四)",
       "神經內科"
@@ -846,7 +846,7 @@
       "D": "topiramate"
     },
     "answer": "B",
-    "explanation": "(A) 錯誤，levetiracetam可用<br>(B) 正確，phenytoin應避免<br>(C) 錯誤，valproate是首選<br>(D) 錯誤，topiramate也可使用",
+    "explanation": "JME 屬遺傳性全面性癲癇，valproate 療效最佳，也可用 levetiracetam、lamotrigine、topiramate 等廣效藥物。phenytoin、carbamazepine、oxcarbazepine 等窄效鈉通道藥物會加重肌陣攣與失神，應避免。<br>(A) 可用，levetiracetam 是 JME 的常用藥物。<br>(B) 需避免，phenytoin 會加重肌陣攣與失神。<br>(C) 可用，valproate 療效最佳。<br>(D) 可用，topiramate 為廣效藥物。",
     "tags": [
       "111-1(四)",
       "神經內科"

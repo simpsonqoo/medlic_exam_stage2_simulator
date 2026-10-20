@@ -808,7 +808,7 @@
       "D": "如果抗癲癇藥物不能有效控制病情或癲癇發作影響生活品質，癲癇手術是可能的選擇"
     },
     "answer": "A",
-    "explanation": "需檢測 HLA-B1502（東亞族群藥疹風險基因），而非 HLA-B*1500。<br>(A) 錯誤，基因標記有誤<br>(B) 正確，valproic acid 不建議孕齡婦女使用<br>(C) 正確，phenytoin 與 carbamazepine 會降低避孕藥效<br>(D) 正確，手術可考慮於藥物無效時",
+    "explanation": "與 carbamazepine 引起 SJS/TEN 相關的基因是 HLA-B*15:02（不是題目的 HLA-B*1500），台灣健保給付 carbamazepine 用藥前檢測，CPIC 也建議帶因者避免 phenytoin。題目的基因名稱錯誤，故 (A) 最不適當。<br>(A) 最不適當，基因名稱錯誤。<br>(B) 適當，valproate 致畸性最高，生育年齡女性應避免。<br>(C) 適當，phenytoin 與 carbamazepine 是肝酵素誘導劑，會降低荷爾蒙避孕藥效果，應告知意外懷孕的風險。<br>(D) 適當，經兩種適當抗癲癇藥物仍無法控制的藥物抗性癲癇（如內側顳葉癲癇）可考慮癲癇手術。",
     "tags": [
       "111-2(四)",
       "神經內科"
@@ -825,7 +825,7 @@
       "D": "十年內發展成巴金森氏病的危險率增加"
     },
     "answer": "C",
-    "explanation": "抗憂鬱劑常加重 REM 睡眠行為障礙，不會改善。<br>(A) 正確，好發於老年男性<br>(B) 正確，特徵為 REM 無肌張力缺失<br>(C) 錯誤，抗憂鬱劑會惡化<br>(D) 正確，與巴金森病等 α-synucleinopathy 有關",
+    "explanation": "後半夜發作、與夢境吻合的暴力行為、醒後能描述夢境，為 REM 睡眠行為障礙（RBD）。<br>(A) 適當，好發於 50 歲以上男性。<br>(B) 適當，多項睡眠生理檢查可見 REM 期沒有肌肉失張力（REM sleep without atonia）。<br>(C) 最不適當，SSRI、SNRI 與三環抗憂鬱劑會誘發或加重 RBD，不會改善。<br>(D) 適當，特發性 RBD 是 α-突觸核蛋白病的前驅期，Postuma 2019 追蹤每年約 6.3% 轉化為巴金森病、路易氏體失智症或多系統萎縮。",
     "tags": [
       "111-2(四)",
       "神經內科"
