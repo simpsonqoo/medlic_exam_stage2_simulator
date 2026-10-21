@@ -1078,7 +1078,7 @@
       "D": "譫妄的腦波（EEG）典型呈現 generalized paroxysmal fast activity"
     },
     "answer": "D",
-    "explanation": "譫妄（delirium）的腦波（electroencephalography，EEG）典型表現是瀰漫性慢波（generalized slowing）或瀰漫性δ波（diffuse delta activity），而非廣泛性陣發性快速活動（generalized paroxysmal fast activity）。<br>(A) 錯誤，相較於失智症（dementia），譫妄（delirium）的發作較急驟，且意識狀態波動性（fluctuation）較大<br>(B) 錯誤，嚴重躁症（severe mania）的極度混亂行為確實可能與譫妄難以區別，需詳細評估<br>(C) 錯誤，低活動型譫妄（hypoactive delirium）患者表現為嗜睡、活動減少，確實容易與憂鬱症（depression）混淆<br>(D) 正確，譫妄的EEG典型表現是瀰漫性慢波（generalized slow wave activity），而非廣泛性陣發性快速活動（generalized paroxysmal fast activity）；後者更接近癲癇發作（epileptiform activity）的表現",
+    "explanation": "譫妄的腦波典型是背景活動廣泛減慢（瀰漫性 theta 與 delta 波），酒精或鎮靜安眠藥戒斷引起的譫妄才呈現低電壓快速活動，「廣泛性陣發性快速活動」不是譫妄的典型腦波。<br>(A) 適當，譫妄急性發作且一天中波動，失智症則隱匿漸進。<br>(B) 適當，嚴重躁症可極度混亂（delirious mania），與譫妄難以區別。<br>(C) 適當，活動低下型譫妄嗜睡、活動減少，常被誤認為憂鬱症。<br>(D) 最不適當。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1112,7 +1112,7 @@
       "D": "使用苯二氮平類藥物可有效緩解譫妄"
     },
     "answer": "C",
-    "explanation": "譫妄（delirium）的死亡率（mortality）是重要的臨床知識，發生譫妄後的短期及中期死亡率均顯著升高，3個月死亡率約20至30%是有實證支持的數據。<br>(A) 錯誤，譫妄的處置應優先採用非藥物介入（non-pharmacological interventions），如定向感維持（reorientation）、睡眠衛生（sleep hygiene）及早期活動（early mobilization）；低劑量抗精神病藥物並非優先選項<br>(B) 錯誤，非藥物介入應以定向感維持、環境調整及避免身體約束（physical restraint）為優先；身體約束本身可能加重譫妄及增加併發症風險，不應優先採用<br>(C) 正確，發生譫妄的患者3個月後死亡率約為20至30%，反映譫妄作為嚴重疾病指標的臨床意義<br>(D) 錯誤，苯二氮平類藥物（benzodiazepine）通常會加重譫妄（除了酒精或苯二氮平戒斷引起的譫妄例外），不應用於一般譫妄的治療",
+    "explanation": "譫妄（delirium）的死亡率（mortality）是重要的臨床知識，發生譫妄後的短期及中期死亡率均顯著升高，3個月死亡率約20至30%是有實證支持的數據。<br>(A) 錯誤，譫妄的處置應優先採用非藥物介入（non-pharmacological interventions），如定向感維持（reorientation）、睡眠衛生（sleep hygiene）及早期活動（early mobilization），低劑量抗精神病藥物並非優先選項<br>(B) 錯誤，非藥物介入應以定向感維持、環境調整及避免身體約束（physical restraint）為優先，身體約束本身可能加重譫妄及增加併發症風險，不應優先採用<br>(C) 正確，發生譫妄的患者3個月後死亡率約為20至30%，反映譫妄作為嚴重疾病指標的臨床意義<br>(D) 錯誤，苯二氮平類藥物（benzodiazepine）通常會加重譫妄（除了酒精或苯二氮平戒斷引起的譫妄例外），不應用於一般譫妄的治療",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1180,7 +1180,7 @@
       "D": "Ketamine"
     },
     "answer": "D",
-    "explanation": "中樞神經刺激劑（central nervous system stimulants）的定義是增加中樞神經系統活性的物質，主要透過增加多巴胺（dopamine）及正腎上腺素（norepinephrine）的作用；ketamine是一種解離性麻醉劑（dissociative anesthetic），作用機制為NMDA受體拮抗劑（NMDA receptor antagonist），不屬於刺激劑。<br>(A) 錯誤，cocaine透過阻斷多巴胺、正腎上腺素及血清素（serotonin）的再回收（reuptake），產生強烈的中樞神經刺激效果<br>(B) 錯誤，methamphetamine透過促進多巴胺及正腎上腺素的釋放並抑制其再回收，屬於強效中樞神經刺激劑<br>(C) 錯誤，methylphenidate（利他能，Ritalin）透過阻斷多巴胺及正腎上腺素的再回收，用於治療注意力不足過動症（ADHD），屬於中樞神經刺激劑<br>(D) 正確，ketamine（愷他命）是NMDA受體拮抗劑（NMDA receptor antagonist），屬於解離性麻醉劑（dissociative anesthetic），不屬於中樞神經刺激劑的分類",
+    "explanation": "中樞神經刺激劑是增加突觸間 dopamine 與 norepinephrine、使中樞神經活性上升的物質，包括 cocaine、amphetamine 類（含 methamphetamine）與 methylphenidate。Ketamine 是 NMDA 受體拮抗劑，屬於解離性麻醉劑，DSM-5-TR 與 phencyclidine 同歸於幻覺劑，不屬於中樞神經刺激劑。<br>(A) 屬於中樞神經刺激劑，cocaine 阻斷 dopamine、norepinephrine 與 serotonin 的回收。<br>(B) 屬於中樞神經刺激劑，methamphetamine 促進 dopamine 與 norepinephrine 釋放並抑制回收。<br>(C) 屬於中樞神經刺激劑，methylphenidate 阻斷 dopamine 與 norepinephrine 的回收，用於治療 ADHD。<br>(D) 不屬於中樞神經刺激劑，為本題答案。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1197,7 +1197,7 @@
       "D": "幻覺劑（hallucinogen）"
     },
     "answer": "A",
-    "explanation": "食慾降低、情緒激躁不安、血壓升高、心跳加速及多疑（paranoia）是交感神經亢進（sympathomimetic）表現，與安非他命（amphetamine）等中樞神經刺激劑使用後的典型症狀完全吻合。<br>(A) 正確，安非他命（amphetamine）使用後透過大量釋放多巴胺及正腎上腺素，產生食慾降低、激躁、血壓升高、心跳加速及多疑等交感神經亢進及多巴胺過量的症狀，完全符合本題描述<br>(B) 錯誤，愷他命（ketamine）使用後主要表現為解離感（dissociation）、幻覺（hallucination）及感知扭曲（perceptual distortion），而非典型的交感神經亢進症狀如血壓升高及心跳加速<br>(C) 錯誤，大麻（cannabis）使用後主要表現為放鬆感、食慾增加（而非降低）、時間感扭曲及可能的偏執感，通常不會有明顯血壓升高及心跳顯著加速<br>(D) 錯誤，幻覺劑（hallucinogen，如LSD）主要造成感知扭曲及幻覺，食慾降低及交感神經亢進症狀並非其最典型表現",
+    "explanation": "食慾降低合併激躁、多疑與交感神經亢進（血壓升高、心跳加速），是安非他命等中樞神經刺激劑中毒的典型表現。<br>(A) 正確。<br>(B) 錯誤，愷他命雖可使血壓與心跳上升，但主要表現是解離、幻覺與知覺扭曲，不以食慾降低與多疑為主。<br>(C) 錯誤，大麻中毒可有心搏過速，但會使食慾增加，並有結膜充血、口乾。<br>(D) 錯誤，幻覺劑以知覺扭曲與幻覺為主，食慾降低合併激躁多疑不是典型表現。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1340,7 +1340,7 @@
       "D": "使用後可反轉嗎啡類產生的呼吸抑制，幾乎沒有什麼副作用"
     },
     "answer": "B",
-    "explanation": "naloxone是純阿片類拮抗劑（pure opioid antagonist），對所有阿片類受器（opioid receptors）均有拮抗作用，鼻腔噴霧（intranasal）劑型的生物可利用率與肌肉注射（intramuscular injection）相當，是重要的臨床知識。<br>(A) 錯誤，naloxone對μ（mu）、κ（kappa）及δ（delta）三種阿片類受器均有拮抗作用，且對μ受器的拮抗作用最強（而非最弱），因為大多數阿片類藥物主要作用於μ受器<br>(B) 正確，naloxone鼻腔噴霧劑（intranasal naloxone）的吸收效果與肌肉注射相當，生物可利用率相近，因此可作為院外緊急救治阿片類藥物過量的有效給藥途徑<br>(C) 錯誤，naloxone的作用時間（30至90分鐘）遠短於大多數阿片類藥物（如嗎啡、美沙冬），因此常需多次給予或連續輸注（continuous infusion）以維持拮抗效果，避免再次出現阿片類中毒症狀（re-narcotization）<br>(D) 錯誤，naloxone雖可有效逆轉阿片類誘發的呼吸抑制（respiratory depression），但可能引起急性戒斷症狀（acute withdrawal symptoms），包括激躁、噁心嘔吐、心跳加速及高血壓等副作用，並非幾乎沒有副作用",
+    "explanation": "Naloxone 是純 opioid 拮抗劑，可拮抗 μ、κ、δ 受體，對 μ 受體的親和力最強。可由靜脈、肌肉、皮下或鼻腔給藥，高濃度鼻噴劑達到的血中濃度與肌肉注射相當，可用於院外緊急救治。<br>(A) 錯誤，naloxone 對 μ 受體的拮抗作用最強，不是較弱。<br>(B) 正確。<br>(C) 錯誤，naloxone 作用時間約 30~90 分鐘，短於多數 opioid，藥效退去後可能再度呼吸抑制，常需重複給藥或持續輸注。<br>(D) 錯誤，naloxone 對有身體依賴者可誘發急性戒斷，出現激躁、噁心嘔吐、心跳加速與高血壓。",
     "tags": [
       "115-1-4",
       "精神科"

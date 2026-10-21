@@ -1163,7 +1163,7 @@
       "D": "出現短期記憶（short-term memory）障礙，其神經病理學上主要和顳葉受損有關"
     },
     "answer": "A",
-    "explanation": "Wernicke 腦病變急性期需立即補充高劑量維生素 B1，以防進展成 Korsakoff 症候群。<br>(A) 正確，thiamine 為關鍵治療。<br>(B) 錯誤，治療後不一定會進展。<br>(C) 錯誤，眼球運動異常可為多樣化，不一定單側。<br>(D) 錯誤，短期記憶障礙與乳突體（mammillary body）受損相關。",
+    "explanation": "Wernicke 腦病變是 thiamine 缺乏造成的急症，疑似時就應立即給予高劑量靜脈 thiamine。<br>(A) 正確。<br>(B) 錯誤，未治療時約 75~80% 進展為 Korsakoff 症候群，及時治療可以改善，不是幾乎都會進展。<br>(C) 錯誤，眼球運動異常常見水平眼振，外直肌麻痺多為雙側。<br>(D) 錯誤，Korsakoff 的記憶障礙與乳頭體（mammillary body）及視丘背內側核受損有關，不是顳葉。",
     "tags": [
       "113-2(四)",
       "精神科"
