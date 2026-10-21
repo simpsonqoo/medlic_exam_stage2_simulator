@@ -1064,7 +1064,7 @@
       "D": "ramelteon"
     },
     "answer": "A",
-    "explanation": "AASM藥物指引對suvorexant、ramelteon及低劑量doxepin分別提出特定失眠型態的建議，但建議不要以melatonin治療一般成人慢性失眠。<br>(A) 正確，melatonin在該指引中屬「建議不要使用」，不是題目所問的recommend用藥<br>(B) 錯誤，doxepin可建議用於睡眠維持困難<br>(C) 錯誤，suvorexant可建議用於睡眠維持型失眠<br>(D) 錯誤，ramelteon可建議用於入睡困難<br>補充：上述建議多屬弱建議，臨床仍應先重視失眠認知行為治療及個別化評估",
+    "explanation": "AASM 2017 失眠藥物指引建議（皆為弱建議）用於失眠的藥物包括 suvorexant（睡眠維持）、ramelteon（入睡）、低劑量 doxepin（睡眠維持）、zolpidem、eszopiclone、zaleplon、triazolam、temazepam。Melatonin 則屬建議不要使用的藥物。<br>(A) 是本題答案，melatonin 不是建議用藥。<br>(B) 低劑量 doxepin 建議用於睡眠維持困難。<br>(C) Suvorexant 建議用於睡眠維持困難。<br>(D) Ramelteon 建議用於入睡困難。",
     "tags": [
       "115-2-4",
       "精神科"
@@ -1098,7 +1098,7 @@
       "D": "影像學研究顯示左背外側前額葉（left dorsolateral prefrontal cortex）可作為影像生物標記（biomarker）協助診斷焦慮症"
     },
     "answer": "D",
-    "explanation": "焦慮症目前沒有可單獨用於臨床確診的腦影像生物標記，診斷仍依症狀、病程、功能損害及排除物質或身體病因。<br>(A) 錯誤，廣泛性焦慮症與恐慌症均具有家族聚集與遺傳易感性<br>(B) 錯誤，社交焦慮症男女差異不像部分其他焦慮症明顯，臨床樣本中比例可相近<br>(C) 錯誤，SSRI與SNRI是多種焦慮症常用的一線藥物，也可搭配認知行為治療<br>(D) 正確，左背外側前額葉研究結果尚不足以成為個別患者的診斷biomarker",
+    "explanation": "焦慮症的腦影像研究（如杏仁核、前額葉）仍屬研究階段，目前沒有可用於個別病人診斷的影像生物標記，診斷依症狀、病程與功能損害，並排除物質或身體疾病。<br>(A) 適當，泛焦慮症與恐慌症都有家族聚集性，恐慌症遺傳率約 43%、泛焦慮症約 32%（Hettema 2001）。<br>(B) 適當，張小姐內向怕生，社交焦慮症是可能的診斷之一。社交焦慮症在社區樣本女性略多，臨床樣本男女比例接近，性別差異小於其他焦慮症。<br>(C) 適當，SSRI 與 SNRI 是多種焦慮症的一線藥物，可合併認知行為治療。<br>(D) 最不適當，左背外側前額葉的影像發現尚不足以作為個別病人的診斷生物標記。",
     "tags": [
       "115-2-4",
       "精神科"
