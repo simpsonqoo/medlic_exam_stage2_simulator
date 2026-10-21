@@ -1027,7 +1027,7 @@
       "D": "使用 lamotrigine"
     },
     "answer": "A",
-    "explanation": "雙極情緒障礙症鬱期（bipolar depression）的藥物治療需避免使用單純抗憂鬱劑（antidepressant）或具有躁症誘發風險的藥物；risperidone雖為非典型抗精神病藥（atypical antipsychotic），但其核准適應症主要為躁期（manic episode）及精神分裂症，用於雙極鬱期的證據不足且可能增加情緒轉躁（switch to mania）風險。<br>(A) 正確，risperidone主要核准用於雙極症躁期（manic episode）及精神分裂症，用於雙極鬱期（bipolar depression）的實證支持不足，並非適當選擇<br>(B) 錯誤，鋰鹽（lithium）是雙極情緒障礙症的經典情緒穩定劑（mood stabilizer），對雙極鬱期具有治療效果<br>(C) 錯誤，lurasidone已獲FDA核准用於雙極鬱期（bipolar depression）的治療，是有實證支持的選項<br>(D) 錯誤，lamotrigine（拉莫三嗪）對雙極鬱期具有良好療效，是常用的雙極鬱期維持治療藥物",
+    "explanation": "雙相第一型鬱期的一線藥物為 quetiapine、lithium、lamotrigine、lurasidone 與 cariprazine（CANMAT/ISBD 2018 與 2023 更新），FDA 核准用於雙相鬱期的有 quetiapine、lurasidone、cariprazine、lumateperone 與 olanzapine-fluoxetine 合併劑。Risperidone 不在雙相鬱期的推薦清單中，也不是 FDA 核准的雙相鬱期用藥。<br>(A) 最不適當。<br>(B) 適當，lithium 為一線。<br>(C) 適當，lurasidone 為一線，也是 FDA 核准的雙相鬱期用藥。<br>(D) 適當，lamotrigine 為一線。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1044,7 +1044,7 @@
       "D": "當躁期病人對於鋰鹽療效不佳時，可以加上電痙攣治療（electroconvulsive therapy）來促進治療反應"
     },
     "answer": "C",
-    "explanation": "電痙攣治療（electroconvulsive therapy，ECT）的適應症及療效預測因子需熟悉，身體症狀障礙症（somatic symptom disorder）合併重鬱症對ECT的反應並非較差，反而ECT對某些身體化症狀有一定療效。<br>(A) 錯誤，ECT的療效出現比抗憂鬱劑（antidepressant）更快，且療效通常優於藥物治療，並非「療效沒有差異」<br>(B) 錯誤，對抗憂鬱劑無效的難治性重鬱症（treatment-resistant depression）患者，接受ECT後約有60至80%會出現治療效果，而非「大約一半」<br>(C) 正確，重鬱症合併身體症狀障礙症（somatic symptom disorder）並不是ECT療效較差的預測因子，此敘述不正確；ECT療效較差的預測因子包括憂鬱症病程過長、合併人格障礙症（personality disorder）等<br>(D) 錯誤，躁期（manic episode）對鋰鹽療效不佳時，加上ECT可以促進治療反應，是臨床上可考慮的選項",
+    "explanation": "公告答案為 (C)。慮病、身體化等身體症狀特質，以及人格障礙症、病程長與藥物阻抗，都是電痙攣治療反應較差的預測因子，精神病性特徵、僵直症與老年則反應較好。<br>(A) 錯誤，電痙攣治療起效比抗憂鬱劑快，療效也較佳。<br>(B) 公告為非最適當。但研究顯示抗憂鬱劑治療無效者接受電痙攣治療的反應率約 58%（無藥物阻抗者約 70%，Haq 2015），緩解率約 48%（Heijnen 2010），「約一半」的敘述與現行資料相符。<br>(C) 最適當。<br>(D) 公告為非最適當。但電痙攣治療在 CANMAT/ISBD 2018 為急性躁期的二線治療，可用於嚴重或藥物治療無效的躁症。鋰鹽與電痙攣治療併用可能增加譫妄與神經毒性，治療前常停用或減量鋰鹽，這是此敘述可能被判為不適當的原因。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1214,7 +1214,7 @@
       "D": "如果病患的疾病生理與特徵很類似雙極情緒障礙症（bipolar disorder），藥物治療的首選是非典型抗精神 病劑（atypical antipsychotic agents）或情緒穩定劑（mood stabilizers）"
     },
     "answer": "B",
-    "explanation": "侵擾性情緒失調症（disruptive mood dysregulation disorder，DMDD）與注意力不足過動症（attention deficit hyperactivity disorder，ADHD）在臨床上可以共病（comorbid），DSM-5並未禁止兩者同時診斷。<br>(A) 錯誤，DMDD是DSM-5新納入的診斷，特徵是嚴重且不適切的脾氣爆發（temper outburst），頻率至少每週3次以上，症狀需持續至少12個月<br>(B) 正確，DMDD與ADHD確實需要鑑別診斷，但兩者可以共病並同時成立診斷，DSM-5並未規定兩者不能並存；需避免並存的是DMDD與雙極情緒障礙症（bipolar disorder）及對立反抗症（oppositional defiant disorder，ODD）的同時診斷<br>(C) 錯誤，DMDD的診斷年齡限制為6至18歲，18歲以上初次就診不適用此診斷<br>(D) 錯誤，若DMDD症狀類似雙極情緒障礙症，藥物治療首選確實為非典型抗精神病劑（atypical antipsychotic agents）或情緒穩定劑（mood stabilizers）",
+    "explanation": "侵擾性情緒失調症可與注意力不足過動症、重鬱症、行為規範障礙症與物質使用障礙症同時診斷，注意力不足過動症是最常見的共病。不可同時診斷的是對立反抗症、間歇性暴怒障礙症與雙相情緒障礙症。<br>(A) 適當，是 DSM-5 新增的診斷，脾氣爆發平均每週至少 3 次。<br>(B) 最不適當。<br>(C) 適當，診斷年齡為 6~18 歲，症狀須在 10 歲前出現。<br>(D) 公告為適當。目前沒有 FDA 核准專用於侵擾性情緒失調症的藥物，用藥依共病與嚴重度選擇，嚴重攻擊與易怒可用 risperidone、aripiprazole 等非典型抗精神病藥物。",
     "tags": [
       "115-1-4",
       "精神科"
