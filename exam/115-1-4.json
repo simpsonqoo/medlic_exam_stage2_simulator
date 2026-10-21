@@ -1010,7 +1010,7 @@
       "D": "negativism"
     },
     "answer": "C",
-    "explanation": "僵直症（catatonia）是一種精神運動症候群（psychomotor syndrome），其症狀包括多種運動及行為異常；nihilism（虛無妄想）是一種思想內容的妄想型態，屬於思覺失調症（schizophrenia）等疾病的精神病症狀，不屬於僵直症的定義範疇。<br>(A) 錯誤，mannerism（怪異舉止）是僵直症的症狀之一，指奇特的重複性動作或姿勢<br>(B) 錯誤，mutism（緘默症）是僵直症的核心症狀之一，指無法或拒絕說話<br>(C) 正確，nihilism（虛無妄想）是指患者相信自己或外界不存在的妄想內容，屬於精神病性症狀（psychotic symptom），不屬於僵直症（catatonia）的症狀<br>(D) 錯誤，negativism（拒絕症）是僵直症的症狀之一，指患者主動抵抗或做出與指令相反的行為",
+    "explanation": "僵直症是精神動作症候群，症狀包括呆滯、緘默、姿勢保持、否定症、刻板動作、激動、怪異表情、怪異舉止、模仿言語、模仿動作與蠟樣柔軟等。虛無（nihilism）是相信自己或世界不存在的虛無妄想，屬於思考內容，不是僵直症的症狀。<br>(A) 屬於僵直症，怪異舉止。<br>(B) 屬於僵直症，緘默。<br>(C) 不屬於僵直症，為本題答案。<br>(D) 屬於僵直症，否定症。",
     "tags": [
       "115-1-4",
       "精神科"
@@ -1095,7 +1095,7 @@
       "D": "施打長效針劑（long-acting depot）是克服病人不服藥的方式之一，目前臨床上最常使用的是效期一年之 長效針劑"
     },
     "answer": "D",
-    "explanation": "長效針劑（long-acting injectable，LAI）抗精神病藥物有多種效期選擇，目前臨床上最常使用的效期包括每2週、每月或每3個月，並無效期長達一年的長效針劑核准上市。<br>(A) 錯誤，多種抗精神病藥物確實會引起心臟傳導異常（cardiac conduction abnormality），如QTc延長，需注意心臟方面副作用<br>(B) 錯誤，抗精神病藥惡性症候群（neuroleptic malignant syndrome，NMS）是嚴重且可能致命的副作用，特徵為高燒、肌肉僵硬（rigidity）、意識改變及自律神經失調<br>(C) 錯誤，dantrolene（骨骼肌鬆弛劑）可用於治療NMS，透過阻斷肌漿網（sarcoplasmic reticulum）鈣離子釋放來緩解肌肉僵硬<br>(D) 正確，目前臨床上核准的長效針劑（long-acting injectable）效期最長為每6個月（如paliperidone palmitate 6個月劑型），並無效期長達一年的長效針劑核准用於臨床常規使用",
+    "explanation": "長效針劑可改善服藥順從性、減少復發。目前市售長效針劑效期最長者為 6 個月（paliperidone palmitate 6 個月劑型），沒有效期一年的長效針劑。<br>(A) 適當，不少抗精神病藥物會造成 QTc 延長（如 thioridazine、ziprasidone），clozapine 可造成心肌炎與心肌病變。<br>(B) 適當，抗精神病藥物惡性症候群表現為發燒、鉛管狀僵直、意識改變與自律神經不穩，可致命。<br>(C) 適當，NMS 的處置為立即停藥與支持療法，中重度者可使用 dantrolene、bromocriptine 或電痙攣治療。<br>(D) 最不適當。",
     "tags": [
       "115-1-4",
       "精神科"
