@@ -942,7 +942,7 @@
       "D": "皮肌炎（dermatomyositis）"
     },
     "answer": "C",
-    "explanation": "類澱粉樣神經病變（amyloid neuropathy）的致病機轉為類澱粉蛋白（amyloid protein）異常堆積於周邊神經，此為代謝性蛋白質異常，屬代謝相關（metabolic abnormality）的致病機轉。<br>(A) 錯誤，格林－巴利症候群（Guillain-Barré syndrome，GBS）的致病機轉為自體免疫（autoimmune）介導的急性周邊神經脫髓鞘（demyelination），與代謝異常無關<br>(B) 錯誤，運動神經元疾病（motor neuron disease，如肌萎縮側索硬化症，ALS）的致病機轉為運動神經元進行性退化，機轉複雜，主要與蛋白質聚集及氧化壓力（oxidative stress）相關，但分類上不屬於代謝異常性周邊神經病變<br>(C) 正確，類澱粉樣神經病變（amyloid neuropathy）由異常類澱粉蛋白（如transthyretin，TTR）沉積於周邊神經組織引起，屬代謝性蛋白質異常（metabolic abnormality）造成的周邊神經系統疾病<br>(D) 錯誤，皮肌炎（dermatomyositis）的致病機轉為自體免疫介導的肌肉（muscle）及皮膚（skin）發炎，主要影響肌肉而非周邊神經，不屬於代謝異常相關疾病",
+    "explanation": "類澱粉樣神經病變是異常蛋白（transthyretin 或免疫球蛋白輕鏈）折疊錯誤後形成澱粉樣纖維，沉積於周邊神經與自律神經，屬系統性（代謝性）疾病相關的神經病變，以小纖維與自律神經先受累。<br>(A) 錯誤，GBS 為感染後免疫媒介的急性多發性神經根神經病變。<br>(B) 錯誤，運動神經元疾病是上下運動神經元的進行性退化，不屬代謝性周邊神經病變。<br>(C) 正確。<br>(D) 錯誤，皮肌炎是自體免疫的肌肉與皮膚發炎，屬肌肉病變。",
     "tags": [
       "115-1-4",
       "神經內科"
@@ -976,7 +976,7 @@
       "D": "四分之一病人的致病突變是由父親遺傳來的"
     },
     "answer": "D",
-    "explanation": "貝克氏肌肉失養症（Becker muscular dystrophy，BMD）為X染色體連鎖隱性遺傳（X-linked recessive）疾病，致病突變幾乎全部來自母親（X染色體攜帶者），而非父親。<br>(A) 錯誤，BMD與杜氏肌肉失養症（Duchenne muscular dystrophy，DMD）同樣由dystrophin基因突變引起，BMD的突變不影響讀碼框（in-frame mutation），因此dystrophin蛋白仍有部分功能<br>(B) 錯誤，BMD典型表現為雙下肢近端肌肉無力（proximal lower limb weakness），常見小腿假性肥大（pseudohypertrophy）<br>(C) 錯誤，BMD相較於DMD症狀較輕，發病年齡可延後至青少年甚至20歲以後<br>(D) 正確，BMD為X染色體連鎖隱性遺傳，男性患者的致病X染色體必定來自母親（攜帶者，carrier），而非父親；父親只能將Y染色體傳給兒子，因此「四分之一病人的致病突變來自父親」的說法是完全錯誤的",
+    "explanation": "貝克型肌失養症為 X 性聯隱性遺傳，DMD 基因（Xp21）的框內突變使 dystrophin 量減少或結構異常但仍有部分功能，發病較晚，常以雙下肢近端無力與小腿假性肥大表現，部分病人 20 歲以後才發病。男性病人的致病 X 染色體來自帶因母親或為新生突變，父親只會把 Y 染色體傳給兒子，所以致病突變不會來自父親。<br>(A) 正確，與裘馨型同為 dystrophin 基因突變。<br>(B) 正確。<br>(C) 正確。<br>(D) 錯誤，為正解。",
     "tags": [
       "115-1-4",
       "神經內科"
