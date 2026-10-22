@@ -697,7 +697,7 @@
       "D": "anti-TNF-α（adalimumab）單株抗體是核准的治療方式之一"
     },
     "answer": "D",
-    "explanation": "化膿性汗腺炎（hidradenitis suppurativa，HS）是一種慢性發炎性皮膚病，其核准治療選項包括腫瘤壞死因子抑制劑（anti-TNF-α），需了解其真正的病因、好發部位及惡化因子。<br>(A) 錯誤，體重過重（obesity）才是化膿性汗腺炎的惡化因子之一，體重過輕並非惡化因子<br>(B) 錯誤，化膿性汗腺炎好發於頂漿腺（apocrine gland）豐富的皮膚皺褶處，包括腋下（axilla）、胯下（groin）及乳房下緣，頭頸部並非典型好發部位<br>(C) 錯誤，化膿性汗腺炎的最初起因是毛囊漏斗部（follicular infundibulum）的角化栓塞（follicular occlusion）及破裂，導致繼發性發炎反應，並非直接由大汗腺（apocrine gland）的細菌感染引起<br>(D) 正確，adalimumab（anti-TNF-α單株抗體）已獲美國食品藥物管理局（FDA）核准用於中重度化膿性汗腺炎（hidradenitis suppurativa）的治療",
+    "explanation": "化膿性汗腺炎的原發病變是毛囊漏斗部角化與毛囊閉塞，不是頂泌汗腺的細菌感染。中重度病人可用生物製劑，adalimumab 是第一個 FDA 核准用於本病的藥物，AAD/HSF 2026 指引強烈建議使用。<br>(A) 錯誤，肥胖與吸菸是危險因子。<br>(B) 錯誤，好發於腋下、腹股溝、會陰、臀部與乳房下等皺摺處。<br>(C) 錯誤，細菌為次發，原發為毛囊閉塞。<br>(D) 正確。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -714,7 +714,7 @@
       "D": "若男樣多毛症的症狀在短時間內出現，應考慮腎上腺或卵巢腫瘤"
     },
     "answer": "A",
-    "explanation": "男樣多毛症（hirsutism）與毛髮增多症（hypertrichosis）是兩個不同的概念，前者特指女性在雄性素依賴部位（androgen-dependent areas）出現男性型體毛分布，後者則是全身性或局部性毛髮過度生長，兩者不可混用。<br>(A) 正確，男樣多毛症（hirsutism）並不等同於毛髮增多症（hypertrichosis）；hirsutism特指女性因雄性素（androgen）過高而在雄性素依賴部位出現男性型體毛，hypertrichosis則是與雄性素無關的全身性毛髮過多，兩者定義不同<br>(B) 錯誤，上唇（upper lip）是男樣多毛症的常見好發部位，屬雄性素依賴部位<br>(C) 錯誤，男樣多毛症患者血液中雄性素（如睪固酮，testosterone）確實可能升高<br>(D) 錯誤，若男樣多毛症症狀在短時間內迅速出現（virilization），應高度懷疑腎上腺（adrenal）或卵巢（ovarian）腫瘤分泌過量雄性素",
+    "explanation": "多毛症（hirsutism）指女性在雄性素依賴部位出現男性分布的終毛，與雄性素有關。毛髮增多症（hypertrichosis）是與雄性素無關的毛髮增多，可全身或局部，兩者不同。<br>(A) 錯誤，多毛症與毛髮增多症是不同的疾病。<br>(B) 正確，上唇是常見的雄性素依賴部位。<br>(C) 正確，PCOS、非典型先天性腎上腺增生或腫瘤可使雄性素升高，評估時測清晨總睪固酮。<br>(D) 正確，短時間內快速出現或合併男性化，要懷疑分泌雄性素的卵巢或腎上腺腫瘤。",
     "tags": [
       "115-1-4",
       "皮膚科"

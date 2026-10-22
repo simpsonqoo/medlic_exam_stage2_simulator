@@ -570,7 +570,7 @@
       "D": "慢性蕁麻疹的第一線治療為環孢素（cyclosporine）"
     },
     "answer": "D",
-    "explanation": "慢性蕁麻疹第一線為抗組織胺（antihistamine），非環孢素。<br>(A) 正確，6週為急慢性分界。<br>(B) 正確，可伴隨血管性水腫。<br>(C) 正確，與I型過敏反應有關。<br>(D) 錯誤，第一線是抗組織胺。",
+    "explanation": "慢性蕁麻疹的第一線治療是第二代 H1 抗組織胺標準劑量，控制不佳時增至 4 倍，再加 omalizumab（或 dupilumab、remibrutinib），cyclosporine 用於抗組織胺與 omalizumab 都無效者，不是第一線。<br>(A) 正確，急性與慢性蕁麻疹以 6 週為界。<br>(B) 正確，蕁麻疹可與血管性水腫一起出現。<br>(C) 正確，肥大細胞可經 IgE 媒介的第一型過敏反應活化，釋放 histamine。<br>(D) 錯誤，第一線為第二代 H1 抗組織胺。",
     "tags": [
       "113-2(四)",
       "皮膚科"
@@ -698,7 +698,7 @@
       "D": "皮肌炎（dermatomyositis）；肌胺酸激酶（creatine kinase, CK）"
     },
     "answer": "D",
-    "explanation": "(A) 錯誤，紅斑性狼瘡主要檢查為ANA<br>(B) 錯誤，皮肌炎最重要的檢查為CK，不是ANA<br>(C) 錯誤，補體檢查為SLE活動度的監測工具<br>(D) 正確，皮肌炎診斷須檢查CK",
+    "explanation": "上眼瞼紫紅色皮疹（heliotrope rash）與手指關節伸側的 Gottron 丘疹是皮肌炎的特徵。皮肌炎的肌肉侵犯以血清肌胺酸激酶（CK）最重要，可用來診斷與追蹤疾病活動度。<br>(A) 錯誤，圖中皮疹不是紅斑性狼瘡。<br>(B) 錯誤，診斷正確，但 ANA 不是最重要的檢查。<br>(C) 錯誤，補體用於追蹤 SLE 活動度。<br>(D) 正確，皮肌炎以 CK 評估肌肉侵犯。",
     "tags": [
       "113-2(四)",
       "皮膚科"
@@ -718,7 +718,7 @@
       "D": "Waardenburg症候群（Waardenburg syndrome）"
     },
     "answer": "D",
-    "explanation": "(A) 正確，Addison病會有皮膚黝黑<br>(B) 正確，遲發性皮膚紫質症會有色素沉著<br>(C) 正確，B12缺乏可能導致色素沉著<br>(D) 錯誤，Waardenburg為白斑而非沉著",
+    "explanation": "Waardenburg 症候群是黑色素細胞發育異常造成的色素減少（白額髮、虹膜異色，合併感音神經性聽損），不會造成黑色素沉著。<br>(A) 會，Addison 病的 ACTH 與 MSH 增加，使曝光處、皺褶與黏膜色素沉著。<br>(B) 會，遲發性皮膚紫質症在曝光部位色素沉著，合併水疱與多毛。<br>(C) 會，維生素 B12 缺乏可造成指節與皺褶處色素沉著，補充後改善。<br>(D) 不會，Waardenburg 症候群為色素減少。",
     "tags": [
       "113-2(四)",
       "皮膚科"
