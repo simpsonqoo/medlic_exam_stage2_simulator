@@ -621,7 +621,7 @@
       "D": "糖尿病及愛滋病是罹患甲癬的危險因子"
     },
     "answer": "C",
-    "explanation": "Griseofulvin治療甲癬效果有限，現在以terbinafine為首選。<br>(A) 正確，非皮癬菌也可能導致甲癬。<br>(B) 正確，甲癬常合併足癬。<br>(C) 錯誤，首選為terbinafine，而非griseofulvin。<br>(D) 正確，糖尿病與愛滋病是危險因子。",
+    "explanation": "甲癬的口服治療首選 terbinafine，療效優於 itraconazole 與 griseofulvin。griseofulvin 療程長、副作用較多、治癒率較低，已很少用於甲癬。<br>(A) 正確，甲癬以皮癬菌為主，非皮癬菌黴菌與念珠菌也可造成。<br>(B) 正確，甲癬常合併足癬，足癬是感染來源。<br>(C) 錯誤，griseofulvin 不是甲癬的最佳選擇。<br>(D) 正確，糖尿病、HIV、年齡大於 60 歲與周邊血管疾病都是危險因子。",
     "tags": [
       "113-1(四)",
       "皮膚科"
@@ -638,7 +638,7 @@
       "D": "permethrin藥膏可與口服ivermectin一起用於挪威型疥瘡（Norwegian scabies）之治療"
     },
     "answer": "D",
-    "explanation": "普通疥瘡首選permethrin，挪威型疥瘡可合併ivermectin使用。<br>(A) 錯誤，lindane毒性大，不建議用於兒童及老人。<br>(B) 錯誤，孕婦不建議口服ivermectin。<br>(C) 錯誤，crotamiton效果不如permethrin。<br>(D) 正確，挪威型疥瘡可用permethrin合併ivermectin。",
+    "explanation": "結痂型（挪威型）疥瘡的蟲量極大，治療為外用 permethrin 合併多劑口服 ivermectin，痂厚處可加角質溶解劑。<br>(A) 錯誤，lindane 有神經毒性，不是第一線，不用於嬰幼兒、兒童、孕婦、老人與體重 50 kg 以下者。<br>(B) 錯誤，ivermectin 在孕婦與體重 15 kg 以下兒童的安全性未確立。<br>(C) 錯誤，crotamiton 療效較差，治療失敗常見，第一線藥物為 permethrin 5% cream 或口服 ivermectin。<br>(D) 正確，挪威型疥瘡以外用 permethrin 合併口服 ivermectin 治療。",
     "tags": [
       "113-1(四)",
       "皮膚科"
@@ -1333,7 +1333,7 @@
       "D": "疼痛異常的情形與臨床的皮膚病灶表徵不符，需將壞死性筋膜炎（necrotizing fasciitis）列入鑑別診斷"
     },
     "answer": "C",
-    "explanation": "壞死性筋膜炎治療首重外科清創與廣效抗生素，高壓氧效果有限，非主要療法。<br>(A) 正確，丹毒常見為 A 群鏈球菌。<br>(B) 正確，輕症蜂窩組織炎可門診治療。<br>(C) 錯誤，高壓氧並非標準療法。<br>(D) 正確，疼痛異常應懷疑壞死性筋膜炎。",
+    "explanation": "壞死性筋膜炎的治療關鍵是緊急外科清創加廣效抗生素。高壓氧只是輔助，證據有限（Cochrane 2015），不能取代手術清創，也不應延誤手術。<br>(A) 正確，丹毒幾乎都是 A 群 β 溶血性鏈球菌感染。<br>(B) 正確，沒有 SIRS、意識改變與血行動力不穩的蜂窩性組織炎可以門診口服抗生素治療（IDSA 2014）。<br>(C) 錯誤，高壓氧對壞死性筋膜炎的效益未證實，不是主要治療。<br>(D) 正確，疼痛程度與皮膚表現不成比例是壞死性筋膜炎的警訊。",
     "tags": [
       "113-1(四)",
       "皮膚科"

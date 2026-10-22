@@ -626,7 +626,7 @@
       "D": "在確定診斷後，口服抗黴菌藥是治療首選"
     },
     "answer": "C",
-    "explanation": "伍氏燈（Wood lamp）下頭癬的螢光表現因病原菌種而異，黃綠色螢光是小孢子菌屬（Microsporum species）的特徵，而非髮癬菌屬（Trichophyton species）；Trichophyton species在伍氏燈下通常不發出螢光。<br>(A) 錯誤，個人衛生不佳確實是頭癬（tinea capitis）的危險因子之一<br>(B) 錯誤，伍氏燈（Wood lamp）、氫氧化鉀（KOH）檢查、黴菌培養及切片均可輔助診斷頭癬<br>(C) 正確，伍氏燈下呈現黃綠色螢光代表小孢子菌屬（Microsporum species）感染，如Microsporum canis；髮癬菌屬（Trichophyton species）在伍氏燈下通常不發螢光，因此看到黃綠色螢光不能確定是Trichophyton的感染<br>(D) 錯誤，頭癬確診後口服抗黴菌藥（如griseofulvin、terbinafine）是治療首選，局部用藥效果不足",
+    "explanation": "頭癬在伍氏燈下的黃綠色螢光見於 Microsporum（如 M. canis）感染，T. tonsurans 等 Trichophyton 多不發螢光，所以黃綠色螢光不能用來確定是 Trichophyton 感染。<br>(A) 正確，居住擁擠、共用梳子帽子與個人衛生不佳都是危險因子。<br>(B) 正確，可用伍氏燈、KOH 鏡檢、黴菌培養，必要時做皮膚切片。<br>(C) 錯誤，黃綠色螢光代表 Microsporum 感染。<br>(D) 正確，病原在毛囊內，外用藥無法到達，須口服 griseofulvin 或 terbinafine。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -643,7 +643,7 @@
       "D": "念珠球菌感染（candidiasis）"
     },
     "answer": "A",
-    "explanation": "胯下搔癢性紅疹合併伍氏燈（Wood lamp）下呈現珊瑚紅色（coral-red）螢光，是紅癬（erythrasma）的特徵性表現，由棒狀桿菌（Corynebacterium minutissimum）引起。<br>(A) 正確，紅癬（erythrasma）由Corynebacterium minutissimum引起，好發於皮膚皺褶處（腋下、胯下），伍氏燈下因細菌產生卟啉（porphyrin）而呈現特徵性珊瑚紅色（coral-red）螢光<br>(B) 錯誤，股癬（tinea cruris）由皮癬菌（dermatophyte）引起，伍氏燈下不發出珊瑚紅螢光，KOH檢查可見菌絲<br>(C) 錯誤，對磨疹（intertrigo）是皮膚皺褶處因摩擦潮濕引起的非感染性發炎，伍氏燈下無特殊螢光<br>(D) 錯誤，念珠菌感染（candidiasis）伍氏燈下可能有輕微螢光但並非珊瑚紅色，且通常伴有衛星病灶（satellite lesions）",
+    "explanation": "胯下搔癢紅疹、工作常流汗，伍氏燈下呈珊瑚紅螢光，診斷為紅癬。紅癬由 Corynebacterium minutissimum 引起，細菌產生的 coproporphyrin III 在伍氏燈下發出珊瑚紅螢光，好發於腋下、鼠蹊等間擦部位。<br>(A) 正確，伍氏燈珊瑚紅螢光是紅癬的特徵。<br>(B) 錯誤，股癬為皮癬菌感染，邊緣隆起有活動性鱗屑，KOH 可見分隔菌絲，伍氏燈多無螢光。<br>(C) 錯誤，對磨疹是摩擦與潮濕造成的非感染性發炎，伍氏燈下沒有特殊螢光。<br>(D) 錯誤，念珠菌間擦疹為鮮紅濕潤的斑片並有衛星丘疹與膿疱，KOH 可見假菌絲，伍氏燈不發螢光。",
     "tags": [
       "115-1-4",
       "皮膚科"

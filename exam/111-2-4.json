@@ -607,7 +607,7 @@
       "D": "若常處於悶熱潮濕環境，治療後仍容易復發"
     },
     "answer": "C",
-    "explanation": "口服首選為 azole 類（如 itraconazole、fluconazole），griseofulvin 對馬拉色菌無效。<br>(A) 正確，病原為 Malassezia。<br>(B) 正確，伍氏燈下呈黃綠色。<br>(C) 錯誤，griseofulvin 無效。<br>(D) 正確，潮濕環境易復發。",
+    "explanation": "汗斑由馬拉色菌引起，病灶廣泛或外用無效時，口服首選 fluconazole 或 itraconazole，口服 terbinafine 與 griseofulvin 對汗斑無效。<br>(A) 正確，汗斑的致病菌是馬拉色菌。<br>(B) 正確，伍氏燈下病灶可呈黃綠色螢光。<br>(C) 錯誤，griseofulvin 對汗斑無效。<br>(D) 正確，悶熱潮濕多汗時容易復發，可間歇外用 selenium sulfide 或 ketoconazole 預防。",
     "tags": [
       "111-2(四)",
       "皮膚科"
@@ -624,7 +624,7 @@
       "D": "可由克沙奇病毒（coxsackievirus）感染造成，病程表現大多比腸病毒（enterovirus）71 型感染嚴重，重症比率 也較高"
     },
     "answer": "D",
-    "explanation": "克沙奇病毒引起的手足口病多為輕症，腸病毒 71 型才是重症高風險。<br>(A) 正確，多為自限性。<br>(B) 正確，會出現脫甲症。<br>(C) 正確，典型分布手、腳、口腔。<br>(D) 錯誤，EV71 才較嚴重。",
+    "explanation": "5 歲幼童發燒後手、腳、口腔周圍出現水疱，為手足口病，多由克沙奇病毒 A16、A6 與腸病毒 71 型引起。腸病毒 71 型最容易引起腦幹腦炎、神經性肺水腫等重症，克沙奇病毒引起者多為輕症。<br>(A) 正確，病程 7~10 天，多為良性自限。<br>(B) 正確，克沙奇病毒 A6 感染後約 3~6 週可出現脫甲症。<br>(C) 正確，水疱好發於手掌、腳掌與口腔，臀部、膝與肘也可出現。<br>(D) 錯誤，重症比率較高的是腸病毒 71 型，克沙奇病毒引起者多為輕症。",
     "tags": [
       "111-2(四)",
       "皮膚科"
@@ -1342,7 +1342,7 @@
       "D": "血管收縮劑如 norepinephrine 不適合用在此病人身上"
     },
     "answer": "B",
-    "explanation": "肝硬化患者刺傷後常見嗜水氣單胞菌（Vibrio vulnificus），需 ceftriaxone 合併 doxycycline。<br>(A) 錯誤，主要不是 A 群鏈球菌。<br>(B) 正確，治療選擇正確。<br>(C) 錯誤，應立即合併外科清創。<br>(D) 錯誤，血壓低可用 norepinephrine。",
+    "explanation": "肝硬化與糖尿病病人處理海魚魚鰭刺傷後，隔天出現發燒、出血性水疱與休克，最可能是創傷弧菌（Vibrio vulnificus）造成的壞死性軟組織感染。治療為 doxycycline 加第三代頭孢菌素，並早期外科清創或筋膜切開。<br>(A) 錯誤，海水接觸傷口、肝硬化與出血性大疱指向創傷弧菌，不是 A 群鏈球菌。<br>(B) 正確，CDC 建議 doxycycline 加第三代頭孢菌素（如 ceftriaxone）。<br>(C) 錯誤，應早期外科清創或筋膜切開，不應等抗生素反應不佳才照會外科。<br>(D) 錯誤，病人已呈敗血性休克（血壓 80/54 mmHg），首選升壓劑就是 norepinephrine。",
     "tags": [
       "111-2(四)",
       "皮膚科"

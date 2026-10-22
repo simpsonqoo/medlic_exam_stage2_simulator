@@ -686,7 +686,7 @@
       "D": "治療以外用類固醇藥膏為主"
     },
     "answer": "A",
-    "explanation": "珊瑚紅螢光典型於 erythrasma，因 Corynebacterium 產生 porphyrin。<br>(A) 正確，coproporphyrin III 為原因。<br>(B) 錯誤，intertrigo 無此表現。<br>(C) 錯誤，體癬 KOH 應為陽性。<br>(D) 錯誤，治療應以抗生素如 erythromycin。",
+    "explanation": "腋下皮疹外用抗黴菌藥無效、KOH 陰性、伍氏燈下珊瑚紅螢光，診斷為紅癬。螢光來自 Corynebacterium minutissimum 產生的 coproporphyrin III。<br>(A) 正確，珊瑚紅螢光主要來自 coproporphyrin III。<br>(B) 錯誤，對磨疹是非感染性發炎，不會有珊瑚紅螢光。<br>(C) 錯誤，體癬是皮癬菌感染，KOH 應可見分隔菌絲，伍氏燈多無螢光。<br>(D) 錯誤，紅癬以抗生素治療，外用 clindamycin、mupirocin、fusidic acid，或口服 erythromycin、clarithromycin。",
     "tags": [
       "110-2(四)",
       "皮膚科"
@@ -706,7 +706,7 @@
       "D": "cryotococcosis"
     },
     "answer": "B",
-    "explanation": "免疫不全病人最常見的黴菌感染是念珠菌病（candidiasis），尤其是食道、口腔及全身性侵犯。Aspergillosis、Zygomycosis、Cryptococcosis也會發生，但相對頻率較低。<br>(A) 錯誤，Aspergillosis常見但不是最常見<br>(B) 正確，Candidiasis在免疫不全患者最為常見<br>(C) 錯誤，Zygomycosis發生率較低<br>(D) 錯誤，Cryptococcosis雖好發於免疫不全，但不及Candida常見",
+    "explanation": "念珠菌病是免疫不全病人最常見的黴菌感染，例如 HIV 病人最常見的黴菌伺機性感染是口咽念珠菌病。<br>(A) 錯誤，麴菌病好發於嗜中性球低下者，以侵襲性肺麴菌病為主。<br>(B) 正確，念珠菌病最常見。<br>(C) 錯誤，毛黴菌病好發於糖尿病酮酸中毒、血液惡性腫瘤與鐵過量者，較少見。<br>(D) 錯誤，隱球菌病好發於細胞免疫低下（如 HIV 且 CD4 &lt; 100）者，以腦膜炎為主。",
     "tags": [
       "110-2(四)",
       "皮膚科"
