@@ -1146,7 +1146,7 @@
       "D": "腦部磁振造影掃描顯示海馬迴體積減少是類澱粉蛋白相關（amyloid-based）的標記"
     },
     "answer": "B",
-    "explanation": "阿茲海默症早期診斷可透過 amyloid 標記，例如 PET 成像或腦脊髓液 β-amyloid 減少。<br>(A) 錯誤，ApoE4 只是危險因子，非充分必要條件。<br>(B) 正確，amyloid 標記有早期診斷價值。<br>(C) 錯誤，AD 病人腦脊髓液 β-amyloid-42 通常降低。<br>(D) 錯誤，海馬迴體積減少屬神經退化標記，不是 amyloid-based。",
+    "explanation": "依 Alzheimer's Association 2024 修訂準則，類澱粉 PET、腦脊髓液 Aβ42（或 Aβ42／Aβ40 比值）屬 Core 1 標記，在疾病早期即異常，具早期診斷價值。<br>(A) 錯誤，APOE ε4 是危險因子，既不必要也不充分，不能當作診斷標記。<br>(B) 正確，類澱粉相關標記在疾病早期即異常。<br>(C) 錯誤，阿茲海默症的腦脊髓液 Aβ42 是下降，因為 Aβ42 沉積在腦內斑塊。<br>(D) 錯誤，海馬迴萎縮是神經退化標記，不是類澱粉相關標記。",
     "tags": [
       "113-2(四)",
       "精神科"
@@ -1214,7 +1214,7 @@
       "D": "患者對於外在的感官刺激主要都是出現反應過低（underrespond）的現象，很少出現反應過強 （overrespond）的現象"
     },
     "answer": "B",
-    "explanation": "自閉症患者約三分之一合併智能不足，其中輕中度最常見。<br>(A) 錯誤，約 30–40%，非 80%。<br>(B) 正確，輕中度最常見。<br>(C) 錯誤，常伴隨過動與注意力不足。<br>(D) 錯誤，可有過度或不足反應。",
+    "explanation": "合併智能障礙的 ASD 患者中，約 30% 屬於輕度到中度範圍。<br>(A) 錯誤，依 CDC ADDM 資料約 40% 合併智能障礙，不是 80%。<br>(B) 正確。<br>(C) 錯誤，年幼患者常有過動、注意力不集中與衝動。<br>(D) 錯誤，感覺刺激反應過強與過弱兩者都會出現。",
     "tags": [
       "113-2(四)",
       "精神科"
@@ -1231,7 +1231,7 @@
       "D": "根據美國食品藥物管理局（Food and Drug Administration）的規定，病人必須滿3歲以上才能服用 methylphenidate"
     },
     "answer": "B",
-    "explanation": "ADHD 治療以 methylphenidate 為一線藥物，atomoxetine 為非興奮劑藥物。<br>(A) 錯誤，藥物治療為第一線。<br>(B) 正確，methylphenidate 為唯一核准的 stimulant。<br>(C) 錯誤，atomoxetine 是 norepinephrine reuptake inhibitor。<br>(D) 錯誤，規定須滿 6 歲以上。",
+    "explanation": "ADHD 第一線治療是中樞神經興奮劑，臺灣核准治療 ADHD 的中樞神經興奮劑為 methylphenidate（第三級管制藥品）。Atomoxetine 是選擇性正腎上腺素回收抑制劑，屬非興奮劑。<br>(A) 錯誤，學齡兒童第一線治療是藥物，心理社會與行為介入為併用。<br>(B) 正確，臺灣核准治療 ADHD 的中樞神經興奮劑為 methylphenidate，lisdexamfetamine 與 dexamfetamine 在臺灣沒有藥證。<br>(C) 錯誤，atomoxetine 不是中樞神經興奮劑。<br>(D) 錯誤，FDA 核准 methylphenidate 用於 6 歲以上。",
     "tags": [
       "113-2(四)",
       "精神科"
