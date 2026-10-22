@@ -590,7 +590,7 @@
       "D": "atorvastatin"
     },
     "answer": "B",
-    "explanation": "β阻斷劑與乾癬惡化相關。<br>(A) 錯誤，furosemide與乾癬關聯不強。<br>(B) 正確，propranolol會加重乾癬。<br>(C) 錯誤，prazosin與乾癬無關。<br>(D) 錯誤，atorvastatin通常無直接影響。",
+    "explanation": "β 阻斷劑（如 propranolol）是已知會誘發或惡化乾癬的藥物，其他還有鋰鹽、抗瘧藥、干擾素與免疫檢查點抑制劑。<br>(A) 錯誤，furosemide 不是常見的乾癬誘發藥物。<br>(B) 正確，propranolol 等 β 阻斷劑會使乾癬惡化。<br>(C) 錯誤，prazosin 是 α 阻斷劑，不是常見的乾癬誘發藥物。<br>(D) 錯誤，atorvastatin 不是常見的乾癬誘發藥物。",
     "tags": [
       "112-2(四)",
       "皮膚科"
@@ -664,7 +664,7 @@
       "D": "hydralazine"
     },
     "answer": "C",
-    "explanation": "HLA-B1502與carbamazepine相關的SJS/TEN風險。<br>(A) 錯誤，abacavir需檢測HLA-B5701。<br>(B) 錯誤，allopurinol與HLA-B5801有關。<br>(C) 正確，carbamazepine與HLA-B*1502相關。<br>(D) 錯誤，hydralazine與HLA無關。",
+    "explanation": "HLA-B*15:02 與 carbamazepine 引起的 SJS／TEN 相關，好發於漢人與東南亞族群，台灣在使用 carbamazepine 前篩檢 HLA-B*15:02（健保給付）。<br>(A) 錯誤，abacavir 過敏反應與 HLA-B*57:01 相關。<br>(B) 錯誤，allopurinol 引起的 SJS／TEN 與 DRESS 與 HLA-B*58:01 相關。<br>(C) 正確，carbamazepine 使用前篩檢 HLA-B*15:02。<br>(D) 錯誤，hydralazine 與藥物性狼瘡有關，沒有用藥前的 HLA 篩檢建議。",
     "tags": [
       "112-2(四)",
       "皮膚科"

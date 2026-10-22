@@ -575,7 +575,7 @@
       "D": "相較於 IL-17A 抑制劑，IL-23 抑制劑較不會產生發炎性腸道疾病（inflammatory bowel disease）的副作 用"
     },
     "answer": "B",
-    "explanation": "照光治療（phototherapy）在乾癬（psoriasis）中並非僅限於病灶體表面積（body surface area，BSA）小於10%的患者，事實上照光治療可用於中重度乾癬（BSA > 10%），是有效的全身性治療選項之一。<br>(A) 錯誤，介白素17A抑制劑（IL-17A inhibitor，如secukinumab、ixekizumab）對皮膚病灶及乾癬性關節炎（psoriatic arthritis）均有效，適合此病人<br>(B) 正確，照光治療（phototherapy，包括UVB及PUVA）適用於中重度乾癬，並不侷限於BSA小於10%的患者；侷限性乾癬（BSA < 10%）更適合局部治療，而非照光治療的主要適應範圍<br>(C) 錯誤，acitretin及methotrexate均有致畸胎性（teratogenicity），有懷孕計畫的女性應避免使用，且停藥後仍需等待足夠時間才能懷孕<br>(D) 錯誤，介白素23抑制劑（IL-23 inhibitor，如guselkumab、risankizumab）相較於IL-17A抑制劑，較不會誘發或加重發炎性腸道疾病（inflammatory bowel disease，IBD）",
+    "explanation": "中重度乾癬（BSA 大於 10%）的治療包括光療、傳統口服藥與生物製劑，窄波 UVB 是首選光療。合併乾癬性關節炎時選對關節也有效的藥物，IL-17 抑制劑可能誘發或惡化發炎性腸道疾病，IL-23 抑制劑則可治療 Crohn 病。<br>(A) 正確，IL-17A 抑制劑對皮膚與乾癬性關節炎都有效。<br>(B) 錯誤，光療適用於廣泛的中重度乾癬（BSA 大於 10%），BSA 30% 正是光療的適應症。<br>(C) 正確，acitretin 與 methotrexate 都有致畸胎性，acitretin 停藥後仍需避孕 3 年。<br>(D) 正確，IL-17 抑制劑可誘發或惡化 IBD，IL-23 抑制劑較不會，且 guselkumab、risankizumab 可治療 Crohn 病。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -592,7 +592,7 @@
       "D": "貼膚測試（patch test）有助於診斷過敏性接觸性皮膚炎（allergic contact dermatitis）"
     },
     "answer": "C",
-    "explanation": "過敏性接觸性皮膚炎（allergic contact dermatitis，ACD）為第四型過敏反應（type IV hypersensitivity），致敏原（allergen）經皮膚吸收後可全身性致敏，皮疹並不侷限於接觸部位，可擴散至鄰近或遠端皮膚。<br>(A) 錯誤，刺激性接觸性皮膚炎（irritant contact dermatitis，ICD）直接由物理化學刺激引起，雙手反覆接觸水的病灶通常雙側對稱出現<br>(B) 錯誤，過敏性接觸性皮膚炎（ACD）因個人致敏程度不同及接觸部位差異，病灶不一定雙側對稱<br>(C) 正確，染髮劑中的對苯二胺（para-phenylenediamine，PPD）引起的過敏性接觸性皮膚炎，皮疹不僅會出現在頭皮，也常擴散至額頭、耳周、頸部甚至臉部，因為致敏原可經由接觸蔓延至鄰近區域<br>(D) 錯誤，貼膚測試（patch test）是診斷過敏性接觸性皮膚炎的標準方法",
+    "explanation": "染髮劑中的 PPD 引起的過敏性接觸性皮膚炎，病灶可在頭皮、髮際，並延伸至額頭、耳、頸與臉，嚴重時臉部與眼瞼水腫。<br>(A) 正確，雙手反覆碰水造成的刺激性接觸性皮膚炎，病灶侷限於接觸處，常兩手都有。<br>(B) 正確，過敏性接觸性皮膚炎的分布依接觸範圍而定，只單手戴手套時可單側。<br>(C) 錯誤，PPD 過敏的病灶常延伸到額頭、頸部與臉。<br>(D) 正確，貼膚試驗是診斷過敏性接觸性皮膚炎、找出過敏原最重要的檢查。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -609,7 +609,7 @@
       "D": "可用外用皮質類固醇治療"
     },
     "answer": "B",
-    "explanation": "扁平苔癬（lichen planus）的病灶特徵是紫紅色多角形扁平丘疹（violaceous polygonal flat-topped papules），病灶表面可見白色Wickham紋路（Wickham striae），通常不會伴隨膿疱（pustule）。<br>(A) 錯誤，紅紫色多角型扁平丘疹或斑塊是扁平苔癬的典型外觀<br>(B) 正確，扁平苔癬（lichen planus）通常不伴隨膿疱，若出現膿疱需考慮其他診斷如膿疱性乾癬（pustular psoriasis）或感染性疾病<br>(C) 錯誤，口腔黏膜（oral mucosa）是扁平苔癬的好發部位，常見白色網狀紋路（reticular white striae）<br>(D) 錯誤，外用皮質類固醇（topical corticosteroid）是扁平苔癬的主要治療方式之一",
+    "explanation": "扁平苔癬表現為紫紅色、多角形、扁平頂、搔癢的丘疹與斑塊，表面有 Wickham striae，可侵犯口腔黏膜、生殖器、頭皮與指甲。變異型包括肥厚型、萎縮型、水疱型、環狀型、線狀型與光化型，膿疱不是扁平苔癬的特徵。<br>(A) 正確，紫紅色、多角形的扁平丘疹或斑塊是典型病灶。<br>(B) 錯誤，扁平苔癬不常伴隨膿疱。<br>(C) 正確，口腔黏膜常受侵犯，以頰黏膜的網狀白紋最常見。<br>(D) 正確，外用強效類固醇是第一線治療。",
     "tags": [
       "115-1-4",
       "皮膚科"
