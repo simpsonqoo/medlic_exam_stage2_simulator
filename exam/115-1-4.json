@@ -663,7 +663,7 @@
       "D": "可能與日光曝曬有關"
     },
     "answer": "C",
-    "explanation": "基底細胞癌（basal cell carcinoma，BCC）是皮膚惡性腫瘤中轉移率（metastasis rate）極低的癌症，幾乎不發生遠端轉移，因此不需常規配合化學治療。<br>(A) 錯誤，基底細胞癌（BCC）確實是最常見的皮膚惡性腫瘤（skin malignancy）<br>(B) 錯誤，手術切除（surgical excision）是基底細胞癌的主要治療選項之一<br>(C) 正確，基底細胞癌（BCC）轉移機率極低（遠低於1%），通常不需化學治療；若有局部侵犯或不適合手術者，可考慮hedgehog pathway抑制劑（如vismodegib）等標靶治療<br>(D) 錯誤，紫外線（ultraviolet radiation）暴露是基底細胞癌的重要危險因子之一",
+    "explanation": "基底細胞癌轉移極罕見，以手術切除為主要治療。局部晚期或轉移性病灶才使用 Hedgehog 抑制劑（vismodegib、sonidegib），之後可用 cemiplimab，不常規使用化學治療。<br>(A) 正確，為最常見的皮膚惡性腫瘤。<br>(B) 正確，手術切除為主要治療。<br>(C) 錯誤，轉移極罕見，不需常規化學治療。<br>(D) 正確，紫外線是最重要的危險因子。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -680,7 +680,7 @@
       "D": "易曬黑不易曬傷的人"
     },
     "answer": "C",
-    "explanation": "皮膚黑色素細胞癌（cutaneous melanoma）的危險因子包括容易曬傷（sunburn-prone）、淺色皮膚、紅髮或金髮及藍眼，這些特徵反映黑色素（melanin）保護功能較低，對紫外線損傷更敏感。<br>(A) 錯誤，持續少量日曬的人皮膚通常能較好地適應紫外線，並非黑色素瘤的高危險族群；間歇性強烈日曬（intermittent intense sun exposure）才是危險因子<br>(B) 錯誤，深色皮膚者因黑色素含量高，對紫外線有較強的保護作用，罹患黑色素瘤的風險較低<br>(C) 正確，天生紅髮或金髮者通常具有MC1R基因變異（MC1R gene variant），黑色素保護功能較差，容易曬傷，是皮膚黑色素細胞癌的高危險族群<br>(D) 錯誤，易曬黑（tan readily）代表黑色素產生能力較強，皮膚保護力較佳，不易曬傷者反而不是黑色素瘤的高危險族群",
+    "explanation": "皮膚黑色素瘤的危險因子包括間歇性強烈日曬與曬傷，以及淺膚色、易曬傷不易曬黑、紅髮或金髮、雀斑等與 MC1R 基因變異有關的特徵。<br>(A) 錯誤，相關的是間歇性強烈日曬與曬傷，慢性累積日曬主要與惡性小痣型及鱗狀細胞癌相關。<br>(B) 錯誤，淺膚色才是危險因子。<br>(C) 正確。<br>(D) 錯誤，高危險群是易曬傷不易曬黑者。",
     "tags": [
       "115-1-4",
       "皮膚科"
@@ -731,7 +731,7 @@
       "D": "beriberi disease"
     },
     "answer": "C",
-    "explanation": "反覆發作於皮膚皺褶處的糜爛性紅斑、夏季加重、有家族史（父親及祖父），高度提示Hailey-Hailey disease（良性家族性天疱瘡，benign familial pemphigus），為體染色體顯性遺傳（autosomal dominant）疾病。<br>(A) 錯誤，Darier disease（毛囊角化症，keratosis follicularis）也是體染色體顯性遺傳，表現為油脂性角化丘疹，好發於皮脂腺豐富部位，指甲有特徵性紅白縱紋（red and white longitudinal striations），與本題皮膚糜爛的表現不符<br>(B) 錯誤，Galli-Galli disease是Darier disease的罕見變異型，表現為網狀色素沉著（reticulate hyperpigmentation）合併棘層鬆解（acantholysis），表現與本題不符<br>(C) 正確，Hailey-Hailey disease（良性家族性天疱瘡）為體染色體顯性遺傳，由ATP2C1基因突變引起，表現為皮膚皺褶處反覆發作的糜爛性紅斑（erosive erythematous plaques），夏季或流汗時加重，完全符合本題描述<br>(D) 錯誤，beriberi disease是維生素B₁（thiamine）缺乏症，表現為周邊神經病變（peripheral neuropathy）及心臟病變，與皮膚糜爛無關",
+    "explanation": "成年發病，腋下與鼠蹊等皺摺處反覆出現鬆弛水疱、糜爛與紅斑塊，夏天、流汗與摩擦時加重，且為體染色體顯性家族史，是 Hailey-Hailey 病（家族性良性天疱瘡）。<br>(A) 錯誤，Darier 病同為體染色體顯性，但以脂漏部位的油膩角化性丘疹為主，青春期前後發病。<br>(B) 錯誤，Galli-Galli 病是 Dowling-Degos 病的棘層鬆解變異型，表現為皺摺處的網狀色素沉著。<br>(C) 正確。<br>(D) 錯誤，腳氣病（beriberi）是維生素 B1 缺乏症，不是遺傳性皮膚病。",
     "tags": [
       "115-1-4",
       "皮膚科"
