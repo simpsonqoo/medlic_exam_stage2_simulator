@@ -298,7 +298,7 @@
       "D": "微創手術已成為肝臟邊緣病灶切除的標準治療方式"
     },
     "answer": "A",
-    "explanation": "比較腹腔鏡（laparoscopic）與機械手臂（robotic）肝臟切除術在手術時間、失血量及費用方面的差異是本題核心。<br>(A) 錯誤，機械手臂切肝手術並未明確比腹腔鏡切肝手術耗費時間更短或失血更少，兩者在手術時間與出血量方面差異不顯著，但機械手臂的醫療費用（cost）確實較高<br>(B) 正確，腹腔鏡與機械手臂切肝手術在適應症（indications）上大致相同<br>(C) 正確，兩者在術後併發症（complications）及轉為開腹率（conversion rate）方面並無顯著差異<br>(D) 正確，微創手術（minimally invasive surgery）已成為肝臟邊緣病灶（peripheral lesion）切除的標準治療方式",
+    "explanation": "比較腹腔鏡（laparoscopic）與機械手臂（robotic）肝臟切除術在手術時間、失血量及費用方面的差異是本題核心。<br>(A) 錯誤，依 2023 機器人肝切除國際共識，機械手臂切肝在肝細胞癌與小範圍切除的手術時間較長，出血只有大範圍肝切除較少，醫療費用（cost）較高<br>(B) 正確，腹腔鏡與機械手臂切肝手術在適應症（indications）上大致相同<br>(C) 公告視為正確，整體而言兩者的術後併發症（complications）及轉為開腹率（conversion rate）相近，但依 2023 共識，部分亞組有差異（大腸直腸癌肝轉移與大範圍切除的機器人轉開腹率較低，肝細胞癌與小範圍切除的機器人併發症較少）<br>(D) 正確，微創手術（minimally invasive surgery）已成為肝臟邊緣病灶（peripheral lesion）切除的標準治療方式",
     "tags": [
       "115-1-5",
       "肝膽胰外科"
@@ -349,7 +349,7 @@
       "D": "體內的細胞內液的總重量約 25 公斤"
     },
     "answer": "B",
-    "explanation": "血液滲透壓（plasma osmolality）的計算公式為：2×Na + glucose/18 + BUN/2.8，代入數值後需判斷哪個選項計算結果有誤。<br>計算：2×142 + 95/18 + 16/2.8 ≈ 284 + 5.3 + 5.7 ≈ 295 mOsm/L<br>(A) 正確，身體總水分（total body water）約占體重的 60%，70 公斤 × 60% = 42 公斤，但男性實際約 55 至 60%，38 至 42 公斤皆可接受，38 公斤在合理範圍內<br>(B) 錯誤，正確計算血液滲透壓約為 295 mOsm/L，而非 315 mOsm/L；315 mOsm/L 已屬於高滲透壓（hyperosmolality）的範圍<br>(C) 正確，體液分為細胞外液（extracellular fluid，ECF）包含血漿（plasma）與組織間液（interstitial fluid），以及細胞內液（intracellular fluid，ICF）<br>(D) 正確，細胞內液（ICF）約占總體重的 40%，70 公斤 × 40% ≈ 28 公斤，25 公斤在合理估算範圍內",
+    "explanation": "血液滲透壓（plasma osmolality）的計算公式為：2×Na + glucose/18 + BUN/2.8，代入數值後需判斷哪個選項計算結果有誤。<br>計算：2×142 + 95/18 + 16/2.8 ≈ 284 + 5.3 + 5.7 ≈ 295 mOsm/L<br>(A) 正確，身體總水分（total body water）約占體重的 60%，70 公斤 × 60% = 42 公斤，但男性實際約 55 至 60%，38 至 42 公斤皆可接受，38 公斤在合理範圍內<br>(B) 錯誤，正確計算血液滲透壓約為 295 mOsm/L，而非 315 mOsm/L。315 mOsm/L 已屬於高滲透壓（hyperosmolality）的範圍<br>(C) 正確，體液分為細胞外液（extracellular fluid，ECF）包含血漿（plasma）與組織間液（interstitial fluid），以及細胞內液（intracellular fluid，ICF）<br>(D) 正確，細胞內液（ICF）約占總體重的 40%，70 公斤 × 40% ≈ 28 公斤，25 公斤在合理估算範圍內",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -400,7 +400,7 @@
       "D": "纖維母細胞（fibroblasts）在傷口癒合最初期即達到數量高峰"
     },
     "answer": "C",
-    "explanation": "傷口癒合（wound healing）依時序分為止血期（hemostasis）、發炎期（inflammatory phase）、增生期（proliferative phase）及重塑期（remodeling phase），各期主要細胞不同，需正確對應。<br>(A) 錯誤，增生期（proliferative phase）的主要細胞是纖維母細胞（fibroblast）及內皮細胞（endothelial cell），而非淋巴球（lymphocyte）；淋巴球在發炎晚期才逐漸出現<br>(B) 錯誤，最初止血期（hemostasis phase）的主要細胞是血小板（platelet），而非嗜酸性球（eosinophil）；嗜酸性球在特定過敏或寄生蟲感染相關傷口中較常見<br>(C) 正確，嗜中性球（neutrophil）是發炎期最初的主要細胞，於受傷後數小時內大量聚集，負責吞噬細菌及清除壞死組織<br>(D) 錯誤，纖維母細胞（fibroblast）在傷口癒合的增生期（約受傷後第 3 至 5 天）才大量出現並達到數量高峰，並非最初期即達高峰",
+    "explanation": "傷口癒合（wound healing）依時序分為止血期（hemostasis）、發炎期（inflammatory phase）、增生期（proliferative phase）及重塑期（remodeling phase），各期主要細胞不同，需正確對應。<br>(A) 錯誤，增生期（proliferative phase）的主要細胞是纖維母細胞（fibroblast）及內皮細胞（endothelial cell），而非淋巴球（lymphocyte），淋巴球在發炎晚期才逐漸出現<br>(B) 錯誤，最初止血期（hemostasis phase）的主要細胞是血小板（platelet），而非嗜酸性球（eosinophil），嗜酸性球在特定過敏或寄生蟲感染相關傷口中較常見<br>(C) 正確，嗜中性球（neutrophil）是發炎期最初的主要細胞，於受傷後數小時內大量聚集，負責吞噬細菌及清除壞死組織<br>(D) 錯誤，纖維母細胞（fibroblast）在傷口癒合的增生期（約受傷後第 3 至 5 天）才大量出現並達到數量高峰，並非最初期即達高峰",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -417,7 +417,7 @@
       "D": "手術時才移除手術部位之毛髮"
     },
     "answer": "C",
-    "explanation": "手術部位感染（surgical site infection，SSI）的預防策略涵蓋術前、術中及術後多個層面，預防性抗生素（prophylactic antibiotic）的使用時機是本題核心。<br>(A) 正確，肥胖（obesity）是手術部位感染的獨立危險因子，術前減重可降低感染風險<br>(B) 正確，腹部手術術前進行機械性腸道準備（mechanical bowel preparation）合併口服抗生素，可有效降低術後感染風險<br>(C) 錯誤，預防性抗生素應在手術切皮前 60 分鐘內給予（即術前即時給藥），而非術前一週預先施打；提前一週使用不僅無效，還可能造成抗藥性（antibiotic resistance）及菌叢失衡<br>(D) 正確，毛髮移除應在手術當下進行，且建議使用電動剃刀（clipper）而非剃刀（razor），以減少皮膚微小傷口造成的感染風險",
+    "explanation": "手術部位感染（surgical site infection，SSI）的預防策略涵蓋術前、術中及術後多個層面，預防性抗生素（prophylactic antibiotic）的使用時機是本題核心。<br>(A) 正確，肥胖（obesity）是手術部位感染的獨立危險因子，術前減重可降低感染風險<br>(B) 正確，腹部手術術前進行機械性腸道準備（mechanical bowel preparation）合併口服抗生素，可有效降低術後感染風險<br>(C) 錯誤，預防性抗生素應在手術切皮前 60 分鐘內給予（即術前即時給藥），而非術前一週預先施打。提前一週使用不僅無效，還可能造成抗藥性（antibiotic resistance）及菌叢失衡<br>(D) 正確，毛髮移除應在手術當下進行，且建議使用電動剃刀（clipper）而非剃刀（razor），以減少皮膚微小傷口造成的感染風險",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -706,7 +706,7 @@
       "D": "使用無張力（tension-free）與人造網膜（mesh）修補，可以有效降低再復發的機會"
     },
     "answer": "B",
-    "explanation": "腹股溝疝氣（inguinal hernia）修補後復發的相關因素需從疝氣類型、手術技術及修補方式分別判斷，直接型與間接型疝氣復發率的比較是本題核心。<br>(A) 正確，手術技術相關因素（technical factors）如解剖辨識不清、缺損修補不完全等，是疝氣復發最常見的原因<br>(B) 錯誤，直接型疝氣（direct inguinal hernia）因腹壁肌肉筋膜組織本身較薄弱，修補後比間接型疝氣（indirect inguinal hernia）更容易復發；間接型疝氣修補後復發率相對較低<br>(C) 正確，股疝氣（femoral hernia）因解剖位置較深且不易被初次診斷，約有 5 至 10% 會在疝氣復發評估時才被發現<br>(D) 正確，使用無張力修補（tension-free repair）合併人造網膜（mesh）可有效降低疝氣復發率，是目前標準術式",
+    "explanation": "腹股溝疝氣（inguinal hernia）修補後復發的相關因素需從疝氣類型、手術技術及修補方式分別判斷，直接型與間接型疝氣復發率的比較是本題核心。<br>(A) 正確，手術技術相關因素（technical factors）如解剖辨識不清、缺損修補不完全等，是疝氣復發最常見的原因<br>(B) 錯誤，直接型疝氣（direct inguinal hernia）因腹壁肌肉筋膜組織本身較薄弱，修補後比間接型疝氣（indirect inguinal hernia）更容易復發，間接型疝氣修補後復發率相對較低<br>(C) 正確，股疝氣（femoral hernia）因解剖位置較深且不易被初次診斷，約有 5 至 10% 會在疝氣復發評估時才被發現<br>(D) 正確，使用無張力修補（tension-free repair）合併人造網膜（mesh）可有效降低疝氣復發率，是目前標準術式",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -808,7 +808,7 @@
       "D": "需做腫瘤基因檢測，作為後續治療的重要參考"
     },
     "answer": "A",
-    "explanation": "乳管原位癌（ductal carcinoma in situ，DCIS）接受全乳切除術（mastectomy）後的輔助治療決策需根據淋巴結狀態、荷爾蒙受體及病理特性判斷。<br>本題患者：DCIS、全乳切除、前哨淋巴結（sentinel lymph node）無轉移、ER 陽性 95%、PR 陽性 90%、HER2 陰性、Ki-67 低、Grade 2。<br>(A) 正確，DCIS 接受全乳切除後，若荷爾蒙受體（hormone receptor）陽性，建議給予抗荷爾蒙藥物（endocrine therapy）如 tamoxifen 或 aromatase inhibitor，以降低對側乳房發生乳癌的風險<br>(B) 錯誤，放射線治療（radiation therapy）在全乳切除術後對 DCIS 並無標準適應症，因為乳房組織已完全切除；放射治療主要用於乳房保留手術（breast-conserving surgery）後<br>(C) 錯誤，DCIS 屬於非侵襲性原位癌，前哨淋巴結無轉移，不需要輔助性化學治療（adjuvant chemotherapy）<br>(D) 錯誤，腫瘤基因檢測（如 Oncotype DX）主要用於早期侵襲性乳癌（invasive breast cancer）荷爾蒙受體陽性病患，以評估化療效益，並非 DCIS 的標準檢測項目",
+    "explanation": "乳管原位癌（ductal carcinoma in situ，DCIS）接受全乳切除術（mastectomy）後的輔助治療決策需根據淋巴結狀態、荷爾蒙受體及病理特性判斷。<br>本題患者：DCIS、全乳切除、前哨淋巴結（sentinel lymph node）無轉移、ER 陽性 95%、PR 陽性 90%、HER2 陰性、Ki-67 低、Grade 2。<br>(A) 正確（四個選項中最適當），DCIS 接受全乳切除後，若荷爾蒙受體（hormone receptor）陽性，可考慮給予抗荷爾蒙藥物（endocrine therapy）如 tamoxifen 或 aromatase inhibitor，以降低對側乳房發生乳癌的風險。公告答案寫成建議給予，但依 AGO 2026，DCIS 的內分泌治療不影響整體存活，屬個別化選項，需權衡副作用與病人意願<br>(B) 錯誤，放射線治療（radiation therapy）在全乳切除術後對 DCIS 並無標準適應症，因為乳房組織已完全切除，放射治療主要用於乳房保留手術（breast-conserving surgery）後<br>(C) 錯誤，DCIS 屬於非侵襲性原位癌，前哨淋巴結無轉移，不需要輔助性化學治療（adjuvant chemotherapy）<br>(D) 錯誤，腫瘤基因檢測（如 Oncotype DX）主要用於早期侵襲性乳癌（invasive breast cancer）荷爾蒙受體陽性病患，以評估化療效益，並非 DCIS 的標準檢測項目",
     "tags": [
       "115-1-5",
       "乳房外科"
@@ -931,7 +931,7 @@
       "D": "如果懷孕病人需要手術，應儘量安排在妊娠中期（second trimester）進行"
     },
     "answer": "D",
-    "explanation": "肝膽微創手術的技術細節包含 Pringle 手法（Pringle maneuver）的使用時機、氣體栓塞（gas embolism）的處理及手術時機選擇，懷孕患者的手術時機是本題正確選項的所在。<br>(A) 錯誤，並非所有切肝手術都需要 Pringle 手法（即暫時阻斷肝門血流），小範圍或周邊病灶切除出血量少者不需常規使用<br>(B) 錯誤，Pringle 手法應間歇性使用（intermittent clamping），通常阻斷 15 至 20 分鐘後需鬆開讓肝臟再灌流，以避免長時間缺血造成肝損傷，而非持續到手術結束<br>(C) 錯誤，懷疑氣體栓塞（gas embolism）時應立即讓病人採取頭低腳高左側躺（Trendelenburg position with left lateral decubitus），以避免氣體阻塞右心室出口，並考慮以中央靜脈導管（central venous catheter）抽出氣體；題目所述為頭高腳低，方向錯誤<br>(D) 正確，懷孕患者若需手術，應儘量安排在妊娠中期（second trimester，第 13 至 28 週）進行，因為此時期胎兒器官已發育完成、自然流產風險降低，且子宮尚未過大影響手術視野",
+    "explanation": "肝膽微創手術的技術細節包含 Pringle 手法（Pringle maneuver）的使用時機、氣體栓塞（gas embolism）的處理及手術時機選擇，懷孕患者的手術時機是本題正確選項的所在。<br>(A) 錯誤，並非所有切肝手術都需要 Pringle 手法（即暫時阻斷肝門血流），小範圍或周邊病灶切除出血量少者不需常規使用<br>(B) 錯誤，Pringle 手法應間歇性使用（intermittent clamping），通常阻斷 15 至 20 分鐘後需鬆開讓肝臟再灌流，以避免長時間缺血造成肝損傷，而非持續到手術結束<br>(C) 錯誤，懷疑氣體栓塞（gas embolism）時應立即讓病人採取頭低腳高左側躺（Trendelenburg position with left lateral decubitus），以避免氣體阻塞右心室出口，並考慮以中央靜脈導管（central venous catheter）抽出氣體。題目所述為頭高腳低，方向錯誤<br>(D) 正確，懷孕患者若需手術，應儘量安排在妊娠中期（second trimester，第 13 至 28 週）進行，因為此時期胎兒器官已發育完成、自然流產風險降低，且子宮尚未過大影響手術視野",
     "tags": [
       "115-1-5",
       "肝膽胰外科"
@@ -1240,7 +1240,7 @@
       "D": "cystadenocarcinoma"
     },
     "answer": "A",
-    "explanation": "（本題有附圖，電腦斷層影像顯示卵巢腫塊的特徵，需依影像描述判斷最可能的診斷。）<br>卵巢腫塊（ovarian mass）的電腦斷層影像特徵需與各診斷的典型表現配對，皮樣囊腫（dermoid cyst）含有脂肪及鈣化是其影像特徵。<br>(A) 正確，皮樣囊腫（dermoid cyst，又稱成熟囊性畸胎瘤，mature cystic teratoma）在電腦斷層上典型表現為囊腫內含脂肪密度（fat density）成分及鈣化（calcification），如牙齒或骨骼，是最常見的良性卵巢腫瘤<br>(B) 錯誤，子宮內膜異位囊腫（endometrioma）在磁振造影（MRI）T1 加權影像上呈現高訊號的「巧克力囊腫」，電腦斷層上通常為均勻密度的囊性病灶，無脂肪成分<br>(C) 錯誤，卵泡膜黃素化囊腫（theca lutein cyst）通常為雙側多發性薄壁囊腫，常見於高人類絨毛膜促性腺激素（hCG）狀態，如葡萄胎（hydatidiform mole）<br>(D) 錯誤，囊腺癌（cystadenocarcinoma）通常為多房性（multilocular）囊實性腫塊，含不規則實質成分及乳突狀突起（papillary projections），惡性特徵明顯",
+    "explanation": "（本題有附圖，電腦斷層影像顯示卵巢腫塊的特徵，需依影像描述判斷最可能的診斷。）<br>卵巢腫塊（ovarian mass）的電腦斷層影像特徵需與各診斷的典型表現配對，皮樣囊腫（dermoid cyst）含有脂肪及鈣化是其影像特徵。<br>(A) 正確，皮樣囊腫（dermoid cyst，又稱成熟囊性畸胎瘤，mature cystic teratoma）在電腦斷層上典型表現為囊腫內含脂肪密度（fat density）成分及鈣化（calcification），如牙齒或骨骼，是最常見的良性卵巢腫瘤<br>(B) 錯誤，子宮內膜異位囊腫（endometrioma）在磁振造影（MRI）T1 加權影像上呈現高訊號的「巧克力囊腫」，電腦斷層上表現沒有特異性（可為含出血高密度的複雜性囊腫），無脂肪成分<br>(C) 錯誤，卵泡膜黃素化囊腫（theca lutein cyst）通常為雙側多發性薄壁囊腫，常見於高人類絨毛膜促性腺激素（hCG）狀態，如葡萄胎（hydatidiform mole）<br>(D) 錯誤，囊腺癌（cystadenocarcinoma）通常為多房性（multilocular）囊實性腫塊，含不規則實質成分及乳突狀突起（papillary projections），惡性特徵明顯",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -1315,7 +1315,7 @@
       "D": "人類咬傷的傷口大都是多重細菌感染，最常見的細菌為葡萄球菌和鏈球菌"
     },
     "answer": "B",
-    "explanation": "哺乳動物咬傷（mammalian bite wound）的感染風險依咬傷部位、動物種類及傷口特性不同而有所差異，並非所有部位的咬傷均屬高風險。<br>(A) 正確，貓咬傷（cat bite）因貓的牙齒細長，傷口深但表面小，容易造成深部感染，最常見的致病菌為巴斯德氏菌（Pasteurella multocida）<br>(B) 錯誤，並非所有部位的哺乳動物咬傷均屬高感染風險，臉部及頭皮（face and scalp）因血液循環豐富，感染風險反而較低，可考慮初級縫合（primary closure）；手部（hand）咬傷因腔室多、血液循環相對差，感染風險最高<br>(C) 正確，哺乳動物咬傷臉部或頭皮因血液供應佳、癒合能力強，可考慮初級縫合（primary closure）並給予預防性抗生素<br>(D) 正確，人類咬傷（human bite）通常為多重細菌感染（polymicrobial infection），最常見的致病菌為葡萄球菌（Staphylococcus）及鏈球菌（Streptococcus），以及口腔厭氧菌（oral anaerobes）",
+    "explanation": "哺乳動物咬傷（mammalian bite wound）的感染風險依咬傷部位、動物種類及傷口特性不同而有所差異，並非所有部位的咬傷均屬高風險。<br>(A) 正確，貓咬傷（cat bite）因貓的牙齒細長，傷口深但表面小，容易造成深部感染，最常見的致病菌為巴斯德氏菌（Pasteurella multocida）<br>(B) 錯誤，並非所有部位的哺乳動物咬傷均屬高感染風險，臉部及頭皮（face and scalp）因血液循環豐富，感染風險反而較低，可考慮初級縫合（primary closure）。手部（hand）咬傷因腔室多、血液循環相對差，感染風險最高<br>(C) 正確，哺乳動物咬傷臉部或頭皮因血液供應佳、癒合能力強，可考慮初級縫合（primary closure）並給予預防性抗生素<br>(D) 正確，人類咬傷（human bite）通常為多重細菌感染（polymicrobial infection），最常見的致病菌為葡萄球菌（Staphylococcus）及鏈球菌（Streptococcus），以及口腔厭氧菌（oral anaerobes）",
     "tags": [
       "115-1-5",
       "重建整形外科"
