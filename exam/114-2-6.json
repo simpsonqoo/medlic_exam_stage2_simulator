@@ -587,7 +587,7 @@
       "D": "9分"
     },
     "answer": "C",
-    "explanation": "Bishop score由五個指標組成：子宮頸擴張（dilation）、消退（effacement）、胎先露高度（station）、軟硬度（consistency）及位置（position），需熟記各項目的計分方式。<br>各項計分：子宮頸開口 1–2 cm → 1分。子宮頸消退 50% → 1分。Station -2 → 1分（station分-3/−2/−1/0/+1各對應0/1/2/3）。子宮頸質地柔軟（soft）→ 2分。子宮頸位置朝前（anterior）→ 2分。<br>(A) 錯誤，3分計算有誤，未正確計入軟硬度與位置的加分。<br>(B) 錯誤，5分計算有誤，部分項目評分不正確。<br>(C) 正確，依上述計分：1＋1＋1＋2＋2＝7分。<br>(D) 錯誤，9分計算有誤，超過實際得分。",
+    "explanation": "Bishop score 由五項指標組成：子宮頸擴張（dilation）、消退（effacement）、胎先露位置（station，相對坐骨棘的距離）、子宮頸質地（consistency）與子宮頸位置（position）。本題擴張 1~2 cm 得 1 分，消退 50%（落在 40~50% 區間）得 1 分，station -2 得 1 分，質地柔軟（soft）得 2 分，位置朝前（anterior）得 2 分，合計 1 + 1 + 1 + 2 + 2 = 7 分。<br>(A) 錯誤，3 分未計入質地與位置的得分<br>(B) 錯誤，5 分的計算有誤，部分項目少算<br>(C) 正確，合計 7 分<br>(D) 錯誤，9 分高於實際得分",
     "tags": [
       "114-2-6",
       "婦產科"

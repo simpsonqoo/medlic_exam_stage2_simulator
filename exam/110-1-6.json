@@ -9,7 +9,7 @@
       "D": "class III"
     },
     "answer": "A",
-    "explanation": "馬蘭巴迪分類法（Modified Mallampati Classification）按可見咽部結構從易到難分為四級，關鍵是記住各級對應可見結構，等級越高插管難度越大。<br>Class I：可見軟顎（soft palate）、咽峽柱（faucial pillars）、懸雍垂（uvula）。Class II：可見軟顎、部分懸雍垂。Class III：僅可見軟顎。Class IV：僅可見硬顎（hard palate），軟顎完全不可見。<br>(A) 正確，僅能看見硬顎而軟顎完全不可見，對應 Class IV，為最困難插管等級<br>(B) 錯誤，Class II 可見軟顎與部分懸雍垂，並非僅見硬顎<br>(C) 錯誤，Class I 可見軟顎、咽峽柱與懸雍垂，視野最佳<br>(D) 錯誤，Class III 僅可見軟顎，尚可看到軟顎，不符合題意",
+    "explanation": "改良式 Mallampati 分級（Modified Mallampati classification）依張口伸舌時可見的咽部構造分四級，等級越高，插管越困難。Class I 可見軟顎（soft palate）、咽峽柱與懸雍垂（uvula），Class II 可見軟顎與部分懸雍垂，Class III 只見軟顎與懸雍垂基部，Class IV 只見硬顎（hard palate）。<br>(A) 正確，只看得到硬顎、看不到軟顎屬於 Class IV<br>(B) 錯誤，Class II 可見軟顎與部分懸雍垂，不是只見硬顎<br>(C) 錯誤，Class I 可見軟顎、咽峽柱與懸雍垂，視野最好<br>(D) 錯誤，Class III 仍可看到軟顎與懸雍垂基部，不符合只見硬顎的描述",
     "tags": [
       "110-1-6",
       "麻醉科"
@@ -26,7 +26,7 @@
       "D": "急性肺栓塞"
     },
     "answer": "C",
-    "explanation": "潮氣末二氧化碳（end-tidal CO2, EtCO2）突然降低的原因通常為肺部灌流減少、氣道阻塞、或呼吸迴路問題，需找出「不會造成降低」的選項。<br>EtCO2降低原因包括：肺栓塞導致死腔增加、氣管內管（endotracheal tube）彎折、呼吸迴路鬆脫等。發燒會增加代謝率與CO2產生，反而使EtCO2升高。<br>(A) 錯誤，氣管內管彎折會阻礙氣體交換，導致EtCO2下降<br>(B) 錯誤，呼吸迴路鬆脫會造成漏氣，偵測到的CO2濃度下降<br>(C) 正確，發燒使代謝增加、CO2產生增多，EtCO2應升高而非降低<br>(D) 錯誤，急性肺栓塞（acute pulmonary embolism）使肺部灌流驟減、死腔增加，EtCO2明顯下降",
+    "explanation": "潮氣末二氧化碳（end-tidal CO2, EtCO2）突然降低，常見原因是肺血流驟減（如肺栓塞、心輸出量驟降、心跳停止），或通氣中斷（如呼吸迴路鬆脫、呼吸器故障、氣管內管彎折或阻塞）。CO2 產生增加（如發燒、敗血症、腹腔鏡 CO2 氣腹）則使 EtCO2 上升。本題要找不會造成降低的原因。<br>(A) 正確，氣管內管彎折或阻塞會使通氣中斷，EtCO2 下降<br>(B) 正確，呼吸迴路鬆脫使氣體無法正常送出，偵測到的 CO2 驟降<br>(C) 錯誤，發燒使代謝率增加、CO2 產生增多，EtCO2 會上升而不是降低，所以是本題答案<br>(D) 正確，急性肺栓塞使肺血流驟減、死腔增加，EtCO2 明顯下降",
     "tags": [
       "110-1-6",
       "麻醉科"
@@ -692,7 +692,7 @@
       "D": "立即剖腹生產"
     },
     "answer": "C",
-    "explanation": "此題孕婦有破水（陽性破水試驗、羊水稀少）合併發燒、白血球上升，符合絨毛膜羊膜炎（chorioamnionitis）的診斷標準，需在正確判斷病況後選擇最適切處置。<br>體溫38.6℃、WBC 19,000/mm3、心搏過速 → 符合絨毛膜羊膜炎（chorioamnionitis）。妊娠34週，胎肺已接近成熟，betamethasone效益有限。有感染徵象時不應使用子宮鬆弛劑。<br>(A) 錯誤，促胎肺成熟劑（betamethasone）建議用於妊娠24至34週之間的早產風險，此案已達34週且有感染徵象，使用betamethasone的優先順序低於控制感染。且感染狀態下使用類固醇可能加重感染<br>(B) 錯誤，子宮鬆弛劑（tocolytic agents）的使用禁忌包括絨毛膜羊膜炎，在有明確感染徵象時不應抑制宮縮，否則會延誤感染的處理並增加母嬰風險<br>(C) 正確，孕婦符合絨毛膜羊膜炎的診斷（發燒、白血球上升、心搏過速、破水），應立即給予廣效性抗生素治療，同時評估是否需要盡快終止妊娠，抗生素治療是目前最優先且最適切的處置<br>(D) 錯誤，雖然絨毛膜羊膜炎最終可能需要終止妊娠，但在34週、胎位正常且子宮頸未開的情況下，並非立即選擇剖腹產，應先給予抗生素並視病情進展決定分娩方式與時機",
+    "explanation": "本題孕婦妊娠 34 週且破水，體溫 38.6℃、心跳 102 bpm、白血球 19,000/mm3，符合羊膜內感染（絨毛膜羊膜炎，chorioamnionitis）的診斷。處置原則是立即投予抗生素控制感染（例如 ampicillin 合併 gentamicin，剖腹產者加上 clindamycin 或 metronidazole 涵蓋厭氧菌），並安排分娩。<br>(A) 錯誤，有明確感染徵象時，優先處置是控制感染，促胎兒肺成熟劑不是最優先<br>(B) 錯誤，羊膜內感染時不應用子宮鬆弛劑抑制宮縮，否則會延誤感染處理並增加母嬰風險<br>(C) 正確，符合羊膜內感染，應立即給予抗生素<br>(D) 錯誤，羊膜內感染本身不是剖腹產的適應症，應先給抗生素，分娩方式依產科情況決定",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -794,7 +794,7 @@
       "D": "IIIA1"
     },
     "answer": "D",
-    "explanation": "2014年修訂的國際婦產科聯盟（FIGO）卵巢癌分期將淋巴結轉移獨立列出，需熟悉各期別的定義以正確分類。<br>FIGO III期：腫瘤擴散至腹膜腔（包含腹膜後淋巴結）或包含腹膜外器官。IIIA1：僅有腹膜後淋巴結（retroperitoneal lymph node）陽性，無腹腔外擴散。<br>(A) 錯誤，IIB期定義為腫瘤延伸至骨盆腔其他腹膜內組織（如子宮、輸卵管），並非淋巴結轉移的分期<br>(B) 錯誤，IIIC期定義為腹腔外腹膜轉移病灶最大徑超過2公分，或有腹股溝淋巴結（inguinal lymph node）轉移<br>(C) 錯誤，IIIB期定義為腹腔外腹膜轉移病灶最大徑超過0.2公分但不超過2公分<br>(D) 正確，依據2014 FIGO分期，IIIA1期定義為僅有腹膜後淋巴結陽性（包含骨盆腔或主動脈旁淋巴結轉移），而無腹腔內腹膜擴散，符合題目描述，應歸類為IIIA1期",
+    "explanation": "2014 年 FIGO 卵巢癌分期中，Stage III 是癌症擴散到骨盆腔外的腹膜，和（或）有後腹膜淋巴結轉移。Stage IIIA1 為只有後腹膜淋巴結轉移，其中 IIIA1(i) 轉移灶最大徑 ≤ 10 mm，IIIA1(ii) 轉移灶最大徑 &gt; 10 mm。骨盆腔和主動脈旁淋巴結都屬於後腹膜淋巴結。<br>(A) 錯誤，IIB 是腫瘤延伸到骨盆腔其他腹膜內組織，不是淋巴結轉移<br>(B) 錯誤，IIIC 是骨盆腔外腹膜轉移灶最大徑超過 2 cm，可伴有後腹膜淋巴結轉移<br>(C) 錯誤，IIIB 是骨盆腔外腹膜轉移灶最大徑不超過 2 cm，可伴有後腹膜淋巴結轉移<br>(D) 正確，腫瘤侷限在骨盆腔，只有後腹膜（含骨盆腔）淋巴結轉移，屬於 IIIA1",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -845,7 +845,7 @@
       "D": "體重過重或肥胖"
     },
     "answer": "D",
-    "explanation": "多囊性卵巢症候群（PCOS）的診斷依據2003年鹿特丹標準（Rotterdam criteria），需符合三項中的兩項，需辨認哪項不在診斷標準之列。<br>鹿特丹標準三項：超音波多囊性卵巢影像、雄性激素過多（臨床或生化）、排卵寡少或無排卵。<br>(A) 錯誤（屬診斷標準之一），超音波顯示多囊性卵巢影像（卵巢內有12顆以上直徑2至9mm的小卵泡，或卵巢體積超過10mL）是鹿特丹標準之一<br>(B) 錯誤（屬診斷標準之一），雄性激素過多（hyperandrogenism）的臨床症狀（如多毛症、痤瘡）或生化指標升高是鹿特丹標準之一<br>(C) 錯誤（屬診斷標準之一），排卵寡少（oligoovulation）或慢性無排卵（chronic anovulation）是鹿特丹標準之一<br>(D) 正確，體重過重或肥胖雖然在PCOS患者中十分常見，也會加重胰島素阻抗與雄性激素過多，但並非PCOS的診斷標準之一。部分PCOS患者體重正常甚至偏低，仍可確診",
+    "explanation": "多囊性卵巢症候群（polycystic ovary syndrome, PCOS）採用鹿特丹標準（Rotterdam criteria, 2003），符合下列三項中的兩項並排除其他疾病即可診斷：高雄性素血症（hyperandrogenism，臨床或生化表現）、排卵功能障礙（排卵寡少或無排卵）、多囊性卵巢型態（超音波），2023 年國際指引另允許以抗穆勒氏管荷爾蒙（AMH）升高取代超音波表現。體重並不在診斷標準內。<br>(A) 正確，超音波多囊性卵巢型態是診斷標準之一<br>(B) 正確，臨床或生化的雄性激素過多是診斷標準之一<br>(C) 正確，排卵寡少或長期無排卵是診斷標準之一<br>(D) 錯誤，體重過重或肥胖在 PCOS 很常見，但不是診斷標準，部分病人體重正常仍可確診，所以是本題答案",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -879,7 +879,7 @@
       "D": "PKD1 gene"
     },
     "answer": "A",
-    "explanation": "此題結合高FSH低雌激素（早發性卵巢功能不全，premature ovarian insufficiency）、家族性早停經及兄長智能不足三個線索，需辨認最相關的遺傳診斷。<br>早發性卵巢功能不全（POI）合併家族史 → 考慮遺傳因素。兄長智能不足 → 提示X染色體相關遺傳疾病。FMR1基因前突變（premutation）與脆X相關原發性卵巢功能不全（FXPOI）及脆X症候群相關。<br>(A) 正確，FMR1基因（脆X智能不足基因，fragile X mental retardation 1 gene）前突變（premutation，CGG重複55至200次）的女性攜帶者有約20%機率發生早發性卵巢功能不全（FXPOI）。同時其兄長若為全突變（full mutation，CGG重複超過200次）則可能表現脆X症候群（fragile X syndrome）導致智能障礙，三個臨床特徵完全吻合<br>(B) 錯誤，SMN1基因突變與脊髓性肌肉萎縮症（spinal muscular atrophy, SMA）相關，與早發性卵巢功能不全無關<br>(C) 錯誤，CYP21基因突變導致先天性腎上腺增生症（congenital adrenal hyperplasia），表現為雄性激素過多，不符合此案的臨床表現<br>(D) 錯誤，PKD1基因突變與多囊腎（polycystic kidney disease）相關，與卵巢功能及智能不足無關",
+    "explanation": "病人 37 歲、停經 2 年、FSH 42 mIU/mL 且 estradiol 低，符合早發性卵巢功能不全（premature ovarian insufficiency, POI）。母親早停經、哥哥智能不足，提示脆折 X 染色體症候群（fragile X syndrome）。FMR1 基因（位於 Xq27.3）前突變（premutation）的女性帶因者，約 20% 會發生脆折 X 相關原發性卵巢功能不全（FXPOI，40 歲前卵巢功能衰竭），全突變（full mutation）的男性則表現智能障礙。家族中有不明原因智能障礙者，或 40 歲前不明原因卵巢功能衰竭，都應檢測 FMR1。<br>(A) 正確，FMR1 基因檢查符合家族史與卵巢功能衰竭的表現<br>(B) 錯誤，SMN1 基因與脊髓性肌肉萎縮症（spinal muscular atrophy）有關，與卵巢功能無關<br>(C) 錯誤，CYP21 基因突變造成先天性腎上腺增生症，表現為雄性素過多<br>(D) 錯誤，PKD1 基因與多囊腎（polycystic kidney disease）有關，與卵巢功能及智能不足無關",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -913,7 +913,7 @@
       "D": "甲狀腺刺激激素（TSH）2.0 mIU/L以及抗甲狀腺抗體陰性"
     },
     "answer": "A",
-    "explanation": "懷孕期間甲狀腺素補充的適應症需綜合考慮促甲狀腺激素（TSH）數值與自體免疫狀態，孕期TSH目標值比非孕期更嚴格。<br>孕早期TSH目標：2.5 mIU/L以下（部分指引建議低於2.0）。抗甲狀腺抗體陽性代表自體免疫甲狀腺疾病，流產與甲狀腺功能低下風險更高。<br>(A) 正確，TSH 4.5 mIU/L已超過孕早期建議上限（2.5 mIU/L），且合併抗甲狀腺抗體（anti-thyroid antibody）陽性，代表有自體免疫甲狀腺疾病，甲狀腺功能進一步惡化與流產風險最高，最須積極補充甲狀腺素（levothyroxine）<br>(B) 錯誤，TSH 2.0 mIU/L雖在孕早期建議範圍的臨界，但抗體陽性者仍需密切監測。相較於選項(A)的TSH 4.5，補充的急迫性較低<br>(C) 錯誤，TSH 4.5 mIU/L雖偏高，但抗體陰性代表無自體免疫因素加重，風險低於選項(A)<br>(D) 錯誤，TSH 2.0 mIU/L且抗體陰性，整體風險最低，補充甲狀腺素的必要性最弱",
+    "explanation": "妊娠合併亞臨床甲狀腺功能低下時，是否補充甲狀腺素要看 TSH 與 TPO 抗體（ATA 2017）。TPO 抗體陽性且 TSH 高於孕期參考上限（無參考值時約 &gt; 4.0 mIU/L）建議治療，TPO 抗體陽性但 TSH &gt; 2.5 mIU/L 未超過參考上限，或抗體陰性但 TSH 高於參考上限且 &lt; 10 mIU/L，則可考慮治療。<br>(A) 正確，TSH 4.5 mIU/L 高於上限且抗體陽性，建議治療，最須補充甲狀腺素<br>(B) 錯誤，TSH 2.0 mIU/L 未超過 2.5 mIU/L，即使抗體陽性也沒有補充的必要<br>(C) 錯誤，TSH 4.5 mIU/L 但抗體陰性，只是可考慮治療，急迫性不如 (A)<br>(D) 錯誤，TSH 2.0 mIU/L 且抗體陰性，風險最低，不需補充",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -947,7 +947,7 @@
       "D": "ventricle，keyhole sign"
     },
     "answer": "A",
-    "explanation": "此題為產前超音波圖題，考胎兒無腦症（anencephaly）的典型影像特徵，需結合下題（第57題答案為無腦症）的臨床脈絡來判斷。<br>無腦症（anencephaly）特徵：頭部顱骨缺失，腦組織暴露於羊水中，超音波矢狀面顯示頭部呈扁平蛙眼外觀。<br>(A) 正確，無腦症的異常器官為頭部（head），顱頂缺失、腦組織退化，超音波上頭部呈現蛙眼徵象（frog sign），即雙側眼球突出形似青蛙眼，是無腦症的典型產前超音波特徵<br>(B) 錯誤，香蕉徵象（banana sign）是指小腦（cerebellum）形態異常，為脊柱裂（spina bifida）合併阿諾德-奇亞里畸形（Arnold-Chiari malformation）的超音波表現，而非無腦症<br>(C) 錯誤，檸檬徵象（lemon sign）是指腦橋（pons）區域頭顱形態改變，同樣見於脊柱裂的超音波評估，不適用此題<br>(D) 錯誤，鑰匙孔徵象（keyhole sign）為腹部超音波表現，用於描述後尿道瓣膜（posterior urethral valve）造成膀胱頸與後尿道擴張的特徵外觀，與本題無關",
+    "explanation": "本題為產前超音波圖題，圖中為無腦症（anencephaly），是最常見的神經管缺損，胎兒顱骨與端腦未發育，可見顱頂缺失、腦組織暴露，無法存活。超音波下沒有正常圓形頭骨，測不到雙頂骨徑（biparietal diameter），頭部外觀像青蛙臉，稱為青蛙徵象（frog sign）。<br>(A) 正確，異常的構造是頭部，特徵為青蛙徵象<br>(B) 錯誤，香蕉徵象（banana sign）是小腦向後下變形，見於開放性脊柱裂合併 Chiari II 畸形，不是無腦症<br>(C) 錯誤，檸檬徵象（lemon sign）是前額骨內凹使頭形像檸檬，同樣見於開放性脊柱裂，不是腦橋（pons）的異常<br>(D) 錯誤，鑰匙孔徵象（keyhole sign）是膀胱與擴張的後尿道呈鑰匙孔狀，見於後尿道瓣膜（posterior urethral valve），不是腦室的徵象",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -1225,7 +1225,7 @@
       "D": "畸胎瘤（teratoma）"
     },
     "answer": "A",
-    "explanation": "骨盆腔囊狀病灶的磁振造影（MRI）訊號特性是鑑別診斷的關鍵，需熟悉各種囊腫在T1與T2加權影像上的典型訊號模式。<br>T1高訊號 → 含有血液、脂肪或高蛋白液體。T2稍低訊號 → 反覆出血後含鐵血黃素沉積（hemosiderin shading）造成訊號衰減。<br>(A) 正確，巧克力囊腫（chocolate cyst）即子宮內膜異位囊腫（endometrioma），因反覆月經期出血，囊腫內含濃稠的舊血與含鐵血黃素，MRI典型表現為T1加權高訊號（血液成分）與T2加權稍低訊號（含鐵血黃素陰影，T2 shading），與題目描述完全吻合<br>(B) 錯誤，卵巢癌（ovarian cancer）通常為複雜性囊腫，含實性成分、隔膜及不規則壁，訊號不均勻，T1訊號通常不會有明顯高訊號的典型表現<br>(C) 錯誤，輸卵管卵巢膿瘍（tubo-ovarian abscess）的MRI表現以T2高訊號為主（膿液為高水分），T1訊號較低或中等，與題目的T1高訊號不符<br>(D) 錯誤，成熟囊性畸胎瘤（mature cystic teratoma）含脂肪成分，T1呈高訊號但脂肪抑制序列（fat suppression）會使訊號消失。且T2通常也呈高訊號，不符合本題T2稍低訊號的描述",
+    "explanation": "子宮內膜異位症最常見於卵巢（約 50~70%），形成巧克力囊腫（endometrioma）。MRI 表現為 T1 高訊號、T2 因血鐵質沉積出現陰影（T2 shading），且在脂肪抑制序列仍維持高訊號，與本題的 T2 稍低訊號、T1 高訊號相符。<br>(A) 正確，巧克力囊腫即卵巢子宮內膜異位囊腫，符合 T1 高訊號、T2 稍低訊號<br>(B) 錯誤，卵巢癌多為含實性成分、隔膜與不規則壁的複雜性囊腫，訊號不均勻，沒有這種典型表現<br>(C) 錯誤，輸卵管卵巢膿瘍（tubo-ovarian abscess）以 T2 高訊號為主，T1 訊號較低或中等<br>(D) 錯誤，成熟囊性畸胎瘤（teratoma）含脂肪，T1 雖為高訊號，但在脂肪抑制序列訊號會消失，與巧克力囊腫不同",
     "tags": [
       "110-1-6",
       "婦產科"
@@ -1320,7 +1320,7 @@
       "D": "700"
     },
     "answer": "C",
-    "explanation": "利多卡因（lidocaine）的最高安全劑量因是否合併腎上腺素（epinephrine）而有所不同，需記憶兩種情況的劑量上限並計算。<br>Lidocaine單獨使用：最高劑量4至5 mg/kg。Lidocaine合併epinephrine：最高劑量提高至7 mg/kg（腎上腺素收縮血管減少吸收）。<br>計算：72 kg × 7 mg/kg = 504 mg ≈ 500 mg<br>(A) 錯誤，100mg遠低於72公斤患者合併epinephrine時的安全上限，過於保守<br>(B) 錯誤，250mg約對應72公斤患者單純lidocaine（不含epinephrine）約3.5 mg/kg，合併epinephrine時上限更高<br>(C) 正確，72公斤 × 7 mg/kg = 504 mg，最接近且不超過安全上限的選項為500 mg，是合併epinephrine使用時的最高劑量<br>(D) 錯誤，700mg超過72公斤患者合併epinephrine的安全上限（504 mg），有局部麻醉劑全身毒性（LAST）的風險",
+    "explanation": "局部麻醉藥合併腎上腺素（epinephrine）時，注射部位血管收縮，可減少全身吸收、延長作用時間並提高最大劑量，對 lidocaine 等中短效藥物效果最明顯。Lidocaine 合併 epinephrine 的最大劑量為 7 mg/kg，最多約 500 mg。本題體重 72 kg，72 × 7 = 504 mg，故上限取約 500 mg。<br>(A) 錯誤，100 mg 遠低於上限<br>(B) 錯誤，250 mg 低於上限，約 3.5 mg/kg，是不含 epinephrine 時較接近的劑量<br>(C) 正確，合併 epinephrine 時最高約 500 mg<br>(D) 錯誤，700 mg 超過上限，有局部麻醉劑全身毒性（local anesthetic systemic toxicity）的風險",
     "tags": [
       "110-1-6",
       "麻醉科"

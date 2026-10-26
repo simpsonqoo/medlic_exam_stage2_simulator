@@ -728,7 +728,7 @@
       "D": "聽覺"
     },
     "answer": "D",
-    "explanation": "MRKH症候群是Müllerian管發育異常導致的先天性疾病，特徵是陰道和子宮缺如或發育不全，但卵巢功能正常。<br>(A) 錯誤，MRKH症候群不會伴隨視覺系統異常<br>(B) 錯誤，MRKH症候群不會伴隨味覺異常<br>(C) 錯誤，嗅覺異常見於Kallmann症候群（伴隨性腺功能低下），但MRKH患者卵巢功能正常，不會有嗅覺異常<br>(D) 正確，MRKH症候群可分為兩型。<br>Type I（isolated）：僅有陰道子宮發育不全。Type II（MURCS association）：除了生殖道異常，還可能合併其他器官系統異常，包括：腎臟及泌尿道異常（renal anomalies，如單側腎缺如、馬蹄腎）、骨骼異常（skeletal anomalies，如頸椎融合）、心臟異常（cardiac defects）以及「聽力異常（auditory anomalies，感音神經性聽力損失）」，其中聽力異常是最常與MRKH共同出現的非生殖器官系統異常，因此答案選聽覺（D）。",
+    "explanation": "Mayer-Rokitansky-Küster-Hauser（MRKH）症候群是 Müller 管發育異常，造成陰道與子宮發育不全。患者可能合併腎臟（renal）、骨骼（skeletal）、聽力（auditory）異常，所以也稱 MURCS 關聯。嗅覺異常則見於 Kallmann 症候群（低促性腺激素性性腺低下），不是 MRKH 的合併症。<br>(A) 錯誤，MRKH 不特別合併視覺異常<br>(B) 錯誤，MRKH 不特別合併味覺異常<br>(C) 錯誤，嗅覺異常見於 Kallmann 症候群，不是 MRKH<br>(D) 正確，MRKH 可能合併聽力異常",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -782,7 +782,7 @@
       "D": "35～40%"
     },
     "answer": "B",
-    "explanation": "先天性子宮異常（congenital uterine anomalies）是Müllerian管發育異常導致的子宮結構異常，會影響生育。<br>(A) 錯誤，1-5%低估了先天性子宮異常在復發性流產族群的比率<br>(B) 正確，在經歷早期流產的孕婦中，約5-10%有先天性子宮異常。在一般生育年齡女性中，子宮異常的盛行率約4-7%。在復發性流產（recurrent pregnancy loss，定義為連續2次或以上流產）的女性中，比率更高，可達10-15%<br>(C) 錯誤，20-30%過高估計了先天性子宮異常的比率<br>(D) 錯誤，35-40%遠高於實際比率<br>常見的子宮異常類型包括。<br>子宮縱膈（septate uterus）：最常見，最容易導致流產。雙角子宮（bicornuate uterus）。單角子宮（unicornuate uterus）。雙子宮（didelphys uterus）。弓形子宮（arcuate uterus）。",
+    "explanation": "先天性子宮異常（congenital uterine anomalies）包括子宮中膈（septate uterus）、單角與雙角子宮等，是反覆性流產的先天性子宮因素之一。有流產史的女性（含反覆流產）約有 13% 合併先天性子宮異常，四個選項中最接近 (B) 5~10%，也是公告答案。<br>(A) 錯誤，1~5% 低於流產族群的盛行率<br>(B) 正確，是四個選項中最接近約 13% 的範圍，公告答案為 B<br>(C) 錯誤，20~30% 高於流產族群的盛行率<br>(D) 錯誤，35~40% 遠高於流產族群的盛行率",
     "tags": [
       "112-2-6",
       "婦產科"
