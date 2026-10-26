@@ -97,7 +97,7 @@
       "D": "ligamentum flavum 黃韌帶"
     },
     "answer": "B",
-    "explanation": "脊椎麻醉時，穿刺針從背部皮膚往脊椎管內前進，會依序經過多層結構。<br>從外到內的順序為：<br>· 皮膚（skin）<br>· 皮下組織（subcutaneous tissue）<br>· 棘上韌帶（supraspinous ligament）<br>· 棘間韌帶（interspinous ligament）<br>· 黃韌帶（ligamentum flavum）- 穿過時有明顯的「失去阻力」感<br>· 硬脊膜（dura mater）<br>· 蜘蛛網膜（arachnoid mater）<br>(A) 錯誤，硬脊膜是最外層的腦脊膜，與蜘蛛網膜緊密貼合，穿過硬脊膜後還需穿過蜘蛛網膜才會到達蜘蛛網膜下腔（subarachnoid space）<br>(B) 正確，蜘蛛網膜是脊椎麻醉穿刺針最後穿過的結構。當針尖穿過蜘蛛網膜進入蜘蛛網膜下腔時，才會看到腦脊髓液（CSF）流出。此時即可注入局部麻醉劑<br>(C) 錯誤，軟腦膜（pia mater）是最內層的腦脊膜，緊貼於脊髓表面，脊椎麻醉不需要也不應該穿過此層<br>(D) 錯誤，黃韌帶是在硬脊膜之前就會穿過的結構，穿過黃韌帶時會有明顯的「失去阻力」感，但此時還在硬膜外腔（epidural space），尚未到達蜘蛛網膜下腔",
+    "explanation": "脊椎麻醉時，穿刺針從背部皮膚往脊椎管內前進，會依序經過多層結構。<br>從外到內的順序為：皮膚（skin）。皮下組織（subcutaneous tissue）。棘上韌帶（supraspinous ligament）。棘間韌帶（interspinous ligament）。黃韌帶（ligamentum flavum，穿過時有明顯的「失去阻力」感）。硬脊膜（dura mater）。蜘蛛網膜（arachnoid mater）。<br>(A) 錯誤，硬脊膜是最外層的腦脊膜，與蜘蛛網膜緊密貼合，穿過硬脊膜後還需穿過蜘蛛網膜才會到達蜘蛛網膜下腔（subarachnoid space）<br>(B) 正確，蜘蛛網膜是脊椎麻醉穿刺針最後穿過的結構。當針尖穿過蜘蛛網膜進入蜘蛛網膜下腔時，才會看到腦脊髓液（CSF）流出。此時即可注入局部麻醉劑<br>(C) 錯誤，軟腦膜（pia mater）是最內層的腦脊膜，緊貼於脊髓表面，脊椎麻醉不需要也不應該穿過此層<br>(D) 錯誤，黃韌帶是在硬脊膜之前就會穿過的結構，穿過黃韌帶時會有明顯的「失去阻力」感，但此時還在硬膜外腔（epidural space），尚未到達蜘蛛網膜下腔",
     "tags": [
       "113-2-6",
       "麻醉科"
@@ -148,7 +148,7 @@
       "D": "給與腎性劑量（renal-dose）的dopamine，可增加尿量，減少住院洗腎率"
     },
     "answer": "B",
-    "explanation": "敗血症治療指引隨著實證醫學研究不斷更新，許多過去認為有效的治療已被證實無益甚至有害。<br>(A) 錯誤，早期目標引導治療（early goal-directed therapy, EGDT）雖然在Rivers等人2001年的研究中顯示有益，但後續的ProCESS、ARISE、ProMISe等大型研究顯示，嚴格遵循EGDT並未改善預後。目前指引建議早期足夠輸液復甦（initial fluid resuscitation），但不需要過度積極達到特定的血流動力學目標，且平均血壓目標通常是≥65 mmHg而非90 mmHg<br>(B) 正確，控制血糖在140-180 mg/dL範圍內已被證實可改善敗血症病人預後。過度積極的血糖控制（目標<110 mg/dL）會增加低血糖風險而無額外好處，因此目前指引建議適度血糖控制即可<br>(C) 錯誤，高劑量類固醇（high-dose corticosteroids）並未被證實能降低敗血症死亡率，反而可能增加感染和其他併發症。目前僅建議在對輸液和升壓劑反應不佳的難治性敗血性休克（refractory septic shock）時，使用低劑量hydrocortisone（如200-300 mg/day）<br>(D) 錯誤，腎性劑量dopamine（renal-dose dopamine，通常指2-5 mcg/kg/min）並未被證實能預防腎衰竭或減少透析需求，反而可能增加心律不整風險。目前不建議使用dopamine作為腎保護策略",
+    "explanation": "敗血症治療指引隨著實證醫學研究不斷更新，許多過去認為有效的治療已被證實無益甚至有害。<br>(A) 錯誤，早期目標引導治療（early goal-directed therapy, EGDT）雖然在Rivers等人2001年的研究中顯示有益，但後續的ProCESS、ARISE、ProMISe等大型研究顯示，嚴格遵循EGDT並未改善預後。目前指引建議早期足夠輸液復甦（initial fluid resuscitation），但不需要過度積極達到特定的血流動力學目標，且平均血壓目標通常是≥65 mmHg而非90 mmHg<br>(B) 正確，控制血糖在140-180 mg/dL範圍內已被證實可改善敗血症病人預後。過度積極的血糖控制（目標&lt;110 mg/dL）會增加低血糖風險而無額外好處，因此目前指引建議適度血糖控制即可<br>(C) 錯誤，高劑量類固醇（high-dose corticosteroids）並未被證實能降低敗血症死亡率，反而可能增加感染和其他併發症。目前僅建議在對輸液和升壓劑反應不佳的難治性敗血性休克（refractory septic shock）時，使用低劑量hydrocortisone（如200-300 mg/day）<br>(D) 錯誤，腎性劑量dopamine（renal-dose dopamine，通常指2-5 mcg/kg/min）並未被證實能預防腎衰竭或減少透析需求，反而可能增加心律不整風險。目前不建議使用dopamine作為腎保護策略",
     "tags": [
       "113-2-6",
       "麻醉科"
@@ -301,7 +301,7 @@
       "D": "視網膜光學斷層掃描儀（optical coherence tomography, OCT）"
     },
     "answer": "D",
-    "explanation": "六個月嬰兒出現白瞳症（leukocoria）是嚴重警訊，必須緊急鑑別診斷，最擔心的是視網膜母細胞瘤（retinoblastoma）。<br>白瞳症的鑑別診斷包括：<br>· 視網膜母細胞瘤（retinoblastoma）- 最危險<br>· 先天性白內障（congenital cataract）<br>· 持續性胎兒血管系統（persistent fetal vasculature）<br>· 早產兒視網膜病變（retinopathy of prematurity）<br>· Coats disease<br>· 眼內炎（endophthalmitis）<br>(A) 正確需要，眼球超音波（ocular ultrasound）可評估眼內腫塊、鈣化（視網膜母細胞瘤的特徵）、玻璃體混濁等，且對嬰兒非侵入性，檢查快速<br>(B) 正確需要，眼窩電腦斷層（orbital CT）可評估腫瘤範圍、是否有鈣化、視神經侵犯、眼外擴散等，對視網膜母細胞瘤的分期和治療計畫很重要<br>(C) 正確需要，間接眼底鏡檢查（indirect ophthalmoscopy）在全身麻醉下進行，可詳細檢查視網膜和玻璃體，評估腫瘤位置、大小、數量，是診斷視網膜母細胞瘤的關鍵檢查<br>(D) 錯誤，視網膜光學斷層掃描（OCT）最不需要。OCT需要病人配合注視和固定，六個月大嬰兒無法配合，且對於診斷白瞳症的主要病因（如視網膜母細胞瘤、白內障）並非必要檢查，其他檢查已足夠診斷",
+    "explanation": "六個月嬰兒出現白瞳症（leukocoria）是嚴重警訊，必須緊急鑑別診斷，最擔心的是視網膜母細胞瘤（retinoblastoma）。<br>白瞳症的鑑別診斷包括：視網膜母細胞瘤（retinoblastoma，最危險）。先天性白內障（congenital cataract）。持續性胎兒血管系統（persistent fetal vasculature）。早產兒視網膜病變（retinopathy of prematurity）。Coats disease。眼內炎（endophthalmitis）。<br>(A) 正確需要，眼球超音波（ocular ultrasound）可評估眼內腫塊、鈣化（視網膜母細胞瘤的特徵）、玻璃體混濁等，且對嬰兒非侵入性，檢查快速<br>(B) 正確需要，眼窩電腦斷層（orbital CT）可評估腫瘤範圍、是否有鈣化、視神經侵犯、眼外擴散等，對視網膜母細胞瘤的分期和治療計畫很重要<br>(C) 正確需要，間接眼底鏡檢查（indirect ophthalmoscopy）在全身麻醉下進行，可詳細檢查視網膜和玻璃體，評估腫瘤位置、大小、數量，是診斷視網膜母細胞瘤的關鍵檢查<br>(D) 錯誤，視網膜光學斷層掃描（OCT）最不需要。OCT需要病人配合注視和固定，六個月大嬰兒無法配合，且對於診斷白瞳症的主要病因（如視網膜母細胞瘤、白內障）並非必要檢查，其他檢查已足夠診斷",
     "tags": [
       "113-2-6",
       "眼科"
@@ -477,7 +477,7 @@
       "D": "子宮內感染／性染色體異常"
     },
     "answer": "B",
-    "explanation": "第一孕期（first trimester）流產的原因分析。<br>早期流產（妊娠12週前）最常見原因：<br>· 胎兒染色體異常（50-60%）<br>· 母體因素<br>· 免疫因素<br>· 感染<br>染色體異常類型：<br>· 三染色體症（trisomy）：最常見（約50%）<br>· 單染色體X（45,X, Turner syndrome）：約20%<br>· 三倍體（triploidy）：約15%<br>· 四倍體（tetraploidy）：約5%<br>(A) 錯誤，子宮頸閉鎖不全（cervical incompetence）主要造成中孕期流產（妊娠14-28週），而非第一孕期流產。單染色體X雖然是常見的流產染色體異常，但不是最常見的<br>(B) 正確，母親年齡（maternal age）是第一孕期流產最重要的母體因素，35歲以上高齡產婦流產率顯著增加。三染色體症（trisomy）是早期流產最常見的染色體異常，約佔50%，包括trisomy 16（最常見）、trisomy 13、18、21等<br>(C) 錯誤，妊娠巨吐症（hyperemesis gravidarum）不是流產的主要危險因子。三倍體（69,XXX或69,XXY）雖然可造成流產，但不如三染色體症常見<br>(D) 錯誤，子宮內感染主要造成晚期流產或早產，不是第一孕期流產的主要原因",
+    "explanation": "第一孕期（first trimester）流產的原因分析。<br>早期流產（妊娠12週前）最常見原因：胎兒染色體異常（50-60%）、母體因素、免疫因素、感染。<br>染色體異常類型。<br>三染色體症（trisomy）：最常見（約50%）。單染色體X（45,X, Turner syndrome）：約20%。三倍體（triploidy）：約15%。四倍體（tetraploidy）：約5%。<br>(A) 錯誤，子宮頸閉鎖不全（cervical incompetence）主要造成中孕期流產（妊娠14-28週），而非第一孕期流產。單染色體X雖然是常見的流產染色體異常，但不是最常見的<br>(B) 正確，母親年齡（maternal age）是第一孕期流產最重要的母體因素，35歲以上高齡產婦流產率顯著增加。三染色體症（trisomy）是早期流產最常見的染色體異常，約佔50%，包括trisomy 16（最常見）、trisomy 13、18、21等<br>(C) 錯誤，妊娠巨吐症（hyperemesis gravidarum）不是流產的主要危險因子。三倍體（69,XXX或69,XXY）雖然可造成流產，但不如三染色體症常見<br>(D) 錯誤，子宮內感染主要造成晚期流產或早產，不是第一孕期流產的主要原因",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -494,7 +494,7 @@
       "D": "於妊娠12～16週／早期破水"
     },
     "answer": "D",
-    "explanation": "子宮頸環紮術（cervical cerclage）用於預防因子宮頸閉鎖不全造成的中孕期流產或早產。<br>適應症：<br>· 有子宮頸閉鎖不全病史<br>· 超音波顯示子宮頸長度過短<br>· 身體檢查發現子宮頸擴張<br>環紮術類型：<br>· 預防性（prophylactic）：根據病史，在子宮頸變化前施行<br>· 治療性（therapeutic）：超音波或檢查發現子宮頸變化後施行<br>· 緊急性（emergency）：已經有子宮頸擴張和羊膜囊突出<br>(A) 錯誤，當子宮頸已開始無痛性擴張時，應施行的是緊急環紮術而非預防性環紮術。曾接受子宮頸錐狀切除（cone biopsy）是考慮環紮術的適應症之一，而非禁忌症<br>(B) 錯誤，環紮術應在懷孕後施行，而非受孕之前。母親有糖尿病本身不是環紮術的禁忌症<br>(C) 錯誤，妊娠6-12週過早，胎兒器官發育尚未完成，且流產風險主要來自染色體異常而非子宮頸因素。高齡產婦不是環紮術禁忌症<br>(D) 正確，預防性子宮頸環紮術的理想時間是妊娠12-16週（通常在13-14週），此時第一孕期篩檢已完成，可排除重大胎兒異常，且子宮頸尚未開始擴張。早期破水（preterm premature rupture of membranes, PPROM）是環紮術的絕對禁忌症，因為會增加感染和早產風險",
+    "explanation": "子宮頸環紮術（cervical cerclage）用於預防因子宮頸閉鎖不全造成的中孕期流產或早產。<br>適應症：有子宮頸閉鎖不全病史、超音波顯示子宮頸長度過短、身體檢查發現子宮頸擴張。<br>環紮術類型。<br>預防性（prophylactic）：根據病史，在子宮頸變化前施行。治療性（therapeutic）：超音波或檢查發現子宮頸變化後施行。緊急性（emergency）：已經有子宮頸擴張和羊膜囊突出。<br>(A) 錯誤，當子宮頸已開始無痛性擴張時，應施行的是緊急環紮術而非預防性環紮術。曾接受子宮頸錐狀切除（cone biopsy）是考慮環紮術的適應症之一，而非禁忌症<br>(B) 錯誤，環紮術應在懷孕後施行，而非受孕之前。母親有糖尿病本身不是環紮術的禁忌症<br>(C) 錯誤，妊娠6-12週過早，胎兒器官發育尚未完成，且流產風險主要來自染色體異常而非子宮頸因素。高齡產婦不是環紮術禁忌症<br>(D) 正確，預防性子宮頸環紮術的理想時間是妊娠12-16週（通常在13-14週），此時第一孕期篩檢已完成，可排除重大胎兒異常，且子宮頸尚未開始擴張。早期破水（preterm premature rupture of membranes, PPROM）是環紮術的絕對禁忌症，因為會增加感染和早產風險",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -511,7 +511,7 @@
       "D": "胎兒骨髓成紅血細胞增多症（fetal erythroblastosis）"
     },
     "answer": "D",
-    "explanation": "懷孕時母體雌激素主要由胎盤產生，需要胎兒、胎盤、母體的協同作用（fetoplacental unit）。<br>雌激素合成途徑：<br>· 胎兒腎上腺產生DHEA-S（dehydroepiandrosterone sulfate）<br>· 胎盤硫酸酯酶（sulfatase）將DHEA-S轉換為DHEA<br>· 胎盤芳香酶（aromatase）將雄性激素轉換為雌激素<br>(A) 正確，胎兒死亡（fetal demise）時，胎兒腎上腺停止產生DHEA-S前驅物，導致母體雌激素濃度下降<br>(B) 正確，胎兒胎盤硫酸酯酶缺乏（fetal-placental sulfatase deficiency）是X-linked隱性遺傳疾病，無法將DHEA-S轉換為DHEA，導致雌激素合成受阻，母體雌激素濃度顯著降低，常表現為過期妊娠（post-term pregnancy）和產程延長<br>(C) 正確，唐氏症（Down syndrome，trisomy 21）胎兒的母血AFP、uE3（unconjugated estriol，游離雌三醇）較低，hCG和inhibin A較高，這是第二孕期唐氏症篩檢的基礎（quad screen）<br>(D) 錯誤，胎兒骨髓成紅血細胞增多症（fetal erythroblastosis）是溶血性疾病，如Rh同種免疫（Rh isoimmunization），主要影響胎兒紅血球，不會直接影響雌激素合成途徑，因此不會造成母體雌激素濃度降低",
+    "explanation": "懷孕時母體雌激素主要由胎盤產生，需要胎兒、胎盤、母體的協同作用（fetoplacental unit）。<br>雌激素合成途徑：胎兒腎上腺產生DHEA-S（dehydroepiandrosterone sulfate）。胎盤硫酸酯酶（sulfatase）將DHEA-S轉換為DHEA。胎盤芳香酶（aromatase）將雄性激素轉換為雌激素。<br>(A) 正確，胎兒死亡（fetal demise）時，胎兒腎上腺停止產生DHEA-S前驅物，導致母體雌激素濃度下降<br>(B) 正確，胎兒胎盤硫酸酯酶缺乏（fetal-placental sulfatase deficiency）是X-linked隱性遺傳疾病，無法將DHEA-S轉換為DHEA，導致雌激素合成受阻，母體雌激素濃度顯著降低，常表現為過期妊娠（post-term pregnancy）和產程延長<br>(C) 正確，唐氏症（Down syndrome，trisomy 21）胎兒的母血AFP、uE3（unconjugated estriol，游離雌三醇）較低，hCG和inhibin A較高，這是第二孕期唐氏症篩檢的基礎（quad screen）<br>(D) 錯誤，胎兒骨髓成紅血細胞增多症（fetal erythroblastosis）是溶血性疾病，如Rh同種免疫（Rh isoimmunization），主要影響胎兒紅血球，不會直接影響雌激素合成途徑，因此不會造成母體雌激素濃度降低",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -528,7 +528,7 @@
       "D": "產程屬於整體分娩的活動期（activation phase）"
     },
     "answer": "D",
-    "explanation": "整體分娩（parturition）是從懷孕到分娩的完整過程，可分為四個階段。<br>整體分娩的四個階段：<br>· 靜止期（quiescence phase）：大部分懷孕期間，子宮保持靜止狀態<br>· 活化期（activation phase）：子宮頸成熟（cervical ripening）和準備分娩，通常在產程開始前數天到數週<br>· 刺激期（stimulation phase）：即產程（labor），包括子宮收縮和分娩<br>· 復原期（involution phase）：產後子宮恢復",
+    "explanation": "整體分娩（parturition）是從懷孕到分娩的完整過程，可分為四個階段。<br>整體分娩的四個階段。<br>靜止期（quiescence phase）：大部分懷孕期間，子宮保持靜止狀態。活化期（activation phase）：子宮頸成熟（cervical ripening）和準備分娩，通常在產程開始前數天到數週。刺激期（stimulation phase）：即產程（labor），包括子宮收縮和分娩。復原期（involution phase）：產後子宮恢復。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -545,7 +545,7 @@
       "D": "施行計畫性之剖腹生產（planned cesarean delivery）"
     },
     "answer": "A",
-    "explanation": "巨嬰（fetal macrosomia）定義為出生體重≥4,000或4,500公克（不同定義）。<br>肩難產（shoulder dystocia）的風險因子：<br>· 巨嬰<br>· 母親糖尿病<br>· 過期妊娠<br>· 母親肥胖<br>· 前次肩難產病史<br>· 產程延長<br>· 器械助產<br>(A) 正確，巨嬰是肩難產最重要的風險因子之一。體重4,000-4,500公克的胎兒，肩難產發生率約5-9%；體重>4,500公克時，發生率增至14-20%。但大部分肩難產仍發生於體重正常的胎兒<br>(B) 錯誤，僅因超音波預估胎兒體重4,050公克不建議常規催生（elective induction）。美國婦產科醫學會（ACOG）指出，為預防肩難產而催生並未改善母嬰預後，反而可能增加剖腹產率。除非有其他適應症（如糖尿病、過期妊娠），否則不建議僅因巨嬰而催生<br>(C) 錯誤，超音波預估胎兒體重誤差可達10-20%（±300-600公克），無法準確預測肩難產。許多肩難產發生於預估體重正常的胎兒，而預估巨嬰者大多數能順利分娩。因此無法單憑超音波準確預防肩難產<br>(D) 錯誤，ACOG建議僅在非糖尿病孕婦預估胎兒體重>5,000公克，或糖尿病孕婦預估體重>4,500公克時，才考慮計畫性剖腹產。本案例體重4,050公克且母親無糖尿病，不符合計畫性剖腹產的建議",
+    "explanation": "巨嬰（fetal macrosomia）定義為出生體重≥4,000或4,500公克（不同定義）。<br>肩難產（shoulder dystocia）的風險因子：巨嬰、母親糖尿病、過期妊娠、母親肥胖、前次肩難產病史、產程延長、器械助產。<br>(A) 正確，巨嬰是肩難產最重要的風險因子之一。體重4,000-4,500公克的胎兒，肩難產發生率約5-9%。體重&gt;4,500公克時，發生率增至14-20%。但大部分肩難產仍發生於體重正常的胎兒<br>(B) 錯誤，僅因超音波預估胎兒體重4,050公克不建議常規催生（elective induction）。美國婦產科醫學會（ACOG）指出，為預防肩難產而催生並未改善母嬰預後，反而可能增加剖腹產率。除非有其他適應症（如糖尿病、過期妊娠），否則不建議僅因巨嬰而催生<br>(C) 錯誤，超音波預估胎兒體重誤差可達10-20%（±300-600公克），無法準確預測肩難產。許多肩難產發生於預估體重正常的胎兒，而預估巨嬰者大多數能順利分娩。因此無法單憑超音波準確預防肩難產<br>(D) 錯誤，ACOG建議僅在非糖尿病孕婦預估胎兒體重&gt;5,000公克，或糖尿病孕婦預估體重&gt;4,500公克時，才考慮計畫性剖腹產。本案例體重4,050公克且母親無糖尿病，不符合計畫性剖腹產的建議",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -562,7 +562,7 @@
       "D": "潛伏期拖延（protracted latent phase）"
     },
     "answer": "B",
-    "explanation": "拖延障礙（protraction disorders）指產程進展「變慢」，僅適用於活動期擴張與下降；潛伏期過長稱延長（prolonged），停滯則稱停滯障礙（arrest disorders），三者用詞不同不可混用。<br> (A) 錯誤，活動期異常應稱「拖延」而非「延長」，無此用語。<br> (B) 正確，活動期子宮頸擴張速度過慢即為拖延障礙的代表。<br> (C) 錯誤，此為產程完全停滯，屬停滯障礙非拖延障礙。<br> (D) 錯誤，潛伏期過長稱潛伏期延長（prolonged latent phase），非拖延障礙。",
+    "explanation": "拖延障礙（protraction disorders）指產程進展「變慢」，僅適用於活動期擴張與下降。潛伏期過長稱延長（prolonged），停滯則稱停滯障礙（arrest disorders），三者用詞不同不可混用。<br> (A) 錯誤，活動期異常應稱「拖延」而非「延長」，無此用語。<br> (B) 正確，活動期子宮頸擴張速度過慢即為拖延障礙的代表。<br> (C) 錯誤，此為產程完全停滯，屬停滯障礙非拖延障礙。<br> (D) 錯誤，潛伏期過長稱潛伏期延長（prolonged latent phase），非拖延障礙。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -579,7 +579,7 @@
       "D": "recurrent variable decelerations"
     },
     "answer": "A",
-    "explanation": "解題關鍵是記住胎心音監測（fetal heart rate monitoring, FHR）的 Category III 定義：除了正弦波型（sinusoidal pattern）外，必須是「基線變異消失（absent baseline variability）＋反覆晚期減速／反覆變異型減速／心搏過緩」。因此「明顯增加的基線變異」屬於 Category II，而不是 Category III。<br> (A) 正確，明顯基線變異（marked baseline variability，振幅 >25 bpm）屬於 Category II-indeterminate，不是 Category III；Category III 強調的是 absent variability。 <br> (B) 錯誤，正弦波型（sinusoidal pattern）本身就是 Category III-abnormal，代表胎兒可能有嚴重缺氧或貧血等狀況，需要立即評估。<br> (C) 錯誤，反覆晚期減速（recurrent late decelerations）若合併 基線變異消失（absent variability），即屬 Category III；若仍有變異性，則通常歸於 Category II。<br> (D) 錯誤，反覆變異型減速（recurrent variable decelerations）若合併 基線變異消失，屬 Category III；單獨出現而仍保有變異性時則是 Category II。",
+    "explanation": "解題關鍵是記住胎心音監測（fetal heart rate monitoring, FHR）的 Category III 定義：除了正弦波型（sinusoidal pattern）外，必須是「基線變異消失（absent baseline variability）＋反覆晚期減速／反覆變異型減速／心搏過緩」。因此「明顯增加的基線變異」屬於 Category II，而不是 Category III。<br> (A) 正確，明顯基線變異（marked baseline variability，振幅 &gt;25 bpm）屬於 Category II-indeterminate，不是 Category III。Category III 強調的是 absent variability。 <br> (B) 錯誤，正弦波型（sinusoidal pattern）本身就是 Category III-abnormal，代表胎兒可能有嚴重缺氧或貧血等狀況，需要立即評估。<br> (C) 錯誤，反覆晚期減速（recurrent late decelerations）若合併 基線變異消失（absent variability），即屬 Category III。若仍有變異性，則通常歸於 Category II。<br> (D) 錯誤，反覆變異型減速（recurrent variable decelerations）若合併 基線變異消失，屬 Category III。單獨出現而仍保有變異性時則是 Category II。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -596,7 +596,7 @@
       "D": "胎兒心律不整（fetal cardiac arrhythmia）"
     },
     "answer": "C",
-    "explanation": "胎兒心搏過速（fetal tachycardia）定義為胎心率基線（baseline）>160 bpm持續≥10分鐘。<br>胎兒心搏過速的原因：<br>· 母親發燒（最常見）<br>· 胎兒缺氧<br>· 母親或胎兒感染（如絨毛膜羊膜炎）<br>· 母親使用藥物（如beta-agonists、atropine、terbutaline）<br>· 母親甲狀腺功能亢進<br>· 胎兒心律不整<br>· 胎兒貧血<br>(A) 錯誤，藥物造成（drug-induced）的胎兒心搏過速雖然可能發生，但不如母親發燒常見。常見藥物包括beta-agonists（用於安胎）、抗膽鹼藥物等<br>(B) 錯誤，母親甲狀腺風暴（thyroid storm）非常罕見，且在現代產科照護中幾乎不會發生<br>(C) 正確，母親發燒（maternal fever）是胎兒心搏過速最常見的原因。發燒可能來自絨毛膜羊膜炎（chorioamnionitis）、泌尿道感染、其他感染或硬膜外麻醉相關發燒。每升高1°C，胎心率約增加10 bpm<br>(D) 錯誤，胎兒心律不整（如上心室心搏過速SVT）可造成持續性心搏過速（通常>200 bpm），但相對罕見，約佔胎兒心搏過速原因的5%以下",
+    "explanation": "胎兒心搏過速（fetal tachycardia）定義為胎心率基線（baseline）&gt;160 bpm持續≥10分鐘。<br>胎兒心搏過速的原因：母親發燒（最常見）。胎兒缺氧。母親或胎兒感染（如絨毛膜羊膜炎）。母親使用藥物（如beta-agonists、atropine、terbutaline）。母親甲狀腺功能亢進。胎兒心律不整。胎兒貧血。<br>(A) 錯誤，藥物造成（drug-induced）的胎兒心搏過速雖然可能發生，但不如母親發燒常見。常見藥物包括beta-agonists（用於安胎）、抗膽鹼藥物等<br>(B) 錯誤，母親甲狀腺風暴（thyroid storm）非常罕見，且在現代產科照護中幾乎不會發生<br>(C) 正確，母親發燒（maternal fever）是胎兒心搏過速最常見的原因。發燒可能來自絨毛膜羊膜炎（chorioamnionitis）、泌尿道感染、其他感染或硬膜外麻醉相關發燒。每升高1°C，胎心率約增加10 bpm<br>(D) 錯誤，胎兒心律不整（如上心室心搏過速SVT）可造成持續性心搏過速（通常&gt;200 bpm），但相對罕見，約佔胎兒心搏過速原因的5%以下",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -613,7 +613,7 @@
       "D": "胎兒下行主動脈血流杜卜勒超音波"
     },
     "answer": "C",
-    "explanation": "這題的解題關鍵在於辨識超音波影像中的解剖位置，圖中顯示的是胎兒頭部大腦的橫切面，且彩色杜卜勒血流標示出位於腦部基底、走向兩側顳葉的血管，這正是胎兒中大腦動脈（Middle Cerebral Artery, MCA）的典型解剖特徵。<br>產科常用的Doppler超音波檢查包括臍動脈（umbilical artery，評估胎盤功能）、中大腦動脈（middle cerebral artery, MCA，評估胎兒貧血與腦部血流）、靜脈導管（ductus venosus，評估胎兒心臟功能），以及子宮動脈（uterine artery，預測子癇前症風險）。<br>(A) 錯誤，圖中的影像背景為胎兒頭部大腦組織而非臍帶；臍動脈（Umbilical artery）血流杜卜勒超音波的影像，應會顯示漂浮於羊水中的臍帶呈現動靜脈交纏的管狀構造。<br>(B) 錯誤，圖中影像為胎兒大腦橫切面；胎兒下腔靜脈（Inferior vena cava）位於胎兒腹部並連接至心臟右心房，其杜卜勒超音波需在胎兒的軀幹處（腹部/胸部）進行掃描取像。<br>(C) 正確，影像清楚呈現胎兒頭部橫切面，且彩色杜卜勒精準捕捉到源自威利氏環（Circle of Willis）並向外側延伸的胎兒中大腦動脈（Middle Cerebral Artery, MCA）血流。<br>(D) 錯誤，此為胎兒頭部內的血管影像；胎兒下行主動脈（Descending aorta）是貫穿胎兒胸腔與腹腔的主要大血管，其超音波檢查必須在胎兒的軀幹進行縱切或橫切掃描。",
+    "explanation": "這題的解題關鍵在於辨識超音波影像中的解剖位置，圖中顯示的是胎兒頭部大腦的橫切面，且彩色杜卜勒血流標示出位於腦部基底、走向兩側顳葉的血管，這正是胎兒中大腦動脈（Middle Cerebral Artery, MCA）的典型解剖特徵。<br>產科常用的Doppler超音波檢查包括臍動脈（umbilical artery，評估胎盤功能）、中大腦動脈（middle cerebral artery, MCA，評估胎兒貧血與腦部血流）、靜脈導管（ductus venosus，評估胎兒心臟功能），以及子宮動脈（uterine artery，預測子癇前症風險）。<br>(A) 錯誤，圖中的影像背景為胎兒頭部大腦組織而非臍帶。臍動脈（Umbilical artery）血流杜卜勒超音波的影像，應會顯示漂浮於羊水中的臍帶呈現動靜脈交纏的管狀構造。<br>(B) 錯誤，圖中影像為胎兒大腦橫切面。胎兒下腔靜脈（Inferior vena cava）位於胎兒腹部並連接至心臟右心房，其杜卜勒超音波需在胎兒的軀幹處（腹部/胸部）進行掃描取像。<br>(C) 正確，影像清楚呈現胎兒頭部橫切面，且彩色杜卜勒精準捕捉到源自威利氏環（Circle of Willis）並向外側延伸的胎兒中大腦動脈（Middle Cerebral Artery, MCA）血流。<br>(D) 錯誤，此為胎兒頭部內的血管影像。胎兒下行主動脈（Descending aorta）是貫穿胎兒胸腔與腹腔的主要大血管，其超音波檢查必須在胎兒的軀幹進行縱切或橫切掃描。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -633,7 +633,7 @@
       "D": "有妊娠糖尿病的孕婦在未來因心血管疾病住院的風險跟一般孕婦相比是一樣的"
     },
     "answer": "A",
-    "explanation": "妊娠糖尿病（gestational diabetes mellitus, GDM）的產後追蹤非常重要。<br>產後追蹤建議：<br>· 產後4-12週：75克OGTT或空腹血糖檢測<br>· 之後每1-3年：定期血糖篩檢<br>· 終身監測：心血管疾病風險<br>(A) 正確，ACOG建議所有GDM患者在產後4-12週（理想在6-12週）進行75克口服葡萄糖耐量試驗（75-gram OGTT）或空腹血糖檢測，以評估是否恢復正常血糖或發展為糖尿病。此時可診斷為正常、糖尿病前期（prediabetes）或第2型糖尿病<br>(B) 錯誤，曾患GDM的婦女在產後發展為第2型糖尿病的風險顯著增加。研究顯示，10年內約50%會發展為糖尿病，20年內風險更高，遠高於一般孕婦<br>(C) 錯誤，即使產後第一次追蹤血糖正常，仍需要定期監測（建議每1-3年），因為發展為糖尿病的風險持續存在且隨時間增加<br>(D) 錯誤，GDM婦女未來因心血管疾病住院或死亡的風險顯著增加（約2倍），包括冠心病、中風等。這與胰島素阻抗、代謝症候群相關",
+    "explanation": "妊娠糖尿病（gestational diabetes mellitus, GDM）的產後追蹤非常重要。<br>產後追蹤建議。<br>產後4-12週：75克OGTT或空腹血糖檢測。之後每1-3年：定期血糖篩檢。終身監測：心血管疾病風險。<br>(A) 正確，ACOG建議所有GDM患者在產後4-12週（理想在6-12週）進行75克口服葡萄糖耐量試驗（75-gram OGTT）或空腹血糖檢測，以評估是否恢復正常血糖或發展為糖尿病。此時可診斷為正常、糖尿病前期（prediabetes）或第2型糖尿病<br>(B) 錯誤，曾患GDM的婦女在產後發展為第2型糖尿病的風險顯著增加。研究顯示，10年內約50%會發展為糖尿病，20年內風險更高，遠高於一般孕婦<br>(C) 錯誤，即使產後第一次追蹤血糖正常，仍需要定期監測（建議每1-3年），因為發展為糖尿病的風險持續存在且隨時間增加<br>(D) 錯誤，GDM婦女未來因心血管疾病住院或死亡的風險顯著增加（約2倍），包括冠心病、中風等。這與胰島素阻抗、代謝症候群相關",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -650,7 +650,7 @@
       "D": "李斯特菌（Listeria monocytogenes）"
     },
     "answer": "D",
-    "explanation": "產科敗血症的常見病原菌主要來自泌尿生殖道、腸道菌群。<br>產科敗血症常見病原菌：<br>· 大腸桿菌（E. coli）：最常見<br>· A群鏈球菌（Group A Streptococcus）<br>· 腸球菌（Enterococcus）<br>· 克雷伯菌（Klebsiella）<br>· 厭氧菌（Bacteroides等）<br>· 金黃色葡萄球菌（S. aureus）<br>(A) ，大腸桿菌（E. coli）是產科敗血症最常見的病原菌，可來自泌尿道感染、絨毛膜羊膜炎、產後子宮內膜炎<br>(B) ，糞腸球菌（Enterococcus faecalis）是常見的產科感染病原菌，屬於正常腸道和陰道菌群，可造成泌尿道感染、子宮內膜炎<br>(C) ，肺炎克雷伯菌（Klebsiella pneumoniae）是常見的革蘭氏陰性桿菌，可造成產科泌尿道感染和敗血症<br>(D) 錯誤，李斯特菌（Listeria monocytogenes）在產科敗血症中相對罕見。李斯特菌主要造成懷孕期感染（如透過未煮熟食物感染），可導致流產、死產、新生兒敗血症，但在產科敗血症的總體病例中佔比很小（<5%）",
+    "explanation": "產科敗血症的常見病原菌主要來自泌尿生殖道、腸道菌群。<br>產科敗血症常見病原菌。<br>大腸桿菌（E. coli）：最常見。A群鏈球菌（Group A Streptococcus）。腸球菌（Enterococcus）。克雷伯菌（Klebsiella）。厭氧菌（Bacteroides等）。金黃色葡萄球菌（S. aureus）。<br>(A) ，大腸桿菌（E. coli）是產科敗血症最常見的病原菌，可來自泌尿道感染、絨毛膜羊膜炎、產後子宮內膜炎<br>(B) ，糞腸球菌（Enterococcus faecalis）是常見的產科感染病原菌，屬於正常腸道和陰道菌群，可造成泌尿道感染、子宮內膜炎<br>(C) ，肺炎克雷伯菌（Klebsiella pneumoniae）是常見的革蘭氏陰性桿菌，可造成產科泌尿道感染和敗血症<br>(D) 錯誤，李斯特菌（Listeria monocytogenes）在產科敗血症中相對罕見。李斯特菌主要造成懷孕期感染（如透過未煮熟食物感染），可導致流產、死產、新生兒敗血症，但在產科敗血症的總體病例中佔比很小（&lt;5%）",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -667,7 +667,7 @@
       "D": "重複唐氏症母血篩檢以確認檢驗結果"
     },
     "answer": "B",
-    "explanation": "母血AFP升高（≥2.5 MoM）的鑑別診斷。<br>AFP升高的原因：<br>· 神經管缺損（neural tube defects）：無腦症、脊柱裂<br>· 腹壁缺損（abdominal wall defects）：臍膨出、腹裂<br>· 多胞胎<br>· 胎兒死亡<br>· 胎盤異常<br>· 妊娠週數錯誤<br>· 其他胎兒異常：腎臟異常、皮膚缺損等<br>(A) 錯誤，唐氏症機率1:820屬於低風險（通常cut-off為1:270），不需要僅為唐氏症風險而進行羊膜穿刺。但AFP顯著升高提示其他胎兒異常可能，應先進行超音波檢查<br>(B) 正確，AFP 3.8 MoM顯著升高（正常<2.5 MoM），應立即安排詳細胎兒超音波檢查（level II ultrasound或anomaly scan），評估：<br>· 神經管缺損（頭顱、脊柱）<br>· 腹壁缺損<br>· 確認妊娠週數<br>· 胎兒結構異常<br>· 羊水量<br>若超音波無法解釋AFP升高，可考慮羊水AFP和acetylcholinesterase檢測<br>(C) 錯誤，雖然某些卵巢腫瘤（如卵黃囊瘤）可產生AFP，但懷孕16週AFP升高首先應考慮胎兒原因，而非母體腫瘤<br>(D) 錯誤，AFP升高通常是真實的異常發現，重複篩檢只會延誤診斷，應直接進行超音波檢查",
+    "explanation": "母血AFP升高（≥2.5 MoM）的鑑別診斷。<br>AFP升高的原因。<br>神經管缺損（neural tube defects）：無腦症、脊柱裂。腹壁缺損（abdominal wall defects）：臍膨出、腹裂。多胞胎。胎兒死亡。胎盤異常。妊娠週數錯誤。其他胎兒異常：腎臟異常、皮膚缺損等。<br>(A) 錯誤，唐氏症機率1:820屬於低風險（通常cut-off為1:270），不需要僅為唐氏症風險而進行羊膜穿刺。但AFP顯著升高提示其他胎兒異常可能，應先進行超音波檢查<br>(B) 正確，AFP 3.8 MoM顯著升高（正常&lt;2.5 MoM），應立即安排詳細胎兒超音波檢查（level II ultrasound或anomaly scan），評估：神經管缺損（頭顱、脊柱）、腹壁缺損、確認妊娠週數、胎兒結構異常、羊水量。<br>若超音波無法解釋AFP升高，可考慮羊水AFP和acetylcholinesterase檢測<br>(C) 錯誤，雖然某些卵巢腫瘤（如卵黃囊瘤）可產生AFP，但懷孕16週AFP升高首先應考慮胎兒原因，而非母體腫瘤<br>(D) 錯誤，AFP升高通常是真實的異常發現，重複篩檢只會延誤診斷，應直接進行超音波檢查",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -684,7 +684,7 @@
       "D": "正確的針頭位置判斷的方法是由insufflator測得的初始腹膜內壓力小於8～10 mmHg"
     },
     "answer": "C",
-    "explanation": "腹腔鏡手術使用Veress導氣針（Veress needle）建立氣腹（pneumoperitoneum）。<br>導氣針插入技巧：<br>· 位置：通常在臍部或臍下<br>· 角度：根據病人體型調整<br>· 確認位置：saline drop test、initial pressure測量<br>(A) 正確，導氣針穿過腹壁時會有兩次明顯的觸感和聲音回饋（tactile and auditory feedback）：<br>· 第一次：穿過腹直肌筋膜（anterior rectus sheath）<br>· 第二次：穿過腹膜（peritoneum）<br>這種「兩次pop」的感覺是正確進入腹腔的重要指標<br>(B) 正確，瘦的病人腹壁較薄，應以45度角（較陡峭）插入，以避免穿過腹膜後直接刺傷後腹壁結構（如主動脈、下腔靜脈）<br>(C) 錯誤，胖的病人腹壁較厚，皮下脂肪層厚，應以90度角（垂直）或更陡峭的角度插入，而非30度。30度角太平緩，容易停留在皮下脂肪層而未進入腹腔，或增加腸道損傷風險<br>(D) 正確，正確的針頭位置可透過insufflator測得的初始腹膜內壓力來判斷，正常應<8-10 mmHg。若初始壓力過高（>10-15 mmHg），提示針頭可能在皮下、腸壁內或其他錯誤位置，應重新定位",
+    "explanation": "腹腔鏡手術使用Veress導氣針（Veress needle）建立氣腹（pneumoperitoneum）。<br>導氣針插入技巧。<br>位置：通常在臍部或臍下。角度：根據病人體型調整。確認位置：saline drop test、initial pressure測量。<br>(A) 正確，導氣針穿過腹壁時會有兩次明顯的觸感和聲音回饋（tactile and auditory feedback）。<br>第一次：穿過腹直肌筋膜（anterior rectus sheath）。第二次：穿過腹膜（peritoneum）。<br>這種「兩次pop」的感覺是正確進入腹腔的重要指標<br>(B) 正確，瘦的病人腹壁較薄，應以45度角（較陡峭）插入，以避免穿過腹膜後直接刺傷後腹壁結構（如主動脈、下腔靜脈）<br>(C) 錯誤，胖的病人腹壁較厚，皮下脂肪層厚，應以90度角（垂直）或更陡峭的角度插入，而非30度。30度角太平緩，容易停留在皮下脂肪層而未進入腹腔，或增加腸道損傷風險<br>(D) 正確，正確的針頭位置可透過insufflator測得的初始腹膜內壓力來判斷，正常應&lt;8-10 mmHg。若初始壓力過高（&gt;10-15 mmHg），提示針頭可能在皮下、腸壁內或其他錯誤位置，應重新定位",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -701,7 +701,7 @@
       "D": "顱內壓"
     },
     "answer": "A",
-    "explanation": "子宮鏡手術使用膨脹介質（distension media）來擴張子宮腔以利手術視野。<br>膨脹介質類型：<br>· 高黏度液體：32% dextran 70（Hyskon）<br>· 低黏度液體：生理食鹽水、Ringer's lactate、glycine、sorbitol<br>(A) 正確，使用生理食鹽水作為子宮鏡膨脹介質時，壓力不應超過患者的平均動脈壓（mean arterial pressure, MAP）。若壓力過高超過MAP，會造成液體經由子宮肌層的血管進入血液循環，可能導致：<br>· 液體過量吸收（fluid overload）<br>· 肺水腫<br>· 低血鈉症（若使用低張性液體）<br>· 稀釋性凝血功能異常<br>通常建議壓力維持在70-100 mmHg<br>(B) 錯誤，若壓力接近或超過收縮壓（systolic blood pressure），會造成更嚴重的液體吸收問題<br>(C) 錯誤，舒張壓（diastolic blood pressure）過低，無法提供足夠的子宮腔膨脹和視野<br>(D) 錯誤，顱內壓（intracranial pressure）與子宮鏡手術的液體壓力控制無關",
+    "explanation": "子宮鏡手術使用膨脹介質（distension media）來擴張子宮腔以利手術視野。<br>膨脹介質類型。<br>高黏度液體：32% dextran 70（Hyskon）。低黏度液體：生理食鹽水、Ringer's lactate、glycine、sorbitol。<br>(A) 正確，使用生理食鹽水作為子宮鏡膨脹介質時，壓力不應超過患者的平均動脈壓（mean arterial pressure, MAP）。若壓力過高超過MAP，會造成液體經由子宮肌層的血管進入血液循環，可能導致：液體過量吸收（fluid overload）、肺水腫、低血鈉症（若使用低張性液體）、稀釋性凝血功能異常。<br>通常建議壓力維持在70-100 mmHg<br>(B) 錯誤，若壓力接近或超過收縮壓（systolic blood pressure），會造成更嚴重的液體吸收問題<br>(C) 錯誤，舒張壓（diastolic blood pressure）過低，無法提供足夠的子宮腔膨脹和視野<br>(D) 錯誤，顱內壓（intracranial pressure）與子宮鏡手術的液體壓力控制無關",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -718,7 +718,7 @@
       "D": "在身體理學檢查中，青春期患者會有乳房發育，短小陰莖，稀疏或缺乏腋毛及陰毛"
     },
     "answer": "D",
-    "explanation": "雄性素不敏感症（androgen insensitivity syndrome, AIS）是X-linked隱性遺傳疾病。<br>完全型AIS（Complete AIS, CAIS）特徵：<br>· 染色體46,XY<br>· 有睪丸（通常位於腹腔或腹股溝）<br>· 外觀為女性<br>· 青春期乳房發育<br>· 陰道為盲端，無子宮<br>· 缺乏或極少腋毛和陰毛<br>(A) 正確，AIS患者的性別染色體為46,XY（遺傳學男性），但因雄性素受體缺陷，外表呈現女性<br>(B) 正確，AIS是因為雄性素受體（androgen receptor）基因突變，導致細胞對雄性素（testosterone、DHT）無反應或反應降低<br>(C) 正確，診斷主要依據：<br>· 理學檢查：女性外觀、乳房發育、缺乏子宮、盲端陰道<br>· 血清睪固酮濃度：正常或升高的男性範圍<br>· 染色體核型：46,XY<br>· 可進一步做雄性素受體基因檢測<br>(D) 錯誤，完全型AIS患者理學檢查特徵應為：<br>· 乳房發育正常（因睪丸產生的睪固酮轉換為雌激素）<br>· 女性外生殖器（無陰莖），陰道為盲端<br>· 缺乏或極少腋毛及陰毛（因毛髮生長需要雄性素作用）<br>不會有「短小陰莖」，而是完全呈現女性外觀",
+    "explanation": "雄性素不敏感症（androgen insensitivity syndrome, AIS）是X-linked隱性遺傳疾病。<br>完全型AIS（Complete AIS, CAIS）特徵：染色體46,XY。有睪丸（通常位於腹腔或腹股溝）。外觀為女性。青春期乳房發育。陰道為盲端，無子宮。缺乏或極少腋毛和陰毛。<br>(A) 正確，AIS患者的性別染色體為46,XY（遺傳學男性），但因雄性素受體缺陷，外表呈現女性<br>(B) 正確，AIS是因為雄性素受體（androgen receptor）基因突變，導致細胞對雄性素（testosterone、DHT）無反應或反應降低<br>(C) 正確，診斷主要依據。<br>理學檢查：女性外觀、乳房發育、缺乏子宮、盲端陰道。血清睪固酮濃度：正常或升高的男性範圍。染色體核型：46,XY。可進一步做雄性素受體基因檢測。<br>(D) 錯誤，完全型AIS患者理學檢查特徵應為：乳房發育正常（因睪丸產生的睪固酮轉換為雌激素）。女性外生殖器（無陰莖），陰道為盲端。缺乏或極少腋毛及陰毛（因毛髮生長需要雄性素作用）。<br>不會有「短小陰莖」，而是完全呈現女性外觀",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -735,7 +735,7 @@
       "D": "clotrimazole"
     },
     "answer": "D",
-    "explanation": "骨盆腔發炎性疾病（PID）主要由性傳染病病原菌引起，需要廣效抗生素治療。<br>PID常見病原菌：<br>· Neisseria gonorrhoeae（淋病雙球菌）<br>· Chlamydia trachomatis（披衣菌）<br>· 厭氧菌（Bacteroides等）<br>· 腸道革蘭氏陰性桿菌<br>· Mycoplasma genitalium<br>門診PID治療方案（CDC建議）：<br>· Ceftriaxone 500 mg IM單次 + Doxycycline 100 mg口服每日兩次共14天<br>· 或Cefoxitin 2 g IM + Probenecid 1 g口服 + Doxycycline<br>· 可加上Metronidazole覆蓋厭氧菌<br>(A) 正確，Doxycycline是PID治療的核心藥物，對Chlamydia trachomatis和Mycoplasma有效，通常口服100 mg每日兩次共14天<br>(B) 正確，Azithromycin可作為Doxycycline的替代選擇（若病人無法耐受doxycycline），但效果略遜於doxycycline<br>(C) 正確，Cephalosporin類（如ceftriaxone、cefoxitin）用於覆蓋Neisseria gonorrhoeae，通常以單次肌肉注射給予<br>(D) 錯誤，Clotrimazole是抗黴菌藥物（azole類），用於治療念珠菌感染（如陰道念珠菌病），對PID的細菌病原菌完全無效，不適合用於PID治療",
+    "explanation": "骨盆腔發炎性疾病（PID）主要由性傳染病病原菌引起，需要廣效抗生素治療。<br>PID常見病原菌：Neisseria gonorrhoeae（淋病雙球菌）、Chlamydia trachomatis（披衣菌）、厭氧菌（Bacteroides等）、腸道革蘭氏陰性桿菌、Mycoplasma genitalium。<br>門診PID治療方案（CDC建議）：Ceftriaxone 500 mg IM單次 + Doxycycline 100 mg口服每日兩次共14天。或Cefoxitin 2 g IM + Probenecid 1 g口服 + Doxycycline。可加上Metronidazole覆蓋厭氧菌。<br>(A) 正確，Doxycycline是PID治療的核心藥物，對Chlamydia trachomatis和Mycoplasma有效，通常口服100 mg每日兩次共14天<br>(B) 正確，Azithromycin可作為Doxycycline的替代選擇（若病人無法耐受doxycycline），但效果略遜於doxycycline<br>(C) 正確，Cephalosporin類（如ceftriaxone、cefoxitin）用於覆蓋Neisseria gonorrhoeae，通常以單次肌肉注射給予<br>(D) 錯誤，Clotrimazole是抗黴菌藥物（azole類），用於治療念珠菌感染（如陰道念珠菌病），對PID的細菌病原菌完全無效，不適合用於PID治療",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -752,7 +752,7 @@
       "D": "黏膜下子宮平滑肌瘤（submucosal uterine leiomyoma）常常造成經血量增多（hypermenorrhea）的症狀"
     },
     "answer": "A",
-    "explanation": "子宮平滑肌瘤（子宮肌瘤，fibroids）依位置分類。<br>子宮肌瘤分類：<br>· 黏膜下（submucosal）：突入子宮腔內<br>· 肌壁間（intramural）：位於子宮肌層內<br>· 漿膜下（subserosal）：突出於子宮外表面<br>對生育的影響：<br>· 黏膜下肌瘤：最影響生育，造成不孕、流產、經血過多<br>· 肌壁間肌瘤：中度影響，取決於大小和位置<br>· 漿膜下肌瘤：影響最小<br>(A) 錯誤，漿膜下子宮平滑肌瘤向子宮外生長，通常不會扭曲子宮腔形狀或影響子宮內膜，因此不是造成不孕的常見原因。真正常見造成不孕的是黏膜下肌瘤（submucosal leiomyoma），因為它會扭曲子宮腔、影響胚胎著床和血流<br>(B) 正確，子宮動脈栓塞（uterine artery embolization, UAE）可用於治療有症狀的子宮肌瘤，透過阻斷血流使肌瘤萎縮，適合不願手術或不適合手術的病人<br>(C) 正確，懷孕中子宮肌瘤可能發生紅色變性（red degeneration，又稱carneous degeneration），是肌瘤快速生長導致中心缺血壞死。症狀包括急性腹痛、發燒，但通常採保守治療（止痛、臥床休息）即可改善，很少需要手術<br>(D) 正確，黏膜下子宮平滑肌瘤突入子宮腔，增加子宮內膜表面積並影響子宮收縮，常造成經血量增多（menorrhagia/hypermenorrhea）、經期延長、貧血等症狀",
+    "explanation": "子宮平滑肌瘤（子宮肌瘤，fibroids）依位置分類。<br>子宮肌瘤分類。<br>黏膜下（submucosal）：突入子宮腔內。肌壁間（intramural）：位於子宮肌層內。漿膜下（subserosal）：突出於子宮外表面。<br>對生育的影響。<br>黏膜下肌瘤：最影響生育，造成不孕、流產、經血過多。肌壁間肌瘤：中度影響，取決於大小和位置。漿膜下肌瘤：影響最小。<br>(A) 錯誤，漿膜下子宮平滑肌瘤向子宮外生長，通常不會扭曲子宮腔形狀或影響子宮內膜，因此不是造成不孕的常見原因。真正常見造成不孕的是黏膜下肌瘤（submucosal leiomyoma），因為它會扭曲子宮腔、影響胚胎著床和血流<br>(B) 正確，子宮動脈栓塞（uterine artery embolization, UAE）可用於治療有症狀的子宮肌瘤，透過阻斷血流使肌瘤萎縮，適合不願手術或不適合手術的病人<br>(C) 正確，懷孕中子宮肌瘤可能發生紅色變性（red degeneration，又稱carneous degeneration），是肌瘤快速生長導致中心缺血壞死。症狀包括急性腹痛、發燒，但通常採保守治療（止痛、臥床休息）即可改善，很少需要手術<br>(D) 正確，黏膜下子宮平滑肌瘤突入子宮腔，增加子宮內膜表面積並影響子宮收縮，常造成經血量增多（menorrhagia/hypermenorrhea）、經期延長、貧血等症狀",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -769,7 +769,7 @@
       "D": "長期使用gonadotropin-releasing hormone（GnRH）agonists會增加骨質疏鬆症之風險"
     },
     "answer": "B",
-    "explanation": "子宮內膜異位症的藥物治療選項及其副作用。<br>治療選項：<br>· 口服避孕藥<br>· Progestins（如MPA、dienogest）<br>· Danazol<br>· GnRH agonists（如leuprolide）<br>· Aromatase inhibitors<br>(A) 正確，Progestins類藥物的常見副作用包括：<br>· 體重增加（因水分滯留和食慾增加）<br>· 不規則子宮出血（breakthrough bleeding）<br>· 情緒變化<br>· 乳房脹痛<br>(B) 錯誤，持續使用口服避孕藥實際上會降低子宮內膜癌和卵巢癌的風險，而非增加。研究顯示：<br>· 卵巢癌風險：使用5年可降低約50%風險，保護效果持續停藥後多年<br>· 子宮內膜癌風險：可降低約50%風險<br>· 可能略增加乳癌和子宮頸癌風險，但總體來說對婦科癌症有保護作用<br>(C) 正確，Danazol是弱雄性素（weak androgen），副作用主要來自雄性素作用，包括：<br>· 多毛症（hirsutism）<br>· 聲音低沉（voice deepening）<br>· 痤瘡<br>· 體重增加<br>· 肝功能異常<br>(D) 正確，GnRH agonists造成低雌激素狀態（hypoestrogenism），長期使用（>6個月）會導致：<br>· 骨質流失和骨質疏鬆症風險增加<br>· 更年期症狀（熱潮紅、陰道乾燥）<br>通常建議使用不超過6個月，或併用add-back therapy（低劑量雌激素）",
+    "explanation": "子宮內膜異位症的藥物治療選項及其副作用。<br>治療選項：口服避孕藥、Progestins（如MPA、dienogest）、Danazol、GnRH agonists（如leuprolide）、Aromatase inhibitors。<br>(A) 正確，Progestins類藥物的常見副作用包括：體重增加（因水分滯留和食慾增加）、不規則子宮出血（breakthrough bleeding）、情緒變化、乳房脹痛。<br>(B) 錯誤，持續使用口服避孕藥實際上會降低子宮內膜癌和卵巢癌的風險，而非增加。研究顯示。<br>卵巢癌風險：使用5年可降低約50%風險，保護效果持續停藥後多年。子宮內膜癌風險：可降低約50%風險。可能略增加乳癌和子宮頸癌風險，但總體來說對婦科癌症有保護作用。<br>(C) 正確，Danazol是弱雄性素（weak androgen），副作用主要來自雄性素作用，包括：多毛症（hirsutism）、聲音低沉（voice deepening）、痤瘡、體重增加、肝功能異常。<br>(D) 正確，GnRH agonists造成低雌激素狀態（hypoestrogenism），長期使用（&gt;6個月）會導致：骨質流失和骨質疏鬆症風險增加、更年期症狀（熱潮紅、陰道乾燥）。<br>通常建議使用不超過6個月，或併用add-back therapy（低劑量雌激素）",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -786,7 +786,7 @@
       "D": "mature ovarian teratoma"
     },
     "answer": "B",
-    "explanation": "卵巢腫瘤可分為上皮性、生殖細胞性、性索間質性等。<br>產生雄性素的卵巢腫瘤（virilizing tumors）：<br>· Sertoli-Leydig cell tumor（最常見）<br>· Leydig cell tumor<br>· Granulosa-theca cell tumor（少數）<br>· Lipid cell tumor<br>· Krukenberg tumor（轉移性）<br>男性化症狀（virilization）：<br>· 多毛症<br>· 聲音低沉<br>· 陰蒂肥大<br>· 乳房萎縮<br>· 男性型禿髮<br>· 肌肉增加<br>(A) 錯誤，Serous cystadenoma（漿液性囊腺瘤）是最常見的良性上皮性卵巢腫瘤，不會分泌激素，不造成男性化<br>(B) 正確，Sertoli-Leydig cell tumor（又稱arrhenoblastoma）是性索間質腫瘤，會分泌大量雄性素（testosterone、androstenedione），造成明顯的男性化症狀。多見於年輕女性（平均25-30歲），約75%為良性<br>(C) 錯誤，Ovarian endometrioma（卵巢巧克力囊腫）是子宮內膜異位症在卵巢的表現，不會產生過量雄性素<br>(D) 錯誤，Mature ovarian teratoma（成熟畸胎瘤、皮樣囊腫dermoid cyst）是生殖細胞腫瘤，含有各種組織（毛髮、牙齒、皮脂等），通常不會產生激素",
+    "explanation": "卵巢腫瘤可分為上皮性、生殖細胞性、性索間質性等。<br>產生雄性素的卵巢腫瘤（virilizing tumors）：Sertoli-Leydig cell tumor（最常見）、Leydig cell tumor、Granulosa-theca cell tumor（少數）、Lipid cell tumor、Krukenberg tumor（轉移性）。<br>男性化症狀（virilization）：多毛症、聲音低沉、陰蒂肥大、乳房萎縮、男性型禿髮、肌肉增加。<br>(A) 錯誤，Serous cystadenoma（漿液性囊腺瘤）是最常見的良性上皮性卵巢腫瘤，不會分泌激素，不造成男性化<br>(B) 正確，Sertoli-Leydig cell tumor（又稱arrhenoblastoma）是性索間質腫瘤，會分泌大量雄性素（testosterone、androstenedione），造成明顯的男性化症狀。多見於年輕女性（平均25-30歲），約75%為良性<br>(C) 錯誤，Ovarian endometrioma（卵巢巧克力囊腫）是子宮內膜異位症在卵巢的表現，不會產生過量雄性素<br>(D) 錯誤，Mature ovarian teratoma（成熟畸胎瘤、皮樣囊腫dermoid cyst）是生殖細胞腫瘤，含有各種組織（毛髮、牙齒、皮脂等），通常不會產生激素",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -803,7 +803,7 @@
       "D": "顯微鏡檢視之下可以看到被細菌黏附的陰道上皮細胞"
     },
     "answer": "A",
-    "explanation": "細菌性陰道炎（BV）是陰道正常菌群失衡，Lactobacillus減少，厭氧菌過度生長。<br>Amsel診斷標準（需符合4項中至少3項）：<br>· 稀薄、灰白色、均勻的陰道分泌物<br>· 陰道pH > 4.5<br>· 魚腥味（fishy odor）：加入10% KOH後出現或加重（whiff test陽性）<br>· 顯微鏡下看到線索細胞（clue cells）：陰道上皮細胞被細菌（主要是Gardnerella vaginalis）黏附，邊緣模糊",
+    "explanation": "細菌性陰道炎（BV）是陰道正常菌群失衡，Lactobacillus減少，厭氧菌過度生長。<br>Amsel診斷標準（需符合4項中至少3項）。<br>稀薄、灰白色、均勻的陰道分泌物。陰道pH &gt; 4.5。魚腥味（fishy odor）：加入10% KOH後出現或加重（whiff test陽性）。顯微鏡下看到線索細胞（clue cells）：陰道上皮細胞被細菌（主要是Gardnerella vaginalis）黏附，邊緣模糊。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -820,7 +820,7 @@
       "D": "切除intramural myoma並不會提高受孕率"
     },
     "answer": "D",
-    "explanation": "子宮肌瘤對生育的影響取決於位置、大小和數量。<br>(A) 錯誤，口服避孕藥使用時間越長，子宮肌瘤發生率反而越低。研究顯示長期使用OCP可降低肌瘤風險約20-30%，可能因為減少月經次數和調節激素水平<br>(B) 錯誤，子宮肌瘤本身通常不會明顯提高原發性經痛（primary dysmenorrhea）的發生率。經痛主要與子宮內膜異位症、腺肌症相關。肌瘤主要造成經血過多、骨盆壓迫症狀，而非經痛<br>(C) 錯誤，停經前女性子宮肌瘤快速長大並不顯著增加子宮惡性肉瘤（leiomyosarcoma）的可能性。研究顯示：<br>· 肉瘤發生率極低（<0.5%）<br>· 快速生長可能只是良性肌瘤的變性<br>· 停經後快速生長較需警覺惡性可能<br>單純快速生長不是手術的絕對適應症<br>(D) 正確，肌壁間肌瘤（intramural myoma）若不扭曲子宮腔，切除後對受孕率的提升效果不明確。研究顯示：<br>· 黏膜下肌瘤切除：明顯提高受孕率<br>· 肌壁間肌瘤（不影響子宮腔）：切除的益處不確定<br>· 漿膜下肌瘤：切除不會提高受孕率<br>因此單純肌壁間肌瘤不一定需要切除",
+    "explanation": "子宮肌瘤對生育的影響取決於位置、大小和數量。<br>(A) 錯誤，口服避孕藥使用時間越長，子宮肌瘤發生率反而越低。研究顯示長期使用OCP可降低肌瘤風險約20-30%，可能因為減少月經次數和調節激素水平<br>(B) 錯誤，子宮肌瘤本身通常不會明顯提高原發性經痛（primary dysmenorrhea）的發生率。經痛主要與子宮內膜異位症、腺肌症相關。肌瘤主要造成經血過多、骨盆壓迫症狀，而非經痛<br>(C) 錯誤，停經前女性子宮肌瘤快速長大並不顯著增加子宮惡性肉瘤（leiomyosarcoma）的可能性。研究顯示：肉瘤發生率極低（&lt;0.5%）、快速生長可能只是良性肌瘤的變性、停經後快速生長較需警覺惡性可能。<br>單純快速生長不是手術的絕對適應症<br>(D) 正確，肌壁間肌瘤（intramural myoma）若不扭曲子宮腔，切除後對受孕率的提升效果不明確。研究顯示。<br>黏膜下肌瘤切除：明顯提高受孕率。肌壁間肌瘤（不影響子宮腔）：切除的益處不確定。漿膜下肌瘤：切除不會提高受孕率。<br>因此單純肌壁間肌瘤不一定需要切除",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -837,7 +837,7 @@
       "D": "內胚層竇瘤對輔助性化療或治療性化療反應不佳，通常不建議實施"
     },
     "answer": "C",
-    "explanation": "內胚層竇瘤（endodermal sinus tumor, EST），又稱卵黃囊瘤（yolk sac tumor），是惡性生殖細胞腫瘤。<br>EST特徵：<br>· 主要發生於兒童和年輕女性（20歲以下）<br>· 高度惡性、生長快速<br>· 分泌AFP（alpha-fetoprotein）<br>· 對化療高度敏感<br>(A) 錯誤，雖然EST好發於兒童和青少年，但不是「大多數」患者尚未初經。平均發病年齡約19歲，許多患者已有初經<br>(B) 錯誤，EST與上皮性卵巢癌完全不同。EST是高度惡性、生長快速的腫瘤，常在短時間內出現明顯症狀（腹痛、腹部腫塊、腹水），而非生長緩慢或無症狀<br>(C) 正確，EST幾乎都是單側卵巢病變（>95%），手術時不建議對對側正常外觀的卵巢進行切片。原因：<br>· 對側卵巢受累極罕見<br>· 切片可能造成不必要的卵巢損傷<br>· 影響未來生育能力<br>· 化療對殘存病灶高度有效<br>因此手術原則是保留生育功能：單側卵巢輸卵管切除+分期手術<br>(D) 錯誤，EST對化療（以bleomycin、etoposide、cisplatin為基礎的BEP方案）反應極佳，5年存活率可達>90%。輔助性或治療性化療是必要的標準治療",
+    "explanation": "內胚層竇瘤（endodermal sinus tumor, EST），又稱卵黃囊瘤（yolk sac tumor），是惡性生殖細胞腫瘤。<br>EST特徵：主要發生於兒童和年輕女性（20歲以下）、高度惡性、生長快速、分泌AFP（alpha-fetoprotein）、對化療高度敏感。<br>(A) 錯誤，雖然EST好發於兒童和青少年，但不是「大多數」患者尚未初經。平均發病年齡約19歲，許多患者已有初經<br>(B) 錯誤，EST與上皮性卵巢癌完全不同。EST是高度惡性、生長快速的腫瘤，常在短時間內出現明顯症狀（腹痛、腹部腫塊、腹水），而非生長緩慢或無症狀<br>(C) 正確，EST幾乎都是單側卵巢病變（&gt;95%），手術時不建議對對側正常外觀的卵巢進行切片。原因：對側卵巢受累極罕見、切片可能造成不必要的卵巢損傷、影響未來生育能力、化療對殘存病灶高度有效。<br>因此手術原則是保留生育功能：單側卵巢輸卵管切除+分期手術<br>(D) 錯誤，EST對化療（以bleomycin、etoposide、cisplatin為基礎的BEP方案）反應極佳，5年存活率可達&gt;90%。輔助性或治療性化療是必要的標準治療",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -854,7 +854,7 @@
       "D": "患者應接受骨盆腔臟器剜除手術（包括膀胱、子宮及直腸全切除）"
     },
     "answer": "C",
-    "explanation": "卵巢癌分期和治療原則分析。<br>FIGO分期（簡化）：<br>· Stage I：局限於卵巢<br>· Stage II：擴散至骨盆腔其他器官<br>· Stage III：擴散至腹腔腹膜或淋巴結<br>· Stage IV：遠端轉移（肝實質、胸腔積液等）<br>本案例分析：<br>· 腫瘤與小腸沾黏、大腸侵犯：Stage II或III<br>· 無肝臟表面和橫膈膜轉移：非Stage III高階或IV<br>(A) 錯誤，患者不是第IV期卵巢癌。第IV期需要有遠端器官實質轉移（如肝實質內轉移）或惡性胸腔積液。本案例僅有骨盆腔和可能腹腔內擴散，應為Stage II或III<br>(B) 錯誤，即使腫瘤侵犯周圍器官，仍應積極進行減積手術（cytoreductive surgery）。卵巢癌治療的首要目標是達到最佳減積（optimal cytoreduction，殘存腫瘤<1 cm或無肉眼可見殘存），這顯著改善預後<br>(C) 正確，標準治療應為：<br>· 完整分期減積手術：包括全子宮雙側附件切除、大網膜切除、腹腔沖洗液、淋巴結取樣<br>· 若腫瘤侵犯腸道，應一併切除受侵犯的小腸和大腸段<br>· 術後輔助化療：platinum-based化療（如carboplatin + paclitaxel）<br>亮細胞癌（clear cell carcinoma）與子宮內膜異位症相關，對化療反應較差，但仍需化療<br>(D) 錯誤，骨盆腔臟器剜除術（pelvic exenteration，包括膀胱、子宮、直腸全切除）過於激進且不必要。只需切除受侵犯的腸段即可達到減積目標，無需切除膀胱等未受侵犯器官",
+    "explanation": "卵巢癌分期和治療原則分析。<br>FIGO分期（簡化）。<br>Stage I：局限於卵巢。Stage II：擴散至骨盆腔其他器官。Stage III：擴散至腹腔腹膜或淋巴結。Stage IV：遠端轉移（肝實質、胸腔積液等）。<br>本案例分析。<br>腫瘤與小腸沾黏、大腸侵犯：Stage II或III。無肝臟表面和橫膈膜轉移：非Stage III高階或IV。<br>(A) 錯誤，患者不是第IV期卵巢癌。第IV期需要有遠端器官實質轉移（如肝實質內轉移）或惡性胸腔積液。本案例僅有骨盆腔和可能腹腔內擴散，應為Stage II或III<br>(B) 錯誤，即使腫瘤侵犯周圍器官，仍應積極進行減積手術（cytoreductive surgery）。卵巢癌治療的首要目標是達到最佳減積（optimal cytoreduction，殘存腫瘤&lt;1 cm或無肉眼可見殘存），這顯著改善預後<br>(C) 正確，標準治療應為。<br>完整分期減積手術：包括全子宮雙側附件切除、大網膜切除、腹腔沖洗液、淋巴結取樣。若腫瘤侵犯腸道，應一併切除受侵犯的小腸和大腸段。術後輔助化療：platinum-based化療（如carboplatin + paclitaxel）。<br>亮細胞癌（clear cell carcinoma）與子宮內膜異位症相關，對化療反應較差，但仍需化療<br>(D) 錯誤，骨盆腔臟器剜除術（pelvic exenteration，包括膀胱、子宮、直腸全切除）過於激進且不必要。只需切除受侵犯的腸段即可達到減積目標，無需切除膀胱等未受侵犯器官",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -871,7 +871,7 @@
       "D": "Type I 病人臨床的表徵以異常出血為多"
     },
     "answer": "D",
-    "explanation": "子宮內膜癌的二元分類系統。<br>Type I（雌激素依賴型）：<br>· 組織型態：子宮內膜樣腺癌（endometrioid adenocarcinoma）<br>· 危險因子：肥胖、多囊性卵巢、未生育、晚停經、雌激素治療<br>· 分化：通常分化良好（grade 1-2）<br>· 預後：較好<br>· 基因：PTEN、PIK3CA、KRAS突變<br>Type II（非雌激素依賴型）：<br>· 組織型態：漿液性癌（serous）、透明細胞癌（clear cell）<br>· 危險因子：與雌激素無關，年齡較大<br>· 分化：分化差（grade 3）<br>· 預後：較差<br>· 基因：p53突變（>90%）<br>(A) 錯誤，Type I病人與多囊性卵巢症候群（PCOS）有關。PCOS導致無排卵、長期雌激素刺激而無孕酮對抗，增加Type I子宮內膜癌風險<br>(B) 錯誤，Type I病人預後較好，5年存活率約80-90%。Type II預後較差，5年存活率約50-60%<br>(C) 錯誤，Type I病人的基因表現主要與PTEN、PIK3CA、KRAS、β-catenin突變有關。p53突變主要見於Type II（特別是漿液性癌，>90%有p53突變）<br>(D) 正確，Type I病人臨床最常見的表徵是異常子宮出血（abnormal uterine bleeding），包括：<br>· 停經後出血（最常見）<br>· 停經前月經過多或不規則出血<br>· 因為腫瘤多為子宮內膜樣腺癌，早期即會出血，通常在早期被診斷",
+    "explanation": "子宮內膜癌的二元分類系統。<br>Type I（雌激素依賴型）。<br>組織型態：子宮內膜樣腺癌（endometrioid adenocarcinoma）。危險因子：肥胖、多囊性卵巢、未生育、晚停經、雌激素治療。分化：通常分化良好（grade 1-2）。預後：較好。基因：PTEN、PIK3CA、KRAS突變。<br>Type II（非雌激素依賴型）。<br>組織型態：漿液性癌（serous）、透明細胞癌（clear cell）。危險因子：與雌激素無關，年齡較大。分化：分化差（grade 3）。預後：較差。基因：p53突變（&gt;90%）。<br>(A) 錯誤，Type I病人與多囊性卵巢症候群（PCOS）有關。PCOS導致無排卵、長期雌激素刺激而無孕酮對抗，增加Type I子宮內膜癌風險<br>(B) 錯誤，Type I病人預後較好，5年存活率約80-90%。Type II預後較差，5年存活率約50-60%<br>(C) 錯誤，Type I病人的基因表現主要與PTEN、PIK3CA、KRAS、β-catenin突變有關。p53突變主要見於Type II（特別是漿液性癌，&gt;90%有p53突變）<br>(D) 正確，Type I病人臨床最常見的表徵是異常子宮出血（abnormal uterine bleeding），包括：停經後出血（最常見）。停經前月經過多或不規則出血。因為腫瘤多為子宮內膜樣腺癌，早期即會出血，通常在早期被診斷。",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -888,7 +888,7 @@
       "D": "相較於complete hydatidiform mole，通常β-hCG level較低"
     },
     "answer": "B",
-    "explanation": "葡萄胎（hydatidiform mole）分為完全性和部分性。<br>Complete mole（完全性葡萄胎）：<br>· 染色體：46,XX（全部來自父親，雙套單倍體）<br>· 絨毛：彌漫性水腫<br>· 胎兒組織：無<br>· β-hCG：極高<br>· 惡性化風險：15-20%（侵襲性葡萄胎或絨毛膜癌）<br>Partial mole（部分性葡萄胎）：<br>· 染色體：69,XXY或69,XXX（三倍體，2套來自父親）<br>· 絨毛：局部水腫<br>· 胎兒組織：有（但通常不正常）<br>· β-hCG：輕度升高<br>· 惡性化風險：<5%<br>(A) 正確，Partial mole的染色體型態為三倍體（triploid，69條染色體），通常是69,XXY或69,XXX，其中2套染色體來自父親（diandric triploidy），1套來自母親<br>(B) 錯誤，Partial mole相較於complete mole，惡性化風險顯著較低。Complete mole約15-20%會進展為侵襲性葡萄胎（invasive mole）或絨毛膜癌（choriocarcinoma），而partial mole惡性化風險僅<5%<br>(C) 正確，Partial mole的病理特徵可見到胎兒組織（fetal tissue），如胎兒紅血球、胎兒器官殘留等，這是與complete mole（無胎兒組織）的重要鑑別點<br>(D) 正確，Partial mole的β-hCG水平通常較complete mole低，因為絨毛滋養層增生程度較輕微。Complete mole常有極高的β-hCG（>100,000 mIU/mL），而partial mole通常較低",
+    "explanation": "葡萄胎（hydatidiform mole）分為完全性和部分性。<br>Complete mole（完全性葡萄胎）。<br>染色體：46,XX（全部來自父親，雙套單倍體）。絨毛：彌漫性水腫。胎兒組織：無。β-hCG：極高。惡性化風險：15-20%（侵襲性葡萄胎或絨毛膜癌）。<br>Partial mole（部分性葡萄胎）。<br>染色體：69,XXY或69,XXX（三倍體，2套來自父親）。絨毛：局部水腫。胎兒組織：有（但通常不正常）。β-hCG：輕度升高。惡性化風險：&lt;5%。<br>(A) 正確，Partial mole的染色體型態為三倍體（triploid，69條染色體），通常是69,XXY或69,XXX，其中2套染色體來自父親（diandric triploidy），1套來自母親<br>(B) 錯誤，Partial mole相較於complete mole，惡性化風險顯著較低。Complete mole約15-20%會進展為侵襲性葡萄胎（invasive mole）或絨毛膜癌（choriocarcinoma），而partial mole惡性化風險僅&lt;5%<br>(C) 正確，Partial mole的病理特徵可見到胎兒組織（fetal tissue），如胎兒紅血球、胎兒器官殘留等，這是與complete mole（無胎兒組織）的重要鑑別點<br>(D) 正確，Partial mole的β-hCG水平通常較complete mole低，因為絨毛滋養層增生程度較輕微。Complete mole常有極高的β-hCG（&gt;100,000 mIU/mL），而partial mole通常較低",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -905,7 +905,7 @@
       "D": "子宮頸間質的侵犯深度（depth of stromal invasion）"
     },
     "answer": "C",
-    "explanation": "子宮頸癌術後復發風險因子（Sedlis criteria和其他研究）。<br>主要復發高風險因子：<br>· 淋巴結轉移（最重要）<br>· 子宮旁組織侵犯（parametrial invasion）<br>· 手術切緣陽性（positive surgical margins）<br>中度風險因子：<br>· 腫瘤大小<br>· 深層間質侵犯（deep stromal invasion）<br>· 淋巴血管空間侵犯（LVSI）<br>(A) 正確，子宮旁組織的顯微侵犯（parametrial microinvasion）是復發的重要風險因子。若有子宮旁侵犯，即使是顯微侵犯，通常需要術後輔助放射治療<br>(B) 正確，骨盆腔淋巴結轉移（pelvic lymph node metastasis）是最重要的預後因子和復發風險因子，有淋巴結轉移者復發率顯著增加，需術後同步化放療<br>(C) 錯誤，腫瘤細胞壞死程度（tumor necrosis）不是已確立的子宮頸癌術後復發風險因子。雖然壞死可能反映腫瘤生物學特性，但不在標準的風險分層系統中<br>(D) 正確，子宮頸間質侵犯深度（depth of stromal invasion）是重要的風險因子。深層間質侵犯（深度>1/3或>5 mm）與較高的復發率相關，是Sedlis criteria的一部分",
+    "explanation": "子宮頸癌術後復發風險因子（Sedlis criteria和其他研究）。<br>主要復發高風險因子：淋巴結轉移（最重要）、子宮旁組織侵犯（parametrial invasion）、手術切緣陽性（positive surgical margins）。<br>中度風險因子：腫瘤大小、深層間質侵犯（deep stromal invasion）、淋巴血管空間侵犯（LVSI）。<br>(A) 正確，子宮旁組織的顯微侵犯（parametrial microinvasion）是復發的重要風險因子。若有子宮旁侵犯，即使是顯微侵犯，通常需要術後輔助放射治療<br>(B) 正確，骨盆腔淋巴結轉移（pelvic lymph node metastasis）是最重要的預後因子和復發風險因子，有淋巴結轉移者復發率顯著增加，需術後同步化放療<br>(C) 錯誤，腫瘤細胞壞死程度（tumor necrosis）不是已確立的子宮頸癌術後復發風險因子。雖然壞死可能反映腫瘤生物學特性，但不在標準的風險分層系統中<br>(D) 正確，子宮頸間質侵犯深度（depth of stromal invasion）是重要的風險因子。深層間質侵犯（深度&gt;1/3或&gt;5 mm）與較高的復發率相關，是Sedlis criteria的一部分",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -922,7 +922,7 @@
       "D": "單一囊胚植入可降低多胞胎機率"
     },
     "answer": "C",
-    "explanation": "人工生殖技術（ART）的適應症和方法。<br>(A) 正確，長療程（long protocol）使用GnRH agonist從黃體中期開始，可以：<br>· 抑制腦下垂體，預防早發性LH surge<br>· 提供更好的卵泡同步化<br>· 增加取卵數量和品質<br>早發性LH surge會導致卵子過早成熟、取卵失敗或卵子品質下降<br>(B) 正確，癌症患者在接受化療或放療前，可以進行生育力保存（fertility preservation）：<br>· 女性：冷凍卵子、胚胎或卵巢組織<br>· 男性：冷凍精子<br>· 青春期前兒童：冷凍卵巢或睪丸組織（實驗性）<br>(C) 錯誤，PGD（著床前基因診斷）主要用於：<br>· 已知的單基因遺傳疾病（如地中海貧血、血友病）<br>· 已知的染色體平衡轉位<br>· 性別選擇（避免X-linked疾病）<br>對於習慣性流產且無已知染色體異常的夫妻，PGD並無明確證據能增加著床率或降低流產率。PGT-A（著床前基因篩檢，針對非整倍體）的效益仍有爭議<br>(D) 正確，單一囊胚植入（single embryo transfer, SET）可以：<br>· 顯著降低多胞胎妊娠率<br>· 降低早產和其他併發症<br>· 在選擇高品質囊胚的情況下，妊娠率不會明顯下降<br>這是目前建議的趨勢，特別是年輕、預後良好的患者",
+    "explanation": "人工生殖技術（ART）的適應症和方法。<br>(A) 正確，長療程（long protocol）使用GnRH agonist從黃體中期開始，可以：抑制腦下垂體，預防早發性LH surge。提供更好的卵泡同步化。增加取卵數量和品質。<br>早發性LH surge會導致卵子過早成熟、取卵失敗或卵子品質下降<br>(B) 正確，癌症患者在接受化療或放療前，可以進行生育力保存（fertility preservation）。<br>女性：冷凍卵子、胚胎或卵巢組織。男性：冷凍精子。青春期前兒童：冷凍卵巢或睪丸組織（實驗性）。<br>(C) 錯誤，PGD（著床前基因診斷）主要用於：已知的單基因遺傳疾病（如地中海貧血、血友病）、已知的染色體平衡轉位、性別選擇（避免X-linked疾病）。<br>對於習慣性流產且無已知染色體異常的夫妻，PGD並無明確證據能增加著床率或降低流產率。PGT-A（著床前基因篩檢，針對非整倍體）的效益仍有爭議<br>(D) 正確，單一囊胚植入（single embryo transfer, SET）可以：顯著降低多胞胎妊娠率。降低早產和其他併發症。在選擇高品質囊胚的情況下，妊娠率不會明顯下降。<br>這是目前建議的趨勢，特別是年輕、預後良好的患者",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -939,7 +939,7 @@
       "D": "卵巢部分切除可以改善部分多囊性卵巢婦女的排卵功能"
     },
     "answer": "A",
-    "explanation": "多囊性卵巢症候群（PCOS）的藥物治療目標包括調整月經週期、治療多毛症和痤瘡、改善代謝異常，以及有懷孕需求時促進排卵。<br>(A) 錯誤，單獨使用口服避孕藥（OCP）可抑制卵巢雄性素產生，並增加SHBG（性荷爾蒙結合球蛋白）、降低游離睪固酮，但對已存在的毛髮生長影響有限，通常需要6-12個月才見效，且效果中等，成功率遠低於80%；Endocrine Society 2018 多毛症指引建議任何藥物至少使用6個月再評估，口服避孕藥單獨效果不足時再加上抗雄性素，研究中口服避孕藥單獨治療約51%自覺改善，合併spironolactone約90%。更有效的治療需要合併抗雄性素藥物（如spironolactone、cyproterone acetate）或局部治療（如eflornithine cream）、電解或雷射除毛<br>(B) 正確，cyproterone acetate（CPA）是強效抗雄性素，可阻斷雄性素受體、抑制雄性素合成，改善多毛症和痤瘡，但有肝毒性風險，需監測肝功能，長期使用可能增加肝腫瘤風險<br>(C) 正確，GnRH agonist可抑制卵巢功能、降低卵巢雄性素產生，dexamethasone可抑制腎上腺雄性素（DHEA-S）產生，兩者都可改善多毛症和痤瘡，但因副作用較大，通常不作為第一線治療<br>(D) 正確，卵巢部分切除術或卵巢楔形切除術（ovarian wedge resection）可以暫時改善部分PCOS患者的排卵功能，降低雄性素濃度，但因手術風險與術後沾黏，現已被腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）取代，僅在藥物治療失敗時考慮",
+    "explanation": "多囊性卵巢症候群（PCOS）的藥物治療目標包括調整月經週期、治療多毛症和痤瘡、改善代謝異常，以及有懷孕需求時促進排卵。<br>(A) 錯誤，單獨使用口服避孕藥（OCP）可抑制卵巢雄性素產生，並增加SHBG（性荷爾蒙結合球蛋白）、降低游離睪固酮，但對已存在的毛髮生長影響有限，通常需要6-12個月才見效，且效果中等，成功率遠低於80%。Endocrine Society 2018 多毛症指引建議任何藥物至少使用6個月再評估，口服避孕藥單獨效果不足時再加上抗雄性素，研究中口服避孕藥單獨治療約51%自覺改善，合併spironolactone約90%。更有效的治療需要合併抗雄性素藥物（如spironolactone、cyproterone acetate）或局部治療（如eflornithine cream）、電解或雷射除毛<br>(B) 正確，cyproterone acetate（CPA）是強效抗雄性素，可阻斷雄性素受體、抑制雄性素合成，改善多毛症和痤瘡，但有肝毒性風險，需監測肝功能，長期使用可能增加肝腫瘤風險<br>(C) 正確，GnRH agonist可抑制卵巢功能、降低卵巢雄性素產生，dexamethasone可抑制腎上腺雄性素（DHEA-S）產生，兩者都可改善多毛症和痤瘡，但因副作用較大，通常不作為第一線治療<br>(D) 正確，卵巢部分切除術或卵巢楔形切除術（ovarian wedge resection）可以暫時改善部分PCOS患者的排卵功能，降低雄性素濃度，但因手術風險與術後沾黏，現已被腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）取代，僅在藥物治療失敗時考慮",
     "tags": [
       "113-2-6",
       "婦產科"

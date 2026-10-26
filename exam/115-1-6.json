@@ -26,7 +26,7 @@
       "D": "對缺血敏感度最高的 lead 是 V5，次之則是 V4"
     },
     "answer": "A,C",
-    "explanation": "心室動作電位可分為去極化與再極化兩階段，ST segment 對應去極化結束（J point）至 T 波開始的區間，屬於平台期（早期再極化），真正代表心室再極化的是 T 波；術中心電圖監測心肌缺血時，導程數有限（通常 3～5 導程），大多無法像 12 導程心電圖一樣清楚定位缺血區域。<br>(A) 錯誤，ST segment 代表的是心室動作電位的平台期，並非再極化本身，但 ST segment 偏移仍是術中偵測心肌缺血最敏感的心電圖依據<br>(B) 正確，術中心肌缺血最常表現為 ST segment 壓低（depression）<br>(C) 錯誤，術中監測導程有限，大多無法清楚定位缺血區域，須靠 12 導程心電圖才能定位<br>(D) 正確，對缺血敏感度最高的導程為 V5，其次為 V4",
+    "explanation": "心室動作電位可分為去極化與再極化兩階段，ST segment 對應去極化結束（J point）至 T 波開始的區間，屬於平台期（早期再極化），真正代表心室再極化的是 T 波。術中心電圖監測心肌缺血時，導程數有限（通常 3～5 導程），大多無法像 12 導程心電圖一樣清楚定位缺血區域。<br>(A) 錯誤，ST segment 代表的是心室動作電位的平台期，並非再極化本身，但 ST segment 偏移仍是術中偵測心肌缺血最敏感的心電圖依據<br>(B) 正確，術中心肌缺血最常表現為 ST segment 壓低（depression）<br>(C) 錯誤，術中監測導程有限，大多無法清楚定位缺血區域，須靠 12 導程心電圖才能定位<br>(D) 正確，對缺血敏感度最高的導程為 V5，其次為 V4",
     "tags": [
       "115-1-6",
       "麻醉科"
@@ -111,7 +111,7 @@
       "D": "緊急手術"
     },
     "answer": "A",
-    "explanation": "ARISCAT Score（Assess Respiratory Risk in Surgical Patients in Catalonia）用於預測術後肺部併發症，需熟記其評估項目，才能找出不包含其中者。<br>(A) 正確，身體質量指數（BMI）不是 ARISCAT Score 的評估項目；ARISCAT 的項目包含：年齡、術前血氧飽和度、過去一個月內呼吸道感染、術前血紅素、手術切口位置、手術時間及緊急手術<br>(B) 錯誤，年齡是 ARISCAT Score 的評估項目之一<br>(C) 錯誤，術前血紅素（hemoglobin）是 ARISCAT Score 的評估項目之一<br>(D) 錯誤，緊急手術（emergency surgery）是 ARISCAT Score 的評估項目之一",
+    "explanation": "ARISCAT Score（Assess Respiratory Risk in Surgical Patients in Catalonia）用於預測術後肺部併發症，需熟記其評估項目，才能找出不包含其中者。<br>(A) 正確，身體質量指數（BMI）不是 ARISCAT Score 的評估項目。ARISCAT 的項目包含：年齡、術前血氧飽和度、過去一個月內呼吸道感染、術前血紅素、手術切口位置、手術時間及緊急手術<br>(B) 錯誤，年齡是 ARISCAT Score 的評估項目之一<br>(C) 錯誤，術前血紅素（hemoglobin）是 ARISCAT Score 的評估項目之一<br>(D) 錯誤，緊急手術（emergency surgery）是 ARISCAT Score 的評估項目之一",
     "tags": [
       "115-1-6",
       "麻醉科"
@@ -179,7 +179,7 @@
       "D": "在高眼壓性虹彩炎，如懷疑疱疹病毒（herpesviruses）或是巨細胞（cytomegalovirus）病毒引起，可施行 前房穿刺（aqueous tap）送檢 polymerase chain reaction（PCR）"
     },
     "answer": "C",
-    "explanation": "梅毒（syphilis）的血清學檢查分為非特異性試驗（如 RPR、VDRL）與特異性試驗（如 FTA-ABS），兩者在治療後的反應不同，是解題關鍵。<br>(A) 正確，胸腔 X 光可協助診斷類肉瘤症（sarcoidosis）的肺門淋巴腺病變及結核感染（tuberculosis）的肺部病灶<br>(B) 正確，HLA-B27 陽性與急性前葡萄膜炎（acute anterior uveitis）及僵直性脊椎炎（ankylosing spondylitis）高度相關<br>(C) 錯誤，RPR 及 VDRL 屬於非特異性梅毒試驗，成功治療後效價（titer）會下降，可用於追蹤療效；終身陽性的是特異性梅毒試驗（如 FTA-ABS、TPPA）<br>(D) 正確，高眼壓性前葡萄膜炎懷疑疱疹病毒（herpesviruses）或巨細胞病毒（cytomegalovirus）感染時，可進行前房穿刺（aqueous tap）送 PCR 檢查",
+    "explanation": "梅毒（syphilis）的血清學檢查分為非特異性試驗（如 RPR、VDRL）與特異性試驗（如 FTA-ABS），兩者在治療後的反應不同，是解題關鍵。<br>(A) 正確，胸腔 X 光可協助診斷類肉瘤症（sarcoidosis）的肺門淋巴腺病變及結核感染（tuberculosis）的肺部病灶<br>(B) 正確，HLA-B27 陽性與急性前葡萄膜炎（acute anterior uveitis）及僵直性脊椎炎（ankylosing spondylitis）高度相關<br>(C) 錯誤，RPR 及 VDRL 屬於非特異性梅毒試驗，成功治療後效價（titer）會下降，可用於追蹤療效。終身陽性的是特異性梅毒試驗（如 FTA-ABS、TPPA）<br>(D) 正確，高眼壓性前葡萄膜炎懷疑疱疹病毒（herpesviruses）或巨細胞病毒（cytomegalovirus）感染時，可進行前房穿刺（aqueous tap）送 PCR 檢查",
     "tags": [
       "115-1-6",
       "眼科"
@@ -196,7 +196,7 @@
       "D": "角膜的鮑曼氏層（Bowman layer）是上皮細胞的基質層（basement membrane）"
     },
     "answer": "C,D",
-    "explanation": "此題考眼球屈光系統與角膜表面構造，(C)、(D) 兩選項皆錯誤。<br>(A) 正確，角膜（cornea）為透明無血管組織，其透明性依賴角膜內皮細胞的去水腫功能<br>(B) 正確，結膜（conjunctiva）含有豐富血管，充血時可見明顯紅眼<br>(C) 錯誤，角膜約占整體眼球屈光度的 2/3（約 40-44 屈光度），而非 1/3<br>(D) 錯誤，鮑曼氏層（Bowman layer）是前基質無細胞的膠原纖維層，由角膜基質細胞（keratocytes）分泌，並非上皮細胞的基底膜（basement membrane）；上皮的基底膜位於鮑曼氏層之前",
+    "explanation": "此題考眼球屈光系統與角膜表面構造，(C)、(D) 兩選項皆錯誤。<br>(A) 正確，角膜（cornea）為透明無血管組織，其透明性依賴角膜內皮細胞的去水腫功能<br>(B) 正確，結膜（conjunctiva）含有豐富血管，充血時可見明顯紅眼<br>(C) 錯誤，角膜約占整體眼球屈光度的 2/3（約 40-44 屈光度），而非 1/3<br>(D) 錯誤，鮑曼氏層（Bowman layer）是前基質無細胞的膠原纖維層，由角膜基質細胞（keratocytes）分泌，並非上皮細胞的基底膜（basement membrane）。上皮的基底膜位於鮑曼氏層之前",
     "tags": [
       "115-1-6",
       "眼科"
@@ -213,7 +213,7 @@
       "D": "≦1/4"
     },
     "answer": "D",
-    "explanation": "Van Herick 法以裂隙燈（slit lamp）評估周邊前房深度（peripheral anterior chamber depth）與角膜厚度的比值，比值越小代表前房越淺，隅角閉鎖風險越高。<br>(A) 錯誤，周邊前房深度 >1 倍角膜厚度代表前房深，隅角閉鎖風險低，不需常規做隅角鏡（gonioscopy）檢查<br>(B) 錯誤，比值為 1 至 1/2 時前房尚可，通常不需立即安排隅角鏡檢查<br>(C) 錯誤，比值為 1/2 至 1/3 時需提高警覺，建議考慮隅角鏡但非強制門檻<br>(D) 正確，周邊前房深度 ≦1/4 角膜厚度時，隅角閉鎖（angle closure）風險極高，建議進行隅角鏡檢查",
+    "explanation": "Van Herick 法以裂隙燈（slit lamp）評估周邊前房深度（peripheral anterior chamber depth）與角膜厚度的比值，比值越小代表前房越淺，隅角閉鎖風險越高。<br>(A) 錯誤，周邊前房深度 &gt;1 倍角膜厚度代表前房深，隅角閉鎖風險低，不需常規做隅角鏡（gonioscopy）檢查<br>(B) 錯誤，比值為 1 至 1/2 時前房尚可，通常不需立即安排隅角鏡檢查<br>(C) 錯誤，比值為 1/2 至 1/3 時需提高警覺，建議考慮隅角鏡但非強制門檻<br>(D) 正確，周邊前房深度 ≦1/4 角膜厚度時，隅角閉鎖（angle closure）風險極高，建議進行隅角鏡檢查",
     "tags": [
       "115-1-6",
       "眼科"
@@ -230,7 +230,7 @@
       "D": "正常眼壓性青光眼較容易伴隨中央角膜厚度（central corneal thickness）過厚"
     },
     "answer": "D",
-    "explanation": "正常眼壓性青光眼（normal tension glaucoma，NTG）與原發性隅角開放性青光眼（primary open angle glaucoma，POAG）的差異在於眼壓範圍及相關的全身性危險因子。<br>(A) 正確，NTG 在日本人中確實比歐美人更為盛行，這與種族遺傳差異有關<br>(B) 正確，NTG 較 POAG 更常出現視神經盤出血（disc splinter hemorrhage），此與局部血流調節異常有關<br>(C) 正確，NTG 患者需特別注意口服降血壓藥造成的夜間低血壓（nocturnal hypotension），因其可加重視神經缺血<br>(D) 錯誤，NTG 患者較常伴隨中央角膜厚度偏薄（thin central corneal thickness），而非偏厚；薄角膜會使眼壓測量值被低估，是 NTG 的危險因子之一",
+    "explanation": "正常眼壓性青光眼（normal tension glaucoma，NTG）與原發性隅角開放性青光眼（primary open angle glaucoma，POAG）的差異在於眼壓範圍及相關的全身性危險因子。<br>(A) 正確，NTG 在日本人中確實比歐美人更為盛行，這與種族遺傳差異有關<br>(B) 正確，NTG 較 POAG 更常出現視神經盤出血（disc splinter hemorrhage），此與局部血流調節異常有關<br>(C) 正確，NTG 患者需特別注意口服降血壓藥造成的夜間低血壓（nocturnal hypotension），因其可加重視神經缺血<br>(D) 錯誤，NTG 患者較常伴隨中央角膜厚度偏薄（thin central corneal thickness），而非偏厚。薄角膜會使眼壓測量值被低估，是 NTG 的危險因子之一",
     "tags": [
       "115-1-6",
       "眼科"
@@ -505,7 +505,7 @@
       "D": "根據 International Federation of Gynecology and Obstetrics（FIGO 2009）分期，轉移到肝臟為第三 期"
     },
     "answer": "B",
-    "explanation": "絨毛膜癌（choriocarcinoma）是妊娠滋養細胞腫瘤（gestational trophoblastic neoplasia）的一種，其生物學特性與一般婦科腫瘤有所不同，需掌握其轉移途徑與分期。<br>(A) 錯誤，絨毛膜癌最常見的臨床症狀為不規則子宮出血（irregular vaginal bleeding），而非下腹痛<br>(B) 正確，絨毛膜癌可繼發於各種妊娠結局，包括正常足月懷孕（term pregnancy），但最常見於葡萄胎（hydatidiform mole）之後<br>(C) 錯誤，絨毛膜癌主要經由血行轉移（hematogenous spread），最常轉移至肺部，淋巴轉移並非其主要途徑<br>(D) 錯誤，依據 FIGO 2009 分期，轉移至肝臟屬於第四期（遠端器官轉移，排除肺及陰道），而非第三期；第三期是指轉移至肺部",
+    "explanation": "絨毛膜癌（choriocarcinoma）是妊娠滋養細胞腫瘤（gestational trophoblastic neoplasia）的一種，其生物學特性與一般婦科腫瘤有所不同，需掌握其轉移途徑與分期。<br>(A) 錯誤，絨毛膜癌最常見的臨床症狀為不規則子宮出血（irregular vaginal bleeding），而非下腹痛<br>(B) 正確，絨毛膜癌可繼發於各種妊娠結局，包括正常足月懷孕（term pregnancy），但最常見於葡萄胎（hydatidiform mole）之後<br>(C) 錯誤，絨毛膜癌主要經由血行轉移（hematogenous spread），最常轉移至肺部，淋巴轉移並非其主要途徑<br>(D) 錯誤，依據 FIGO 2009 分期，轉移至肝臟屬於第四期（遠端器官轉移，排除肺及陰道），而非第三期。第三期是指轉移至肺部",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -559,7 +559,7 @@
       "D": "胎盤機能不足為羊水量過少的原因之一"
     },
     "answer": "D",
-    "explanation": "胎兒生理監測需掌握各項正常值及異常表現的意義，胎盤功能不足影響羊水量是重要的臨床概念。<br>(A) 錯誤，胎兒正常心跳為 110-160 bpm，80-100 bpm 屬於胎兒心搏過緩（fetal bradycardia）<br>(B) 錯誤，正常胎兒睡眠週期約 20-40 分鐘，4 小時感覺不到胎動已超出正常睡眠週期，需進一步評估<br>(C) 錯誤，胎兒在子宮內有呼吸樣動作（fetal breathing movements），是正常生理現象，是胎兒生理評估（biophysical profile）的評分項目之一；缺乏呼吸樣動作才是胎兒窘迫的警示<br>(D) 正確，胎盤功能不足（uteroplacental insufficiency）會導致胎兒腎臟血流減少，尿液生成減少，進而造成羊水過少（oligohydramnios）",
+    "explanation": "胎兒生理監測需掌握各項正常值及異常表現的意義，胎盤功能不足影響羊水量是重要的臨床概念。<br>(A) 錯誤，胎兒正常心跳為 110-160 bpm，80-100 bpm 屬於胎兒心搏過緩（fetal bradycardia）<br>(B) 錯誤，正常胎兒睡眠週期約 20-40 分鐘，4 小時感覺不到胎動已超出正常睡眠週期，需進一步評估<br>(C) 錯誤，胎兒在子宮內有呼吸樣動作（fetal breathing movements），是正常生理現象，是胎兒生理評估（biophysical profile）的評分項目之一。缺乏呼吸樣動作才是胎兒窘迫的警示<br>(D) 正確，胎盤功能不足（uteroplacental insufficiency）會導致胎兒腎臟血流減少，尿液生成減少，進而造成羊水過少（oligohydramnios）",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -647,7 +647,7 @@
       "D": "孕婦未接受 GBS 菌落篩檢，於第 35 週孕期因羊膜早破超過 24 小時，住院待產"
     },
     "answer": "B",
-    "explanation": "乙型鏈球菌（group B Streptococcus，GBS）臨產期抗生素預防性投藥（intrapartum antibiotic prophylaxis，IAP）的適應症需依據本次懷孕的篩檢結果為主，而非前次懷孕。<br>(A) 錯誤，本次懷孕期間發生 GBS 菌尿症（GBS bacteriuria）是 IAP 的明確適應症，應給予預防性投藥<br>(B) 正確，前次懷孕 GBS 篩檢陽性與本次懷孕無關，需依本次懷孕的篩檢結果決定是否投藥；僅憑前次陽性不建議直接給予預防性投藥，這是最不建議的情況<br>(C) 錯誤，前一次分娩新生兒罹患嚴重 GBS 感染症是 IAP 的絕對適應症，應給予預防性投藥<br>(D) 錯誤，未接受 GBS 篩檢且有羊膜早破超過 18 小時（部分指引以 18 小時為界）是 IAP 的適應症之一，應給予預防性投藥",
+    "explanation": "乙型鏈球菌（group B Streptococcus，GBS）臨產期抗生素預防性投藥（intrapartum antibiotic prophylaxis，IAP）的適應症需依據本次懷孕的篩檢結果為主，而非前次懷孕。<br>(A) 錯誤，本次懷孕期間發生 GBS 菌尿症（GBS bacteriuria）是 IAP 的明確適應症，應給予預防性投藥<br>(B) 正確，前次懷孕 GBS 篩檢陽性與本次懷孕無關，需依本次懷孕的篩檢結果決定是否投藥。僅憑前次陽性不建議直接給予預防性投藥，這是最不建議的情況<br>(C) 錯誤，前一次分娩新生兒罹患嚴重 GBS 感染症是 IAP 的絕對適應症，應給予預防性投藥<br>(D) 錯誤，未接受 GBS 篩檢且有羊膜早破超過 18 小時（部分指引以 18 小時為界）是 IAP 的適應症之一，應給予預防性投藥",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -752,7 +752,7 @@
       "D": "患者受益於雌激素療法"
     },
     "answer": "C",
-    "explanation": "Swyer syndrome（46,XY 完全性性腺發育不全，complete gonadal dysgenesis）的核型是解題關鍵，患者外表為女性但染色體為男性核型。<br>(A) 正確，Swyer syndrome 患者因性腺無法產生性荷爾蒙，通常表現為平均身高、原發性無月經（primary amenorrhea）及女性外觀<br>(B) 正確，患者的性腺為退化性腺（streak gonads），無法正常發育，且有惡性轉化（性腺母細胞瘤，gonadoblastoma）的風險，建議預防性切除<br>(C) 錯誤，Swyer syndrome 的核型為 46,XY，而非 46,XX；患者染色體為男性，但因 SRY 基因突變導致睪丸無法發育，表現型為女性<br>(D) 正確，患者缺乏內源性雌激素，給予雌激素療法可促進第二性徵發育、預防骨質疏鬆，對患者有益",
+    "explanation": "Swyer syndrome（46,XY 完全性性腺發育不全，complete gonadal dysgenesis）的核型是解題關鍵，患者外表為女性但染色體為男性核型。<br>(A) 正確，Swyer syndrome 患者因性腺無法產生性荷爾蒙，通常表現為平均身高、原發性無月經（primary amenorrhea）及女性外觀<br>(B) 正確，患者的性腺為退化性腺（streak gonads），無法正常發育，且有惡性轉化（性腺母細胞瘤，gonadoblastoma）的風險，建議預防性切除<br>(C) 錯誤，Swyer syndrome 的核型為 46,XY，而非 46,XX。患者染色體為男性，但因 SRY 基因突變導致睪丸無法發育，表現型為女性<br>(D) 正確，患者缺乏內源性雌激素，給予雌激素療法可促進第二性徵發育、預防骨質疏鬆，對患者有益",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -769,7 +769,7 @@
       "D": "治療上以腹腔鏡卵巢囊腫切除為主"
     },
     "answer": "D",
-    "explanation": "功能性卵巢囊腫（functional ovarian cyst）大多為良性且具自限性，治療上以保守觀察為主，手術並非第一線處置。<br>(A) 正確，功能性卵巢囊腫主要包括濾泡囊腫（follicular cyst）、黃體囊腫（corpus luteum cyst）及卵囊黃體囊腫（theca lutein cyst）三種<br>(B) 正確，功能性卵巢囊腫均為良性，通常可自行消退<br>(C) 正確，最常見的功能性卵巢囊腫是濾泡囊腫，大多小於 8 cm，通常在 1-3 個月內自行消退<br>(D) 錯誤，功能性卵巢囊腫的主要處置是保守觀察，等待自然消退；手術切除不是主要治療方式，僅在囊腫持續增大、出現扭轉（torsion）或破裂（rupture）等併發症時才考慮手術",
+    "explanation": "功能性卵巢囊腫（functional ovarian cyst）大多為良性且具自限性，治療上以保守觀察為主，手術並非第一線處置。<br>(A) 正確，功能性卵巢囊腫主要包括濾泡囊腫（follicular cyst）、黃體囊腫（corpus luteum cyst）及卵囊黃體囊腫（theca lutein cyst）三種<br>(B) 正確，功能性卵巢囊腫均為良性，通常可自行消退<br>(C) 正確，最常見的功能性卵巢囊腫是濾泡囊腫，大多小於 8 cm，通常在 1-3 個月內自行消退<br>(D) 錯誤，功能性卵巢囊腫的主要處置是保守觀察，等待自然消退。手術切除不是主要治療方式，僅在囊腫持續增大、出現扭轉（torsion）或破裂（rupture）等併發症時才考慮手術",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -911,7 +911,7 @@
       "D": "黑色素細胞瘤（melanoma）"
     },
     "answer": "C",
-    "explanation": "腫瘤內含有毛髮、脂肪、皮脂腺等三胚層組織，是成熟性畸胎瘤（mature teratoma）的典型表現；若其中發生惡性轉化（malignant transformation），最常見的組織學類型是解題關鍵。<br>(A) 錯誤，混合癌及肉瘤（mixed carcinoma and sarcoma）不是畸胎瘤惡性轉化的常見型態<br>(B) 錯誤，腺癌（adenocarcinoma）雖可能發生，但不是畸胎瘤惡性轉化最常見的類型<br>(C) 正確，成熟性畸胎瘤惡性轉化中，鱗狀上皮細胞癌（squamous cell carcinoma，SCC）是最常見的惡性病變類型，因畸胎瘤中常含有大量鱗狀上皮成分<br>(D) 錯誤，黑色素細胞瘤（melanoma）可偶發於畸胎瘤中，但非最常見的惡性轉化類型",
+    "explanation": "腫瘤內含有毛髮、脂肪、皮脂腺等三胚層組織，是成熟性畸胎瘤（mature teratoma）的典型表現。若其中發生惡性轉化（malignant transformation），最常見的組織學類型是解題關鍵。<br>(A) 錯誤，混合癌及肉瘤（mixed carcinoma and sarcoma）不是畸胎瘤惡性轉化的常見型態<br>(B) 錯誤，腺癌（adenocarcinoma）雖可能發生，但不是畸胎瘤惡性轉化最常見的類型<br>(C) 正確，成熟性畸胎瘤惡性轉化中，鱗狀上皮細胞癌（squamous cell carcinoma，SCC）是最常見的惡性病變類型，因畸胎瘤中常含有大量鱗狀上皮成分<br>(D) 錯誤，黑色素細胞瘤（melanoma）可偶發於畸胎瘤中，但非最常見的惡性轉化類型",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -928,7 +928,7 @@
       "D": "帶有 FMR1 基因準突變（premutation）會發生原發性卵巢功能不足的機率約在 13%至 26%之間"
     },
     "answer": "C",
-    "explanation": "原發性卵巢功能不足（primary ovarian insufficiency，POI）又稱早發性卵巢衰竭（premature ovarian failure），其病因中可找到明確原因的比例是解題關鍵。<br>(A) 正確，診斷標準為 40 歲以下女性，4 個月以上無月經，且兩次間隔 4 週以上的血清 FSH 值升高至停經範圍（通常 >25 IU/L）<br>(B) 正確，POI 可能原因包括 fragile X syndrome、醫源性（化療、放療、手術）、自體免疫疾病及感染等<br>(C) 錯誤，POI 中約 75-90% 找不到明確原因（特發性，idiopathic），能找到原因的只佔少數（約 10-25%），而非 50%<br>(D) 正確，帶有 FMR1 基因準突變（premutation，55-200 次 CGG 重複）的女性發生 POI 的機率約為 13-26%",
+    "explanation": "原發性卵巢功能不足（primary ovarian insufficiency，POI）又稱早發性卵巢衰竭（premature ovarian failure），其病因中可找到明確原因的比例是解題關鍵。<br>(A) 正確，診斷標準為 40 歲以下女性，4 個月以上無月經，且兩次間隔 4 週以上的血清 FSH 值升高至停經範圍（通常 &gt;25 IU/L）<br>(B) 正確，POI 可能原因包括 fragile X syndrome、醫源性（化療、放療、手術）、自體免疫疾病及感染等<br>(C) 錯誤，POI 中約 75-90% 找不到明確原因（特發性，idiopathic），能找到原因的只佔少數（約 10-25%），而非 50%<br>(D) 正確，帶有 FMR1 基因準突變（premutation，55-200 次 CGG 重複）的女性發生 POI 的機率約為 13-26%",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -945,7 +945,7 @@
       "D": "乳腺癌"
     },
     "answer": "D",
-    "explanation": "高泌乳激素血症（hyperprolactinemia）的原因多樣，包括生理性、藥物性及病理性，需辨別哪個選項最不可能造成泌乳激素升高。<br>(A) 錯誤，甲狀腺功能低下（hypothyroidism）會使 TRH（thyrotropin-releasing hormone）分泌增加，TRH 也會刺激泌乳激素（prolactin）分泌，是高泌乳激素血症的已知原因<br>(B) 錯誤，腦下垂體腺瘤（pituitary adenoma），尤其是泌乳激素瘤（prolactinoma），是高泌乳激素血症最常見的病理性原因<br>(C) 錯誤，多種抗憂鬱藥物（antidepressants），尤其是作用於多巴胺（dopamine）路徑的藥物（如三環抗憂鬱藥），可抑制多巴胺對泌乳激素分泌的抑制作用，導致泌乳激素升高<br>(D) 正確，乳腺癌（breast cancer）不是高泌乳激素血症的原因；雖然乳腺癌的部分亞型對雌激素或泌乳激素有反應性，但乳腺癌本身不會直接造成血清泌乳激素升高",
+    "explanation": "高泌乳激素血症（hyperprolactinemia）的原因多樣，包括生理性、藥物性及病理性，需辨別哪個選項最不可能造成泌乳激素升高。<br>(A) 錯誤，甲狀腺功能低下（hypothyroidism）會使 TRH（thyrotropin-releasing hormone）分泌增加，TRH 也會刺激泌乳激素（prolactin）分泌，是高泌乳激素血症的已知原因<br>(B) 錯誤，腦下垂體腺瘤（pituitary adenoma），尤其是泌乳激素瘤（prolactinoma），是高泌乳激素血症最常見的病理性原因<br>(C) 錯誤，多種抗憂鬱藥物（antidepressants），尤其是作用於多巴胺（dopamine）路徑的藥物（如三環抗憂鬱藥），可抑制多巴胺對泌乳激素分泌的抑制作用，導致泌乳激素升高<br>(D) 正確，乳腺癌（breast cancer）不是高泌乳激素血症的原因。雖然乳腺癌的部分亞型對雌激素或泌乳激素有反應性，但乳腺癌本身不會直接造成血清泌乳激素升高",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -1294,7 +1294,7 @@
       "D": "neck mobility（N）：評估脖子活動度是否正常"
     },
     "answer": "B",
-    "explanation": "LEMON 評估困難氣管插管（difficult airway）時，evaluation 3-3-2 rule 的三項測量各有其對應的解剖結構，數值的解剖意義是解題關鍵。<br>(A) 正確，外觀評估（look externally）包括短下巴、短脖子、肥胖、大舌頭、顏面創傷等可能預測困難插管的外觀特徵<br>(B) 錯誤，3-3-2 rule 的三項測量分別為：張口距離需達 3 個指幅（門齒間距）、下頜骨長度（mentohyoid distance，下巴尖端到舌骨）需達 3 個指幅（非牙齒到下巴下緣），以及舌骨到甲狀軟骨切跡（hyomental distance）需達 2 個指幅；題目將第二項描述為「牙齒到下巴下緣」是錯誤的，正確應為下巴尖端到舌骨的距離<br>(C) 正確，Mallampati 分級（M）是請病人張嘴並伸舌，評估懸壅垂（uvula）及咽喉結構的可見程度<br>(D) 正確，頸部活動度（neck mobility，N）評估頸部伸展是否足夠，頸部僵硬或活動受限會增加插管困難度",
+    "explanation": "LEMON 評估困難氣管插管（difficult airway）時，evaluation 3-3-2 rule 的三項測量各有其對應的解剖結構，數值的解剖意義是解題關鍵。<br>(A) 正確，外觀評估（look externally）包括短下巴、短脖子、肥胖、大舌頭、顏面創傷等可能預測困難插管的外觀特徵<br>(B) 錯誤，3-3-2 rule 的三項測量分別為：張口距離需達 3 個指幅（門齒間距）、下頜骨長度（mentohyoid distance，下巴尖端到舌骨）需達 3 個指幅（非牙齒到下巴下緣），以及舌骨到甲狀軟骨切跡（hyomental distance）需達 2 個指幅。題目將第二項描述為「牙齒到下巴下緣」是錯誤的，正確應為下巴尖端到舌骨的距離<br>(C) 正確，Mallampati 分級（M）是請病人張嘴並伸舌，評估懸壅垂（uvula）及咽喉結構的可見程度<br>(D) 正確，頸部活動度（neck mobility，N）評估頸部伸展是否足夠，頸部僵硬或活動受限會增加插管困難度",
     "tags": [
       "115-1-6",
       "麻醉科"
@@ -1311,7 +1311,7 @@
       "D": "檢驗血中一氧化碳濃度"
     },
     "answer": "C",
-    "explanation": "密閉空間火場吸入性損傷（inhalation injury）合併上呼吸道燒傷的患者，處置優先順序的判斷是解題關鍵，需辨別哪項處置最不適當。<br>(A) 正確，臉部燒傷合併聲音沙啞及喘鳴聲（wheezing/stridor）是上呼吸道水腫即將發生的警示，應儘早置放氣管內管（endotracheal tube）保護呼吸道，避免水腫加重後插管更困難<br>(B) 正確，給予 100% 潮濕氧氣可加速一氧化碳（CO）與血紅素解離，是一氧化碳中毒的標準處置<br>(C) 正確，大量輸液在此情境最不適當；吸入性損傷患者不像皮膚大面積燒傷需要依據 Parkland formula 大量補液，且大量輸液反而可能加重呼吸道水腫（airway edema），使插管更困難甚至呼吸道完全阻塞<br>(D) 正確，密閉火場救出的患者必須檢驗血中一氧化碳濃度（carboxyhemoglobin，COHb），評估一氧化碳中毒嚴重程度",
+    "explanation": "密閉空間火場吸入性損傷（inhalation injury）合併上呼吸道燒傷的患者，處置優先順序的判斷是解題關鍵，需辨別哪項處置最不適當。<br>(A) 正確，臉部燒傷合併聲音沙啞及喘鳴聲（wheezing/stridor）是上呼吸道水腫即將發生的警示，應儘早置放氣管內管（endotracheal tube）保護呼吸道，避免水腫加重後插管更困難<br>(B) 正確，給予 100% 潮濕氧氣可加速一氧化碳（CO）與血紅素解離，是一氧化碳中毒的標準處置<br>(C) 正確，大量輸液在此情境最不適當。吸入性損傷患者不像皮膚大面積燒傷需要依據 Parkland formula 大量補液，且大量輸液反而可能加重呼吸道水腫（airway edema），使插管更困難甚至呼吸道完全阻塞<br>(D) 正確，密閉火場救出的患者必須檢驗血中一氧化碳濃度（carboxyhemoglobin，COHb），評估一氧化碳中毒嚴重程度",
     "tags": [
       "115-1-6",
       "麻醉科"

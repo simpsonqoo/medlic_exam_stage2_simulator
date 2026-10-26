@@ -43,7 +43,7 @@
       "D": "和動脈血氧分壓（PaO2）呈線性關係"
     },
     "answer": "A",
-    "explanation": "脈搏血氧計（pulse oximetry）利用光學原理測量動脈血氧飽和度。<br>(A) 正確，Oxyhemoglobin（含氧血紅素）和deoxyhemoglobin（去氧血紅素）對紅光（660 nm）和紅外光（940 nm）的吸收度不同。Oxyhemoglobin較多吸收紅外光，deoxyhemoglobin較多吸收紅光，透過計算兩種波長的吸收比值來推算血氧飽和度<br>(B) 錯誤，SpO2只能監測氧合狀態（oxygenation），無法監測通氣（ventilation）和酸鹼平衡。通氣問題會影響PaCO2，需要血液氣體分析（ABG）才能評估<br>(C) 錯誤，脈搏血氧計測量的是動脈血，利用脈搏波動（pulsatile flow）區分動脈血和靜脈血、組織的訊號<br>(D) 錯誤，SpO2與PaO2呈S型曲線關係（氧合血紅素解離曲線），並非線性關係。當PaO2在60 mmHg以上時，SpO2變化較小（平台期）；當PaO2低於60 mmHg時，SpO2會快速下降（陡峭期）",
+    "explanation": "脈搏血氧計（pulse oximetry）利用光學原理測量動脈血氧飽和度。<br>(A) 正確，Oxyhemoglobin（含氧血紅素）和deoxyhemoglobin（去氧血紅素）對紅光（660 nm）和紅外光（940 nm）的吸收度不同。Oxyhemoglobin較多吸收紅外光，deoxyhemoglobin較多吸收紅光，透過計算兩種波長的吸收比值來推算血氧飽和度<br>(B) 錯誤，SpO2只能監測氧合狀態（oxygenation），無法監測通氣（ventilation）和酸鹼平衡。通氣問題會影響PaCO2，需要血液氣體分析（ABG）才能評估<br>(C) 錯誤，脈搏血氧計測量的是動脈血，利用脈搏波動（pulsatile flow）區分動脈血和靜脈血、組織的訊號<br>(D) 錯誤，SpO2與PaO2呈S型曲線關係（氧合血紅素解離曲線），並非線性關係。當PaO2在60 mmHg以上時，SpO2變化較小（平台期）。當PaO2低於60 mmHg時，SpO2會快速下降（陡峭期）",
     "tags": [
       "114-1-6",
       "麻醉科"
@@ -94,7 +94,7 @@
       "D": "疼痛（pain）：疼痛嚴重程度是否可以接受"
     },
     "answer": "D",
-    "explanation": "Aldrete評分系統用於評估麻醉後恢復狀況，包含五大項目：活動能力、呼吸、循環、意識、血氧飽和度，每項0-2分。<br>(A) 正確，意識（consciousness）是Aldrete score的評估項目之一：完全清醒2分、可喚醒1分、無反應0分<br>(B) 正確，血液循環（circulation）評估血壓與麻醉前基礎值的差異：差異20% mmHg以內2分、20-49%差異1分、50%以上差異0分<br>(C) 正確，血氧飽和度（oxygen saturation）評估：室內空氣下SpO2 > 92%給2分、需要氧氣維持SpO2 > 90%給1分、即使給氧SpO2 < 90%給0分<br>(D) 錯誤，疼痛控制並不包含在原始的Aldrete評分系統中。Aldrete評分的五個項目是：活動能力（activity/motor function）、呼吸（respiration）、循環（circulation）、意識（consciousness）、血氧飽和度（oxygen saturation）。疼痛評估通常另外進行，但不是轉出恢復室的Aldrete標準之一",
+    "explanation": "Aldrete評分系統用於評估麻醉後恢復狀況，包含五大項目：活動能力、呼吸、循環、意識、血氧飽和度，每項0-2分。<br>(A) 正確，意識（consciousness）是Aldrete score的評估項目之一：完全清醒2分、可喚醒1分、無反應0分<br>(B) 正確，血液循環（circulation）評估血壓與麻醉前基礎值的差異：差異20% mmHg以內2分、20-49%差異1分、50%以上差異0分<br>(C) 正確，血氧飽和度（oxygen saturation）評估：室內空氣下SpO2 &gt; 92%給2分、需要氧氣維持SpO2 &gt; 90%給1分、即使給氧SpO2 &lt; 90%給0分<br>(D) 錯誤，疼痛控制並不包含在原始的Aldrete評分系統中。Aldrete評分的五個項目是：活動能力（activity/motor function）、呼吸（respiration）、循環（circulation）、意識（consciousness）、血氧飽和度（oxygen saturation）。疼痛評估通常另外進行，但不是轉出恢復室的Aldrete標準之一",
     "tags": [
       "114-1-6",
       "麻醉科"
@@ -145,7 +145,7 @@
       "D": "＜100"
     },
     "answer": "B,C",
-    "explanation": "急性呼吸窘迫症候群（ARDS）的診斷根據柏林定義（Berlin definition）分為輕度、中度、重度。<br>ARDS的診斷標準包含急性發作（1週內）、雙側肺部浸潤、非心因性肺水腫，以及氧合指數異常。<br>根據PaO2/FiO2比值（P/F ratio）的嚴重度分級：輕度ARDS為200 < PaO2/FiO2 ≤ 300 mmHg，中度為100 < PaO2/FiO2 ≤ 200 mmHg，重度為PaO2/FiO2 ≤ 100 mmHg，且都需PEEP ≥ 5 cmH2O。<br>因此ARDS的診斷門檻是PaO2/FiO2 ≤ 300 mmHg，選項(B)和(C)都符合不同嚴重度的ARDS定義，故兩者都可作為答案。",
+    "explanation": "急性呼吸窘迫症候群（ARDS）的診斷根據柏林定義（Berlin definition）分為輕度、中度、重度。<br>ARDS的診斷標準包含急性發作（1週內）、雙側肺部浸潤、非心因性肺水腫，以及氧合指數異常。<br>根據PaO2/FiO2比值（P/F ratio）的嚴重度分級：輕度ARDS為200 &lt; PaO2/FiO2 ≤ 300 mmHg，中度為100 &lt; PaO2/FiO2 ≤ 200 mmHg，重度為PaO2/FiO2 ≤ 100 mmHg，且都需PEEP ≥ 5 cmH2O。<br>因此ARDS的診斷門檻是PaO2/FiO2 ≤ 300 mmHg，選項(B)和(C)都符合不同嚴重度的ARDS定義，故兩者都可作為答案。",
     "tags": [
       "114-1-6",
       "麻醉科"
@@ -230,7 +230,7 @@
       "D": "年紀愈大者愈容易轉化成青光眼"
     },
     "answer": "B",
-    "explanation": "高眼壓症（ocular hypertension, OHT）轉化為青光眼的危險因子已經由Ocular Hypertension Treatment Study（OHTS）明確定義。<br>(A) 正確，眼壓越高，轉化為青光眼的風險越大。每增加1 mmHg眼壓，風險增加約10%<br>(B) 錯誤，中央角膜厚度（CCT）越薄才越容易轉化成青光眼。薄的角膜（< 555 μm）是重要的危險因子，可能反映視神經較脆弱或眼壓測量被低估。厚的角膜（> 588 μm）反而是保護因子，轉化風險較低<br>(C) 正確，視神經的杯盤比（cup-to-disc ratio）越大，代表視神經盤凹陷越深，視網膜神經纖維層越薄，轉化為青光眼的風險越高。垂直杯盤比 > 0.5是危險因子<br>(D) 正確，年齡越大，轉化為青光眼的風險越高。年紀較大的組織修復能力較差，視神經對壓力的耐受性降低",
+    "explanation": "高眼壓症（ocular hypertension, OHT）轉化為青光眼的危險因子已經由Ocular Hypertension Treatment Study（OHTS）明確定義。<br>(A) 正確，眼壓越高，轉化為青光眼的風險越大。每增加1 mmHg眼壓，風險增加約10%<br>(B) 錯誤，中央角膜厚度（CCT）越薄才越容易轉化成青光眼。薄的角膜（&lt; 555 μm）是重要的危險因子，可能反映視神經較脆弱或眼壓測量被低估。厚的角膜（&gt; 588 μm）反而是保護因子，轉化風險較低<br>(C) 正確，視神經的杯盤比（cup-to-disc ratio）越大，代表視神經盤凹陷越深，視網膜神經纖維層越薄，轉化為青光眼的風險越高。垂直杯盤比 &gt; 0.5是危險因子<br>(D) 正確，年齡越大，轉化為青光眼的風險越高。年紀較大的組織修復能力較差，視神經對壓力的耐受性降低",
     "tags": [
       "114-1-6",
       "眼科"
@@ -298,7 +298,7 @@
       "D": "當孩童發生眼窩底外破性骨折（orbital floor blow out fracture），並合併複視（diplopia）、噁心、嘔吐、心跳減慢等oculocardiac反射時，必須進行緊急手術"
     },
     "answer": "B",
-    "explanation": "眼窩外破性骨折是鈍傷造成眼窩內壓力突然增加，導致眼窩壁骨折但眼窩邊緣完整。<br>(A) 正確，網球（直徑約6.7 cm）比小彈珠（直徑約1.5 cm）更容易造成眼窩外破性骨折。因為網球大小與眼窩接近，撞擊時會壓迫眼球並增加眼窩內壓力，導致薄弱的眼窩壁骨折；小彈珠則可能直接撞擊眼球造成眼球破裂<br>(B) 錯誤，眼窩外破性骨折最好發的部位是眼窩底（orbital floor）和眼窩內壁（orbital medial wall），而非外壁（lateral wall）。眼窩底和內壁的骨頭較薄（薄如紙的篩骨lamina papyracea），是最容易骨折的部位。眼窩外壁（顴骨和蝶骨大翼）較厚，不易發生外破性骨折<br>(C) 正確，如果受傷後一週評估發現複視（diplopia）情況逐漸改善、眼球運動限制減輕、沒有enophthalmos惡化，可以繼續觀察而不立即手術。許多輕度骨折會自行癒合<br>(D) 正確，兒童的眼窩底骨折若發生trapdoor fracture（活板門骨折），眼外肌（通常是下直肌inferior rectus muscle）被夾在骨折處，會出現劇烈複視、噁心嘔吐、心跳減慢等oculocardiac reflex（眼心反射），這是外科急症，需要緊急手術釋放被夾住的肌肉，以免缺血壞死",
+    "explanation": "眼窩外破性骨折是鈍傷造成眼窩內壓力突然增加，導致眼窩壁骨折但眼窩邊緣完整。<br>(A) 正確，網球（直徑約6.7 cm）比小彈珠（直徑約1.5 cm）更容易造成眼窩外破性骨折。因為網球大小與眼窩接近，撞擊時會壓迫眼球並增加眼窩內壓力，導致薄弱的眼窩壁骨折。小彈珠則可能直接撞擊眼球造成眼球破裂<br>(B) 錯誤，眼窩外破性骨折最好發的部位是眼窩底（orbital floor）和眼窩內壁（orbital medial wall），而非外壁（lateral wall）。眼窩底和內壁的骨頭較薄（薄如紙的篩骨lamina papyracea），是最容易骨折的部位。眼窩外壁（顴骨和蝶骨大翼）較厚，不易發生外破性骨折<br>(C) 正確，如果受傷後一週評估發現複視（diplopia）情況逐漸改善、眼球運動限制減輕、沒有enophthalmos惡化，可以繼續觀察而不立即手術。許多輕度骨折會自行癒合<br>(D) 正確，兒童的眼窩底骨折若發生trapdoor fracture（活板門骨折），眼外肌（通常是下直肌inferior rectus muscle）被夾在骨折處，會出現劇烈複視、噁心嘔吐、心跳減慢等oculocardiac reflex（眼心反射），這是外科急症，需要緊急手術釋放被夾住的肌肉，以免缺血壞死",
     "tags": [
       "114-1-6",
       "眼科"
@@ -472,7 +472,7 @@
       "D": "可存活的多胞胎妊娠（viable multiple pregnancy）"
     },
     "answer": "B",
-    "explanation": "血清黃體素（progesterone）濃度在早期懷孕可以反映黃體功能和胚胎存活狀況。<br>黃體素的判讀標準：> 25 ng/mL幾乎可確定為可存活的子宮內懷孕；5-25 ng/mL為不確定，需追蹤β-hCG和超音波；< 5 ng/mL強烈提示無法存活的懷孕（流產或異位妊娠）。<br>(A) 錯誤，生理性黃體衰退（physiologic corpus luteum decline）發生在未懷孕時，此時尿液懷孕試驗應為陰性。懷孕時黃體會持續分泌黃體素至少6-8週，直到胎盤接手<br>(B) 正確，血清黃體素 < 5 ng/mL在懷孕試驗陽性的情況下，強烈提示無法存活的懷孕（nonviable pregnancy），包括流產（threatened, inevitable, incomplete, or complete abortion）、萎縮卵（blighted ovum/anembryonic pregnancy）、異位妊娠（ectopic pregnancy）和生化妊娠（biochemical pregnancy）<br>(C) 錯誤，可存活的子宮內懷孕（viable intrauterine pregnancy）的黃體素通常 > 10-25 ng/mL，黃體功能正常才能維持早期妊娠<br>(D) 錯誤，可存活的多胞胎妊娠（viable multiple pregnancy）黃體素值通常更高，因為有多個胚胎刺激更多黃體素分泌",
+    "explanation": "血清黃體素（progesterone）濃度在早期懷孕可以反映黃體功能和胚胎存活狀況。<br>黃體素的判讀標準：&gt; 25 ng/mL幾乎可確定為可存活的子宮內懷孕，5-25 ng/mL為不確定，需追蹤β-hCG和超音波。&lt; 5 ng/mL強烈提示無法存活的懷孕（流產或異位妊娠）。<br>(A) 錯誤，生理性黃體衰退（physiologic corpus luteum decline）發生在未懷孕時，此時尿液懷孕試驗應為陰性。懷孕時黃體會持續分泌黃體素至少6-8週，直到胎盤接手<br>(B) 正確，血清黃體素 &lt; 5 ng/mL在懷孕試驗陽性的情況下，強烈提示無法存活的懷孕（nonviable pregnancy），包括流產（threatened, inevitable, incomplete, or complete abortion）、萎縮卵（blighted ovum/anembryonic pregnancy）、異位妊娠（ectopic pregnancy）和生化妊娠（biochemical pregnancy）<br>(C) 錯誤，可存活的子宮內懷孕（viable intrauterine pregnancy）的黃體素通常 &gt; 10-25 ng/mL，黃體功能正常才能維持早期妊娠<br>(D) 錯誤，可存活的多胞胎妊娠（viable multiple pregnancy）黃體素值通常更高，因為有多個胚胎刺激更多黃體素分泌",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -489,7 +489,7 @@
       "D": "子宮切開術並移除子宮內組織（hysterotomy and evacuation）"
     },
     "answer": "B",
-    "explanation": "葡萄胎（molar pregnancy）是妊娠滋養層疾病（gestational trophoblastic disease），包括完全性葡萄胎和部分性葡萄胎，需要及時處理以避免惡性轉化。<br>(A) 錯誤，觀察（observation）不適當。葡萄胎診斷確立後應盡快移除，因為β-hCG會持續升高，可能發展成侵襲性葡萄胎（invasive mole）或絨毛膜癌（choriocarcinoma），也可能併發甲狀腺亢進、子癇前症等<br>(B) 正確，抽吸式子宮腔搔刮手術（suction curettage或suction dilation and curettage）是葡萄胎的首選治療方式：安全有效，可以完整移除葡萄胎組織並保留子宮，適合希望保留生育能力的年輕女性；手術時應準備好oxytocin以減少出血，術後需要密切追蹤β-hCG至正常並持續監測至少6個月<br>(C) 錯誤，子宮切除術（hysterectomy）只適用於已完成生育的婦女、有子宮穿孔或無法控制的出血，或高風險的侵襲性疾病；對於22歲G1P0的年輕女性，保留生育能力是重要考量<br>(D) 錯誤，子宮切開術（hysterotomy）是剖腹產的術式，完全不適用於葡萄胎治療，且會增加出血和感染風險",
+    "explanation": "葡萄胎（molar pregnancy）是妊娠滋養層疾病（gestational trophoblastic disease），包括完全性葡萄胎和部分性葡萄胎，需要及時處理以避免惡性轉化。<br>(A) 錯誤，觀察（observation）不適當。葡萄胎診斷確立後應盡快移除，因為β-hCG會持續升高，可能發展成侵襲性葡萄胎（invasive mole）或絨毛膜癌（choriocarcinoma），也可能併發甲狀腺亢進、子癇前症等<br>(B) 正確，抽吸式子宮腔搔刮手術（suction curettage或suction dilation and curettage）是葡萄胎的首選治療方式：安全有效，可以完整移除葡萄胎組織並保留子宮，適合希望保留生育能力的年輕女性。手術時應準備好oxytocin以減少出血，術後需要密切追蹤β-hCG至正常並持續監測至少6個月<br>(C) 錯誤，子宮切除術（hysterectomy）只適用於已完成生育的婦女、有子宮穿孔或無法控制的出血，或高風險的侵襲性疾病。對於22歲G1P0的年輕女性，保留生育能力是重要考量<br>(D) 錯誤，子宮切開術（hysterotomy）是剖腹產的術式，完全不適用於葡萄胎治療，且會增加出血和感染風險",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -506,7 +506,7 @@
       "D": "減痛分娩可能會使產程延長"
     },
     "answer": "A",
-    "explanation": "產程異常（abnormal labor）的定義根據Friedman曲線和現代產科標準有所演變。<br>(A) 錯誤，Prolonged latent phase（潛伏期延長）的定義是初產婦（nulliparous）潛伏期 > 20小時（不是14小時），經產婦（multiparous）潛伏期 > 14小時；潛伏期是指規則宮縮開始至子宮頸擴張到4-6公分的階段<br>(B) 正確，Protracted active-phase dilation（活動期延長）是活動期（active phase）子宮頸擴張進展過慢，定義為初產婦子宮頸擴張速度 < 1.2 cm/hr，經產婦 < 1.5 cm/hr（此為傳統Friedman標準；現代ACOG標準診斷活動期停滯的條件是子宮頸擴張≥6公分後，宮縮足夠時4小時無進展，宮縮不足時給予oxytocin 6小時仍無進展）<br>(C) 正確，產程異常時需評估「3P」：Power（子宮收縮力量，評估宮縮頻率、強度、持續時間）、Passenger（胎兒，評估胎兒大小、胎位、胎勢）、Passage（骨盆腔，評估是否有cephalopelvic disproportion（頭盆不對稱CPD））<br>(D) 正確，減痛分娩（epidural analgesia）可能使產程延長，包括延長第二產程（用力階段）、增加器械助產（forceps或vacuum）的使用率，但根據現代研究不會增加剖腹產率",
+    "explanation": "產程異常（abnormal labor）的定義根據Friedman曲線和現代產科標準有所演變。<br>(A) 錯誤，Prolonged latent phase（潛伏期延長）的定義是初產婦（nulliparous）潛伏期 &gt; 20小時（不是14小時），經產婦（multiparous）潛伏期 &gt; 14小時。潛伏期是指規則宮縮開始至子宮頸擴張到4-6公分的階段<br>(B) 正確，Protracted active-phase dilation（活動期延長）是活動期（active phase）子宮頸擴張進展過慢，定義為初產婦子宮頸擴張速度 &lt; 1.2 cm/hr，經產婦 &lt; 1.5 cm/hr（此為傳統Friedman標準，現代ACOG標準診斷活動期停滯的條件是子宮頸擴張≥6公分後，宮縮足夠時4小時無進展，宮縮不足時給予oxytocin 6小時仍無進展）<br>(C) 正確，產程異常時需評估「3P」：Power（子宮收縮力量，評估宮縮頻率、強度、持續時間）、Passenger（胎兒，評估胎兒大小、胎位、胎勢）、Passage（骨盆腔，評估是否有cephalopelvic disproportion（頭盆不對稱CPD））<br>(D) 正確，減痛分娩（epidural analgesia）可能使產程延長，包括延長第二產程（用力階段）、增加器械助產（forceps或vacuum）的使用率，但根據現代研究不會增加剖腹產率",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -540,7 +540,7 @@
       "D": "常須切除子宮以幫忙止血"
     },
     "answer": "D",
-    "explanation": "Couvelaire子宮（Couvelaire uterus或uteroplacental apoplexy）是胎盤早期剝離（placental abruption）的嚴重併發症。<br>(A) 正確，Couvelaire子宮是胎盤早期剝離（abruptio placentae）的特徵性表現，在剖腹產或子宮切除時可見<br>(B) 正確，病理機轉是廣泛的血液外滲（extravasation）：胎盤剝離處大量出血，血液穿透子宮肌層（myometrium）並浸潤至子宮漿膜層（serosa），使子宮外觀呈現紫藍色瘀斑（ecchymotic appearance）<br>(C) 正確，雖然子宮外觀嚇人，但Couvelaire子宮很少（rarely）造成子宮收縮乏力（uterine atony）。子宮肌肉的收縮功能通常不受影響，產後出血主要來自胎盤剝離處和凝血功能異常（DIC）<br>(D) 錯誤，Couvelaire子宮通常不需要切除子宮。處理原則包括盡快娩出胎兒、積極使用子宮收縮劑（oxytocin、methylergonovine、carboprost）、糾正凝血功能異常；大多數情況下子宮可以正常收縮止血，只有在無法控制的產後出血且其他方法無效時才考慮子宮切除",
+    "explanation": "Couvelaire子宮（Couvelaire uterus或uteroplacental apoplexy）是胎盤早期剝離（placental abruption）的嚴重併發症。<br>(A) 正確，Couvelaire子宮是胎盤早期剝離（abruptio placentae）的特徵性表現，在剖腹產或子宮切除時可見<br>(B) 正確，病理機轉是廣泛的血液外滲（extravasation）：胎盤剝離處大量出血，血液穿透子宮肌層（myometrium）並浸潤至子宮漿膜層（serosa），使子宮外觀呈現紫藍色瘀斑（ecchymotic appearance）<br>(C) 正確，雖然子宮外觀嚇人，但Couvelaire子宮很少（rarely）造成子宮收縮乏力（uterine atony）。子宮肌肉的收縮功能通常不受影響，產後出血主要來自胎盤剝離處和凝血功能異常（DIC）<br>(D) 錯誤，Couvelaire子宮通常不需要切除子宮。處理原則包括盡快娩出胎兒、積極使用子宮收縮劑（oxytocin、methylergonovine、carboprost）、糾正凝血功能異常，大多數情況下子宮可以正常收縮止血，只有在無法控制的產後出血且其他方法無效時才考慮子宮切除",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -557,7 +557,7 @@
       "D": "可檢測子宮內胎兒感染或評估胎兒肺部成熟狀況"
     },
     "answer": "A",
-    "explanation": "羊膜穿刺（amniocentesis）是產前診斷的常用侵入性檢查，用於染色體分析、基因檢測或評估胎兒成熟度。<br>(A) 錯誤，羊膜穿刺造成流產的最常見原因並非胎兒刺傷，而是感染（chorioamnionitis）、羊膜破裂導致羊水滲漏、引發宮縮導致流產，以及胎盤或臍帶出血；實際上，在超音波導引下進行羊膜穿刺，胎兒刺傷極為罕見，因為可以即時看到胎兒位置並避開<br>(B) 正確，羊膜穿刺相關的流產風險約為0.1%～0.3%（1/300～1/1000），遠低於早期報告的1%。隨著超音波技術進步和操作經驗累積，風險已大幅降低<br>(C) 正確，羊膜穿刺通常在懷孕15～20週之間執行，此時羊水量足夠（約150-200 mL）、胎兒細胞培養成功率高，且仍有足夠時間做決策；早期羊膜穿刺（11-14週）流產風險較高，目前較少使用<br>(D) 正確，羊膜穿刺可用於染色體分析（如唐氏症篩檢）、基因檢測、檢測子宮內感染（如toxoplasmosis、CMV）、評估胎兒肺部成熟度（lecithin/sphingomyelin ratio, L/S ratio），以及診斷胎兒溶血性疾病",
+    "explanation": "羊膜穿刺（amniocentesis）是產前診斷的常用侵入性檢查，用於染色體分析、基因檢測或評估胎兒成熟度。<br>(A) 錯誤，羊膜穿刺造成流產的最常見原因並非胎兒刺傷，而是感染（chorioamnionitis）、羊膜破裂導致羊水滲漏、引發宮縮導致流產，以及胎盤或臍帶出血。實際上，在超音波導引下進行羊膜穿刺，胎兒刺傷極為罕見，因為可以即時看到胎兒位置並避開<br>(B) 正確，羊膜穿刺相關的流產風險約為0.1%～0.3%（1/300～1/1000），遠低於早期報告的1%。隨著超音波技術進步和操作經驗累積，風險已大幅降低<br>(C) 正確，羊膜穿刺通常在懷孕15～20週之間執行，此時羊水量足夠（約150-200 mL）、胎兒細胞培養成功率高，且仍有足夠時間做決策。早期羊膜穿刺（11-14週）流產風險較高，目前較少使用<br>(D) 正確，羊膜穿刺可用於染色體分析（如唐氏症篩檢）、基因檢測、檢測子宮內感染（如toxoplasmosis、CMV）、評估胎兒肺部成熟度（lecithin/sphingomyelin ratio, L/S ratio），以及診斷胎兒溶血性疾病",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -594,7 +594,7 @@
       "D": "前胎剖腹且子宮為vertical hysterotomy incision"
     },
     "answer": "C",
-    "explanation": "剖腹產（cesarean section）適應症多為母體或胎兒有立即危險、或陰道生產禁忌之情況；臍帶繞頸（nuchal cord）在生產中很常見，多數不影響陰道生產，並非剖腹產的絕對適應症。<br> (A) 正確，急性胎兒窘迫（acute fetal distress）屬產科急症，需緊急剖腹產以避免胎兒缺氧。<br> (B) 正確，胎盤早期剝離（placental abruption）會危及母胎生命，通常需緊急剖腹產。<br> (C) 錯誤，臍帶繞頸（nuchal cord）極常見，多數可經由陰道生產處理，非剖腹產適應症。<br> (D) 正確，前胎為垂直子宮切開（vertical/classical hysterotomy incision）者，子宮破裂風險高，此胎應剖腹產。",
+    "explanation": "剖腹產（cesarean section）適應症多為母體或胎兒有立即危險、或陰道生產禁忌之情況，臍帶繞頸（nuchal cord）在生產中很常見，多數不影響陰道生產，並非剖腹產的絕對適應症。<br> (A) 正確，急性胎兒窘迫（acute fetal distress）屬產科急症，需緊急剖腹產以避免胎兒缺氧。<br> (B) 正確，胎盤早期剝離（placental abruption）會危及母胎生命，通常需緊急剖腹產。<br> (C) 錯誤，臍帶繞頸（nuchal cord）極常見，多數可經由陰道生產處理，非剖腹產適應症。<br> (D) 正確，前胎為垂直子宮切開（vertical/classical hysterotomy incision）者，子宮破裂風險高，此胎應剖腹產。",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -611,7 +611,7 @@
       "D": "X染色體易碎症候群（fragile X syndrome）"
     },
     "answer": "C",
-    "explanation": "遺傳疾病的遺傳模式影響家族發生率和遺傳諮詢。<br>(A) 錯誤，囊性纖維變性（cystic fibrosis）是體染色體隱性遺傳（autosomal recessive），由CFTR基因突變引起，需要兩個突變的等位基因才會發病<br>(B) 錯誤，高胱胺酸尿症（homocystinuria）是體染色體隱性遺傳（autosomal recessive），最常見是由CBS基因（cystathionine beta-synthase）突變引起<br>(C) 正確，神經纖維瘤病（neurofibromatosis）是體染色體顯性遺傳（autosomal dominant）：NF1型（von Recklinghausen disease）為NF1基因突變，位於17號染色體；NF2型為NF2基因突變，位於22號染色體；只需要一個突變的等位基因即可發病，約50%是新突變（de novo mutation），表現度差異大（variable expressivity）<br>(D) 錯誤，X染色體易碎症候群（fragile X syndrome）是X染色體連鎖遺傳（X-linked），由FMR1基因的CGG三核苷酸重複擴增引起，是最常見的遺傳性智能障礙原因",
+    "explanation": "遺傳疾病的遺傳模式影響家族發生率和遺傳諮詢。<br>(A) 錯誤，囊性纖維變性（cystic fibrosis）是體染色體隱性遺傳（autosomal recessive），由CFTR基因突變引起，需要兩個突變的等位基因才會發病<br>(B) 錯誤，高胱胺酸尿症（homocystinuria）是體染色體隱性遺傳（autosomal recessive），最常見是由CBS基因（cystathionine beta-synthase）突變引起<br>(C) 正確，神經纖維瘤病（neurofibromatosis）是體染色體顯性遺傳（autosomal dominant）：NF1型（von Recklinghausen disease）為NF1基因突變，位於17號染色體。NF2型為NF2基因突變，位於22號染色體。只需要一個突變的等位基因即可發病，約50%是新突變（de novo mutation），表現度差異大（variable expressivity）<br>(D) 錯誤，X染色體易碎症候群（fragile X syndrome）是X染色體連鎖遺傳（X-linked），由FMR1基因的CGG三核苷酸重複擴增引起，是最常見的遺傳性智能障礙原因",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -628,7 +628,7 @@
       "D": "生產後，此孕婦的妊娠糖尿病就算已經治癒了，往後不用做任何追蹤"
     },
     "answer": "C",
-    "explanation": "妊娠糖尿病（gestational diabetes mellitus, GDM）會增加巨嬰症和相關併發症的風險。<br>(A) 錯誤，產前血糖控制一定不夠良好。新生兒體重4,800公克是巨嬰症（macrosomia，定義為出生體重 > 4,000-4,500公克），這強烈提示血糖控制不佳，胎兒長期暴露於高血糖環境，胰島素分泌增加而促進生長<br>(B) 錯誤，此新生兒出生後數小時內很可能會有新生兒低血糖（neonatal hypoglycemia）而非高血糖：胎兒在子宮內長期高血糖刺激胰島素分泌增加，出生後突然切斷母體葡萄糖供應，新生兒胰島素仍處於高分泌狀態，導致出生後低血糖（血糖 < 40-45 mg/dL），需要密切監測血糖並及時餵食或靜脈輸注葡萄糖<br>(C) 正確，此新生兒很有可能經歷了肩難產（shoulder dystocia）：巨嬰症是肩難產的主要危險因子，體重 > 4,500公克的肩難產風險顯著增加，GDM的巨嬰症胎兒肩膀和軀幹相對更大（不對稱性巨嬰），可能導致鎖骨骨折、臂神經叢損傷（brachial plexus injury如Erb's palsy）<br>(D) 錯誤，妊娠糖尿病產後並未治癒，需要持續追蹤：產後4-12週應進行75克OGTT篩檢，之後每1-3年追蹤血糖，因為GDM婦女日後發展成第2型糖尿病的終身累積風險約50-70%；也建議體重控制、運動和健康飲食",
+    "explanation": "妊娠糖尿病（gestational diabetes mellitus, GDM）會增加巨嬰症和相關併發症的風險。<br>(A) 錯誤，產前血糖控制一定不夠良好。新生兒體重4,800公克是巨嬰症（macrosomia，定義為出生體重 &gt; 4,000-4,500公克），這強烈提示血糖控制不佳，胎兒長期暴露於高血糖環境，胰島素分泌增加而促進生長<br>(B) 錯誤，此新生兒出生後數小時內很可能會有新生兒低血糖（neonatal hypoglycemia）而非高血糖：胎兒在子宮內長期高血糖刺激胰島素分泌增加，出生後突然切斷母體葡萄糖供應，新生兒胰島素仍處於高分泌狀態，導致出生後低血糖（血糖 &lt; 40-45 mg/dL），需要密切監測血糖並及時餵食或靜脈輸注葡萄糖<br>(C) 正確，此新生兒很有可能經歷了肩難產（shoulder dystocia）：巨嬰症是肩難產的主要危險因子，體重 &gt; 4,500公克的肩難產風險顯著增加，GDM的巨嬰症胎兒肩膀和軀幹相對更大（不對稱性巨嬰），可能導致鎖骨骨折、臂神經叢損傷（brachial plexus injury如Erb's palsy）<br>(D) 錯誤，妊娠糖尿病產後並未治癒，需要持續追蹤：產後4-12週應進行75克OGTT篩檢，之後每1-3年追蹤血糖，因為GDM婦女日後發展成第2型糖尿病的終身累積風險約50-70%。也建議體重控制、運動和健康飲食",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -645,7 +645,7 @@
       "D": "血小板低下"
     },
     "answer": "C",
-    "explanation": "嚴重子癇前症（severe preeclampsia）的診斷標準包括血壓嚴重升高或有器官功能異常的證據。<br>子癇前症的嚴重特徵（severe features）包括：血壓（收縮壓≥160或舒張壓≥110 mmHg）、血小板低下（< 100,000/μL）、肝功能異常（肝酵素升高≥2倍正常值）、腎功能異常（肌酸酐 > 1.1 mg/dL或倍增）、肺水腫、新發生的頭痛或視覺症狀，以及上腹痛。<br>(A) 正確，上腹痛（epigastric pain）或右上腹痛是嚴重子癇前症的警訊，可能反映肝臟腫脹或肝包膜伸展，也可能是HELLP syndrome的表現，需要緊急評估<br>(B) 正確，寡尿（oliguria，尿量 < 500 mL/24小時）反映腎功能受損，可見腎絲球內皮細胞受損（glomerular endotheliosis）和腎血流減少，可能進展為急性腎衰竭<br>(C) 錯誤，胰臟功能異常不是子癇前症的典型合併症。子癇前症主要影響肝臟（肝功能異常、HELLP syndrome）、腎臟（蛋白尿、腎功能異常）、腦部（子癇、腦出血、後可逆性腦病變症候群PRES）、血液系統（血小板低下、DIC）和心血管系統（高血壓、肺水腫）<br>(D) 正確，血小板低下（thrombocytopenia）是嚴重子癇前症的重要特徵，可能單獨出現或合併HELLP syndrome；血小板 < 100,000/μL定義為嚴重，反映微血管病變和凝血功能異常",
+    "explanation": "嚴重子癇前症（severe preeclampsia）的診斷標準包括血壓嚴重升高或有器官功能異常的證據。<br>子癇前症的嚴重特徵（severe features）包括：血壓（收縮壓≥160或舒張壓≥110 mmHg）、血小板低下（&lt; 100,000/μL）、肝功能異常（肝酵素升高≥2倍正常值）、腎功能異常（肌酸酐 &gt; 1.1 mg/dL或倍增）、肺水腫、新發生的頭痛或視覺症狀，以及上腹痛。<br>(A) 正確，上腹痛（epigastric pain）或右上腹痛是嚴重子癇前症的警訊，可能反映肝臟腫脹或肝包膜伸展，也可能是HELLP syndrome的表現，需要緊急評估<br>(B) 正確，寡尿（oliguria，尿量 &lt; 500 mL/24小時）反映腎功能受損，可見腎絲球內皮細胞受損（glomerular endotheliosis）和腎血流減少，可能進展為急性腎衰竭<br>(C) 錯誤，胰臟功能異常不是子癇前症的典型合併症。子癇前症主要影響肝臟（肝功能異常、HELLP syndrome）、腎臟（蛋白尿、腎功能異常）、腦部（子癇、腦出血、後可逆性腦病變症候群PRES）、血液系統（血小板低下、DIC）和心血管系統（高血壓、肺水腫）<br>(D) 正確，血小板低下（thrombocytopenia）是嚴重子癇前症的重要特徵，可能單獨出現或合併HELLP syndrome。血小板 &lt; 100,000/μL定義為嚴重，反映微血管病變和凝血功能異常",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -662,7 +662,7 @@
       "D": "Azithromycin，1g，單一劑量口服"
     },
     "answer": "D",
-    "explanation": "砂眼披衣菌（Chlamydia trachomatis）是常見的性傳染病，孕期感染可能導致早產、早期破水和新生兒感染。<br>(A) 錯誤，Amoxicillin是孕期可安全使用的藥物，但在孕期披衣菌感染只列為替代療法（500 mg每日三次，共7天），不是首選治療<br>(B) 錯誤，Erythromycin是過去孕期披衣菌感染的治療選項之一，但需要每日四次服用7天，順從性較差，胃腸道副作用多（噁心、嘔吐、腹痛），目前已不是首選<br>(C) 錯誤，Benzathine penicillin G是梅毒（syphilis）的治療，對披衣菌無效。披衣菌是細胞內病原體，penicillin無法穿透細胞膜<br>(D) 正確，Azithromycin 1g單一劑量口服是孕期披衣菌感染的首選治療：單一劑量、順從性佳，孕期使用安全性高，療效與doxycycline相當（但doxycycline在第二、三孕期禁用），胃腸道副作用較erythromycin少；治療後約4週應進行test of cure確認治癒，性伴侶也需要同時治療",
+    "explanation": "砂眼披衣菌（Chlamydia trachomatis）是常見的性傳染病，孕期感染可能導致早產、早期破水和新生兒感染。<br>(A) 錯誤，Amoxicillin是孕期可安全使用的藥物，但在孕期披衣菌感染只列為替代療法（500 mg每日三次，共7天），不是首選治療<br>(B) 錯誤，Erythromycin是過去孕期披衣菌感染的治療選項之一，但需要每日四次服用7天，順從性較差，胃腸道副作用多（噁心、嘔吐、腹痛），目前已不是首選<br>(C) 錯誤，Benzathine penicillin G是梅毒（syphilis）的治療，對披衣菌無效。披衣菌是細胞內病原體，penicillin無法穿透細胞膜<br>(D) 正確，Azithromycin 1g單一劑量口服是孕期披衣菌感染的首選治療：單一劑量、順從性佳，孕期使用安全性高，療效與doxycycline相當（但doxycycline在第二、三孕期禁用），胃腸道副作用較erythromycin少。治療後約4週應進行test of cure確認治癒，性伴侶也需要同時治療",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -753,7 +753,7 @@
       "D": "重複性流產，是使用診斷式子宮鏡檢查的時機"
     },
     "answer": "C",
-    "explanation": "診斷式子宮鏡檢查（diagnostic hysteroscopy）是直接觀察子宮腔內部的內視鏡檢查。<br>(A) 正確，子宮鏡可以直接觀察子宮腔內的結構，比子宮輸卵管攝影（hysterosalpingography, HSG）更能清楚評估子宮腔內的息肉、肌瘤、沾黏、中膈等異常，診斷準確度更高<br>(B) 正確，停經後出血（postmenopausal bleeding）是使用診斷式子宮鏡的重要時機，可以直接觀察子宮內膜並取樣切片，排除子宮內膜癌或其他病變<br>(C) 錯誤，診斷式子宮鏡檢查通常不需要麻醉就可以進行。使用細徑子宮鏡（< 5 mm）在門診即可執行，大多數病人只有輕微不適，類似經痛的感覺。只有在病人無法耐受、需要進行治療性操作（如息肉切除、肌瘤切除）或子宮頸狹窄時才需要麻醉<br>(D) 正確，重複性流產（recurrent pregnancy loss）是使用診斷式子宮鏡的適應症，可以檢查是否有子宮腔異常如中膈、沾黏（Asherman's syndrome）、黏膜下肌瘤等可能導致流產的結構問題",
+    "explanation": "診斷式子宮鏡檢查（diagnostic hysteroscopy）是直接觀察子宮腔內部的內視鏡檢查。<br>(A) 正確，子宮鏡可以直接觀察子宮腔內的結構，比子宮輸卵管攝影（hysterosalpingography, HSG）更能清楚評估子宮腔內的息肉、肌瘤、沾黏、中膈等異常，診斷準確度更高<br>(B) 正確，停經後出血（postmenopausal bleeding）是使用診斷式子宮鏡的重要時機，可以直接觀察子宮內膜並取樣切片，排除子宮內膜癌或其他病變<br>(C) 錯誤，診斷式子宮鏡檢查通常不需要麻醉就可以進行。使用細徑子宮鏡（&lt; 5 mm）在門診即可執行，大多數病人只有輕微不適，類似經痛的感覺。只有在病人無法耐受、需要進行治療性操作（如息肉切除、肌瘤切除）或子宮頸狹窄時才需要麻醉<br>(D) 正確，重複性流產（recurrent pregnancy loss）是使用診斷式子宮鏡的適應症，可以檢查是否有子宮腔異常如中膈、沾黏（Asherman's syndrome）、黏膜下肌瘤等可能導致流產的結構問題",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -923,7 +923,7 @@
       "D": "同一次月經週期做二次人工授精（double IUI），比起單一次人工授精（single IUI）懷孕率更高"
     },
     "answer": "D",
-    "explanation": "人工授精是將處理過的精蟲直接注入子宮腔的助孕技術，適用於輕度男性因素、子宮頸因素或不明原因不孕。<br>(A) 正確，總活動精蟲數（total motile sperm count, TMSC）是預測IUI成功率的重要指標。若TMSC < 1,000萬，IUI成功率顯著下降，可能需要考慮試管嬰兒（IVF）等其他治療<br>(B) 正確，精蟲處理過程包括洗滌去除精漿、濃縮活動力好的精蟲，最後濃縮至約0.3-0.5 mL，再以導管經由子宮頸送入子宮腔，減少精漿引起的子宮收縮和不適<br>(C) 正確，人工授精的平均懷孕率約每週期10-15%，受多種因素影響包括女性年齡、不孕原因、精蟲品質等。通常建議嘗試3-6個週期，累積懷孕率可達30-40%<br>(D) 錯誤，同一週期進行兩次人工授精（double IUI，通常在排卵前後各一次）相較於單次人工授精（single IUI），並未顯著提高懷孕率。多數研究顯示兩者的懷孕率相近，double IUI增加成本和不便但效益有限，因此目前不常規建議",
+    "explanation": "人工授精是將處理過的精蟲直接注入子宮腔的助孕技術，適用於輕度男性因素、子宮頸因素或不明原因不孕。<br>(A) 正確，總活動精蟲數（total motile sperm count, TMSC）是預測IUI成功率的重要指標。若TMSC &lt; 1,000萬，IUI成功率顯著下降，可能需要考慮試管嬰兒（IVF）等其他治療<br>(B) 正確，精蟲處理過程包括洗滌去除精漿、濃縮活動力好的精蟲，最後濃縮至約0.3-0.5 mL，再以導管經由子宮頸送入子宮腔，減少精漿引起的子宮收縮和不適<br>(C) 正確，人工授精的平均懷孕率約每週期10-15%，受多種因素影響包括女性年齡、不孕原因、精蟲品質等。通常建議嘗試3-6個週期，累積懷孕率可達30-40%<br>(D) 錯誤，同一週期進行兩次人工授精（double IUI，通常在排卵前後各一次）相較於單次人工授精（single IUI），並未顯著提高懷孕率。多數研究顯示兩者的懷孕率相近，double IUI增加成本和不便但效益有限，因此目前不常規建議",
     "tags": [
       "114-1-6",
       "婦產科"
@@ -1306,7 +1306,7 @@
       "D": "因找不到胚囊（gestational sac），須進一步安排腹部電腦斷層檢查"
     },
     "answer": "C",
-    "explanation": "懷孕早期下腹痛和陰道出血需要鑑別子宮內懷孕、異位妊娠和流產。<br>病史分析：月經延遲7週、驗孕陽性、下腹痛、陰道出血、超音波看不到胚囊、β-hCG 1300 mIU/mL、生命徵象穩定。<br>判讀重點：正常子宮內懷孕時，當β-hCG達到discriminatory zone（陰道超音波約1500-2000 mIU/mL，腹部超音波約6000 mIU/mL）時，應該能在子宮內看到胚囊。此病人β-hCG 1300 mIU/mL接近但未達discriminatory zone，看不到胚囊有三種可能：懷孕週數較預期早（正常子宮內懷孕）、異位妊娠、流產。<br>(A) 錯誤，不能確定是正常懷孕。雖然生命徵象穩定，但β-hCG值和超音波結果不確定，需要進一步追蹤<br>(B) 錯誤，雖然有出血，但β-hCG仍有1300，且超音波未確認子宮內是否有懷孕組織，不能直接診斷先兆性流產。給予黃體素和tranexamic acid不適當，重點是確定懷孕位置<br>(C) 正確，最適當的處置是追蹤β-hCG變化。存活子宮內懷孕的β-hCG每48小時最低上升幅度依初始值而定（初始值低於1,500 mIU/mL為49%，1,500至3,000為40%，大於3,000為33%）。異位妊娠或流產的β-hCG上升緩慢、停滯或下降。48小時後追蹤β-hCG：若適當上升且超過discriminatory zone，重複超音波確認子宮內胚囊；若上升不足，高度懷疑異位妊娠或流產，需進一步處理<br>(D) 錯誤，不需要立即安排腹部電腦斷層。CT有輻射暴露且對早期懷孕的診斷價值不如超音波。應該先追蹤β-hCG和重複超音波檢查",
+    "explanation": "懷孕早期下腹痛和陰道出血需要鑑別子宮內懷孕、異位妊娠和流產。<br>病史分析：月經延遲7週、驗孕陽性、下腹痛、陰道出血、超音波看不到胚囊、β-hCG 1300 mIU/mL、生命徵象穩定。<br>判讀重點：正常子宮內懷孕時，當β-hCG達到discriminatory zone（陰道超音波約1500-2000 mIU/mL，腹部超音波約6000 mIU/mL）時，應該能在子宮內看到胚囊。此病人β-hCG 1300 mIU/mL接近但未達discriminatory zone，看不到胚囊有三種可能：懷孕週數較預期早（正常子宮內懷孕）、異位妊娠、流產。<br>(A) 錯誤，不能確定是正常懷孕。雖然生命徵象穩定，但β-hCG值和超音波結果不確定，需要進一步追蹤<br>(B) 錯誤，雖然有出血，但β-hCG仍有1300，且超音波未確認子宮內是否有懷孕組織，不能直接診斷先兆性流產。給予黃體素和tranexamic acid不適當，重點是確定懷孕位置<br>(C) 正確，最適當的處置是追蹤β-hCG變化。存活子宮內懷孕的β-hCG每48小時最低上升幅度依初始值而定（初始值低於1,500 mIU/mL為49%，1,500至3,000為40%，大於3,000為33%）。異位妊娠或流產的β-hCG上升緩慢、停滯或下降。48小時後追蹤β-hCG：若適當上升且超過discriminatory zone，重複超音波確認子宮內胚囊。若上升不足，高度懷疑異位妊娠或流產，需進一步處理<br>(D) 錯誤，不需要立即安排腹部電腦斷層。CT有輻射暴露且對早期懷孕的診斷價值不如超音波。應該先追蹤β-hCG和重複超音波檢查",
     "tags": [
       "114-1-6",
       "婦產科"
