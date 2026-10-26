@@ -734,8 +734,8 @@
       "C": "子宮頸錐狀切除",
       "D": "子宮切除"
     },
-    "answer": "B",
-    "explanation": "抹片結果為高危險鱗狀上皮內細胞病變（HSIL）時，需要組織學確認病灶程度，處置可接受陰道鏡加切片或直接進行錐狀切除，兩者皆為指引所接受的處置方式。<br>(A) 錯誤，HSIL不可單純追蹤，必須進行進一步組織學評估或治療，追蹤觀察會延誤可能已存在的高度病變或早期癌症之處置。<br>(B) 正確，陰道鏡檢查（colposcopy）合併子宮頸切片（cervical biopsy）是HSIL的標準處置之一，可取得組織學診斷以確認病灶等級。<br>(C) 正確，子宮頸錐狀切除（excisional conization）在某些情境下（如陰道鏡不滿意、切片與抹片不一致、或高度懷疑侵犯性癌）可作為直接處置，兼具診斷與治療功能。<br>(D) 錯誤，子宮切除（hysterectomy）不是HSIL的第一線處置，須先有組織學確診，且在確認無侵犯性癌後，若有其他適應症才考慮，不可作為初始步驟。",
+    "answer": "B,C",
+    "explanation": "抹片結果為高危險鱗狀上皮內細胞病變（HSIL）時，需要組織學確認病灶程度，處置可接受陰道鏡加切片或直接進行錐狀切除，兩者皆為指引所接受的處置方式。<br>(A) 錯誤，HSIL不可單純追蹤，必須進行進一步組織學評估或治療，追蹤觀察會延誤可能已存在的高度病變或早期癌症之處置。<br>(B) 正確，陰道鏡檢查（colposcopy）合併子宮頸切片（cervical biopsy）是HSIL的標準處置之一，可取得組織學診斷以確認病灶等級。<br>(C) 正確，子宮頸錐狀切除（excisional conization）在某些情境下（如陰道鏡不滿意、切片與抹片不一致、或高度懷疑侵犯性癌）可作為直接處置，兼具診斷與治療功能。<br>(D) 錯誤，子宮切除（hysterectomy）不是HSIL的第一線處置，須先有組織學確診，且在確認無侵犯性癌後，若有其他適應症才考慮，不可作為初始步驟。<br>公告更正答案：選 B 或 C 皆給分。",
     "tags": [
       "106-1-6",
       "婦產科"
@@ -1162,8 +1162,8 @@
       "C": "中樞痛在病發後一年內發生的比率非常高",
       "D": "大部分中樞痛病人之溫覺（temperature perception）不受影響"
     },
-    "answer": "A",
-    "explanation": "腦中風後中樞痛（central post-stroke pain，CPSP）的臨床特點需從神經解剖學角度理解其症狀分佈、病灶大小、發生時間與感覺異常的關係。<br>(A) 正確，中樞痛的症狀出現在病灶的對側，因為感覺傳導路徑（spinothalamic tract）在脊髓或腦幹處交叉，大腦單側病灶導致對側肢體的感覺異常與疼痛<br>(B) 錯誤，小病灶（small lesion）同樣可以引發中樞痛，尤其是位於視丘（thalamus）的小梗塞（lacunar infarct），反而是引發中樞痛的典型病灶，病灶大小並非決定性因素<br>(C) 正確，中樞痛通常在中風後數週至數月內發生，大多數病例在一年內出現，早期發生率確實相當高<br>(D) 錯誤，溫覺（temperature perception）與痛覺（pain perception）共同走行於脊髓視丘徑（spinothalamic tract），中樞痛病人幾乎都伴隨溫覺異常（thermal allodynia/dysesthesia），溫覺受損是中樞痛的典型特徵之一",
+    "answer": "A,C",
+    "explanation": "腦中風後中樞痛（central post-stroke pain，CPSP）的臨床特點需從神經解剖學角度理解其症狀分佈、病灶大小、發生時間與感覺異常的關係。<br>(A) 正確，中樞痛的症狀出現在病灶的對側，因為感覺傳導路徑（spinothalamic tract）在脊髓或腦幹處交叉，大腦單側病灶導致對側肢體的感覺異常與疼痛<br>(B) 錯誤，小病灶（small lesion）同樣可以引發中樞痛，尤其是位於視丘（thalamus）的小梗塞（lacunar infarct），反而是引發中樞痛的典型病灶，病灶大小並非決定性因素<br>(C) 正確，中樞痛通常在中風後數週至數月內發生，大多數病例在一年內出現，早期發生率確實相當高<br>(D) 錯誤，溫覺（temperature perception）與痛覺（pain perception）共同走行於脊髓視丘徑（spinothalamic tract），中樞痛病人幾乎都伴隨溫覺異常（thermal allodynia/dysesthesia），溫覺受損是中樞痛的典型特徵之一<br>公告更正答案：選 A 或 C 皆給分。",
     "tags": [
       "106-1-6",
       "復健科"

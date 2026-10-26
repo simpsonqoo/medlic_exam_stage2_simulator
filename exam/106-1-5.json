@@ -161,8 +161,8 @@
       "C": "L3－quadriceps muscle",
       "D": "S1－gastrocnemius muscle"
     },
-    "answer": "B",
-    "explanation": "脊神經節段與對應肌肉的配對需熟記，上肢各主要肌肉群的神經支配節段是神經學檢查的基本功。<br>(A) 正確，三角肌（deltoid muscle）由第五頸神經（C5）透過腋神經（axillary nerve）支配<br>(B) 錯誤，肱三頭肌（triceps muscle）是由第七頸神經（C7）而非第六頸神經（C6）透過橈神經（radial nerve）支配；C6主要支配橈側伸腕肌（extensor carpi radialis）及旋後肌（supinator）<br>(C) 正確，股四頭肌（quadriceps muscle）由第三腰神經（L3）透過股神經（femoral nerve）支配<br>(D) 正確，腓腸肌（gastrocnemius muscle）由第一薦神經（S1）透過脛神經（tibial nerve）支配",
+    "answer": "A,B,C,D",
+    "explanation": "脊神經節段與對應肌肉的配對需熟記，上肢各主要肌肉群的神經支配節段是神經學檢查的基本功。<br>(A) 正確，三角肌（deltoid muscle）由第五頸神經（C5）透過腋神經（axillary nerve）支配<br>(B) 錯誤，肱三頭肌（triceps muscle）是由第七頸神經（C7）而非第六頸神經（C6）透過橈神經（radial nerve）支配；C6主要支配橈側伸腕肌（extensor carpi radialis）及旋後肌（supinator）<br>(C) 正確，股四頭肌（quadriceps muscle）由第三腰神經（L3）透過股神經（femoral nerve）支配<br>(D) 正確，腓腸肌（gastrocnemius muscle）由第一薦神經（S1）透過脛神經（tibial nerve）支配<br>公告更正答案：本題一律給分。",
     "tags": [
       "106-1-5",
       "腦神經外科"
@@ -198,8 +198,8 @@
       "C": "使用的藥物是methylprednisolone",
       "D": "此高劑量的皮質類固醇有相當大的副作用"
     },
-    "answer": "D",
-    "explanation": "脊髓損傷使用高劑量甲基普尼鬆龍（methylprednisolone）的NASCIS protocol是重要考點，需熟記給藥時間窗、劑量與給藥方式，並了解其副作用的臨床意義。<br>(A) 正確，根據NASCIS（National Acute Spinal Cord Injury Study）protocol，應在受傷後8小時內開始給藥才能發揮神經保護效果<br>(B) 正確，標準給藥方式為先以30 mg/kg靜脈滴注一小時作為負荷劑量（bolus dose），再以5.4 mg/kg/hour靜脈滴注持續23小時<br>(C) 正確，使用的藥物為甲基普尼鬆龍（methylprednisolone），而非其他類固醇製劑<br>(D) 錯誤，此選項本身敘述為真，高劑量甲基普尼鬆龍確實有相當大的副作用，包括增加肺炎、敗血症、消化道出血等風險，且因副作用明顯，目前許多指引已不再常規推薦使用，故此選項為「正確敘述」而非「錯誤敘述」，不符合題目要求的「錯誤選項」，但題目答案選D表示此題在考副作用的實際臨床地位，高劑量類固醇的副作用是真實存在且不容忽視的",
+    "answer": "A,B,C,D",
+    "explanation": "脊髓損傷使用高劑量甲基普尼鬆龍（methylprednisolone）的NASCIS protocol是重要考點，需熟記給藥時間窗、劑量與給藥方式，並了解其副作用的臨床意義。<br>(A) 正確，根據NASCIS（National Acute Spinal Cord Injury Study）protocol，應在受傷後8小時內開始給藥才能發揮神經保護效果<br>(B) 正確，標準給藥方式為先以30 mg/kg靜脈滴注一小時作為負荷劑量（bolus dose），再以5.4 mg/kg/hour靜脈滴注持續23小時<br>(C) 正確，使用的藥物為甲基普尼鬆龍（methylprednisolone），而非其他類固醇製劑<br>(D) 錯誤，此選項本身敘述為真，高劑量甲基普尼鬆龍確實有相當大的副作用，包括增加肺炎、敗血症、消化道出血等風險，且因副作用明顯，目前許多指引已不再常規推薦使用，故此選項為「正確敘述」而非「錯誤敘述」，不符合題目要求的「錯誤選項」，但題目答案選D表示此題在考副作用的實際臨床地位，高劑量類固醇的副作用是真實存在且不容忽視的<br>公告更正答案：本題一律給分。",
     "tags": [
       "106-1-5",
       "腦神經外科"
@@ -643,8 +643,8 @@
       "C": "儘可能以手術切除metastatic islet cell carcinoma（cytoreduction surgery）後，肝臟轉移的部分可以肝動脈栓塞來治療",
       "D": "轉移到骨骼的metastatic islet cell carcinoma還是可以考慮以手術切除之"
     },
-    "answer": "C",
-    "explanation": "轉移性胰臟神經內分泌瘤（metastatic pancreatic neuroendocrine tumor）的治療以症狀控制與腫瘤減積（cytoreduction）為目標，多模式治療可改善症狀及存活率。<br>(A) 錯誤，高胃泌素血症（hypergastrinemia）即胃泌素瘤（gastrinoma）引起的Zollinger-Ellison syndrome，應使用質子幫浦抑制劑（proton pump inhibitor, PPI）或體制素類似物（somatostatin analogue）治療，diazoxide用於治療胰島素瘤（insulinoma）引起的低血糖，應修正為：diazoxide是用於insulinoma（高胰島素血症）的治療，而非hypergastrinemia<br>(B) 錯誤，質子幫浦抑制劑（PPI）對胃泌素瘤引起的高胃酸分泌非常有效，可有效控制急性出血，應修正為：PPI是胃泌素瘤相關消化道出血的有效治療藥物<br>(C) 正確，對轉移性胰島細胞癌（metastatic islet cell carcinoma）進行腫瘤減積手術（cytoreduction surgery）後，肝臟轉移病灶可輔以肝動脈栓塞（hepatic artery embolization）治療，有助於症狀控制與改善存活<br>(D) 錯誤，骨骼轉移通常代表疾病廣泛擴散，手術切除骨轉移風險高、效益有限，較少為常規建議，應以放射治療（radiation therapy）或系統性治療為主",
+    "answer": "A,B,C,D",
+    "explanation": "轉移性胰臟神經內分泌瘤（metastatic pancreatic neuroendocrine tumor）的治療以症狀控制與腫瘤減積（cytoreduction）為目標，多模式治療可改善症狀及存活率。<br>(A) 錯誤，高胃泌素血症（hypergastrinemia）即胃泌素瘤（gastrinoma）引起的Zollinger-Ellison syndrome，應使用質子幫浦抑制劑（proton pump inhibitor, PPI）或體制素類似物（somatostatin analogue）治療，diazoxide用於治療胰島素瘤（insulinoma）引起的低血糖，應修正為：diazoxide是用於insulinoma（高胰島素血症）的治療，而非hypergastrinemia<br>(B) 錯誤，質子幫浦抑制劑（PPI）對胃泌素瘤引起的高胃酸分泌非常有效，可有效控制急性出血，應修正為：PPI是胃泌素瘤相關消化道出血的有效治療藥物<br>(C) 正確，對轉移性胰島細胞癌（metastatic islet cell carcinoma）進行腫瘤減積手術（cytoreduction surgery）後，肝臟轉移病灶可輔以肝動脈栓塞（hepatic artery embolization）治療，有助於症狀控制與改善存活<br>(D) 錯誤，骨骼轉移通常代表疾病廣泛擴散，手術切除骨轉移風險高、效益有限，較少為常規建議，應以放射治療（radiation therapy）或系統性治療為主<br>公告更正答案：本題一律給分。",
     "tags": [
       "106-1-5",
       "內分泌外科"
@@ -1157,8 +1157,8 @@
       "C": "逼尿肌尿道外括約肌共濟失調（detrusor- external sphincter dyssynergia）",
       "D": "低順應性（low compliance）"
     },
-    "answer": "B",
-    "explanation": "脊髓損傷部位決定膀胱功能障礙的類型，薦髓（S2-S4）是排尿反射弧的中樞，損傷後會破壞傳出神經，需判斷其對逼尿肌的影響。<br>(A) 錯誤，逼尿肌過度反射（detrusor hyperreflexia）發生於薦髓以上的上運動神經元損傷（upper motor neuron lesion），如頸髓或胸髓損傷，排尿反射弧完整但失去上位抑制<br>(B) 正確，薦髓傷害（S2-S4）破壞副交感神經排尿反射弧的下運動神經元（lower motor neuron），導致逼尿肌無反射（areflexia），膀胱呈弛緩性（flaccid）、無法自主收縮排尿<br>(C) 錯誤，逼尿肌尿道外括約肌共濟失調（detrusor-external sphincter dyssynergia）發生於薦髓以上、橋腦（pons）以下的脊髓損傷，薦髓本身損傷不會產生此現象<br>(D) 錯誤，低順應性（low compliance）是指膀胱壁僵硬、儲尿時壓力快速上升，常見於長期神經性膀胱或放射線治療後，並非薦髓傷害的直接典型表現",
+    "answer": "A,B,C,D",
+    "explanation": "脊髓損傷部位決定膀胱功能障礙的類型，薦髓（S2-S4）是排尿反射弧的中樞，損傷後會破壞傳出神經，需判斷其對逼尿肌的影響。<br>(A) 錯誤，逼尿肌過度反射（detrusor hyperreflexia）發生於薦髓以上的上運動神經元損傷（upper motor neuron lesion），如頸髓或胸髓損傷，排尿反射弧完整但失去上位抑制<br>(B) 正確，薦髓傷害（S2-S4）破壞副交感神經排尿反射弧的下運動神經元（lower motor neuron），導致逼尿肌無反射（areflexia），膀胱呈弛緩性（flaccid）、無法自主收縮排尿<br>(C) 錯誤，逼尿肌尿道外括約肌共濟失調（detrusor-external sphincter dyssynergia）發生於薦髓以上、橋腦（pons）以下的脊髓損傷，薦髓本身損傷不會產生此現象<br>(D) 錯誤，低順應性（low compliance）是指膀胱壁僵硬、儲尿時壓力快速上升，常見於長期神經性膀胱或放射線治療後，並非薦髓傷害的直接典型表現<br>公告更正答案：本題一律給分。",
     "tags": [
       "106-1-5",
       "泌尿外科"

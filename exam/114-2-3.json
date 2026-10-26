@@ -416,7 +416,7 @@
   },
   {
     "id": 1142325,
-    "question": "25. 一位病人的動脈血氣體分析結果：pH 7.30，PaCO2 32 mmHg，HCO3 - 16 mEq/L，血Na + 136 2 3 mmol/L，血Cl - 100 mmol/L；尿Na + 60 mmol/L，尿K + 40 mmol/L，尿Cl - 115 mmol/L，這是何種酸 鹼平衡異常？",
+    "question": "25. 一位病人的動脈血氣體分析結果：pH 7.30，PaCO2 32 mmHg，HCO3 - 16 mEq/L，血Na + 136 mmol/L，血Cl - 100 mmol/L；尿Na + 60 mmol/L，尿K + 40 mmol/L，尿Cl - 115 mmol/L，這是何種酸 鹼平衡異常？",
     "options": {
       "A": "高陰離子隙代謝性酸中毒",
       "B": "正常陰離子隙代謝性酸中毒",
@@ -467,7 +467,7 @@
   },
   {
     "id": 1142328,
-    "question": "28. 一名低血鉀，高血壓病人，其靜脈血氣體分析結果：pH 7.45，HCO3- 31 mEq/L，PvCO 47 mmHg，尿鉀30 mmol/L，在鑑別診斷過程中，下列何種plasma renin activity及plasma aldosterone concentration組合最不可能出現？",
+    "question": "28. 一名低血鉀，高血壓病人，其靜脈血氣體分析結果：pH 7.45，HCO3- 31 mEq/L，PvCO2 47 mmHg，尿鉀30 mmol/L，在鑑別診斷過程中，下列何種plasma renin activity及plasma aldosterone concentration組合最不可能出現？",
     "options": {
       "A": "plasma renin activity上升，plasma aldosterone concentration上升",
       "B": "plasma renin activity上升，plasma aldosterone concentration下降",
@@ -949,7 +949,7 @@
   },
   {
     "id": 1142356,
-    "question": "56. 根據National Cholesterol Education Program and Adult Treatment Panel III（NCEP:ATPIII）診斷標準，下列哪位男性成人屬於代謝症候群（metabolic syndrome）個案？",
+    "question": "56. 根據National Cholesterol Education Program and Adult Treatment Panel III（NCEP:ATPIII）診斷標準，下列那位男性成人屬於代謝症候群（metabolic syndrome）個案？",
     "options": {
       "A": "腰圍89 cm、血壓132/78 mmHg、白蛋白尿排泄率10 μg/min、三酸甘油酯190 mg/dL、HDL-C 46 mg/dL",
       "B": "BMI 24、血壓127/76 mmHg、空腹血糖109 mg/dL、三酸甘油酯242 mg/dL、白蛋白尿排泄率25 μg/min",

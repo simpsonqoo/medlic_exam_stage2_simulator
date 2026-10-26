@@ -297,8 +297,8 @@
       "C": "五",
       "D": "六"
     },
-    "answer": "D",
-    "explanation": "神經損傷的分類系統有兩種主要版本，需區分 Seddon 三分法（神經失用、軸索斷傷、神經斷傷）與 Sunderland 五分法，以及後來 Mackinnon 增加第六類後的完整版本。<br>(A) 錯誤，三類是 Seddon 分類（Seddon classification）的分法，包括神經失用症（neuropraxia）、軸突斷傷（axonotmesis）、神經斷傷（neurotmesis）<br>(B) 錯誤，四類並非任何標準神經損傷分類系統<br>(C) 錯誤，五類是原始 Sunderland 分類的分法<br>(D) 正確，Sunderland 分類加上 Mackinnon 後來增加的第六類（混合型損傷，mixed injury pattern），共分為六類",
+    "answer": "C,D",
+    "explanation": "神經損傷的分類系統有兩種主要版本，需區分 Seddon 三分法（神經失用、軸索斷傷、神經斷傷）與 Sunderland 五分法，以及後來 Mackinnon 增加第六類後的完整版本。<br>(A) 錯誤，三類是 Seddon 分類（Seddon classification）的分法，包括神經失用症（neuropraxia）、軸突斷傷（axonotmesis）、神經斷傷（neurotmesis）<br>(B) 錯誤，四類並非任何標準神經損傷分類系統<br>(C) 錯誤，五類是原始 Sunderland 分類的分法<br>(D) 正確，Sunderland 分類加上 Mackinnon 後來增加的第六類（混合型損傷，mixed injury pattern），共分為六類<br>公告更正答案：選 C 或 D 皆給分。",
     "tags": [
       "105-2-5",
       "重建整形外科"
@@ -501,8 +501,8 @@
       "C": "成年之後",
       "D": "12～18歲"
     },
-    "answer": "B",
-    "explanation": "漏斗胸（pectus excavatum）的手術矯正時機需考量胸廓軟骨的可塑性與發育狀況，幼兒期胸廓軟骨較柔軟，是矯正的黃金時期。<br>(A) 錯誤，剛出生時胸廓發育未完全，且變形程度可能尚未明確，手術風險高，不是適當時機<br>(B) 正確，2至8歲時胸廓軟骨（costal cartilage）仍具有良好可塑性，手術矯正效果最佳，且在學齡前完成可減少心理影響<br>(C) 錯誤，成年後胸廓軟骨已骨化，可塑性差，手術難度增加且矯正效果較差<br>(D) 錯誤，12至18歲青春期時胸廓仍在發育，雖仍可手術，但相較2至8歲效果較差，且青春期後期骨化程度增加",
+    "answer": "B,C,D",
+    "explanation": "漏斗胸（pectus excavatum）的手術矯正時機需考量胸廓軟骨的可塑性與發育狀況，幼兒期胸廓軟骨較柔軟，是矯正的黃金時期。<br>(A) 錯誤，剛出生時胸廓發育未完全，且變形程度可能尚未明確，手術風險高，不是適當時機<br>(B) 正確，2至8歲時胸廓軟骨（costal cartilage）仍具有良好可塑性，手術矯正效果最佳，且在學齡前完成可減少心理影響<br>(C) 錯誤，成年後胸廓軟骨已骨化，可塑性差，手術難度增加且矯正效果較差<br>(D) 錯誤，12至18歲青春期時胸廓仍在發育，雖仍可手術，但相較2至8歲效果較差，且青春期後期骨化程度增加<br>公告更正答案：選 B、C 或 D 皆給分。",
     "tags": [
       "105-2-5",
       "胸腔外科"
@@ -688,8 +688,8 @@
       "C": "由下方進入sternocleidomastoid muscle",
       "D": "radical surgery可清除"
     },
-    "answer": "C",
-    "explanation": "頸袢（ansa cervicalis）的解剖位置與走向是解題核心，需釐清其構成神經來源及與周邊肌肉的關係。<br>(A) 正確，頸袢（ansa cervicalis）確實分布並支配舌骨下肌群（infrahyoid muscles）<br>(B) 正確，頸袢（ansa cervicalis）由舌下神經（hypoglossal nerve，其上支攜帶C1神經纖維）與第二頸椎神經（C2）吻合後形成，此為一般教材對頸袢組成的標準描述<br>(C) 錯誤，頸袢（ansa cervicalis）實際上是由上方進入胸鎖乳突肌（sternocleidomastoid muscle），而非由下方進入<br>(D) 正確，根治性頸部廓清術（radical neck dissection）手術範圍涵蓋頸袢所在區域，可將其一併清除",
+    "answer": "B,C",
+    "explanation": "頸袢（ansa cervicalis）的解剖位置與走向是解題核心，需釐清其構成神經來源及與周邊肌肉的關係。<br>(A) 正確，頸袢（ansa cervicalis）確實分布並支配舌骨下肌群（infrahyoid muscles）<br>(B) 正確，頸袢（ansa cervicalis）由舌下神經（hypoglossal nerve，其上支攜帶C1神經纖維）與第二頸椎神經（C2）吻合後形成，此為一般教材對頸袢組成的標準描述<br>(C) 錯誤，頸袢（ansa cervicalis）實際上是由上方進入胸鎖乳突肌（sternocleidomastoid muscle），而非由下方進入<br>(D) 正確，根治性頸部廓清術（radical neck dissection）手術範圍涵蓋頸袢所在區域，可將其一併清除<br>公告更正答案：選 B 或 C 皆給分。",
     "tags": [
       "105-2-5",
       "內分泌外科"
@@ -1082,8 +1082,8 @@
       "C": "預防結石生長及復發要酸化尿液",
       "D": "沒有已知的結石抑制因子"
     },
-    "answer": "C",
-    "explanation": "胱氨酸結石（cystine stone）是一種代謝性遺傳疾病引起的泌尿道結石，其形成與胱氨酸在尿液中的溶解度密切相關，預防策略的核心是提升胱氨酸溶解度。<br>(A) 正確，胱氨酸尿症（cystinuria）屬於自體隱性遺傳（autosomal recessive），為腎小管對胱氨酸等雙鹼基胺基酸的再吸收缺陷<br>(B) 正確，胱氨酸結石在所有泌尿道結石中發生率約為1～2%，屬於較少見的結石種類<br>(C) 錯誤，預防胱氨酸結石應鹼化尿液（alkalinize the urine）而非酸化尿液，因為胱氨酸在鹼性環境中溶解度較高（pH > 7.5時溶解度明顯增加），酸性環境反而會使胱氨酸更容易沉澱結晶<br>(D) 正確，胱氨酸目前沒有已知的內源性結石抑制因子，因此預防主要依靠大量飲水、鹼化尿液及藥物（如D-penicillamine）來降低胱氨酸濃度",
+    "answer": "C,D",
+    "explanation": "胱氨酸結石（cystine stone）是一種代謝性遺傳疾病引起的泌尿道結石，其形成與胱氨酸在尿液中的溶解度密切相關，預防策略的核心是提升胱氨酸溶解度。<br>(A) 正確，胱氨酸尿症（cystinuria）屬於自體隱性遺傳（autosomal recessive），為腎小管對胱氨酸等雙鹼基胺基酸的再吸收缺陷<br>(B) 正確，胱氨酸結石在所有泌尿道結石中發生率約為1～2%，屬於較少見的結石種類<br>(C) 錯誤，預防胱氨酸結石應鹼化尿液（alkalinize the urine）而非酸化尿液，因為胱氨酸在鹼性環境中溶解度較高（pH > 7.5時溶解度明顯增加），酸性環境反而會使胱氨酸更容易沉澱結晶<br>(D) 正確，胱氨酸目前沒有已知的內源性結石抑制因子，因此預防主要依靠大量飲水、鹼化尿液及藥物（如D-penicillamine）來降低胱氨酸濃度<br>公告更正答案：選 C 或 D 皆給分。",
     "tags": [
       "105-2-5",
       "泌尿外科"

@@ -90,7 +90,7 @@
     "options": {
       "A": "較易發生在臉部、低於鎖骨的軀幹部及下肢",
       "B": "較常發生在皮膚顏色較深的人種例如非裔美國人、亞洲人及拉丁裔人",
-      "C": "其盛行率約15%〜20%",
+      "C": "其盛行率約15%～20%",
       "D": "目前仍無法預防,不論內科或外科療法效果皆不彰"
     },
     "answer": "A",
@@ -103,9 +103,9 @@
   },
   {
     "id": 1102507,
-    "question": "7. 根據美國創傷外科學會分級(American Association for the Surgery of Trauma grading scales),下列肝臟創 傷的分級何者錯誤?",
+    "question": "7. 根據美國創傷外科學會分級（American Association for the Surgery of Trauma grading scales），下列對於肝臟創傷的分級何者錯誤？",
     "options": {
-      "A": "裂傷深度1公分以內,包膜下血腫覆蓋達面積10%下為第一級",
+      "A": "裂傷深度1公分以內，肝包膜下血腫覆蓋達面積10%以下為第一級",
       "B": "裂傷深度3公分以上為第三級",
       "C": "整個肝葉都為包膜下血腫覆蓋,可能為第五級",
       "D": "總共分五級",
@@ -142,7 +142,7 @@
     "options": {
       "A": "最常見的extradural tumor為metastatic tumor",
       "B": "最常見的intradural extramedullary tumor為metastatic tumor",
-      "C": "最常見的intramedullary tumor 為metastic tumor",
+      "C": "最常見的intramedullary tumor為metastatic tumor",
       "D": "最常見的intramedullary tumor為meningioma"
     },
     "answer": "A",
@@ -159,8 +159,8 @@
     "options": {
       "A": "腫瘤長大（tumor growth）",
       "B": "後脈絡叢血管被腫瘤壓迫（posterior choroid artery compression by tumor）",
-      "C": "腦脊髓液過度製造（excessive CSF production）",
-      "D": "出血造成蜘蛛膜炎（arachnoiditis）以致減少腦脊髓液吸收"
+      "C": "腦脊髓液過度製造（excessive production of CSF）",
+      "D": "出血造成蜘蛛膜炎以致減少腦脊髓液吸收（decreased absorption of CSF from hemorrhage-induced arachnoiditis）"
     },
     "answer": "B",
     "explanation": "脈絡叢乳頭狀瘤（choroid plexus papilloma）造成水腦的機轉主要有三種：腦脊髓液產生過多，腫瘤體積阻塞腦脊髓液循環路徑，腫瘤出血或蛋白質造成蜘蛛膜炎而減少吸收。後脈絡叢動脈被壓迫不是造成腦室擴大的機轉。<br>(A) 這是原因之一，腫瘤生長直接阻塞腦脊髓液的循環路徑，造成腦室擴大。<br>(B) 正確（即不包含的原因），後脈絡叢動脈（posterior choroid artery）被腫瘤壓迫不屬於造成腦室擴大的機轉。<br>(C) 這是原因之一，脈絡叢乳頭狀瘤可過度分泌腦脊髓液（excessive CSF production）。<br>(D) 這是原因之一，腫瘤出血後引發蜘蛛膜炎（arachnoiditis），減少腦脊髓液在蜘蛛膜下腔的吸收，也會造成腦室擴大。",
@@ -280,7 +280,7 @@
     "question": "17. 下列那一條血管不適合做為冠狀動脈繞道手術(coronary artery bypass grafting)之繞道管道(conduit)?",
     "options": {
       "A": "股動脈(femoral artery)",
-      "B": "內乳動脈(intermal mammary artery)或稱內胸動脈(internal thoracic artery)",
+      "B": "內乳動脈（internal mammary artery）或稱內胸動脈（internal thoracic artery）",
       "C": "大隱靜脈(greater saphenous vein)",
       "D": "橈動脈(radial artery)"
     },
@@ -471,7 +471,7 @@
     "options": {
       "A": "膽道疾病",
       "B": "經肝門靜脈血流感染",
-      "C": "經肝動脈感染",
+      "C": "經肝動脈感染（菌血症）",
       "D": "腫瘤內細胞壞死"
     },
     "answer": "D",
@@ -538,7 +538,7 @@
     "question": "32. 下列有關小腸的敘述,何者錯誤?",
     "options": {
       "A": "具有消化、吸收、內分泌的功能,且為體內重要的免疫器官",
-      "B": "腸道阻塞會因外因性、内因性跟管腔内的病因所造成。最常見的原因是術後沾黏",
+      "B": "腸道阻塞會因外因性、內因性跟管腔內的病因所造成。最常見的原因是術後沾黏",
       "C": "腸胃道基質瘤(gastrointestinal stromal tumor)是從腸道的間質組織生出,為小腸最常見的惡性腫瘤,容易復發並轉移",
       "D": "腸胃道基質瘤不常經由淋巴轉移,所以在針對腸胃道基質瘤進行手術時,不需要特別進行淋巴廓清手術"
     },
@@ -675,7 +675,7 @@
     "options": {
       "A": "乳房根治切除術(radical mastectomy)是現今乳癌治療的基礎,強調大範圍根治清除,在1970年代是重要的治療方式",
       "B": "乳房保留手術(breast-conserving therapy)經過臨床試驗證實可以有統計意義的增加存活率(overall and disease-free survival)",
-      "C": "乳房保留手術,若切除腫瘤的切面邊緣有殘留的癌組織會增加局部復發率",
+      "C": "乳房保留手術，若切除腫瘤的切面邊緣有殘留的癌組織會增加局部復發率（local recurrence）",
       "D": "放射治療是乳癌治療的選項之一,病患有嚴重肺部疾病者(severe pulmonary disease),放射治療並不適合"
     },
     "answer": "B",
@@ -844,7 +844,7 @@
     "question": "50. 有關潰瘍性結腸炎及克隆氏症(Crohn's disease)之比較,下列何者正確?",
     "options": {
       "A": "潰瘍性結腸炎有可能產生小腸病灶,克隆氏症則不會有小腸病灶",
-      "B": "克隆氏症較易形成肛門廔管或腸道廔管",
+      "B": "克隆氏症較易形成肛門瘻管或腸道瘻管",
       "C": "在腸道外表徵(extraintestinal manifestations)方面,相較於潰瘍性結腸炎,克隆氏症較易有原發性硬化性膽管炎(primary sclerosing cholangitis, PSC)",
       "D": "抽菸不會增加克隆氏症復發的機率"
     },
@@ -1050,7 +1050,7 @@
       "A": "股四頭肌(quadriceps)主要是由第三及第四腰椎神經根支配,其主要的動作是膝關節伸展(knee extension)",
       "B": "脛骨前肌(tibialis anterior)主要是由第四及第五腰椎神經根支配,其主要的動作是踝關節背屈(ankle dorsiflexion)",
       "C": "腓骨長/短肌(peroneus longus/brevis)主要是由第五腰椎及第一薦椎神經根支配,其主要的動作是踝關節外翻(ankle eversion)",
-      "D": "伸拇趾長肌(extensor hallucis longus)主要是由第一薦椎神經根支配,其主要的動作是大拇趾伸展(great toe extension)"
+      "D": "伸 趾長肌（extensor hallucis longus）主要是由第一薦椎神經根支配，其主要的動作是大 趾伸展（great toe extension）"
     },
     "answer": "D",
     "explanation": "腰椎各節神經根對應的肌肉與動作是神經學檢查的基礎，需正確記憶，不可混淆 L5 與 S1 的支配。<br>(A) 正確，股四頭肌（quadriceps）主要由 L3、L4 神經根支配，負責膝關節伸展（knee extension）<br>(B) 正確，脛骨前肌（tibialis anterior）由 L4、L5 神經根支配，負責踝關節背屈（ankle dorsiflexion）<br>(C) 正確，腓骨長肌與短肌（peroneus longus/brevis）由 L5、S1 神經根支配，負責踝關節外翻（ankle eversion）<br>(D) 錯誤，伸拇趾長肌（extensor hallucis longus, EHL）主要由 L5 神經根支配，而非 S1，大拇趾伸展的動作正確，但支配神經根敘述有誤。S1 神經根支配腓腸肌（gastrocnemius）及比目魚肌（soleus），負責踝蹠屈（plantar flexion），並構成踝反射（ankle jerk）",
@@ -1083,7 +1083,7 @@
     "options": {
       "A": "體外震波碎石術(extracorporeal shock wave lithotripsy)",
       "B": "軟式輸尿管鏡碎石術(flexible ureteroscopic lithotripsy)",
-      "C": "經皮腎造廔截石術（percutaneous nephrolithotripsy）",
+      "C": "經皮腎造瘻截石術（percutaneous nephrolithotripsy）",
       "D": "腎盂截石術(pyelolithotomy)"
     },
     "answer": "B",
@@ -1101,7 +1101,7 @@
       "A": "腺癌(adenocarcinoma)是最常見的膀胱腫瘤",
       "B": "鱗狀上皮細胞癌(squamous cell carcinoma)與慢性發炎無關",
       "C": "膀胱癌是泌尿上皮最少發生腫瘤的部位",
-      "D": "一部分的膀胱癌會呈現膀胱刺激症狀"
+      "D": "一部分的膀胱癌會呈現膀胱刺激症狀（vesical irritability）"
     },
     "answer": "D",
     "explanation": "膀胱癌的流行病學、病理類型及臨床表現是泌尿外科基本知識，需正確了解各病理類型的特性與好發部位。<br>(A) 錯誤，膀胱最常見的腫瘤是移行上皮細胞癌（transitional cell carcinoma，又稱尿路上皮癌, urothelial carcinoma），佔90%以上，腺癌（adenocarcinoma）僅佔約2%，非最常見<br>(B) 錯誤，鱗狀上皮細胞癌（squamous cell carcinoma）與慢性發炎（chronic inflammation）密切相關，如血吸蟲感染（Schistosoma haematobium）、長期導尿管使用、膀胱結石等慢性刺激，敘述與事實相反<br>(C) 錯誤，膀胱是泌尿上皮（urothelium）最常發生腫瘤的部位，而非最少，腎盂、輸尿管次之<br>(D) 正確，膀胱癌除了典型的無痛性血尿（painless hematuria）外，部分患者（尤其是原位癌, carcinoma in situ）會出現尿頻、尿急、排尿灼熱等膀胱刺激症狀（vesical irritability）",
@@ -1135,7 +1135,7 @@
       "A": "國際前列腺症狀評分(International prostate symptom score)輕微(評分為0~7)者,通常建議注意觀察即可,不須給藥",
       "B": "α1-腎上腺素受體阻斷劑可以有效改善良性前列腺增生病人主觀和客觀的下泌尿道症狀",
       "C": "選擇性α1-腎上腺素受體阻斷劑主要是作用在α<sub>1d</sub>-腎上腺素受體",
-      "D": "α1-肾上腺素受體阻斷劑可能的副作用包括姿態性低血壓、頭暈、疲倦、逆行性射精、鼻炎和頭痛"
+      "D": "α1-腎上腺素受體阻斷劑可能的副作用包括姿態性低血壓、頭暈、疲倦、逆行性射精、鼻炎和頭痛"
     },
     "answer": "C",
     "explanation": "良性攝護腺增生的藥物治療依症狀嚴重度與困擾程度決定，α1 阻斷劑的作用機轉與受體亞型是本題核心。<br>(A) 正確，IPSS 0~7 分為輕度，通常以衛教與觀察等待為主，不需給藥。<br>(B) 正確，α1 阻斷劑鬆弛攝護腺與膀胱頸平滑肌，可改善主觀症狀分數與尿流速等客觀指標。<br>(C) 錯誤（最不恰當），選擇性（尿路選擇性）α1 阻斷劑主要作用在 α1A 受體，攝護腺 α1 受體約七成為 α1A。α1D 主要分布在膀胱逼尿肌與脊髓，α1B 在血管平滑肌，阻斷 α1B 會造成低血壓。<br>(D) 正確，α1 阻斷劑的副作用包括姿勢性低血壓、頭暈、疲倦、射精異常（含逆行性射精）、鼻塞與頭痛。",
@@ -1295,7 +1295,7 @@
     "question": "76. 關於動物咬傷的緊急處置,下列敘述何者最不適當?",
     "options": {
       "A": "立即縫合傷口會增加傷口感染的機率",
-      "B": "臉部的單純表淺撕裂傷可考慮立即缝合",
+      "B": "臉部的單純表淺撕裂傷可考慮立即縫合",
       "C": "高感染風險的傷口應開立抗生素,並建議3日後門診複查",
       "D": "貓咬傷的傷口感染機率比狗咬傷高"
     },
@@ -1364,7 +1364,7 @@
     "options": {
       "A": "說明需由具醫師身分者為之",
       "B": "說明的對象為病人或其法定代理人、配偶、親屬或關係人",
-      "C": "說明的内容包括手術原因、手術成功率或可能發生之併發症及危險",
+      "C": "說明的內容包括手術原因、手術成功率或可能發生之併發症及危險",
       "D": "經其同意,簽具手術同意書及麻醉同意書,始得為之。但情況緊急者,不在此限"
     },
     "answer": "A",

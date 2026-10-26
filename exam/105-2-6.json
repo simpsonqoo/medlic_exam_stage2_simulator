@@ -502,8 +502,8 @@
       "C": "advanced maternal age",
       "D": "chronic hypertension"
     },
-    "answer": "B",
-    "explanation": "肩難產（shoulder dystocia）的危險因子需區分母體因素與胎兒因素，肥胖與妊娠糖尿病密切相關，間接導致巨嬰。<br>(A) 錯誤，初產婦（nulliparity）並非肩難產的主要危險因子，反而多產婦（multiparity）因先前有巨嬰生產史風險較高<br>(B) 正確，母體肥胖（obesity）是肩難產的重要母體危險因子，肥胖易合併妊娠糖尿病（gestational diabetes mellitus），導致胎兒過大（macrosomia），增加肩難產風險<br>(C) 錯誤，高齡產婦（advanced maternal age）本身並非肩難產的獨立母體危險因子，其相關性主要透過肥胖或糖尿病等中間因素<br>(D) 錯誤，慢性高血壓（chronic hypertension）通常與胎兒生長限制（fetal growth restriction）相關，反而降低巨嬰及肩難產的風險",
+    "answer": "B,C",
+    "explanation": "肩難產（shoulder dystocia）的危險因子需區分母體因素與胎兒因素，肥胖與妊娠糖尿病密切相關，間接導致巨嬰。<br>(A) 錯誤，初產婦（nulliparity）並非肩難產的主要危險因子，反而多產婦（multiparity）因先前有巨嬰生產史風險較高<br>(B) 正確，母體肥胖（obesity）是肩難產的重要母體危險因子，肥胖易合併妊娠糖尿病（gestational diabetes mellitus），導致胎兒過大（macrosomia），增加肩難產風險<br>(C) 錯誤，高齡產婦（advanced maternal age）本身並非肩難產的獨立母體危險因子，其相關性主要透過肥胖或糖尿病等中間因素<br>(D) 錯誤，慢性高血壓（chronic hypertension）通常與胎兒生長限制（fetal growth restriction）相關，反而降低巨嬰及肩難產的風險<br>公告更正答案：選 B 或 C 皆給分。",
     "tags": [
       "105-2-6",
       "婦產科"
@@ -1187,7 +1187,7 @@
   },
   {
     "id": 1052670,
-    "question": "30歲女性，生產完兩個月，目前正在餵母乳。主訴為雙手麻痺，理學檢查發現雙手指第一指至第三指指尖感覺較遲鈍，Tinel's sign在雙手腕處呈陽性，Phalen's test亦為陽性，<br>70. 這位病人的臨床診斷最有可能為何？",
+    "question": "一位30歲女性，生產完兩個月，目前正在餵母乳。主訴為雙手麻痺，理學檢查發現雙手指第一指至第三指指尖感覺較遲鈍，Tinel's sign在雙手腕處呈陽性，Phalen's test亦為陽性，<br>70. 這位病人的臨床診斷最有可能為何？",
     "options": {
       "A": "橈神經病變",
       "B": "尺神經病變",
