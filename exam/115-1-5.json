@@ -26,7 +26,7 @@
       "D": "常發生於 A2 pulley，可能影響屈指肌腱活動"
     },
     "answer": "D",
-    "explanation": "滑液囊腫（ganglion cyst）的好發位置與相鄰韌帶、肌腱或關節囊的關係是解題核心，需熟悉各部位解剖結構。<br>(A) 正確，手腕背側（dorsal wrist）是最常見的好發位置，常與舟月韌帶（scapholunate ligament）相關<br>(B) 正確，手腕掌側（volar wrist）也是常見位置，且與橈動脈（radial artery）鄰近，穿刺時須注意<br>(C) 正確，位於手指遠端指間關節（DIP joint）的滑液囊腫又稱為 mucous cyst，常與退化性關節炎相關<br>(D) 錯誤，滑液囊腫不常發生於 A2 pulley；好發於 A1 pulley 且影響屈指肌腱（flexor tendon）活動的是板機指（trigger finger），而非滑液囊腫",
+    "explanation": "腱鞘囊腫（ganglion cyst）好發於腕背側（舟月韌帶）、腕掌側（鄰近橈動脈）、屈肌腱鞘滑車（retinacular cyst）與 DIP 關節背側（mucous cyst）。屈肌腱鞘囊腫起自 A1 或 A2 滑車，以 A1 最常見，公告答案 (D) 錯在把 A2 當成常見位置。<br>(A) 正確，腕背側是最常見的位置，源自舟月關節<br>(B) 正確，腕掌側也常見，位於橈側且鄰近橈動脈，穿刺或手術時須注意<br>(C) 正確，位於 DIP 關節背側的黏液囊腫（mucous cyst）與 DIP 關節退化有關<br>(D) 公告答案，屈肌腱鞘囊腫以 A1 滑車最常見，A2 較少。但教科書寫屈肌腱鞘囊腫起自 A1 或 A2 滑車，本選項並非完全錯誤",
     "tags": [
       "115-1-5",
       "骨科"
@@ -536,7 +536,7 @@
       "D": "神經重建優先於骨骼重建（nerve over bone）"
     },
     "answer": "D",
-    "explanation": "嚴重碾壓肢體（mangled extremity）的處理需依照優先順序進行，生命安全永遠優先，神經與骨骼重建的先後順序是本題核心。<br>(A) 正確，生命優先於肢體（life over limbs）是外傷處理的最高原則，需先穩定生命徵象<br>(B) 正確，血管重建（revascularization）應在骨骼固定後儘速進行，以恢復肢體血流、避免缺血性壞死<br>(C) 正確，反覆清創（repeated debridement）是處理污染傷口、預防感染及促進癒合的重要步驟<br>(D) 錯誤，正確順序應為骨骼重建優先於神經重建（bone over nerve），因為骨骼固定可提供神經修復所需的穩定結構，且神經修復可延遲進行；若優先修復神經，骨骼重建時的操作可能破壞已縫合的神經",
+    "explanation": "嚴重碾壓肢體（mangled extremity）的處理依優先順序進行：生命優先於肢體，患肢則依序清創、骨骼穩定、血管重建，之後才是神經與肌腱修復。<br>(A) 正確，生命優先於肢體（life over limbs）是外傷處理的最高原則，需先依 ATLS 處理危及生命的傷害<br>(B) 正確，血管重建（revascularization）在骨骼穩定後儘速進行，缺血時間長者可先置放暫時性血管分流<br>(C) 正確，徹底清創並在約 24~36 小時後再次清創（repeated debridement），以處理污染並預防感染<br>(D) 錯誤，骨骼穩定先於神經修復（bone over nerve），神經與肌腱修復在骨骼固定與血管重建之後進行，延遲性神經重建留待後期",
     "tags": [
       "115-1-5",
       "骨科"
@@ -553,7 +553,7 @@
       "D": "de Quervain 病的診斷主要依賴 X 光檢查來區分其他疾病"
     },
     "answer": "C",
-    "explanation": "狹窄性腱鞘炎（stenosing tenosynovitis）各疾病的解剖位置與臨床表現需正確配對，板機指（trigger finger）的病理機轉是本題答案所在。<br>(A) 錯誤，de Quervain 病（de Quervain's tenosynovitis）影響的是第一背側腱鞘區（first dorsal compartment），包含外展拇長肌（abductor pollicis longus）及伸拇短肌（extensor pollicis brevis），而非第二背側腱鞘區<br>(B) 錯誤，交叉症候群（intersection syndrome）的病變發生於第一與第二背側腱鞘區交叉處（約腕關節近端 4 至 6 公分），與 A1 pulley 無關；A1 pulley 是板機指的病變位置<br>(C) 正確，板機指（trigger finger）的病變發生於 A1 pulley，造成屈指肌腱（flexor tendon）卡鎖，可能導致手指停留在屈曲位置而無法完全主動伸展<br>(D) 錯誤，de Quervain 病的診斷主要依賴臨床檢查，特別是 Finkelstein 試驗（Finkelstein test）陽性，X 光（X-ray）的診斷價值有限，主要用於排除其他骨骼病變",
+    "explanation": "狹窄性腱鞘炎（stenosing tenosynovitis）各疾病的解剖位置與臨床表現需正確配對，板機指（trigger finger）的病變位置與表現是本題答案所在。<br>(A) 錯誤，de Quervain 病影響的是第一背側腔室（first dorsal compartment），包含外展拇長肌（APL）及伸拇短肌（EPB）<br>(B) 錯誤，交叉症候群（intersection syndrome）發生於第一與第二背側腔室肌腱交叉處（約腕關節近端 4 至 6 公分），與 A1 滑車無關，A1 滑車是板機指的病變位置<br>(C) 正確，板機指的病變在 A1 滑車，屈指肌腱卡鎖，晚期可使手指停在屈曲位而無法完全伸直<br>(D) 錯誤，de Quervain 病以臨床診斷為主，特別是 Finkelstein 試驗，X 光主要用於排除其他骨骼病變",
     "tags": [
       "115-1-5",
       "骨科"
@@ -570,7 +570,7 @@
       "D": "①trigger finger；②boutonnière deformity"
     },
     "answer": "A",
-    "explanation": "手指伸肌腱（extensor tendon）損傷的類型需根據受傷機轉、關節受影響位置及後續繼發畸形來判斷，mallet finger 未妥善治療可繼發 swan neck deformity。<br>(A) 正確，高速外力撞擊指尖造成遠端指間關節（DIP joint）無法主動伸直為槌狀指（mallet finger）；長期未妥善治療後，側副韌帶（lateral band）背側移位，造成近端指間關節（PIP joint）過度伸直及 DIP joint 屈曲的鵝頸畸形（swan neck deformity）<br>(B) 錯誤，板機指（trigger finger）是屈指肌腱（flexor tendon）卡鎖於 A1 pulley，表現為手指屈曲卡住，而非 DIP joint 無法主動伸直<br>(C) 錯誤，球衣指（jersey finger）是屈指深肌腱（flexor digitorum profundus tendon）從末節指骨（distal phalanx）撕脫，表現為 DIP joint 無法主動屈曲，而非無法伸直；鈕扣畸形（boutonnière deformity）則是中央伸肌腱（central slip）斷裂所致<br>(D) 錯誤，板機指與 boutonnière deformity 的配對均不符合此案例的受傷機轉及臨床表現",
+    "explanation": "指尖受球撞擊後 DIP 關節無法主動伸直，是槌狀指（mallet finger）。終末伸肌腱失去附著後，伸肌力量集中於 PIP 關節，PIP 掌板鬆弛而過度伸展，未被拮抗的屈指深肌腱使 DIP 屈曲，日後繼發天鵝頸畸形（swan neck deformity）。<br>(A) 正確，① 為槌狀指，② 為慢性槌狀指繼發的天鵝頸畸形（PIP 過度伸展、DIP 屈曲）<br>(B) 錯誤，板機指是屈指肌腱卡在 A1 滑車，表現為彈響與屈曲卡住，不是 DIP 無法主動伸直<br>(C) 錯誤，球衣指（jersey finger）是屈指深肌腱自遠端指骨撕脫，表現為 DIP 無法主動屈曲。鈕扣花畸形（boutonnière deformity）是中央束斷裂，表現為 PIP 屈曲、DIP 過度伸展<br>(D) 錯誤，板機指與鈕扣花畸形都不符合本例的受傷機轉與表現",
     "tags": [
       "115-1-5",
       "骨科"
@@ -672,7 +672,7 @@
       "D": "惡性非精細胞瘤（non-seminomatous tumor）生殖細胞腫瘤多發生於女性"
     },
     "answer": "D",
-    "explanation": "惡性生殖細胞瘤（malignant germ cell tumor）依組織學分為精細胞瘤（seminoma）及非精細胞瘤（non-seminomatous germ cell tumor，NSGCT），兩者好發性別的認知是本題關鍵。<br>(A) 正確，精細胞瘤（seminoma）對放射線治療（radiotherapy）高度敏感，早期病灶可以放療作為輔助治療<br>(B) 正確，惡性非精細胞瘤（non-seminomatous germ cell tumor，NSGCT）對放射線治療的敏感度低，主要依賴化學治療（chemotherapy），如 BEP 療法（bleomycin、etoposide、cisplatin）<br>(C) 正確，惡性非精細胞瘤包含絨毛膜癌（choriocarcinoma）、胚胎細胞癌（embryonal cell carcinoma）、卵黃囊瘤（yolk sac tumor）及畸胎瘤（teratoma）等亞型<br>(D) 錯誤，惡性非精細胞瘤（NSGCT）主要發生於男性睪丸（testis），好發年齡為 20 至 30 歲的年輕男性；女性卵巢也可發生生殖細胞瘤，但整體而言惡性非精細胞瘤並非多發生於女性",
+    "explanation": "惡性生殖細胞瘤（malignant germ cell tumor）依組織學分為精原細胞瘤（seminoma）及非精原細胞瘤（non-seminomatous germ cell tumor，NSGCT），兩者好發性別的認知是本題關鍵。<br>(A) 正確，精原細胞瘤對放射線治療（radiotherapy）高度敏感<br>(B) 正確，非精原細胞瘤對放射線治療不敏感，主要依賴化學治療（如 BEP：bleomycin、etoposide、cisplatin）與後腹膜淋巴廓清（RPLND）<br>(C) 正確，非精原細胞瘤包含絨毛膜癌（choriocarcinoma）、胚胎癌（embryonal carcinoma）、卵黃囊瘤（yolk sac tumor）及畸胎瘤（teratoma）等<br>(D) 錯誤，非精原細胞瘤主要發生於男性睪丸，好發年齡為 20 多歲的年輕男性。女性卵巢也可發生生殖細胞瘤，但整體而言非精原細胞瘤並非多發生於女性",
     "tags": [
       "115-1-5",
       "泌尿外科"
@@ -948,7 +948,7 @@
       "D": "對於一位病史不明，但高度懷疑為病理性肱骨骨折的患者，仍應緊急執行開放性手術復位和髓內釘固定及活 體組織切片手術，術後再進行全身腫瘤探查（survey）與分級（staging）"
     },
     "answer": "B",
-    "explanation": "骨骼肌肉系統腫瘤（musculoskeletal tumor）切片的原則需嚴格遵守，切口方向、穿刺路徑及是否需要細菌培養是本題各選項的鑑別重點。<br>(A) 錯誤，四肢腫瘤切片應採用與肢體長軸平行的縱向切口（longitudinal incision），而非橫向切口（transverse incision）；縱向切口可在後續廣泛切除（wide resection）時將切片瘢痕一併切除，減少腫瘤細胞污染範圍<br>(B) 正確，即使臨床及影像學高度懷疑為骨骼肌肉系統腫瘤，仍需同時進行切片部位的細菌培養（bacterial culture），因為骨髓炎（osteomyelitis）或感染性病灶在影像上可能酷似腫瘤，需排除感染性病因<br>(C) 錯誤，核心（core）或細針（fine-needle）切片時應儘量走單一腔室路徑，避免經過筋膜平面（fascial plane）進入另一腔室，以防止腫瘤細胞沿穿刺道（needle tract）污染鄰近腔室，增加後續手術切除的困難<br>(D) 錯誤，高度懷疑病理性骨折（pathological fracture）時，應先完成全身腫瘤探查（systemic survey）及分期（staging）後，再規劃手術方式，不應在未確認腫瘤性質前倉促進行髓內釘固定（intramedullary nailing），以避免腫瘤細胞沿髓腔擴散",
+    "explanation": "骨骼肌肉系統腫瘤切片要由將執行最終手術的團隊依原則施行，切口方向、穿刺路徑、是否送培養，以及病理性骨折的處理順序，是本題各選項的鑑別重點。<br>(A) 錯誤，四肢切片應採與肢體長軸平行的縱向切口，橫向切口為禁忌，縱向切口可在後續廣泛切除時連同切片道一併切除<br>(B) 正確，骨髓炎、結核等感染可酷似腫瘤，Ewing 肉瘤等腫瘤也可酷似感染，即使臨床與影像已臆斷為腫瘤，仍需同時送細菌培養<br>(C) 錯誤，核心針或細針切片應走單一腔室，不穿過腔室間隔或筋膜平面，以免腫瘤細胞沿穿刺道污染鄰近腔室<br>(D) 錯誤，來歷不明的病理性骨折應先完成全身檢查與分期，並以切片確認診斷後再決定固定方式，未確認前即做開放復位與髓內釘固定，可能造成整段骨與軟組織的腫瘤污染，使保肢手術無法進行",
     "tags": [
       "115-1-5",
       "骨科"
@@ -982,7 +982,7 @@
       "D": "副甲狀腺素荷爾蒙（parathyroid hormone）的主要作用機轉之一是抑制蝕骨細胞（osteoclast）的功能"
     },
     "answer": "D",
-    "explanation": "副甲狀腺素（parathyroid hormone，PTH）對骨骼的作用依給藥方式及濃度不同而有所差異，其主要作用機轉需正確理解。<br>(A) 正確，原發性第一型骨質疏鬆症（primary type I osteoporosis）又稱停經後骨質疏鬆症，主要因女性荷爾蒙（estrogen）缺乏導致蝕骨細胞活性增加<br>(B) 正確，次發性骨質疏鬆症（secondary osteoporosis）的常見原因包含荷爾蒙失調如甲狀腺功能亢進（hyperthyroidism）、長期使用類固醇（corticosteroids）及副甲狀腺功能亢進等<br>(C) 正確，雙磷酸鹽（bisphosphonates）的主要機轉是抑制蝕骨細胞（osteoclast）的功能及促進其凋亡（apoptosis），減少骨質流失<br>(D) 錯誤，副甲狀腺素（parathyroid hormone，PTH）在間歇性低劑量給藥時（如 teriparatide）主要是促進造骨細胞（osteoblast）活性、增加骨質生成；持續高濃度的內生性 PTH 才會活化蝕骨細胞（osteoclast）造成骨質流失，PTH 並非以抑制蝕骨細胞為主要作用機轉",
+    "explanation": "副甲狀腺素（parathyroid hormone，PTH）對骨骼的作用依給藥方式及濃度而不同，其主要作用機轉需正確理解。<br>(A) 正確，原發性第一型骨質疏鬆症（停經後骨質疏鬆症）主要因女性荷爾蒙（estrogen）缺乏，蝕骨細胞活性增加<br>(B) 正確，次發性骨質疏鬆症的常見原因包含荷爾蒙失調，如甲狀腺功能亢進、副甲狀腺功能亢進、庫欣氏症候群，以及長期使用類固醇<br>(C) 正確，雙磷酸鹽（bisphosphonates）主要作用在蝕骨細胞，抑制其功能並促進其凋亡，減少骨質流失<br>(D) 錯誤，間歇性給予 PTH 類似物（teriparatide）主要促進造骨細胞活性、增加骨生成，持續高濃度的內生性 PTH 則活化蝕骨細胞造成骨質流失，PTH 並非以抑制蝕骨細胞為主要作用機轉",
     "tags": [
       "115-1-5",
       "骨科"
@@ -999,7 +999,7 @@
       "D": "Monteggia fracture"
     },
     "answer": "D",
-    "explanation": "（本題有附圖，需根據 X 光影像判斷骨折類型，此處依選項特徵分析各骨折的定義。）<br>前臂骨折的分類需依骨折位置及合併脫臼情形判斷，Monteggia 骨折的定義是本題關鍵。<br>(A) 錯誤，Colles 骨折（Colles fracture）是橈骨（radius）遠端骨折合併背側移位（dorsal displacement），造成「餐叉狀」畸形（dinner fork deformity），通常為腕部伸展撐地造成<br>(B) 錯誤，Galeazzi 骨折（Galeazzi fracture）是橈骨（radius）中下段骨折合併遠端尺橈關節（distal radioulnar joint）脫臼<br>(C) 錯誤，拳擊手骨折（boxer's fracture）是第五掌骨頸（5th metacarpal neck）骨折，常見於拳擊撞擊造成<br>(D) 正確，Monteggia 骨折（Monteggia fracture）是尺骨（ulna）近端或中段骨折合併橈骨頭（radial head）脫臼，依橈骨頭脫臼方向分為四型（Bado classification）",
+    "explanation": "前臂側面 X 光可見尺骨近端骨幹骨折，橈骨頭向前脫位，橈骨長軸線（radiocapitellar line）不再通過肱骨小頭，為 Monteggia 骨折脫位（Bado I 型）。<br>(A) 錯誤，Colles 骨折是橈骨遠端關節外骨折合併背側移位，呈餐叉狀畸形（dinner fork deformity）<br>(B) 錯誤，Galeazzi 骨折是橈骨遠端 1/3 骨幹骨折合併遠端橈尺關節（DRUJ）脫位<br>(C) 錯誤，拳擊手骨折（boxer's fracture）是第五掌骨頸骨折<br>(D) 正確，Monteggia 骨折是尺骨近端或骨幹骨折合併橈骨頭脫位，依橈骨頭脫位方向分為四型（Bado classification），本圖橈骨頭向前脫位、尺骨向前成角，屬 Bado I 型",
     "tags": [
       "115-1-5",
       "骨科"
@@ -1070,7 +1070,7 @@
       "D": "平均身高較矮，骨齡（bone age）偏向早熟"
     },
     "answer": "B",
-    "explanation": "Scheuermann 氏駝背症（Scheuermann's kyphosis）的自然病程、病理機轉及合併症需正確理解，其角度可能隨年齡進展以及可合併脊柱側彎是重要特性。<br>(A) 錯誤，Scheuermann 氏駝背症的脊柱後凸角度（kyphosis angle）可能隨骨骼發育而進展，並非固定不變，尤其在青少年生長高峰期（growth spurt）前角度增加最快<br>(B) 正確，Scheuermann 氏駝背症可合併脊柱側彎（scoliosis），兩者並存時稱為 Scheuermann's kyphoscoliosis<br>(C) 錯誤，Scheuermann 氏駝背症的病理特性是軟骨內骨化（endochondral ossification）異常，椎體前方生長板（growth plate）功能受損，導致椎體前窄後寬的楔形變化（vertebral wedging）；蛋白聚醣（proteoglycan）含量是升高而非降低，造成椎間盤（intervertebral disc）物質異常滲入椎體形成 Schmorl's nodes<br>(D) 錯誤，Scheuermann 氏駝背症患者的身高通常正常或偏高，骨齡（bone age）並無早熟傾向",
+    "explanation": "Scheuermann 駝背症是青春期椎體終板軟骨內骨化異常造成的結構性胸椎後凸，連續 3 節以上椎體前方楔形變 5° 以上，約 15~20% 合併脊柱側彎。<br>(A) 錯誤，正常胸椎後凸約 20~40°，Scheuermann 駝背症的後凸超過正常範圍，且在生長期可持續進展<br>(B) 正確，約 15~20% 合併脊柱側彎，兩者並存稱為 Scheuermann kyphoscoliosis<br>(C) 錯誤，終板確有軟骨內骨化異常，但組織學為膠原蛋白／蛋白聚醣比值較低，也就是蛋白聚醣相對增加，而非較低<br>(D) 錯誤，病人身高通常較同齡者高，而非較矮",
     "tags": [
       "115-1-5",
       "骨科"
@@ -1104,7 +1104,7 @@
       "D": "type IV 腎臟囊泡有 90%以上惡性腫瘤機率"
     },
     "answer": "B",
-    "explanation": "Bosniak 分類系統（Bosniak classification）依據腎臟囊泡（renal cyst）的影像特徵評估惡性風險，各型別的惡性腫瘤機率需正確記憶。<br>(A) 正確，Bosniak Type I 為單純囊泡（simple cyst），具平滑內壁、含清澈液體，無分隔或鈣化，惡性機率幾乎為零<br>(B) 錯誤，Bosniak Type II 為輕微複雜囊泡，有少量細分隔或細小鈣化，惡性機率極低，約小於 5% 而非 33%；惡性機率約 33% 的是 Bosniak Type IIF 至 Type III 之間的病灶<br>(C) 正確，Bosniak Type IIF 需追蹤觀察，惡性腫瘤機率約 18 至 25%<br>(D) 正確，Bosniak Type IV 有強化的實質成分（enhancing solid component），惡性機率超過 90%，建議手術切除",
+    "explanation": "Bosniak 分類（2019 版）依囊性腎腫塊的壁、分隔、鈣化與強化成分評估惡性風險，type II 為良性範疇，惡性機率 &lt; 1%，不是 33%。<br>(A) 正確，Bosniak I 為單純囊腫，薄而平滑的壁、液體均質，無分隔與鈣化，視為良性<br>(B) 錯誤，Bosniak II 為輕微複雜囊腫（少數薄分隔、鈣化或均質高密度囊腫），惡性機率 &lt; 1%，不需追蹤<br>(C) 正確，Bosniak IIF 需影像追蹤，依 2019 版分類的統合分析，惡性機率約 26%<br>(D) 正確，Bosniak IV 有強化結節，惡性機率約 90%，建議切除或消融",
     "tags": [
       "115-1-5",
       "泌尿外科"
@@ -1138,7 +1138,7 @@
       "D": "最常發生在攝護腺 peripheral zone"
     },
     "answer": "C",
-    "explanation": "攝護腺癌（prostate cancer）的骨轉移（bone metastasis）特性是本題核心，其骨轉移型態與其他常見癌症不同，需正確區分。<br>(A) 正確，肛門指診（digital rectal examination，DRE）若觸及硬塊或不規則結節，應高度懷疑攝護腺癌<br>(B) 正確，攝護腺癌絕大多數為腺癌（adenocarcinoma），起源於腺泡細胞（acinar cells）<br>(C) 錯誤，攝護腺癌骨轉移以成骨性病灶（osteoblastic lesion）為主，而非蝕骨性病灶（osteoclastic lesion）；在骨骼掃描（bone scan）上呈現熱點（hot spot），X 光上呈現骨質密度增加<br>(D) 正確，攝護腺癌最常發生於攝護腺週邊區（peripheral zone），約占 70 至 80%，因此肛門指診可觸及",
+    "explanation": "攝護腺癌（prostate cancer）的骨轉移（bone metastasis）特性是本題核心，其骨轉移型態與其他常見癌症不同，需正確區分。<br>(A) 正確，肛門指診（digital rectal examination，DRE）若觸及硬塊或不規則結節，應高度懷疑攝護腺癌<br>(B) 正確，攝護腺癌絕大多數為腺癌（adenocarcinoma），起源於腺泡細胞（acinar cells）<br>(C) 錯誤，攝護腺癌骨轉移以成骨性病灶（osteoblastic lesion）為主，而非蝕骨性病灶（osteoclastic lesion），骨骼掃描（bone scan）呈熱點（hot spot），X 光呈骨質密度增加<br>(D) 正確，攝護腺癌約 70~75% 發生於攝護腺周邊區（peripheral zone），因此肛門指診可觸及",
     "tags": [
       "115-1-5",
       "泌尿外科"
@@ -1172,7 +1172,7 @@
       "D": "病人通常會有發燒及腰部酸痛的現象"
     },
     "answer": "C",
-    "explanation": "急性腎盂腎炎（acute pyelonephritis）的抗生素治療療程需根據感染嚴重度決定，3 至 5 天的療程明顯不足。<br>(A) 正確，急性腎盂腎炎最常見的致病菌為大腸桿菌（Escherichia coli），約占 80% 以上<br>(B) 正確，急性腎盂腎炎通常來自膀胱細菌（bacteriuria）的上行性感染（ascending infection），經輸尿管（ureter）蔓延至腎盂（renal pelvis）<br>(C) 錯誤，急性腎盂腎炎的抗生素治療療程通常需要 10 至 14 天，而非 3 至 5 天；3 至 5 天的短療程適用於單純性膀胱炎（uncomplicated cystitis），若療程不足容易復發或形成慢性腎盂腎炎（chronic pyelonephritis）<br>(D) 正確，急性腎盂腎炎典型症狀包含發燒（fever）、寒顫（chills）及腰部酸痛（flank pain，又稱肋脊角叩擊痛，costovertebral angle tenderness）",
+    "explanation": "急性腎盂腎炎（acute pyelonephritis）的抗生素療程依藥物與嚴重度決定，3 至 5 天的療程明顯不足。<br>(A) 正確，急性腎盂腎炎最常見的致病菌為大腸桿菌（Escherichia coli）<br>(B) 正確，急性腎盂腎炎通常來自膀胱細菌的上行性感染（ascending infection），經輸尿管蔓延至腎盂<br>(C) 錯誤，急性腎盂腎炎的抗生素療程依藥物為 5~14 天（fluoroquinolone 5~7 天，TMP-SMX 與 beta-lactam 7~14 天），3 至 5 天的短療程是單純性膀胱炎（uncomplicated cystitis）的療程，療程不足容易復發<br>(D) 正確，急性腎盂腎炎典型症狀包含發燒（fever）、寒顫（chills）及腰痛與肋脊角叩痛（costovertebral angle tenderness）",
     "tags": [
       "115-1-5",
       "泌尿外科"
@@ -1189,7 +1189,7 @@
       "D": "細菌感染沿著深層筋膜蔓延"
     },
     "answer": "D",
-    "explanation": "福尼爾壞疽（Fournier gangrene）是會陰及生殖器的壞死性筋膜炎（necrotizing fasciitis），其感染蔓延的筋膜層次是本題核心。<br>(A) 正確，血糖控制不良的糖尿病（diabetes mellitus）患者因免疫功能受損，是福尼爾壞疽最常見的危險族群<br>(B) 正確，泌尿道外傷（urogenital trauma）、尿道狹窄（urethral stricture）或性病（sexually transmitted disease）病史會破壞局部組織屏障，增加感染風險<br>(C) 正確，福尼爾壞疽常繼發於尿路感染（urinary tract infection）、副睪炎（epididymitis）或肛門周邊膿瘍（perianal abscess）等局部感染<br>(D) 錯誤，福尼爾壞疽的細菌感染是沿著淺層筋膜（superficial fascia）蔓延，即 Colles 筋膜（Colles' fascia）及 Scarpa 筋膜（Scarpa's fascia），而非深層筋膜（deep fascia）；這也是為何感染可迅速在皮下廣泛擴散而外表皮膚初期可能看起來相對正常",
+    "explanation": "福尼爾壞疽（Fournier gangrene）是會陰及生殖器的壞死性筋膜炎（necrotizing fasciitis），其感染蔓延的筋膜層次是本題核心。<br>(A) 正確，糖尿病（diabetes mellitus）是福尼爾壞疽最常見的危險因子<br>(B) 正確，泌尿道外傷（urogenital trauma）、尿道狹窄（urethral stricture）或性病（sexually transmitted disease）病史會破壞局部組織屏障，增加感染風險<br>(C) 正確，福尼爾壞疽常繼發於尿路感染（urinary tract infection）、副睪炎（epididymitis）或肛門周邊膿瘍（perianal abscess）等局部感染<br>(D) 錯誤，福尼爾壞疽的感染沿淺層筋膜（Colles 筋膜、Dartos 筋膜，可延伸到 Scarpa 筋膜）蔓延，深筋膜與肌肉多不受侵犯，因此感染可在皮下迅速廣泛擴散，而外表皮膚初期可能看起來相對正常",
     "tags": [
       "115-1-5",
       "泌尿外科"
@@ -1260,7 +1260,7 @@
       "D": "eosinophilic granuloma of the femur"
     },
     "answer": "A",
-    "explanation": "（本題有附圖，X 光及 T1 加權磁振造影影像顯示股骨頭病變，需依長期酗酒病史及影像特徵判斷診斷。）<br>長期酗酒（chronic alcoholism）是股骨頭缺血性壞死（avascular necrosis of femoral head）的重要危險因子，T1 加權磁振造影的影像特徵是確診關鍵。<br>(A) 正確，股骨頭缺血性壞死（avascular necrosis，AVN，又稱骨壞死，osteonecrosis）在長期酗酒患者中常見，T1 加權磁振造影（T1WI MRI）上可見股骨頭內低訊號的「新月徵」（crescent sign）或分界線（demarcation line），X 光早期可能正常，晚期出現股骨頭塌陷（subchondral collapse）<br>(B) 錯誤，嚴重髖關節退化性關節炎（severe osteoarthritis of hip）在 X 光上表現為關節間隙狹窄（joint space narrowing）、軟骨下硬化（subchondral sclerosis）及骨刺（osteophyte），通常無 MRI 上的缺血性壞死特徵<br>(C) 錯誤，骨肉瘤（osteogenic sarcoma）好發於青少年，影像上表現為侵襲性骨質破壞合併骨膜反應（periosteal reaction），與此患者年齡及病史不符<br>(D) 錯誤，嗜酸性肉芽腫（eosinophilic granuloma）好發於兒童及年輕人，影像上表現為界限清楚的溶骨性病灶（lytic lesion），與此患者的臨床特性不符",
+    "explanation": "X 光可見左側股骨頭密度不均、硬化，關節間隙大致保留。冠狀面 T1 加權 MRI 可見左股骨頭負重區的正常骨髓脂肪高訊號消失，呈低訊號病灶，右側股骨頭訊號正常。配合長期酗酒病史，診斷為股骨頭缺血性壞死。<br>(A) 正確，酒精與類固醇是非外傷性股骨頭骨壞死的兩大原因，T1 加權 MRI 在負重區呈低訊號帶或低訊號區，是早期診斷最敏感的檢查<br>(B) 錯誤，嚴重髖關節退化性關節炎在 X 光上表現為關節間隙狹窄、軟骨下硬化及骨刺，本例關節間隙大致保留<br>(C) 錯誤，骨肉瘤好發於青少年，影像為侵襲性骨質破壞合併骨膜反應，與本例年齡及影像不符<br>(D) 錯誤，嗜酸性肉芽腫好發於兒童及年輕人，影像為界限清楚的溶骨性病灶，與本例不符",
     "tags": [
       "115-1-5",
       "骨科"
@@ -1298,7 +1298,7 @@
       "D": "監測尿量"
     },
     "answer": "B",
-    "explanation": "腔室症候群（compartment syndrome）的治療重點在於降低腔室內壓（compartment pressure），過量輸液會加重組織水腫及腔室壓力，每小時 1000 mL 的輸液速率明顯過多。<br>(A) 正確，適量單次快速輸注生理食鹽水（normal saline）1000 至 2000 mL 用於維持血流動力學穩定，屬於合理的初始處置<br>(B) 錯誤，乳酸林格氏液（Lactated Ringer's solution）每小時 1000 mL 持續輸注速率過快，會造成組織過度水腫（tissue edema），反而增加腔室內壓（intracompartment pressure），加重腔室症候群，此選項為最不適當的治療方式<br>(C) 正確，腔室症候群合併肌肉壞死（rhabdomyolysis）時，大量鉀離子（potassium）從受損肌肉細胞釋出，需監測血清鉀離子濃度（serum potassium）以防高血鉀症（hyperkalemia）<br>(D) 正確，監測尿量（urine output）以確認腎臟灌流（renal perfusion）是否充足，並評估肌紅蛋白尿（myoglobinuria）對腎臟的損害，目標尿量需維持足夠以沖洗腎小管",
+    "explanation": "腔室症候群合併橫紋肌溶解（擠壓傷）時，要盡早給予等張生理食鹽水，成人起始約 1000 mL/h，維持足夠尿量以預防肌紅素造成急性腎損傷，並監測血鉀。擠壓傷本身已有高血鉀風險，應避免含鉀的溶液，例如乳酸林格氏液（Sever 2012）。<br>(A) 適當，以生理食鹽水快速輸注補充容積，是合理的初始處置<br>(B) 最不適當，乳酸林格氏液含鉀，擠壓傷合併橫紋肌溶解時有高血鉀風險，首選為生理食鹽水，1000 mL/h 的速度本身是建議的起始速度<br>(C) 適當，受損肌肉釋出大量鉀離子，需監測血清鉀以防高血鉀造成心律不整<br>(D) 適當，監測尿量以確認腎臟灌流並評估肌紅素尿對腎臟的影響",
     "tags": [
       "115-1-5",
       "骨科"
