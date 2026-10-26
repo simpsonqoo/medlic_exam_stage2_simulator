@@ -128,7 +128,7 @@
       "D": "先打抗生素作為保守治療，症狀改善後再作延遲的膽囊切除手術，這種策略約有 20％的失敗機會"
     },
     "answer": "B",
-    "explanation": "急性膽囊炎（acute calculous cholecystitis）的診斷影像選擇是本題核心，超音波與電腦斷層在此情境下的角色需明確區分。<br>(A) 正確，急性膽囊炎（acute cholecystitis）典型表現為發燒及右上腹痛，常伴隨墨菲氏徵（Murphy's sign）陽性<br>(B) 錯誤，超音波（ultrasound）對急性膽囊炎的診斷敏感度優於電腦斷層（CT scan），超音波是第一線影像工具，可直接觀察膽結石、膽囊壁增厚及膽囊周圍積液<br>(C) 正確，當解剖構造不清晰時（critical view of safety 無法建立），部分膽囊切除（subtotal cholecystectomy）是避免總膽管（common bile duct）損傷的安全選擇<br>(D) 正確，先以抗生素治療後安排延遲膽囊切除（delayed cholecystectomy）的保守策略，約有 20% 的失敗機率，可能需要緊急手術",
+    "explanation": "急性膽囊炎（acute calculous cholecystitis）的診斷影像選擇是本題核心，超音波與電腦斷層在此情境下的角色需明確區分。<br>(A) 正確，急性膽囊炎（acute cholecystitis）典型表現為發燒及右上腹痛，常伴隨墨菲氏徵（Murphy's sign）陽性<br>(B) 錯誤，超音波（ultrasound）對急性膽囊炎的診斷敏感度優於電腦斷層（CT scan），超音波是第一線影像工具，可直接觀察膽結石、膽囊壁增厚及膽囊周圍積液<br>(C) 正確，當解剖構造不清晰時（critical view of safety 無法建立），部分膽囊切除（subtotal cholecystectomy）是避免總膽管（common bile duct）損傷的安全選擇<br>(D) 正確，先以抗生素治療後安排延遲膽囊切除（delayed cholecystectomy）的保守策略，住院期間約 13% 保守治療失敗（Loozen 2017），等候延遲手術期間約 17.5% 症狀未緩解或復發而需提早手術（Zhou 2014），與題目所述約 20% 相近",
     "tags": [
       "115-1-5",
       "肝膽胰外科"
@@ -213,7 +213,7 @@
       "D": "p53 基因是一種致癌基因，其突變常見於未分化甲狀腺癌（anaplastic thyroid cancer）腫瘤"
     },
     "answer": "D",
-    "explanation": "p53 基因在腫瘤生物學中的角色是解題關鍵，需正確區分抑癌基因（tumor suppressor gene）與致癌基因（oncogene）的概念。<br>(A) 正確，BRAF 基因突變（BRAF mutation）常見於乳突癌（papillary thyroid carcinoma）及未分化癌（anaplastic thyroid carcinoma）<br>(B) 正確，RET 基因突變（RET mutation）可見於甲狀腺髓質癌（medullary thyroid carcinoma），包括遺傳性的多發性內分泌腺瘤（MEN）相關病例<br>(C) 正確，RAS 基因突變（RAS mutation）可見於甲狀腺濾泡腺瘤（follicular thyroid adenoma）與濾泡癌（follicular thyroid carcinoma）<br>(D) 錯誤，p53 是抑癌基因（tumor suppressor gene），而非致癌基因（oncogene）；p53 基因突變（p53 mutation）導致其抑癌功能喪失，常見於未分化甲狀腺癌（anaplastic thyroid carcinoma）",
+    "explanation": "p53 基因在腫瘤生物學中的角色是解題關鍵，需正確區分抑癌基因（tumor suppressor gene）與致癌基因（oncogene）的概念。<br>(A) 正確，BRAF 基因突變（BRAF mutation）常見於乳突癌（papillary thyroid carcinoma）及未分化癌（anaplastic thyroid carcinoma）<br>(B) 正確，RET 基因突變（RET mutation）可見於甲狀腺髓質癌（medullary thyroid carcinoma），包括遺傳性的多發性內分泌腺瘤（MEN）相關病例<br>(C) 正確，RAS 基因突變（RAS mutation）可見於甲狀腺濾泡腺瘤（follicular thyroid adenoma）與濾泡癌（follicular thyroid carcinoma）<br>(D) 錯誤，p53 是抑癌基因（tumor suppressor gene），而非致癌基因（oncogene）。p53 基因突變（p53 mutation）導致其抑癌功能喪失，常見於未分化甲狀腺癌（anaplastic thyroid carcinoma）",
     "tags": [
       "115-1-5",
       "內分泌外科"
@@ -247,7 +247,7 @@
       "D": "目前的研究認為，immunotherapy 對於 MSS 的 colon adenocarcinoma 效果有限"
     },
     "answer": "B",
-    "explanation": "大腸癌的臨床分期（clinical staging）需根據 TNM 系統正確判斷 T 分期與 N 分期，腫瘤侵犯臟層腹膜及淋巴結數目是本題核心。<br>(A) 正確，右側大腸癌（right-sided colon cancer）腸腔較寬，腫瘤多呈息肉狀生長且出血較隱匿，容易以貧血（anemia）為主要表現<br>(B) 錯誤，腫瘤侵犯臟層腹膜（visceral peritoneum）屬於 T4a，而非 T3；6 顆直徑大於 1 公分的腫大淋巴結轉移數目若確認超過 4 顆則為 N2b，因此正確分期應為 cT4aN2bM0，而非 cT3N2bM0<br>(C) 正確，升結腸腫瘤的標準術式為根除性右半結腸切除術（radical right hemicolectomy）合併淋巴結廓清（lymph node dissection）<br>(D) 正確，微衛星穩定型（microsatellite stable，MSS）大腸腺癌對免疫療法（immunotherapy）反應有限，不同於微衛星不穩定型（MSI-H）",
+    "explanation": "大腸癌的臨床分期（clinical staging）需根據 TNM 系統正確判斷 T 分期與 N 分期，腫瘤侵犯臟層腹膜及淋巴結數目是本題核心。<br>(A) 正確，右側大腸癌（right-sided colon cancer）腸腔較寬，腫瘤多呈息肉狀生長且出血較隱匿，容易以貧血（anemia）為主要表現<br>(B) 錯誤，腫瘤侵犯臟層腹膜（visceral peritoneum）屬於 T4a，而非 T3。6 顆區域淋巴結轉移屬於 N2a（4~6 顆），7 顆以上才是 N2b，因此正確分期應為 cT4aN2aM0，而非 cT3N2bM0<br>(C) 正確，升結腸腫瘤的標準術式為根除性右半結腸切除術（radical right hemicolectomy）合併淋巴結廓清（lymph node dissection）<br>(D) 正確，微衛星穩定型（microsatellite stable，MSS）大腸腺癌對免疫療法（immunotherapy）反應有限，不同於微衛星不穩定型（MSI-H）",
     "tags": [
       "115-1-5",
       "大腸直腸外科"
@@ -740,7 +740,7 @@
       "D": "偽囊腫（pseudocyst）形成時，選擇手術引流會優先於內視鏡引流"
     },
     "answer": "B",
-    "explanation": "急性胰臟炎（acute pancreatitis）的手術適應症需嚴格限定，過早手術會增加死亡率，感染性壞死是最主要的手術指標。<br>(A) 錯誤，嚴重型急性胰臟炎（severe acute pancreatitis）不應及早手術清創，早期手術死亡率極高；即使有壞死，無感染證據時應先採保守治療，待壞死組織界限清楚後（通常 4 週後）再介入<br>(B) 正確，手術或侵入性介入主要適用於感染性胰臟壞死（infected pancreatic necrosis）或感染性積聚（infected collection），是目前公認的手術適應症<br>(C) 錯誤，胰臟偽囊腫（pseudocyst）引流方式以內引流（internal drainage）優於外引流（external drainage），因外引流易造成胰臟皮膚瘻管（pancreaticocutaneous fistula）<br>(D) 錯誤，偽囊腫（pseudocyst）引流目前優先考慮內視鏡引流（endoscopic drainage），手術引流（surgical drainage）為內視鏡失敗或不適合時的替代選項",
+    "explanation": "急性胰臟炎（acute pancreatitis）的手術適應症需嚴格限定，過早手術會增加死亡率，感染性壞死是最主要的手術指標。<br>(A) 錯誤，嚴重型急性胰臟炎（severe acute pancreatitis）不應及早手術清創，早期手術死亡率極高。即使有壞死，無感染證據時應先採保守治療，待壞死組織界限清楚後（通常 4 週後）再介入<br>(B) 正確，手術或侵入性介入主要適用於感染性胰臟壞死（infected pancreatic necrosis）或感染性積聚（infected collection），是目前公認的手術適應症<br>(C) 錯誤，胰臟偽囊腫（pseudocyst）引流方式以內引流（internal drainage）優於外引流（external drainage），因外引流易造成胰臟皮膚瘻管（pancreaticocutaneous fistula）<br>(D) 錯誤，偽囊腫（pseudocyst）引流目前優先考慮內視鏡引流（endoscopic drainage），手術引流（surgical drainage）為內視鏡失敗或不適合時的替代選項",
     "tags": [
       "115-1-5",
       "肝膽胰外科"
@@ -774,7 +774,7 @@
       "D": "可給與抑鈣素（calcitonin）"
     },
     "answer": "B",
-    "explanation": "高血鈣症（hypercalcemia）的治療原則包含補充生理食鹽水促進鈣離子排泄，但利尿劑的選擇是關鍵，thiazide 與 furosemide 對鈣離子的影響方向相反。<br>患者 Ca 14.6 mg/dL（正常值 8.5 至 10.5 mg/dL），屬於重度高血鈣症（severe hypercalcemia），合併意識不清。<br>(A) 正確，應檢驗血清磷（phosphorus）及副甲狀腺素（parathyroid hormone，PTH）以鑑別原發性副甲狀腺功能亢進（primary hyperparathyroidism）及其他高血鈣原因<br>(B) 錯誤，高血鈣症的治療應給予大量生理食鹽水（normal saline）擴充血容積後，再給予 furosemide（排鈣型利尿劑）促進鈣離子由腎臟排泄；thiazide 利尿劑會促進腎小管鈣離子再吸收，使血鈣進一步上升，高血鈣症時應禁用<br>(C) 正確，雙磷酸鹽藥物（bisphosphonate）可抑制蝕骨細胞（osteoclast）活性，減少骨骼鈣離子釋出，是高血鈣症的重要治療藥物<br>(D) 正確，抑鈣素（calcitonin）可快速抑制骨骼鈣離子釋出並促進腎臟排鈣，起效快，適合用於重度高血鈣症的急性處置",
+    "explanation": "高血鈣症（hypercalcemia）的治療原則包含補充生理食鹽水促進鈣離子排泄，但利尿劑的選擇是關鍵，thiazide 與 furosemide 對鈣離子的影響方向相反。<br>患者 Ca 14.6 mg/dL（正常值 8.5 至 10.5 mg/dL），屬於重度高血鈣症（severe hypercalcemia），合併意識不清。<br>(A) 正確，應檢驗血清磷（phosphorus）及副甲狀腺素（parathyroid hormone，PTH）以鑑別原發性副甲狀腺功能亢進（primary hyperparathyroidism）及其他高血鈣原因<br>(B) 錯誤，高血鈣症的治療應先給予大量生理食鹽水（normal saline）擴充血容積，促進鈣離子由腎臟排泄，loop 利尿劑（furosemide）只用於補足容積後有容量過多者。thiazide 利尿劑會促進腎小管鈣離子再吸收，使血鈣進一步上升，高血鈣症時應避免使用<br>(C) 正確，雙磷酸鹽藥物（bisphosphonate）可抑制蝕骨細胞（osteoclast）活性，減少骨骼鈣離子釋出，是高血鈣症的重要治療藥物<br>(D) 正確，抑鈣素（calcitonin）可快速抑制骨骼鈣離子釋出並促進腎臟排鈣，起效快，適合用於重度高血鈣症的急性處置",
     "tags": [
       "115-1-5",
       "外科概論"
@@ -859,7 +859,7 @@
       "D": "治療上以根除性手術切除為主，因此手術前完整的影像學檢查與計畫，攸關手術的成敗"
     },
     "answer": "B",
-    "explanation": "威爾姆氏腫瘤（Wilms tumor，又稱腎母細胞瘤，nephroblastoma）的細胞來源及臨床特性是本題核心，其並非來自腎上腺細胞。<br>(A) 正確，威爾姆氏腫瘤常無明顯症狀，多由照顧者在幫兒童洗澡或更衣時無意間觸及腹部腫塊（abdominal mass）而發現<br>(B) 錯誤，威爾姆氏腫瘤的癌細胞來源是後腎胚基（metanephric blastema）細胞，而非腎上腺細胞；此外，並非所有患者都有高血壓（hypertension），高血壓的發生是因腫瘤壓迫腎血管或分泌腎素（renin）所致，並非必然表現<br>(C) 正確，病理上可分為有利組織型（favorable histology）及不利組織型（unfavorable histology，如間變型 anaplastic），對預後及治療計畫有重要影響<br>(D) 正確，根除性腎切除術（radical nephrectomy）是主要治療方式，術前完整影像學評估（包含對側腎臟、血管侵犯及遠端轉移）對手術計畫至關重要",
+    "explanation": "威爾姆氏腫瘤（Wilms tumor，又稱腎母細胞瘤，nephroblastoma）的細胞來源及臨床特性是本題核心，其並非來自腎上腺細胞。<br>(A) 正確，威爾姆氏腫瘤常無明顯症狀，多由照顧者在幫兒童洗澡或更衣時無意間觸及腹部腫塊（abdominal mass）而發現<br>(B) 錯誤，威爾姆氏腫瘤的癌細胞來源是後腎胚基（metanephric blastema）細胞，而非腎上腺細胞。此外，並非所有患者都有高血壓（hypertension），高血壓的發生是因腫瘤壓迫腎血管或分泌腎素（renin）所致，並非必然表現<br>(C) 正確，病理上可分為有利組織型（favorable histology）及不利組織型（unfavorable histology，如間變型 anaplastic），對預後及治療計畫有重要影響<br>(D) 正確，根除性腎切除術（radical nephrectomy）是主要治療方式，術前完整影像學評估（包含對側腎臟、血管侵犯及遠端轉移）對手術計畫至關重要",
     "tags": [
       "115-1-5",
       "小兒外科"
@@ -914,7 +914,7 @@
       "D": "腹腔引流管應常規使用，以減少術後感染及腸道功能障礙"
     },
     "answer": "B",
-    "explanation": "大腸直腸外科術後加速康復計畫（enhanced recovery protocol，ERP）的術前準備策略是本題核心，機械性腸道準備合併口服抗生素的適應術式需正確識別。<br>(A) 錯誤，單純機械性腸道準備（mechanical bowel preparation，MBP）並無法有效降低術後感染風險，需與口服抗生素（oral antibiotics）合併使用才有效果<br>(B) 正確，進行左側或直腸切除手術（left-sided or rectal resection）時，機械性腸道準備合併口服抗生素（如 neomycin 加 metronidazole）是目前 ERP 建議的標準術前準備方式，可有效降低手術部位感染（surgical site infection）<br>(C) 錯誤，gabapentin 是抗癲癇藥物，在術後疼痛管理中偶有使用但並非首選；鴉片類藥物（opioids）會抑制腸道蠕動，不利腸功能恢復，ERP 原則是儘量減少鴉片類藥物使用，以多模式鎮痛（multimodal analgesia）取代<br>(D) 錯誤，ERP 原則建議選擇性不常規放置腹腔引流管（abdominal drain），研究顯示常規引流並不降低術後感染或吻合口漏（anastomotic leak）的發生率",
+    "explanation": "大腸直腸外科術後加速康復計畫（enhanced recovery protocol，ERP）的術前準備策略是本題核心，機械性腸道準備合併口服抗生素的適應術式需正確識別。<br>(A) 錯誤，單純機械性腸道準備（mechanical bowel preparation，MBP）並無法有效降低術後感染風險，需與口服抗生素（oral antibiotics）合併使用才有效果<br>(B) 正確，進行左側或直腸切除手術（left-sided or rectal resection）時，機械性腸道準備合併口服抗生素（如 neomycin 加 metronidazole）是目前 ERP 建議的標準術前準備方式，可有效降低手術部位感染（surgical site infection）<br>(C) 錯誤，gabapentin 是抗癲癇藥物，在術後疼痛管理中偶有使用但並非首選。鴉片類藥物（opioids）會抑制腸道蠕動，不利腸功能恢復，ERP 原則是儘量減少鴉片類藥物使用，以多模式鎮痛（multimodal analgesia）取代<br>(D) 錯誤，ERP 原則建議選擇性不常規放置腹腔引流管（abdominal drain），研究顯示常規引流並不降低術後感染或吻合口漏（anastomotic leak）的發生率",
     "tags": [
       "115-1-5",
       "大腸直腸外科"
