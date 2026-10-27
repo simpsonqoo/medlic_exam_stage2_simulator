@@ -183,7 +183,7 @@
       "D": "深部靜脈血栓"
     },
     "answer": "D",
-    "explanation": "此題考查CHA2DS2-VASc評分系統的項目。深部靜脈血栓不是評分項目。<br>(A) 正確，心衰竭（Congestive heart failure）是CHA2DS2-VASc評分項目，計1分<br>(B) 錯誤，冠狀動脈心臟病不是CHA2DS2-VASc評分項目。評分項目中的「V」代表血管疾病（Vascular disease），包括心肌梗塞病史、周邊動脈疾病或主動脈斑塊，而非單純的冠狀動脈心臟病<br>(C) 正確，年齡65-74歲計1分（A代表Age）<br>(D) 錯誤，深部靜脈血栓（deep vein thrombosis）不是CHA2DS2-VASc評分項目",
+    "explanation": "此題考查 CHA2DS2-VASc 評分系統的項目。計分項目為心衰竭、高血壓、年齡 65~74 歲（1 分）與 ≥ 75 歲（2 分）、糖尿病、中風或血栓栓塞病史（2 分）、血管疾病與女性。血管疾病（V）包括心肌梗塞病史、周邊動脈疾病與主動脈斑塊，ESC 另納入血管攝影證實的顯著冠狀動脈疾病。深部靜脈血栓不在計分項目內。<br>(A) 是計分項目，不是本題答案，心衰竭（Congestive heart failure）計 1 分<br>(B) 是計分項目，不是本題答案，冠狀動脈心臟病屬於血管疾病（Vascular disease）<br>(C) 是計分項目，不是本題答案，年齡 65~74 歲計 1 分，≥ 75 歲計 2 分<br>(D) 不是計分項目，所以是本題答案，深部靜脈血栓（deep vein thrombosis）不在 CHA2DS2-VASc 內",
     "tags": [
       "111-2-3(三)",
       "心臟內科"

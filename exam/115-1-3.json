@@ -9,7 +9,7 @@
       "D": "Strawbridge 等人 1994 年設計的 Frailty Measure，problem/difficulties in≧2 domains 即為衰弱"
     },
     "answer": "A,C",
-    "explanation": "本題公告答案 A、C 均給分。衰弱（frailty）的評估工具各有不同的判斷標準，Linda Fried的Physical Frailty Index（表型評估）門檻設定是關鍵考點。<br>(A) 錯誤，Linda Fried的Physical Frailty Index共有5項指標（體重下降、疲憊感、握力低下、步行速度慢、低活動量），符合≧3項才定義為衰弱（frailty），符合1～2項為衰弱前期（pre-frailty），≧1分即為衰弱的說法是錯誤的<br>(B) 正確，Kenneth Rockwood的累積缺損衰弱指數（Cumulative Deficit Frailty Index）以「有缺損的面向數／評估的面向總數」計算，得到0到1之間的分數，評估面向涵蓋廣泛<br>(C) 公告給分，易損老人調查問卷（Vulnerable Elders Survey-13，VES-13，題目誤拼為 Venerable）以≧3分定義易損（vulnerable）老人，是篩檢 2 年內功能下降或死亡高風險者的工具，並非衰弱的診斷切點，因此「≧3分即為衰弱」的敘述不精確<br>(D) 正確，Strawbridge等人1998年設計的Frailty Measure以≧2個領域出現問題或困難作為衰弱的判斷標準（題目寫 1994 年，原始文獻為 1998 年）",
+    "explanation": "本題公告答案 A、C 均給分。衰弱（frailty）的評估工具各有不同的判斷標準，Linda Fried的Physical Frailty Index（表型評估）有其門檻設定。<br>(A) 錯誤，Linda Fried的Physical Frailty Index共有5項指標（體重下降、疲憊感、握力低下、步行速度慢、低活動量），符合≧3項才定義為衰弱（frailty），符合1～2項為衰弱前期（pre-frailty），≧1分即為衰弱的說法是錯誤的<br>(B) 正確，Kenneth Rockwood的累積缺損衰弱指數（Cumulative Deficit Frailty Index）以「有缺損的面向數／評估的面向總數」計算，得到0到1之間的分數，評估面向涵蓋廣泛<br>(C) 公告給分，易損老人調查問卷（Vulnerable Elders Survey-13，VES-13，題目誤拼為 Venerable）以≧3分定義易損（vulnerable）老人，是篩檢 2 年內功能下降或死亡高風險者的工具，並非衰弱的診斷切點，因此「≧3分即為衰弱」的敘述不精確<br>(D) 正確，Strawbridge等人1998年設計的Frailty Measure以≧2個領域出現問題或困難作為衰弱的判斷標準（題目寫 1994 年，原始文獻為 1998 年）",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -307,7 +307,7 @@
       "D": "肝移植是 HRS 最有效的治療，且可恢復腎功能"
     },
     "answer": "D",
-    "explanation": "肝腎症候群（hepatorenal syndrome，HRS）是嚴重肝臟疾病導致的功能性腎衰竭，其病理機轉與治療策略是考試重點。<br>(A) 錯誤，HRS是功能性腎衰竭（functional renal failure），腎臟本身無結構性病理改變，腎臟切片通常正常，這也是其可在肝移植後恢復腎功能的原因<br>(B) 錯誤，HRS的主要病理機轉是內臟血管擴張（splanchnic vasodilation）導致有效動脈血容量不足，進而引發腎血管收縮（renal vasoconstriction）與腎血流減少，而非腎血管擴張<br>(C) 錯誤，HRS治療首選為血管收縮劑（如terlipressin或norepinephrine）合併白蛋白（albumin）輸注，而非利尿劑與血管擴張劑<br>(D) 正確，肝臟移植（liver transplantation）是HRS最根本且最有效的治療，移植後肝功能恢復可逆轉腎臟的功能性損傷，恢復腎功能",
+    "explanation": "肝腎症候群（hepatorenal syndrome，HRS）是嚴重肝臟疾病導致的功能性腎衰竭。<br>(A) 錯誤，HRS是功能性腎衰竭（functional renal failure），腎臟本身無結構性病理改變，腎臟切片通常正常，這也是其可在肝移植後恢復腎功能的原因<br>(B) 錯誤，HRS的主要病理機轉是內臟血管擴張（splanchnic vasodilation）導致有效動脈血容量不足，進而引發腎血管收縮（renal vasoconstriction）與腎血流減少，而非腎血管擴張<br>(C) 錯誤，HRS治療首選為血管收縮劑（如terlipressin或norepinephrine）合併白蛋白（albumin）輸注，而非利尿劑與血管擴張劑<br>(D) 正確，肝臟移植（liver transplantation）是HRS最根本且最有效的治療，移植後肝功能恢復可逆轉腎臟的功能性損傷，恢復腎功能",
     "tags": [
       "115-1-3",
       "肝膽內科"
@@ -392,7 +392,7 @@
       "D": "電腦斷層血管攝影（CT angiography）對於診斷上腸繫膜動脈阻塞具有高敏感度"
     },
     "answer": "C",
-    "explanation": "急性腸繫膜缺血（acute mesenteric ischemia）是外科急症，若延誤處理死亡率極高，其治療策略的優先順序是關鍵考點。<br>(A) 正確，急性腸繫膜缺血可由上腸繫膜動脈（superior mesenteric artery）血栓（thrombosis）或栓塞（embolism）引起<br>(B) 正確，疾病初期腸道尚未壞死，腹膜刺激徵象（如反彈痛）通常不明顯，呈現「症狀嚴重但腹部診察輕微」的特徵，是重要的臨床警訊<br>(C) 錯誤，急性腸繫膜缺血若合併腸壞死、腹膜炎或保守治療無效時，必須盡早進行手術治療（開腹探查及壞死腸段切除），以內科治療為優先並儘量避免手術的說法錯誤且危險<br>(D) 正確，電腦斷層血管攝影（CT angiography）對於診斷上腸繫膜動脈（superior mesenteric artery）阻塞具有高度敏感性，是首選的影像學診斷工具",
+    "explanation": "急性腸繫膜缺血（acute mesenteric ischemia）是外科急症，若延誤處理死亡率極高。<br>(A) 正確，急性腸繫膜缺血可由上腸繫膜動脈（superior mesenteric artery）血栓（thrombosis）或栓塞（embolism）引起<br>(B) 正確，疾病初期腸道尚未壞死，腹膜刺激徵象（如反彈痛）通常不明顯，呈現「症狀嚴重但腹部診察輕微」的特徵，是重要的臨床警訊<br>(C) 錯誤，急性腸繫膜缺血若合併腸壞死、腹膜炎或保守治療無效時，必須盡早進行手術治療（開腹探查及壞死腸段切除），以內科治療為優先並儘量避免手術的說法錯誤且危險<br>(D) 正確，電腦斷層血管攝影（CT angiography）對於診斷上腸繫膜動脈（superior mesenteric artery）阻塞具有高度敏感性，是首選的影像學診斷工具",
     "tags": [
       "115-1-3",
       "腸胃內科"
@@ -647,7 +647,7 @@
       "D": "少數的子宮頸癌與 HPV 無關（所謂的 HPV-negative cervical cancers），多發生於年輕的女性"
     },
     "answer": "A",
-    "explanation": "人類乳突病毒（human papillomavirus，HPV）的高風險型別（high-risk strains）與子宮頸癌（cervical cancer）的關係，以及HPV致癌機轉中相關致癌基因的靶點是考試重點。<br>(A) 正確，HPV16與HPV18是與子宮頸癌最密切相關的高風險型別（high-risk strains），合計約佔子宮頸癌病例的70%<br>(B) 錯誤，HPV在導致上皮細胞癌化（carcinogenesis）的過程中，基因體會從游離形式（episomal form）整合（integrate）至宿主細胞的DNA中，整合後E2基因功能喪失，導致E6、E7基因大量表現，此選項說「不會嵌入宿主細胞DNA」錯誤<br>(C) 錯誤，HPV的E6基因產物作用於宿主的p53（使其降解），E7基因產物作用於視網膜母細胞瘤蛋白（RB protein），選項中E7與E8的配對及功能描述錯誤，應為E6對應p53、E7對應RB<br>(D) 錯誤，HPV陰性子宮頸癌（HPV-negative cervical cancer）雖為少數，但多發生於年齡較大的女性，而非年輕女性",
+    "explanation": "人類乳突病毒（human papillomavirus，HPV）的高風險型別（high-risk strains）與子宮頸癌（cervical cancer）有關，HPV致癌機轉中有相關致癌基因的靶點。<br>(A) 正確，HPV16與HPV18是與子宮頸癌最密切相關的高風險型別（high-risk strains），合計約佔子宮頸癌病例的70%<br>(B) 錯誤，HPV在導致上皮細胞癌化（carcinogenesis）的過程中，基因體會從游離形式（episomal form）整合（integrate）至宿主細胞的DNA中，整合後E2基因功能喪失，導致E6、E7基因大量表現，此選項說「不會嵌入宿主細胞DNA」錯誤<br>(C) 錯誤，HPV的E6基因產物作用於宿主的p53（使其降解），E7基因產物作用於視網膜母細胞瘤蛋白（RB protein），選項中E7與E8的配對及功能描述錯誤，應為E6對應p53、E7對應RB<br>(D) 錯誤，HPV陰性子宮頸癌（HPV-negative cervical cancer）雖為少數，但多發生於年齡較大的女性，而非年輕女性",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -715,7 +715,7 @@
       "D": "在確診肺癌之後，戒菸對病患則無幫助"
     },
     "answer": "A",
-    "explanation": "肺癌的組織型別與吸菸的關聯性、各型別的流行病學特性是考試重點，需正確辨識各型別的危險因子分布。<br>(A) 正確，在四種主要肺癌組織型中，鱗狀上皮細胞癌（squamous cell carcinoma）與小細胞癌（small cell carcinoma）與重度吸菸（heavy smoking）的相關性最強，兩者均高度與吸菸相關<br>(B) 錯誤，女性及年輕（小於60歲）的肺癌患者最常見的組織型為腺癌（adenocarcinoma），而非大細胞癌（large cell carcinoma），腺癌在不吸菸者與女性中比例較高<br>(C) 錯誤，第四期非小細胞肺癌（non-small cell lung cancer，NSCLC）進一步區分組織型仍具重要臨床意義，腺癌（adenocarcinoma）患者需檢測EGFR、ALK、ROS1等基因突變以決定是否適合標靶治療（targeted therapy）或免疫治療（immunotherapy），鱗狀上皮細胞癌的治療策略亦有所不同<br>(D) 錯誤，確診肺癌後戒菸仍有明確益處，包含改善治療反應、減少併發症、延長存活期，戒菸對肺癌病人並非無幫助",
+    "explanation": "肺癌的組織型別與吸菸的關聯性及各型別的流行病學特性不同。<br>(A) 正確，在四種主要肺癌組織型中，鱗狀上皮細胞癌（squamous cell carcinoma）與小細胞癌（small cell carcinoma）與重度吸菸（heavy smoking）的相關性最強，兩者均高度與吸菸相關<br>(B) 錯誤，女性及年輕（小於60歲）的肺癌患者最常見的組織型為腺癌（adenocarcinoma），而非大細胞癌（large cell carcinoma），腺癌在不吸菸者與女性中比例較高<br>(C) 錯誤，第四期非小細胞肺癌（non-small cell lung cancer，NSCLC）進一步區分組織型仍具重要臨床意義，腺癌（adenocarcinoma）患者需檢測EGFR、ALK、ROS1等基因突變以決定是否適合標靶治療（targeted therapy）或免疫治療（immunotherapy），鱗狀上皮細胞癌的治療策略亦有所不同<br>(D) 錯誤，確診肺癌後戒菸仍有明確益處，包含改善治療反應、減少併發症、延長存活期，戒菸對肺癌病人並非無幫助",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -1123,7 +1123,7 @@
       "D": "肌耐力測量可計算連續半身仰臥起坐（partial curl-up）的次數"
     },
     "answer": "D",
-    "explanation": "肌少症的評估分三個面向：肌肉量（四肢骨骼肌質量 ASM/身高²）以 DXA 或 BIA 測量，肌力以握力（男性 &lt; 28 kg，女性 &lt; 18 kg）評估，身體功能表現以 6 公尺步行速度（步速 &lt; 1.0 m/s）、五次起立坐下（≥ 12 秒）、簡易體能表現量表（SPPB ≤ 9 分）評估。本題要找錯誤的敘述。<br>(A) 正確，骨骼肌量可用 DXA 測量<br>(B) 正確，肌力以握力測量<br>(C) 正確，活動力表現可測量 6 公尺步行速度<br>(D) 錯誤，肌少症的功能表現評估用步行速度、五次起立坐下與 SPPB，不包括半身仰臥起坐，所以是本題答案",
+    "explanation": "AWGS 2025 以肌肉量（四肢骨骼肌質量 ASM，DXA 或 BIA 測量）與肌力（握力，65 歲以上男性 &lt; 28 kg，女性 &lt; 18 kg）診斷肌少症，身體功能表現以 6 公尺步行速度（步速 &lt; 1.0 m/s）、五次起立坐下（≥ 12 秒）、簡易體能表現量表（SPPB ≤ 9 分）評估，改列為結果評估。本題要找錯誤的敘述。<br>(A) 正確，骨骼肌量可用 DXA 測量<br>(B) 正確，肌力以握力測量<br>(C) 正確，活動力表現可測量 6 公尺步行速度<br>(D) 錯誤，肌少症的功能表現評估用步行速度、五次起立坐下與 SPPB，不包括半身仰臥起坐，所以是本題答案",
     "tags": [
       "115-1-3",
       "家醫科"

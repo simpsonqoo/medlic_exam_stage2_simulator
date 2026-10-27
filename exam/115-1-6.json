@@ -681,7 +681,7 @@
       "D": "可能發生 uterine perforation"
     },
     "answer": "A",
-    "explanation": "手術性子宮鏡（operative hysteroscopy）相較於診斷性子宮鏡（diagnostic hysteroscopy）操作複雜度更高，使用的器械更多，併發症發生率理應有所差異。<br>(A) 正確，手術性子宮鏡因需置入切除器械、使用膨宮液（distension media）量更多、操作時間更長，發生併發症的機率高於診斷性子宮鏡，兩者機率並不相當<br>(B) 正確，手術性子宮鏡可用於沾黏去除（adhesiolysis）及黏膜下肌瘤切除（submucosal myomectomy）<br>(C) 正確，若使用氣體膨宮（CO₂）或操作不當導致氣體進入血管，可能發生氣體栓塞（air embolus）<br>(D) 正確，子宮穿孔（uterine perforation）是子宮鏡手術的已知風險，操作時需謹慎",
+    "explanation": "手術性子宮鏡（operative hysteroscopy）相較於診斷性子宮鏡（diagnostic hysteroscopy）操作複雜度更高，使用的器械更多，併發症發生率理應有所差異。<br>(A) 不適當，手術性子宮鏡因需置入切除器械、使用膨宮液（distension media）量更多、操作時間更長，發生併發症的機率高於診斷性子宮鏡，兩者機率並不相當，所以是本題答案<br>(B) 適當，手術性子宮鏡可用於沾黏去除（adhesiolysis）及黏膜下肌瘤切除（submucosal myomectomy）<br>(C) 適當，若使用氣體膨宮（CO₂）或操作不當導致氣體進入血管，可能發生氣體栓塞（air embolus）<br>(D) 適當，子宮穿孔（uterine perforation）是子宮鏡手術的已知風險，操作時需謹慎",
     "tags": [
       "115-1-6",
       "婦產科"
@@ -877,7 +877,7 @@
       "D": "loop electrosurgical excision procedure（LEEP）"
     },
     "answer": "B",
-    "explanation": "子宮頸抹片高度上皮內贅瘤（HSIL，high-grade squamous intraepithelial lesion）的後續處置需針對病灶本身進行診斷性或治療性介入，子宮頸癌疫苗（HPV vaccine）是預防性而非治療性措施。<br>(A) 正確，陰道鏡檢查加子宮頸切片（colposcopy + cervical biopsy）是 HSIL 後最標準的下一步，用以確認病灶範圍及等級<br>(B) 正確，子宮頸癌疫苗（HPV vaccine）是預防性疫苗，對已存在的 HPV 感染或 HSIL 病灶無治療效果，施打疫苗不適當作為 HSIL 的後續處置<br>(C) 正確，子宮頸錐狀切除（conization）是 HSIL 的診斷兼治療性手術，可切除病灶並提供完整病理標本<br>(D) 正確，LEEP（loop electrosurgical excision procedure）是另一種常用的子宮頸病灶切除方式，適用於 HSIL 的治療",
+    "explanation": "子宮頸抹片高度上皮內贅瘤（HSIL，high-grade squamous intraepithelial lesion）的後續處置需針對病灶本身進行診斷性或治療性介入，子宮頸癌疫苗（HPV vaccine）是預防性而非治療性措施。<br>(A) 適當，陰道鏡檢查加子宮頸切片（colposcopy + cervical biopsy）是 HSIL 後最標準的下一步，用以確認病灶範圍及等級<br>(B) 不適當，子宮頸癌疫苗（HPV vaccine）是預防性疫苗，對已存在的 HPV 感染或 HSIL 病灶無治療效果，所以是本題答案<br>(C) 適當，子宮頸錐狀切除（conization）是 HSIL 的診斷兼治療性手術，可切除病灶並提供完整病理標本<br>(D) 適當，LEEP（loop electrosurgical excision procedure）是另一種常用的子宮頸病灶切除方式，適用於 HSIL 的治療",
     "tags": [
       "115-1-6",
       "婦產科"
