@@ -217,7 +217,7 @@
       "E": "一律給分"
     },
     "answer": "E",
-    "explanation": "此題考選部公告一律給分。依現行指引（ESC 2019 慢性冠心症、ACC/AHA 穩定型缺血性心臟病），各選項分析如下：<br>(A) 錯誤，無禁忌症時乙型交感神經阻斷劑為第一線抗心絞痛藥物，曾發生心肌梗塞者更應使用（可降低死亡率），並非除外<br>(B) 正確，合併高血壓、糖尿病、左心室功能不全或慢性腎臟病者建議使用血管張力素轉換酶抑制劑，使用時需監測腎功能與血鉀<br>(C) 錯誤，鈣離子通道阻斷劑可與長效硝化物合用。下肢水腫是 dihydropyridine 類鈣離子通道阻斷劑本身的副作用，並非不可合用的理由<br>(D) 錯誤，dipyridamole 的抗血小板效果不如阿斯匹靈，且可能因冠脈竊血誘發心絞痛，不建議常規使用",
+    "explanation": "穩定心絞痛的藥物治療：β 阻斷劑為勞累型心絞痛首選，曾發生心肌梗塞者應使用（可降低死亡率）。CCB 可與長效 nitrates 合用，水腫是 DHP 類 CCB 的主要副作用。Dipyridamole 抗血小板效果不如 aspirin，不建議常規使用。ACEI 在合併高血壓、糖尿病、慢性腎病或左心室功能不全時應使用，需監測腎功能變化，ACEI 不耐受時改用 ARB。本題公告答案為一律給分。<br>(A) 錯誤，曾發生心肌梗塞者更應使用 β 阻斷劑，不是除外<br>(B) 與卡片相符，合併糖尿病或左心室功能不全者應使用 ACEI，並監測腎功能<br>(C) 錯誤，CCB 可與長效 nitrates 合用，水腫是 DHP 類 CCB 本身的副作用<br>(D) 錯誤，dipyridamole 抗血小板效果不如 aspirin，不建議常規使用<br>(E) 公告一律給分，作答任何選項皆給分",
     "tags": [
       "114-2-3(三)",
       "心臟內科"
@@ -390,7 +390,7 @@
       "D": "gastroesophageal reflux disease為相當盛行的文明病，其致病機轉包括transient lower esophageal sphincter（LES）relaxation、LES hypotension、anatomical distortion"
     },
     "answer": "D",
-    "explanation": "此題考查食道運動障礙疾病的臨床特徵。胃食道逆流疾病的致病機轉描述正確。<br>(A) 錯誤，賁門失弛緩症（achalasia）好發於30～60歲的中年族群，而非60～80歲的年邁族群<br>(B) 錯誤，這些X光表現（corkscrew esophagus等）是瀰漫性食道痙攣（diffuse esophageal spasm）的特徵，而非嗜酸性食道炎<br>(C) 錯誤，嗜酸性食道炎的切片檢查可發現嗜酸性球浸潤，對口服類固醇效果良好。瀰漫性食道痙攣不會有這些組織學變化<br>(D) 正確，胃食道逆流疾病的致病機轉包括暫時性下食道括約肌鬆弛、下食道括約肌壓力過低及解剖構造異常",
+    "explanation": "食道運動障礙與相關疾病的特徵：賁門失弛緩症（achalasia）各年齡層皆可能發生，以 25~60 歲成人最常見，男女比例相當。瀰漫性食道痙攣（DES）罕見，症狀為吞嚥困難與非心因性胸痛，鋇劑食道攝影可見 corkscrew esophagus、rosary bead esophagus、pseudodiverticula，藥物治療用 CCB、nitrates、PDE-5 inhibitors。嗜酸性食道炎（EoE）的發生率與盛行率近二十年持續上升，成人以吞嚥困難與食物嵌塞為主，診斷為食道切片嗜酸性球 ≥ 15 個/高倍視野，治療為吞服局部類固醇。胃食道逆流疾病（GERD）的致病機轉為短暫性 LES 鬆弛（TLESR）為主因或 LES 壓力不足，食道裂孔疝氣為最重要的結構因素。<br>(A) 錯誤，achalasia 以 25~60 歲成人最常見，不是 60~80 歲<br>(B) 錯誤，corkscrew esophagus、rosary bead esophagus、pseudodiverticula 是 DES 的鋇劑表現，EoE 以吞嚥困難與食物嵌塞為主<br>(C) 錯誤，發生率逐年增加、切片嗜酸性球浸潤、類固醇有效是 EoE 的特徵，DES 治療用 CCB、nitrates、PDE-5 inhibitors<br>(D) 正確，GERD 的致病機轉包括短暫性 LES 鬆弛、LES 壓力不足與解剖異常",
     "tags": [
       "114-2-3(三)",
       "腸胃內科"
@@ -770,7 +770,7 @@
       "D": "血壓"
     },
     "answer": "A",
-    "explanation": "此題考查CURB-65評分系統。CURB-65不包含心跳次數。<br>(A) 錯誤，心跳次數不是CURB-65的評估項目<br>(B) 正確，U代表尿素氮（Urea）升高（BUN &gt; 20 mg/dL）<br>(C) 正確，R代表呼吸次數（Respiratory rate）≥ 30次/分<br>(D) 正確，B代表血壓（Blood pressure）降低（收縮壓&lt;90或舒張壓≤60 mmHg）<br>*CURB-65包括：C（意識混亂Confusion）、U（尿素氮Urea）、R（呼吸次數Respiratory rate）、B（血壓Blood pressure）、65（年齡≥65歲）",
+    "explanation": "CURB-65 用來評估社區型肺炎的住院必要性與死亡風險，每項 1 分，總分 0~5 分，包括：C（Confusion）意識混亂，U（Urea）血中尿素氮（BUN）&gt; 19 mg/dL，R（Respiratory rate）呼吸速率 ≥ 30 次/分鐘，B（Blood pressure）收縮壓 &lt; 90 mmHg 或舒張壓 ≤ 60 mmHg，65 為年齡 ≥ 65 歲。本題要找不是 CURB-65 項目的選項。<br>(A) 心跳次數不是 CURB-65 的項目，所以是本題答案<br>(B) 是項目，U 為血中尿素氮升高<br>(C) 是項目，R 為呼吸速率 ≥ 30 次/分鐘<br>(D) 是項目，B 為血壓偏低",
     "tags": [
       "114-2-3(三)",
       "胸腔內科"
@@ -1008,7 +1008,7 @@
       "D": "腦脊髓液與血液葡萄糖濃度比值（CSF/serum glucose ratio）下降至小於0.4"
     },
     "answer": "D",
-    "explanation": "此題考查病毒性腦炎的腦脊髓液檢查。病毒性腦炎的腦脊髓液葡萄糖通常正常。<br>(A) 正確，病毒性腦炎（特別是疱疹病毒腦炎）可能有紅血球增加<br>(B) 正確，病毒性腦炎時蛋白質濃度會輕度至中度增加<br>(C) 正確，病毒性腦炎的白血球增加且以淋巴球為主<br>(D) 錯誤，病毒性腦炎的腦脊髓液葡萄糖通常正常或輕度降低，CSF/serum glucose ratio通常&gt;0.6，不會下降至&lt;0.4（細菌性腦膜炎才會如此低）",
+    "explanation": "病毒性腦炎的 CSF：紅血球可增加（HSV 為出血性壞死），蛋白質輕度上升，葡萄糖正常。與腦膜炎比較，病毒性腦膜炎的白血球中等（約 100~1,000/μL），以淋巴球為主，早期可為 PMN。細菌性腦膜炎的葡萄糖才會偏低（CSF/serum &lt; 0.4）。本題要找最不可能出現的結果。<br>(A) 可能出現，HSV 腦炎為出血性壞死，紅血球可增加<br>(B) 可能出現，蛋白質輕度上升<br>(C) 可能出現，白血球增加且以淋巴球為主<br>(D) 最不可能，病毒性腦炎的葡萄糖正常，CSF/serum glucose ratio &lt; 0.4 是細菌性腦膜炎的表現，所以是本題答案",
     "tags": [
       "114-2-3(三)",
       "感染科"

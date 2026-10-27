@@ -128,7 +128,7 @@
       "D": "外傷（trauma）"
     },
     "answer": "C,D",
-    "explanation": "靜脈血栓栓塞症（venous thromboembolism，VTE）停用抗凝血藥物後的再發風險，取決於初始血栓的誘發因子是否可逆或持續存在。<br>(A) 錯誤，活動性癌症（active cancer）屬於持續性強烈危險因子，屬高風險（再發 &gt; 8%/年），癌症活動期間需持續抗凝<br>(B) 錯誤，長途飛行（long-haul flight）雖然是暫時性的誘發因子，但屬輕微暫時因子，停藥後再發風險為中度（3~8%/年）<br>(C) 公告答案給分，但依 ESC 2019，無可確認誘發因子（unprovoked VTE）屬中風險（3~8%/年），高於重大暫時可逆因子，需考慮延長抗凝治療<br>(D) 正確，外傷（trauma）是明確的暫時性強誘發因子，屬重大暫時可逆因子（尤其合併骨折），再發風險最低（&lt; 3%/年），完成 3 個月療程後通常可停藥",
+    "explanation": "肺栓塞停用抗凝劑後的 VTE 再發風險（ESC 2019）：低風險（再發 &lt; 3%/年）為重大暫時可逆因子，如手術（全身麻醉 &gt; 30 分鐘）、外傷併骨折、因急性疾病住院臥床 ≥ 3 天。中風險（3~8%/年）為輕微暫時因子（長途飛行、雌激素治療、懷孕與產褥期、輕微手術、不含骨折的下肢外傷致活動受限）、非惡性的持續因子與無可確認的危險因子。高風險（&gt; 8%/年）為活動性癌症、曾有 ≥ 1 次 VTE 而無重大暫時因子、抗磷脂質抗體症候群。重大暫時因子者 3 個月後即可停藥，中風險者考慮延長抗凝，高風險者建議延長抗凝。本題公告答案為 C、D 給分。<br>(A) 錯誤，活動性癌症為高風險，癌症活動期間需持續抗凝<br>(B) 錯誤，長途飛行為輕微暫時因子，屬中風險<br>(C) 公告答案給分，但依卡片的 ESC 2019，無可確認的危險因子屬中風險，需考慮延長抗凝<br>(D) 正確，外傷（尤其併骨折）為重大暫時可逆因子，屬低風險，再發風險最低",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -218,7 +218,7 @@
       "D": "血流儲備分數（fractional flow reserve, FFR）實際上是測量狹窄遠端及近端的壓力比值，在以藥物引發 最大充血（maximal hyperemia）情況下，若 FFR＜0.8 表示病灶狹窄程度顯著，具有影響血行動力學之意義"
     },
     "answer": "B",
-    "explanation": "心導管檢查中的血流分級（TIMI flow grade）定義需精確掌握，尤其是各級別的定義差異。<br>(A) 正確，心肌橋（myocardial bridge）壓迫左前降支（left anterior descending artery）造成收縮期變細、舒張期恢復的現象稱為「擠乳效應（milking effect）」，是典型表現<br>(B) 錯誤，題目描述的「顯影劑僅能微量充盈遠端血管」應定義為TIMI一級（TIMI grade 1）血流，而非TIMI三級。TIMI三級（TIMI grade 3）指遠端血管完全且迅速充盈，與正常血流相當<br>(C) 正確，血管內超音波（intravascular ultrasound，IVUS）與光學同調斷層攝影（optical coherence tomography，OCT）均可送入冠狀動脈內觀測，OCT空間解析度較高但穿透深度較淺<br>(D) 正確，血流儲備分數（fractional flow reserve，FFR）測量狹窄遠端與近端的壓力比值，在最大充血狀態下FFR＜0.80表示具有血行動力學意義的狹窄",
+    "explanation": "心導管檢查的知識點：TIMI 1 級為顯影劑可穿過病灶，但遠端血管僅微量充盈。TIMI 3 級為遠端血管完全且快速充盈與清除，與正常血流相當。心肌橋（最常見於左前降支）走行於心肌內，收縮期受壓變細、舒張期恢復（milking effect），多為良性偶然發現。IVUS 空間解析度約 100 μm，穿透深度約 5~6 mm。OCT 空間解析度約 10~20 μm（高於 IVUS），穿透深度約 1~2 mm（較淺）。FFR 以壓力導絲測量狹窄遠端與近端壓力比值，須在藥物（如 adenosine）誘發最大充血狀態下測量，FFR ≤ 0.80 代表狹窄具血行動力學意義。本題要找最不適當的敘述。<br>(A) 正確，心肌橋壓迫左前降支，收縮期變細、舒張期恢復<br>(B) 錯誤，遠端僅微量充盈是 TIMI 1 級，不是 TIMI 3 級，所以是本題答案<br>(C) 正確，OCT 解析度高於 IVUS，但穿透深度較淺<br>(D) 正確，FFR 在最大充血下測量，FFR 降到 0.8 左右以下代表具血行動力學意義",
     "tags": [
       "115-1-3",
       "心臟內科"
@@ -273,7 +273,7 @@
       "D": "使用氫離子幫浦阻斷劑（proton pump inhibitor）數個月，發生腹瀉，要懷疑有無困難梭菌（Clostridium difficile）感染"
     },
     "answer": "B",
-    "explanation": "消化性潰瘍（peptic ulcer disease）用藥的正確知識需區分各藥物的作用機轉與停藥原因。<br>(A) 正確，sucralfate標準用法為每次1 g，每日4次（三餐前及睡前）<br>(B) 錯誤，因N-亞硝基二甲胺（N-nitrosodimethylamine，NDMA）污染而被下架的是ranitidine（雷尼替丁），而非cimetidine。cimetidine目前仍在使用中，此敘述張冠李戴<br>(C) 正確，氫離子幫浦抑制劑（proton pump inhibitor，PPI）抑制胃酸分泌後，透過負回饋機制導致血中胃泌素（gastrin）濃度上升<br>(D) 正確，長期使用PPI會改變腸道菌叢，增加困難梭菌（Clostridioides difficile，舊稱Clostridium difficile）感染的風險，出現腹瀉時需警覺",
+    "explanation": "消化性潰瘍用藥的知識點：sucralfate 為雙醣類，在酸性環境下聚合成膠狀物質覆蓋潰瘍表面形成保護膜，標準劑量為 1 g，每日 4 次（三餐前及睡前）。PPI 長期使用的副作用包括高胃泌素血症（抑酸後負回饋使胃泌素上升）、困難梭菌（Clostridioides difficile）感染（腹瀉）、社區型肺炎、骨折、維生素 B12 缺乏、低血鎂等。因受 N-nitrosodimethylamine（NDMA）污染、具致癌疑慮而於 2020 年起下架的是 ranitidine。本題要找錯誤的敘述。<br>(A) 正確，sucralfate 標準劑量為 1 g，每日 4 次<br>(B) 錯誤，因 NDMA 污染下架的是 ranitidine，不是 cimetidine，所以是本題答案<br>(C) 正確，PPI 抑酸後負回饋使血中胃泌素上升<br>(D) 正確，長期使用 PPI 可增加困難梭菌感染，出現腹瀉要懷疑",
     "tags": [
       "115-1-3",
       "腸胃內科"
@@ -324,7 +324,7 @@
       "D": "維他命 B12（vitamin B12）—抽搐（tetany）"
     },
     "answer": "D",
-    "explanation": "各種營養素吸收不良（malabsorption）與其對應的臨床表現需正確配對，尤其是維生素B12缺乏的神經學表現。<br>(A) 正確，鐵（iron）吸收不良導致缺鐵性貧血（iron deficiency anemia）<br>(B) 正確，維生素K（vitamin K）缺乏導致凝血因子合成不足，臨床表現為瘀斑（ecchymosis）與出血傾向<br>(C) 正確，必需脂肪酸（essential fatty acids）缺乏可導致皮膚炎（dermatitis）及傷口癒合不良<br>(D) 錯誤，維生素B12（vitamin B12）缺乏的臨床表現為巨球性貧血（megaloblastic anemia）及亞急性脊髓聯合變性（subacute combined degeneration of spinal cord）等神經症狀。抽搐（tetany）是低血鈣或低血鎂的表現，與維生素B12缺乏無關",
+    "explanation": "吸收不良的營養素缺乏與臨床徵狀：鐵缺乏為貧血、唇炎、口角炎。維生素 B12 缺乏為巨球性貧血、舌炎、唇炎、感覺異常、共濟失調。鈣與維生素 D 缺乏為骨痛、骨折、手足抽搐（tetany）。鎂缺乏為感覺異常、手足抽搐（tetany）。維生素 K 缺乏為瘀斑（ecchymosis）。必需脂肪酸缺乏為皮膚炎（dermatitis）。本題要找配對錯誤的選項。<br>(A) 正確，鐵缺乏造成貧血<br>(B) 正確，維生素 K 缺乏造成瘀斑<br>(C) 正確，必需脂肪酸缺乏造成皮膚炎<br>(D) 錯誤，維生素 B12 缺乏為巨球性貧血、舌炎、感覺異常、共濟失調，手足抽搐是鈣、維生素 D 或鎂缺乏的表現，所以是本題答案",
     "tags": [
       "115-1-3",
       "腸胃內科"
@@ -358,7 +358,7 @@
       "D": "約 10～30％的克隆氏症患者會在病程中的某段時間發生腹腔或骨盆腔膿腫。穿孔造成的腹膜炎，尤其是結 腸性腹膜炎，可能會致命"
     },
     "answer": "C",
-    "explanation": "中毒性巨結腸（toxic megacolon）的定義需精確記憶，尤其是擴張位置與直徑的標準。<br>(A) 正確，闌尾切除術（appendectomy）對潰瘍性大腸炎（ulcerative colitis）有保護作用，可能與改變腸道免疫環境有關<br>(B) 正確，約三分之一的克隆氏症（Crohn's disease）患者有肛周疾病（perianal disease），包含瘻管、肛裂、膿腫及肛門狹窄<br>(C) 錯誤，中毒性巨結腸的定義是「橫結腸（transverse colon）」直徑大於6公分且失去結腸袋（haustration）構造，而非左側結腸。橫結腸是最常用的測量部位，選項中的「左側結腸」說法錯誤<br>(D) 正確，約10～30％的克隆氏症患者在病程中會發生腹腔或骨盆腔膿腫，結腸性穿孔引發的腹膜炎（peritonitis）可能致命",
+    "explanation": "發炎性腸道疾病（IBD）的臨床表現：闌尾切除使潰瘍性大腸炎（UC）風險下降（約降低 13~26%），克隆氏症（CD）無此保護作用。中毒性巨結腸多見於重度 UC，橫結腸擴張直徑 &gt; 6 cm，失去結腸袋（haustra），並有全身毒性。CD 肛周病變約 1/3 的病人發生，包括直腸周瘻管、肛裂、膿瘍、肛門狹窄。CD 腹腔或骨盆腔膿瘍約 10~30% 的病人在病程中發生，穿孔造成的腹膜炎（尤其結腸性）可能致命。本題要找錯誤的敘述。<br>(A) 正確，闌尾切除對 UC 有保護作用<br>(B) 正確，約三分之一的 CD 病人有肛周病變<br>(C) 錯誤，中毒性巨結腸的擴張部位是橫結腸，不是左側結腸，所以是本題答案<br>(D) 正確，約 10~30% 的 CD 病人會發生腹腔或骨盆腔膿瘍，結腸性腹膜炎可能致命",
     "tags": [
       "115-1-3",
       "腸胃內科"
@@ -562,7 +562,7 @@
       "D": "只要有 CAD 的結晶在關節內就會引起急性關節炎"
     },
     "answer": "B",
-    "explanation": "焦磷酸鈣沉積症（calcium pyrophosphate deposition，CPPD）在年輕族群出現時有其特殊臨床意義，需主動尋找潛在代謝疾病。<br>(A) 錯誤，CPPD好發於老年族群，年齡是最重要的危險因子，年輕人出現CPPD屬於非典型表現，需進一步評估<br>(B) 正確，年輕族群出現CPPD時，需積極排查潛在代謝疾病，包含副甲狀腺機能亢進（hyperparathyroidism）、血色素沉積症（hemochromatosis）、低鎂血症（hypomagnesemia）及痛風（gout）等<br>(C) 錯誤，磷灰石鈣（calcium apatite）結晶在偏光顯微鏡（polarizing microscopy）下不具雙折射性（non-birefringent），實際上難以在偏光顯微鏡下清楚辨識。而CPPD結晶呈弱正雙折射（weakly positive birefringent）的菱形結晶，兩者鑑別方式並非如選項所述<br>(D) 錯誤，鈣磷灰石（calcium apatite）結晶沉積在關節內不一定引起急性關節炎，許多情況下是無症狀的偶發現象",
+    "explanation": "關節液結晶的鑑別：CPP 結晶在偏光顯微鏡下為弱正雙折射，與 compensator 平行時呈藍色。鹼性磷酸鈣（BCP，apatite）結晶無雙折射，須以 Alizarin red S 染色或電子顯微鏡才能確認，常無症狀，可沉積在關節或關節周圍組織。CPPD 的老化是最重要的危險因子，多發生在老年人（&gt; 60 歲），60 歲以下少見，年輕（&lt; 60 歲）或多關節 CPPD 須篩檢代謝疾病，如副甲狀腺機能亢進、血色素沉積症、低鎂血症、低磷酸酶症。<br>(A) 錯誤，CPPD 多發生在老年人，不是年輕族群<br>(B) 正確，年輕族群的 CPPD 須篩檢副甲狀腺機能亢進等代謝疾病<br>(C) 錯誤，BCP（CAD）結晶無雙折射，偏光顯微鏡下看不到，須以 Alizarin red S 染色或電子顯微鏡確認<br>(D) 錯誤，BCP 沉積常無症狀，不一定引起急性關節炎",
     "tags": [
       "115-1-3",
       "風濕免疫科"
@@ -596,7 +596,7 @@
       "D": "granulomatosis with polyangiitis—proteinase 3"
     },
     "answer": "C",
-    "explanation": "各種自體免疫疾病都有其對應的特異性自體抗原（auto-antigen），進行性全身性硬化症（progressive systemic sclerosis）的自體抗原需正確辨識。<br>(A) 正確，重症肌無力（myasthenia gravis）的自體抗原為乙醯膽鹼受體（acetylcholine receptor，AChR），抗體阻斷神經肌肉接合處訊號傳遞<br>(B) 正確，自體免疫性甲狀腺炎（autoimmune thyroiditis）的相關自體抗原包含甲狀腺球蛋白（thyroglobulin）及甲狀腺過氧化酶（thyroid peroxidase）<br>(C) 錯誤，進行性全身性硬化症（progressive systemic sclerosis，PSS）的自體抗原應為拓樸異構酶I（topoisomerase I，即anti-Scl-70抗體）或著絲點蛋白（centromere protein，CENP-B），而非微管蛋白（tubulin）。tubulin與PSS無特異性關聯<br>(D) 正確，肉芽腫性多血管炎（granulomatosis with polyangiitis，GPA，舊稱Wegener's granulomatosis）的自體抗原為蛋白酶3（proteinase 3，PR3），即c-ANCA的靶抗原",
+    "explanation": "自體免疫疾病與自體抗原的配對：重症肌無力為乙醯膽鹼受體（AChR）。橋本氏甲狀腺炎（自體免疫甲狀腺炎）為 thyroglobulin 與 thyroid peroxidase（TPO）。全身性硬化症（SSc）為 topoisomerase I（Scl-70）、centromere 蛋白（CENP）與 RNA polymerase III。肉芽腫性多血管炎（GPA）為 proteinase 3（PR3）。本題要找最不適當的配對。<br>(A) 適當，重症肌無力的自體抗原是 AChR<br>(B) 適當，自體免疫甲狀腺炎的自體抗原是 thyroglobulin<br>(C) 不適當，SSc 的自體抗原是 topoisomerase I、centromere 蛋白與 RNA polymerase III，不是 tubulin，所以是本題答案<br>(D) 適當，GPA 的自體抗原是 proteinase 3",
     "tags": [
       "115-1-3",
       "風濕免疫科"
@@ -613,7 +613,7 @@
       "D": "ECOG 和 Karnofsky 分數可用作癌症預後及治療耐受性的指標"
     },
     "answer": "C",
-    "explanation": "東方腫瘤協作組體能狀態評分（ECOG performance status）與卡氏體能狀態評分（Karnofsky performance status，KPS）之間的對應關係需正確掌握。<br>(A) 正確，ECOG評分以0至5分為範圍，0分代表完全正常活動，5分代表死亡，數字越小功能越好<br>(B) 正確，ECOG 0分對應約為Karnofsky 100分，兩者皆代表功能完全正常<br>(C) 錯誤，Karnofsky＜50分代表患者需要大量協助或住院照護，對應的是ECOG 3至4分，而非ECOG≦2。ECOG≦2代表患者尚能自我照顧，對應Karnofsky≧60分<br>(D) 正確，ECOG與Karnofsky評分均廣泛用於評估癌症患者的預後及化療耐受性",
+    "explanation": "ECOG 體能狀態分數 0~5，數字越小功能越好，0 為完全正常，5 為死亡。Karnofsky 分數 0~100，每 10 分一級，分數越高功能越好。兩者對照為：ECOG 0 對應 KPS 90~100，ECOG 1 對應 70~80，ECOG 2 對應 50~60，ECOG 3 對應 30~40，ECOG 4 對應 10~20，ECOG 5 對應 0。兩者都用來評估預後與治療耐受性，也作為決定是否化療及臨床試驗收案的依據。本題要找錯誤的敘述。<br>(A) 正確，ECOG 分數 0~5，數字越小功能越好<br>(B) 正確，ECOG 0 對應 KPS 90~100，約等同 Karnofsky 100 分<br>(C) 錯誤，KPS &lt; 50 對應 ECOG 3~4，ECOG ≤ 2 對應的 KPS 為 50 分以上，所以是本題答案<br>(D) 正確，兩者可評估預後與治療耐受性",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -630,7 +630,7 @@
       "D": "使用 L-glutamine 以改善腎功能"
     },
     "answer": "C",
-    "explanation": "高劑量methotrexate治療後的毒性處置核心在於使用甲醯四氫葉酸（leucovorin）進行救援治療（rescue therapy），劑量需依血中methotrexate濃度調整。<br>(A) 錯誤，出現methotrexate毒性時應增加leucovorin的劑量，而非停用。停用leucovorin救援會使骨髓與黏膜毒性持續惡化<br>(B) 錯誤，folic acid（葉酸）無法繞過被methotrexate阻斷的二氫葉酸還原酶（dihydrofolate reductase，DHFR），不能有效進行救援。必須使用已還原形式的leucovorin（N5-甲醯四氫葉酸）<br>(C) 正確，當血中methotrexate濃度偏高（＞10⁻⁷M）且出現毒性症狀時，應增加leucovorin劑量至50至100 mg/m²，並同時鹼化尿液（sodium bicarbonate）、充分水化以促進methotrexate排泄<br>(D) 錯誤，L-glutamine不具有拮抗methotrexate毒性或改善腎功能的作用，不適用於此情境",
+    "explanation": "高劑量 methotrexate 的毒性預防與解救：methotrexate 抑制 DHFR，阻斷 tetrahydrofolate 合成，血中濃度持續 &gt; 0.1 μmol/L（10⁻⁷ M）時可造成嚴重骨髓抑制與黏膜炎。預防為充分水化與鹼化尿液（尿 pH ≥ 7，methotrexate 在酸性尿液中易沉澱於腎小管），並監測血中濃度與腎功能。Leucovorin（folinic acid）是已還原的活性葉酸，不需經 DHFR 還原即可作用，用於解救正常細胞，劑量依血中 methotrexate 濃度調整，濃度偏高或腎功能惡化時增加劑量（濃度高時可增至約 100 mg/m² 每 3 小時），並持續水化與鹼化尿液。腎功能不全造成濃度極高時才考慮 glucarpidase。<br>(A) 錯誤，濃度偏高時要增加 leucovorin 劑量，不是停用<br>(B) 錯誤，葉酸需經 DHFR 還原才有作用，而 DHFR 已被 methotrexate 抑制，要用已還原的 leucovorin<br>(C) 正確，濃度偏高且腎功能惡化時增加 leucovorin 劑量至 50~100 mg/m²，並持續水化與鹼化尿液<br>(D) 錯誤，L-glutamine 不是 methotrexate 的解救藥物，解救用 leucovorin",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -664,7 +664,7 @@
       "D": "Lynch syndrome 的患者，發生 ESCC 的機率大於 EAC"
     },
     "answer": "D",
-    "explanation": "食道鱗狀細胞癌（esophageal squamous cell carcinoma，ESCC）與食道腺癌（esophageal adenocarcinoma，EAC）在危險因子、分子特徵及好發遺傳症候群上均有顯著差異。<br>(A) 正確，ESCC的危險因子包含飲酒（alcohol）與吸菸（smoking），在亞洲、非洲與東歐發生率較高<br>(B) 正確，EAC的危險因子包含慢性胃食道逆流（chronic gastroesophageal reflux disease，GERD）、巴瑞特食道（Barrett's esophagus）及肥胖，多見於西方國家<br>(C) 正確，HER2/ERBB2基因擴增（HER2/ERBB2 amplification）在EAC中的發生率（約20%）高於ESCC，是EAC靶向治療的重要標靶<br>(D) 錯誤，林奇症候群（Lynch syndrome）是DNA錯配修復（mismatch repair）基因缺陷引起的遺傳性癌症症候群，主要增加大腸直腸癌、子宮內膜癌等風險。若有食道癌相關性，應與EAC的關聯性較ESCC高，選項描述相反且臨床上Lynch syndrome與ESCC的強烈關聯性並無充分證據支持",
+    "explanation": "食道癌的危險因子與分子特徵：食道鱗狀細胞癌（ESCC）的危險因子有 ABC 因子（Alcohol、檳榔 Betel nut、Cigarette）、喜食熱飲熱湯（&gt; 65°C）、缺乏蔬果、腐蝕性傷害、賁門失弛緩症、Plummer-Vinson syndrome、胼胝（tylosis）、放射治療史、HPV 感染、頭頸部腫瘤史。食道腺癌（EAC）的危險因子為胃食道逆流疾病（GERD），症狀越頻繁、病程越久，風險越高。EAC 的分子特徵為 TP53 突變常見，部分有 HER2（ERBB2）擴增。Lynch 症候群（HNPCC）為 MMR 基因（MLH1、MSH2 等）突變，高風險罹患大腸直腸癌、子宮內膜癌、卵巢癌、胃癌，也是小腸腺癌的危險因子，食道癌不在 Lynch 症候群的典型癌症之列。本題要找最不適當的敘述。<br>(A) 適當，飲酒與吸菸屬於 ESCC 的 ABC 因子<br>(B) 適當，慢性胃食道逆流是 EAC 的危險因子<br>(C) 適當，HER2 擴增是 EAC 的分子特徵<br>(D) 不適當，Lynch 症候群的典型癌症是大腸直腸癌、子宮內膜癌、卵巢癌、胃癌與小腸腺癌，不包含食道癌，ESCC 的危險因子是 ABC 因子、熱飲與食道損傷等，與 Lynch 症候群無關，所以是本題答案",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -698,7 +698,7 @@
       "D": "PND 的神經學症狀多出現於癌症診斷之後，其症狀大多緩慢地出現與進展"
     },
     "answer": "B",
-    "explanation": "副腫瘤神經學障礙（paraneoplastic neurologic disorder，PND）的致病機轉、好發腫瘤類型、抗體特性與治療反應需整體掌握。<br>(A) 錯誤，以合併PND的機率而言，小細胞肺癌（small cell lung cancer，SCLC）顯著高於非小細胞肺癌（non-small cell lung cancer，NSCLC），因為SCLC腫瘤細胞較常表現神經細胞抗原，誘發免疫反應，選項中兩者關係描述相反<br>(B) 正確，PND的致病機轉與癌細胞異位表現神經細胞抗原、誘發自體免疫反應有關。anti-Hu抗體（抗神經核蛋白抗體）常見於腦脊髓炎（encephalomyelitis）患者的血清或腦脊髓液中，且最常與SCLC相關<br>(C) 錯誤，PND患者使用靜脈注射免疫球蛋白（intravenous immunoglobulin，IVIG）或血漿置換（plasma exchange）的治療效果通常不佳，尤其是與細胞內抗原相關的PND（如anti-Hu）。與細胞表面抗原相關的PND（如anti-NMDAR腦炎）反應較好<br>(D) 錯誤，PND的神經學症狀多出現於癌症診斷之「前」（即PND可為癌症的初始表現），且症狀通常急性或亞急性出現，而非緩慢進展",
+    "explanation": "副腫瘤神經學障礙（PND）的知識點：機轉是腫瘤細胞表現原本只存在於神經系統的抗原（onconeural antigen），免疫反應（抗體與細胞毒性 T 細胞）與神經組織交叉反應而造成神經損傷。症狀多先於癌症診斷出現，急性或亞急性發病，中樞、周邊神經、神經肌肉交接處、肌肉都可受影響。最常合併 PND 的腫瘤是小細胞肺癌（約 4% 的小細胞肺癌病人出現 PND）。細胞內抗原（anti-Hu、anti-Yo、anti-CRMP5、anti-Ri、anti-Ma2、anti-amphiphysin）造成的神經損傷主要由 T 細胞造成，免疫治療（類固醇、IVIG、血漿置換）反應差。細胞表面或突觸抗原（anti-NMDAR、P/Q 型電壓門控鈣離子通道、AChR）由抗體直接致病，免疫治療反應較好。anti-Hu（ANNA-1）辨識神經元核，可在血清或腦脊髓液檢出，見於腦脊髓炎、亞急性感覺神經元病變。<br>(A) 錯誤，最常合併 PND 的是小細胞肺癌<br>(B) 正確，PND 與癌細胞表現神經抗原誘發的免疫反應有關，anti-Hu 可在腦脊髓炎病人的血清或腦脊髓液檢出<br>(C) 錯誤，細胞內抗原相關的 PND 免疫治療反應差，只有細胞表面抗原相關者反應較好<br>(D) 錯誤，PND 的症狀多先於癌症診斷出現，且為急性或亞急性發病",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -732,7 +732,7 @@
       "D": "靜脈血栓最終是由於 thrombin 之產生與 fibrin 之形成，而動脈血栓則與 thrombin 之產生無關"
     },
     "answer": "D",
-    "explanation": "動脈血栓（arterial thrombosis）與靜脈血栓（venous thrombosis）的病理機轉雖有差異，但最終凝血途徑（thrombin生成與fibrin形成）的角色需正確理解。<br>(A) 正確，靜脈血栓主要源於組織因子（tissue factor）暴露啟動凝血瀑布（coagulation cascade），而動脈血栓主要由血小板黏附（platelet adhesion）於受損血管壁開始<br>(B) 正確，第五凝血因子萊頓突變（factor V Leiden）與凝血酶原G20210A突變（prothrombin G20210A mutation）是已知的靜脈血栓危險因子，但在動脈血栓中的角色尚未明確<br>(C) 正確，吸菸、肥胖、代謝症候群（metabolic syndrome）與年齡是動靜脈血栓共同的危險因子<br>(D) 錯誤，動脈血栓的形成過程中，血小板活化後同樣會觸發凝血酶（thrombin）的產生與纖維蛋白（fibrin）的沉積，thrombin在動脈血栓形成中扮演重要角色，並非與thrombin無關。抗血小板藥物與抗凝血藥物在動脈血栓的預防與治療中均有其地位",
+    "explanation": "動脈血栓與靜脈血栓的比較：動脈血栓的啟動機轉是血小板黏附（adhesion）於受傷的血管壁，靜脈血栓則是組織因子（tissue factor）暴露與凝血瀑布啟動。兩者最終都有 thrombin 與 fibrin，動脈血栓在血小板活化後同樣有 thrombin 生成與 fibrin 沉積。動脈與靜脈血栓共同的危險因子有年齡、吸菸、肥胖、代謝症候群、糖尿病、高血壓。遺傳性易栓症 factor V Leiden 與 prothrombin G20210A 突變是已知的靜脈血栓危險因子，在動脈血栓的角色較未明確。本題要找最不適當的敘述。<br>(A) 適當，靜脈血栓由組織因子暴露啟動，動脈血栓由血小板黏附啟動<br>(B) 適當，factor V Leiden 與 prothrombin G20210A 在動脈血栓的角色較未明確<br>(C) 適當，吸菸、肥胖、代謝症候群與年齡是動靜脈血栓共同的危險因子<br>(D) 不適當，動脈血栓在血小板活化後同樣有 thrombin 生成與 fibrin 沉積，不是與 thrombin 無關，所以是本題答案",
     "tags": [
       "115-1-3",
       "血液科"
@@ -851,7 +851,7 @@
       "D": "免疫治療"
     },
     "answer": "B",
-    "explanation": "此患者為重度吸菸者，鱗狀細胞癌（squamous cell carcinoma）合併PD-L1高表現（≧50%），右上肺合併區域淋巴結（鎖骨上及縱膈腔）轉移但無遠端器官轉移，臨床分期約為局部晚期（locally advanced，stage IIIB/IIIC），需選擇對預後最無幫助的治療方式。<br>(A) 錯誤，局部晚期肺癌的治療以同步放化療（concurrent chemoradiotherapy）為核心，高劑量放射治療（radiotherapy）是重要的局部控制手段<br>(B) 正確，此患者已有縱膈腔及鎖骨上淋巴結轉移，屬於局部晚期（stage IIIB以上），手術切除（surgery）已非標準治療選項。強行手術無法達到根治性切除（R0 resection），對預後改善幫助相對最小<br>(C) 錯誤，化學治療（chemotherapy）是局部晚期肺癌同步放化療的重要組成，對疾病控制有貢獻<br>(D) 錯誤，PD-L1≧50%的患者對免疫治療（immunotherapy，如pembrolizumab）反應良好，可顯著改善存活率",
+    "explanation": "肺癌的知識點：N 分期中 N1 為同側肺門，N2 為同側縱膈腔，N3 為對側縱膈腔或肺門，或鎖骨上淋巴結。NSCLC 的手術以早期（Stage I、II 及部分 IIIa）為首選，治癒性切除的禁忌包括遠處轉移、惡性肋膜或心包積液、N3（對側縱膈腔或鎖骨上淋巴結轉移）、上腔靜脈症候群、喉返神經麻痺、膈神經麻痺、心包填塞。化學治療第一線合併鉑金類藥物。免疫檢查點抑制劑（pembrolizumab、nivolumab、atezolizumab）可用於晚期或手術前後輔助治療，晚期 NSCLC 要檢測驅動基因與 PD-L1，作為標靶或免疫治療的依據。局部晚期不可切除（Stage III）的 NSCLC 以同步放化療為主，無惡化者之後以 durvalumab 鞏固治療。本題病人有鎖骨上淋巴結轉移（N3）但無遠端器官轉移，PD-L1 ≥ 50%。本題要找對預後幫助相對較小的治療。<br>(A) 錯誤，不可切除的局部晚期病人以同步放化療為主，放射治療是其中重要的一環<br>(B) 正確，鎖骨上淋巴結轉移為 N3，屬治癒性切除的禁忌，手術對預後幫助相對最小，所以是本題答案<br>(C) 錯誤，化學治療是同步放化療的一環，第一線合併鉑金類藥物<br>(D) 錯誤，同步放化療後可用 durvalumab 鞏固治療，PD-L1 ≥ 50% 也適合使用免疫檢查點抑制劑",
     "tags": [
       "115-1-3",
       "腫瘤科"
@@ -902,7 +902,7 @@
       "D": "血糖濃度"
     },
     "answer": "B",
-    "explanation": "抗利尿激素（arginine vasopressin，AVP，又稱ADH）的分泌調控以血漿滲透壓為最主要的生理機制。<br>(A) 錯誤，促腎上腺皮質激素（adrenocorticotropic hormone，ACTH）濃度並非調控AVP分泌的主要機制，兩者分泌軸線不同<br>(B) 正確，血漿滲透壓（plasma osmolality）是調控AVP分泌最主要的機制，下視丘滲透壓感受器（osmoreceptors）在血漿滲透壓上升時促進AVP釋放，導致腎臟保水。除滲透壓外，有效動脈血容量（effective arterial blood volume）下降也是重要的非滲透性刺激<br>(C) 錯誤，甲狀腺素（T3/T4）濃度不是調控AVP分泌的主要機制，雖然甲狀腺功能低下可間接影響水分排除<br>(D) 錯誤，血糖濃度本身不是調控AVP分泌的主要機制，但高血糖造成血漿滲透壓上升時可間接刺激AVP分泌",
+    "explanation": "抗利尿激素（AVP）分泌的主要調控為血漿滲透壓：下視丘前方的滲透壓感受器偵測，閾值約 280~285 mOsm/kg，血漿滲透壓改變約 1% 即可改變 AVP 分泌。非滲透壓刺激屬於次要，包括血容量或血壓下降約 5~10% 以上、噁心嘔吐、疼痛、低血糖、血管張力素 II。<br>(A) 錯誤，ACTH 濃度不是 AVP 的調控機制<br>(B) 正確，血漿滲透壓是調控 AVP 的主要機制<br>(C) 錯誤，T3/T4 濃度不是 AVP 的調控機制<br>(D) 錯誤，血糖不是主要機制，低血糖只是次要的非滲透壓刺激",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -953,7 +953,7 @@
       "D": "胰島β細胞的功能喪失的速度較第 1 型糖尿病人快"
     },
     "answer": "D",
-    "explanation": "潛伏性成人自體免疫糖尿病（latent autoimmune diabetes in adults，LADA）介於第一型與第二型糖尿病之間，其胰島功能喪失的速度是考試關鍵。<br>(A) 正確，LADA發病初期胰島β細胞功能尚未完全喪失，通常可先以口服降糖藥控制，不須立即使用胰島素，這也是其與典型第一型糖尿病（type 1 diabetes mellitus，T1DM）的臨床區別之一<br>(B) 正確，LADA的發病年齡通常在30至50歲，較典型T1DM（多在兒童或青少年時期）晚<br>(C) 正確，抗麩胺酸脫羧酶抗體（anti-glutamic acid decarboxylase antibody，anti-GAD65）是診斷LADA最重要的自體抗體，陽性率高<br>(D) 錯誤，LADA的胰島β細胞功能喪失速度比典型T1DM「慢」，而非快。LADA患者通常在數年後才需依賴胰島素治療，這正是其「潛伏性（latent）」命名的原因",
+    "explanation": "潛伏性成人自體免疫糖尿病（LADA）的知識點：成人發病（多在 30 歲以後），發病初期不需胰島素，主要檢測抗體為 anti-GAD65，β 細胞功能喪失速度較第一型慢，數年後才需依賴胰島素。本題要找錯誤的敘述。<br>(A) 正確，發病初期不需胰島素<br>(B) 正確，LADA 為成人發病，較典型第一型糖尿病晚<br>(C) 正確，主要檢測抗體為 anti-GAD65<br>(D) 錯誤，LADA 的 β 細胞功能喪失速度較第一型慢，不是較快，所以是本題答案",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -970,7 +970,7 @@
       "D": "手麻與抽筋"
     },
     "answer": "D",
-    "explanation": "原發性副甲狀腺機能過高（primary hyperparathyroidism）因副甲狀腺素（parathyroid hormone，PTH）過度分泌，導致高血鈣（hypercalcemia）相關的骨骼、泌尿及消化道症狀，但低血鈣的表現（手麻、抽筋）與其病理生理相反。<br>(A) 錯誤，PTH促進破骨細胞（osteoclast）活性，長期導致骨質疏鬆（osteoporosis）及纖維性骨炎（osteitis fibrosa cystica）<br>(B) 錯誤，高血鈣增加尿鈣排泄，促進腎結石（nephrolithiasis）形成，反覆腎結石是原發性副甲狀腺機能過高的重要臨床表現<br>(C) 錯誤，高血鈣抑制腸道平滑肌蠕動，導致便秘（constipation），以及噁心、嘔吐等消化道症狀<br>(D) 正確，手麻與抽筋（tetany）是低血鈣（hypocalcemia）的典型症狀，屬於Chvostek徵或Trousseau徵的表現。原發性副甲狀腺機能過高為「高血鈣」狀態，不會出現低血鈣症狀，此選項是最不常見的表現",
+    "explanation": "原發性副甲狀腺機能亢進的臨床表現：腎臟為腎結石（尿鈣排出增加）、多尿、夜尿、腎功能不全。骨骼為骨質疏鬆、囊性纖維性骨炎（可見棕色腫瘤，骨膜下吸收最特異於指骨橈側）。腸胃道為便秘、噁心、嘔吐、消化性潰瘍、胰臟炎。高血鈣降低神經肌肉興奮性，表現為肌肉無力與深部腱反射減弱。手腳刺痛與肌肉痙攣（tetany）則是低血鈣的神經肌肉症狀。本題要找最不常見的表現。<br>(A) 常見，骨質疏鬆是骨骼表現<br>(B) 常見，反覆腎結石是腎臟表現<br>(C) 常見，便秘是腸胃道表現<br>(D) 最不常見，手麻與抽筋（tetany）是低血鈣的症狀，高血鈣反而降低神經肌肉興奮性，所以是本題答案",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -987,7 +987,7 @@
       "D": "脛前可壓凹陷的水腫（pretibial pitting edema）"
     },
     "answer": "D",
-    "explanation": "葛雷夫氏症（Graves' disease）是自體免疫性甲狀腺疾病，具有甲狀腺、眼部及皮膚的特徵性表現，需與其他表現做區分。<br>(A) 正確，甲狀腺機能亢進（hyperthyroidism）是Graves' disease最核心的表現，由促甲狀腺素受體抗體（TSH receptor antibody，TRAb）持續刺激甲狀腺引起<br>(B) 正確，眼病變（ophthalmopathy，即Graves' orbitopathy）是Graves' disease特有的眼眶自體免疫炎症，表現為眼球突出、複視及眼瞼退縮<br>(C) 正確，瀰漫性甲狀腺腫（diffuse goiter）是Graves' disease的典型表現，觸診可摸到彌漫性腫大的甲狀腺並可聽到血管雜音<br>(D) 錯誤，Graves' disease的皮膚表現為脛前黏液水腫（pretibial myxedema），是「非凹陷性（non-pitting）」水腫而非凹陷性（pitting）水腫，兩者病理機轉不同。脛前黏液水腫是因糖胺聚醣（glycosaminoglycans）沉積於皮下組織所致",
+    "explanation": "葛雷夫氏症（Graves' disease）的特徵：甲狀腺機能亢進症狀（怕熱、多汗、體重減輕、心悸、手抖等）。瀰漫性甲狀腺腫，對稱性腫大，可聽到或觸摸到血管震顫。眼病變呈現凸眼，成因為眼後組織累積醣胺聚糖（GAGs）及玻尿酸導致發炎、水腫與脂肪增生。皮膚表現為脛前黏液水腫，小腿前側皮膚增厚如橘子皮，為非凹陷性（nonpitting）水腫。本題要找不是特徵的選項。<br>(A) 是特徵，甲狀腺機能亢進<br>(B) 是特徵，眼病變<br>(C) 是特徵，瀰漫性甲狀腺腫<br>(D) 不是特徵，脛前黏液水腫為非凹陷性，不是可壓凹陷的水腫，所以是本題答案",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -1021,7 +1021,7 @@
       "D": "其他非植入物相關的敗血性關節炎較常需要分階段手術"
     },
     "answer": "A",
-    "explanation": "人工關節感染（prosthetic joint infection，PJI）與一般敗血性關節炎（septic arthritis）在致病菌分布、生物膜形成及手術策略上有顯著差異。<br>(A) 正確，葡萄球菌屬（staphylococci），尤其是金黃色葡萄球菌（Staphylococcus aureus）與表皮葡萄球菌（Staphylococcus epidermidis），是人工關節感染最常見的致病菌，兩者合計約占所有PJI病例的一半以上<br>(B) 錯誤，生物膜形成（biofilm formation）是人工關節感染的關鍵致病因子，細菌附著於植入物表面形成生物膜後對抗生素的抗性大幅增加。一般非植入物相關的敗血性關節炎生物膜形成的角色相對次要<br>(C) 錯誤，兩者的免疫反應與炎症強度並不相同，PJI因生物膜保護細菌，局部免疫反應受到干擾，而一般敗血性關節炎通常引發更強烈的急性炎症反應<br>(D) 錯誤，人工關節感染較常需要分階段手術（two-stage revision arthroplasty），即先移除植入物與清創、抗生素療程後再植入新的人工關節。一般敗血性關節炎通常以關節沖洗引流（arthroscopic irrigation）搭配抗生素治療為主，不需要分階段手術",
+    "explanation": "人工關節感染（PJI）的知識點：致病菌以葡萄球菌最常見，S. aureus 與凝固酶陰性葡萄球菌（如 S. epidermidis）合計約占半數以上。生物膜（biofilm）是 PJI 的關鍵致病機轉：細菌附著於植入物表面，分泌胞外基質，生長緩慢，逃避免疫清除並使抗生素效果大減，因此常需手術清創或移除植入物，並選用有生物膜活性的藥物（葡萄球菌用 rifampin，GNR 用 fluoroquinolone）。手術策略有兩種：清創保留假體（DAIR）適用於假體穩固、無竇道、植入後 &lt; 30 天或症狀 &lt; 3 週，二階段置換為先移除假體並清創，經 4~6 週抗生素後再植入新假體，為美國標準做法。<br>(A) 正確，葡萄球菌是人工關節感染最常見的菌種<br>(B) 錯誤，生物膜是 PJI 的關鍵致病機轉，與植入物有關，不是非植入物敗血性關節炎的關鍵<br>(C) 錯誤，PJI 的細菌藉生物膜逃避免疫清除，兩者免疫與炎症反應的模式不同<br>(D) 錯誤，二階段置換是 PJI 的手術策略，不是非植入物敗血性關節炎",
     "tags": [
       "115-1-3",
       "感染科"
@@ -1038,7 +1038,7 @@
       "D": "未經治療的人類免疫不全病毒（HIV）感染的傳播力與感染者的血漿病毒量和潰瘍性生殖道疾病相關"
     },
     "answer": "B",
-    "explanation": "各種病毒感染的傳播力、致病力及治療藥物需正確掌握，麻疹病毒的特性是此題關鍵。<br>(A) 正確，能經口進食的輕症流行性感冒（influenza）患者，首選口服抗病毒藥物為奧司他韋（oseltamivir），應在症狀出現48小時內使用效果最佳<br>(B) 錯誤，麻疹病毒（measles virus）的傳播力極強，基本再生數（R0）高達12至18，是已知傳染力最強的病原體之一。此外，目前並無核准的抗麻疹病毒藥物，臨床上以支持性療法為主，此選項的「傳播力低、致病力弱、有抗病毒藥物」三點均錯誤<br>(C) 正確，帕利珠單抗（palivizumab）是針對人類呼吸道融合病毒（human respiratory syncytial virus，RSV）F蛋白的單株抗體，用於高風險新生兒（如早產兒、先天性心臟病）的預防，可降低RSV感染住院風險<br>(D) 正確，未經治療的人類免疫不全病毒（human immunodeficiency virus，HIV）感染者，其傳播風險與血漿病毒量（plasma viral load）及潰瘍性生殖道疾病（ulcerative genital disease）直接相關",
+    "explanation": "病毒感染的知識點：流感首選藥物為口服 oseltamivir，住院病人與孕婦亦建議使用。麻疹經空氣、飛沫與直接接觸傳染，基本再生數 R0 為 12~18，易感接觸者約 90% 會發病，為傳染力最強的病原體之一，每 1000 名病童約 1~3 人死亡，沒有核准的抗病毒藥物，以支持性療法為主並給予維生素 A。Palivizumab 為針對 RSV F 蛋白的單株抗體，僅用於預防高風險嬰幼兒，可降低 RSV 感染住院風險。HIV 血漿病毒量越高越易傳染，每升高 1 log10 約增加 2.5 倍性傳染風險，生殖道潰瘍性疾病（如 HSV-2、梅毒、軟性下疳）增加傳染與感染風險。本題要找最不適當的敘述。<br>(A) 適當，輕症流感的首選藥物是口服 oseltamivir<br>(B) 不適當，麻疹傳播力極強（R0 為 12~18），且沒有核准的抗病毒藥物，所以是本題答案<br>(C) 適當，palivizumab 可降低高風險嬰幼兒的 RSV 感染住院風險<br>(D) 適當，HIV 傳染力與血漿病毒量和生殖道潰瘍性疾病有關",
     "tags": [
       "115-1-3",
       "感染科"
@@ -1089,7 +1089,7 @@
       "D": "預防再發，完治後病人仍需接受口服 luminal agent（paromomycin or iodoquinol）"
     },
     "answer": "A",
-    "explanation": "此患者的病理切片發現燒杯狀潰瘍（flask-shaped ulcer）及吞噬紅血球的滋養體（erythrophagocytic trophozoites），是侵犯性腸道阿米巴病（invasive intestinal amebiasis）的病理標誌，並非梨形鞭毛蟲（Giardia lamblia）感染。<br>(A) 錯誤，燒杯狀潰瘍與吞噬紅血球的滋養體是溶組織阿米巴（Entamoeba histolytica）的典型病理表現，而非梨形鞭毛蟲（Giardia lamblia）。梨形鞭毛蟲感染不造成組織侵犯，不會出現滋養體吞噬紅血球的現象，此選項配對錯誤<br>(B) 正確，侵犯性原蟲感染（如阿米巴病）與蠕蟲感染（helminth infection）不同，通常不引起嗜酸性白血球增多症（eosinophilia），這是重要的鑑別特徵<br>(C) 正確，甲硝唑（metronidazole）或替硝唑（tinidazole）是治療侵犯性阿米巴病（包含腸道及肝膿腫）的首選藥物<br>(D) 正確，侵犯性阿米巴病完治後，仍需使用腸腔型抗阿米巴藥物（luminal agent）如巴龍黴素（paromomycin）或碘喹諾（iodoquinol）清除腸腔內殘存的包囊（cysts），以防止再發及傳播",
+    "explanation": "腸道阿米巴病（Entamoeba histolytica）：吞入囊體後 1~3 週發病，有血便與黏液便，可有發燒。典型病理為大腸燒瓶狀潰瘍（flask-shaped ulcer），黏膜下與肌肉層有吞噬紅血球的滋養體。週邊血液常有白血球上升，通常無嗜酸性球增多。誤診為 IBD 而給予類固醇，會使病情迅速惡化，誘發猛爆性結腸炎與穿孔。治療先給組織型藥物殺滅滋養體：metronidazole（7~10 天）或 tinidazole（3~5 天），之後必須接腸腔型藥物清除腸腔囊體：paromomycin（7 天）、iodoquinol（20 天）或 diloxanide furoate（10 天），metronidazole 無法清除腸腔囊體。本題要找最不適當的敘述。<br>(A) 不適當，燒瓶狀潰瘍與吞噬紅血球的滋養體是 Entamoeba histolytica，不是 Giardia lamblia，所以是本題答案<br>(B) 適當，阿米巴病通常無嗜酸性球增多<br>(C) 適當，治療用 metronidazole 或 tinidazole 殺滅滋養體<br>(D) 適當，完治後須接腸腔型藥物（paromomycin 或 iodoquinol）清除腸腔囊體",
     "tags": [
       "115-1-3",
       "感染科"
@@ -1106,7 +1106,7 @@
       "D": "抗生素治療 3 天後，血液培養仍為陽性"
     },
     "answer": "D",
-    "explanation": "感染性心內膜炎（infective endocarditis，IE）的外科手術適應症主要針對血行動力學不穩定、局部感染擴散及持續性菌血症等情況，但血液培養持續陽性的時間判斷需注意。<br>(A) 錯誤，心瓣膜嚴重破損導致的急性嚴重心臟衰竭（acute severe heart failure）是心內膜炎緊急手術的首要適應症<br>(B) 錯誤，瓣膜周圍膿腫（perivalvular abscess）代表感染已局部擴散至瓣環周圍，抗生素難以穿透，需手術清創<br>(C) 錯誤，人工瓣膜脫位不穩（dehisced unstable prosthetic valve）造成嚴重逆流及血行動力學不穩，需緊急手術更換<br>(D) 正確，抗生素治療3天後血液培養仍為陽性並不是立即外科手術的絕對適應症。菌血症持續的時間標準通常是有效抗生素治療5至7天後仍陽性才考慮手術，且需同時評估是否有可清除的感染來源（如膿腫），3天的標準過短，此情況最不需要合併外科處置",
+    "explanation": "感染性心內膜炎的手術適應症：嚴重心衰竭、感染無法控制、贅生物 &gt; 10 mm 且已栓塞或持續變大、腱索斷裂或瓣膜破損合併嚴重急性心臟衰竭、適當抗生素治療 &gt; 5~7 天仍持續菌血症或發燒、瓣膜周圍膿瘍（perivalvular abscess）、人工瓣膜脫位不穩（dehisced unstable prosthetic valve）、人工瓣膜心內膜炎經積極抗生素治療後復發。本題要找最不需要合併外科處置的情況。<br>(A) 需要手術，瓣膜破損導致嚴重心衰竭是手術適應症<br>(B) 需要手術，瓣膜周圍膿瘍是手術適應症<br>(C) 需要手術，人工瓣膜脫位不穩是手術適應症<br>(D) 最不需要手術，抗生素治療 3 天仍菌血症未達 &gt; 5~7 天的標準，所以是本題答案",
     "tags": [
       "115-1-3",
       "感染科"
@@ -1123,7 +1123,7 @@
       "D": "肌耐力測量可計算連續半身仰臥起坐（partial curl-up）的次數"
     },
     "answer": "D",
-    "explanation": "老年衰弱症（frailty）與肌少症（sarcopenia）的評估工具各有對應的測量面向，需正確配對評估工具與其測量的生理指標。<br>(A) 正確，骨骼肌量（skeletal muscle mass）可使用雙能量X光吸收儀（dual-energy X-ray absorptiometry，DXA）精確測量全身及局部肌肉量，是肌少症診斷的重要工具<br>(B) 正確，肌力（muscle strength）評估可使用握力器測量手部握力（grip strength），是臨床上最簡便且有效的肌力評估方法，也是肌少症診斷標準之一<br>(C) 正確，活動力表現（physical performance）可使用步行速度（gait speed）測量，如6公尺步行測試，是評估功能性活動能力的重要指標<br>(D) 錯誤，連續半身仰臥起坐（partial curl-up）主要評估腹部肌肉耐力，並非肌少症或衰弱症的標準評估工具。肌耐力的臨床評估通常使用椅子起立測試（chair stand test）或短期體能測試（short physical performance battery，SPPB），而非仰臥起坐",
+    "explanation": "肌少症的評估分三個面向：肌肉量（四肢骨骼肌質量 ASM/身高²）以 DXA 或 BIA 測量，肌力以握力（男性 &lt; 28 kg，女性 &lt; 18 kg）評估，身體功能表現以 6 公尺步行速度（步速 &lt; 1.0 m/s）、五次起立坐下（≥ 12 秒）、簡易體能表現量表（SPPB ≤ 9 分）評估。本題要找錯誤的敘述。<br>(A) 正確，骨骼肌量可用 DXA 測量<br>(B) 正確，肌力以握力測量<br>(C) 正確，活動力表現可測量 6 公尺步行速度<br>(D) 錯誤，肌少症的功能表現評估用步行速度、五次起立坐下與 SPPB，不包括半身仰臥起坐，所以是本題答案",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -1140,7 +1140,7 @@
       "D": "鈉葡萄糖共同輸送器抑制劑（SGLT-2 inhibitor）類藥物有降低體重、不易低血糖的好處"
     },
     "answer": "D",
-    "explanation": "糖尿病的流行病學數據、血糖控制目標及各類降糖藥物的特性需正確掌握，尤其是不同藥物類別的優缺點比較。<br>(A) 錯誤，台灣40歲以上成年人糖尿病盛行率遠高於5%，根據近年調查約為12至15%，且隨年齡增加而上升，5%的數字嚴重低估<br>(B) 錯誤，糖化血色素（HbA1c）控制目標需個人化，需考量患者年齡、低血糖風險、預期壽命及功能狀態。老年、虛弱或有多重共病的患者，控制目標可放寬至7.5至8.5%，並非所有患者均需＜7.0%<br>(C) 錯誤，雙肽胜肽酶-4抑制劑（DPP-4 inhibitor）的優點是不易低血糖且副作用少，但「降低體重」並非其特點，DPP-4抑制劑對體重的影響為中性（weight-neutral），並不明顯降低體重<br>(D) 正確，鈉葡萄糖共同輸送器抑制劑（SGLT-2 inhibitor）的優點包含降低體重（因尿糖排出增加）、不易低血糖（因非胰島素依賴性機轉）、降低心血管風險及保護腎功能，是目前糖尿病治療的重要藥物",
+    "explanation": "糖尿病的知識點：臺灣 18 歲以上國人糖尿病盛行率約 11%（2017~2020 國民營養健康調查）。SGLT-2 抑制劑抑制腎臟回收葡萄糖，由尿液排出糖分，具保護心腎（降心衰竭風險）、減重、降血壓的好處，副作用為泌尿道與生殖器感染、正常血糖酮酸中毒。DPP-4 抑制劑增加腸泌素（GLP-1/GIP），以葡萄糖依賴性方式刺激胰島素分泌並抑制升糖素分泌，耐受性極佳、不引起低血糖、體重持平。HbA1c 一般 &lt; 7.0%，高齡或共病多者依健康狀況分級：健康者 &lt; 7.0~7.5%，複雜或中度者 &lt; 8.0%，非常複雜或健康狀況差者不依賴 HbA1c。避免低血糖可選 DPP-4i、GLP-1 RA、SGLT-2i、TZD，需減重選 GLP-1 RA 或 SGLT-2i。<br>(A) 錯誤，臺灣 18 歲以上國人糖尿病盛行率約 11%，40 歲以上更高，遠高於 5%<br>(B) 錯誤，HbA1c 目標依年齡與功能分級，不是所有病人皆 &lt; 7.0%<br>(C) 錯誤，DPP-4 抑制劑不引起低血糖，但體重持平，沒有降低體重的作用<br>(D) 正確，SGLT-2 抑制劑可減重、不引起低血糖",
     "tags": [
       "115-1-3",
       "新陳代謝科"
@@ -1174,7 +1174,7 @@
       "D": "acetazolamide 建議在登山前開始服用，持續到旅行者適應最高海拔後"
     },
     "answer": "D",
-    "explanation": "高山症（altitude sickness）的預防與處置需依照現行臨床建議，各藥物的適應症與使用時機需正確掌握。<br>(A) 錯誤，高山症預防措施的建議啟動高度通常為海拔2500公尺以上過夜，而非1200公尺。1200公尺的高度對大多數人不會造成顯著的高山症風險<br>(B) 錯誤，西地那非（sildenafil）透過抑制磷酸二酯酶-5（PDE-5）擴張肺血管，主要用於預防或治療高海拔肺水腫（high-altitude pulmonary edema，HAPE）及高海拔肺高壓，並非用於預防高山症頭痛，也不建議全程服用<br>(C) 錯誤，地塞松（dexamethasone）可「遮蔽」急性高山症（acute mountain sickness，AMS）症狀並緩解症狀，但並不能幫助身體真正適應高海拔環境（acclimatization），停藥後症狀可能復發，因此不應用於促進高海拔適應<br>(D) 正確，乙醯唑胺（acetazolamide）透過促進腎臟碳酸氫鹽排出、誘導代謝性酸中毒來刺激呼吸，加速高海拔適應。建議在登山前1至2天開始服用，持續至抵達最高海拔後適應完成（通常再服用1至2天），是目前最有證據的高山症預防藥物",
+    "explanation": "高山症的知識點：海拔 2500 公尺以上易發生高海拔疾病。中高風險者（曾有高山症史、第一天睡眠海拔 2800 公尺以上、3000 公尺以上每日上升 500 公尺以上）預防用 acetazolamide 125 mg 每 12 小時，上升前一晚開始，持續到抵達最高海拔後 2 天（若仍繼續上升，則持續到開始下降）。Dexamethasone 不促進適應（acetazolamide 才促進適應），於適應前停藥可能症狀反彈。PDE5 抑制劑 tadalafil 是高山肺水腫（HAPE）預防時 nifedipine 不適用的替代。<br>(A) 錯誤，易發生高海拔疾病的海拔是 2500 公尺以上，不是 1,200 公尺<br>(B) 錯誤，PDE5 抑制劑用於 HAPE 預防時 nifedipine 不適用的替代，不是預防高山症頭痛<br>(C) 錯誤，dexamethasone 不促進適應，只有 acetazolamide 促進適應<br>(D) 正確，acetazolamide 於上升前開始服用，持續到抵達最高海拔後",
     "tags": [
       "115-1-3",
       "家醫科"
@@ -1262,7 +1262,7 @@
       "D": "缺血性壞死（avascular necrosis）"
     },
     "answer": "D",
-    "explanation": "34歲男性長期就診於風濕免疫科，出現月狀骨（lunate bone）異常，需從此族群的好發疾病及月狀骨病變的常見原因來分析。<br>(A) 錯誤，退化性關節炎（osteoarthritis）好發於老年人及承重關節，34歲男性出現月狀骨孤立性病變並不符合退化性關節炎的典型表現<br>(B) 錯誤，類風濕性關節炎（rheumatoid arthritis，RA）雖可侵犯腕關節，主要造成滑膜炎（synovitis）與關節破壞，以月狀骨缺血性壞死為表現並非RA的典型病灶<br>(C) 錯誤，痛風性關節炎（gouty arthritis）以尿酸鹽結晶沉積造成急性炎症及痛風石（tophi）為特徵，並不直接導致月狀骨的缺血性壞死<br>(D) 正確，月狀骨缺血性壞死（avascular necrosis，AVN）又稱Kienböck's disease，是月狀骨最典型的骨壞死病變。長期使用類固醇（corticosteroids）是風濕免疫科患者發生缺血性壞死的重要危險因子，與此患者的就醫背景高度相符",
+    "explanation": "月狀骨缺血性壞死（Kienböck disease）：好發於 20~40 歲男性，多為單側，表現為腕背疼痛腫脹，腕關節活動度與握力下降。危險因子為負尺骨變異（尺骨較橈骨短，月狀骨承受的負荷增加）、月狀骨血供變異、反覆腕部創傷。X 光為月狀骨密度增加（硬化），進展後碎裂塌陷、腕骨排列改變，晚期出現橈腕或腕中關節退化性關節炎，早期 X 光可正常，MRI 見 T1 訊號降低。缺血性骨壞死的間接因素包括糖皮質激素（非創傷性骨壞死最常見原因）、酒精、SLE、高凝血狀態等。本題為 34 歲男性長期在風濕免疫科就診，月狀骨密度增加而無塌陷。<br>(A) 錯誤，退化性關節炎是 Kienböck 病晚期的續發變化，不是月狀骨密度增加而無塌陷的原因<br>(B) 錯誤，類風濕性關節炎不是卡片列出的月狀骨病變原因<br>(C) 錯誤，痛風性關節炎不是卡片列出的月狀骨病變原因<br>(D) 正確，34 歲男性、月狀骨密度增加無塌陷，符合缺血性壞死，風濕免疫科病人的 SLE 與糖皮質激素治療是危險因子",
     "tags": [
       "115-1-3",
       "風濕免疫科"
@@ -1282,7 +1282,7 @@
       "D": "脾靜脈（splenic vein）"
     },
     "answer": "A",
-    "explanation": "肝門脈系統（portal venous system）收集腸道、脾臟及胰臟的靜脈血匯入肝臟，需與肝靜脈（收集血液離開肝臟）做清楚區分。<br>(A) 正確，肝靜脈（hepatic vein）是將血液從肝臟引流至下腔靜脈（inferior vena cava）的血管，屬於肝靜脈系統（hepatic venous system），不屬於肝門脈系統。肝門脈系統收集腸道靜脈血「進入」肝臟，而肝靜脈則將血液「離開」肝臟<br>(B) 錯誤，上腸繫膜靜脈（superior mesenteric vein）收集小腸及右側大腸的靜脈血，匯入門靜脈（portal vein）<br>(C) 錯誤，下腸繫膜靜脈（inferior mesenteric vein）收集左側大腸及直腸的靜脈血，匯入脾靜脈或腸繫膜上靜脈後進入門靜脈<br>(D) 錯誤，脾靜脈（splenic vein）收集脾臟及胰臟的靜脈血，與上腸繫膜靜脈匯合形成門靜脈（portal vein）",
+    "explanation": "門脈系統：門靜脈（portal vein）由上腸繫膜靜脈（SMV）與脾靜脈匯合而成，SMV 回收小腸與右側大腸的靜脈血，脾靜脈回收脾臟與胰臟的靜脈血。下腸繫膜靜脈（IMV）多數匯入脾靜脈，少數匯入 SMV 或兩者匯合處，回收左側大腸與上段直腸的靜脈血。門脈血流經肝竇後，由肝靜脈（左、中、右）引流至下腔靜脈（IVC），肝靜脈為肝臟的流出道。本題要找不屬於門脈系統的血管。<br>(A) 不屬於，肝靜脈是肝臟的流出道，引流至下腔靜脈，所以是本題答案<br>(B) 屬於，SMV 是門靜脈的組成<br>(C) 屬於，IMV 匯入脾靜脈或 SMV 後進入門靜脈<br>(D) 屬於，脾靜脈是門靜脈的組成",
     "tags": [
       "115-1-3",
       "肝膽內科"
@@ -1299,7 +1299,7 @@
       "D": "病人溺水後意識清楚沒有症狀應在醫院觀察 12 小時以上，以免發生病情惡化"
     },
     "answer": "B",
-    "explanation": "特殊狀況急救（包含電傷害、低體溫、高血鉀及溺水）的處置原則需逐項核對，低體溫的心電圖表現是此題關鍵。<br>(A) 錯誤，交流電（alternating current，AC）比直流電（direct current，DC）更容易在相同電量下引起心室顫動（ventricular fibrillation），因為交流電的頻率（50至60 Hz）與心臟易受影響的頻率範圍重疊。選項中「直流電比交流電容易產生心室顫動」的描述相反<br>(B) 正確，當核心體溫低於32℃（重度低體溫）時，心電圖常可出現典型的Osborn J波（J waves），表現為QRS波群末端與ST段交界處的特徵性駝峰狀波形，是低體溫的特異性心電圖表現<br>(C) 錯誤，能將鉀離子轉移進入細胞內的藥物包含胰島素加葡萄糖（insulin plus glucose）、碳酸氫鈉（sodium bicarbonate）及乙型腎上腺素促效劑（beta-2 agonists）。葡萄糖酸鈣（calcium gluconate）的作用是穩定心肌細胞膜（membrane stabilization），保護心臟免於高血鉀的毒性，並不將鉀離子轉入細胞內<br>(D) 錯誤，意識清楚且無症狀的溺水後病人，觀察時間建議為4至6小時以監測遲發性肺水腫（delayed pulmonary edema），並非必須觀察12小時以上",
+    "explanation": "特殊狀況急救的知識點：同電量下，交流電（AC）較直流電（DC）容易造成心室顫動（VF），因交流電引起持續性肌肉強直，使人無法脫離電源、接觸時間較長。核心體溫 &lt; 32°C 時，心電圖常見 Osborn J 波（J 點抬高，振幅隨體溫降低而增大），並可見心搏過緩、PR、QRS、QT 延長。溺水後意識清楚且無症狀者，留院觀察約 4~8 小時，無延遲性呼吸道症狀才可離院。高血鉀的處置：calcium gluconate 穩定心肌膜，不降血鉀。將鉀移入細胞內的藥物有 insulin（需合併葡萄糖）與 sodium bicarbonate（僅適用於合併代謝性酸中毒，末期腎病禁用）。<br>(A) 錯誤，同電量下交流電較直流電容易造成 VF<br>(B) 正確，核心體溫 &lt; 32°C 常見 Osborn J 波<br>(C) 錯誤，calcium gluconate 是穩定心肌膜，不降血鉀，將鉀移入細胞內的是 insulin 加葡萄糖與 sodium bicarbonate<br>(D) 錯誤，意識清楚無症狀者留院觀察約 4~8 小時，不需 12 小時以上",
     "tags": [
       "115-1-3",
       "心臟內科"
