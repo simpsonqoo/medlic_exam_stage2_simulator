@@ -148,7 +148,7 @@
       "D": "給與腎性劑量（renal-dose）的dopamine，可增加尿量，減少住院洗腎率"
     },
     "answer": "B",
-    "explanation": "敗血症治療指引隨著實證醫學研究不斷更新，許多過去認為有效的治療已被證實無益甚至有害。<br>(A) 錯誤，早期目標引導治療（early goal-directed therapy, EGDT）雖然在Rivers等人2001年的研究中顯示有益，但後續的ProCESS、ARISE、ProMISe等大型研究顯示，嚴格遵循EGDT並未改善預後。目前指引建議早期足夠輸液復甦（initial fluid resuscitation），但不需要過度積極達到特定的血流動力學目標，且平均血壓目標通常是≥65 mmHg而非90 mmHg<br>(B) 正確，控制血糖在140-180 mg/dL範圍內已被證實可改善敗血症病人預後。過度積極的血糖控制（目標&lt;110 mg/dL）會增加低血糖風險而無額外好處，因此目前指引建議適度血糖控制即可<br>(C) 錯誤，高劑量類固醇（high-dose corticosteroids）並未被證實能降低敗血症死亡率，反而可能增加感染和其他併發症。目前僅建議在對輸液和升壓劑反應不佳的難治性敗血性休克（refractory septic shock）時，使用低劑量hydrocortisone（如200-300 mg/day）<br>(D) 錯誤，腎性劑量dopamine（renal-dose dopamine，通常指2-5 mcg/kg/min）並未被證實能預防腎衰竭或減少透析需求，反而可能增加心律不整風險。目前不建議使用dopamine作為腎保護策略",
+    "explanation": "敗血症的處置（Surviving Sepsis Campaign 2026）：早期目標導向治療（EGDT）經 ProCESS、ARISE、ProMISe 試驗顯示不優於常規治療，指引不再建議。充分輸液復甦後仍低血壓者使用升壓劑，初始目標 MAP ≥ 65 mmHg。血糖 ≥ 180 mg/dL 時開始胰島素，目標 144~180 mg/dL，目標 &lt; 110 mg/dL 的積極控制反而增加低血糖與死亡（NICE-SUGAR）。敗血性休克建議給予靜脈低劑量 hydrocortisone（200 mg/day），高劑量類固醇無存活益處。低劑量（腎劑量）dopamine 不建議用於腎臟保護，升壓劑首選 norepinephrine 而非 dopamine。<br>(A) 錯誤，EGDT 已不再建議，且 MAP 目標是 ≥ 65 mmHg，不是 &gt; 90 mmHg<br>(B) 正確（公告答案），血糖控制在 180 mg/dL 以下（目標 144~180 mg/dL）符合建議，過度積極（&lt; 110）才有害<br>(C) 錯誤，高劑量類固醇無存活益處，建議的是低劑量 hydrocortisone<br>(D) 錯誤，腎劑量 dopamine 不建議用於腎臟保護",
     "tags": [
       "113-2-6",
       "麻醉科"
@@ -562,7 +562,7 @@
       "D": "潛伏期拖延（protracted latent phase）"
     },
     "answer": "B",
-    "explanation": "拖延障礙（protraction disorders）指產程進展「變慢」，僅適用於活動期擴張與下降。潛伏期過長稱延長（prolonged），停滯則稱停滯障礙（arrest disorders），三者用詞不同不可混用。<br> (A) 錯誤，活動期異常應稱「拖延」而非「延長」，無此用語。<br> (B) 正確，活動期子宮頸擴張速度過慢即為拖延障礙的代表。<br> (C) 錯誤，此為產程完全停滯，屬停滯障礙非拖延障礙。<br> (D) 錯誤，潛伏期過長稱潛伏期延長（prolonged latent phase），非拖延障礙。",
+    "explanation": "產程異常的分類：潛伏期延長（prolonged latent phase）為初產婦 &gt; 20 小時、經產婦 &gt; 14 小時。活動期進展緩慢（protraction disorder）為初產婦子宮頸擴張 &lt; 1.2 cm/hr、經產婦 &lt; 1.5 cm/hr，或胎頭下降速度過慢。活動期停滯（arrest disorder）為子宮頸 &gt; 2 小時無擴張或胎頭 &gt; 1 小時無下降。依 Friedman 分類，延長（prolongation）指潛伏期延長，拖延（protraction）指活動期擴張或胎頭下降緩慢，停滯（arrest）包含減速期延長、繼發性擴張停滯、下降停滯與下降失敗。<br>(A) 錯誤，活動期擴張變慢稱為拖延，活動期延長不是拖延障礙的名稱<br>(B) 正確，活動期擴張拖延（protracted active-phase dilation）屬拖延障礙<br>(C) 錯誤，減速期延長屬停滯障礙<br>(D) 錯誤，潛伏期異常稱為潛伏期延長，不是拖延障礙",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -579,7 +579,7 @@
       "D": "recurrent variable decelerations"
     },
     "answer": "A",
-    "explanation": "解題關鍵是記住胎心音監測（fetal heart rate monitoring, FHR）的 Category III 定義：除了正弦波型（sinusoidal pattern）外，必須是「基線變異消失（absent baseline variability）＋反覆晚期減速／反覆變異型減速／心搏過緩」。因此「明顯增加的基線變異」屬於 Category II，而不是 Category III。<br> (A) 正確，明顯基線變異（marked baseline variability，振幅 &gt;25 bpm）屬於 Category II-indeterminate，不是 Category III。Category III 強調的是 absent variability。 <br> (B) 錯誤，正弦波型（sinusoidal pattern）本身就是 Category III-abnormal，代表胎兒可能有嚴重缺氧或貧血等狀況，需要立即評估。<br> (C) 錯誤，反覆晚期減速（recurrent late decelerations）若合併 基線變異消失（absent variability），即屬 Category III。若仍有變異性，則通常歸於 Category II。<br> (D) 錯誤，反覆變異型減速（recurrent variable decelerations）若合併 基線變異消失，屬 Category III。單獨出現而仍保有變異性時則是 Category II。",
+    "explanation": "胎兒心率監測分為 Category I、II、III，先確認是否為 Category I 或 III，皆非者歸為 Category II。Category III（嚴重，表示胎兒窘迫，需積極處理，通常進行緊急剖腹產）的條件為正弦波型（sinusoidal pattern）出現即構成，或變異性消失（absent variability）加上反覆性晚期減速、反覆性變異性減速或心搏過緩任一項。本題要找不屬於 Category III 的項目。<br>(A) 不屬於，明顯增加的基線變異不在 Category III 的條件中，所以是本題答案<br>(B) 屬於，正弦波型出現即構成 Category III<br>(C) 屬於，反覆性晚期減速合併變異性消失<br>(D) 屬於，反覆性變異性減速合併變異性消失",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -613,7 +613,7 @@
       "D": "胎兒下行主動脈血流杜卜勒超音波"
     },
     "answer": "C",
-    "explanation": "這題的解題關鍵在於辨識超音波影像中的解剖位置，圖中顯示的是胎兒頭部大腦的橫切面，且彩色杜卜勒血流標示出位於腦部基底、走向兩側顳葉的血管，這正是胎兒中大腦動脈（Middle Cerebral Artery, MCA）的典型解剖特徵。<br>產科常用的Doppler超音波檢查包括臍動脈（umbilical artery，評估胎盤功能）、中大腦動脈（middle cerebral artery, MCA，評估胎兒貧血與腦部血流）、靜脈導管（ductus venosus，評估胎兒心臟功能），以及子宮動脈（uterine artery，預測子癇前症風險）。<br>(A) 錯誤，圖中的影像背景為胎兒頭部大腦組織而非臍帶。臍動脈（Umbilical artery）血流杜卜勒超音波的影像，應會顯示漂浮於羊水中的臍帶呈現動靜脈交纏的管狀構造。<br>(B) 錯誤，圖中影像為胎兒大腦橫切面。胎兒下腔靜脈（Inferior vena cava）位於胎兒腹部並連接至心臟右心房，其杜卜勒超音波需在胎兒的軀幹處（腹部/胸部）進行掃描取像。<br>(C) 正確，影像清楚呈現胎兒頭部橫切面，且彩色杜卜勒精準捕捉到源自威利氏環（Circle of Willis）並向外側延伸的胎兒中大腦動脈（Middle Cerebral Artery, MCA）血流。<br>(D) 錯誤，此為胎兒頭部內的血管影像。胎兒下行主動脈（Descending aorta）是貫穿胎兒胸腔與腹腔的主要大血管，其超音波檢查必須在胎兒的軀幹進行縱切或橫切掃描。",
+    "explanation": "產科常用的都卜勒血管有臍動脈（反映胎盤血流阻力）、中大腦動脈（MCA，評估胎兒腦部血流重新分配及特定情境下的胎兒貧血）、靜脈導管（評估胎兒靜脈回流、心臟負荷與代償狀態）、子宮動脈（反映母體與胎盤灌流）。MCA 位於胎兒頭部的橫切面，可由威利氏環附近向外側追蹤。本題圖為胎兒頭部橫切面，由威利氏環附近向外側追蹤的血管。<br>(A) 錯誤，臍動脈在臍帶，不在胎兒頭部橫切面<br>(B) 錯誤，下腔靜脈不是胎兒頭部橫切面上的血管<br>(C) 正確，MCA 位於胎兒頭部橫切面，由威利氏環附近向外側追蹤<br>(D) 錯誤，下行主動脈不是胎兒頭部橫切面上的血管",
     "tags": [
       "113-2-6",
       "婦產科"
@@ -939,7 +939,7 @@
       "D": "卵巢部分切除可以改善部分多囊性卵巢婦女的排卵功能"
     },
     "answer": "A",
-    "explanation": "多囊性卵巢症候群（PCOS）的藥物治療目標包括調整月經週期、治療多毛症和痤瘡、改善代謝異常，以及有懷孕需求時促進排卵。<br>(A) 錯誤，單獨使用口服避孕藥（OCP）可抑制卵巢雄性素產生，並增加SHBG（性荷爾蒙結合球蛋白）、降低游離睪固酮，但對已存在的毛髮生長影響有限，通常需要6-12個月才見效，且效果中等，成功率遠低於80%。Endocrine Society 2018 多毛症指引建議任何藥物至少使用6個月再評估，口服避孕藥單獨效果不足時再加上抗雄性素，研究中口服避孕藥單獨治療約51%自覺改善，合併spironolactone約90%。更有效的治療需要合併抗雄性素藥物（如spironolactone、cyproterone acetate）或局部治療（如eflornithine cream）、電解或雷射除毛<br>(B) 正確，cyproterone acetate（CPA）是強效抗雄性素，可阻斷雄性素受體、抑制雄性素合成，改善多毛症和痤瘡，但有肝毒性風險，需監測肝功能，長期使用可能增加肝腫瘤風險<br>(C) 正確，GnRH agonist可抑制卵巢功能、降低卵巢雄性素產生，dexamethasone可抑制腎上腺雄性素（DHEA-S）產生，兩者都可改善多毛症和痤瘡，但因副作用較大，通常不作為第一線治療<br>(D) 正確，卵巢部分切除術或卵巢楔形切除術（ovarian wedge resection）可以暫時改善部分PCOS患者的排卵功能，降低雄性素濃度，但因手術風險與術後沾黏，現已被腹腔鏡卵巢鑽孔術（laparoscopic ovarian drilling）取代，僅在藥物治療失敗時考慮",
+    "explanation": "多囊性卵巢症候群（PCOS）多毛症的治療：口服避孕藥（COC）為第一線，任何藥物至少試用 6 個月再調整，COC 單獨使用 6 個月後仍不滿意時加上抗雄性素，自覺改善比例 COC 單獨約 51%、spironolactone 單獨約 68%、COC 加 spironolactone 約 90%。Cyproterone acetate（CPA）兼具雄性素受體拮抗與黃體素作用，副作用為劑量相關肝毒性，極罕見良性與惡性肝腫瘤。GnRH agonist 降低卵巢雄性素，可改善多毛與痤瘡，僅用於嚴重高雄性素血症且對 COC 與抗雄性素反應不佳者。Dexamethasone 降低腎上腺雄性素，主要用於非典型 CAH。卵巢楔形切除術可恢復排卵（多數恢復規律月經），但術後沾黏造成機械性不孕，已由腹腔鏡卵巢鑽孔術取代。本題要找錯誤的敘述。<br>(A) 錯誤，COC 單獨使用自覺改善比例約 51%，不是八成，所以是本題答案<br>(B) 正確，CPA 可降低雄性素，副作用為肝指數上升與極罕見的肝腫瘤<br>(C) 正確，GnRH agonist 與 dexamethasone 都可降低雄性素，改善多毛與痤瘡<br>(D) 正確，卵巢部分切除（楔形切除）可恢復排卵",
     "tags": [
       "113-2-6",
       "婦產科"

@@ -9,7 +9,7 @@
       "D": "Mallampati classification II"
     },
     "answer": "A",
-    "explanation": "面罩通氣困難的預測因子可用BONES（Beard、Obesity、No teeth、Elderly、Snoring）或MOANS（Mask seal、Obesity、Age&gt;55、No teeth、Stiff lungs/Snoring）記憶法來評估面罩通氣的困難程度。<br>(A) 正確，大量鬍鬚會影響面罩與臉部的密合度（mask seal），導致漏氣，是面罩通氣困難的重要預測因子之一<br>(B) 錯誤，青少年通常臉部結構正常、肌肉張力佳、無明顯肥胖問題，較不易發生面罩通氣困難。困難面罩通氣較常見於高齡者（age&gt;55歲）<br>(C) 錯誤，BMI小於20 kg/m²屬於體重過輕，不是面罩通氣困難的預測因子。相反地，肥胖（BMI&gt;26 kg/m²或&gt;30 kg/m²）才是困難面罩通氣的重要危險因子<br>(D) 錯誤，Mallampati classification II屬於相對正常的氣道評估，較不會造成面罩通氣困難。Mallampati III或IV才與困難插管（difficult intubation）較相關，而非困難面罩通氣",
+    "explanation": "困難面罩通氣預測因子可用 BONES 記憶：鬍鬚（Beard，影響面罩與臉部密合）、肥胖（BMI &gt; 26 kg/m²）、無牙、年齡 &gt; 55 歲、打鼾或肺順應性差，具 ≥ 2 項危險因子即預測面罩通氣困難。Modified Mallampati Class III、IV 是預測插管困難，不是面罩通氣困難。<br>(A) 正確，大量鬍鬚影響面罩密合<br>(B) 錯誤，年齡因子是 &gt; 55 歲，青少年不是<br>(C) 錯誤，面罩通氣困難的因子是肥胖（BMI &gt; 26 kg/m²），不是 BMI 小於 20<br>(D) 錯誤，Mallampati Class III、IV 預測插管困難，Class II 不是預測因子",
     "tags": [
       "112-2-6",
       "麻醉科"
@@ -60,7 +60,7 @@
       "D": "意外注射bupivacaine於血管中，可導致嚴重心臟毒性"
     },
     "answer": "A",
-    "explanation": "局部麻醉劑分為ester類和amide類，兩者的代謝途徑完全不同。<br>(A) 錯誤，Amide類局部麻醉劑（如lidocaine、bupivacaine、ropivacaine）主要在肝臟經由肝微粒體酶（hepatic microsomal enzymes）代謝，而非偽膽鹼酯酶。相反地，ester類局部麻醉劑（如procaine、chloroprocaine、tetracaine）才是經由血漿中的pseudocholinesterase（plasma cholinesterase）代謝<br>(B) 正確，局部麻醉劑的全身吸收率與注射部位的血管豐富性密切相關。吸收速度由快到慢依序為：靜脈內（IV）&gt;氣管內（tracheal）&gt;肋間（intercostal）&gt;尾椎（caudal）&gt;硬膜外（epidural）&gt;臂神經叢（brachial plexus）&gt;坐骨神經（sciatic）&gt;皮下（subcutaneous）<br>(C) 正確，局部麻醉劑的起始作用時間與非離子化型式（nonionized form）的比例有關。非離子化型式較易穿透神經膜，pKa值越接近生理pH值，非離子化比例越高，起始作用越快<br>(D) 正確，Bupivacaine具有高度心臟毒性（cardiotoxicity），意外血管內注射可導致難治性心律不整、心室顫動甚至心跳停止。治療包括使用lipid emulsion（Intralipid 20%）",
+    "explanation": "局部麻醉劑依結構分為 ester 類與 amide 類。Ester 類（procaine、chloroprocaine、tetracaine 等）主要經血漿偽膽鹼酯酶水解，amide 類（lidocaine、bupivacaine、ropivacaine 等）主要經肝臟微粒體酶（cytochrome P450）代謝。局部麻醉劑為弱鹼，pKa 越接近生理 pH，非離子化型式比例越高，越易穿透神經膜，起效越快。注射部位血管越豐富，全身吸收越快。Bupivacaine 的心臟毒性最強，心血管毒性劑量與中樞神經毒性劑量比值低，意外血管內注射易致難治性心室性心律不整、心室顫動甚至心跳停止。本題要找錯誤的敘述。<br>(A) 錯誤，amide 類主要經肝臟代謝，經偽膽鹼酯酶水解的是 ester 類，所以是本題答案<br>(B) 正確，注射部位血管越豐富，全身吸收越快<br>(C) 正確，非離子化型式比例影響起效快慢<br>(D) 正確，bupivacaine 意外血管內注射可致嚴重心臟毒性",
     "tags": [
       "112-2-6",
       "麻醉科"
@@ -128,7 +128,7 @@
       "D": "oral oxycodone"
     },
     "answer": "C",
-    "explanation": "癌症疼痛的長期控制需要選擇適當的opioid和給藥途徑，以達到穩定止痛效果並減少副作用。<br>(A) 正確，Transdermal fentanyl（經皮吸收芬太尼貼片）適合慢性癌症疼痛的長期使用，提供72小時持續釋放，病人順從性佳<br>(B) 正確，Oral morphine是癌症疼痛治療的金標準（gold standard），長效型（如MS Contin）可每12小時給藥一次，適合長期使用<br>(C) 錯誤，Intravenous meperidine（靜脈注射配西汀）不適合長期使用，原因包括：meperidine的代謝物normeperidine會累積，可能導致中樞神經系統毒性（如tremor、myoclonus、seizures），特別是在腎功能不全患者。meperidine的止痛時間較短（2-3小時），需頻繁給藥。靜脈途徑不便於居家照護。WHO癌症疼痛治療指引不建議長期使用meperidine<br>(D) 正確，Oral oxycodone是強效opioid，長效型（如OxyContin）可每12小時給藥，適合慢性癌症疼痛的長期控制",
+    "explanation": "癌症疼痛的長期治療以口服 morphine 為標準用藥，長效 oxycodone、經皮 fentanyl 貼片亦適合長期使用，無法口服時可改用經皮貼片，或皮下注射、靜脈給藥。Meperidine（pethidine）不建議用於癌症疼痛長期治療，因代謝物 normeperidine 具中樞神經毒性（焦慮、震顫、肌陣攣、癲癇），腎功能不全時更易蓄積，且止痛時間短（約 2~3 小時）。本題要找不適合長期使用的藥物與給藥途徑。<br>(A) 適合，經皮 fentanyl 貼片適合長期使用<br>(B) 適合，口服 morphine 為標準用藥<br>(C) 不適合，meperidine 代謝物 normeperidine 具中樞神經毒性，且止痛時間短，所以是本題答案<br>(D) 適合，長效 oxycodone 適合長期使用",
     "tags": [
       "112-2-6",
       "麻醉科"
@@ -145,7 +145,7 @@
       "D": "胸部X光通常呈現單側肺浸潤，尤其是左側，因心臟擴大而受到壓迫"
     },
     "answer": "A",
-    "explanation": "柏林定義（Berlin Definition 2012）是目前ARDS的診斷標準，取代了之前的美歐共識定義（AECC）。<br>(A) 正確，柏林定義要求ARDS必須在已知臨床誘因後一週內（within 1 week）發生，或有新的／惡化的呼吸症狀<br>(B) 錯誤，ARDS根據PaO₂/FiO₂比值分為三個嚴重度：輕度（mild）200&lt;PaO₂/FiO₂≤300、中度（moderate）100&lt;PaO₂/FiO₂≤200、重度（severe）PaO₂/FiO₂≤100。重度ARDS是PaO₂/FiO₂≤100，而非≤300<br>(C) 錯誤，ARDS的柏林定義明確要求呼吸衰竭不能完全由心臟衰竭或液體過多解釋。如果無法排除左心衰竭，需要客觀評估（如超音波）來排除靜水壓性肺水腫<br>(D) 錯誤，ARDS的胸部X光表現為雙側（bilateral）肺浸潤，而非單側。影像學顯示雙側不透明陰影，且無法完全由肋膜積液、肺塌陷或結節解釋",
+    "explanation": "ARDS 的柏林定義（Berlin definition，2012）：已知臨床誘因或新發／惡化呼吸症狀後一週內發生。胸部影像為雙側肺浸潤，無法完全以肋膜積液、肺塌陷或結節解釋。呼吸衰竭無法完全以心臟衰竭或體液過多解釋，無危險因子時須以心臟超音波等客觀評估排除靜水壓性肺水腫。氧合分級（PEEP 或 CPAP ≥ 5 cmH2O 下）為輕度 200 &lt; PaO2/FiO2 ≤ 300、中度 100 &lt; PaO2/FiO2 ≤ 200、重度 PaO2/FiO2 ≤ 100。<br>(A) 正確，一週內發生的臨床事件或新的／惡化的呼吸症狀<br>(B) 錯誤，PaO2/FiO2 在 200 至 300 之間是輕度，重度是 ≤ 100<br>(C) 錯誤，呼吸衰竭不能完全以心臟衰竭解釋，初期並非左心室衰竭及擴大<br>(D) 錯誤，胸部影像為雙側肺浸潤，不是單側",
     "tags": [
       "112-2-6",
       "麻醉科"
@@ -196,7 +196,7 @@
       "D": "同半胱胺酸（homocysteine）"
     },
     "answer": "A",
-    "explanation": "角膜基質晶狀沉積物和角膜環提示脂質代謝異常，特別是在年輕患者。<br>(A) 正確，此病患的表現符合高脂血症相關的角膜病變。角膜環（arcus）在年輕人（&lt;40歲）出現稱為arcus juvenilis，強烈提示家族性高膽固醇血症（familial hypercholesterolemia）或其他脂質代謝異常。角膜基質的晶狀沉積物可能是膽固醇結晶。這類患者應檢查血脂肪（total cholesterol、LDL、HDL、triglycerides）並評估心血管疾病風險<br>(B) 錯誤，高血鈣症可導致鈣質沉積在角膜，稱為band keratopathy（帶狀角膜病變），但典型表現是在瞼裂區的Bowman's layer出現水平帶狀鈣化，而非中間基質的晶狀沉積物<br>(C) 錯誤，銅離子沉積在角膜周邊部形成Kayser-Fleischer ring（KF環），見於威爾森氏症（Wilson's disease），但KF環位於Descemet's membrane，呈現綠棕色環狀沉積，與題目描述不符<br>(D) 錯誤，Homocysteine升高（高同半胱胺酸血症）與血栓形成和心血管疾病相關，但不會在角膜形成特定的沉積物或角膜環",
+    "explanation": "角膜環（corneal arcus）由脂質（膽固醇）沉積於角膜周邊基質，40 歲以下出現（arcus juvenilis）提示家族性高膽固醇血症等血脂異常。Schnyder 角膜失養症為膽固醇與磷脂結晶沉積於中央角膜基質，體染色體顯性（UBIAD1），常合併早發角膜環與高膽固醇血症。本題三十餘歲男性有中央角膜基質晶狀沉積物及角膜環。<br>(A) 正確，膽固醇升高<br>(B) 錯誤，鈣沉積為帶狀角膜病變，位於瞼裂區 Bowman 層，呈水平帶狀<br>(C) 錯誤，銅沉積為 Kayser-Fleischer 環，位於角膜周邊 Descemet 膜，見於 Wilson 病<br>(D) 錯誤，同半胱胺酸不在角膜沉積物的相關物質中",
     "tags": [
       "112-2-6",
       "眼科"
@@ -234,7 +234,7 @@
       "D": "葛瑞夫茲病（Graves' disease）"
     },
     "answer": "D",
-    "explanation": "某些全身性疾病會增加白內障的發生風險，特別是代謝性疾病和遺傳性疾病。<br>(A) 錯誤，糖尿病（diabetes mellitus）與白內障密切相關。糖尿病患者容易發生白內障，且發病年齡較早。高血糖導致晶體內sorbitol累積（polyol pathway），引起滲透壓改變和晶體混濁，稱為糖尿病性白內障（diabetic cataract）<br>(B) 錯誤，強直性肌肉失養症（myotonic dystrophy）是一種遺傳性神經肌肉疾病，超過90%患者會發生白內障，特徵為後囊下多彩晶體混濁（polychromatic posterior subcapsular cataract），也稱為Christmas tree cataract<br>(C) 錯誤，異位性皮膚炎（atopic dermatitis）患者有較高的白內障發生率，特別是雙側盾狀白內障（shield cataract），可能與慢性發炎、眼部搔抓或長期使用類固醇有關<br>(D) 正確，葛瑞夫茲病（Graves' disease）主要引起甲狀腺眼病變（thyroid eye disease），包括眼球突出（proptosis）、眼外肌肥大、複視等，但不會直接導致白內障。與白內障相關的內分泌疾病為糖尿病與副甲狀腺功能低下（低血鈣）",
+    "explanation": "與白內障相關的全身疾病：糖尿病（高血糖經多元醇路徑使 sorbitol 堆積，年輕病人可見雪花狀皮質白內障，老年性白內障提早發生）、強直性肌肉失養症（後囊下多彩白內障，Christmas tree cataract）、異位性皮膚炎（盾狀前囊下白內障）、副甲狀腺功能低下（低血鈣性白內障）、Wilson 病（向日葵白內障）、半乳糖血症（油滴狀白內障）、唐氏症（早發白內障）。本題要找較不會合併白內障的疾病。<br>(A) 會合併，糖尿病<br>(B) 會合併，強直性肌肉失養症<br>(C) 會合併，異位性皮膚炎<br>(D) 較不會合併，葛瑞夫茲病（Graves' disease）不在與白內障相關的全身疾病中，所以是本題答案",
     "tags": [
       "112-2-6",
       "眼科"
@@ -302,7 +302,7 @@
       "D": "手術矯正斜視，須等待甲狀腺指數正常及斜視角度穩定至少半年"
     },
     "answer": "C",
-    "explanation": "葛雷夫氏症（Graves' disease）是最常見的甲狀腺眼病變（thyroid eye disease, TED）原因，特徵是眼外肌發炎和肥大。<br>(A) 正確，葛雷夫氏症患者複視的最主要原因是眼外肌發炎、肥大和纖維化（hypertrophy and fibrosis），導致眼球運動受限和眼位不正<br>(B) 正確，在葛雷夫氏症中，最容易被侵犯的眼外肌依序為：下直肌（inferior rectus）&gt;內直肌（medial rectus）&gt;上直肌（superior rectus）&gt;外直肌（lateral rectus），可用\"I'M SLow\"記憶。下直肌受損會導致向上看時複視<br>(C) 錯誤，甲狀腺眼病變的典型電腦斷層表現為眼外肌的肌腹（belly）肥大，但肌腱（tendon）不受影響，稱為\"tendon sparing\"。這是與其他眼肌炎（如特發性眼肌炎）鑑別的重要特徵。其他眼肌炎可能肌腹和肌腱都受影響<br>(D) 正確，甲狀腺眼病變的斜視手術應等待病情穩定（inactive phase）至少6個月，且甲狀腺功能已正常控制，才能進行手術矯正。因為活動期病情會持續變化，手術效果難以預測",
+    "explanation": "甲狀腺眼病變（TED）的眼外肌受侵犯頻率為下直肌 &gt; 內直肌 &gt; 上直肌 &gt; 外直肌。眼外肌腫大、纖維化造成限制性肌病變，下直肌受限使眼球上轉受限，出現垂直複視。影像（CT／MRI）可見眼外肌腫大多為雙側，肌腹梭形腫大而肌腱不受侵犯（tendon sparing），可合併眼眶脂肪增生與水腫。斜視手術須待甲狀腺功能正常，且斜視角度穩定至少 6 個月。本題要找錯誤的敘述。<br>(A) 正確，眼外肌腫大造成限制性肌病變而複視<br>(B) 正確，下直肌最常被侵犯<br>(C) 錯誤，電腦斷層可見肌腹梭形腫大而肌腱不受侵犯（tendon sparing），不是肌腹與肌腱都肥大，所以是本題答案<br>(D) 正確，斜視手術須待甲狀腺功能正常，斜視角度穩定至少 6 個月",
     "tags": [
       "112-2-6",
       "眼科"
@@ -711,7 +711,7 @@
       "D": "由平滑肌細胞和纖維母細胞（fibroblasts）分泌的生長因子，蛋白質或多肽（polypeptides），主要通過增加細胞外基質（extracellular matrix）來刺激肌瘤生長"
     },
     "answer": "A",
-    "explanation": "子宮肌瘤（uterine leiomyoma或fibroid）是女性最常見的骨盆腔良性腫瘤。<br>(A) 錯誤，這是最不適當的敘述。子宮肌瘤不會惡性轉化（malignant transformation）成平滑肌肉瘤（leiomyosarcoma），平滑肌肉瘤是獨立起源的惡性腫瘤，而非由良性肌瘤轉變而來，兩者分子特徵也不同，肌瘤常有MED12基因突變，肉瘤則多有TP53、RB1等腫瘤抑制基因異常<br>(B) 正確，子宮肌瘤是單株性腫瘤（monoclonal tumor），由單一平滑肌細胞異常增生而來，約40%有染色體異常，常見如t(12;14)轉位、7號染色體長臂缺失<br>(C) 正確，雌激素（estrogen）和黃體素（progesterone）都會促進肌瘤生長，肌瘤組織高度表現兩者的受體，因此肌瘤停經後會縮小，使用GnRH agonist也可使肌瘤縮小<br>(D) 正確，肌瘤增大除平滑肌細胞增生外，更主要來自細胞外基質（ECM）堆積。平滑肌細胞與纖維母細胞分泌的生長因子（如TGF-β、PDGF、IGF）會刺激膠原蛋白、蛋白多醣等ECM成分產生",
+    "explanation": "子宮肌瘤是由子宮肌層單一平滑肌細胞增生的單株腫瘤（monoclonal tumor），良性，約 40% 有染色體異常，如 12 與 14 號染色體易位、7q 缺失。平滑肌細胞與纖維母細胞分泌的生長因子，主要透過增加細胞外基質（ECM）刺激肌瘤生長。生長依賴雌激素與黃體素，停經後自然萎縮。惡性轉化（平滑肌肉瘤）機率極低，通常為原發而非由良性肌瘤惡化而來。本題要找最不適當的敘述。<br>(A) 不適當，平滑肌肉瘤通常為原發性，極少由良性肌瘤惡性退化而來，所以是本題答案<br>(B) 適當，肌瘤是單株腫瘤，約 40% 有染色體異常<br>(C) 適當，生長依賴雌激素與黃體素<br>(D) 適當，生長因子主要透過增加細胞外基質刺激肌瘤生長",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -799,7 +799,7 @@
       "D": "發生原因為性荷爾蒙濃度異常或是性荷爾蒙受體異常"
     },
     "answer": "C",
-    "explanation": "假性陰陽人（現稱性別發育異常，disorders of sex development, DSD）是指性腺與染色體性別一致，但外生殖器與染色體性別不一致或模糊。<br>(A) 正確，假性陰陽人的外生殖器外觀與其染色體性別（chromosomal sex）不同或不典型，例如46,XY但外生殖器女性化，或46,XX但外生殖器男性化<br>(B) 正確，男性假性陰陽人（46,XY DSD）有睪丸，但外生殖器未完全男性化，常見原因為雄性素合成缺陷、5α-還原酶缺乏及雄性素不敏感症候群（androgen insensitivity syndrome），可表現為尿道下裂（hypospadias）、小陰莖、隱睪等<br>(C) 錯誤，女性假性陰陽人（46,XX DSD）有正常的卵巢與子宮，外生殖器因胎兒期暴露於過量雄性素而男性化，最常見原因是先天性腎上腺增生（congenital adrenal hyperplasia, CAH）。卵巢大小正常，不會比一般女性更大<br>(D) 正確，假性陰陽人的發生原因包括性荷爾蒙濃度異常（如雄性素過多或不足）、性荷爾蒙合成酶缺陷（如21-hydroxylase缺乏、5α-reductase缺乏）及性荷爾蒙受體異常（如雄性素受體缺陷）",
+    "explanation": "舊稱的假性陰陽人指性腺與染色體性別一致，但外生殖器與染色體性別不一致或模糊。女性假性陰陽人（46,XX DSD）性腺為正常卵巢，外生殖器男性化（陰蒂肥大、陰唇融合），常見原因為 CAH、母體雄性素過多、胎兒芳香酶缺乏。男性假性陰陽人（46,XY DSD）性腺為睪丸，男性化不足（尿道下裂、小陰莖、隱睪）至完全女性，常見原因為雄性素合成缺陷、雄性素受體異常、5α-reductase 缺乏、部分性性腺發育不全。本題要找錯誤的敘述。<br>(A) 正確，外生殖器與染色體性別不一致或模糊<br>(B) 正確，46,XY 男性化不足，可見尿道下裂<br>(C) 錯誤，46,XX 假性陰陽人的性腺是正常卵巢，並非比一般女性更大，所以是本題答案<br>(D) 正確，原因為雄性素合成缺陷、雄性素受體異常等性荷爾蒙異常",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -833,7 +833,7 @@
       "D": "type II通常分化較差"
     },
     "answer": "C",
-    "explanation": "子宮內膜癌依病理機轉、組織型態和預後分為兩型：Type I與雌激素相關，多為子宮內膜樣癌，由非典型增生演變而來，預後較好。Type II與雌激素較無關，多發生在萎縮內膜背景的年長女性，包括漿液性癌、透明細胞癌等，預後較差。<br>(A) 正確，Type I子宮內膜癌主要為子宮內膜樣癌（endometrioid adenocarcinoma），約佔子宮內膜癌的80-85%<br>(B) 正確，Type I子宮內膜癌通常分化良好（well-differentiated）、較早被診斷、對荷爾蒙治療反應佳，預後較好<br>(C) 錯誤，Type II的前驅病變是漿液性子宮內膜上皮內癌（serous endometrial intraepithelial carcinoma, SEIC），不是非典型增生。非典型增生（atypical hyperplasia，又稱endometrial intraepithelial neoplasia, EIN）是Type I的前驅病變<br>(D) 正確，Type II子宮內膜癌通常分化較差（poorly differentiated），包括漿液性癌（serous carcinoma）、透明細胞癌（clear cell carcinoma）、癌肉瘤（carcinosarcoma）等高惡性度組織型態",
+    "explanation": "子宮內膜癌的病理分類：Type I 為子宮內膜樣腺癌，佔 80%，預後較好，由非典型增生（EIN）演變，與 PTEN 基因突變有關。Type II 為非子宮內膜樣癌，佔 20%，含漿液性、透明細胞等，惡性度高、預後差，發生於萎縮性內膜背景，前驅病變為漿液性子宮內膜上皮內癌（SEIC）。Type I 與雌激素刺激相關，Type II 與荷爾蒙較無直接相關。本題要找錯誤的敘述。<br>(A) 正確，Type I 為子宮內膜樣腺癌<br>(B) 正確，Type I 預後較好<br>(C) 錯誤，Type II 的前驅病變是 SEIC，非典型增生是 Type I 的前驅病變，所以是本題答案<br>(D) 正確，Type II 惡性度高、預後差，通常分化較差",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -935,7 +935,7 @@
       "D": "在排卵時，初級卵母細胞（primary oocyte）會完成兩次減數分裂，成為卵子（ovum）"
     },
     "answer": "A",
-    "explanation": "本題的解題關鍵在於熟悉人類女性「卵子發生（oogenesis）」與「濾泡生成（folliculogenesis）」的發育時間軸，比對胚胎期、青春期至排卵等不同階段中，細胞分裂狀態、濾泡形態變化以及荷爾蒙的作用對象。<br>(A) 正確，在女嬰出生之前，卵巢中所有的卵原細胞（oogonium）皆已開始第一次減數分裂並停滯於前期，全部轉變為初級卵母細胞（primary oocyte）<br>(B) 錯誤，懷孕中期初級卵母細胞與單層扁平的濾泡細胞形成的是「原始濾泡（primordial follicle）」。由單層立方顆粒細胞（granulosa cell）包圍的初級濾泡（primary follicle），是原始濾泡被喚醒進入生長後才形成，此過程自胎兒期起即持續少量發生<br>(C) 錯誤，初級濾泡（primary follicle）發育成二級濾泡（secondary follicle）的過程屬於卵巢局部因子調控，不依賴促性腺素。濾泡刺激素（follicle-stimulating hormone, FSH）自竇狀濾泡（antral follicle）階段起才是濾泡繼續發育所必需<br>(D) 錯誤，排卵前初級卵母細胞（primary oocyte）只完成「第一次」減數分裂成為二級卵母細胞（secondary oocyte），必須等到受精（fertilization）時，才會完成「第二次」減數分裂並成為真正的卵子（ovum）<br>卵細胞發育過程（oocyte development）<br><table class=\"table_class_basic_full_width\" style=\"font-size: 85%; width: 100%; border-collapse: collapse; border: 1px solid;\"><tbody><tr><td style=\"padding: 2px; border: 1px solid;\">發育階段</td><td style=\"padding: 2px; border: 1px solid;\">染色體數</td><td style=\"padding: 2px; border: 1px solid;\">變化過程</td><td style=\"padding: 2px; border: 1px solid;\">重要特徵</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">卵原細胞期（oogonium）</td><td style=\"padding: 2px; border: 1px solid;\">46條</td><td style=\"padding: 2px; border: 1px solid;\">經有絲分裂（mitosis）複製增生</td><td style=\"padding: 2px; border: 1px solid;\">胚胎期發生</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">初級卵母細胞期（primary oocyte）</td><td style=\"padding: 2px; border: 1px solid;\">46條</td><td style=\"padding: 2px; border: 1px solid;\">出生前所有卵原細胞皆進入第一次減數分裂，停滯於前期（diplotene）</td><td style=\"padding: 2px; border: 1px solid;\">胚胎期開始，停滯至排卵前</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">次級卵母細胞期（secondary oocyte）</td><td style=\"padding: 2px; border: 1px solid;\">23條</td><td style=\"padding: 2px; border: 1px solid;\">受LH surge刺激完成第一次減數分裂，形成次級卵母細胞和第一極體（first polar body），進入第二次減數分裂並停滯於中期（metaphase II）</td><td style=\"padding: 2px; border: 1px solid;\">排卵前完成</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">成熟卵期（ovum）</td><td style=\"padding: 2px; border: 1px solid;\">23條</td><td style=\"padding: 2px; border: 1px solid;\">需受精（fertilization）才完成第二次減數分裂，形成成熟卵（ovum）和第二極體</td><td style=\"padding: 2px; border: 1px solid;\">所有極體最終會退化凋亡，人類第一極體不會進行第二次減數分裂</td></tr></tbody></table>",
+    "explanation": "卵子發生：出生前所有存活的卵原細胞皆已成為初級卵母細胞，並停滯於第一次減數分裂前期（prophase I，diplotene 期），出生後不再有卵原細胞。第一次減數分裂由 LH surge 觸發恢復，於排卵前完成，形成次級卵母細胞與第一極體。次級卵母細胞停滯於中期 II 時排卵，第二次減數分裂須待受精才完成，形成成熟卵與第二極體。濾泡發育：原始濾泡（單層扁平顆粒細胞包圍初級卵母細胞）於胎兒期形成，初級濾泡為單層立方顆粒細胞，原始、初級、次級濾泡的生長不依賴促性腺素，自竇狀濾泡起依賴 FSH。<br>(A) 正確，出生前所有存活的卵原細胞皆已成為初級卵母細胞<br>(B) 錯誤，胎兒期初級卵母細胞與單層扁平顆粒細胞組成的是原始濾泡，不是初級濾泡<br>(C) 錯誤，初級濾泡發育為次級濾泡不依賴促性腺素，自竇狀濾泡起才依賴 FSH<br>(D) 錯誤，排卵時只完成第一次減數分裂，成為次級卵母細胞，第二次減數分裂須待受精才完成",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -952,7 +952,7 @@
       "D": "超音波顯示多囊性卵巢"
     },
     "answer": "C",
-    "explanation": "PCOS的診斷採用2003年鹿特丹標準（Rotterdam criteria），在排除其他疾病後，符合寡排卵或無排卵、高雄性素血症（臨床或生化表現）、超音波多囊性卵巢型態三項中的任兩項即可診斷。<br>(A) 錯誤，寡經或無月經反映排卵功能異常（oligo-ovulation或anovulation），是PCOS的核心特徵，也是鹿特丹診斷標準三項之一<br>(B) 錯誤，血中雄性素過高（如total testosterone、free testosterone、androstenedione升高）或有雄性素過高的臨床表現（如多毛症hirsutism、痤瘡acne、雄性禿），是鹿特丹診斷標準三項之一<br>(C) 正確，胰島素阻抗（insulin resistance）雖然常見於PCOS患者（約50-70%），且與PCOS的病理生理有關，但不是鹿特丹標準的診斷條件。它是PCOS的相關表現與代謝併發症的危險因子<br>(D) 錯誤，超音波顯示多囊性卵巢型態（polycystic ovarian morphology，單側卵巢有12個以上直徑2-9 mm的濾泡，或卵巢體積&gt;10 mL，2018年國際指引在使用高頻探頭時改為單側≥20個濾泡），是鹿特丹診斷標準三項之一",
+    "explanation": "多囊性卵巢症候群（PCOS）採用鹿特丹標準（Rotterdam criteria，2003），符合三項中兩項並排除其他疾病即可診斷：高雄性素血症（臨床或生化表現）、排卵功能障礙（月經稀發或無月經）、多囊性卵巢型態（超音波）或 AMH 升高（2023 年新增）。胰島素阻抗是 PCOS 的病理機轉與代謝異常，高胰島素血症抑制肝臟製造 SHBG，使游離雄性素上升。本題要找不是診斷條件的項目。<br>(A) 是診斷條件，排卵功能障礙（月經稀發或無月經）<br>(B) 是診斷條件，高雄性素血症（臨床或生化表現）<br>(C) 不是診斷條件，胰島素阻抗屬病理機轉與代謝表現，所以是本題答案<br>(D) 是診斷條件，超音波的多囊性卵巢型態",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -969,7 +969,7 @@
       "D": "膀胱下垂的程度（stage）是以C點決定"
     },
     "answer": "A",
-    "explanation": "POP-Q是骨盆器官脫垂的標準化客觀評估系統，於1996年由International Continence Society制定。<br>(A) 正確，POP-Q系統包含9個測量點：6個陰道點為Aa、Ba（前陰道壁）、Ap、Bp（後陰道壁）、C（子宮頸或陰道穹窿）、D（後穹窿，僅有子宮時測量），另3個測量為genital hiatus（生殖裂孔）、perineal body（會陰體）、total vaginal length（總陰道長度）。所有測量都以處女膜（hymen）為參考點（0點）<br>(B) 錯誤，測量系統相反：突出處女膜「外」的點記錄為「正值（+）」，在處女膜「內」的點記錄為「負值（-）」，與處女膜齊平記錄為0<br>(C) 錯誤，子宮頸或陰道頂端（apex）下垂的程度以「C點」決定，而非Aa點。Aa點是用於評估前陰道壁（膀胱）脫垂的點，位於距處女膜3公分的前陰道壁中線<br>(D) 錯誤，膀胱下垂（cystocele）的程度以「Ba點」決定，而非C點。Ba點是前陰道壁最下垂的點（從Aa點到前穹窿之間）。C點代表子宮頸或陰道頂端<br>POP-Q分期（stage）以最下垂點決定：Stage 0 無脫垂，Stage I 最下垂點在處女膜上方超過1 cm（&lt;-1 cm），Stage II 最下垂點在處女膜上下1 cm內（-1至+1 cm），Stage III 最下垂點超出處女膜&gt;1 cm但&lt;總陰道長度-2 cm，Stage IV 完全脫垂（最下垂點≥總陰道長度-2 cm）",
+    "explanation": "POP-Q 以處女膜環為基準點 0，陰道內（未掉出）為負值，陰道外（掉出體外）為正值。九宮格參數包括前壁 Aa 點（相對固定點，正常 -3）與 Ba 點、頂端 C 點（子宮頸最末端）與 D 點（後穹窿）、後壁 Ap 點與 Bp 點，以及長度指標：總陰道長度（TVL）、生殖裂孔（GH）、會陰體（PB）。脫垂分期依最嚴重（最突出）的點數值分期，不是由單一固定點決定。<br>(A) 正確，包含 A、B、C、D 點、生殖裂孔、會陰體與陰道長度<br>(B) 錯誤，掉出處女膜外的點為正值，不是負號<br>(C) 錯誤，Aa 是前壁相對固定點，子宮頸以 C 點記錄，分期依最突出的點決定<br>(D) 錯誤，前壁（膀胱）以 Aa、Ba 點記錄，C 點是子宮頸，分期依最突出的點決定",
     "tags": [
       "112-2-6",
       "婦產科"
@@ -1247,7 +1247,7 @@
       "D": "可能合併顱底骨折"
     },
     "answer": "A",
-    "explanation": "頭部外傷後出現眼球突出和脈動性雜音提示血管異常，需緊急處理。<br>(A) 錯誤，這是最不恰當的敘述。直接型頸動脈-海綿竇瘻管（direct carotid-cavernous fistula, CCF）的治療「不是」放射治療，而是血管內栓塞治療（endovascular embolization）。治療方法包括：經血管內途徑放置可拆式球囊（detachable balloon）或線圈（coils）閉合瘻管，或使用液態栓塞劑。少數病例可能需要開顱手術。放射治療不是CCF的標準治療方式<br>(B) 正確，血管攝影（angiography）是診斷CCF的黃金標準，可清楚顯示瘻管位置和血流動力學。電腦斷層血管攝影（CTA）或磁振血管攝影（MRA）也可用於初步診斷<br>(C) 正確，電腦斷層檢查的典型表現包括：上眼靜脈（superior ophthalmic vein）明顯擴張（因為高壓動脈血逆流入靜脈系統）、眼外肌肥大、眼球突出、海綿竇擴大<br>(D) 正確，直接型CCF常因顱底骨折導致頸內動脈海綿竇段破裂形成。高速車禍、頭部鈍傷等高能量創傷是常見原因<br>直接型CCF的臨床表現包括：眼球突出（proptosis）、結膜充血、眼球搏動、頭部雜音（bruit）、眼球運動障礙、視力下降（因眼壓升高或視神經缺血）",
+    "explanation": "頸動脈海綿竇瘻管（CCF）分直接型與間接型：直接型為高流量，頸內動脈海綿竇段破裂，常因頭部外傷、顱底骨折。表現為搏動性突眼、結膜充血水腫、眼部或頭部血管雜音（bruit）、眼壓上升、視力下降。CT 或 MRI 可見上眼靜脈擴張、眼外肌腫大、海綿竇擴大，腦血管攝影為確診黃金標準，CTA 或 MRA 可作初步診斷。直接型以血管內栓塞（可拆式球囊、線圈）為主要治療。本題要找最不恰當的敘述。<br>(A) 不恰當，直接型 CCF 以血管內栓塞（可拆式球囊、線圈）為主，不是放射治療，所以是本題答案<br>(B) 恰當，腦血管攝影為確診黃金標準，CTA 可作初步診斷<br>(C) 恰當，CT 可見上眼靜脈擴張<br>(D) 恰當，直接型常因頭部外傷、顱底骨折造成",
     "tags": [
       "112-2-6",
       "眼科"
@@ -1289,7 +1289,7 @@
       "D": "barbiturate"
     },
     "answer": "B",
-    "explanation": "急診快速插管（rapid sequence intubation）需選擇適合病人血行動力學狀態的誘導藥物。<br>(A) 錯誤，Midazolam（benzodiazepine）雖可用於插管誘導，但起效較慢、劑量難以預測，且會造成血壓下降，不適合此已有低血壓（86/54 mmHg）的患者<br>(B) 正確，Ketamine是此病人的最佳選擇，原因包括：維持血行動力學穩定，具交感神經興奮作用，可維持或略微升高血壓和心跳，適合低血壓患者。支氣管擴張作用，有助於氣喘病史患者。維持呼吸驅動力，較不會造成呼吸抑制。快速起效。常用劑量為1-2 mg/kg靜脈注射。注意事項包括可能增加分泌物（可預先給atropine）和可能升高顱內壓（但此病人無此顧慮）<br>(C) 錯誤，Propofol會造成明顯的血管擴張和心肌抑制，導致血壓下降，不適合已有休克狀態（血壓86/54 mmHg）的患者，可能造成嚴重低血壓甚至心跳停止<br>(D) 錯誤，Barbiturate（如thiopental）也會造成心肌抑制和血管擴張，導致血壓下降，不適合低血壓患者。且起效雖快但恢復時間長<br>此病人表現為敗血性休克（septic shock，肺炎導致），需要選擇對血壓影響最小或有升壓作用的藥物",
+    "explanation": "靜脈麻醉誘導劑的血行動力學比較：ketamine 交感神經興奮，血壓、心跳與心輸出量上升，適合低血壓、休克病人，且呼吸抑制最少、有支氣管擴張作用，適合氣喘病人。Propofol 與 barbiturates 造成周邊血管擴張與心肌抑制，血壓下降。Midazolam 輕度血壓下降並有呼吸抑制。本題病人血壓 86/54 mmHg、有氣喘病史。<br>(A) 錯誤，midazolam 會使血壓輕度下降，且呼吸抑制，對已低血壓的病人較不適合<br>(B) 正確，ketamine 使血壓、心跳上升，並有支氣管擴張作用，適合低血壓與氣喘病人<br>(C) 錯誤，propofol 周邊血管擴張與心肌抑制，血壓下降明顯<br>(D) 錯誤，barbiturates 周邊血管擴張與心肌抑制，血壓下降，氣喘病人還可能誘發支氣管痙攣",
     "tags": [
       "112-2-6",
       "麻醉科"
