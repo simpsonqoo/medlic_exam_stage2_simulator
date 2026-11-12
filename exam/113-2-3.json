@@ -238,7 +238,10 @@
     "images": [
       "./exam/image/113-2-3-14.jpg"
     ],
-    "group_id": "group_4473"
+    "group_id": "group_4473",
+    "explanation_images": [
+      "./exam/image/113-2-3-14e.jpg"
+    ]
   },
   {
     "id": 1132315,

@@ -154,7 +154,10 @@
       "./exam/image/111-2-3-9-1.jpg",
       "./exam/image/111-2-3-9-2.jpg"
     ],
-    "group_id": "group_4788"
+    "group_id": "group_4788",
+    "explanation_images": [
+      "./exam/image/111-2-3-9e.jpg"
+    ]
   },
   {
     "id": 1112310,
