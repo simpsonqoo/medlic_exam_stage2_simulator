@@ -190,6 +190,12 @@
       "./exam/image/115-2-5-11-2.jpg",
       "./exam/image/115-2-5-11-3.jpg",
       "./exam/image/115-2-5-11-4.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-11-1-ann.webp",
+      "./exam/image/115-2-5-11-2-ann.webp",
+      "./exam/image/115-2-5-11-3-ann.webp",
+      "./exam/image/115-2-5-11-4-ann.webp"
     ]
   },
   {
