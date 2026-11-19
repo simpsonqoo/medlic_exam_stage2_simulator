@@ -646,6 +646,9 @@
     "images": [
       "./exam/image/112-1-3-38.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-1-3-38-ann.webp"
+    ],
     "group_id": "group_4737"
   },
   {

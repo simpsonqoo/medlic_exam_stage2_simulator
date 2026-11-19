@@ -433,6 +433,10 @@
       "./exam/image/111-1-6-25-1.jpg",
       "./exam/image/111-1-6-25-2.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-1-6-25-1-ann.webp",
+      "./exam/image/111-1-6-25-2-ann.webp"
+    ],
     "group_id": "group_11664"
   },
   {
