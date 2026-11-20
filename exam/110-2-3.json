@@ -1273,13 +1273,16 @@
       "D": "最可能診斷為膽囊腺肌症伴隨膽固醇結晶"
     },
     "answer": "A",
-    "explanation": "此題考查超音波影像診斷。箭號所指應為膽囊壁增厚伴隨強回音和後方聲影，符合膽固醇結晶或結石的表現，與Rokitansky-Aschoff憩室（膽囊腺肌症的特徵）有關。<br>(A) 錯誤，Rokitansky-Aschoff憩室是膽囊腺肌症（adenomyomatosis）的病理特徵，膽囊腺肌症常伴隨膽固醇結晶沉積，兩者有關聯<br>(B) 正確，超音波影像顯示強回音病灶伴隨後方聲影（acoustic shadow），是結石或結晶的典型表現<br>(C) 正確，後方聲影的呈現有助於診斷結石或結晶性病變<br>(D) 正確，影像最可能診斷為膽囊腺肌症伴隨膽固醇結晶，呈現壁增厚和結晶沉積",
+    "explanation": "此題考查膽囊腺肌症的超音波判讀。箭號所指為膽囊壁內的高回音點，後方拖出一條 V 形的彗尾假影（comet-tail artifact），來自 Rokitansky-Aschoff sinus（RAS）內沉積的膽固醇結晶，是膽囊腺肌症的特徵，與 RAS 有關。<br>(A) 錯誤，Rokitansky-Aschoff sinus（憩室）是膽囊腺肌症（adenomyomatosis）的病理特徵，彗尾假影正是 RAS 內的膽固醇結晶造成的，兩者有關<br>(B) 正確，高回音點後方伴隨 V 形彗尾假影，屬於殘響（reverberation）假影，不是結石的後方聲影（acoustic shadow）<br>(C) 正確，彗尾假影對膽囊腺肌症特異性高，有助於診斷<br>(D) 正確，膽囊壁內高回音點加上彗尾假影，最可能為膽囊腺肌症伴隨 RAS 內的膽固醇結晶",
     "tags": [
       "110-2-3(三)",
       "肝膽內科"
     ],
     "images": [
           "./exam/image/110-2-3-75.jpg"
+    ],
+    "explanation_images": [
+          "./exam/image/110-2-3-75-ann.webp"
     ],
     "group_id": "group_4934"
   },

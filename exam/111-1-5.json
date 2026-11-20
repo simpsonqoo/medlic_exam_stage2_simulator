@@ -1260,6 +1260,9 @@
     "images": [
       "./exam/image/111-1-5-73.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-1-5-73-ann.webp"
+    ],
     "group_id": "group_9632"
   },
   {
@@ -1279,6 +1282,9 @@
     ],
     "images": [
       "./exam/image/111-1-5-74.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/111-1-5-74-ann.webp"
     ],
     "group_id": "group_9633"
   },
