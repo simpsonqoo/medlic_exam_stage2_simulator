@@ -850,6 +850,9 @@
     "group_id": "group_1152548",
     "images": [
       "./exam/image/115-2-5-49.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-49-ann.webp"
     ]
   },
   {

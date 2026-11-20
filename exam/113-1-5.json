@@ -748,6 +748,9 @@
     "images": [
       "./exam/image/113-1-5-44.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/113-1-5-44-ann.webp"
+    ],
     "group_id": "group_9283"
   },
   {

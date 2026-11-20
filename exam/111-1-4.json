@@ -190,6 +190,9 @@
     "images": [
           "./exam/image/111-1-4-11.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/111-1-4-11-ann.webp"
+    ],
     "group_id": "group_7570"
   },
   {

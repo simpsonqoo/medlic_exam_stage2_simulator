@@ -771,6 +771,9 @@
     "images": [
       "./exam/image/111-2-5-45.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-2-5-45-ann.webp"
+    ],
     "group_id": "group_9524"
   },
   {

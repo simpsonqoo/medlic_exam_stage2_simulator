@@ -839,6 +839,9 @@
     "images": [
       "./exam/image/112-2-5-49.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-2-5-49-ann.webp"
+    ],
     "group_id": "group_9367"
   },
   {
