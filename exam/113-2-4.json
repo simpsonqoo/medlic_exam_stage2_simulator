@@ -777,6 +777,11 @@
     "images": [
       "./exam/image/113-2-4-45.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/113-2-4-45-1-ann.webp",
+      "./exam/image/113-2-4-45-2-ann.webp",
+      "./exam/image/113-2-4-45-3-ann.webp"
+    ],
     "group_id": "group_7204"
   },
   {

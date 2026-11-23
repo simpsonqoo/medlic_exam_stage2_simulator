@@ -1276,6 +1276,10 @@
     "images": [
       "./exam/image/115-2-4-74.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/115-2-4-74-1-ann.webp",
+      "./exam/image/115-2-4-74-2-ann.webp"
+    ],
     "group_id": "group_1152473"
   },
   {

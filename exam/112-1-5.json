@@ -153,6 +153,10 @@
     "images": [
       "./exam/image/112-1-5-9.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-1-5-9-1-ann.webp",
+      "./exam/image/112-1-5-9-2-ann.webp"
+    ],
     "group_id": "group_9408"
   },
   {
