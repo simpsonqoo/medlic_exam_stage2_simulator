@@ -145,7 +145,7 @@
       "D": "肺動脈栓塞症"
     },
     "answer": "D",
-    "explanation": "此題需整合病史（肥胖、長期心悸）、生命徵象（心跳141次、呼吸28次）、抽血（D-dimer極高達20 mg/L FEU、NT Pro-BNP升高、輕度Troponin T上升）來找出最符合的診斷。<br>(A) 錯誤，急性心肌炎（acute myocarditis）可有心搏過速與Troponin升高，但D-dimer如此顯著升高不符合典型表現，且心肌炎較少以長期心悸病史為前驅<br>(B) 錯誤，高血壓心臟病（hypertensive heart disease）血壓應明顯升高，但此病人血壓為126/72 mmHg，不支持此診斷<br>(C) 錯誤，肥厚性心肌病（hypertrophic cardiomyopathy）雖可有心悸，但D-dimer極度升高無法以此疾病解釋<br>(D) 正確，肥胖（BMI 41）、長期心悸（可能為慢性心房顫動）、D-dimer顯著升高（20 mg/L）、NT Pro-BNP升高、呼吸困難及輕微下肢水腫，最符合肺動脈栓塞症（pulmonary embolism）的臨床表現。附圖心電圖為竇性心搏過速，電腦斷層可見肺動脈內充填缺損，為診斷依據，NT Pro-BNP 與 Troponin T 升高代表右心室受損",
+    "explanation": "此題需整合病史（肥胖、長期心悸）、生命徵象（心跳141次、呼吸28次）、抽血（D-dimer極高達20 mg/L FEU、NT Pro-BNP升高、輕度Troponin T上升）來找出最符合的診斷。<br>(A) 錯誤，急性心肌炎（acute myocarditis）可有心搏過速與Troponin升高，但D-dimer如此顯著升高不符合典型表現，且心肌炎較少以長期心悸病史為前驅<br>(B) 錯誤，高血壓心臟病（hypertensive heart disease）血壓應明顯升高，但此病人血壓為126/72 mmHg，不支持此診斷<br>(C) 錯誤，肥厚性心肌病（hypertrophic cardiomyopathy）雖可有心悸，但D-dimer極度升高無法以此疾病解釋<br>(D) 正確，肥胖（BMI 41）、長期心悸（可能為慢性心房顫動）、D-dimer顯著升高（20 mg/L）、NT Pro-BNP升高、呼吸困難及輕微下肢水腫，最符合肺動脈栓塞症（pulmonary embolism）的臨床表現。附圖心電圖為窄 QRS 心搏過速，R-R 間隔不規則、看不到一致的 P 波，較符合心房顫動，電腦斷層可見右肺動脈內充填缺損，為診斷依據，NT Pro-BNP 與 Troponin T 升高代表右心室受損",
     "tags": [
       "115-1-3",
       "胸腔內科"
@@ -154,6 +154,10 @@
           "./exam/image/115-1-3-9-1.jpg",
           "./exam/image/115-1-3-9-2.jpg",
           "./exam/image/115-1-3-9-3.jpg"
+    ],
+    "explanation_images": [
+          "./exam/image/115-1-3-9-2-ann.webp",
+          "./exam/image/115-1-3-9-3-ann.webp"
     ],
     "group_id": "group_1151308"
   },

@@ -1040,6 +1040,9 @@
     "images": [
           "./exam/image/110-2-3-61.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/110-2-3-61-ann.webp"
+    ],
     "group_id": "group_4920"
   },
   {

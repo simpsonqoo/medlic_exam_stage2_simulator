@@ -998,6 +998,9 @@
     "images": [
       "./exam/image/110-1-3-58.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/110-1-3-58-ann.webp"
+    ],
     "group_id": "group_4997"
   },
   {

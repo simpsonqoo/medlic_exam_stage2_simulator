@@ -1250,6 +1250,10 @@
     "images": [
       "./exam/image/110-1-5-73.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/110-1-5-73-1-ann.webp",
+      "./exam/image/110-1-5-73-2-ann.webp"
+    ],
     "group_id": "group_9792"
   },
   {
