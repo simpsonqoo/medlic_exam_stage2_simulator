@@ -884,6 +884,9 @@
     "images": [
       "./exam/image/115-1-4-51.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/115-1-4-51-ann.webp"
+    ],
     "group_id": "group_1151450"
   },
   {
