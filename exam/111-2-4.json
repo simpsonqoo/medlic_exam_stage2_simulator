@@ -891,6 +891,9 @@
     "images": [
       "./exam/image/111-2-4-51.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-2-4-51-ann.webp"
+    ],
     "group_id": "group_7530"
   },
   {
