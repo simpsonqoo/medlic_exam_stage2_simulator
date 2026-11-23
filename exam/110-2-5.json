@@ -327,6 +327,9 @@
     "images": [
       "./exam/image/110-2-5-19.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/110-2-5-19-ann.webp"
+    ],
     "group_id": "group_9658"
   },
   {

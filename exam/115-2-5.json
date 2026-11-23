@@ -523,6 +523,9 @@
     "group_id": "group_1152529",
     "images": [
       "./exam/image/115-2-5-30.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-30-ann.webp"
     ]
   },
   {

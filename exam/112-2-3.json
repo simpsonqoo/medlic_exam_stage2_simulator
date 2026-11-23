@@ -137,6 +137,9 @@
       "./exam/image/112-2-3-8-1.jpg",
       "./exam/image/112-2-3-8-2.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-2-3-8-1-ann.webp"
+    ],
     "group_id": "group_4627"
   },
   {
@@ -156,6 +159,9 @@
     ],
     "images": [
       "./exam/image/112-2-3-9.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/112-2-3-9-ann.webp"
     ],
     "group_id": "group_4628"
   },

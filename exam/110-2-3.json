@@ -170,6 +170,9 @@
     "images": [
           "./exam/image/110-2-3-10.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/110-2-3-10-ann.webp"
+    ],
     "group_id": "group_4869"
   },
   {

@@ -119,6 +119,9 @@
     "images": [
       "./exam/image/112-1-4-7.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-1-4-7-ann.webp"
+    ],
     "group_id": "group_7406"
   },
   {
