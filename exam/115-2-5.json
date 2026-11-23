@@ -995,6 +995,9 @@
     "group_id": "group_1152556",
     "images": [
       "./exam/image/115-2-5-57.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-57-ann.webp"
     ]
   },
   {
@@ -1253,6 +1256,9 @@
     "group_id": "group_1152571",
     "images": [
       "./exam/image/115-2-5-72.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-72-ann.webp"
     ]
   },
   {
