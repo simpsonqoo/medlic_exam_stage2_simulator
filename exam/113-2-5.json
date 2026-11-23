@@ -1279,6 +1279,9 @@
     "images": [
       "./exam/image/113-2-5-74.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/113-2-5-74-ann.webp"
+    ],
     "explanation_image": [
       "./exam/image/113-2-5-74e.jpg"
     ],

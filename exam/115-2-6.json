@@ -1251,6 +1251,10 @@
     "images": [
       "./exam/image/115-2-6-72-1.jpg",
       "./exam/image/115-2-6-72-2.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-72-1-ann.webp",
+      "./exam/image/115-2-6-72-2-ann.webp"
     ]
   },
   {
@@ -1273,6 +1277,11 @@
       "./exam/image/115-2-6-73-1.jpg",
       "./exam/image/115-2-6-73-2.jpg",
       "./exam/image/115-2-6-73-3.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-73-1-ann.webp",
+      "./exam/image/115-2-6-73-2-ann.webp",
+      "./exam/image/115-2-6-73-3-ann.webp"
     ]
   },
   {

@@ -1277,6 +1277,9 @@
     "images": [
       "./exam/image/112-2-4-74.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/112-2-4-74-ann.webp"
+    ],
     "group_id": "group_7393"
   },
   {
