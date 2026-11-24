@@ -1222,13 +1222,16 @@
       "D": "renal angiomyolipoma"
     },
     "answer": "D",
-    "explanation": "腎臟腫瘤的影像學診斷需依據特定影像特徵（尤其是脂肪訊號）鑑別良惡性腫瘤。本題增強電腦斷層中腎皮質病灶的密度與腎周脂肪、皮下脂肪相同（低密度近黑色），代表病灶含有肉眼可見的脂肪。<br>(A) 錯誤，腎細胞癌（renal cell carcinoma）在CT或超音波上通常表現為強化的實質性腫塊，無明顯脂肪成分，無法解釋含脂肪的影像特徵<br>(B) 錯誤，腎臟淋巴瘤（renal lymphoma）通常表現為多發性低密度病灶或腎臟瀰漫性腫大，不含脂肪成分<br>(C) 錯誤，腎臟尿路上皮癌（renal urothelial carcinoma）好發於腎盂，表現為腎盂腔內腫塊或腎盂壁增厚，並不含脂肪<br>(D) 正確，腎臟血管肌肉脂肪瘤（renal angiomyolipoma, AML）是含有血管（angio）、平滑肌（myo）和脂肪（lipoma）三種成分的良性腫瘤，CT上可見低密度脂肪訊號（Hounsfield unit &lt; -10 HU）是其特徵性診斷依據。約 20% 合併結節性硬化症（tuberous sclerosis），此類病人的腫瘤多發且雙側，多發雙側時應排查此症",
+    "explanation": "腎臟腫瘤的影像學診斷需依據特定影像特徵（尤其是脂肪訊號）鑑別良惡性腫瘤。本題增強電腦斷層中左腎外側皮質病灶呈不均勻低密度，比腎實質黑得多，內有接近腎周脂肪的偏黑區域，提示病灶含有肉眼可見的脂肪。<br>(A) 錯誤，腎細胞癌（renal cell carcinoma）在CT或超音波上通常表現為強化的實質性腫塊，無明顯脂肪成分，無法解釋含脂肪的影像特徵<br>(B) 錯誤，腎臟淋巴瘤（renal lymphoma）通常表現為多發性低密度病灶或腎臟瀰漫性腫大，不含脂肪成分<br>(C) 錯誤，腎臟尿路上皮癌（renal urothelial carcinoma）好發於腎盂，表現為腎盂腔內腫塊或腎盂壁增厚，並不含脂肪<br>(D) 正確，腎臟血管肌肉脂肪瘤（renal angiomyolipoma, AML）是含有血管（angio）、平滑肌（myo）和脂肪（lipoma）三種成分的良性腫瘤，CT上可見低密度脂肪訊號（Hounsfield unit &lt; -10 HU）是其特徵性診斷依據。約 20% 合併結節性硬化症（tuberous sclerosis），此類病人的腫瘤多發且雙側，多發雙側時應排查此症",
     "tags": [
       "110-1-5",
       "泌尿外科"
     ],
     "images": [
       "./exam/image/110-1-5-72.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/110-1-5-72-ann.webp"
     ],
     "group_id": "group_9791"
   },

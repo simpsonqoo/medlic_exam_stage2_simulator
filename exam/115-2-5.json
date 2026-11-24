@@ -1279,6 +1279,9 @@
     "group_id": "group_1152572",
     "images": [
       "./exam/image/115-2-5-73.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-5-73-ann.webp"
     ]
   },
   {

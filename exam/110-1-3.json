@@ -720,6 +720,9 @@
     "images": [
       "./exam/image/110-1-3-42.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/110-1-3-42-ann.webp"
+    ],
     "group_id": "group_4981"
   },
   {
@@ -739,6 +742,9 @@
     ],
     "images": [
       "./exam/image/110-1-3-43.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/110-1-3-43-ann.webp"
     ],
     "group_id": "group_4982"
   },

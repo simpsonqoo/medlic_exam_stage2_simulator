@@ -518,6 +518,9 @@
     "images": [
       "./exam/image/115-2-3-30.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/115-2-3-30-ann.webp"
+    ],
     "group_id": "group_1152329"
   },
   {
