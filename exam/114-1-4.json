@@ -460,6 +460,9 @@
     "images": [
           "./exam/image/114-1-4-26.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/114-1-4-26-ann.webp"
+    ],
     "group_id": "group_7105"
   },
   {

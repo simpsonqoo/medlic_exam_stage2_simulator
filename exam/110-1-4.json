@@ -51,6 +51,9 @@
     "images": [
       "./exam/image/110-1-4-3.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/110-1-4-3-ann.webp"
+    ],
     "group_id": "group_7722"
   },
   {

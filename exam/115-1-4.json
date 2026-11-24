@@ -43,13 +43,16 @@
       "D": "圖中位置④"
     },
     "answer": "C",
-    "explanation": "真空吸引（vacuum extraction）分娩後頭圍增加合併血壓低、心跳快、膚色蒼白，提示大量急性出血，需判斷出血位置層次，帽狀腱膜下出血（subgaleal hemorrhage）位於帽狀腱膜（galea aponeurotica）與骨膜之間，是可造成大量出血的空間。<br>(A) 錯誤，位置①通常對應頭皮（scalp）層，出血量有限<br>(B) 錯誤，位置②通常對應頭皮下組織，出血量有限<br>(C) 正確，位置③對應帽狀腱膜下層（subgaleal space），此空間廣大，可容納大量血液，真空吸引最易造成此處大量出血，可危及生命<br>(D) 錯誤，位置④通常對應骨膜下層（subperiosteal），即頭血瘤（cephalhematoma），受骨縫限制，出血量有限",
+    "explanation": "真空吸引（vacuum extraction）分娩後頭圍增加合併血壓低、心跳快、膚色蒼白，提示大量急性出血，需判斷出血位置層次，帽狀腱膜下出血（subgaleal hemorrhage）位於帽狀腱膜（galea aponeurotica）與骨膜之間，是可造成大量出血的空間。<br>(A) 錯誤，位置①緊貼顱骨並止於骨縫，位於骨膜與顱骨之間（骨膜下），為胎頭血腫（cephalohematoma），受骨縫限制，出血量有限。<br>(B) 錯誤，位置②位於帽狀腱膜之上的皮下結締組織，為產瘤（caput succedaneum），屬頭皮下水腫，不會造成大量出血。<br>(C) 正確，位置③位於帽狀腱膜與骨膜之間（帽狀腱膜下層，subgaleal space），可跨越骨縫、範圍廣大，可容納大量血液，真空吸引最易造成此處大量出血，可危及生命。<br>(D) 錯誤，位置④位於顱骨與硬腦膜之間，為硬腦膜外出血（epidural hemorrhage），屬顱內出血，新生兒很少見，可由顱骨骨折造成。",
     "tags": [
       "115-1-4",
       "小兒科"
     ],
     "images": [
       "./exam/image/115-1-4-3.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-1-4-3-ann.webp"
     ],
     "group_id": "group_1151402"
   },
