@@ -1259,8 +1259,9 @@
     "images": [
       "./exam/image/113-2-6-73.jpg"
     ],
-    "explanation_image": [
-      "./exam/image/113-2-6-73e.jpg"
+    "explanation_images": [
+      "./exam/image/113-2-6-73-1-ann.webp",
+      "./exam/image/113-2-6-73-2-ann.webp"
     ],
     "group_id": "group_11232"
   },

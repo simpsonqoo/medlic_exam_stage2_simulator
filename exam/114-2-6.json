@@ -817,7 +817,7 @@
           "./exam/image/114-2-6-48.jpg"
     ],
     "explanation_images": [
-          "./exam/image/114-2-6-48-e.jpg"
+          "./exam/image/114-2-6-48-ann.webp"
     ],
     "group_id": "group_11047"
   },
@@ -1273,7 +1273,8 @@
           "./exam/image/114-2-6-74.jpg"
     ],
     "explanation_images": [
-          "./exam/image/114-2-6-74e-mri.jpg"
+          "./exam/image/114-2-6-74-1-ann.webp",
+          "./exam/image/114-2-6-74-2-ann.webp"
     ],
     "group_id": "group_11073"
   },

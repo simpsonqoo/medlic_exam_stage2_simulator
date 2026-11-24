@@ -812,7 +812,7 @@
       "./exam/image/115-1-6-47.jpg"
     ],
     "explanation_images": [
-      "./exam/image/115-1-6-47e.jpg"
+      "./exam/image/115-1-6-47-ann.webp"
     ],
     "group_id": "group_1151646"
   },
@@ -1281,6 +1281,9 @@
     ],
     "images": [
       "./exam/image/115-1-6-74.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-1-6-74-ann.webp"
     ],
     "group_id": "group_1151673"
   },

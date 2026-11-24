@@ -688,7 +688,7 @@
           "./exam/image/114-1-6-40.jpg"
     ],
     "explanation_images": [
-          "./exam/image/114-1-6-40e.jpg"
+          "./exam/image/114-1-6-40-ann.webp"
     ],
     "group_id": "group_11119"
   },
@@ -1261,7 +1261,8 @@
           "./exam/image/114-1-6-73.jpg"
     ],
     "explanation_images": [
-          "./exam/image/114-1-6-73e.jpg"
+          "./exam/image/114-1-6-73-1-ann.webp",
+          "./exam/image/114-1-6-73-2-ann.webp"
     ],
     "group_id": "group_11152"
   },
