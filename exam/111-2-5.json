@@ -703,6 +703,9 @@
     "images": [
       "./exam/image/111-2-5-41.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-2-5-41-ann.webp"
+    ],
     "group_id": "group_9520"
   },
   {

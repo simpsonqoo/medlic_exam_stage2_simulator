@@ -408,6 +408,9 @@
     "images": [
           "./exam/image/110-1-6-24.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/110-1-6-24-ann.webp"
+    ],
     "group_id": "group_11743"
   },
   {

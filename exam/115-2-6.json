@@ -170,6 +170,9 @@
     "group_id": "group_1152609",
     "images": [
       "./exam/image/115-2-6-10.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-10-ann.webp"
     ]
   },
   {
@@ -326,6 +329,9 @@
     "group_id": "group_1152618",
     "images": [
       "./exam/image/115-2-6-19.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-19-ann.webp"
     ]
   },
   {
@@ -432,6 +438,9 @@
     "group_id": "group_1152624",
     "images": [
       "./exam/image/115-2-6-25.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/115-2-6-25-ann.webp"
     ]
   },
   {
