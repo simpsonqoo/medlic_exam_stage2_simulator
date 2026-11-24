@@ -654,6 +654,10 @@
     "images": [
       "./exam/image/115-1-4-38.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/115-1-4-38-1-ann.webp",
+      "./exam/image/115-1-4-38-2-ann.webp"
+    ],
     "group_id": "group_1151437"
   },
   {

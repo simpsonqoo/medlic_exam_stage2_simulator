@@ -636,6 +636,10 @@
       "./exam/image/111-2-4-37-1.jpg",
       "./exam/image/111-2-4-37-2.jpg"
     ],
+    "explanation_images": [
+      "./exam/image/111-2-4-37-1-ann.webp",
+      "./exam/image/111-2-4-37-2-ann.webp"
+    ],
     "group_id": "group_7516"
   },
   {
@@ -656,6 +660,10 @@
     "images": [
       "./exam/image/111-2-4-38-1.jpg",
       "./exam/image/111-2-4-38-2.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/111-2-4-38-1-ann.webp",
+      "./exam/image/111-2-4-38-2-ann.webp"
     ],
     "group_id": "group_7517"
   },
@@ -744,6 +752,9 @@
     ],
     "images": [
       "./exam/image/111-2-4-43.jpg"
+    ],
+    "explanation_images": [
+      "./exam/image/111-2-4-43-ann.webp"
     ],
     "group_id": "group_7522"
   },

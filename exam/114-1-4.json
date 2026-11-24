@@ -707,6 +707,10 @@
     "images": [
           "./exam/image/114-1-4-40.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/114-1-4-40-1-ann.webp",
+          "./exam/image/114-1-4-40-2-ann.webp"
+    ],
     "group_id": "group_7119"
   },
   {

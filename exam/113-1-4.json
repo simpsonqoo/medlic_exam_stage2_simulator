@@ -700,6 +700,9 @@
     "images": [
           "./exam/image/113-1-4-41.jpg"
     ],
+    "explanation_images": [
+          "./exam/image/113-1-4-41-ann.webp"
+    ],
     "group_id": "group_7280"
   },
   {
